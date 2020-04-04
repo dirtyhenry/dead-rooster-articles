@@ -12,6 +12,7 @@ description: >
   Quelles conclusions tirer de la lecture de Kif, de Laurent Chalumeau, sur
   notre relation à Michel Sardou ? Dead Rooster a mené l'enquête, bancale et
   musicale, comme d'habitude.
+lead-paragraph: true
 ---
 
 ![Dans Almost Famous, Lester Bangs fait le bilan]({{ page.cover }})
@@ -22,7 +23,7 @@ co-signé celles de
 [_Le Temps des Colonies_](http://www.paroles.net/michel-sardou/paroles-le-temps-des-colonies)
 donc bien sûr, le mec part avec des dossiers. Mais est-il intellectuellement
 honnête de s'arrêter là ? Ce début d'année sème le doute... Faut-il sauver
-Michel Sardou ? {: .lead}
+Michel Sardou ?
 
 ## Je ne m'enfuis pas, je vole
 

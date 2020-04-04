@@ -7,13 +7,14 @@ tags: musique top
 cover: /assets/images/top-musique-2014.png
 description: >
   Dead Rooster donne ses médailles à l'occasion d'un comeback complètement 2.0 !
+lead-paragraph: true
 ---
 
 ![Le podium, celui des champions]({{ page.cover }})
 
 C’est janvier, ça fait longtemps qu’on ne l’a pas fait mais ne serait-ce pas le
 temps de faire un petit Top musical de l'année passée, [comme au bon vieux
-temps][top-2011] ? {: .lead}
+temps][top-2011] ?
 
 ## Le Top
 

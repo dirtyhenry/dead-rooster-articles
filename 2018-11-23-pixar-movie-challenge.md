@@ -8,11 +8,11 @@ tags:
 description: >
   Les films de Pixar sont tous excellents. Mais regarder trop de Pixar dans un
   court intervalle est-il bon pour la stabilité émotionnelle du spectateur ?
+lead-paragraph: true
 ---
 
 Les films de Pixar sont tous excellents. Mais regarder trop de Pixar dans un
-court intervalle est-il bon pour la stabilité émotionnelle du spectateur ? {:
-.lead}
+court intervalle est-il bon pour la stabilité émotionnelle du spectateur ?
 
 Un vol de huit bonnes heures en avion est toujours l’occasion d’un visionnage
 boulimique de films. Il est plutôt rare de s’y retrouver devant _Casablanca_ ou
