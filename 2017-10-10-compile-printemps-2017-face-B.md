@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Un Printemps 2017, face B"
-date: 2017-10-10 08:00:00
 authors:
   - Joe Gantdelaine
 tags:
@@ -9,7 +8,6 @@ tags:
 cover: https://s3-eu-west-1.amazonaws.com/org.deadrooster.blog/Un+Printemps+2017-face+B.jpg
 description: >
   Où on cause toons et tunes.
-uuid: B98EC352-46B5-4A8D-8262-E992DFB4152A
 ---
 
 ![Un Printemps 2017, face B]({{ page.cover }})

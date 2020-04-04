@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Un Automne 2016"
-date: 2017-01-10 10:00:00
 authors:
   - Dirty Henry
   - Joe Gantdelaine
@@ -13,7 +12,6 @@ description: >
   mieux. Parce que les Inrocks ne font plus le boulot correctement. Parce que
   nos valeurs sont découverte, prospection, patrimoine et frites. Dead Rooster
   présente... Un Automne 2016.
-uuid: 9D311812-5275-4204-8E6B-17813076EEF2
 ---
 
 ![Un Automne 2016]({{ page.cover }})

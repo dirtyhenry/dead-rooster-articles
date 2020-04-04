@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Un Printemps 2017"
-date: 2017-09-27 12:00:00
 authors:
   - Dirty Henry
 tags:
@@ -10,7 +9,6 @@ cover: https://s3-eu-west-1.amazonaws.com/org.deadrooster.blog/Un+Printemps+2017
 description: >
   Ou Joe Dassin rend hommage à Hugo, et Marcel Proust s'en prend plein la
   gueule. Dead Rooster présente... Un Printemps 2017.
-uuid: A7413F29-8620-4B48-9C7E-BD2AD6E507F8
 ---
 
 ![Un Printemps 2017]({{ page.cover }})

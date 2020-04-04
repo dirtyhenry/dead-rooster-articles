@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "L'Éducation Musimentale"
-date: 2015-03-19 10:00:00
 authors:
   - Joe Gantdelaine
 tags: musique
@@ -9,7 +8,6 @@ cover: /assets/images/education-musimentale.png
 description: >
   Joe Gantdelaine vous présente sa famille musicale. Il en est fier souvent et
   honteux parfois.
-uuid: 1C593071-26EC-4900-A6BB-D06FEE5D8D7F
 ---
 
 ![Dans Almost Famous, Lester Bangs fait le bilan]({{ page.cover }})

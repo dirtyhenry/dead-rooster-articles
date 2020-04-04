@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Faut-il Sauver Michel Sardou ?"
-date: 2015-05-09 10:00:00
 authors:
   - Dirty Henry
 tags:
@@ -13,7 +12,6 @@ description: >
   Quelles conclusions tirer de la lecture de Kif, de Laurent Chalumeau, sur
   notre relation à Michel Sardou ? Dead Rooster a mené l'enquête, bancale et
   musicale, comme d'habitude.
-uuid: 1CBA2832-A6CF-4F91-B688-18A98B9B9792
 ---
 
 ![Dans Almost Famous, Lester Bangs fait le bilan]({{ page.cover }})

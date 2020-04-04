@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Bruce Springsteen"
-date: 2016-04-27 10:00:00
 authors:
   - Joe Gantdelaine
 tags:
@@ -12,7 +11,6 @@ description: >
   du Rock and Roll. La faute à l'illustration : un lion dans son milieu naturel
   ? Trop facile ! Un gros plan d'un fromage frais de Provence ? Bof ! Après des
   mois de labeur,  la voila, la seule, l'unique photo où Bruce lit.
-uuid: 7CCE50D3-3A22-4035-BD59-6637EF556146
 ---
 
 ![Brousse lit]({{ page.cover }})

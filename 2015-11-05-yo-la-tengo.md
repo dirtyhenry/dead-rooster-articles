@@ -1,13 +1,11 @@
 ---
 layout: post
 title: "Yo La Retengo"
-date: 2015-11-06 10:00:00
 authors:
   - Joe Gantdelaine
 cover: https://s3-eu-west-1.amazonaws.com/org.deadrooster.blog/yolatengo.jpg
 description: >
   Récit du concert depuis un fauteuil ultra confortable
-uuid: E9101D76-A753-47E6-9F03-67CCB3FA9B8A
 ---
 
 ![Petit déjeuner pénard]({{ page.cover }})
@@ -24,10 +22,10 @@ bien faire la sieste !).
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/jJwTSTlpsak" frameborder="0"></iframe>  
 </div>
 
-Nous voici donc au concert après une journée sans sieste (dur&nbsp;!). Arrivé
-dans la salle, on réalise qu'on assistera à un concert assis dans des fauteuils
-(mous&nbsp;!). Parfait ! On se met à l'aise. On n'est pas les seuls : la fille
-du premier rang est venue en runnings New Balance, qu'elle exhibe fièrement en
+Nous voici donc au concert après une journée sans sieste (dur !). Arrivé dans la
+salle, on réalise qu'on assistera à un concert assis dans des fauteuils
+(mous !). Parfait ! On se met à l'aise. On n'est pas les seuls : la fille du
+premier rang est venue en runnings New Balance, qu'elle exhibe fièrement en
 posant les pieds tranquillou sur la scène. Encore plus à son aise, un type du
 3ème rang a carrément retiré ses godasses. On admire alors la blancheur
 impeccable de ses chaussettes de tennis. Bref, on est bien, c'est vendredi et

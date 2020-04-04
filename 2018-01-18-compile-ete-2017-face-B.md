@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Un Été 2017, face B"
-date: 2018-01-18 15:00:00
 authors:
   - Dirty Henry
 tags:
@@ -11,7 +10,6 @@ description: >
   Où je suis un vieux con qui arrête les conneries pour de bon. La vie est trop
   courte pour écouter Solange ou Vianney. Il vaut mieux ré-écouter du Sinéad ou
   se délecter d'un bon vieux jambon-beurre.
-uuid: 956E6C97-E2FA-4EFE-AA65-158F0721D047
 ---
 
 ![Un Été 2017, face B]({{ page.cover }})

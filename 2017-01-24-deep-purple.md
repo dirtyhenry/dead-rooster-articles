@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Deep Purple"
-date: 2017-01-24 10:00:00
 authors:
   - Joe Gantdelaine
 tags:
@@ -9,7 +8,6 @@ tags:
 cover: https://s3-eu-west-1.amazonaws.com/org.deadrooster.blog/deep-purple-smoke-water.jpg
 description: >
   Pouin-pouin-pouin Pouin-pouin'pouin-pouin Pouin-pouin-pouin Pouin-pouiiiiin
-uuid: 3588ECB4-8146-493B-8425-23F766269F35
 ---
 
 ![Deep Purple]({{ page.cover }})

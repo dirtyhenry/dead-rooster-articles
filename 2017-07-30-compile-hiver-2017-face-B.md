@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Un Hiver 2017, face B"
-date: 2017-07-30 08:00:00
 authors:
   - Dirty Henry
 tags:
@@ -10,7 +9,6 @@ cover: https://s3-eu-west-1.amazonaws.com/org.deadrooster.blog/Un-Hiver-2017-fac
 description: >
   Parce que 2 faces valent mieux qu'une. Dead Rooster présente... Un Hiver 2017,
   la face B.
-uuid: 9D311812-5275-4204-8E6B-17813076EEF2
 ---
 
 ![Un Hiver 2017, face B]({{ page.cover }})

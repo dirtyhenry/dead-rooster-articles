@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "The Pixar Movie Challenge"
-date: 2018-11-23 15:00:00
 authors:
   - Dirty Henry
 tags:
@@ -9,7 +8,6 @@ tags:
 description: >
   Les films de Pixar sont tous excellents. Mais regarder trop de Pixar dans un
   court intervalle est-il bon pour la stabilité émotionnelle du spectateur ?
-uuid: A53BD5B1-4784-4E67-AD9E-D2AA65F85C02
 ---
 
 Les films de Pixar sont tous excellents. Mais regarder trop de Pixar dans un

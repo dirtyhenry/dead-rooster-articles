@@ -1,28 +1,26 @@
 ---
 layout: post
 title: "La Playlist du Top Musique 2014"
-date: 2015-01-21 10:00:00
 authors:
   - Dirty Henry
 tags: musique top
 cover: /assets/images/top-musique-2014.png
 description: >
   Dead Rooster donne ses médailles à l'occasion d'un comeback complètement 2.0 !
-uuid: 874D93B2-537C-44CA-8C50-5A1911AE08B7
 ---
 
 ![Le podium, celui des champions]({{ page.cover }})
 
 C’est janvier, ça fait longtemps qu’on ne l’a pas fait mais ne serait-ce pas le
 temps de faire un petit Top musical de l'année passée, [comme au bon vieux
-temps][top-2011]&nbsp;? {: .lead}
+temps][top-2011] ? {: .lead}
 
 ## Le Top
 
 - Prix **_vieux con_** du mec qui n'a pas assez écouté de disques de 2014 cette
-  année&nbsp;: moi
+  année : moi
 - Prix **_remise en selle_** de ceux qui vont aider à y remédier l'année
-  prochaine&nbsp;: [_Magic_][magicrpm] et [le podcast de _Label
+  prochaine : [_Magic_][magicrpm] et [le podcast de _Label
   Pop_][labelpop-podcast]
 
 ## La Playlist
@@ -84,13 +82,13 @@ Ils promettent un EP pour bientôt, financé en crowdfunding. À surveiller.
 ### Les Poppys
 
 Tout le monde connaît la fin d'[_Un Jour en France_ de Noir
-Désir][clip-un-jour-en-france], mais qui connaît bien la référence qui va
-avec&nbsp;? Adorablement _akward_, mi-litant mi-gnon, on ne s'en lasse pas.
+Désir][clip-un-jour-en-france], mais qui connaît bien la référence qui va avec ?
+Adorablement _akward_, mi-litant mi-gnon, on ne s'en lasse pas.
 
 > De temps en temps, on peut bien rire entre voisins  
 > Voisins de terre
 
-Quoi de plus rafraîchissant que ces douces paroles&nbsp;? Surtout en ces temps
+Quoi de plus rafraîchissant que ces douces paroles ? Surtout en ces temps
 difficiles, [à bon entendeur, je ne fais pas de
 politique][merci-le-foot-a-bon-entendeur], etc.
 

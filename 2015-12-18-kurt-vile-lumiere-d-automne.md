@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Vile, Lumière d’Automne"
-date: 2015-12-18 12:00:00
 authors:
   - Joe Gantdelaine
 cover: https://s3-eu-west-1.amazonaws.com/org.deadrooster.blog/kurt-vile.jpg
@@ -9,7 +8,6 @@ description: >
   Sur la route, tu peux lire Kerouac ou écouter Gérald. On The Road Again, tu
   peux passer du Lavilliers ou du Canned Head. Mais sur la D922, Kurt Vile, ça
   passe trop bien !
-uuid: 1C297338-432B-4EE0-8E81-D64BA38FA8D1
 ---
 
 ![Sur la D922, Kurt Vile, ça passe trop bien !]({{ page.cover }})

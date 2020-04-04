@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Un Automne 2017"
-date: 2018-02-27 15:00:00
 authors:
   - Joe Gantdelaine
 tags:
@@ -10,7 +9,6 @@ cover: https://s3-eu-west-1.amazonaws.com/org.deadrooster.blog/Un+Automne+2017.j
 description: >
   Pour vulgariser ce post : Dead Rooster vous apporte la lumière dans des sortes
   de callebasses.
-uuid: FBD8983D-7896-460B-A13D-3589C89963BA
 ---
 
 ![Un Automne 2017]({{ page.cover }})
