@@ -8,11 +8,11 @@ tags:
 description: >
   Les films de Pixar sont tous excellents. Mais regarder trop de Pixar dans un
   court intervalle est-il bon pour la stabilité émotionnelle du spectateur ?
+lead-paragraph: true
 ---
 
 Les films de Pixar sont tous excellents. Mais regarder trop de Pixar dans un
-court intervalle est-il bon pour la stabilité émotionnelle du spectateur ? {:
-.lead}
+court intervalle est-il bon pour la stabilité émotionnelle du spectateur ?
 
 Un vol de huit bonnes heures en avion est toujours l’occasion d’un visionnage
 boulimique de films. Il est plutôt rare de s’y retrouver devant _Casablanca_ ou
@@ -47,7 +47,7 @@ J'appellerai ce défi : **The Pixar Movie Challenge** !
 
 ## _Inside Out_, que la boule se forme
 
-![inside-out](/assets/images/inside-out.jpg)
+{% asset inside-out.jpg %}
 
 Dans _Inside Out_ (_Vice-versa_ en VF), Riley, une jeune pré-ado vit mal le
 déménagement de sa famille. Quittant le paisible Minnesota pour la folie urbaine
@@ -63,9 +63,7 @@ forme.
 
 ## _Coco_, que la boule remonte
 
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ImutnoiBixY" frameborder="0"></iframe>
-</div>
+{% youtube ImutnoiBixY %}
 
 Avec _Coco_, on passe au cran au-dessus. L'histoire est quand même celle d'un
 enfant mourant qui cherche son arrière-arrière-grand-père — déjà mort, lui —
@@ -80,9 +78,7 @@ devra assumer le diagnostic de syndrôme d'Asperger.
 
 ## _Daddy's Home 2_, que la boule devienne tsunami
 
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/p8shgJX14HQ" frameborder="0"></iframe>
-</div>
+{% youtube p8shgJX14HQ %}
 
 _Daddy's Home 2_ (_Very Bad Dads 2_ en VF) est un film qui, côté émotions et
 tristesse, est très très très loin des sommets atteints par les Pixar. Deux
@@ -103,17 +99,24 @@ Sting & Bono, esprit de Noël aidant.
 Bien évidemment, alors que mes glandes lacrymales carburaient à plein régime,
 l'inquiétude me gagnait : le vol avait-il provoqué chez moi une dépression
 nerveuse accélérée justifisant que je risque la déhydratation en regardant Mark
-Walhberg chantant le solo de Bono sur
-[_Do They Know It's Christmas?_](https://youtu.be/bjQzJAKxTrE) ?
+Walhberg chantant le solo de Bono sur [_Do They Know It's Christmas?_][song] ?
 
 Mais je suis désormais rassuré à plus d'un titre :
 
-- [oui, les Pixar sont des tire larmes](https://www.vulture.com/2015/06/why-pixar-movies-make-us-cry.html);
-- [oui, l'avion te rend plus enclin à devenir une merde](https://www.telegraph.co.uk/travel/travel-truths/the-science-behind-why-people-cry-more-easily-on-planes/);
-- [non, je ne suis pas seul à pleurer comme une salope (sic) devant les Pixar](https://deadspin.com/5313572/dear-pixar-stop-making-me-cry-like-a-bitch)
-  (article très recommandé car poilade garantie)
+- [oui, les Pixar sont des tire larmes][cry];
+- [oui, l'avion te rend plus enclin à devenir une merde][cry2];
+- [non, je ne suis pas seul à pleurer comme une salope (sic) devant les
+  Pixar][cry3] (article très recommandé car poilade garantie).
 
-Merci Internet !
+Merci Internet !
+
+[dante]: http://disney.wikia.com/wiki/Dante
+[rt]: https://www.rottentomatoes.com/m/daddys_home_2/
+[song]: https://youtu.be/bjQzJAKxTrE
+[cry]: https://www.vulture.com/2015/06/why-pixar-movies-make-us-cry.html
+[cry2]:
+  https://www.telegraph.co.uk/travel/travel-truths/the-science-behind-why-people-cry-more-easily-on-plane
+[cry3]: https://deadspin.com/5313572/dear-pixar-stop-making-me-cry-like-a-bitch
 
 [^spykids]:
   Ah ça, si les mecs étaient meilleurs en jeux de mots, ils bosseraient à Libé
@@ -122,6 +125,3 @@ Merci Internet !
 [^dejavu]:
   Visionner malin : un film déjà vu aide à faire sauter les critères _pauvre en
   dialogues_ et _cousu de fil blanc_.
-
-[dante]: http://disney.wikia.com/wiki/Dante
-[rt]: https://www.rottentomatoes.com/m/daddys_home_2/

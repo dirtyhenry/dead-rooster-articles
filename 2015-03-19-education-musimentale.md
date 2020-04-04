@@ -8,6 +8,7 @@ cover: /assets/images/education-musimentale.png
 description: >
   Joe Gantdelaine vous présente sa famille musicale. Il en est fier souvent et
   honteux parfois.
+lead-paragraph: true
 ---
 
 ![Dans Almost Famous, Lester Bangs fait le bilan]({{ page.cover }})
@@ -17,7 +18,7 @@ mal gré au fil du temps. Pour la musique, c'est un peu la même chose. On a des
 amours de jeunesse complètement honteuses à assumer, des relations épisodiques
 avec tel groupe ou tel artiste. Mais surtout, on se crée un socle solide,
 durable, inaltérable malgré ce que les gens de l'extérieur en disent ou ce que
-les concernés de l'intérieur font. {: .lead}
+les concernés de l'intérieur font.
 
 Je passerai trèèèès rapidement sur les amours de jeunesse hein (non, je n'ai
 jamais donné d'argent à 2 Unlimited ou à Ménélik ! Non, c'était des cadeaux...),

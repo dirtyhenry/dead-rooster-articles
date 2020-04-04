@@ -10,6 +10,7 @@ description: >
   d'autres. Neuf mois après le concert, parce qu'on n'est pas aux pièces, retour
   sur la performance de Neutral Milk Hotel à Paris en mai dernier. La dernière,
   probablement...
+lead-paragraph: true
 ---
 
 ![Pochette de In The Aeroplane Over The Sea, meilleur album 90s ?]({{ page.cover }})
@@ -18,7 +19,7 @@ Le Trianon, Paris, 25 mai 2014.
 [Lætitia Sadier](http://fr.wikipedia.org/wiki/Lætitia_Sadier) sort de scène.
 C'est l'avant-dernière fois que la chanteuse de Stereolab ouvre pour la tête
 d'affiche de la soirée, **Neutral Milk Hotel**. Il ne reste plus que quelques
-minutes avant que Jeff Mangum n'entre en scène. {: .lead}
+minutes avant que Jeff Mangum n'entre en scène.
 
 ## Neutral Milk Quoi ? Jeff Qui ?
 
