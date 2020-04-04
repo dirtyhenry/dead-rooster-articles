@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Un Automne 2017"
-date:   2018-02-27 15:00:00
+title: "Un Automne 2017"
+date: 2018-02-27 15:00:00
 authors:
   - Joe Gantdelaine
 tags:
@@ -26,7 +26,7 @@ attendu, trop compliqué et trop polémique. On s'en est déjà pris [plein les 
 avec Nolwenn Leroy][nolwenn]. Donc, non merci !
 
 J'aurais aussi pu faire de l'auto-congratulation, en rappelant que
-l'*Encyclopédie Approximative du Rock and Roll* avait préféré célébrer Fats
+l'_Encyclopédie Approximative du Rock and Roll_ avait préféré célébrer Fats
 Domino et quelques autres pionniers (ou du moins [leurs homologues franchouillards][pionniers])
 de leur vivant plutôt que d'attendre leur disparition pour torcher un bête
 article nécrologique. Mais non, l'heure n'est plus à ça !
@@ -46,7 +46,7 @@ compile. Mener une enquête de fond sur Marie Möör : qui est-elle ? Quelle e
 race de son chien ? A-t-elle un lien avec Lova ? Mais on s'en fout un peu.
 
 J'aurais également pu faire un truc sur l'enchaînement Rutles/Sparklehorse,
-façon kébab salade/tomate/oignon (*Cheese and Onions* / *Shade and Honey*… t'as
+façon kébab salade/tomate/oignon (_Cheese and Onions_ / _Shade and Honey_… t'as
 compris ?). Un article métaphorique où je faisais le lien entre le sandwich turc
 et une compile de musique, où les tranches de viande succèdent aux oignons,
 comme Sinéad O'Connor prend la suite de Built To Spill. Ou alors, j'aurais
@@ -73,7 +73,7 @@ Mais allez, non, cessons de tourner en rond. Et si des enfants en bas âge me li
 
 ## Le bouquin ?
 
-Non, c'est décidé, je ne parlerai pas de musique, mais plutôt d'un excellent roman : *Water Music*, de T.C. Boyle. Alors, bien sûr, je vous vois venir, tous autant que vous êtes. Vous allez me demander, l'air circonspect : "pourquoi ?". La réponse est très simple, mathématique. Voyez plutôt :
+Non, c'est décidé, je ne parlerai pas de musique, mais plutôt d'un excellent roman : _Water Music_, de T.C. Boyle. Alors, bien sûr, je vous vois venir, tous autant que vous êtes. Vous allez me demander, l'air circonspect : "pourquoi ?". La réponse est très simple, mathématique. Voyez plutôt :
 
 - Johnny vs. Gypsie = roue qui tourne, temps qui passe
 - temps qui passe = un volcan s'éteint, un être s'éveille ⇒ Volvic ⇒ Eau
@@ -83,7 +83,7 @@ CQFD
 
 ![D'abord la jambe gauche, toujours !](https://s3-eu-west-1.amazonaws.com/org.deadrooster.blog/t-shirt-bio-jambe-gauche.jpg)
 
-Ainsi donc, *Water Music*. Comme son titre ne l'indique pas, ce bouquin ne parle pas du tout de musique. Il raconte la vie de Mungo Park, l'explorateur écossais parti à la recherche des sources du Niger. Si vous avez aimé *Lost City of Z.*, lisez ce livre ! C'est un peu la même histoire, mais en mieux construit, avec une intrigue plus immersive, pleine de détails et de subtilités.
+Ainsi donc, _Water Music_. Comme son titre ne l'indique pas, ce bouquin ne parle pas du tout de musique. Il raconte la vie de Mungo Park, l'explorateur écossais parti à la recherche des sources du Niger. Si vous avez aimé _Lost City of Z._, lisez ce livre ! C'est un peu la même histoire, mais en mieux construit, avec une intrigue plus immersive, pleine de détails et de subtilités.
 
 Un roman-chorale comme on aime désormais appeler ce genre, où des destins a priori sans rapport, finissent par se croiser, se séparer, se retrouver. Comme les différents bras du fleuve dont le héros cherche la source.
 
@@ -99,26 +99,26 @@ Un peu comme la vie. Un peu comme une compile !
      dr-spotify-user="guiguilele">
 </div>
 
-1. Johnny Hallyday - *Gabrielle*
-1. Fats Domino - *Blueberry Hill - Non Stop Edit*
-1. Tom Petty and the Heartbreakers - *Runnin' Down A Dream*
-1. Rocket From The Tombs - *Ain't It Fun - Live*
-1. The Records - *Starry Eyes*
-1. Dean & Britta - *Night Nurse*
-1. U.N.P.O.C. - *Here On My Own*
-1. The Easybeats - *Friday On My Mind*
-1. Marie Möör - *Moi et mon chien*
-1. The Standells - *Riot On Sunset Strip*
-1. The School - *I Don't Believe In Love*
-1. Built To Spill - *Goin’ Against Your Mind*
-1. Sinéad O'Connor - *Nothing Compares 2 U*
-1. Grant Hart - *You're the Reflection of the Moon on the Water*
-1. The Rutles - *Cheese and Onions - 2006 Remastered Version*
-1. Sparklehorse - *Shade And Honey*
-1. The Sore Losers - *Cherry Cherry*
-1. The Greenhornes - *The End Of The Night*
-1. Graham Coxon - *Falling*
-1. Clipounets - *L'araignée Gypsie*
+1. Johnny Hallyday - _Gabrielle_
+1. Fats Domino - _Blueberry Hill - Non Stop Edit_
+1. Tom Petty and the Heartbreakers - _Runnin' Down A Dream_
+1. Rocket From The Tombs - _Ain't It Fun - Live_
+1. The Records - _Starry Eyes_
+1. Dean & Britta - _Night Nurse_
+1. U.N.P.O.C. - _Here On My Own_
+1. The Easybeats - _Friday On My Mind_
+1. Marie Möör - _Moi et mon chien_
+1. The Standells - _Riot On Sunset Strip_
+1. The School - _I Don't Believe In Love_
+1. Built To Spill - _Goin’ Against Your Mind_
+1. Sinéad O'Connor - _Nothing Compares 2 U_
+1. Grant Hart - _You're the Reflection of the Moon on the Water_
+1. The Rutles - _Cheese and Onions - 2006 Remastered Version_
+1. Sparklehorse - _Shade And Honey_
+1. The Sore Losers - _Cherry Cherry_
+1. The Greenhornes - _The End Of The Night_
+1. Graham Coxon - _Falling_
+1. Clipounets - _L'araignée Gypsie_
 
 [pionniers]: http://www.deadrooster.org/Les-pionniers-oublies-du-rock
 [nolwenn]: http://www.deadrooster.org/Qui-es-tu-Nolwenn-Leroy

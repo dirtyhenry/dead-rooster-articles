@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "La Playlist du Top Musique 2014"
-date:   2015-01-21 10:00:00
+title: "La Playlist du Top Musique 2014"
+date: 2015-01-21 10:00:00
 authors:
   - Dirty Henry
 tags: musique top
@@ -19,8 +19,8 @@ Top musical de l'année passée, [comme au bon vieux temps][top-2011]&nbsp;?
 
 ## Le Top
 
-- Prix __*vieux con*__ du mec qui n'a pas assez écouté de disques de 2014 cette année&nbsp;: moi
-- Prix __*remise en selle*__ de ceux qui vont aider à y remédier l'année prochaine&nbsp;: [*Magic*][magicrpm] et [le podcast de *Label Pop*][labelpop-podcast]
+- Prix **_vieux con_** du mec qui n'a pas assez écouté de disques de 2014 cette année&nbsp;: moi
+- Prix **_remise en selle_** de ceux qui vont aider à y remédier l'année prochaine&nbsp;: [_Magic_][magicrpm] et [le podcast de _Label Pop_][labelpop-podcast]
 
 ## La Playlist
 
@@ -32,25 +32,25 @@ Top musical de l'année passée, [comme au bon vieux temps][top-2011]&nbsp;?
 
 ### Face A
 
-1. Neutral Milk Hotel - *In The Aeroplane Over The Sea*
-2. Surfer Blood - *Weird Shapes*
-3. The Fresh & Onlys - *Who Let The Devil*
-4. Gandi Lake - *Weather Vanes*
-5. Bruce Springsteen - *Down in the Hole*
-6. Beck - *Waking Light*
+1. Neutral Milk Hotel - _In The Aeroplane Over The Sea_
+2. Surfer Blood - _Weird Shapes_
+3. The Fresh & Onlys - _Who Let The Devil_
+4. Gandi Lake - _Weather Vanes_
+5. Bruce Springsteen - _Down in the Hole_
+6. Beck - _Waking Light_
 
 ### Interlude
 
-7. Les Poppys - *Love Lioubov Amour*
+7. Les Poppys - _Love Lioubov Amour_
 
 ### Face B
 
-8. Neutral Milk Hotel - *Holland, 1945*
-9. Jagwar Ma - *Let Her Go*
-10. Orouni - *Uca Pugilator*
-11. The Notwist - *Casino*
-12. Interpol - *All the Rage Back Home*
-13. Nick Cave & The Bad Seeds - *Jubilee Street*
+8. Neutral Milk Hotel - _Holland, 1945_
+9. Jagwar Ma - _Let Her Go_
+10. Orouni - _Uca Pugilator_
+11. The Notwist - _Casino_
+12. Interpol - _All the Rage Back Home_
+13. Nick Cave & The Bad Seeds - _Jubilee Street_
 
 ## Quelques notes sur ces choix
 
@@ -59,8 +59,8 @@ Top musical de l'année passée, [comme au bon vieux temps][top-2011]&nbsp;?
 OK, le disque date de 1998 mais ce fut la claque de 2014. Leur concert au Trianon fut de loin le meilleur depuis des
 lustres. J'en parle plus en détail [ici][neutral-milk-hotel-une-introduction].
 
-Pour la playlist, j'ai choisi les deux titres les plus immédiats de l'album *In The Aeroplane Over The Sea* mais son écoute intégrale, comme celle de
-son prédécesseur, *On Avery Island*, sont vivement recommandées.
+Pour la playlist, j'ai choisi les deux titres les plus immédiats de l'album _In The Aeroplane Over The Sea_ mais son écoute intégrale, comme celle de
+son prédécesseur, _On Avery Island_, sont vivement recommandées.
 
 Et puis de la scie musicale quoi ! [Bravo Maestro !][bravo-maestro-classe-americaine]
 
@@ -74,13 +74,13 @@ Ils promettent un EP pour bientôt, financé en crowdfunding. À surveiller.
 
 ### Les Poppys
 
-Tout le monde connaît la fin d'[*Un Jour en France* de Noir Désir][clip-un-jour-en-france], mais qui connaît bien la référence qui va avec&nbsp;?
-Adorablement *akward*, mi-litant mi-gnon, on ne s'en lasse pas.
+Tout le monde connaît la fin d'[_Un Jour en France_ de Noir Désir][clip-un-jour-en-france], mais qui connaît bien la référence qui va avec&nbsp;?
+Adorablement _akward_, mi-litant mi-gnon, on ne s'en lasse pas.
 
 > De temps en temps, on peut bien rire entre voisins  
 > Voisins de terre
 
-Quoi de plus rafraîchissant que ces douces paroles&nbsp;? Surtout en ces temps difficiles, 
+Quoi de plus rafraîchissant que ces douces paroles&nbsp;? Surtout en ces temps difficiles,
 [à bon entendeur, je ne fais pas de politique][merci-le-foot-a-bon-entendeur], etc.
 
 ### Jagwar Ma
@@ -133,7 +133,6 @@ excitants de leur début, mais ils déçoivent peu. C'est tout à leur honneur.
   </div>
 </div>
 
-
 [top-2011]: http://www.deadrooster.org/Top-Musique-2011
 [magicrpm]: http://www.magicrpm.com
 [labelpop-podcast]: http://www.francemusique.fr/emission/label-pop
@@ -143,4 +142,5 @@ excitants de leur début, mais ils déçoivent peu. C'est tout à leur honneur.
 [clip-un-jour-en-france]: http://youtu.be/J8Z549GKkeM?t=3m29s
 [merci-le-foot-a-bon-entendeur]: http://www.dailymotion.com/video/x6gron_merci-le-foot-part-1_fun?start=577
 [stone-et-charden-prix-des-alumettes]: https://www.youtube.com/watch?v=n8x1T_-XfMY
+
 [neutral-milk-hotel-une-introduction]: {% post_url 2015-02-26-neutral-milk-hotel %}

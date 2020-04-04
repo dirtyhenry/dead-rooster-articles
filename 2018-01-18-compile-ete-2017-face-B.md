@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Un Été 2017, face B"
-date:   2018-01-18 15:00:00
+title: "Un Été 2017, face B"
+date: 2018-01-18 15:00:00
 authors:
   - Dirty Henry
 tags:
@@ -28,9 +28,9 @@ Rien en 2017 ne m'a tapé l'oreille ? Non, ce n'est pas ça. Rien **qui soit sor
 
 Ma signalétique est claire :
 
-* Barré, c'est nul
-* Un rond, c'est pas trop mal
-* Un cœur, j'aime bien
+- Barré, c'est nul
+- Un rond, c'est pas trop mal
+- Un cœur, j'aime bien
 
 Un seul petit cœur, bordel ! **50** albums et **1** petit cœur ! Et encore ! Nick Cave & the Bad Seeds ! Le seul qui a réussi à me faire dessiner un petit cœur dans mon petit carnet fêtait, pendant ce temps, ses 60 balais.
 
@@ -50,7 +50,7 @@ Plus haut, j'ai pris soin de reformuler car, tout compte fait, plusieurs choses 
 
 ## Où, sans déconner, j'aime bien Sinéad O'Connor
 
-Novembre 2017. Vacances à Boston. Un coffee shop pas spécialement chébran, mais la radio joue un titre qui me plaît bien. Qui me dit quelque chose tiens. Mais oui, c'est une *cover*. *Nothing Compares 2 U* en version folk minimaliste. Joli boulot car, de mémoire, j'aimais pas trop l'originale[^1].
+Novembre 2017. Vacances à Boston. Un coffee shop pas spécialement chébran, mais la radio joue un titre qui me plaît bien. Qui me dit quelque chose tiens. Mais oui, c'est une _cover_. _Nothing Compares 2 U_ en version folk minimaliste. Joli boulot car, de mémoire, j'aimais pas trop l'originale[^1].
 
 Bien consciencieusement, je retourne écouter Sinéad pour apprécier le travail d'adaptation de Freedom Fry, puisque le groupe de la cover a bien un nom.
 
@@ -68,7 +68,7 @@ Quelques jours plus tard, j'ai oublié le contexte : rebelote.
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/4z2DtNW79sQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
-J'avais toujours aimé *Streets of Philadelphia*, c'est pas ça la question. Mais comme on aime le jambon-beurre. Mais là, en réécoutant ce titre, mes papilles me filent une claque derrière la nuque : c'était pas du jambon-beurre connard, c'était du caviar. De l'exquis ! Du sublime ! De l'épatant !
+J'avais toujours aimé _Streets of Philadelphia_, c'est pas ça la question. Mais comme on aime le jambon-beurre. Mais là, en réécoutant ce titre, mes papilles me filent une claque derrière la nuque : c'était pas du jambon-beurre connard, c'était du caviar. De l'exquis ! Du sublime ! De l'épatant !
 
 ## Épisode IV. A New Hope.
 
@@ -77,10 +77,10 @@ Là voilà la solution ! J'ai dû écouter 0,0001%[^2] de la musique enregistré
 Du jambon cru.  
 Du jambon de Parme,  
 Des Ardennes ou de Bayonne.  
-Du *pata negra*,  
+Du _pata negra_,  
 Du jambon de Paris  
 Ou bien d'Aoste.  
-Je t'aime ô jambon.  
+Je t'aime ô jambon.
 
 <div id='ete-2017-face-B-playlist'
      class="dr-playlist"
@@ -90,31 +90,32 @@ Je t'aime ô jambon.
 
 ### Face Dirty
 
-1. Them - *Baby, Please Don't Go*
-1. Crocodiles - *U Sexy Thing*
-1. The Lemon Twigs - *Night Song*
-1. Aretha Franklin - *The Weight*
-1. Pavo Pavo - *Ran Ran Run*
-1. The Velvet Underground - *Sweet Jane - Full Length 2015 Remastered*
-1. Alvvays - *In Undertow*
-1. Them - *It's All Over Now, Baby Blue*
-1. Supergrass - *Coffee In The Pot*
-1. Sharon Van Etten - *We Are Fine*
+1. Them - _Baby, Please Don't Go_
+1. Crocodiles - _U Sexy Thing_
+1. The Lemon Twigs - _Night Song_
+1. Aretha Franklin - _The Weight_
+1. Pavo Pavo - _Ran Ran Run_
+1. The Velvet Underground - _Sweet Jane - Full Length 2015 Remastered_
+1. Alvvays - _In Undertow_
+1. Them - _It's All Over Now, Baby Blue_
+1. Supergrass - _Coffee In The Pot_
+1. Sharon Van Etten - _We Are Fine_
 
 ### Face Joe
 
-1. Benjamin Gibbard - *Something’s Rattling (Cowpoke)*
-1. Beyond The Wizards Sleeve - *Door To Tomorrow*
-1. The Gun Club - *Mother of Earth*
-1. Reigning Sound - *Stormy Weather*
-1. Ty Segall - *Black Magick*
-1. King Khan and the Shrines - *Luckiest Man*
-1. Frank Black - *(I Want to Live on An) Abstract Plain*
-1. Birdie - *Let Her Go*
-1. Big Thief - *Shark Smile*
-1. The Clash - *Charlie Don't Surf*
+1. Benjamin Gibbard - _Something’s Rattling (Cowpoke)_
+1. Beyond The Wizards Sleeve - _Door To Tomorrow_
+1. The Gun Club - _Mother of Earth_
+1. Reigning Sound - _Stormy Weather_
+1. Ty Segall - _Black Magick_
+1. King Khan and the Shrines - _Luckiest Man_
+1. Frank Black - _(I Want to Live on An) Abstract Plain_
+1. Birdie - _Let Her Go_
+1. Big Thief - _Shark Smile_
+1. The Clash - _Charlie Don't Surf_
 
 [^1]: OK, je sais que l'originale est de The Family et qu'elle a été écrite par Prince. Alors, tu te calmes !
-[^2]: J'ai fait les maths : il paraît qu'il y a 50 000 000 d'albums qui ont été publiés et j'ai évalué mes écoutes à 200 albums par an depuis mes 11 ans. Les plus forts en règle de 3 d'entre vous connaissent mon âge désormais, à la règle des *intervalles ou poteaux* près.
+[^2]: J'ai fait les maths : il paraît qu'il y a 50 000 000 d'albums qui ont été publiés et j'ai évalué mes écoutes à 200 albums par an depuis mes 11 ans. Les plus forts en règle de 3 d'entre vous connaissent mon âge désormais, à la règle des _intervalles ou poteaux_ près.
+
 [bilan]: https://s3-eu-west-1.amazonaws.com/org.deadrooster.blog/pitchfork-top-50-2016.png
 [arcade-fire-par-libe]: http://next.liberation.fr/musique/2017/07/24/arcade-fire-brulant-paradoxe_1585949

@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Deep Purple"
-date:   2017-01-24 10:00:00
+title: "Deep Purple"
+date: 2017-01-24 10:00:00
 authors:
   - Joe Gantdelaine
 tags:
-- encyclopédie approximative
+  - encyclopédie approximative
 cover: https://s3-eu-west-1.amazonaws.com/org.deadrooster.blog/deep-purple-smoke-water.jpg
 description: >
   Pouin-pouin-pouin Pouin-pouin'pouin-pouin Pouin-pouin-pouin Pouin-pouiiiiin
@@ -26,8 +26,8 @@ Parmi ses membres marquants, Dany Glover, Joe Satriani et Ritchie
 Blackmore se détachent aisément du lot. Le premier, toujours actif dans
 le groupe, est surtout connu pour avoir composé la musique de la pub
 [Sironimo][sironimo].
-Quant à Blackmore, c'est le compositeur de *High Starway To Hell* et de
-*Smoke On The Water*. Les historiens du rock racontent que cette dernière
+Quant à Blackmore, c'est le compositeur de _High Starway To Hell_ et de
+_Smoke On The Water_. Les historiens du rock racontent que cette dernière
 serait née après que Ritchie eut fait une visite à l'aquarium de
 Monterey, en Californie et qu'il fut ébloui par le jet brumeux produit
 par les baleines à bosses montrées au public. Quant aux vendeurs de

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Un Automne 2016, face B"
-date:   2017-01-17 10:00:00
+title: "Un Automne 2016, face B"
+date: 2017-01-17 10:00:00
 authors:
   - Joe Gantdelaine
 tags:
@@ -23,7 +23,7 @@ vieille histoire, commencée tout gosse. Alors quand on parle de compile, faut
 longtemps. Ou bien qu'on aime, là, maintenant, au moment où on la fait. Mais
 attendez, [ce paragraphe est chiant !][chiant]
 
-Bref, vous avez eu la chance de découvrir [*Un Automne 2016*][faceA], première compile
+Bref, vous avez eu la chance de découvrir [_Un Automne 2016_][facea], première compile
 Dead Rooster depuis… pfiou, tout ça au moins. Ça nous rajeunit pas. Et donc,
 pour fêter ce retour, on vous offre aujourd'hui 20 titres de plus, gratos,
 cadeau, bonus !
@@ -31,7 +31,7 @@ cadeau, bonus !
 ## Mais, pourquoi ?
 
 Alors là, vous êtes bien indiscrets. Mais comme vous m'êtes sympathiques, je
-m'en vais vous révéler quelques secrets de fabrication d'[*Un Automne 2016*][faceA]. Tout
+m'en vais vous révéler quelques secrets de fabrication d'[_Un Automne 2016_][facea]. Tout
 commença avec la constatation que Spotify, par le biais de ses playlists
 hebdomadaires, nous fait découvrir ou redécouvrir pas mal de p'tites pépites
 qu'il est bien dommage de voir disparaître la semaine suivante sans avoir pu les
@@ -42,7 +42,7 @@ mois ses morceaux favoris, entendus chaque semaine dans sa playlist, et les
 faisait écouter à l'autre ?". Et Joe de rétorquer : "t'es un génie Dirty !"[^1].
 Et de coup de génie en coup de génie, l'idée vint aux deux larrons de piocher dans
 les choix de l'autre pour en tirer la substantifique moelle et vous l'offrir sur
-un plateau d'argent. [*Un Automne 2016*][faceA], c'est ça : 10 titres choisis par Dirty
+un plateau d'argent. [_Un Automne 2016_][facea], c'est ça : 10 titres choisis par Dirty
 dans les morceaux de Joe et vice-versa.
 
 ## Et ça se dit explorateur des temps modernes ?
@@ -54,7 +54,7 @@ objet de faire découvrir les choses brûlantes du moment. Pour ça, va sur
 Pitchfork, Stereogum, que sais-je encore. D'autre part, chacun a choisi 10
 titres dans la liste de l'autre, liste d'une quarantaine de titres pour chacun.
 
-Autant te dire qu'[*Un Automne 2016*][faceA], c'est vraiment le top du sommet de la crème
+Autant te dire qu'[_Un Automne 2016_][facea], c'est vraiment le top du sommet de la crème
 écoutée au cours des 3 derniers mois. Et pour ta gouverne, sache donc que Dirty
 et Joe ont été quand même un peu frustrés de voir que l'autre
 ~~con~~ compère n'avait pas choisi le morceau de pop folk trop bien
@@ -71,7 +71,7 @@ aiment tout autant que ceux de la face A. Ce qui fait que vous voilà bien paré
 pour une nouvelle grosse heure de musique estampillée Dead Rooster.
 
 En revanche, inutile d'espérer une face C. Dirty et Joe ont déjà tourné leurs
-oreilles vers [*Un Hiver 2017*][hiver-2017] !
+oreilles vers [_Un Hiver 2017_][hiver-2017] !
 
 <div id='automne-2016-playlist'
      class="dr-playlist"
@@ -81,32 +81,33 @@ oreilles vers [*Un Hiver 2017*][hiver-2017] !
 
 ### Face Joe
 
-1. J Fernandez - *Read My Mind*
-1. The Smoking Trees - *Home in the Morning*
-1. Meatbodies - *Valley Girl*
-1. Billy Bragg, Wilco - *Way Over Yonder In The Minor Key*
-1. Emitt Rhodes - *With My Face On The Floor*
-1. Atlas Sound - *Lightworks*
-1. Tracy Bryant - *Subterranean*
-1. Angry Angles - *Things are moving (unreleased version)*
-1. Cotton Jones Basket Ride - *The Spinning Wheel*
-1. Froth - *Afternoon*
+1. J Fernandez - _Read My Mind_
+1. The Smoking Trees - _Home in the Morning_
+1. Meatbodies - _Valley Girl_
+1. Billy Bragg, Wilco - _Way Over Yonder In The Minor Key_
+1. Emitt Rhodes - _With My Face On The Floor_
+1. Atlas Sound - _Lightworks_
+1. Tracy Bryant - _Subterranean_
+1. Angry Angles - _Things are moving (unreleased version)_
+1. Cotton Jones Basket Ride - _The Spinning Wheel_
+1. Froth - _Afternoon_
 
 ### Face Dirty
 
-1. Nada Surf - *New Bird*
-1. James - *Sit Down*
-1. Another Sunny Day - *You Should All Be Murdered*
-1. Amber Arcades - *Come With Me*
-1. Beat Happening - *Indian Summer*
-1. Josefin Öhrn + The Liberation - *The State (I'm In)*
-1. Caribou - *Bees*
-1. Death in Vegas - *Girls*
-1. Black Grape - *Reverend Black Grape*
-1. The O'Jays - *Love Train*
+1. Nada Surf - _New Bird_
+1. James - _Sit Down_
+1. Another Sunny Day - _You Should All Be Murdered_
+1. Amber Arcades - _Come With Me_
+1. Beat Happening - _Indian Summer_
+1. Josefin Öhrn + The Liberation - _The State (I'm In)_
+1. Caribou - _Bees_
+1. Death in Vegas - _Girls_
+1. Black Grape - _Reverend Black Grape_
+1. The O'Jays - _Love Train_
 
 [^1]: et là, Dirty aurait répliqué : "En fait, on a qu'à dire qu'on peut aussi y mettre des chansons découvertes ou redécouvertes ailleurs. Spotify ne sera qu'un canal parmi d'autres". Mais Joe n'a pas retenu ça, et lui, il n'a pris que des morceaux de la playlist hebdomadaire. 😀
 
 [chiant]: https://youtu.be/SbZL91_Kvi0
+
 [faceA]: {% post_url 2017-01-10-compile-automne-2016 %}
 [hiver-2017]: {% post_url 2017-04-03-compile-hiver-2017 %}

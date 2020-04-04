@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Neutral Milk Hotel, une Introduction"
-date:   2015-02-26 10:00:00
+title: "Neutral Milk Hotel, une Introduction"
+date: 2015-02-26 10:00:00
 authors:
   - Dirty Henry
 tags: musique neutral-milk-hotel concert trianon jeff-mangum
@@ -23,7 +23,7 @@ C'est l'avant-dernière fois que la chanteuse de Stereolab ouvre pour la tête d
 ## Neutral Milk Quoi ? Jeff Qui ?
 
 Nous sommes à la fin des années 90. Jeff Mangum a grandi à Ruston, Louisiane, et la vie locale et ses
-*bullies* le convainquent qu'il n'est pas à sa place et qu'il souhaite une vie à l'opposé de ce qu'il voit
+_bullies_ le convainquent qu'il n'est pas à sa place et qu'il souhaite une vie à l'opposé de ce qu'il voit
 tous les jours, à tout point de vue. Il part alors créer une communauté de copains musiciens afin de prouver
 que sa théorie tient bon&nbsp;: “la musique peut guerrir tous les maux”.
 
@@ -32,7 +32,7 @@ naissent&nbsp;: les Apples In Stereo de Robert Schneider, The Olivia Tremor Cont
 Will Cullen Hart dans lequel joue notre pote Jeff, qui enregistre aussi des chansons seul sous le nom
 de Neutral Milk Hotel.
 
-En 1996, le premier album *On Every Island* est un joli coup d'essai. Les copains ont dépanné lors de
+En 1996, le premier album _On Every Island_ est un joli coup d'essai. Les copains ont dépanné lors de
 l'enregistrement (Jeff bourlingue pas mal&nbsp;: Seattle, Denver, New York) mais après la sortie du disque,
 la composition du groupe se stabilise. Julian Koster (qui joue un peu de tout mais notamment du banjo et de
 la scie musicale), Scott Spillane (cuivres) et Jeremy Barnes (batterie) sont désormais des membres à part
@@ -40,7 +40,7 @@ entière.
 
 ![Jeff, Scott, Julian et Jeremy : le lineup de Neutral Milk Hotel](assets/images/neutral-milk-hotel-lineup-90s.jpg)
 
-En 1998, le second *In An Aeroplane Over The Sea*, avec Schneider à la production, est un chef-d'œuvre.
+En 1998, le second _In An Aeroplane Over The Sea_, avec Schneider à la production, est un chef-d'œuvre.
 À sa sortie, les critiques sont emballés et si les ventes restent confidentielles, leur niveau ne s'affaisse
 pas, jamais. Il finit même 6ème vinyle le plus vendu de l'année...
 [en 2008](http://www.rollingstone.com/music/news/radiohead-neutral-milk-hotel-help-vinyl-sales-almost-double-in-2008-20090108).
@@ -49,7 +49,7 @@ Et finalement le groupe en vendra un bon paquet. Côté critique, Pitchfork le n
 
 ## Que faire après le chef-d'œuvre ?
 
-Deux mois avant la sortie de *In the Aeroplane Over the Sea*, il déclare&nbsp;:
+Deux mois avant la sortie de _In the Aeroplane Over the Sea_, il déclare&nbsp;:
 
 > It took me a while to figure out that the songs were positive,
 > not just these fucked-up nightmares that I was throwing up.
@@ -79,14 +79,14 @@ convaincants (Blur à Hyde Park, Pulp à Primavera), je savais aussi que le pari
 ![Jeff Mangum en 2014](assets/images/neutral-milk-hotel-jeff-mangum-2014.jpg)
 
 Pourtant, les premiers titres ne laissent plus place au doute&nbsp;: le concert va être excellent. Jeff Mangum
-arrive seul, à droite de la scène pour attaquer *Two-Headed Boy*. *About A Boy* m'avait appris qu'il ne
+arrive seul, à droite de la scène pour attaquer _Two-Headed Boy_. _About A Boy_ m'avait appris qu'il ne
 fallait jamais fermer les yeux en chantant. Neutral Milk Hotel m'a démontré que c'était une connerie.
 
-Vers la fin du morceau, ses acolytes le rejoignent&nbsp;:  Scott, ses cuivres et ses faux airs de
+Vers la fin du morceau, ses acolytes le rejoignent&nbsp;: Scott, ses cuivres et ses faux airs de
 [Potiron](https://www.google.com/search?q=potiron+oui-oui) s'installent à gauche, le batteur Jeremy et sa
 moustache d'une virilité folle au fond, et Julian le fou avec le bonnet chelou prend le devant de la scène.
 Mangum avait déjà posé des bonnes bases d’intensité avec un chant si sincère qu'il donne l'impression d'y
-laisser ses tripes. Les instruments en rajoute une couche en attaquant *Holland, 1945*.
+laisser ses tripes. Les instruments en rajoute une couche en attaquant _Holland, 1945_.
 
 On est dans un mix entre Beirut et Arcade Fire mais le show n'est pas aussi chorégraphié. Tout est plus
 naturel, organique, sincère. La salle n'est pas bien grande, le public n'est pas très nombreux mais le
@@ -118,7 +118,7 @@ des sous à Air France.
 
 Pis, quand même une playlist pour finir&nbsp;:
 
-- 3 titres de Neutral Milk Hotel&nbsp;: les deux qui ont ouvert le concert parisien et un morceau de bravoure, *Oh Comely* (notez le “Holy Shit” d'un mec impressionné par le chant de Jeff au bout des huit minutes et quelques de la chose)
+- 3 titres de Neutral Milk Hotel&nbsp;: les deux qui ont ouvert le concert parisien et un morceau de bravoure, _Oh Comely_ (notez le “Holy Shit” d'un mec impressionné par le chant de Jeff au bout des huit minutes et quelques de la chose)
 - quelques titres des autres groupes d'Elephant 6
 - des inspirations de Jeff&nbsp;: Minutemen, Soft Machine, Charlie Haden et Daniel Johnston
 - je vous ai épargné un morceau de musique folklorique bulgare qui est le kiff actuel de Mangum

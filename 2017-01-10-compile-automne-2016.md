@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Un Automne 2016"
-date:   2017-01-10 10:00:00
+title: "Un Automne 2016"
+date: 2017-01-10 10:00:00
 authors:
   - Dirty Henry
   - Joe Gantdelaine
@@ -40,7 +40,7 @@ jouée en aléatoire. Elle peut être générée par un robot. Elle tourne en bo
 l'occasion d'une St-Sylvestre, d'un mariage, d'une pendaison de crémaillère.
 Elle est mouvante. Les morceaux s'y ajoutent et s'en retirent.
 
-La **compile** — oui, avec un *e* à la fin — est un album dont on n'aurait pas
+La **compile** — oui, avec un _e_ à la fin — est un album dont on n'aurait pas
 écrit les chansons soi-même. On a choisi ses contraintes, sa durée, ses
 enchaînements. Elle a un début et une fin. Une fois signée de ses auteurs, elle
 ne sera modifiée que par la patine du temps.
@@ -61,11 +61,11 @@ piquait au cœur :
 > créée par le magazine revendiquera ensuite.
 
 Découverte, prospection, patrimoine. Seules manquent les frites dans ce
-*manifeste* dans lequel Dirty & Joe se sont reconnus. Ils relancent donc les
+_manifeste_ dans lequel Dirty & Joe se sont reconnus. Ils relancent donc les
 compiles Dead Rooster, en mode saisonnier et à 4 mains.
 
-Mesdames et messieurs, sans vous faire attendre davantage, voici donc *Un
-Automne 2016*.
+Mesdames et messieurs, sans vous faire attendre davantage, voici donc _Un
+Automne 2016_.
 
 <div id='automne-2016-playlist'
      class="dr-playlist"
@@ -73,28 +73,28 @@ Automne 2016*.
      dr-spotify-user="guiguilele">
 </div>
 
-1. Connie Converse - *Talkin' Like You (Two Tall Mountains)*
-1. Deepakalypse - *Drummers*
-1. The Sea and Cake - *Jacking the Ball*
-1. Pond - *Waiting Around For Grace*
-1. Stephen Malkmus & The Jicks - *Stick Figures in Love*
-1. The Lemon Twigs - *I Wanna Prove to You*
-1. Wooden Shjips - *Everybody Knows*
-1. The Brian Jonestown Massacre - *(David Bowie I Love You) Since I Was Six*
-1. Harlem - *Someday Soon*
-1. R.E.M. - *Harborcoat*
-1. The Bats - *Made Up In Blue*
-1. Adam Green - *Never Lift a Finger*
-1. Daniel Romano - *Valerie Leon*
-1. The Olivia Tremor Control - *I Have Been Floated*
-1. Mission of Burma - *That's When I Reach For My Revolver*
-1. Pixies - *Talent*
-1. Alvvays - *Next of Kin*
-1. Jeremy Jay - *In This Lonely Town*
-1. Nick Cave & The Bad Seeds - *Rings of Saturn*
-1. Jeremy & The Harlequins - *Into the Night*
+1. Connie Converse - _Talkin' Like You (Two Tall Mountains)_
+1. Deepakalypse - _Drummers_
+1. The Sea and Cake - _Jacking the Ball_
+1. Pond - _Waiting Around For Grace_
+1. Stephen Malkmus & The Jicks - _Stick Figures in Love_
+1. The Lemon Twigs - _I Wanna Prove to You_
+1. Wooden Shjips - _Everybody Knows_
+1. The Brian Jonestown Massacre - _(David Bowie I Love You) Since I Was Six_
+1. Harlem - _Someday Soon_
+1. R.E.M. - _Harborcoat_
+1. The Bats - _Made Up In Blue_
+1. Adam Green - _Never Lift a Finger_
+1. Daniel Romano - _Valerie Leon_
+1. The Olivia Tremor Control - _I Have Been Floated_
+1. Mission of Burma - _That's When I Reach For My Revolver_
+1. Pixies - _Talent_
+1. Alvvays - _Next of Kin_
+1. Jeremy Jay - _In This Lonely Town_
+1. Nick Cave & The Bad Seeds - _Rings of Saturn_
+1. Jeremy & The Harlequins - _Into the Night_
 
-Par ici pour la [face B][faceB].
+Par ici pour la [face B][faceb].
 
 [Illustration par @christhebarker][cover]
 
@@ -105,4 +105,5 @@ Par ici pour la [face B][faceB].
 [samedi-soir-1]: http://www.deadrooster.org/La-compile-du-samedi-soir-volume-1
 [samedi-soir-2]: http://www.deadrooster.org/La-compile-du-samedi-soir-volume-2
 [cover]: https://twitter.com/christhebarker/status/815342375354662912
+
 [faceB]: {% post_url 2017-01-17-compile-automne-2016-face-B %}

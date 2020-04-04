@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Un Printemps 2017"
-date:   2017-09-27 12:00:00
+title: "Un Printemps 2017"
+date: 2017-09-27 12:00:00
 authors:
   - Dirty Henry
 tags:
@@ -19,7 +19,7 @@ Aujourd'hui, octobre pointe le bout de son nez mais qu'importe, nous allons
 célébrer le printemps, saison du renouveau, du rouleau, et de la saine
 concurrence aux Galeries Lafayette.
 
-Pour se faire, nous allons discuter de la chanson [*Bip-Bip*][bipbip] de Joe Dassin — que
+Pour se faire, nous allons discuter de la chanson [_Bip-Bip_][bipbip] de Joe Dassin — que
 tu vas me faire le plaisir d'aller écouter vite fait si tu la connais pas, et
 avec [les paroles][lyrics-ma] sous les yeux encore.
 
@@ -38,9 +38,9 @@ classique d'horaires d'employé du tertiaire, on serait plutôt le matin.
 Pourtant, il parle d'un "rendez-vous ce soir avec la fille de mon patron", pour
 lequel il n'est "vraiment pas pressé" (sic) :
 
-* soit on est le matin, et il paraît prématuré de perdre du temps pour le
+- soit on est le matin, et il paraît prématuré de perdre du temps pour le
   rendez-vous du soir
-* soit il est 19h30, auquel cas, "ce soir" est imminent et
+- soit il est 19h30, auquel cas, "ce soir" est imminent et
   le rendez-vous est sans doute la destination de notre héros
 
 Enfin, le titre se conclut sur un "au revoir et à demain". Si on était le matin,
@@ -93,26 +93,26 @@ Prends ça dans ta gueule Marcel Proust !
      dr-spotify-user="guiguilele">
 </div>
 
-1. K's Choice - *We Are Glaciers*
-1. Chuck Berry - *Johnny B. Goode*
-1. Canned Heat - *Poor Moon*
-1. Nobunny - *Blow Dumb*
-1. Eux Autres - *Other Girls*
-1. Dan Auerbach - *Waiting on a Song*
-1. Wendy Rene - *After Laughter (Comes Tears)*
-1. Conspiracy Of Owls - *A Silver Song*
-1. Emitt Rhodes - *Somebody Made For Me*
-1. Brendan Benson - *Metarie*
-1. Mekons - *Where Were You*
-1. The Glands - *Swim*
-1. Sonny & The Sunsets - *green blood*
-1. Young Marble Giants - *Brand - New - Life*
-1. The Master's Apprentices - *War Or Hands Of Time*
-1. The War On Drugs - *Thinking Of A Place*
-1. Vashti Bunyan - *Some Things Just Stick in Your Mind*
-1. The Kinks - *I Go to Sleep*
-1. Fugazi - *I'm So Tired*
-1. William Tyler - *I’m Gonna Live Forever (If It Kills Me)*
+1. K's Choice - _We Are Glaciers_
+1. Chuck Berry - _Johnny B. Goode_
+1. Canned Heat - _Poor Moon_
+1. Nobunny - _Blow Dumb_
+1. Eux Autres - _Other Girls_
+1. Dan Auerbach - _Waiting on a Song_
+1. Wendy Rene - _After Laughter (Comes Tears)_
+1. Conspiracy Of Owls - _A Silver Song_
+1. Emitt Rhodes - _Somebody Made For Me_
+1. Brendan Benson - _Metarie_
+1. Mekons - _Where Were You_
+1. The Glands - _Swim_
+1. Sonny & The Sunsets - _green blood_
+1. Young Marble Giants - _Brand - New - Life_
+1. The Master's Apprentices - _War Or Hands Of Time_
+1. The War On Drugs - _Thinking Of A Place_
+1. Vashti Bunyan - _Some Things Just Stick in Your Mind_
+1. The Kinks - _I Go to Sleep_
+1. Fugazi - _I'm So Tired_
+1. William Tyler - _I’m Gonna Live Forever (If It Kills Me)_
 
 [bipbip]: https://open.spotify.com/track/2HW2IhcFUXYkX8a3zm6io0
 [lyrics-ma]: https://genius.com/Joe-dassin-bip-bip-lyrics
