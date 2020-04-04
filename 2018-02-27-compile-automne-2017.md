@@ -8,7 +8,8 @@ tags:
   - compile
 cover: https://s3-eu-west-1.amazonaws.com/org.deadrooster.blog/Un+Automne+2017.jpg
 description: >
-  Pour vulgariser ce post : Dead Rooster vous apporte la lumière dans des sortes de callebasses.
+  Pour vulgariser ce post : Dead Rooster vous apporte la lumière dans des sortes
+  de callebasses.
 uuid: FBD8983D-7896-460B-A13D-3589C89963BA
 ---
 
@@ -22,19 +23,20 @@ selon Dead Rooster, j'avais le choix.
 
 J'aurais d'abord pu évoquer les quelques disparus mis à l'honneur ici. Pas mal
 de matière s'offrait à moi. Et déjà, le débat : "pour ou contre Johnny ?". Trop
-attendu, trop compliqué et trop polémique. On s'en est déjà pris [plein les dents
-avec Nolwenn Leroy][nolwenn]. Donc, non merci !
+attendu, trop compliqué et trop polémique. On s'en est déjà pris [plein les
+dents avec Nolwenn Leroy][nolwenn]. Donc, non merci !
 
 J'aurais aussi pu faire de l'auto-congratulation, en rappelant que
 l'_Encyclopédie Approximative du Rock and Roll_ avait préféré célébrer Fats
-Domino et quelques autres pionniers (ou du moins [leurs homologues franchouillards][pionniers])
-de leur vivant plutôt que d'attendre leur disparition pour torcher un bête
-article nécrologique. Mais non, l'heure n'est plus à ça !
+Domino et quelques autres pionniers (ou du moins [leurs homologues
+franchouillards][pionniers]) de leur vivant plutôt que d'attendre leur
+disparition pour torcher un bête article nécrologique. Mais non, l'heure n'est
+plus à ça !
 
 J'aurais enfin pu remercier Dirty Henry et avouer mon inculture : je ne
 connaissais rien de Tom Petty. Le seul truc qui me lie un peu à lui, c'est
-[l'épisode du Rock Camp des Simpsons][simpsons]. J'ai jamais écouté quoi que ce soit des
-Heartbreakers. "Merci Dirty !"… bon hé, ça va, on a dit : pas
+[l'épisode du Rock Camp des Simpsons][simpsons]. J'ai jamais écouté quoi que ce
+soit des Heartbreakers. "Merci Dirty !"… bon hé, ça va, on a dit : pas
 d'auto-congratulation !
 
 ![Homer et ses amis rockers](https://s3-eu-west-1.amazonaws.com/org.deadrooster.blog/simpsons-rock.png)
@@ -59,13 +61,22 @@ Sparklehorse, une éloge de son regretté chanteur Mark Linkous etc.).
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/UjsUZRs770U" frameborder="0"></iframe>
 </div>
 
-Bon, c'était pas mal… Note pour un prochain article : utiliser la métaphore du kébab.
+Bon, c'était pas mal… Note pour un prochain article : utiliser la métaphore du
+kébab.
 
 ## Tourne, tourne petit moulin
 
-Dernière idée basique : écrire un méta-article commentant mes précédents. Et constater qu'une notion revient souvent : l'éternel recommencement. On fait, défait, refait. Ce méta-article en aurait été une preuve. Et la brave araignée qui vient clore l'heure et quelque de musique aurait parfaitement illustré mon propos : Gypsie/Sisyphe, même combat ! De la philosophie pour les 2-6 ans. Génial !
+Dernière idée basique : écrire un méta-article commentant mes précédents. Et
+constater qu'une notion revient souvent : l'éternel recommencement. On fait,
+défait, refait. Ce méta-article en aurait été une preuve. Et la brave araignée
+qui vient clore l'heure et quelque de musique aurait parfaitement illustré mon
+propos : Gypsie/Sisyphe, même combat ! De la philosophie pour les 2-6 ans.
+Génial !
 
-Mais allez, non, cessons de tourner en rond. Et si des enfants en bas âge me lisent et sont déçus en constatant que je n'ai pas choisi cet angle d'attaque, rassurez-vous, j'ai une autre compile rien que pour vous, avec Gypsie en number two, excusez du peu.
+Mais allez, non, cessons de tourner en rond. Et si des enfants en bas âge me
+lisent et sont déçus en constatant que je n'ai pas choisi cet angle d'attaque,
+rassurez-vous, j'ai une autre compile rien que pour vous, avec Gypsie en number
+two, excusez du peu.
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/JxCg_ROKfcU" frameborder="0"></iframe>
@@ -73,7 +84,10 @@ Mais allez, non, cessons de tourner en rond. Et si des enfants en bas âge me li
 
 ## Le bouquin ?
 
-Non, c'est décidé, je ne parlerai pas de musique, mais plutôt d'un excellent roman : _Water Music_, de T.C. Boyle. Alors, bien sûr, je vous vois venir, tous autant que vous êtes. Vous allez me demander, l'air circonspect : "pourquoi ?". La réponse est très simple, mathématique. Voyez plutôt :
+Non, c'est décidé, je ne parlerai pas de musique, mais plutôt d'un excellent
+roman : _Water Music_, de T.C. Boyle. Alors, bien sûr, je vous vois venir, tous
+autant que vous êtes. Vous allez me demander, l'air circonspect : "pourquoi ?".
+La réponse est très simple, mathématique. Voyez plutôt :
 
 - Johnny vs. Gypsie = roue qui tourne, temps qui passe
 - temps qui passe = un volcan s'éteint, un être s'éveille ⇒ Volvic ⇒ Eau
@@ -83,13 +97,27 @@ CQFD
 
 ![D'abord la jambe gauche, toujours !](https://s3-eu-west-1.amazonaws.com/org.deadrooster.blog/t-shirt-bio-jambe-gauche.jpg)
 
-Ainsi donc, _Water Music_. Comme son titre ne l'indique pas, ce bouquin ne parle pas du tout de musique. Il raconte la vie de Mungo Park, l'explorateur écossais parti à la recherche des sources du Niger. Si vous avez aimé _Lost City of Z._, lisez ce livre ! C'est un peu la même histoire, mais en mieux construit, avec une intrigue plus immersive, pleine de détails et de subtilités.
+Ainsi donc, _Water Music_. Comme son titre ne l'indique pas, ce bouquin ne parle
+pas du tout de musique. Il raconte la vie de Mungo Park, l'explorateur écossais
+parti à la recherche des sources du Niger. Si vous avez aimé _Lost City of Z._,
+lisez ce livre ! C'est un peu la même histoire, mais en mieux construit, avec
+une intrigue plus immersive, pleine de détails et de subtilités.
 
-Un roman-chorale comme on aime désormais appeler ce genre, où des destins a priori sans rapport, finissent par se croiser, se séparer, se retrouver. Comme les différents bras du fleuve dont le héros cherche la source.
+Un roman-chorale comme on aime désormais appeler ce genre, où des destins a
+priori sans rapport, finissent par se croiser, se séparer, se retrouver. Comme
+les différents bras du fleuve dont le héros cherche la source.
 
-Chaque destin est l'occasion pour T.C. Boyle de s'essayer à des styles d'écriture différents : roman d'aventures bien sûr pour décrire les péripéties de l'explorateur, mais aussi roman social lorsque l'écrivain détaille la vie de la société anglaise au tournant de la fin du 18è siècle, ou roman à suspense quand on suit le parcours chaotique d'un petit malfrat increvable.
+Chaque destin est l'occasion pour T.C. Boyle de s'essayer à des styles
+d'écriture différents : roman d'aventures bien sûr pour décrire les péripéties
+de l'explorateur, mais aussi roman social lorsque l'écrivain détaille la vie de
+la société anglaise au tournant de la fin du 18è siècle, ou roman à suspense
+quand on suit le parcours chaotique d'un petit malfrat increvable.
 
-Tout cela pourrait partir dans tous les sens. Mais l'écriture est d'une fluidité étonnante. Et comme tous les grands livres, la petite histoire dans la grande Histoire est surtout un prétexte pour balayer le grand spectre des émotions humaines. Il y a de l'amour, de l'humour, de la joie, de la tristesse. Et beaucoup d'autres choses encore…
+Tout cela pourrait partir dans tous les sens. Mais l'écriture est d'une fluidité
+étonnante. Et comme tous les grands livres, la petite histoire dans la grande
+Histoire est surtout un prétexte pour balayer le grand spectre des émotions
+humaines. Il y a de l'amour, de l'humour, de la joie, de la tristesse. Et
+beaucoup d'autres choses encore…
 
 Un peu comme la vie. Un peu comme une compile !
 

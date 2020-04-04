@@ -9,10 +9,10 @@ tags:
   - compile
 cover: https://s3-eu-west-1.amazonaws.com/org.deadrooster.blog/un-automne-2016.jpg
 description: >
-  Parce que les playlists c'est bien mais que les compiles c'est peut-être mieux.
-  Parce que les Inrocks ne font plus le boulot correctement.
-  Parce que nos valeurs sont découverte, prospection, patrimoine et frites.
-  Dead Rooster présente... Un Automne 2016.
+  Parce que les playlists c'est bien mais que les compiles c'est peut-être
+  mieux. Parce que les Inrocks ne font plus le boulot correctement. Parce que
+  nos valeurs sont découverte, prospection, patrimoine et frites. Dead Rooster
+  présente... Un Automne 2016.
 uuid: 9D311812-5275-4204-8E6B-17813076EEF2
 ---
 
@@ -25,8 +25,9 @@ compilations saisonnières, influencé par le calendrier appliqué par les Inroc
 [Compile automne 2008][automne-2008], [compile été 2005][ete-2005], c'était lui.
 
 Joe Gantdelaine, lui, ce sont plutôt des moments de la semaine qui
-l'intéressaient. [La compile du lundi matin][lundi-matin], [la compile du
-samedi soir volume 1][samedi-soir-1], [le volume 2][samedi-soir-2]… On s'en souvient tous.
+l'intéressaient. [La compile du lundi matin][lundi-matin], [la compile du samedi
+soir volume 1][samedi-soir-1], [le volume 2][samedi-soir-2]… On s'en souvient
+tous.
 
 Petit à petit, ils sont devenus fainéants. Ils ont arrêté. Et les compiles,
 vestiges d'un temps jadis, ont commencé à laisser place aux playlists. Quelle
@@ -54,8 +55,8 @@ chagrinait. Il fallait agir.
 En octobre 2016, un extrait du pitch de la compile des 30 ans des Inrocks, nous
 piquait au cœur :
 
-> En 1988, Les Inrockuptibles sortaient leur première compilation, Un Automne 88.
-> Son but était de mélanger des coups de cœur de la rédaction, des
+> En 1988, Les Inrockuptibles sortaient leur première compilation, Un
+> Automne 88. Son but était de mélanger des coups de cœur de la rédaction, des
 > inconnus auxquels nous croyions et des illustres héros de la rédaction. Un
 > mélange de découverte, de prospection et de patrimoine que chaque compilation
 > créée par le magazine revendiquera ensuite.
