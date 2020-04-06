@@ -5,13 +5,12 @@ authors:
   - Joe Gantdelaine
 tags: musique
 cover: /assets/images/education-musimentale.png
+cover_alt: Dans Almost Famous, Lester Bangs fait le bilan
 description: >
   Joe Gantdelaine vous présente sa famille musicale. Il en est fier souvent et
   honteux parfois.
 lead-paragraph: true
 ---
-
-![Dans Almost Famous, Lester Bangs fait le bilan]({{ page.cover }})
 
 Dans la vie, la famille, les amis, nos connaissances, tout ça, ça évolue bon gré
 mal gré au fil du temps. Pour la musique, c'est un peu la même chose. On a des
@@ -94,11 +93,7 @@ donnera pas envie de [redevenir les explorateurs que nous avons été][labelpop]
 
 ## La Playlist
 
-<div id='educationmusimentale-playlist' 
-     class="dr-playlist" 
-     dr-spotify-id="2DDYHlrsl7i1JO5zveheaE" 
-     dr-spotify-user="guiguilele">
-</div>
+{% spotify 2DDYHlrsl7i1JO5zveheaE guiguilele %}
 
 [nofx]: https://www.youtube.com/watch?v=82xh5tV04qA "Tooltip NOFX"
 [kent]: https://www.youtube.com/watch?v=mSu4Ocb8mcA "Tooltip Kent"

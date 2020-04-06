@@ -15,15 +15,10 @@ description: >
 lead-paragraph: true
 ---
 
-![Dans Almost Famous, Lester Bangs fait le bilan]({{ page.cover }})
-
-Alors oui, bon, il a écrit les paroles de
-[_Je Suis Pour_](http://www.paroles.net/michel-sardou/paroles-je-suis-pour),
-co-signé celles de
-[_Le Temps des Colonies_](http://www.paroles.net/michel-sardou/paroles-le-temps-des-colonies)
-donc bien sûr, le mec part avec des dossiers. Mais est-il intellectuellement
-honnête de s'arrêter là ? Ce début d'année sème le doute... Faut-il sauver
-Michel Sardou ?
+Alors oui, bon, il a écrit les paroles de [_Je Suis Pour_][1], co-signé celles
+de [_Le Temps des Colonies_][2] donc bien sûr, le mec part avec des dossiers.
+Mais est-il intellectuellement honnête de s'arrêter là ? Ce début d'année sème
+le doute… Faut-il sauver Michel Sardou ?
 
 ## Je ne m'enfuis pas, je vole
 
@@ -35,10 +30,9 @@ Ouais, OK, y'a François Damiens, Karin Viard et Eric Elmosnino qui jouent dedan
 ![Avec le recul, je me dis que chanter, ça doit marcher mieux que la guitare](https://s3-eu-west-1.amazonaws.com/org.deadrooster.blog/famille_belier.jpg)
 
 Près de deux heures plus tard, quelques grosses ficelles qui n'auront malgré
-tout pas déplu commencent à nous faire chialer devant
-[un duo d'ados qui chante _Je Vole_](https://youtu.be/McF-ZsJi9Qo). C'est quoi
-ces conneries putain ?
-[On est à la fromagerie Morel là ou quoi ?](https://youtu.be/Ihlr1GZhBXw)
+tout pas déplu commencent à nous faire chialer devant [un duo d'ados qui chante
+_Je Vole_][3]. C'est quoi ces conneries putain ? [On est à la fromagerie Morel
+là ou quoi ?][4]
 
 ## Le Kif de Chalumeau
 
@@ -46,15 +40,13 @@ Quelques semaines passent et j'attaque la lecture de _Kif_, de Laurent
 Chalumeau. Le titre est assez nul, mais purée, le roman est bon. Très bon !
 
 Déjà pour remettre dans le contexte, Laurent Chalumeau c'est un ancien de _Rock
-& Folk_, co-auteur des sketches de De Caunes à la grande époque Canal :
-[Gérard Langue de Pute](https://youtu.be/YL-tKWyrzuk) ou
-[Didier l'Embrouille](https://youtu.be/5iSeilVIvXU), c'est signé Chalumeau.
+& Folk_, co-auteur des sketches de De Caunes à la grande époque Canal : [Gérard
+Langue de Pute][5] ou [Didier l'Embrouille][6], c'est signé Chalumeau.
 
 Dans _Kif_, il raconte l'histoire de Georges Clounet (à ne pas confondre avec
-son homonyme [Georges Clooney](http://georgesclooney.blogspot.fr)), un ancien
-CRS à la retraite qui se retrouve malgré lui propriétaire d'une boîte de nuit,
-le Kif, et ça se complique pour lui. Dur de mieux résumer le bouquin que par sa
-4è de couverture :
+son homonyme [Georges Clooney][7]), un ancien CRS à la retraite qui se retrouve
+malgré lui propriétaire d'une boîte de nuit, le Kif, et ça se complique pour
+lui. Dur de mieux résumer le bouquin que par sa 4è de couverture :
 
 > Plutôt incorruptible dans son genre, Georges entend bien faire le ménage dans
 > sa petite entreprise totalement vérolée. Mais en ce début d’automne 2011 au
@@ -78,8 +70,7 @@ l'intelligence du lecteur".
 ## C'est pas du Brahms
 
 Et c'est quoi le rapport avec Michel Sardou ? Le rapport c'est qu'en 2009,
-[j'écrivais ça](http://www.deadrooster.org/Chalumeau-est-il-un-mec-sympa,225)
-sur Chalumeau :
+[j'écrivais ça][8] sur Chalumeau :
 
 > Quand on gratte un peu plus loin, on trouve quand même quelques casseroles
 > dans le passé du bonhomme : parolier pour Michel Sardou et G-Squad... Hum...
@@ -89,7 +80,7 @@ sur Chalumeau :
 Dont acte. Et aussi, je me suis davantage documenté. Et j'ai pas été déçu. Parce
 qu'en plus d'être un super romancier, Chalumeau n'est pas le dernier des sages.
 Au sujet de Michel, avec qui il a co-écrit les paroles de _C'est pas du Brahms_,
-[il déclare](https://youtu.be/4OWp0nT9P0Y) :
+[il déclare][9] :
 
 > J'ai passé 2 ans épatants avec Michel Sardou. Après avoir cessé d'écrire les
 > sketches d'Antoine de Caunes à Canal, je me retrouve à adapter une pièce de
@@ -97,7 +88,7 @@ Au sujet de Michel, avec qui il a co-écrit les paroles de _C'est pas du Brahms_
 > Sardou, comédien de théâtre. Et c'était extra !
 
 Quand la journaliste lui demande s'il n'y a pas eu d'opposition de style entre
-les 2 personnages, Lolo reprend :
+les 2 personnages, Lolo reprend :
 
 > Y'a des sujets sur lesquels ça sert à rien de le lancer. Je n'étais pas sur
 > terre pour faire revenir Michel Sardou sur certaines de ces positions. On s'en
@@ -113,7 +104,7 @@ les 2 personnages, Lolo reprend :
 > Roy à St-Tropez, ça doit être Carlos qui se jette tout nu dans la piscine. Sur
 > le rock, je peux rien lui raconter.
 
-Avant de conclure sur la fin de leurs 2 ans d'intimité :
+Avant de conclure sur la fin de leurs 2 ans d'intimité :
 
 > Tout le monde est sorti indemne. Sardou est resté Sardou. Je suis resté ce que
 > je suis. Ça fait partie des ironies, des espiègleries de l'existence. Il faut
@@ -121,9 +112,8 @@ Avant de conclure sur la fin de leurs 2 ans d'intimité :
 
 ## Pour conclure
 
-Une dernière
-[citation de Chalumeau sur les disques](https://youtu.be/Etu2yx_oEsg), opinion
-sur la magie des faces que je partage à 100% :
+Une dernière [citation de Chalumeau sur les disques][10], opinion sur la magie
+des faces que je partage à 100% :
 
 > On ne fait plus d'albums. Avec les baladeurs et la programmation aléatoire,
 > l'album en tant que forme narrative, en tant que construction a reçu le coup
@@ -158,8 +148,15 @@ d'albums :
 8. The Clash - _Train In Vain_
 9. The Beatles - _A Day in the Life_
 
-<div id='finfaceb-playlist'
-     class="dr-playlist"
-     dr-spotify-id="6vUhOXbujw5lL1tmmTA6CI"
-     dr-spotify-user="dirtyhenry">
-</div>
+{% playlist 6vUhOXbujw5lL1tmmTA6CI dirtyhenry %}
+
+[1]: http://www.paroles.net/michel-sardou/paroles-je-suis-pour
+[2]: http://www.paroles.net/michel-sardou/paroles-le-temps-des-colonies
+[3]: https://youtu.be/McF-ZsJi9Qo
+[4]: https://youtu.be/Ihlr1GZhBXw
+[5]: https://youtu.be/YL-tKWyrzuk
+[6]: https://youtu.be/5iSeilVIvXU
+[7]: http://georgesclooney.blogspot.fr
+[8]: http://www.deadrooster.org/Chalumeau-est-il-un-mec-sympa,225
+[9]: https://youtu.be/4OWp0nT9P0Y
+[10]: https://youtu.be/Etu2yx_oEsg

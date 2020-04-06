@@ -6,14 +6,13 @@ authors:
 tags:
   - encyclopédie approximative
 cover: https://s3-eu-west-1.amazonaws.com/org.deadrooster.blog/bruce.jpg
+cover_alt: Brousse lit
 description: >
   Il aura fallu du temps pour ce nouvel article de l'Encyclopédie Approximative
   du Rock and Roll. La faute à l'illustration : un lion dans son milieu naturel
   ? Trop facile ! Un gros plan d'un fromage frais de Provence ? Bof ! Après des
   mois de labeur,  la voila, la seule, l'unique photo où Bruce lit.
 ---
-
-![Brousse lit]({{ page.cover }})
 
 Surnommé le Boss, parce qu'il l'est et parce que c'est plus simple à prononcer,
 Brousse Prinestine (la vraie prononciation de par chez nous) s'est très vite

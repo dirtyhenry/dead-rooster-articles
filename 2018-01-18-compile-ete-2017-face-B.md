@@ -12,8 +12,6 @@ description: >
   se délecter d'un bon vieux jambon-beurre.
 ---
 
-![Un Été 2017, face B]({{ page.cover }})
-
 Janvier 2017. Ma résolution ? Frustré de tous ces lineups de festival sans nom
 évocateur, je décidai d'écouter davantage de musique contemporaine et d'utiliser
 le passé simple de temps en temps. Je cèderai ainsi aux tops de fin d'année et
@@ -49,7 +47,7 @@ cœur dans mon petit carnet fêtait, pendant ce temps, ses 60 balais.
 Quant aux sorties de 2017, quelques disques honorables mais même les artistes de
 mon panthéon personnel déçoivent : [Arcade Fire qui fait du
 ABBA][arcade-fire-par-libe], The National, Grizzly Bear, Fleet Foxes... Mouais,
-vous m'avez déçu les mecs :
+vous m'avez déçu les mecs :
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://giphy.com/embed/pVAMI8QYM42n6"></iframe>
@@ -80,9 +78,7 @@ boulot car, de mémoire, j'aimais pas trop l'originale[^1].
 Bien consciencieusement, je retourne écouter Sinéad pour apprécier le travail
 d'adaptation de Freedom Fry, puisque le groupe de la cover a bien un nom.
 
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/0-EF60neguk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
+{% youtube 0-EF60neguk %}
 
 5'08" plus tard, le choc est terrible. Merde, j'aime en fait beaucoup
 l'originale. Trop, probablement. Mes certitudes chancèlent. Est-ce que je
@@ -93,9 +89,7 @@ on découvrira que j'ai écouté le titre en boucle pendant plusieurs jours ?
 
 Quelques jours plus tard, j'ai oublié le contexte : rebelote.
 
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/4z2DtNW79sQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
+{% youtube 4z2DtNW79sQ %}
 
 J'avais toujours aimé _Streets of Philadelphia_, c'est pas ça la question. Mais
 comme on aime le jambon-beurre. Mais là, en réécoutant ce titre, mes papilles me
@@ -117,11 +111,7 @@ Du jambon de Paris
 Ou bien d'Aoste.  
 Je t'aime ô jambon.
 
-<div id='ete-2017-face-B-playlist'
-     class="dr-playlist"
-     dr-spotify-id="3Iy02RR8SSSoBhmspNDyAF"
-     dr-spotify-user="guiguilele">
-</div>
+{% spotify 3Iy02RR8SSSoBhmspNDyAF guiguilele %}
 
 ### Face Dirty
 

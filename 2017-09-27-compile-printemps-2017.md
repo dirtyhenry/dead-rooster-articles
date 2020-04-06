@@ -11,8 +11,6 @@ description: >
   gueule. Dead Rooster présente... Un Printemps 2017.
 ---
 
-![Un Printemps 2017]({{ page.cover }})
-
 Aujourd'hui, octobre pointe le bout de son nez mais qu'importe, nous allons
 célébrer le printemps, saison du renouveau, du rouleau, et de la saine
 concurrence aux Galeries Lafayette.
@@ -86,11 +84,7 @@ signe un chef d'œuvre en à peine deux minutes.
 
 Prends ça dans ta gueule Marcel Proust !
 
-<div id='printemps-2017-playlist'
-     class="dr-playlist"
-     dr-spotify-id="2DhVzuXuNBehDVdfdeTtO5"
-     dr-spotify-user="guiguilele">
-</div>
+{% spotify 2DhVzuXuNBehDVdfdeTtO5 guiguilele %}
 
 1. K's Choice - _We Are Glaciers_
 1. Chuck Berry - _Johnny B. Goode_

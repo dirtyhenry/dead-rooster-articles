@@ -10,8 +10,6 @@ description: >
   Où on cause toons et tunes.
 ---
 
-![Un Printemps 2017, face B]({{ page.cover }})
-
 Tel le grand géocoucou réussissant à slalomer entre les pièges de Wile Ethelbert
 Coyote, _Popfolkrockus Musicalis_ reste toujours insaisissable pour l'_Homo
 Deadroosteriens Compilatorus_. Saison après saison, ce dernier arrive, tant bien
@@ -44,11 +42,7 @@ vous verrez Wile E. profitez d'un tel festin !
 
 Au prochain "bip-bip", il sera exactement l'heure de l'Eté 2017.
 
-<div id='printemps-2017-face-B-playlist'
-     class="dr-playlist"
-     dr-spotify-id="2FhlVbCDvPojqLvF0ZIrQH"
-     dr-spotify-user="guiguilele">
-</div>
+{% spotify 2FhlVbCDvPojqLvF0ZIrQH guiguilele %}
 
 ### Face Joe
 
