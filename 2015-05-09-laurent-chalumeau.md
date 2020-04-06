@@ -148,7 +148,7 @@ d'albums :
 8. The Clash - _Train In Vain_
 9. The Beatles - _A Day in the Life_
 
-{% playlist 6vUhOXbujw5lL1tmmTA6CI dirtyhenry %}
+{% spotify 6vUhOXbujw5lL1tmmTA6CI dirtyhenry %}
 
 [1]: http://www.paroles.net/michel-sardou/paroles-je-suis-pour
 [2]: http://www.paroles.net/michel-sardou/paroles-le-temps-des-colonies
