@@ -11,8 +11,6 @@ description: >
   la face B.
 ---
 
-![Un Hiver 2017, face B]({{ page.cover }})
-
 ## 1987 dans le rétro
 
 Y’a 30 ans, c’était 1987.
@@ -71,11 +69,7 @@ Y'a la face B de notre compile Hiver 2017.
 Ça se trouve, 2017, p'têt bien que ça pue du cul mais que c'est kiffant en même
 temps.
 
-<div id='hiver-2017-playlist'
-     class="dr-playlist"
-     dr-spotify-id="5LS3I2HtqhYjSGEDTv94EZ"
-     dr-spotify-user="guiguilele">
-</div>
+{% spotify 5LS3I2HtqhYjSGEDTv94EZ guiguilele %}
 
 ### Face Dirty
 

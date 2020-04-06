@@ -14,8 +14,6 @@ description: >
   présente... Un Automne 2016.
 ---
 
-![Un Automne 2016]({{ page.cover }})
-
 ## Longue vie aux compiles
 
 [Il y a déjà plusieurs années][compilations], Dirty Henry fabriquait des
@@ -66,11 +64,7 @@ compiles Dead Rooster, en mode saisonnier et à 4 mains.
 Mesdames et messieurs, sans vous faire attendre davantage, voici donc _Un
 Automne 2016_.
 
-<div id='automne-2016-playlist'
-     class="dr-playlist"
-     dr-spotify-id="65xZgjViHqBXVtecuyisTv"
-     dr-spotify-user="guiguilele">
-</div>
+{% spotify 65xZgjViHqBXVtecuyisTv guiguilele %}
 
 1. Connie Converse - _Talkin' Like You (Two Tall Mountains)_
 1. Deepakalypse - _Drummers_

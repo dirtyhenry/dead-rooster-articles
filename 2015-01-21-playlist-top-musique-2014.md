@@ -5,12 +5,11 @@ authors:
   - Dirty Henry
 tags: musique top
 cover: /assets/images/top-musique-2014.png
+cover_alt: Le podium, celui des champions
 description: >
   Dead Rooster donne ses médailles à l'occasion d'un comeback complètement 2.0 !
 lead-paragraph: true
 ---
-
-![Le podium, celui des champions]({{ page.cover }})
 
 C’est janvier, ça fait longtemps qu’on ne l’a pas fait mais ne serait-ce pas le
 temps de faire un petit Top musical de l'année passée, [comme au bon vieux
@@ -26,11 +25,7 @@ temps][top-2011] ?
 
 ## La Playlist
 
-<div id='top2014-playlist'
-     class="dr-playlist"
-     dr-spotify-id="5s5lKWpzKsfK7T7IWRtjnR"
-     dr-spotify-user="dirtyhenry">
-</div>
+{% spotify 5s5lKWpzKsfK7T7IWRtjnR dirtyhenry %}
 
 ### Face A
 

@@ -4,11 +4,10 @@ title: "Yo La Retengo"
 authors:
   - Joe Gantdelaine
 cover: https://s3-eu-west-1.amazonaws.com/org.deadrooster.blog/yolatengo.jpg
+cover_alt: Petit déjeuner pénard
 description: >
   Récit du concert depuis un fauteuil ultra confortable
 ---
-
-![Petit déjeuner pénard]({{ page.cover }})
 
 Un peu plus d'un an après avoir vanté les mérites du
 [bassiste à lunettes](http://www.deadrooster.org/Yo-La-Dumpo), il est temps de
@@ -18,9 +17,7 @@ reprises) : _Stuff Like That There_. Un album très cool, parfait pour faire la
 sieste un après-midi d'automne ensoleillé (rien de péjoratif là-dedans, j'aime
 bien faire la sieste !).
 
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/jJwTSTlpsak" frameborder="0"></iframe>  
-</div>
+{% youtube jJwTSTlpsak %}
 
 Nous voici donc au concert après une journée sans sieste (dur !). Arrivé dans la
 salle, on réalise qu'on assistera à un concert assis dans des fauteuils
@@ -51,9 +48,7 @@ ressemblant à un prof de sciences nat' apporte la guitare d'après. Parfois, on
 baille au milieu d'un titre. Mais ce n'est pas une marque d'ennui. Juste la
 conséquence du moment relax qu'on passe avec nos potes sur scène.
 
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/UbHnyPV8UU4" frameborder="0"></iframe>  
-</div>
+{% youtube UbHnyPV8UU4 %}
 
 Sur scène donc, il y a Ira le chanteur-guitariste qu'il est difficile de ne pas
 comparer à un Dylan de série B, un qui porterait un tee-shirt à rayures plutôt
@@ -68,9 +63,7 @@ y a aussi plein de tableaux plus ou moins naïfs, plus ou moins abstraits (ah, s
 un scénariste des Simpson passait par là !) qui donnent l'impression que les
 membres du groupe sont au moins aussi intelligents et cultivés que leur public.
 
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/khnidn-AFoI" frameborder="0"></iframe>  
-</div>
+{% youtube khnidn-AFoI %}
 
 J'avoue que j'aurais du mal à extraire des grands moments de ce concert. Il n'y
 a pas eu de "tubes" au sens strict du terme et globalement, le concert formait

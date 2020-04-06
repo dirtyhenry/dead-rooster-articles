@@ -11,8 +11,6 @@ description: >
   2016, la face B.
 ---
 
-![Un Automne 2016, face B]({{ page.cover }})
-
 ## Soyons précis !
 
 Voyez, moi, j'ai toujours été très compile. Les compiles et moi, c'est une
@@ -71,11 +69,7 @@ pour une nouvelle grosse heure de musique estampillée Dead Rooster.
 En revanche, inutile d'espérer une face C. Dirty et Joe ont déjà tourné leurs
 oreilles vers [_Un Hiver 2017_][hiver-2017] !
 
-<div id='automne-2016-playlist'
-     class="dr-playlist"
-     dr-spotify-id="7jfYizYX4G9qTR76PspPFh"
-     dr-spotify-user="guiguilele">
-</div>
+{% spotify 7jfYizYX4G9qTR76PspPFh guiguilele %}
 
 ### Face Joe
 

@@ -5,6 +5,7 @@ authors:
   - Dirty Henry
 tags: musique neutral-milk-hotel concert trianon jeff-mangum
 cover: /assets/images/neutral-milk-hotel-introduction.png
+cover_alt: Pochette de In The Aeroplane Over The Sea, meilleur album 90s ?
 description: >
   Le meilleur concert de 2014 pour certains, le meilleur album des 90s pour
   d'autres. Neuf mois après le concert, parce qu'on n'est pas aux pièces, retour
@@ -13,13 +14,10 @@ description: >
 lead-paragraph: true
 ---
 
-![Pochette de In The Aeroplane Over The Sea, meilleur album 90s ?]({{ page.cover }})
-
-Le Trianon, Paris, 25 mai 2014.
-[Lætitia Sadier](http://fr.wikipedia.org/wiki/Lætitia_Sadier) sort de scène.
-C'est l'avant-dernière fois que la chanteuse de Stereolab ouvre pour la tête
-d'affiche de la soirée, **Neutral Milk Hotel**. Il ne reste plus que quelques
-minutes avant que Jeff Mangum n'entre en scène.
+Le Trianon, Paris, 25 mai 2014. [Lætitia Sadier][1] sort de scène. C'est
+l'avant-dernière fois que la chanteuse de Stereolab ouvre pour la tête d'affiche
+de la soirée, **Neutral Milk Hotel**. Il ne reste plus que quelques minutes
+avant que Jeff Mangum n'entre en scène.
 
 ## Neutral Milk Quoi ? Jeff Qui ?
 
@@ -53,7 +51,7 @@ Et finalement le groupe en vendra un bon paquet. Côté critique, Pitchfork le
 nomme 4ème meilleur album des 90s tandis que le plus méconnu Magnet le place à
 la 1ère place, devant Nirvana, Radiohead et les autres.
 
-## Que faire après le chef-d'œuvre ?
+## Que faire après le chef-d'œuvre ?
 
 Deux mois avant la sortie de _In the Aeroplane Over the Sea_, il déclare :
 
@@ -93,12 +91,11 @@ _Two-Headed Boy_. _About A Boy_ m'avait appris qu'il ne fallait jamais fermer
 les yeux en chantant. Neutral Milk Hotel m'a démontré que c'était une connerie.
 
 Vers la fin du morceau, ses acolytes le rejoignent : Scott, ses cuivres et ses
-faux airs de [Potiron](https://www.google.com/search?q=potiron+oui-oui)
-s'installent à gauche, le batteur Jeremy et sa moustache d'une virilité folle au
-fond, et Julian le fou avec le bonnet chelou prend le devant de la scène. Mangum
-avait déjà posé des bonnes bases d’intensité avec un chant si sincère qu'il
-donne l'impression d'y laisser ses tripes. Les instruments en rajoute une couche
-en attaquant _Holland, 1945_.
+faux airs de [Potiron][2] s'installent à gauche, le batteur Jeremy et sa
+moustache d'une virilité folle au fond, et Julian le fou avec le bonnet chelou
+prend le devant de la scène. Mangum avait déjà posé des bonnes bases d’intensité
+avec un chant si sincère qu'il donne l'impression d'y laisser ses tripes. Les
+instruments en rajoute une couche en attaquant _Holland, 1945_.
 
 On est dans un mix entre Beirut et Arcade Fire mais le show n'est pas aussi
 chorégraphié. Tout est plus naturel, organique, sincère. La salle n'est pas bien
@@ -108,8 +105,7 @@ s'agitent aux premiers rangs du balcon. Magique.
 
 ## Et maintenant ?
 
-Une anecdote relatée par
-[Diffuser.fm](http://diffuser.fm/jeff-mangum-plays-intimate-show-tells-audience-theyll-never-hear-his-new-songs/) :
+Une anecdote relatée par [Diffuser.fm][3] :
 
 > Dans la foule, un mec cria : “Joues-en une nouvelle !”. Mangum répondit :
 > “Vous n'entendrez jamais ces chansons.” La salle devint silencieuse. “Quoi ?”
@@ -117,19 +113,14 @@ Une anecdote relatée par
 > concert sans qu'un seul nouveau titre ne soit joué.
 
 En outre, fin 2014, le groupe annonce que la tournée sans fin s'achèvera au
-printemps 2015.
-[(sic)](http://pitchfork.com/news/57791-neutral-milk-hotel-announce-last-tour-for-the-forseeable-future/).
-Il ne reste que des dates aux US. Si vous n'avez pas eu la chance de voir le
-groupe jusqu'à présent, c'est donc le moment de se montrer patriote, de dire
-merde à son empreinte carbone et d'aller donner des sous à Air France.
+printemps 2015. [(sic)][4]. Il ne reste que des dates aux US. Si vous n'avez pas
+eu la chance de voir le groupe jusqu'à présent, c'est donc le moment de se
+montrer patriote, de dire merde à son empreinte carbone et d'aller donner des
+sous à Air France.
 
 ## La Playlist
 
-<div id='neutralmilkhotel-playlist'
-     class="dr-playlist"
-     dr-spotify-id="3mAghZ3fbBetCZs2HFqLm1"
-     dr-spotify-user="dirtyhenry">
-</div>
+{% spotify 3mAghZ3fbBetCZs2HFqLm1 dirtyhenry %}
 
 Pis, quand même une playlist pour finir :
 
@@ -153,6 +144,11 @@ Pis, quand même une playlist pour finir :
 **EDIT (novembre 2016)** : pour vous mettre dans l'ambiance de Athens, Géorgie,
 en 1997, voici un petit live dans une maison.
 
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/vMw54NK_524" frameborder="0"></iframe>
-</div>
+{% youtube vMw54NK_524 %}
+
+[1]: http://fr.wikipedia.org/wiki/Lætitia_Sadier
+[2]: https://www.google.com/search?q=potiron+oui-oui
+[3]:
+  http://diffuser.fm/jeff-mangum-plays-intimate-show-tells-audience-theyll-never-hear-his-new-songs/
+[4]:
+  http://pitchfork.com/news/57791-neutral-milk-hotel-announce-last-tour-for-the-forseeable-future/

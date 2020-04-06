@@ -10,8 +10,6 @@ description: >
   Pouin-pouin-pouin Pouin-pouin'pouin-pouin Pouin-pouin-pouin Pouin-pouiiiiin
 ---
 
-![Deep Purple]({{ page.cover }})
-
 Groupe fondateur pour certains, groupe d'un seul titre pour les autres, peu
 importe. Deep Purple peut s'enorgueillir d'être considéré, au même titre que
 Metallica, comme des précurseurs du hard rock. Et, en tout cas, Deep Purple est
