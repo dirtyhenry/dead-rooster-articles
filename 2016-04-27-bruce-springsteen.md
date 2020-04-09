@@ -5,7 +5,7 @@ authors:
   - Joe Gantdelaine
 tags:
   - encyclopédie approximative
-cover: https://s3-eu-west-1.amazonaws.com/org.deadrooster.blog/bruce.jpg
+cover: bruce.jpg
 cover_alt: Brousse lit
 description: >
   Il aura fallu du temps pour ce nouvel article de l'Encyclopédie Approximative

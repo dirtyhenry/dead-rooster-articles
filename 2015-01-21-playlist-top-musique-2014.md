@@ -4,7 +4,7 @@ title: "La Playlist du Top Musique 2014"
 authors:
   - Dirty Henry
 tags: musique top
-cover: /assets/images/top-musique-2014.png
+cover: top-musique-2014.png
 cover_alt: Le podium, celui des champions
 description: >
   Dead Rooster donne ses médailles à l'occasion d'un comeback complètement 2.0 !

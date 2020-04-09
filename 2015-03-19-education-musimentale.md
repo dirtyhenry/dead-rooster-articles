@@ -4,7 +4,7 @@ title: "L'Éducation Musimentale"
 authors:
   - Joe Gantdelaine
 tags: musique
-cover: /assets/images/education-musimentale.png
+cover: education-musimentale.png
 cover_alt: Dans Almost Famous, Lester Bangs fait le bilan
 description: >
   Joe Gantdelaine vous présente sa famille musicale. Il en est fier souvent et
