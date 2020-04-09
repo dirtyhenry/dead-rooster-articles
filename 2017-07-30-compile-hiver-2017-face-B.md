@@ -5,7 +5,7 @@ authors:
   - Dirty Henry
 tags:
   - compile
-cover: https://s3-eu-west-1.amazonaws.com/org.deadrooster.blog/Un-Hiver-2017-face-B.png
+cover: hiver-2017-b.png
 description: >
   Parce que 2 faces valent mieux qu'une. Dead Rooster présente... Un Hiver 2017,
   la face B.

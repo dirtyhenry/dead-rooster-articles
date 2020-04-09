@@ -5,7 +5,7 @@ authors:
   - Joe Gantdelaine
 tags:
   - compile
-cover: https://s3-eu-west-1.amazonaws.com/org.deadrooster.blog/Un+Printemps+2017-face+B.jpg
+cover: printemps-2017-b.jpg
 description: >
   Où on cause toons et tunes.
 ---

@@ -4,7 +4,7 @@ title: "Neutral Milk Hotel, une Introduction"
 authors:
   - Dirty Henry
 tags: musique neutral-milk-hotel concert trianon jeff-mangum
-cover: /assets/images/neutral-milk-hotel-introduction.png
+cover: neutral-milk-hotel-introduction.png
 cover_alt: Pochette de In The Aeroplane Over The Sea, meilleur album 90s ?
 description: >
   Le meilleur concert de 2014 pour certains, le meilleur album des 90s pour

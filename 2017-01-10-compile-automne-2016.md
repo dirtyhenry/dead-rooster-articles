@@ -6,7 +6,7 @@ authors:
   - Joe Gantdelaine
 tags:
   - compile
-cover: https://s3-eu-west-1.amazonaws.com/org.deadrooster.blog/un-automne-2016.jpg
+cover: automne-2016.jpg
 description: >
   Parce que les playlists c'est bien mais que les compiles c'est peut-être
   mieux. Parce que les Inrocks ne font plus le boulot correctement. Parce que

@@ -5,7 +5,7 @@ authors:
   - Joe Gantdelaine
 tags:
   - compile
-cover: https://s3-eu-west-1.amazonaws.com/org.deadrooster.blog/un-automne-2016-B.jpg
+cover: automne-2016-b.jpg
 description: >
   Parce que 2 faces valent mieux qu'une. Dead Rooster présente... Un Automne
   2016, la face B.

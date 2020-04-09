@@ -5,7 +5,7 @@ authors:
   - Joe Gantdelaine
 tags:
   - encyclopédie approximative
-cover: https://s3-eu-west-1.amazonaws.com/org.deadrooster.blog/deep-purple-smoke-water.jpg
+cover: deep-purple-smoke-water.jpg
 description: >
   Pouin-pouin-pouin Pouin-pouin'pouin-pouin Pouin-pouin-pouin Pouin-pouiiiiin
 ---

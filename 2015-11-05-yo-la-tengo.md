@@ -3,7 +3,7 @@ layout: post
 title: "Yo La Retengo"
 authors:
   - Joe Gantdelaine
-cover: https://s3-eu-west-1.amazonaws.com/org.deadrooster.blog/yolatengo.jpg
+cover: yolatengo.jpg
 cover_alt: Petit déjeuner pénard
 description: >
   Récit du concert depuis un fauteuil ultra confortable
