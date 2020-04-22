@@ -68,11 +68,13 @@ membres du groupe sont au moins aussi intelligents et cultivés que leur public.
 J'avoue que j'aurais du mal à extraire des grands moments de ce concert. Il n'y
 a pas eu de "tubes" au sens strict du terme et globalement, le concert formait
 un ensemble uniforme (peut-être trop ?). D'ailleurs, cette uniformité est
-peut-être la grande force de ce concert : si on regarde la
-[setlist](http://www.setlist.fm/setlist/yo-la-tengo/2015/la-cigale-paris-france-bf58142.html),
-une bonne moitié est constituée de reprises. Mais ce soir-là, on n'entendait que
-des chansons de Yo La Tengo !
+peut-être la grande force de ce concert : si on regarde la [setlist][1], une
+bonne moitié est constituée de reprises. Mais ce soir-là, on n'entendait que des
+chansons de Yo La Tengo !
 
 En fin de compte, on gardera avant tout le souvenir d'une excellente soirée, où
 l'on aura pu apprécier pendant deux heures un monde de douceur avec des
 camarades en New Balance. Moelleux !
+
+[1]:
+  http://www.setlist.fm/setlist/yo-la-tengo/2015/la-cigale-paris-france-bf58142.html
