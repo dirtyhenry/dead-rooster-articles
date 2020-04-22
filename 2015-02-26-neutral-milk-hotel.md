@@ -40,16 +40,15 @@ stabilise. Julian Koster (qui joue un peu de tout mais notamment du banjo et de
 la scie musicale), Scott Spillane (cuivres) et Jeremy Barnes (batterie) sont
 désormais des membres à part entière.
 
-![Jeff, Scott, Julian et Jeremy : le lineup de Neutral Milk Hotel](assets/images/neutral-milk-hotel-lineup-90s.jpg)
+{% asset neutral-milk-hotel-lineup-90s.jpg alt='Jeff, Scott, Julian et Jeremy : le lineup de Neutral Milk Hotel' %}
 
 En 1998, le second _In An Aeroplane Over The Sea_, avec Schneider à la
 production, est un chef-d'œuvre. À sa sortie, les critiques sont emballés et si
 les ventes restent confidentielles, leur niveau ne s'affaisse pas, jamais. Il
-finit même 6ème vinyle le plus vendu de l'année...
-[en 2008](http://www.rollingstone.com/music/news/radiohead-neutral-milk-hotel-help-vinyl-sales-almost-double-in-2008-20090108).
-Et finalement le groupe en vendra un bon paquet. Côté critique, Pitchfork le
-nomme 4ème meilleur album des 90s tandis que le plus méconnu Magnet le place à
-la 1ère place, devant Nirvana, Radiohead et les autres.
+finit même 6ème vinyle le plus vendu de l'année… [en 2008][5]. Et finalement le
+groupe en vendra un bon paquet. Côté critique, Pitchfork le nomme 4ème meilleur
+album des 90s tandis que le plus méconnu Magnet le place à la 1ère place, devant
+Nirvana, Radiohead et les autres.
 
 ## Que faire après le chef-d'œuvre ?
 
@@ -83,7 +82,7 @@ Ce n'était pas le premier concert de reformation que j'allais voir et même si
 certains furent très convaincants (Blur à Hyde Park, Pulp à Primavera), je
 savais aussi que le pari est parfois risqué (The La’s à Rock en Seine).
 
-![Jeff Mangum en 2014](assets/images/neutral-milk-hotel-jeff-mangum-2014.jpg)
+{% asset neutral-milk-hotel-jeff-mangum-2014.jpg alt='Jeff Mangum en 2014' %}
 
 Pourtant, les premiers titres ne laissent plus place au doute : le concert va
 être excellent. Jeff Mangum arrive seul, à droite de la scène pour attaquer
@@ -134,13 +133,6 @@ Pis, quand même une playlist pour finir :
 - je vous ai épargné un morceau de musique folklorique bulgare qui est le kiff
   actuel de Mangum
 
-<div class="microdata" itemprop="performer" itemscope="" itemtype="http://schema.org/MusicGroup">
-  <link itemprop="sameAs" href="http://fr.wikipedia.org/wiki/Neutral_Milk_Hotela" />
-  <div>
-    <span itemprop="name">Neutral Milk Hotel</span></a>
-  </div>
-</div>
-
 **EDIT (novembre 2016)** : pour vous mettre dans l'ambiance de Athens, Géorgie,
 en 1997, voici un petit live dans une maison.
 
@@ -152,3 +144,5 @@ en 1997, voici un petit live dans une maison.
   http://diffuser.fm/jeff-mangum-plays-intimate-show-tells-audience-theyll-never-hear-his-new-songs/
 [4]:
   http://pitchfork.com/news/57791-neutral-milk-hotel-announce-last-tour-for-the-forseeable-future/
+[5]:
+  https://www.rollingstone.com/music/music-news/radiohead-neutral-milk-hotel-help-vinyl-sales-almost-double-in-2008-252602/

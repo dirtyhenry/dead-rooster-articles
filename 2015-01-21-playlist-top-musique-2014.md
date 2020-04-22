@@ -55,7 +55,7 @@ temps][top-2011] ?
 
 OK, le disque date de 1998 mais ce fut la claque de 2014. Leur concert au
 Trianon fut de loin le meilleur depuis des lustres. J'en parle plus en détail
-[ici][neutral-milk-hotel-une-introduction].
+[ici][1].
 
 Pour la playlist, j'ai choisi les deux titres les plus immédiats de l'album _In
 The Aeroplane Over The Sea_ mais son écoute intégrale, comme celle de son
@@ -111,38 +111,9 @@ Interpol a sorti un album de très honorable facture, les autres aussi. Ce ne
 sont plus les artistes et groupes excitants de leur début, mais ils déçoivent
 peu. C'est tout à leur honneur.
 
-<div class="microdata" itemscope itemtype="http://schema.org/MusicPlaylist">
-  <span itemprop="name">Dead Rooster 2014 Playlist</span>
-  <meta itemprop="numTracks" content="6"/>
-  <div itemprop="track" itemscope itemtype="http://schema.org/MusicRecording">
-    1.<span itemprop="name">In The Aeroplane Over The Sea</span> -
-    <span itemprop="byArtist">Neutral Milk Hotel</span>
-  </div>
-  <div itemprop="track" itemscope itemtype="http://schema.org/MusicRecording">
-    2.<span itemprop="name">Weird Shapes</span> -
-    <span itemprop="byArtist">Surfer Blood</span>
-  </div>
-  <div itemprop="track" itemscope itemtype="http://schema.org/MusicRecording">
-    3.<span itemprop="name">The Fresh &amp; Onlys</span> -
-    <span itemprop="byArtist">Who Let The Devil</span>
-  </div>
-  <div itemprop="track" itemscope itemtype="http://schema.org/MusicRecording">
-    4.<span itemprop="name">Gandi Lake</span> -
-    <span itemprop="byArtist">Weather Vanes</span>
-  </div>
-  <div itemprop="track" itemscope itemtype="http://schema.org/MusicRecording">
-    5.<span itemprop="name">Bruce Springsteen</span> -
-    <span itemprop="byArtist">Down in the Hole</span>
-  </div>
-  <div itemprop="track" itemscope itemtype="http://schema.org/MusicRecording">
-    6.<span itemprop="name">Beck</span> -
-    <span itemprop="byArtist">Waking Light</span>
-  </div>
-</div>
-
 [top-2011]: http://www.deadrooster.org/Top-Musique-2011
 [magicrpm]: http://www.magicrpm.com
-[labelpop-podcast]: http://www.francemusique.fr/emission/label-pop
+[labelpop-podcast]: https://www.francemusique.fr/emission/label-pop
 [bravo-maestro-classe-americaine]: http://youtu.be/RQeLeRMRrTM
 [deezer-lineup-recommender]:
   https://www.facebook.com/deezerfr/app_1491856657769251
@@ -153,5 +124,4 @@ peu. C'est tout à leur honneur.
 [stone-et-charden-prix-des-alumettes]:
   https://www.youtube.com/watch?v=n8x1T_-XfMY
 
-[neutral-milk-hotel-une-introduction]:
-{% post_url 2015-02-26-neutral-milk-hotel %}
+[1]: {% post_url 2015-02-26-neutral-milk-hotel %}
