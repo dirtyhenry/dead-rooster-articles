@@ -1,51 +1,46 @@
 ---
-status: publie
-published: false
-title: Dirty's top songs ever
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
-wordpress_id: 232
-date: '2005-04-19 18:10:00 +0200'
-categories:
-- Catégories
+layout: post
+title: Dirty’s top songs ever
+authors:
+  - Dirty Henry
 tags:
-- Compilation
-comments: []
+  - compile
 ---
-With some friends of us, we made up a very cool game : "elect the songs that would compose the best 80 minutes of music ever".
 
-The rules are simple : 
--* don't pick more than one song for a single artist
--* try not to pick the best song of each of your favorite bands, just pick the best songs ever ! (who cares the band has made only one good song !!!). 
+With some friends of ours, we made up a very cool game: "pick the songs that
+would make the best 80 minutes of music ever".
 
-Here is the first draft of my list : (that can evolve, of course)
+The rules are simple:
 
--# Autour de Lucie's - *Selon l'humeur*
--# The Strokes - Last nite
--# Franz Ferdinand - *Take me out*
--# Pixies - *Caribou*
--# Pulp - *Common people*
--# The Beach Boys - *God only knows*
--# The Kinks - *Milk cow blues*
--# Nada Surf - *Hi-speed soul*
--# M - *Nostalgic du cool*
--# The Clash - *Clash city rockers*
--# David Bowie - *Space oddity*
--# Blondie - *Atomic*
--# Oasis - *Fade away* (the version from a War Child compilation)
--# Deep Purple - *Highway star*
--# Led Zeppelin - *Rock and roll*
--# Björk - *Bachelorette*
--# The Libertines - *Vertigo*
--# Hot Hot Heat - *No, not now*
--# The Velvet Underground - *I'll be your mirror*
--# Roger Glover and Butterfly Balls - *Love is all*
--# Blur - *Song 2*
--# Sleeper - *Twisted*
+- don’t pick more than one song for a single artist;
+- try not to pick the best song of each of your favorite bands, just pick the
+  best songs ever! (who cares of the band has made only one good song!!!).
+
+Here is the first draft of my list: (that can evolve, of course)
+
+{% spotify 21naYSWnKaM5xPkJqR1NiA?si=Mgu5sVrmS1yX3O6AY-Y-hg %}
+
+- Autour de Lucie's - _Selon l'humeur_
+- The Strokes - Last nite
+- Franz Ferdinand - _Take me out_
+- Pixies - _Caribou_
+- Pulp - _Common people_
+- The Beach Boys - _God only knows_
+- The Kinks - _Milk cow blues_
+- Nada Surf - _Hi-speed soul_
+- M - _Nostalgic du cool_
+- The Clash - _Clash city rockers_
+- David Bowie - _Space oddity_
+- Blondie - _Atomic_
+- Oasis - _Fade away_ (the version from a War Child compilation)
+- Deep Purple - _Highway Star_
+- Led Zeppelin - _Rock and roll_
+- Björk - _Bachelorette_
+- The Libertines - _Vertigo_
+- Hot Hot Heat - _No, not now_
+- The Velvet Underground - _I'll be your mirror_
+- Roger Glover and Butterfly Balls - _Love is all_
+- Blur - _Song 2_
+- Sleeper - _Twisted_
 
 Up to you to build your own list.
