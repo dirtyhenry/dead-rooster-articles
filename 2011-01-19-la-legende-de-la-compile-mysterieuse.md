@@ -25,11 +25,11 @@ comments:
 Il était une fois, par une journée forte ensoleillée, un garçon nommé Dirty. Un jour, il décida de prendre son automobile et d'aller se balader. Il entra dans la voiture et mit le contact.
 _ « Vroum ! fit l'automobile.
 _ - *Get your motor running ! Head out on the highway !* fit l'autoradio.
-_ - Tiens ?! se dit Dirty en fixant l'autoradio, je ne me souviens pas d'avoir jamais fait de cassette où figurait ce titre parfait pour la route, *Born To Be Wild*, par... par... ah oui, Steppenwolf ! Attendons la prochaine chanson, peut-être cela réveillera-t-il mieux mes souvenirs. »
+_ - Tiens ?! se dit Dirty en fixant l'autoradio, je ne me souviens pas d'avoir jamais fait de cassette où figurait ce titre parfait pour la route, *Born To Be Wild*, par… par… ah oui, Steppenwolf ! Attendons la prochaine chanson, peut-être cela réveillera-t-il mieux mes souvenirs. »
 
 La deuxième chanson vint à son tour. C'était *Stray Cat Blues*, des Rolling Stones. 
 _ « *But it's no hanging matter, it's no capital crime !* » hurla Mick Jagger dans les baffles de l'automobile. Puis s'ensuit le troisième titre,* (I Can't Get No) Satisfaction*, par Otis Redding.
-_ « Ah ah ! Quelle audace ! Une reprise des Rolling Stones après un titre des Rolling Stones : voilà qui ne manque pas de panache ! Je ne me souviens décidément pas d'avoir fait cette cassette, c'est certainement quelqu'un de mon entourage qui l'aura réalisée... Mais sapristi ! Qui donc ?! »
+_ « Ah ah ! Quelle audace ! Une reprise des Rolling Stones après un titre des Rolling Stones : voilà qui ne manque pas de panache ! Je ne me souviens décidément pas d'avoir fait cette cassette, c'est certainement quelqu'un de mon entourage qui l'aura réalisée… Mais sapristi ! Qui donc ?! »
 
 Alors, Dirty écouta la suite de la cassette. Il se dit que la personne qui l'avait réalisée était un sacré garnement, un vieux brigand, qui s'amusait à faire défiler les plus grandes figures de la musique tout en prenant le soin maniaque de ne jamais choisir l'un des tubes majeurs du groupe, leur préférant des titres plus méconnus mais tout aussi délicieux. Ainsi le Jefferson Airplane jouait *White Rabbit* et pas *Somebody To Love*, The Clash jouait *Lost In The Supermarket* et pas* Should I Stay Or Should I Go* et les Ramones jouaient *Rockaway Beach* et pas *Blitzkrieg Bop*. 
 
@@ -43,9 +43,9 @@ Cette fois, c'était certain, cette cassette était vraiment l'œuvre d'un vrai 
 Il interrogea son frère, sa sœur, ses parents, ses amis Joe, Jo et Ju. Rien n'y fit. L'auteur mystérieux conservait son anonymat. Découragé, il alla rendre visite au grand sage JR qui était toujours de bon conseil. Timidement, Dirty s'approcha de lui et lui demanda :
 _ « Grand maître, j'ai ici une cassette fabuleuse, une Sony UX 90. Je crois que cette compilation est peut-être parfaite et j'aimerais avoir votre opinion là-dessus.
 _ - Eh bien, dis-moi donc ce qu'il y a sur cette cassette.
-_ - Voilà, il y a beaucoup d'interprètes majeurs des dernières décennies et beaucoup de genres sont abordés : rock, chanson, blues, reggae, ...
+_ - Voilà, il y a beaucoup d'interprètes majeurs des dernières décennies et beaucoup de genres sont abordés : rock, chanson, blues, reggae, …
 _ - REGGAE ?! interrompit-il Dirty. Alors cette compile n'est pas parfaite !
-_ - Mais, grand maître, il ne s'agit que d'un tit...
+_ - Mais, grand maître, il ne s'agit que d'un tit…
 _ - CETTE COMPILE N'EST PAS PARFAITE !, conclut-il avant de ruminer, mettre des titres de reggae sur des compiles, c'est bien un truc de pêche arrière ça ! »
 
 Malgré l'avis du grand maître, Dirty continua sa quête, il voulait retrouver le mystérieux inconnu, pour lui dire que même s'il aimait le reggae, il le pardonnait et voulait lui faire part de son admiration. Il poursuivit ses efforts des jours, des semaines et des mois. En vain.
@@ -53,9 +53,9 @@ Malgré l'avis du grand maître, Dirty continua sa quête, il voulait retrouver 
 Lorsqu'un beau jour, il alla chercher son ami Groovy, toujours en écoutant cette cassette qui l'obsédait tant. Lorsque Groovy l'entendit, il dit à Dirty :
 _ « Et mais c'est ma cassette !
 _ - Ta cassette ? Mais comment se fait-il qu'elle soit dans ma voiture ?
-_ - Ben si tu sais, c'est quand on était allé au festival de Bourges en 2004 et que...
+_ - Ben si tu sais, c'est quand on était allé au festival de Bourges en 2004 et que…
 _ - Tu as délibérément introduit du reggae dans ma voiture ?
-_ - Ben oui mais...
+_ - Ben oui mais…
 _ - DU REGGAE ! »
 
 La conversation s'interrompit brusquement et plus un mot ne fut échangé pendant le reste du trajet.

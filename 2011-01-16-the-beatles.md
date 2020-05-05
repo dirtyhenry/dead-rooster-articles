@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Beatles
-description: 'Chaque semaine (on va essayer...), une nouvelle entrée de l''Encyclopédie
+description: 'Chaque semaine (on va essayer…), une nouvelle entrée de l''Encyclopédie
   Approximative du Rock and Roll sera mise en ligne. Au programme : des fausses informations,
   des anecdotes inexactes, des réflexions bancales sur quelques protagonistes de l''Histoire
   du Rock triés sur le volet. Et allez, on commence directement avec un gros morceau

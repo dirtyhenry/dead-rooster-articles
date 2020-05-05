@@ -20,7 +20,7 @@ Cher journal,
 
 Jeudi dernier, je suis allé voir __Valérie Leulliot__ au Café de la Danse. Mais si tu sais ! La chanteuse du groupe Autour de Lucie ! (je t'en avais déjà parlé) En fait elle venait défendre son disque *Caldeira*, sorti en février.
 
-Alors en fait, en première partie, y'avait un gars que je connaissais pas, Bogue. Tout seul à la guitare et avec ses samples, j'avoue que c'était pas trop mal même si on se demande bien pourquoi il s'entoure pas d'un vrai groupe, il y gagnerait vachement. Enfin après tout il fait ce qu'il veut...
+Alors en fait, en première partie, y'avait un gars que je connaissais pas, Bogue. Tout seul à la guitare et avec ses samples, j'avoue que c'était pas trop mal même si on se demande bien pourquoi il s'entoure pas d'un vrai groupe, il y gagnerait vachement. Enfin après tout il fait ce qu'il veut…
 
 Et puis après y'a eu Valérie Leulliot, bien entourée malgré le caractère "solo" de ce concert puisque pas moins de 4 musiciens l'ont accompagnée parmi lesquels Sébastien Lafargue, dernier bassiste en date d'Autour de Lucie et coauteur de l'album, et ce désormais fameux Bogue à la guitare. Les mélodies mélancoliques de l'album s'enchaînent alors pour un concert court mais aux arrangements riches et délicats, un véritable travail d'orfèvre folk (rien à voir avec [l'orfévrerie pop des Fountains of Wayne cela dit](371]). Les très belles interprétations de [*L'eau du Gange*->http://www.dailymotion.com/video/x2irpi_valerie-leulliot-l-eau-du-gange_music] et de [*Les falaises*->http://www.dailymotion.com/video/x8923a_falaise-sans-piles-session_music) furent incontestablement les sommets du concert.
 

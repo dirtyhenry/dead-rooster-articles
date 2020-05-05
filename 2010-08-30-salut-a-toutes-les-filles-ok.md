@@ -2,7 +2,7 @@
 layout: post
 title: Salut à toutes les filles OK
 description: Trois semaines de reprises de {{Katerine, Francis et ses peintres}} à
-  rattraper. Les 3 dernières furent donc...
+  rattraper. Les 3 dernières furent donc…
 authors:
   - Dirty Henry
 wordpress_id: 690
@@ -14,7 +14,7 @@ tags:
 - Concours Katerine
 - Katerine
 ---
-Trois semaines de reprises de __Katerine, Francis et ses peintres__ à rattraper. Les 3 dernières furent donc...
+Trois semaines de reprises de __Katerine, Francis et ses peintres__ à rattraper. Les 3 dernières furent donc…
 
 <h2>1. *A toutes les filles* de Didier Barbelivien & Félix Gray</h2>
 
@@ -46,4 +46,4 @@ Pas de changement au classement :
 
 Il est encore temps de participer en [cliquant ici](569) !
 
-Toutes les reprises sont disponibles sur [le site de Katerine, Francis et ses peintres](http://www.katerinefrancisetsespeintres.com/)...
+Toutes les reprises sont disponibles sur [le site de Katerine, Francis et ses peintres](http://www.katerinefrancisetsespeintres.com/)…

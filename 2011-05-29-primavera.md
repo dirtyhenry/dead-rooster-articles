@@ -15,6 +15,6 @@ Au programme, 5 jours de réjouissances et plein de très bons moments : *Grinde
 
 Il y eut aussi des bons moments (juste "bons") : la reformation de *Blur*, *The Flamin' Groovies* (si seulement son chanteur parlait moins entre les chansons, ça serait génial).
 
-Et puis des déceptions : les écossais de *Jeanne and Serge* avaient un son trop propret, *Float Fixes* n'est pas adapté aux festivals... et aussi la déception d'avoir raté *John Cage* et *Gizmo*.
+Et puis des déceptions : les écossais de *Jeanne and Serge* avaient un son trop propret, *Float Fixes* n'est pas adapté aux festivals… et aussi la déception d'avoir raté *John Cage* et *Gizmo*.
 
 Mais nous reviendrons plus en détails sur les performances de tous ces groupes et bien d'autres très bientôt sur le blog. A la semaine prochaine messieurs-dames, pour un article encore plus approximatif que celui-ci !

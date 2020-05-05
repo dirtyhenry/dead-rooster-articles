@@ -44,7 +44,7 @@ Par ailleurs, en ce qui concerne le biopic de Phil Spector (producteur génial d
 
 Aucun titre n'est encore prévu pour le film mais Stereogum propose un concours pour trouver le meilleur. Si j'étais producteur du film, je choisirais l'une de leurs propositions : *If You See Me Holding A Gun, Da Doo Ron Ron: The Story Of Phil Spector*.
 
-(via [Stereogum](http://stereogum.com/513961/sacha-baron-cohen-cast-as-freddie-mercury/casting-couch/] et... [Stereogum->http://stereogum.com/540682/name-the-phil-spector-biopic-starring-al-pacin/casting-couch/))
+(via [Stereogum](http://stereogum.com/513961/sacha-baron-cohen-cast-as-freddie-mercury/casting-couch/] et… [Stereogum->http://stereogum.com/540682/name-the-phil-spector-biopic-starring-al-pacin/casting-couch/))
 
 <h2>3. Continuons à chercher des noms</h2>
 

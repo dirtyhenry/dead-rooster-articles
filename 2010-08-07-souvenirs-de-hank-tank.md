@@ -29,7 +29,7 @@ Deux Islandais de deux mètres vingt chacun débarquent sur scène avec leur gui
 
 Mais peu à peu, une atmosphère s'installe. La musique simpliste et peu fournie du groupe contraste avec le chant chaud et langoureux du chanteur, un peu à la Lou Reed voyez, et finalement le groupe séduit. Et lorsqu'une  jeune et fraîche chanteuse rejoint les deux crados pour un duo très sensuel, on se rend même compte que l'on vit le sommet d'un show de trois quarts d'heure.
 
-Finalement Keren Ann et ses musiciens arrivent sur scène et dès leur apparition...
+Finalement Keren Ann et ses musiciens arrivent sur scène et dès leur apparition…
 </quote>
 
 Voilà, le brouillon s'arrête là. Tant pis pour Keren Ann.

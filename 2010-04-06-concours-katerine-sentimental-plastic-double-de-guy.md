@@ -28,6 +28,6 @@ Personne ne marque de point cette semaine. Le classement reste donc inchangé :
 
 Il est encore temps de participer en [cliquant ici](569) !
 
-Toutes les reprises sont disponibles sur [le site de Katerine, Francis et ses peintres](http://www.katerinefrancisetsespeintres.com/)...
+Toutes les reprises sont disponibles sur [le site de Katerine, Francis et ses peintres](http://www.katerinefrancisetsespeintres.com/)…
 
 <div xmlns:cc="http://creativecommons.org/ns#" about="http://www.flickr.com/photos/joemud/3718392114/"><a rel="cc:attributionURL" href="http://www.flickr.com/photos/joemud/">http://www.flickr.com/photos/joemud/</a> / <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.0/">CC BY-NC-SA 2.0</a></div>

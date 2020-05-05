@@ -31,7 +31,7 @@ compileur n'est pas suffisant, voila qu'il fait équipe avec un deuxième amateu
 de chasse aux chansons (rien à voir avec P. Sevran). Apparaissent alors les
 difficultés du travail d'équipe : "mais, pourquoi tu l'as laissé passer
 celui-là, il était bien !", "T'es sûr pour celle-là ? Le saxo, là, t'es sûr ? On
-la prend quand même ? Bon..." Heureusement, chaque compileur a son petit pré
+la prend quand même ? Bon…" Heureusement, chaque compileur a son petit pré
 carré, sa moitié de face B, où il peut, seul dans son coin, se créer son petit
 piège à titres rien qu'à lui. Il en est fier, c'est lui qui a écouté, collecté
 et assemblé tous les morceaux.

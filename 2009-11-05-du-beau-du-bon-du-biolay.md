@@ -20,9 +20,9 @@ comments:
   title: Du beau, du bon, du Biolay
   content: C'est sûr qu'il peut être légitime de craindre les nouvelles livraisons
     d'un mec qui ne joue jamais en live son meilleur morceau, caché en titre de bonus
-    de son premier album... (je parle bien sûr de {La dernière heure du dernier jour})
+    de son premier album… (je parle bien sûr de {La dernière heure du dernier jour})
 ---
-Comme à chaque livraison du bonhomme depuis *Négatif*, on est toujours fébrile avant la première écoute d'un nouvel album de __Benjamin Biolay__ (pour *Rose Kennedy*, on ne pouvait être fébrile, puisqu'on découvrait l'artiste...). Le garçon ayant l'art de se renouveler, flirtant parfois avec le mauvais goût, il finira bien par nous pondre un truc complètement nul un jour ou l'autre. Et cette fois-ci, on est d'autant plus fébrile que *Trash Yéyé* se révéla légèrement en dessous de *A L'Origine*. Et quand en plus, on sait que l'album est double, il n'en faut pas plus pour qu'une goutte de sueur nous coule le long du dos...
+Comme à chaque livraison du bonhomme depuis *Négatif*, on est toujours fébrile avant la première écoute d'un nouvel album de __Benjamin Biolay__ (pour *Rose Kennedy*, on ne pouvait être fébrile, puisqu'on découvrait l'artiste…). Le garçon ayant l'art de se renouveler, flirtant parfois avec le mauvais goût, il finira bien par nous pondre un truc complètement nul un jour ou l'autre. Et cette fois-ci, on est d'autant plus fébrile que *Trash Yéyé* se révéla légèrement en dessous de *A L'Origine*. Et quand en plus, on sait que l'album est double, il n'en faut pas plus pour qu'une goutte de sueur nous coule le long du dos…
 
 En effet, comment est-il encore décemment possible de sortir des double albums, quand on nous rebat les oreilles avec "la crise du disque" ? Mais surtout, comment proposer deux galettes dans la même boîte, quand on connaît les (plus ou moins) malheureuses tentatives qui ont émaillé l'histoire de la musique ? Toujours le risque de diluer la qualité, de s'éparpiller dans des choses sans intérêt, de perdre la cohérence que peut avoir un album "classique".
 

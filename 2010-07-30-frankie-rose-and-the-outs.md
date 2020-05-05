@@ -15,7 +15,7 @@ tags:
 ---
 C'est promis, bientôt j'arrête avec les groupes Dum-Dum-Girls-like, mais là y'en a un dernier pour la route, il s'appelle __Frankie Rose and The Outs__ !
 
-D'ailleurs Franky Rose est une ancienne de Dum Dum Girls... et de Crystal Stilts... et de Vivian Girls. Autant dire que son CV parle pour elle ! Des fois, elle et ses copines se rassemblent dans la rue, à New York, et ça fait grimper le taux de tatouage au mètre carré :
+D'ailleurs Franky Rose est une ancienne de Dum Dum Girls… et de Crystal Stilts… et de Vivian Girls. Autant dire que son CV parle pour elle ! Des fois, elle et ses copines se rassemblent dans la rue, à New York, et ça fait grimper le taux de tatouage au mètre carré :
 
 <object width="500" height="306"><param name="movie" value="http://www.youtube.com/v/28myXZN9WKE&hl=fr_FR&fs=1?color1=0x006699&color2=0x54abd6"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/28myXZN9WKE&hl=fr_FR&fs=1?color1=0x006699&color2=0x54abd6" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="306"></embed></object>
 

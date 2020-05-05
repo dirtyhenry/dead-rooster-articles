@@ -12,7 +12,7 @@ tags:
 - Concert
 - Graham Coxon
 ---
-Mercredi 12 avril 2006, 22h30, sortie du Trabendo. Au risque de ne surprendre personne et de me répéter un chouilla, __Graham Coxon__ est vraiment un musicien exceptionnel et n'a sûrement pas le succès qu'il mérite : salle à moitié vide, première partie sympa mais complètement inconnue au bataillon (Lou Ann & The Spoken Words), et pourtant, et pourtant... 
+Mercredi 12 avril 2006, 22h30, sortie du Trabendo. Au risque de ne surprendre personne et de me répéter un chouilla, __Graham Coxon__ est vraiment un musicien exceptionnel et n'a sûrement pas le succès qu'il mérite : salle à moitié vide, première partie sympa mais complètement inconnue au bataillon (Lou Ann & The Spoken Words), et pourtant, et pourtant… 
 
 <img514>
 

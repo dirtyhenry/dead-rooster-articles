@@ -33,7 +33,7 @@ sont quand même forts pour trouver des trucs de niche.
 
 Les Peasall Sisters ne sont cependant pas connues que pour _Where No One Stands
 Alone_, elles le sont aussi pour _In The Highways_ qu'elles avaient interprété à
-tout juste 13, 9 et 7 ans pour... _O'Brother_, un autre film des frères Coen.
+tout juste 13, 9 et 7 ans pour… _O'Brother_, un autre film des frères Coen.
 Elles n'ont pas de site web mais elles auront gagné un Grammy Award. C'est déjà
 ça.
 
@@ -55,7 +55,7 @@ Le film se revoit avec plaisir, je vous invite à vous en donner à coeur joie.
 
 ## _Hotel California_, par les Gipsy Kings
 
-> Fuckin' Quintana... that creep can roll, man.  
+> Fuckin' Quintana… that creep can roll, man.  
 > Yeah, but he's a pervert, Dude.
 
 Comment parler de musique dans les films des frères Coen sans parler de

@@ -10,7 +10,7 @@ categories:
 tags:
 - Trucs marrants
 ---
-Ouais, ouais, t'es pas trop mauvais, ça passe...
+Ouais, ouais, t'es pas trop mauvais, ça passe…
 
 <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/MCpWY20I6jk&hl=fr&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/MCpWY20I6jk&hl=fr&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
 

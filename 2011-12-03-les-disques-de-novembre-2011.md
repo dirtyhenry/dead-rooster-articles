@@ -118,7 +118,7 @@ Réalisée avec [Sortmash](http://sortmash.com).
 <li style="height: 70px;margin-left: 160px;"><h2>A Classic Education</h2><h3>Hey There Stranger</h3></li>
 <li style="height: 70px;margin-left: 160px;"><h2>Bert Jansch</h2><h3>Bert Jansch</h3></li>
 <li style="height: 70px;margin-left: 160px;"><h2>Maison Neuve</h2><h3>Joan</h3></li>
-<li style="height: 70px;margin-left: 160px;"><h2>The King Khan Experience</h2><h3>Scion A/V Presents...</h3></li>
+<li style="height: 70px;margin-left: 160px;"><h2>The King Khan Experience</h2><h3>Scion A/V Presents…</h3></li>
 
 <li style="height: 70px;margin-left: 160px;"><h2>Stephen Malkmus & The Jicks</h2><h3>Mirror Trafic</h3></li>
 <li style="height: 70px;margin-left: 160px;"><h2>PJ Harvey</h2><h3>Let England Shake</h3></li>

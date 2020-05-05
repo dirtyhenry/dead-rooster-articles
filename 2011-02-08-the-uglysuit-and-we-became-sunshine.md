@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Uglysuit - ...And We Became Sunshine
+title: The Uglysuit - …And We Became Sunshine
 authors:
   - Dirty Henry
 wordpress_id: 773

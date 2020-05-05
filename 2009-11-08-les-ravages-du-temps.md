@@ -12,4 +12,4 @@ comments:
   title: Les ravages du temps
   content: Ne pas mettre de jogging, c'est déjà un bon début les gars.
 ---
-Les 4 photos ci-dessus sont de la même personne... Ce qu'il s'est passé entre l'homme le plus à gauche à l'homme le plus à droite ? Le temps a passé, c'est tout. Le monde va mal !
+Les 4 photos ci-dessus sont de la même personne… Ce qu'il s'est passé entre l'homme le plus à gauche à l'homme le plus à droite ? Le temps a passé, c'est tout. Le monde va mal !

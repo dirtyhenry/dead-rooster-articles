@@ -32,4 +32,4 @@ D'autre part, Katerine vient de sortir la vidéo de son nouveau single *La Banan
 
 <object width="500" height="306"><param name="movie" value="http://www.youtube.com/v/XuOSwppg8rc&hl=fr_FR&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/XuOSwppg8rc&hl=fr_FR&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="306"></embed></object>
 
-Toutes les reprises sont disponibles sur [le site de Katerine, Francis et ses peintres](http://www.katerinefrancisetsespeintres.com/)...
+Toutes les reprises sont disponibles sur [le site de Katerine, Francis et ses peintres](http://www.katerinefrancisetsespeintres.com/)…

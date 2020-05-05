@@ -20,7 +20,7 @@ durable, inaltérable malgré ce que les gens de l'extérieur en disent ou ce qu
 les concernés de l'intérieur font.
 
 Je passerai trèèèès rapidement sur les amours de jeunesse hein (non, je n'ai
-jamais donné d'argent à 2 Unlimited ou à Ménélik ! Non, c'était des cadeaux...),
+jamais donné d'argent à 2 Unlimited ou à Ménélik ! Non, c'était des cadeaux…),
 pour évoquer directement la case adolescence.
 
 À ce moment de la vie, on se fait ses premiers vrais copains. Des potes à la vie

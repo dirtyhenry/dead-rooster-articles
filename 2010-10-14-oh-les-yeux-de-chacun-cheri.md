@@ -23,7 +23,7 @@ L'album est sorti - et est très bon, dixit Guiguilele - et les concerts ont com
 
 <iframe frameborder="0" width="500" height="375" src="http://www.dailymotion.com/embed/video/xf2zor?width=500&theme=default&foreground=%23F7FFFD&highlight=%23FFC300&background=%23171D1B&start=&animatedTitle=&iframe=1&additionalInfos=0&autoPlay=0&hideInfos=0"></iframe><br /><b><a href="http://www.dailymotion.com/video/xf2zor_katerine-liberte-2010_music">Katerine : Libert&eacute; (2010)</a></b><br /><i>envoy&eacute; par <a href="http://www.dailymotion.com/tartenpion333">tartenpion333</a>. - <a href="http://www.dailymotion.com/fr/channel/music">Regardez plus de clips, en HD !</a></i>
 
-et en live et en kilt ça donne...
+et en live et en kilt ça donne…
 
 <object width="500" height="400"><param name="movie" value="http://www.youtube.com/v/7PRhFYaWYYY?fs=1&hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/7PRhFYaWYYY?fs=1&hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="400"></embed></object>
 
@@ -55,7 +55,7 @@ La reprise de Katerine est [ici](http://www.katerinefrancisetsespeintres.com/che
 
 <h3>Le classement</h3>
 
-Pour la première fois depuis piouf, on a un changement au classement. kr avait choisi "Chacun fait ..." en deuz et marque donc 4 points :
+Pour la première fois depuis piouf, on a un changement au classement. kr avait choisi "Chacun fait …" en deuz et marque donc 4 points :
 
 - 1. Hervé, 15pts
 - 2. Benji, Rodrigue et Joe, 5pts
@@ -64,4 +64,4 @@ Pour la première fois depuis piouf, on a un changement au classement. kr avait 
 
 <strike>Il est encore temps de participer en [cliquant ici](569) !</strike>
 
-Toutes les reprises sont disponibles sur [le site de Katerine, Francis et ses peintres](http://www.katerinefrancisetsespeintres.com/)...
+Toutes les reprises sont disponibles sur [le site de Katerine, Francis et ses peintres](http://www.katerinefrancisetsespeintres.com/)…

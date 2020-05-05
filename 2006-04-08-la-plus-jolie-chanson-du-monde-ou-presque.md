@@ -1,6 +1,6 @@
 ---
 layout: post
-title: La plus jolie chanson du monde... ou presque
+title: La plus jolie chanson du monde… ou presque
 authors:
   - Dirty Henry
 wordpress_id: 296
@@ -10,7 +10,7 @@ categories:
 tags:
 - Trucs marrants
 ---
-Dommage que ce soit une pub...
+Dommage que ce soit une pub…
 
 Dommage que le mot "Coke" apparaisse dans les paroles parce que sinon, ce serait la chanson de Noël parfaite :
 
@@ -24,4 +24,4 @@ _ It's the real thing, Coke is what the world wants today.
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/Q8H5263jCGg" frameborder="0" allowfullscreen></iframe>
 
-Qu'est-ce que j'ai soif moi tout d'un coup...
+Qu'est-ce que j'ai soif moi tout d'un coup…

@@ -26,7 +26,7 @@ Le vendredi, le fun est de bon aloi. Cette semaine : ton grand-père et ses chie
 
 <h2>Guide du clip à buzz</h2>
 
-OK Go est très doué pour faire le buzz autour de ses clips. Après [*Here It Goes Again* et ses tapis roulants](http://www.youtube.com/watch?v=dTAAsCNK7RA) et quelques autres, voici une nouvelle réussite (3,5 millions de vues en à peine 5 jours). En ce qui concerne la musique, la réussite est cependant moins franche... 
+OK Go est très doué pour faire le buzz autour de ses clips. Après [*Here It Goes Again* et ses tapis roulants](http://www.youtube.com/watch?v=dTAAsCNK7RA) et quelques autres, voici une nouvelle réussite (3,5 millions de vues en à peine 5 jours). En ce qui concerne la musique, la réussite est cependant moins franche… 
 
 <object width="500" height="306"><param name="movie" value="http://www.youtube.com/v/nHlJODYBLKs?fs=1&hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/nHlJODYBLKs?fs=1&hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="306"></embed></object>
 
@@ -40,11 +40,11 @@ Extrait de [__Fur TV__](http://fr.wikipedia.org/wiki/Fur_TV), une série anglais
 
 <h2>Guide des sports olympiques</h2>
 
-__Learn Something Every Day__ nous apprend cette semaine que... [le tir à la corde était un sport olympique de 1900 à 1920](http://cargocollective.com/learnsomethingeveryday/642495/September-18).
+__Learn Something Every Day__ nous apprend cette semaine que… [le tir à la corde était un sport olympique de 1900 à 1920](http://cargocollective.com/learnsomethingeveryday/642495/September-18).
 
 <h2>Guide de l'artiste Geek</h2>
 
-Dommage pour Broken Bells, qui avait réalisé un site geek assez sympa en août, mais que j'ai découvert après celui d'Arcade Fire qui, avouons-le, le bat à plate couture...
+Dommage pour Broken Bells, qui avait réalisé un site geek assez sympa en août, mais que j'ai découvert après celui d'Arcade Fire qui, avouons-le, le bat à plate couture…
 
 [<img389>](http://www.brokenbells.com/october/)
 

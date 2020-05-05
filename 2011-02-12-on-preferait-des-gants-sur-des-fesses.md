@@ -15,6 +15,6 @@ comments:
   date: '2011-02-16 11:02:19 +0100'
   title: On préférait des gants sur des fesses
   content: Animal collective font autant de mal à l'artwork qu'ils font du bien à
-    la musique si tu veux mon avis...
+    la musique si tu veux mon avis…
 ---
 Voici la pochette du prochain album des Strokes. Le monde va mal !

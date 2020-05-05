@@ -18,6 +18,6 @@ comments:
   date: '2009-09-15 16:47:48 +0200'
   title: Prince, le héros du goûter et du mauvais goût
   content: "Hmmm, lien très intéressant.\r\nOn peut aussi remarquer que Prince est
-    un récidiviste..."
+    un récidiviste…"
 ---
 Des gens ont conçu cette pochette d'album. D'autres ont accepté de l'imprimer. D'autres de la distribuer. Le monde va mal !

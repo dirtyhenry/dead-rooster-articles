@@ -17,17 +17,17 @@ comments:
   author_email: ''
   date: '2011-12-13 00:18:28 +0100'
   title: The Young Person's Guide To Becoming A Rock Star
-  content: "LA série sur l'univers de la musique.... combien de fou-rires j'ai pu
+  content: "LA série sur l'univers de la musique…. combien de fou-rires j'ai pu
     avoir avec elle : La séquence de l'agence pour l'emploi du premier épisode, les
     délires mégalomanes du \"lead singer\" d'un boyz band pourri (interpréter par
     Gerard Butler!!) dans le bureau de son manager; l'épisode entier sur l'enregistrement
-    de l'album dans le manoir du producteur( fou rire de 30 min) etc... etc...\r\nCette
+    de l'album dans le manoir du producteur( fou rire de 30 min) etc… etc…\r\nCette
     série est une merveille et comme toi Dirty Henry je suis DESESPERE de ne pas la
     retrouver en DVD ou autres ( et avec les sous-titres de préférence parceque l'accent
     écossais..cé marrant mais c'est dure à comprendre des fois)\r\n\r\nBref, je me
     demandais: ya pas moyen, je sais pas de faire une pétition ou du lobbying,  une
     place tahir auprès de Canal Jimmy (s'ils ont encore les droits??)  pour la voir
-    sortir en DVD voire en streaming sur leur site... \r\n\r\n Bref: je terminerai
+    sortir en DVD voire en streaming sur leur site… \r\n\r\n Bref: je terminerai
     par un appel à Canal jimmy ou Channel 4: Why don't you want shag me?? (si il faut
     en passer par là je me dévoue)"
 ---
@@ -45,4 +45,4 @@ En gros, on s'y moque beaucoup de tous les poncifs du genre : le groupe qui pèt
 
 Depuis, peu de rediffusion, une VHS publiée mais pas de DVD, [les épisodes disponibles sur le site de Channel 4](http://www.channel4.com/programmes/young-persons-guide-to-becoming-a-rock-star/4od) mais en UK uniquement, soit un bien beau gâchis qu'on ne peut pas seulement expliquer par l'épouvantable accent écossais qu'on doit subir tout au long de la série. Si quelqu'un veut commencer une pétition pour la parution de la série dans un format correct, je serai de ceux-là. D'autant plus que le scénariste de la série, Bryan Elsley, a depuis connu le succès avec *Skins* (que je n'ai jamais vu) rendant l'anonymat de la série d'autant plus étonnant.
 
-Bref, au moins, quelques extraits existent sur YouTube... Merci l'an 2000.
+Bref, au moins, quelques extraits existent sur YouTube… Merci l'an 2000.

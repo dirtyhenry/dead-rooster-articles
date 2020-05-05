@@ -23,7 +23,7 @@ __British Sea Power__ est en effet ce genre de groupes de quatrième ou cinquiè
 
 <iframe width="500" height="284" src="http://www.youtube.com/embed/w2n-7K0Ef6Y" frameborder="0" allowfullscreen></iframe>
 
-Et donc, ce groupe de losers existe depuis le début des années 2000 et est responsable de plusieurs petites merveilles directement envoyées dans les oubliettes du rock. Sur leur premier album *The Decline of British Sea Power* (titre *a posteriori* significatif de la lose ambiante...), ces types nous pondaient déjà des choses magistrales comme ce *Remember Me* ("Do you remember me?" Oui, mais on est pas nombreux !).
+Et donc, ce groupe de losers existe depuis le début des années 2000 et est responsable de plusieurs petites merveilles directement envoyées dans les oubliettes du rock. Sur leur premier album *The Decline of British Sea Power* (titre *a posteriori* significatif de la lose ambiante…), ces types nous pondaient déjà des choses magistrales comme ce *Remember Me* ("Do you remember me?" Oui, mais on est pas nombreux !).
 
 <iframe width="500" height="369" src="http://www.youtube.com/embed/ua4BiBV6i6o" frameborder="0" allowfullscreen></iframe>
 
@@ -37,7 +37,7 @@ En 2008, *Do You Like Rock Music ?* ("Oui, merci, et vous ?") sort dans l'indiff
 
 <iframe width="500" height="369" src="http://www.youtube.com/embed/ZqbfnTW1qKM" frameborder="0" allowfullscreen></iframe>
 
-Et cette année est sorti *Valhalla Dancehall* (après une anecdotique bande originale de film-documentaire sur la chasse à la baleine...). Je suis prêt à parier qu'il ne changera d'aucune manière la vie de ses interprètes confinés à l'anonymat à jamais. Dommage, car *Living is so Easy* avait tout du single de l'année.
+Et cette année est sorti *Valhalla Dancehall* (après une anecdotique bande originale de film-documentaire sur la chasse à la baleine…). Je suis prêt à parier qu'il ne changera d'aucune manière la vie de ses interprètes confinés à l'anonymat à jamais. Dommage, car *Living is so Easy* avait tout du single de l'année.
 
 <iframe width="500" height="284" src="http://www.youtube.com/embed/CNOrK_T4UOI" frameborder="0" allowfullscreen></iframe>
 

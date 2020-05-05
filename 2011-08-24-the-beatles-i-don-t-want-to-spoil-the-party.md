@@ -15,6 +15,6 @@ comments:
 <iframe width="420" height="345" src="http://www.youtube.com/embed/1O6gX0FCwpU" frameborder="0" allowfullscreen></iframe>
 
 
-<quote>«Life changer is the beatles... Underratd song, underrated album.»</quote>
+<quote>«Life changer is the beatles… Underratd song, underrated album.»</quote>
 
 [Graham Coxon, août 2011](http://www.facebook.com/grahamcoxonofficial)

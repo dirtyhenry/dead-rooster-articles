@@ -2,7 +2,7 @@
 layout: post
 title: Le porno, c'est pas si mal après tout
 description: Bizarrement, je croyais que {{The New Pornographers}} c'était nul. Mais
-  en fait non...
+  en fait non…
 authors:
   - Dirty Henry
 wordpress_id: 611

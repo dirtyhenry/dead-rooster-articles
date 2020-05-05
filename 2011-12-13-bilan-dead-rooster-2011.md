@@ -32,7 +32,7 @@ Oh, c'est pas mal, non ? Pardon ? L'échelle est logarithmique ? Ah, ok, bon, ef
 
 Par ailleurs, regardons quel est le top 10 des pages les plus visitées du site cette année ?
 
--# [Concombre tueur](850) : Dead Rooster a fait du chiffre sur la peur des Français et n'en est pas fier...
+-# [Concombre tueur](850) : Dead Rooster a fait du chiffre sur la peur des Français et n'en est pas fier…
 -# [Qui es-tu Nolwenn Leroy ?](789) : qui est aussi notre article le plus commenté et aura attiré des âmes sensibles à la facétie et au second degré : «Avant de critiquer, il faudrait se renseigner», «allez vomir ailleurs», «article dégoûtant», «procédé un peu facile et vulgaire», «écrit avec de la merde», «fait honte à la presse française» (putain, Dead Rooster fait partie de la presse française ? Champagne les potes !)
 -# [Keren Ann - *101*](814) (bien derrière au niveau des chiffres)
 -# [Top Musique 2010](747)

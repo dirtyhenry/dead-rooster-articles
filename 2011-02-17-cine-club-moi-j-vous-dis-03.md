@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ciné-Club moi j''vous dis #03'
-description: Un mois de janvier 2011 à aller au ciné et mater des DVD...
+description: Un mois de janvier 2011 à aller au ciné et mater des DVD…
 authors:
   - Dirty Henry
 wordpress_id: 784
@@ -67,7 +67,7 @@ __{Catégorie "à voir au ciné mais faut se dépêcher"__}
 
 <h2>*Somewhere* - Sofia Coppola</h2>
 
-Pas de révolution dans le cinéma de la fille Coppola. On se retrouve toujours passioné par des gens en train de s'ennuyer. En plus, y'a une chanson des Strokes...
+Pas de révolution dans le cinéma de la fille Coppola. On se retrouve toujours passioné par des gens en train de s'ennuyer. En plus, y'a une chanson des Strokes…
 
 <iframe title="YouTube video player" width="500" height="311" src="http://www.youtube.com/embed/vvSspY7WU10?rel=0" frameborder="0" allowfullscreen></iframe>
 
@@ -81,9 +81,9 @@ Parfois marrant, la première heure est tout de même longuette. Le final récom
 
 <h2>*Hereafter* - Clint Eastwood</h2>
 
-Une scène de tsunami complètement incroyable et très spectaculaire (au bon sens du terme), après on s'ennuie ferme et on tend des mouchoirs à ses voisines...
+Une scène de tsunami complètement incroyable et très spectaculaire (au bon sens du terme), après on s'ennuie ferme et on tend des mouchoirs à ses voisines…
 
 <h2>Les autres</h2>
 
 - *Harry Potter and the Deathly Hallows - Part 1* - David Yates : bon ben on a commencé la série alors on va aller au bout hein !
-- *Love and other drugs* - Edward Zwick : ça fout les jetons vu que le monde du commerce pharmaceutique doit un peu ressembler à ça, mais pour le reste, le film n'a pas beaucoup d'intérêt... En fait le seul intérêt, c'est comment dire... pour les gars de voir les... de... et pour les filles de voir les... de... mmm...
+- *Love and other drugs* - Edward Zwick : ça fout les jetons vu que le monde du commerce pharmaceutique doit un peu ressembler à ça, mais pour le reste, le film n'a pas beaucoup d'intérêt… En fait le seul intérêt, c'est comment dire… pour les gars de voir les… de… et pour les filles de voir les… de… mmm…

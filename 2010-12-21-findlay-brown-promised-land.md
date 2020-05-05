@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Findlay Brown - Promised Land
-description: Une chanson cool... Un clip sympa... (say no more, say no more)
+description: Une chanson cool… Un clip sympa… (say no more, say no more)
 authors:
   - Dirty Henry
 wordpress_id: 740
@@ -19,6 +19,6 @@ comments:
 ---
 <iframe src="http://player.vimeo.com/video/17600023" width="500" height="369" frameborder="0"></iframe><p><a href="http://vimeo.com/17600023">Findlay Brown - Promised Land</a> from <a href="http://vimeo.com/recordmakers">Record Makers</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
 
-C'est [une reprise d'un titre de 1989, interprété alors par Joe Smooth](http://www.youtube.com/watch?v=ML3w4HIMHpY)... Les reprises font parfois des miracles.
+C'est [une reprise d'un titre de 1989, interprété alors par Joe Smooth](http://www.youtube.com/watch?v=ML3w4HIMHpY)… Les reprises font parfois des miracles.
 
 (via [yvynyl](http://yvynyl.tumblr.com/post/2350909311/findlay-brown-promised-land-ryan))

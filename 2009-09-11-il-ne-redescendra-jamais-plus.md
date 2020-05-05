@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Il ne redescendra jamais plus...
+title: Il ne redescendra jamais plus…
 authors:
   - Joe Gantdelaine
 wordpress_id: 529

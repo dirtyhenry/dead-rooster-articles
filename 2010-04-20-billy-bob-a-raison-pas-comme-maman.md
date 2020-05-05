@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Billy Bob a raison. Pas comme Maman...
+title: Billy Bob a raison. Pas comme Maman…
 description: Le titre de la semaine est la {Maman a tort}, de Mylène Farmer. Joe et
   Hervé l'avaient.
 authors:
@@ -27,4 +27,4 @@ Hervé et Joe l'avaient tous deux pronostiquée en prems et ils marquent donc 5 
 
 Il est encore temps de participer en [cliquant ici](569) !
 
-Toutes les reprises sont disponibles sur [le site de Katerine, Francis et ses peintres](http://www.katerinefrancisetsespeintres.com/)...
+Toutes les reprises sont disponibles sur [le site de Katerine, Francis et ses peintres](http://www.katerinefrancisetsespeintres.com/)…

@@ -10,4 +10,4 @@ categories:
 tags:
 - Trucs marrants
 ---
-Ah... Quoi de meilleur qu'une soirée d'hiver, près du feu, avec un bon album panini des années 70 à 80 ?<br /><br /><a href="http://footnostalgie.free.fr/index3.htm">D'autres photo</a>
+Ah… Quoi de meilleur qu'une soirée d'hiver, près du feu, avec un bon album panini des années 70 à 80 ?<br /><br /><a href="http://footnostalgie.free.fr/index3.htm">D'autres photo</a>

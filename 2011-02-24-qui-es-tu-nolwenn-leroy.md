@@ -32,16 +32,16 @@ comments:
   date: '2011-02-26 22:52:18 +0100'
   title: Qui es-tu Nolwenn Leroy ?
   content: "Qui es-tu Dirty Henry pour te permettre de tirer tes flèches si facilement
-    sur une jeune femme de \r\ntalent sans aucune réserve ...Qui se croit donc plus
+    sur une jeune femme de \r\ntalent sans aucune réserve …Qui se croit donc plus
     intelligent qu' Elle et profite bien de son succès  pour attirer les visiteurs,en
-    mettant une photo\r\nsalace...Alors...je trouve ce procédé un peu facile et vulgaire."
+    mettant une photo\r\nsalace…Alors…je trouve ce procédé un peu facile et vulgaire."
 - author: ''
   author_email: ''
   date: '2011-02-27 00:29:53 +0100'
   title: Qui es-tu Nolwenn Leroy ?
   content: "Cet article est écrit avec de la merde . Il faut le mettre à la poubelle
     car il est irrécupérable.\r\nA ne pas laisser entre toutes les mains ; Il fait
-    honte à la presse Française!!\r\nBretons intégristes , vous êtes ......Bretons
+    honte à la presse Française!!\r\nBretons intégristes , vous êtes ……Bretons
     intégristes , vous resterez!!!"
 - author: Bruno
   author_email: strokkur@free.fr
@@ -49,8 +49,8 @@ comments:
   title: Qui es-tu Nolwenn Leroy ?
   content: ":) :) :) De l'humour, toujours de l'humour !\r\n\r\nParce que si 300 000
     Fans (minimun pour l'instant) c'est le fond de poches de Nolwenn, je lui promets
-    alors une très longue Carrière Artistique... Ne vous en déplaise.\r\nQue vous
-    n'aimiez pas Nolwenn c'est votre droit... Mais n'écrivez pas n'importe quoi, svp...
+    alors une très longue Carrière Artistique… Ne vous en déplaise.\r\nQue vous
+    n'aimiez pas Nolwenn c'est votre droit… Mais n'écrivez pas n'importe quoi, svp…
     Votre message montre simplement le peu de réflexion qui est vôtre :) :) :)\r\n\r\nAllez
     ! Sans rancunes ! ;)"
 - author: ''
@@ -97,7 +97,7 @@ Là où je veux en venir, c'est que l'oreille avertie remarquera que sur son dis
 
 <iframe frameborder="0" width="500" height="281" src="http://www.dailymotion.com/embed/video/x8b6na?width=500"></iframe>
 
-Bon, bien sûr, vous n'avez rien compris, vu que les paroles sont en breton... Mais voici une traduction des paroles :
+Bon, bien sûr, vous n'avez rien compris, vu que les paroles sont en breton… Mais voici une traduction des paroles :
 
 <quote>
 Au pardon de Spezet, Je suis allé 

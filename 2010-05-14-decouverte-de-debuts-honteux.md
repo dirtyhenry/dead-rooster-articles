@@ -12,7 +12,7 @@ categories:
 tags:
 - Keren Ann
 ---
-Quand on cherche l'actualité d'un artiste, en l'occurrence celle de __Keren Ann__, dont on n'a plus vraiment de nouvelle depuis 2007, on peut aussi tomber sur des bribes de son passé... qui mériterait parfois d'être mieux caché.
+Quand on cherche l'actualité d'un artiste, en l'occurrence celle de __Keren Ann__, dont on n'a plus vraiment de nouvelle depuis 2007, on peut aussi tomber sur des bribes de son passé… qui mériterait parfois d'être mieux caché.
 
 Ainsi, en 1999, à un an de la sortie de son premier album, *La Biographie de Luka Philipsen*, Keren Ann faisait partie du groupe __Shelby__.
 

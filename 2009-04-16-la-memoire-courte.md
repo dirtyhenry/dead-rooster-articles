@@ -1,6 +1,6 @@
 ---
 layout: post
-title: La mémoire courte...
+title: La mémoire courte…
 authors:
   - Joe Gantdelaine
 wordpress_id: 496

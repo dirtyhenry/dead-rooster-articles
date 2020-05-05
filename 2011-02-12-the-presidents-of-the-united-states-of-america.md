@@ -2,7 +2,7 @@
 layout: post
 title: The Presidents of the United States of America
 description: L'Encyclopédie approximative revisite l'Histoire du rock and roll, mais
-  aussi l'Histoire tout court...
+  aussi l'Histoire tout court…
 authors:
   - Joe Gantdelaine
 wordpress_id: 755

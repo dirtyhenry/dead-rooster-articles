@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Trois degrés de séparation seulement...
+title: Trois degrés de séparation seulement…
 authors:
   - Dirty Henry
 wordpress_id: 201
@@ -19,7 +19,7 @@ comments:
 - author: Garrincha
   author_email: garrincha@blogotheque.net
   date: '2008-04-04 12:01:32 +0200'
-  title: Trois degrés de séparation seulement...
+  title: Trois degrés de séparation seulement…
   content: "Et Zooey Deschanel chante aussi sur l’album de Coconut Records.\r\nEt
     Kirsten Dunst qui joue Marie-Antoinette, aussi.\r\nEt Jason Scwhartzman joue sur
     l’album de Ben Lee, qui est l’ex de Clare Danes qui joue dans The Hours avec Meryl
@@ -48,6 +48,6 @@ L'un des acteurs principaux et co-scénariste du film est Jason Schwartzman, dé
 
 __{Degré 3. Zooey Deschanel__}
 
-Mais attention, le petit monde ne s'arrête pas là. Intéressons-nous maintenant à la vie sentimentale de Jason, non par voyeurisme mais pour étayer notre petite démonstration. Nous y trouvons au chapitre des ex Zooey Deschanel, la grande soeur du film *Almost Famous*, dont l'actualité est florissante puisque la demoiselle s'est mise à la chanson en fondant le duo [She & Him](http://www.myspace.com/sheandhim], avec M Ward. Leur album *Volume One* vient de sortir et dans les titres du disque, on trouve un titre signé... Jason Schwartzman. Le titre [*Why Do You Let Me Stay Here?*->http://www.myspace.com/sheandhim) vaut à lui tout seul de pencher une oreille sur ce groupe prometteur qu'on espère voir passer un de ses jours en France.
+Mais attention, le petit monde ne s'arrête pas là. Intéressons-nous maintenant à la vie sentimentale de Jason, non par voyeurisme mais pour étayer notre petite démonstration. Nous y trouvons au chapitre des ex Zooey Deschanel, la grande soeur du film *Almost Famous*, dont l'actualité est florissante puisque la demoiselle s'est mise à la chanson en fondant le duo [She & Him](http://www.myspace.com/sheandhim], avec M Ward. Leur album *Volume One* vient de sortir et dans les titres du disque, on trouve un titre signé… Jason Schwartzman. Le titre [*Why Do You Let Me Stay Here?*->http://www.myspace.com/sheandhim) vaut à lui tout seul de pencher une oreille sur ce groupe prometteur qu'on espère voir passer un de ses jours en France.
 
 Et alors finalement, vous me croyez quand je vous dis que le monde est petit ?

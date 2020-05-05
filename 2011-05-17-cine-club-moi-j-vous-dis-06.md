@@ -17,7 +17,7 @@ tags:
 
 <h2>*Narco* - Gilles Lellouche et Tristan Aurouet</h2>
 
-Gus Klopp est narcoleptique. Ça lui pose pas mal de problèmes dans sa vie privée et professionnelle. Mais quand il s'écroule et dort, il fait des rêves incroyables, qu'il dessine à son réveil. Ces BD pourraient cartonner mais ni sa femme, ni son pote Lenny Bar, karatéka-fan de Van Damme, ne l'encouragent vraiment à en faire un métier. Jusqu'à ce que son thérapeute découvre son travail... 
+Gus Klopp est narcoleptique. Ça lui pose pas mal de problèmes dans sa vie privée et professionnelle. Mais quand il s'écroule et dort, il fait des rêves incroyables, qu'il dessine à son réveil. Ces BD pourraient cartonner mais ni sa femme, ni son pote Lenny Bar, karatéka-fan de Van Damme, ne l'encouragent vraiment à en faire un métier. Jusqu'à ce que son thérapeute découvre son travail… 
 
 <div id="allocine_blog" style="width:450px; height:350px"><object width="100%" height="350px"><param name="movie" value="http://www.allocine.fr/blogvision/18370737"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.allocine.fr/blogvision/18370737" type="application/x-shockwave-flash" width="100%" height="100%" allowFullScreen="true" allowScriptAccess="always"></embed></object></div>
 

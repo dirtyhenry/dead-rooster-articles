@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Une carte mystère...
+title: Une carte mystère…
 author:
   display_name: Le Prince de Savoie
   login: jojo

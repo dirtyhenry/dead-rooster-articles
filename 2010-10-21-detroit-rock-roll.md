@@ -29,7 +29,7 @@ Regarder le documentaire de Ben Whalley *Motor City’s Burning: Detroit From Mo
 
 Alors pourquoi Detroit continue de pondre le meilleur rock’n’roll ? A bien des égards, la ville s’est arrêtée après les émeutes, il n’y a donc pas de séparation entre ce qui est vieux et ce qui est nouveau. C’est la clé du génie des White Stripes, la raison pour laquelle les Stooges étaient le meilleur groupe à Glastonbury l’année dernière, et pourquoi il y aura toujours du rock’n’roll brut, décharné et teinté de soul, qui sortira de cette ville. Il y a beaucoup de similitudes entre la scène des années 60 du documentaire de Whalley et celle du «garage revival» dont j’ai fait partie (un gros groupe devient énorme et d’autres groupes en profitent, d’autres fuient, d’autres se confortent dans leurs choix de départ), même si je considère que ces deux scènes n’en forment qu’une en réalité.
 
-Le documentaire se termine avec l’ode à la détresse de la ville post-émeute, *Living For The City*, dont les Dirtbombs ont fait une reprise poignante sur leur album de 2001, *Ultraglide in Black*. [...] Comme Sinclair le dit : «c’est comme la Nouvelle-Orléans après les inondations, sauf qu’il n’y a pas eu de catastrophe naturelle. L’Amérique a déferlé sur Detroit...»
+Le documentaire se termine avec l’ode à la détresse de la ville post-émeute, *Living For The City*, dont les Dirtbombs ont fait une reprise poignante sur leur album de 2001, *Ultraglide in Black*. […] Comme Sinclair le dit : «c’est comme la Nouvelle-Orléans après les inondations, sauf qu’il n’y a pas eu de catastrophe naturelle. L’Amérique a déferlé sur Detroit…»
 </quote>
 
 Je souhaitais tout simplement faire partager cet article, et puisqu'il y manque quelques liens pour tout comprendre, les y ajouter.

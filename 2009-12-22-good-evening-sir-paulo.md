@@ -20,7 +20,7 @@ Macca a fière allure : cheveux teints impeccables, veste bleu foncé qu'a la cl
 
 Erreur. Dès le 3ème titre, le set ralentit nettement la cadence et enchaîne titres solos ou wingsiens anecdotiques et morceaux des Beatles trop calmes (*The Long And Winding Road*) et/ou assez bâclés (le picking sur *Blackbird* est un peu honteux Paulo). On se rabat alors sur une nouvelle tournée de pintes à 7 euros et à regarder un peu ce qui se passe sur la toile de fond de scène qui diffuse sur chaque titre une nouvelle séquence. Si la plupart du temps, vidéos/photos se succèdent, quelques passages remarquables sont à noter.
 
-Tout d'abord la vidéo extraite de Guitar Hero a l'air de choquer autour de moi et [sur le web](http://www.soul-kitchen.fr/9156-photos-concert-paul-mc-cartney-enflamme-bercy/)... Pas moi. D'un point de vue esthétique, la vidéo est très réussie et reste fidèle à l'atmosphère visuelle des Beatles (voir le temps passer sur les représentations 3D des quatre de Liverpool, faisant évoluer coiffures et vêtements de 1960 à 1969 donne toujours envie d'être né 30 ans plus tôt). D'un point de vue éthique, je suis peut-être naïf, passif ou un peu con, mais je n'ai pas trouvé de message commercial agressif.
+Tout d'abord la vidéo extraite de Guitar Hero a l'air de choquer autour de moi et [sur le web](http://www.soul-kitchen.fr/9156-photos-concert-paul-mc-cartney-enflamme-bercy/)… Pas moi. D'un point de vue esthétique, la vidéo est très réussie et reste fidèle à l'atmosphère visuelle des Beatles (voir le temps passer sur les représentations 3D des quatre de Liverpool, faisant évoluer coiffures et vêtements de 1960 à 1969 donne toujours envie d'être né 30 ans plus tôt). D'un point de vue éthique, je suis peut-être naïf, passif ou un peu con, mais je n'ai pas trouvé de message commercial agressif.
 
 Autre extrait vidéo qui m'a laissé beaucoup plus circonspect : la diffusion du trailer de *Everybody's fine*, film pour lequel Macca a écrit un titre. La vidéo est moche, larmoyante et n'a rien à faire là. Par contre, la diffusion des rushes de la séance photo de la légendaire pochette des Wings pour *Band On The Run* est une réussite. On y voit Paulo, Linda et les autres poser, tomber, rire, on devine les crampes un peu partout et c'est toujours touchant et intéressant de voir les coulisses d'une oeuvre marquante, surtout quand elles savent ne pas trop en dire (ici, par exemple, on profite juste des images, sans le son, et c'est parfait ainsi).
 
@@ -35,7 +35,7 @@ Même si le show est apparemment très similaire d'une tournée à l'autre (mon 
 <quote> 
   We definitely enjoyed the show<br />
   We're sorry that it's time to go<br />
-  We'd like to thank you once again...<br />
+  We'd like to thank you once again…<br />
   Good Evening Sir Paul McCartney
 </quote>
 

@@ -3,7 +3,7 @@ layout: post
 title: Creedence Clearwater Revival
 description: Aujourd'hui, direction le Mississippi ! Creedence Clearwater Revival,
   c'est l'Amérique, le symbole de la liberté ! (pour peu qu'on approxime un peu leur
-  biographie...)
+  biographie…)
 authors:
   - Joe Gantdelaine
 wordpress_id: 828
@@ -14,7 +14,7 @@ comments:
   date: '2011-04-30 11:26:42 +0200'
   title: Creedence Clearwater Revival
   content: C'est Gérard Rinaldi des Charlots à gauche sur la photo non ? (le mec de
-    {Marc et Sophie} quoi...)
+    {Marc et Sophie} quoi…)
 - author: Julio
   author_email: ''
   date: '2011-04-30 14:53:31 +0200'

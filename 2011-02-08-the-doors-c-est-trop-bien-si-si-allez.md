@@ -52,7 +52,7 @@ comments:
   date: '2012-04-20 14:23:03 +0200'
   title: The Doors, c'est trop bien ? Si, si, allez !
   content: 'Quand on critique les Doors, on s''informe un peu avant. La basse est
-    peut être chiant dans ce groupe, normal il y en a pas abrutis... '
+    peut être chiant dans ce groupe, normal il y en a pas abrutis… '
 - author: Dirty Henry
   author_email: dirtyhenry@gmail.com
   date: '2012-04-23 10:08:27 +0200'
@@ -68,10 +68,10 @@ Ils ont fait plein de tubes trop bien. A commencer par le morceau d'ouverture de
 
 Et puis y'a *Light My Fire* aussi ! Le morceau est top ! Faut dire qu'il est vachement plus ambitieux : presque 7 minutes. Ok, c'est vrai que pour rien au monde, je souhaiterais me retrouver à devoir jouer la basse de ce morceau aussi longtemps et, c'est également vrai, ils nous sortent des solos un peu longuets pour meubler : ils commencent à 1:06 et finissent à 5:35. C'est peut-être pour ça qu'ils sont pas au top sur leur intégralité. Vas-y toi qu'est si malin à faire un solo de 4:30 qui soit bien tout du long ! Non, ça, un solo de 4:30, c'est vraiment une bonne grosse idée à la con que seul un groupe aussi génial que les Doors peut maîtriser.
 
-Sans oublier le dernier gros tube majeur du groupe *Riders On The Storm* : imparable ! Là encore, on est autour des 7 minutes. Pas un mince exploit ça non plus : deux des trois titres majeurs du groupe font 7 minutes ! Déjà 1 bon titre de 7 minutes, c'est pas facile à faire vous savez ! Sérieux ! Faut être drôlement doué pour faire en sorte que l'auditeur se fasse pas chier au bout d'un moment sur un morceau de 7 minutes ! Du coup, faut pas jeter la pierre aux Doors... Parce que c'est vrai qu'on s'emmerde grave à la fin du titre mais cela n'enlève rien du tout, encore une fois, à sa valeur ! Merde à la fin, c'est Jim Morrison qui l'a écrit ! L'un des plus grands poètes du XXème siècle !
+Sans oublier le dernier gros tube majeur du groupe *Riders On The Storm* : imparable ! Là encore, on est autour des 7 minutes. Pas un mince exploit ça non plus : deux des trois titres majeurs du groupe font 7 minutes ! Déjà 1 bon titre de 7 minutes, c'est pas facile à faire vous savez ! Sérieux ! Faut être drôlement doué pour faire en sorte que l'auditeur se fasse pas chier au bout d'un moment sur un morceau de 7 minutes ! Du coup, faut pas jeter la pierre aux Doors… Parce que c'est vrai qu'on s'emmerde grave à la fin du titre mais cela n'enlève rien du tout, encore une fois, à sa valeur ! Merde à la fin, c'est Jim Morrison qui l'a écrit ! L'un des plus grands poètes du XXème siècle !
 
 Si, c'est un des plus grands poètes du XXème siècle ! D'ailleurs c'est pour ça qu'il y a des films sur lui. Pas plus tard que l'année dernière, avec *When You're Strange*. On voyait disons le Jim Morrison tel qu'il était vraiment, pas comme quand il était interprété par Val Kilmer dans le film d'Oliver Stone. Bon, là aussi, on s'est grave fait chier et Jim Morrison avait plutôt l'air d'un bouffon bourré que d'un poète. Mais ce doit être la faute de Tom DiCillo, le réalisateur du documentaire.
 
-Mais quand même, les Doors, c'est des génies du rock non ? Y'a qu'à voir le riff de *Love Me Two Times* ! Il est terrible quand même non ? Il fait au moins 4 secondes et le reste de la chanson est pleine d'autres idées intéressantes comme... comme... 
+Mais quand même, les Doors, c'est des génies du rock non ? Y'a qu'à voir le riff de *Love Me Two Times* ! Il est terrible quand même non ? Il fait au moins 4 secondes et le reste de la chanson est pleine d'autres idées intéressantes comme… comme… 
 
 Et merde, The Doors, c'est vraiment à chier comme groupe !

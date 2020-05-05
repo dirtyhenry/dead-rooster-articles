@@ -7,7 +7,7 @@ tags:
   - compile
 cover: hiver-2017-b.png
 description: >
-  Parce que 2 faces valent mieux qu'une. Dead Rooster présente... Un Hiver 2017,
+  Parce que 2 faces valent mieux qu'une. Dead Rooster présente… Un Hiver 2017,
   la face B.
 ---
 

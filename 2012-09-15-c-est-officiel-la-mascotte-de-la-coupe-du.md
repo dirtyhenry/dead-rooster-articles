@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'C''est officiel : la mascotte de la Coupe du...'
+title: 'C''est officiel : la mascotte de la Coupe du…'
 authors:
   - Dirty Henry
 wordpress_id: 1110

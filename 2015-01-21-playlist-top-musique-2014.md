@@ -90,7 +90,7 @@ politique][merci-le-foot-a-bon-entendeur], etc.
 
 ### Jagwar Ma
 
-Ça, c'est pour faire semblant que j'écoute les nouveautés... de 2013.
+Ça, c'est pour faire semblant que j'écoute les nouveautés… de 2013.
 
 ### Bruce Springsteen & Nick Cave
 

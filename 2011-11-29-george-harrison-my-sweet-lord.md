@@ -12,4 +12,4 @@ tags:
 ---
 <iframe width="540" height="396" src="http://www.youtube.com/embed/wynYMJwEPH8" frameborder="0" allowfullscreen></iframe>
 
-Pour les 10 ans de la mort du grand George...
+Pour les 10 ans de la mort du grand George…

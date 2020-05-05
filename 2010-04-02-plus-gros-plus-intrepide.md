@@ -18,6 +18,6 @@ Comme son nom ne l'indique pas, __Harlem__ est un groupe d'Austin, Texas, dont p
 
 <h2>Foals - *This Orient*</h2>
 
-Winston Churchill disait que "le 2nd album est le plus dur à faire, à l'exception de tous les autres". Foals a pas trop l'air de s'en faire et le single *This Orient* nous semble dire que *Total Life Forever* (qui sortira en mai) sera pas trop mal apparemment...
+Winston Churchill disait que "le 2nd album est le plus dur à faire, à l'exception de tous les autres". Foals a pas trop l'air de s'en faire et le single *This Orient* nous semble dire que *Total Life Forever* (qui sortira en mai) sera pas trop mal apparemment…
 
 <object width="500" height="300"><param name="movie" value="http://www.youtube.com/v/jX7sniIVmtM&hl=fr_FR&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/jX7sniIVmtM&hl=fr_FR&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="300"></embed></object>
