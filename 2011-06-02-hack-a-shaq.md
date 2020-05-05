@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Hack-a-Shaq
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 851
 date: '2011-06-02 09:20:13 +0200'
 categories: []

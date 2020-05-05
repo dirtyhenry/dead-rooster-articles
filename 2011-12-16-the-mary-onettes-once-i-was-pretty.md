@@ -1,13 +1,8 @@
 ---
 layout: post
 title: The Mary Onettes - Once I Was Pretty
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 972
 date: '2011-12-16 01:15:40 +0100'
 categories: []

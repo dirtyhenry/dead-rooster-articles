@@ -4,13 +4,8 @@ title: Saint Etienne
 description: 'Deuxième épisode de notre Encyclopédie Approximative du Rock and Roll.
   Pour continuer avec les monstres sacrés, après les Beatles, voici une grosse pointure,
   celle-ci des seventies : Saint Etienne !'
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 758
 date: '2011-01-22 10:11:05 +0100'
 categories: []

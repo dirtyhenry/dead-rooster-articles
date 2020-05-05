@@ -1,13 +1,8 @@
 ---
 layout: post
 title: La France, trou du cul du monde...
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 476
 date: '2008-10-20 21:20:00 +0200'
 categories:

@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Vendredi, c'est Robin !
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 689
 date: '2010-08-27 12:44:55 +0200'
 categories: []

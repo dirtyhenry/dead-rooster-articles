@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Et tu paries avec lui
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 1259
 date: '2013-08-05 18:09:50 +0200'
 categories: []

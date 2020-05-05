@@ -4,13 +4,8 @@ title: Creedence Clearwater Revival
 description: Aujourd'hui, direction le Mississippi ! Creedence Clearwater Revival,
   c'est l'Amérique, le symbole de la liberté ! (pour peu qu'on approxime un peu leur
   biographie...)
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 828
 date: '2011-04-30 10:41:36 +0200'
 categories: []

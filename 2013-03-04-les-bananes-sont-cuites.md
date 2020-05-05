@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Les bananes sont cuites
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 1188
 date: '2013-03-04 18:57:24 +0100'
 categories: []

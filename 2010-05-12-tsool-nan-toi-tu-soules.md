@@ -5,13 +5,8 @@ description: 'De la Suède, on retient toujours {Waterloo} et l''Eurovision de 1
   Ikea, Ericsson et Lego bien qu''on se gourre royalement concernant ce dernier exemple
   ! En revanche, on ne cite jamais {{The Soundtrack Of Our Lives}}. La question est
   simple : pourquoi ?'
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 614
 date: '2010-05-12 18:47:27 +0200'
 categories:

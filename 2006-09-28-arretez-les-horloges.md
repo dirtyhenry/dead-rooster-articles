@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Arrêtez les horloges !
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 334
 date: '2006-09-28 12:34:00 +0200'
 categories:

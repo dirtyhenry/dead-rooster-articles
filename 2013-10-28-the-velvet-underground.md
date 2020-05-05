@@ -3,13 +3,8 @@ layout: post
 title: The Velvet Underground
 description: Parce que malheureusement, cette semaine, il n'y a pas que le Rooster
   qui soit Dead, retour en fanfare (?) de l'Encyclopédie approximative.
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 1262
 date: '2013-10-28 09:51:00 +0100'
 categories: []

@@ -2,13 +2,8 @@
 layout: post
 title: La scène sociale est brisée !
 description: Le nouvel album de Broken Social Scene est trèèèèès prometteur !
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 600
 date: '2010-04-23 14:51:47 +0200'
 categories: []

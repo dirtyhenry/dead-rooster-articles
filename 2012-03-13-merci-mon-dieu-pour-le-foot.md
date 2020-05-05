@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Merci mon dieu pour le foot !
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 1009
 date: '2012-03-13 20:07:22 +0100'
 categories: []

@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Back to the future
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 383
 date: '2007-05-19 06:40:00 +0200'
 categories: []

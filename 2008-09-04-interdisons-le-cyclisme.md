@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Interdisons le cyclisme !
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 462
 date: '2008-09-04 16:26:00 +0200'
 categories: []

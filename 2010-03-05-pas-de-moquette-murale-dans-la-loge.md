@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Pas de moquette murale dans la loge !
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 575
 date: '2010-03-05 18:48:44 +0100'
 categories: []

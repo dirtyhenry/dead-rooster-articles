@@ -3,13 +3,8 @@ layout: post
 title: The Beach Boys
 description: Cette semaine, comme il fait approximativement beau, l'Encyclopédie part
   à la plage.
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 871
 date: '2011-07-16 16:31:57 +0200'
 categories: []

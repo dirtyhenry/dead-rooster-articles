@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Top Musique 2008 (par "Dead Rooster, canal historique")
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 224
 date: '2009-03-04 00:12:26 +0100'
 categories:

@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Le retour du petit homme vert
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 197
 date: '2008-03-12 13:24:45 +0100'
 categories:

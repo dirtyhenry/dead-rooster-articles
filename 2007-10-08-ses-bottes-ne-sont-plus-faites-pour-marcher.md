@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Ses bottes ne sont plus faites pour marcher
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 407
 date: '2007-10-08 16:59:00 +0200'
 categories: []

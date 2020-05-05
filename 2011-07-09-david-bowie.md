@@ -3,13 +3,8 @@ layout: post
 title: David Bowie
 description: Cette semaine, l'Encyclopédie développe quelques approximations sur "Un
   mâle au féminin/Légèrement fêlé/Un peu trop félin" (merci Serge !).
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 844
 date: '2011-07-09 09:43:05 +0200'
 categories: []

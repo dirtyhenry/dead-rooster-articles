@@ -7,13 +7,8 @@ description: "{En général}, quand on commence un groupe, on se voit déjà en 
   premier album, avant même de créer les futurs tubes.\r\nBon, ça, c'est {en général}...
   Et apparemment, {{Acid House Kings}} est passé directement à la composition musicale
   !"
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 699
 date: '2010-09-09 01:44:44 +0200'
 categories:

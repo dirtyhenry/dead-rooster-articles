@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Arctic Monkeys - My Propeller
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 1249
 date: '2010-03-22 12:00:00 +0100'
 categories: []

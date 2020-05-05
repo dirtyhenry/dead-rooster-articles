@@ -1,13 +1,8 @@
 ---
 layout: post
 title: The Strokes - You Only Live Once
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 386
 date: '2007-05-29 13:47:00 +0200'
 categories:

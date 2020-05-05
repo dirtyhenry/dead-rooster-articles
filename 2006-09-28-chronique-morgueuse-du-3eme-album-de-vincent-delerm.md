@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Chronique morgueuse du 3ème album de Vincent Delerm
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 336
 date: '2006-09-28 16:03:00 +0200'
 categories:

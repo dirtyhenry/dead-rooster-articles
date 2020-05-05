@@ -3,13 +3,8 @@ layout: post
 title: The Smashing Pumpkins
 description: Allez, la semaine dernière, c'était nul. Mais cette semaine, c'est reparti
   pour de la top qualité, top approximative.
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 756
 date: '2011-03-05 09:36:22 +0100'
 categories: []

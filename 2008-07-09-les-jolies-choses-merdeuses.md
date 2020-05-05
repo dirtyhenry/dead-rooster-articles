@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Les jolies choses merdeuses
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 212
 date: '2008-07-09 09:42:35 +0200'
 categories:

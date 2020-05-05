@@ -3,13 +3,8 @@ layout: post
 title: Connan Mockasin - Forever Dolphin Love
 description: Converse ? Santiags ? Platform boots ? Non !!! Mockasin ! Connan de son
   prénom. Et un premier album plutôt génial.
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 817
 date: '2011-04-25 11:48:59 +0200'
 categories:

@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Oh la vache !
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 886
 date: '2011-08-20 17:39:44 +0200'
 categories: []

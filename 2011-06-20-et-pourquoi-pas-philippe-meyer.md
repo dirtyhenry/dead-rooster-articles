@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Et pourquoi pas Philippe Meyer ?
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 853
 date: '2011-06-20 07:52:06 +0200'
 categories: []

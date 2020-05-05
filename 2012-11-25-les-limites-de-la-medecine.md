@@ -3,13 +3,8 @@ layout: post
 title: Les limites de la médecine
 description: Un jour on m'a dit que je n'étais pas vacciné contre la médiocrité. Ce
   vaccin n'existe toujours pas apparemment !
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 1143
 date: '2012-11-25 10:21:10 +0100'
 categories: []

@@ -1,13 +1,8 @@
 ---
 layout: post
 title: The National - Sea of Love
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 1227
 date: '2013-05-09 10:16:24 +0200'
 categories: []

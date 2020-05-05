@@ -1,13 +1,8 @@
 ---
 layout: post
 title: La compile du samedi soir volume 2
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 730
 date: '2008-08-23 18:52:00 +0200'
 categories:

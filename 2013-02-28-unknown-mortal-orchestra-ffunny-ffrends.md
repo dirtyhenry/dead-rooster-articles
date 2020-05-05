@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Unknown Mortal Orchestra - Ffunny Ffrends
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 1186
 date: '2013-02-28 11:13:14 +0100'
 categories: []

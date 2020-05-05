@@ -1,13 +1,8 @@
 ---
 layout: post
 title: 'Classement : la meilleure chanson de tous les temps'
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 523
 date: '2009-08-20 11:47:38 +0200'
 categories: []

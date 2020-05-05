@@ -5,13 +5,8 @@ description: 5ème album (environ, si on excepte les bandes originales de film e
   disques avec ses ex) de Benjamin Biolay, {La Superbe} porte parfaitement son nom.
   Et malgré les premières impressions (double album, c'est un de trop, non ? 23 titres,
   c'est 10 de trop, non ?), aucune indigestion n'est finalement à prévoir.
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 542
 date: '2009-11-05 16:27:30 +0100'
 categories:

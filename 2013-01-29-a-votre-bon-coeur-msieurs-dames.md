@@ -1,13 +1,8 @@
 ---
 layout: post
 title: A votre bon cœur msieurs-dames !
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 1165
 date: '2013-01-29 18:42:12 +0100'
 categories: []

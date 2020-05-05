@@ -1,13 +1,8 @@
 ---
 layout: post
 title: When I was in the sweet little 16 (2009 version)
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 519
 date: '2009-08-07 18:15:32 +0200'
 categories:

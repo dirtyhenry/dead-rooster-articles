@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Transat Pitch de Poutch
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 620
 date: '2010-05-21 12:18:44 +0200'
 categories: []

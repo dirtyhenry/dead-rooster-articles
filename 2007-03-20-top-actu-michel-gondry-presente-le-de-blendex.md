@@ -1,13 +1,8 @@
 ---
 layout: post
 title: 'Top actu : Michel Gondry présente le de-blendex'
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 369
 date: '2007-03-20 13:08:00 +0100'
 categories:

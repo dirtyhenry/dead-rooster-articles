@@ -1,13 +1,8 @@
 ---
 layout: post
 title: 'Neil (not so) Young : un concert (not so) good'
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 509
 date: '2009-06-12 01:19:24 +0200'
 categories:

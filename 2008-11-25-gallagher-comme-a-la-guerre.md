@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Gallagher comme à la guerre !
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 221
 date: '2008-11-25 01:02:33 +0100'
 categories:

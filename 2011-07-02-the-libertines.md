@@ -3,13 +3,8 @@ layout: post
 title: The Libertines
 description: Cette semaine, l'Encyclopédie Approximative du Rock and Roll rend hommage
   aux groupes anglais qui rendent hommage à la grande chanson française.
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 860
 date: '2011-07-02 09:17:47 +0200'
 categories: []

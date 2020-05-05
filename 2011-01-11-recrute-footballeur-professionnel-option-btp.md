@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Recrute footballeur professionnel, option BTP
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 749
 date: '2011-01-11 22:25:57 +0100'
 categories: []

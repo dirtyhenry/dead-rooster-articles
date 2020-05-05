@@ -4,13 +4,8 @@ title: Chronique morgueuse vol. 3 - La môme
 description: Bonjour à vous, cher lecteur de Walk The Line Mag', le mag' qui ne critique
   que les biographies ciné des chanteurs morts ! Une fois n'est pas coutume, nous
   parlerons aujourd'hui d'un film sur une putain de frenchy, j'ai nommé {{La Môme}}...
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 363
 date: '2007-02-26 15:53:00 +0100'
 categories:

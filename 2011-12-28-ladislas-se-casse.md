@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Ladislas se casse !
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 977
 date: '2011-12-28 00:35:37 +0100'
 categories: []

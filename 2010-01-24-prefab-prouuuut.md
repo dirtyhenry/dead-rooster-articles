@@ -6,13 +6,8 @@ description: '"La critique est aisée, et l''art est difficile", comme disait <s
   restons planqués derrière notre écran d''ordinateur, et balançons un peu sur ce
   qui est considéré comme, qui un monument, qui une pierre angulaire, qui un must
   have des 80''s : j''ai nommé {Steve McQueen} de {{Prefab Sprout}}.'
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 566
 date: '2010-01-24 13:49:33 +0100'
 categories:

@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Francky, c'est pas bon !
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 980
 date: '2012-01-10 21:30:55 +0100'
 categories: []

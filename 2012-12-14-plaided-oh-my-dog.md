@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Plaided - Oh My Dog!
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 1150
 date: '2012-12-14 10:06:09 +0100'
 categories: []

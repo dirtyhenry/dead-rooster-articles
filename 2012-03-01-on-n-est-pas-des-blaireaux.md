@@ -1,13 +1,8 @@
 ---
 layout: post
 title: On n'est pas des blaireaux !
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 1004
 date: '2012-03-01 18:49:47 +0100'
 categories: []

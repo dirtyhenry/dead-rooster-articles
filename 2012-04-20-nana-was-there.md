@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Nana was there !
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 1024
 date: '2012-04-20 20:09:00 +0200'
 categories: []

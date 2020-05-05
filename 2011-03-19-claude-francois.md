@@ -3,13 +3,8 @@ layout: post
 title: Claude François
 description: 'L''article de cette semaine inaugure un nouveau concept : l''artiste
   approximativement rock and roll.'
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 765
 date: '2011-03-19 10:23:43 +0100'
 categories: []

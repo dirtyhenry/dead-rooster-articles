@@ -1,13 +1,8 @@
 ---
 layout: post
 title: British Sea Power - Living Is So Easy
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 778
 date: '2011-02-11 16:33:45 +0100'
 categories: []

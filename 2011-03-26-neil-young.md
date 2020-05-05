@@ -3,13 +3,8 @@ layout: post
 title: Neil Young
 description: 'Cette semaine, l''Encyclopédie traite de l''éternelle {jeunesse} : voici
   la carrière approximative du grand {{Neil Young}} messieurs-dames !'
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 804
 date: '2011-03-26 09:53:31 +0100'
 categories: []

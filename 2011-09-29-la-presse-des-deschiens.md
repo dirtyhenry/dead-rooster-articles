@@ -1,13 +1,8 @@
 ---
 layout: post
 title: La presse des Deschiens
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 921
 date: '2011-09-29 19:26:43 +0200'
 categories: []

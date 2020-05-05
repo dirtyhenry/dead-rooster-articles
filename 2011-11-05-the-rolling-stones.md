@@ -3,13 +3,8 @@ layout: post
 title: The Rolling Stones
 description: Aujourd'hui, encore un monument du rock and roll maltraité par l'Encyclopédie
   Approximative du Rock and Roll !
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 820
 date: '2011-11-05 09:23:36 +0100'
 categories: []

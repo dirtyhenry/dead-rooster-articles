@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Déchéance...
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 1007
 date: '2012-03-09 17:59:24 +0100'
 categories: []

@@ -1,13 +1,8 @@
 ---
 layout: post
 title: The new super french singermen
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 543
 date: '2009-11-05 17:54:16 +0100'
 categories: []

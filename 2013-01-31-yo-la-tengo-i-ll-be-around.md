@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Yo La Tengo - I'll Be Around
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 1166
 date: '2013-01-31 10:00:00 +0100'
 categories: []

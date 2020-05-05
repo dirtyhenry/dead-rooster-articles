@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Triste marquise des anges !
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 415
 date: '2007-10-18 16:06:00 +0200'
 categories: []

@@ -6,13 +6,8 @@ description: 'Chaque semaine (on va essayer...), une nouvelle entrée de l''Ency
   des anecdotes inexactes, des réflexions bancales sur quelques protagonistes de l''Histoire
   du Rock triés sur le volet. Et allez, on commence directement avec un gros morceau
   !'
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 759
 date: '2011-01-16 13:58:45 +0100'
 categories: []

@@ -4,13 +4,8 @@ title: Téléphone
 description: L'encyclopédie approximative du rock and roll vous offre aujourd'hui
   un troisième article en forme de résumé bancal de l'histoire du plus grand groupe
   de rock français (par la taille).
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 760
 date: '2011-01-29 12:46:55 +0100'
 categories: []

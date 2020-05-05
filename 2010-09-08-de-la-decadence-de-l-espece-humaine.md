@@ -1,13 +1,8 @@
 ---
 layout: post
 title: De la décadence de l'espèce humaine
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 698
 date: '2010-09-08 00:34:43 +0200'
 categories: []

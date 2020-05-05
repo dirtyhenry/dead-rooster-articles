@@ -3,13 +3,8 @@ layout: post
 title: Labrador Records
 description: En cette période de fêtes où tout est vraiment Trop Trop Mignon (TTM),
   penchons-nous sur un label de musique Trop Trop Mignonne.
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 976
 date: '2011-12-27 13:26:09 +0100'
 categories: []

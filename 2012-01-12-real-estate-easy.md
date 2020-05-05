@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Real Estate - Easy
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 982
 date: '2012-01-12 08:00:00 +0100'
 categories: []
