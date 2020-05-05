@@ -12,4 +12,4 @@ comments:
   title: Concombre tueur
   content: Et encore un concombre, ca se recycle, mais si c'était de l'ail ?
 ---
-Voilà qu'[on meurt en mangeant des légumes->http://tempsreel.nouvelobs.com/economie/20110601.OBS4380/fin-de-l-alerte-au-concombre-espagnol.html]. C'est la fin des haricots. Le monde va mal !
+Voilà qu'[on meurt en mangeant des légumes](http://tempsreel.nouvelobs.com/economie/20110601.OBS4380/fin-de-l-alerte-au-concombre-espagnol.html). C'est la fin des haricots. Le monde va mal !

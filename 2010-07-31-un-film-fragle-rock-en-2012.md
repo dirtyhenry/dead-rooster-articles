@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Un film Fragle Rock en 2012
-description: "[Cory Edwards prévoit de sortir en 2012 une adaptation->http://www.imdb.com/title/tt0481649/]
+description: "[Cory Edwards prévoit de sortir en 2012 une adaptation](http://www.imdb.com/title/tt0481649/)
   de la série pour enfants {{Fraggle Rock}} - qui a le générique le plus groovy de
   sa génération (clap, clap) - plutôt orientée pour un public adulte."
 authors:
@@ -14,7 +14,7 @@ tags:
 - Cinéma
 - TV Show
 ---
-[Cory Edwards prévoit de sortir en 2012 une adaptation->http://www.imdb.com/title/tt0481649/] de la série pour enfants __Fraggle Rock__ - qui a le générique le plus groovy de sa génération (clap, clap) - plutôt orientée pour un public adulte.
+[Cory Edwards prévoit de sortir en 2012 une adaptation](http://www.imdb.com/title/tt0481649/) de la série pour enfants __Fraggle Rock__ - qui a le générique le plus groovy de sa génération (clap, clap) - plutôt orientée pour un public adulte.
 
 C'est cool, j'irai voir ça pour fêter mes 31 ans !
 

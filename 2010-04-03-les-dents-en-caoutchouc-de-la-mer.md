@@ -13,10 +13,10 @@ categories:
 tags:
 - Cinéma
 ---
-Depuis une dizaine de semaines, Allociné propose une émission bien marrante : [__Faux Raccord__->http://www.allocine.fr/video/faux-raccords/].
+Depuis une dizaine de semaines, Allociné propose une émission bien marrante : [__Faux Raccord__](http://www.allocine.fr/video/faux-raccords/).
 
 Chaque samedi, cette émission met en lumière les faux raccords de films célèbres : *Gladiator*, la trilogie Jason Bourne, *Pirates des Caraïbes*, etc. Au menu cette semaine, Les Dents de la Mer qui, bizarrement, me fout nettement moins les jetons qu'il y a 20 ans... Par contre, malheur, l'émission devient bihebdomadaire.
 
-[Jonathan Lambert avait bien essayé de dénoncer les faux raccords en son temps->http://www.youtube.com/watch?v=uMrs-ZL60Rw], mais, images à l'appui, c'est quand même bien plus efficace.
+[Jonathan Lambert avait bien essayé de dénoncer les faux raccords en son temps](http://www.youtube.com/watch?v=uMrs-ZL60Rw), mais, images à l'appui, c'est quand même bien plus efficace.
 
 <div id="allocine_blog" style="width:450px; height:280px"><object height="280px" width="100%"><param name="movie" value="http://www.allocine.fr/blogvision/19096015"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.allocine.fr/blogvision/19096015" type="application/x-shockwave-flash" width="100%" height="100%" allowFullScreen="true" allowScriptAccess="always"></embed></object></div>

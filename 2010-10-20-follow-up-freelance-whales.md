@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Follow-Up : Freelance Whales'
-description: Je vous avais parlé des {{Freelance Whales}} [ici->594]. Que deviennent-ils
+description: Je vous avais parlé des {{Freelance Whales}} [ici](594). Que deviennent-ils
   ?
 authors:
   - Dirty Henry
@@ -12,7 +12,7 @@ categories:
 tags:
 - Vidéo Clip
 ---
-Je vous avais parlé des __Freelance Whales__ [ici->594], ils nous offraient alors un titre génial, *Generator ^ Second Floor*. Depuis, un album complet est sorti : il s'appelle *Weathervanes*, est écoutable en intégralité sur [Spotify->http://open.spotify.com/album/4XYtSHEBqUnYbxJ5q3pCze] et [se fait défoncer sur Pitchfork->http://pitchfork.com/reviews/albums/13955-weathervanes/] (c'est pas forcément mauvais signe) qui accuse le groupe de "maniérisme cucul sans but réel".
+Je vous avais parlé des __Freelance Whales__ [ici](594], ils nous offraient alors un titre génial, *Generator ^ Second Floor*. Depuis, un album complet est sorti : il s'appelle *Weathervanes*, est écoutable en intégralité sur [Spotify->http://open.spotify.com/album/4XYtSHEBqUnYbxJ5q3pCze] et [se fait défoncer sur Pitchfork->http://pitchfork.com/reviews/albums/13955-weathervanes/) (c'est pas forcément mauvais signe) qui accuse le groupe de "maniérisme cucul sans but réel".
 
 Malgré cela, le succès doit être là, puisque son titre d'ouverture, *Generator ^ First Floor* (forcément), a été utilisé par un spot publicitaire de Twitter... Ca n'a peut-être pas le même impact qu'être musique d'une pub Levi's mais quand même, ça doit aider à se faire connaître :
 

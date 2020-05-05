@@ -33,7 +33,7 @@ Quand, au milieu de la chanson, il y a eu ces paroles : "With two years to wait/
 
 <object width="500" height="400"><param name="movie" value="http://www.youtube.com/v/iN45OjB-cCU?fs=1&hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/iN45OjB-cCU?fs=1&hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="400"></embed></object>
 
-Et puis, quand ce fut fini et que j'eus bien ri, je me mis à lire la page wikipédia de [Graham Fellows->http://fr.wikipedia.org/wiki/Graham_Fellows].
+Et puis, quand ce fut fini et que j'eus bien ri, je me mis à lire la page wikipédia de [Graham Fellows](http://fr.wikipedia.org/wiki/Graham_Fellows).
 
 Et alors que je venais de dire à Dirty Henry que j'aurais bien vu ce Jilted John sur le podium des "chansons sur la frustration adolescente", pas loin de Teenage Kicks, je lus sur la page wikipédia sus-nommée que le morceau était "régulièrement diffusé par John Peel sur l'antenne de la BBC".
 

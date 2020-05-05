@@ -16,7 +16,7 @@ comments:
   author_email: dirtyhenry@gmail.com
   date: '2010-08-27 12:28:02 +0200'
   title: Introduction aux vvagues
-  content: 'La chanson a désormais un clip : [http://pitchfork.com/news/39867-video-wavves-post-acid/->http://pitchfork.com/news/39867-video-wavves-post-acid/]'
+  content: 'La chanson a désormais un clip : [http://pitchfork.com/news/39867-video-wavves-post-acid/](http://pitchfork.com/news/39867-video-wavves-post-acid/)'
 ---
 Très actif en publication d'albums depuis son apparition en 2008, très actif également au niveau des frasques en tout genre (insulte au public, changement de line up, addictions diverses), __Wavves__ est un groupe de San Diego, Californie.
 

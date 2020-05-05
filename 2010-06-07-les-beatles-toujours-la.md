@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Les Beatles toujours là !
-description: Que [ce vil coquin de Sean Lennon se rassure->574], les Beatles ne sont
+description: Que [ce vil coquin de Sean Lennon se rassure](574), les Beatles ne sont
   pas encore prêts de quitter la scène publique !
 authors:
   - Dirty Henry
@@ -12,7 +12,7 @@ categories:
 tags:
 - The Beatles
 ---
-Que [ce vil coquin de Sean Lennon se rassure->574], les Beatles ne sont pas encore prêts de quitter la scène publique !
+Que [ce vil coquin de Sean Lennon se rassure](574), les Beatles ne sont pas encore prêts de quitter la scène publique !
 
 <h2>McCartney et Barack</h2>
 

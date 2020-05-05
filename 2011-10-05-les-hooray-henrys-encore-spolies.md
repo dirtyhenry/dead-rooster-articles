@@ -10,4 +10,4 @@ categories:
 tags:
 - Queen
 ---
-Selon des scientifiques, *We Are The Champions*, de Queen, [serait la chanson la plus catchy de tous les temps->http://www.nme.com/news/queen/59530]. Et [*Girl*->248] des Hooray Henrys alors ? Le monde va mal ! 
+Selon des scientifiques, *We Are The Champions*, de Queen, [serait la chanson la plus catchy de tous les temps](http://www.nme.com/news/queen/59530]. Et [*Girl*->248) des Hooray Henrys alors ? Le monde va mal ! 

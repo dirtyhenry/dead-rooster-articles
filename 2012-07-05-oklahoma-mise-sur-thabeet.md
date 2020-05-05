@@ -6,4 +6,4 @@ authors:
 wordpress_id: 1070
 date: '2012-07-05 12:00:08 +0200'
 ---
-Ils misent sur [ma quoi->http://www.lequipe.fr/Basket/Actualites/Oklahoma-mise-sur-thabeet/296361] ? Le monde va mal !
+Ils misent sur [ma quoi](http://www.lequipe.fr/Basket/Actualites/Oklahoma-mise-sur-thabeet/296361) ? Le monde va mal !

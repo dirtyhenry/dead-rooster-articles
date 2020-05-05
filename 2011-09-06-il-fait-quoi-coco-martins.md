@@ -10,4 +10,4 @@ categories:
 tags:
 - Foot
 ---
-Apparemment, [(Jean) Neymar devrait signer au Barça ou au Real Madrid->http://www.lequipe.fr/Football/breves2011/20110906_110130_neymar-plus-proche-du-barca.html]. Ce qui voudrait dire que le Stade Brestois est hors du coup. Le monde va mal !
+Apparemment, [(Jean) Neymar devrait signer au Barça ou au Real Madrid](http://www.lequipe.fr/Football/breves2011/20110906_110130_neymar-plus-proche-du-barca.html). Ce qui voudrait dire que le Stade Brestois est hors du coup. Le monde va mal !

@@ -18,7 +18,7 @@ La plage en septembre, c'est trop cool. Y'a plus personne et on peut apprendre l
 
 <object width="500" height="340"><param name="movie" value="http://www.youtube.com/v/bowl-mBK1aA&hl=fr&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/bowl-mBK1aA&hl=fr&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="340"></embed></object>
 
-Ce film fait partie de la série *Comédies et proverbes* de Rohmer (ici, "Qui trop parloit, il se mesfait"), que [cette page détaille->http://archive.filmdeculte.com/coupdeprojo/filmo/rohmer.php]. Rien n'est accessoire, tout se fait sans manière, du décor, simple comme un mur blanc, aux dialogues, où rien ne reste non dit.
+Ce film fait partie de la série *Comédies et proverbes* de Rohmer (ici, "Qui trop parloit, il se mesfait"), que [cette page détaille](http://archive.filmdeculte.com/coupdeprojo/filmo/rohmer.php). Rien n'est accessoire, tout se fait sans manière, du décor, simple comme un mur blanc, aux dialogues, où rien ne reste non dit.
 
 __La chanson qui va avec__ : difficile pour moi de penser à une chanson et à un film où il y a "plage" dans le titre sans penser à ce titre, magnifique, que dis-je, ce chef d'œuvre : *Un été de porcelaine*, de Mort Schuman.
 
@@ -32,7 +32,7 @@ Eve est une fan groupiesque de la star du théâtre Margo qui, flattée par tant
 
 <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/Eg-ckMup6SI&hl=fr&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/Eg-ckMup6SI&hl=fr&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
 
-J'ai regardé ce film [sur les conseils que Serge Kaganski donne sur son blog->http://blogs.lesinrocks.com/s-kaganski/?p=204]. Si je ne partage pas complètement son enthousiasme, le film est recommandable... Malgré son pitch qui laisse penser à un film limite flippant, le film sait rester léger par de très bons moments de comédie (où figure une très jeune Marylin Monroe).
+J'ai regardé ce film [sur les conseils que Serge Kaganski donne sur son blog](http://blogs.lesinrocks.com/s-kaganski/?p=204). Si je ne partage pas complètement son enthousiasme, le film est recommandable... Malgré son pitch qui laisse penser à un film limite flippant, le film sait rester léger par de très bons moments de comédie (où figure une très jeune Marylin Monroe).
 
 __La chanson qui va avec__ : ça aurait pu être Naznavour qui se voyait déjà, ou Starmania qu'a perdu l'humour depuis qu'il a le sens des affaires, mais y'a quand même mieux en matière de chanson qui parle du rêve de l'ascension au sommet : *Rock & Roll Star*, by Oasis, dont Spotify n'offre qu'une version karaoke... Désolé...
 
@@ -46,10 +46,10 @@ Irena est une femme un peu bizarre. Bien que séduisant Oliver d'un coup de cil,
 
 <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/_9xmUidNvw8&hl=fr&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/_9xmUidNvw8&hl=fr&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
 
-Film fantastique et d'angoisse assez court (1h10), l'oeuvre de Tourneur n'en est pas moins efficace. On flippe un peu, et encore une fois, c'est sur [les recommandations de Serge Kaganski->http://blogs.lesinrocks.com/s-kaganski/?p=206] !
+Film fantastique et d'angoisse assez court (1h10), l'oeuvre de Tourneur n'en est pas moins efficace. On flippe un peu, et encore une fois, c'est sur [les recommandations de Serge Kaganski](http://blogs.lesinrocks.com/s-kaganski/?p=206) !
 
 __La chanson qui va avec__ : fastoche, la chanson éponyme (et pas la meileure) de David Bowie !
 
 ----
 
-__La playlist sur Spotify__ : [http://open.spotify.com/user/dirtyhenry/playlist/5AyE5iUPNWudqeWZz8rkbU->http://open.spotify.com/user/dirtyhenry/playlist/5AyE5iUPNWudqeWZz8rkbU]
+__La playlist sur Spotify__ : [http://open.spotify.com/user/dirtyhenry/playlist/5AyE5iUPNWudqeWZz8rkbU](http://open.spotify.com/user/dirtyhenry/playlist/5AyE5iUPNWudqeWZz8rkbU)

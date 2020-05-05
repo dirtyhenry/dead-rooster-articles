@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Deerhunter - Halcyon Digest
-description: 'Je sais désormais que faire [le top 2010->747] n''aura pas été vain
+description: 'Je sais désormais que faire [le top 2010](747) n''aura pas été vain
   : il m''a incité à réécouter {Halcyon Digest}, le 4ème album de {{Deerhunter}},
   sorti cette année.'
 authors:
@@ -16,13 +16,13 @@ tags:
 - Blur
 - R.E.M.
 ---
-Je sais désormais que faire [le top 2010->747] n'aura pas été vain : il m'a incité à réécouter *Halcyon Digest*, le 4ème album de __Deerhunter__, sorti cette année.
+Je sais désormais que faire [le top 2010](747) n'aura pas été vain : il m'a incité à réécouter *Halcyon Digest*, le 4ème album de __Deerhunter__, sorti cette année.
 
 Merci le web, l'album est en écoute sur Spotify et je me mets au travail. Avant de découvrir la richesse de l'album, il faut quand même se convaincre d'aller au delà du premier titre de l'album, qui le fait démarrer trop tranquillement à mon goût. *Earthquake* fait un peu penser à Air - ce qui est loin d'être un compliment venant de ma part - et est un peu longuet. Le reste est d'un tout autre acabit.
 
 Après de l'électro planeuse, Deerhunter nous montre que le format single pop leur va bien également : la trilogie *Don't Cry*, *Revival* et *Memory Boy* prouve que Deerhunter devrait avoir sa place sur toute radio qui se respecte.
 
-Entre ces pépites immédiates, d'autres morceaux se chargent de baisser le tempo comme *Sailing* (qui porte bien son nom : on a l'impression de faire la sieste sur un bateau dérivant sur une mer d'huile), *Basement Scene* ou *Helicopter* (à ne pas confondre avec le titre de Bloc Party, jadis [merveilleusement repris par les Hooray Henrys->237], il est toujours bon de le rappeler).
+Entre ces pépites immédiates, d'autres morceaux se chargent de baisser le tempo comme *Sailing* (qui porte bien son nom : on a l'impression de faire la sieste sur un bateau dérivant sur une mer d'huile), *Basement Scene* ou *Helicopter* (à ne pas confondre avec le titre de Bloc Party, jadis [merveilleusement repris par les Hooray Henrys](237), il est toujours bon de le rappeler).
 
 <iframe title="YouTube video player" class="youtube-player" type="text/html" width="500" height="405" src="http://www.youtube.com/embed/1mBSOtdOjoc?rel=0" frameborder="0" allowFullScreen></iframe>
 

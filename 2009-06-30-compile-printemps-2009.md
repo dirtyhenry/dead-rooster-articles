@@ -25,6 +25,6 @@ tags:
 -# Metric - *Sick Muse*
 -# Iron & Wine - *The Trapeze Swinger*
 
-[<img alt="Écouter sur Spotify" src="/squelettes/images/spotify-button.png" />->http://open.spotify.com/user/dirtyhenry/playlist/6fSUnEK6ScsQ7ObCPbYf77]
+[<img alt="Écouter sur Spotify" src="/squelettes/images/spotify-button.png" />](http://open.spotify.com/user/dirtyhenry/playlist/6fSUnEK6ScsQ7ObCPbYf77)
 
 <small>les titres avec astérisque sont indisponibles</small>

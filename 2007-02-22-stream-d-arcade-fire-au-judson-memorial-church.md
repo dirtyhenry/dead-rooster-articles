@@ -10,4 +10,4 @@ categories:
 tags:
 - Arcade Fire
 ---
-C'est sur [NPR->http://www.npr.org/templates/story/story.php?storyId=7273765].
+C'est sur [NPR](http://www.npr.org/templates/story/story.php?storyId=7273765).

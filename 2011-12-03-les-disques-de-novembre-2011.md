@@ -24,7 +24,7 @@ Mettons de côté l'édition 5-CD, complètement inaudible et réservée aux fan
 
 <h3>Real Estate - *Days*</h3>
 
-Une identité certaine (le groupe adore la reverb). De très bons titres. Allez-y. Ma préférée est *Younger than Yesterday*. Vous pouvez écouter *It's Real* [ici->944].
+Une identité certaine (le groupe adore la reverb). De très bons titres. Allez-y. Ma préférée est *Younger than Yesterday*. Vous pouvez écouter *It's Real* [ici](944).
 
 <h3>British Sea Power - *Valhalla Dancehall*</h3>
 
@@ -46,7 +46,7 @@ Un groupe français qui fait du rock cool, voilà quelque chose qu'on ne rencont
 
 <h3>The King Khan Experience - *Scion A/V Presents The King Khan Experience*</h3>
 
-King Khan est un personnage à découvrir. De la soul officiellement allemande, ça ne se voit pas tous les jours. Du très bon (*Bob Log Stomp*), du médiocre (*Come Levitate With Me*), un disque inégal, mais [à télécharger librement->http://scionav.com/collection/851/Scion-A/V-Presents:-The-King-Khan-Experience], sympa.
+King Khan est un personnage à découvrir. De la soul officiellement allemande, ça ne se voit pas tous les jours. Du très bon (*Bob Log Stomp*), du médiocre (*Come Levitate With Me*), un disque inégal, mais [à télécharger librement](http://scionav.com/collection/851/Scion-A/V-Presents:-The-King-Khan-Experience), sympa.
 
 <h2>Les 3 étoiles</h2>
 
@@ -82,13 +82,13 @@ Dans la veine songwriter, sonne comme le meilleur de Bon Iver dans les meilleurs
 
 <h3>Wonderflu - *Lota Schwager*</h3>
 
-J'avais entendu beaucoup de choses en bien sur les Parisiens de Wonderflu [ici->829] et [là->http://blogs.lesinrocks.com/gimmeindierock/2011/10/06/vote-for-wonderflu/]. Je m'y suis enfin penché et ai été légèrement déçu. Déjà, le cover art est très moche (police rouge sur fond bleu ? merde les gars, vous êtes pas sérieux !). Du classique un peu trop classique. Pas de quoi les condamner complètement non plus, juste le syndrome *Les Visiteurs* du truc que quand vous l'écoutez après tout le monde, vous ne voyez pas pourquoi les gens en font tout un foin. J'aime bien *Your Draw*, c'est mon petit côté Ringo Starr.
+J'avais entendu beaucoup de choses en bien sur les Parisiens de Wonderflu [ici](829] et [là->http://blogs.lesinrocks.com/gimmeindierock/2011/10/06/vote-for-wonderflu/). Je m'y suis enfin penché et ai été légèrement déçu. Déjà, le cover art est très moche (police rouge sur fond bleu ? merde les gars, vous êtes pas sérieux !). Du classique un peu trop classique. Pas de quoi les condamner complètement non plus, juste le syndrome *Les Visiteurs* du truc que quand vous l'écoutez après tout le monde, vous ne voyez pas pourquoi les gens en font tout un foin. J'aime bien *Your Draw*, c'est mon petit côté Ringo Starr.
 
 <h2>Les 1 étoile</h2>
 
 <h3>Lisa Miller - *Within Myself*</h3>
 
-Un disque de 1967 par une fille de 11 ans. Pas déplaisant mais des tremolo façon [rossignolets de la chanson->http://www.dailymotion.com/video/x1ho21_le-pot-pourri-des-rossignolets-part_music] et une des pires reprises des Beatles de l'histoire (*Fool On The Hill*) dont les percus feraient rougir d'envie Jean-Pierre Caca.
+Un disque de 1967 par une fille de 11 ans. Pas déplaisant mais des tremolo façon [rossignolets de la chanson](http://www.dailymotion.com/video/x1ho21_le-pot-pourri-des-rossignolets-part_music) et une des pires reprises des Beatles de l'histoire (*Fool On The Hill*) dont les percus feraient rougir d'envie Jean-Pierre Caca.
 
 <h3>Justice - *Audio, Video, Disco*</h3>
 
@@ -96,7 +96,7 @@ Justice, a priori, c'est pas mon genre. Mais le 1er album, il y a 4 ans, m'avait
 
 <h3>Goodbye Ivan - *Intervals*</h3>
 
-Recommandé par [Bon Pour les Oreilles->http://www.bonpourlesoreilles.net/musique/2011/08/goodbye-ivan-the-cherry-wood-ep.html], l'album reste trop atmosphérique pour qu'on s'y plonge.
+Recommandé par [Bon Pour les Oreilles](http://www.bonpourlesoreilles.net/musique/2011/08/goodbye-ivan-the-cherry-wood-ep.html), l'album reste trop atmosphérique pour qu'on s'y plonge.
 
 <h3>Minus The Bear - *Omni*</h3>
 
@@ -106,7 +106,7 @@ Juste un peu nul. Ça ressemble à ce que Kaiser Chiefs pourrait faire de pire. 
 
 <a href="http://open.spotify.com/user/dirtyhenry/playlist/3hsF2PdtSXdxKF92uWILeo"><img src="/squelettes/images/spotify-button.png" /></a>
 
-Réalisée avec [Sortmash->http://sortmash.com].
+Réalisée avec [Sortmash](http://sortmash.com).
 
 <div style="background: url(/IMG/png/disques-novembre.png);">
 <ul>

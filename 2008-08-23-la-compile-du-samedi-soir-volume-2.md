@@ -31,6 +31,6 @@ tags:
 -# Katerine - *Louxor, j'adore*
 -# Le Tigre - *Deceptacon*
 
-[Ecouter la compile sur Spotify -> http://open.spotify.com/user/guiguilele/playlist/3hoF0fwx9h8SfMZQQ1JVAm]
+[Ecouter la compile sur Spotify ]( http://open.spotify.com/user/guiguilele/playlist/3hoF0fwx9h8SfMZQQ1JVAm)
 
 les titres avec astérisque sont indisponibles

@@ -12,6 +12,6 @@ En cherchant un peu comment explorer le chantier à débroussailler Bruce Spring
 
 La compile complète est en écoute ici : 
 
-[<img alt="Écouter sur Spotify" src="/squelettes/images/spotify-button.png" />->http://open.spotify.com/user/dirtyhenry/playlist/1SmZPuNRAG0WIiThwKcB6F]
+[<img alt="Écouter sur Spotify" src="/squelettes/images/spotify-button.png" />](http://open.spotify.com/user/dirtyhenry/playlist/1SmZPuNRAG0WIiThwKcB6F)
 
-(via [Stereogum->http://www.stereogum.com/592652/win-butlers-14-favorite-springsteen-songs/list/])
+(via [Stereogum](http://www.stereogum.com/592652/win-butlers-14-favorite-springsteen-songs/list/))

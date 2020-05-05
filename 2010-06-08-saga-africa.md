@@ -14,7 +14,7 @@ tags:
 - Concours Katerine
 - Katerine
 ---
-La reprise de la semaine de __Katerine, Francis et ses peintres__ est [*Saga Africa*->http://www.katerinefrancisetsespeintres.com/23.html], de Yannick Noah.
+La reprise de la semaine de __Katerine, Francis et ses peintres__ est [*Saga Africa*](http://www.katerinefrancisetsespeintres.com/23.html), de Yannick Noah.
 
 On ne se privera pas du plaisir de revoir l'originale :
 
@@ -30,6 +30,6 @@ Malheur, personne ne l'avait et donc, classement inchangé :
 - 4. Marion, David et Loïc, 4pts
 - 7. Le reste du monde à 0 pt
 
-Il est encore temps de participer en [cliquant ici->569] !
+Il est encore temps de participer en [cliquant ici](569) !
 
-Toutes les reprises sont disponibles sur [le site de Katerine, Francis et ses peintres->http://www.katerinefrancisetsespeintres.com/]...
+Toutes les reprises sont disponibles sur [le site de Katerine, Francis et ses peintres](http://www.katerinefrancisetsespeintres.com/)...

@@ -25,4 +25,4 @@ La version originale est ici :
 
 <iframe title="YouTube video player" class="youtube-player" type="text/html" width="500" height="405" src="http://www.youtube.com/embed/_nLiQBV6A7c?rel=0" frameborder="0"></iframe>
 
-(via [A.V. Club->http://www.avclub.com/articles/the-walkmen-cover-holiday-road,48355/])
+(via [A.V. Club](http://www.avclub.com/articles/the-walkmen-cover-holiday-road,48355/))

@@ -29,6 +29,6 @@ tags:
 -# Pierre Lapointe - *Deux par deux rassemblés*
 -# Ben Kweller - *War*
 
-[Ecouter la compile sur Spotify->http://open.spotify.com/user/guiguilele/playlist/5X5on64PjOrizFDr46HF39]
+[Ecouter la compile sur Spotify](http://open.spotify.com/user/guiguilele/playlist/5X5on64PjOrizFDr46HF39)
 
 les titres avec astérisque sont indisponibles

@@ -10,4 +10,4 @@ Clip gavé psyché pour cet extrait de *Ride Your Heart*, premier album de Bleac
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/uCN9FCQ_P84" frameborder="0" allowfullscreen></iframe>
 
-(via [Stereogum->http://www.stereogum.com/1389942/bleached-dead-in-your-head-video/video/])
+(via [Stereogum](http://www.stereogum.com/1389942/bleached-dead-in-your-head-video/video/))

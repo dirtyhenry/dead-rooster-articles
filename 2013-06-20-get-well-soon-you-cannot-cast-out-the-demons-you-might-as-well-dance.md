@@ -10,4 +10,4 @@ Sorti assez injustement de nos radars, Get Well Soon y est revenu par le biais d
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F44084332"></iframe>
 
-Souvenons-nous également de [leur prélude de 2008->601], ça ne nous rajeunit pas.
+Souvenons-nous également de [leur prélude de 2008](601), ça ne nous rajeunit pas.

@@ -10,6 +10,6 @@ Matthew Caws, le chanteur de Nada Surf, envoie parfois des perles via son compte
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/pbni7SkQwoo" frameborder="0" allowfullscreen></iframe>
 
-La seule page d'informations trouvée sur les autoroutes de l'information est sur le bien nommé [Wilfully Obscure->http://wilfullyobscure.blogspot.fr/2012/07/deep-6-garage-dor-1986-coyote.html] : bonne lecture les amis.
+La seule page d'informations trouvée sur les autoroutes de l'information est sur le bien nommé [Wilfully Obscure](http://wilfullyobscure.blogspot.fr/2012/07/deep-6-garage-dor-1986-coyote.html) : bonne lecture les amis.
 
-(via [Matthew Caws->https://twitter.com/nadasurf/status/313747863836426240])
+(via [Matthew Caws](https://twitter.com/nadasurf/status/313747863836426240))

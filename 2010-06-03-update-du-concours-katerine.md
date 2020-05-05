@@ -16,7 +16,7 @@ tags:
 - Concours Katerine
 - Katerine
 ---
-Les reprises des deux dernières semaines de __Katerine, Francis et ses peintres__ sont [*Sympathique*->http://www.katerinefrancisetsespeintres.com/21.html], de Pink Martini (aka *Je ne veux pas travailler*) et [*Ma Benz*->http://www.katerinefrancisetsespeintres.com/22.html] de NTM..
+Les reprises des deux dernières semaines de __Katerine, Francis et ses peintres__ sont [*Sympathique*](http://www.katerinefrancisetsespeintres.com/21.html], de Pink Martini (aka *Je ne veux pas travailler*) et [*Ma Benz*->http://www.katerinefrancisetsespeintres.com/22.html) de NTM..
 
 Les originales :
 
@@ -35,6 +35,6 @@ Personne n'avait pronostiqué ces deux titres. Le classement reste inchangé !
 - 4. Marion, David et Loïc, 4pts
 - 7. Le reste du monde à 0 pt
 
-Il est encore temps de participer en [cliquant ici->569] !
+Il est encore temps de participer en [cliquant ici](569) !
 
-Toutes les reprises sont disponibles sur [le site de Katerine, Francis et ses peintres->http://www.katerinefrancisetsespeintres.com/]...
+Toutes les reprises sont disponibles sur [le site de Katerine, Francis et ses peintres](http://www.katerinefrancisetsespeintres.com/)...

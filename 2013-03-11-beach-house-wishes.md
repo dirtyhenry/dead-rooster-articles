@@ -10,6 +10,6 @@ Un chanteur issu de *Twin Peaks* + un feu d'artifice + un cheval blanc. C'est le
 
 <iframe src="http://www.youtube.com/embed/OS6duOoxctw" frameborder="0" allowfullscreen></iframe>
 
-Revoir [*Wild*->1157], [*White Moon*->682], ou [réécouter leur session Daytrotter->br126] (où l'on peut entendre *Used To Be*, titre du groupe pour lequel on a un gros faible).
+Revoir [*Wild*](1157], [*White Moon*->682], ou [réécouter leur session Daytrotter->br126) (où l'on peut entendre *Used To Be*, titre du groupe pour lequel on a un gros faible).
 
-(via [Pitchfork->http://pitchfork.com/news/49829-watch-the-surreal-beach-house-video-for-wishes-directed-by-eric-wareheim-and-starring-ray-wise/])
+(via [Pitchfork](http://pitchfork.com/news/49829-watch-the-surreal-beach-house-video-for-wishes-directed-by-eric-wareheim-and-starring-ray-wise/))

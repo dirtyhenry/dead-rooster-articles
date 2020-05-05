@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Les Raveonettes reprennent les Stone Roses
-description: Les reprises sont à la mode ! Après Levis et ses [Pioneer Sessions->623],
-  Beck et son [record club->br26], le AV Club et son [Undercover->680], c'est au tour
+description: Les reprises sont à la mode ! Après Levis et ses [Pioneer Sessions](623),
+  Beck et son [record club](br26], le AV Club et son [Undercover->680), c'est au tour
   de Doc Martens de créer sa collec' de reprises pour fêter ses 50 ans.
 authors:
   - Dirty Henry
@@ -15,12 +15,12 @@ tags:
 - Reprise
 - The Raveonettes
 ---
-Les reprises sont à la mode ! Après Levis et ses [Pioneer Sessions->623], Beck et son [record club->br26], le AV Club et son [Undercover->680], c'est au tour de Doc Martens de créer sa collec' de reprises pour fêter ses 50 ans. 
+Les reprises sont à la mode ! Après Levis et ses [Pioneer Sessions](623], Beck et son [record club->br26], le AV Club et son [Undercover->680), c'est au tour de Doc Martens de créer sa collec' de reprises pour fêter ses 50 ans. 
 
-Duke Spirit, Black Rebel Motorcycle Club sont au programme, ainsi que les Raveonettes qui reprennent ici le *I Wanna Be Adored* des Stone Roses ([dont c'est la seconde reprise mentionnée sur ce site->598]).
+Duke Spirit, Black Rebel Motorcycle Club sont au programme, ainsi que les Raveonettes qui reprennent ici le *I Wanna Be Adored* des Stone Roses ([dont c'est la seconde reprise mentionnée sur ce site](598)).
 
 <iframe width="540" height="405" src="http://www.youtube.com/embed/6zbdrabfQc0" frameborder="0" allowfullscreen></iframe>
 
-Les MP3 qui vont avec peuvent être téléchargés [ici->http://50.drmartens.com/free-mp3s].
+Les MP3 qui vont avec peuvent être téléchargés [ici](http://50.drmartens.com/free-mp3s).
 
-(via [howtodisappear.org->http://www.howtodisappear.org/2010/08/raveonettes-cover-stone-roses-i-wanna.html])
+(via [howtodisappear.org](http://www.howtodisappear.org/2010/08/raveonettes-cover-stone-roses-i-wanna.html))

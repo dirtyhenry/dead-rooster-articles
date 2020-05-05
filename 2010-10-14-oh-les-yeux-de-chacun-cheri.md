@@ -31,7 +31,7 @@ et en live et en kilt ça donne...
 
 <h3>39. *Les yeux de ma mère* d'Arno</h3>
 
-La reprise de Katerine est [ici->http://www.katerinefrancisetsespeintres.com/mere.html]. Une version live d'Arno, qui fait pleurer les copains, Dechavanne, Arditi et Eve Angeli :
+La reprise de Katerine est [ici](http://www.katerinefrancisetsespeintres.com/mere.html). Une version live d'Arno, qui fait pleurer les copains, Dechavanne, Arditi et Eve Angeli :
 
 <object width="500" height="400"><param name="movie" value="http://www.youtube.com/v/2rrYrTQUlY0?fs=1&hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/2rrYrTQUlY0?fs=1&hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="400"></embed></object>
 
@@ -39,7 +39,7 @@ La reprise de Katerine est [ici->http://www.katerinefrancisetsespeintres.com/mer
 
 <h3>40. *Chacun fait (c'qui lui plaît)* de Chagrun d'Amour</h3>
 
-La reprise de Katerine est [ici->http://www.katerinefrancisetsespeintres.com/chacun.html]. L'originale :
+La reprise de Katerine est [ici](http://www.katerinefrancisetsespeintres.com/chacun.html). L'originale :
 
 <object width="500" height="400"><param name="movie" value="http://www.youtube.com/v/lQ1aSVPuAug?fs=1&hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/lQ1aSVPuAug?fs=1&hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="400"></embed></object>
 
@@ -47,7 +47,7 @@ La reprise de Katerine est [ici->http://www.katerinefrancisetsespeintres.com/cha
 
 <h3>41. *Oh Oh Chéri* de Françoise Hary</h3>
 
-La reprise de Katerine est [ici->http://www.katerinefrancisetsespeintres.com/cheri.html]. L'originale :
+La reprise de Katerine est [ici](http://www.katerinefrancisetsespeintres.com/cheri.html). L'originale :
 
 <object width="500" height="400"><param name="movie" value="http://www.youtube.com/v/Sy7QglZfKHo?fs=1&hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/Sy7QglZfKHo?fs=1&hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="400"></embed></object>
 
@@ -62,6 +62,6 @@ Pour la première fois depuis piouf, on a un changement au classement. kr avait 
 - 5. Marion, David, Loïc et kr, 4pts
 - 9. Le reste du monde à 0 pt
 
-<strike>Il est encore temps de participer en [cliquant ici->569] !</strike>
+<strike>Il est encore temps de participer en [cliquant ici](569) !</strike>
 
-Toutes les reprises sont disponibles sur [le site de Katerine, Francis et ses peintres->http://www.katerinefrancisetsespeintres.com/]...
+Toutes les reprises sont disponibles sur [le site de Katerine, Francis et ses peintres](http://www.katerinefrancisetsespeintres.com/)...

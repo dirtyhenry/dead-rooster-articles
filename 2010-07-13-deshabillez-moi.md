@@ -14,7 +14,7 @@ tags:
 - Concours Katerine
 - Katerine
 ---
-La reprise de la semaine de __Katerine, Francis et ses peintres__ est [*Déshabillez-moi*->http://www.katerinefrancisetsespeintres.com/28.html], de Juliette Gréco.
+La reprise de la semaine de __Katerine, Francis et ses peintres__ est [*Déshabillez-moi*](http://www.katerinefrancisetsespeintres.com/28.html), de Juliette Gréco.
 
 L'originale :
 
@@ -26,10 +26,10 @@ Pour la 1ère fois depuis très longtemps, des points sont marqués car Benji l'
 - 5. Marion, David et Loïc, 4pts
 - 8. Le reste du monde à 0 pt
 
-Il est encore temps de participer en [cliquant ici->569] !
+Il est encore temps de participer en [cliquant ici](569) !
 
 D'autre part, Katerine vient de sortir la vidéo de son nouveau single *La Banane*, pour qui la vie se résume à manger des bananes tout nu sur la plage. Un programme politique fort !
 
 <object width="500" height="306"><param name="movie" value="http://www.youtube.com/v/XuOSwppg8rc&hl=fr_FR&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/XuOSwppg8rc&hl=fr_FR&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="306"></embed></object>
 
-Toutes les reprises sont disponibles sur [le site de Katerine, Francis et ses peintres->http://www.katerinefrancisetsespeintres.com/]...
+Toutes les reprises sont disponibles sur [le site de Katerine, Francis et ses peintres](http://www.katerinefrancisetsespeintres.com/)...

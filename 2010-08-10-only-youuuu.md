@@ -7,9 +7,9 @@ authors:
 wordpress_id: 679
 date: '2010-08-10 13:55:08 +0200'
 ---
-Rien à voir avec [la version->http://www.youtube.com/watch?v=9r2pEdc1_lI] des __Platters__ !
+Rien à voir avec [la version](http://www.youtube.com/watch?v=9r2pEdc1_lI) des __Platters__ !
 <br>
-Extraite de la B.O. du film *The Informers*, cette chanson de __Jason Falkner__, un artiste qu'on aime bien [ici->http://www.deadrooster.org/Auteur-inconnu], a bien failli nous échapper !
+Extraite de la B.O. du film *The Informers*, cette chanson de __Jason Falkner__, un artiste qu'on aime bien [ici](http://www.deadrooster.org/Auteur-inconnu), a bien failli nous échapper !
 <br>
 Fort heureusement, et malgré 6 mois de décalage, elle nous parvient enfin aux oreilles ! Joie !
 

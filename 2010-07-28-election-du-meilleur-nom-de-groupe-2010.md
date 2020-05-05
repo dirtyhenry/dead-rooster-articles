@@ -34,7 +34,7 @@ comments:
   title: Election du meilleur nom de groupe 2010 !
   content: Sheetah et les Weissmuller (of course)
 ---
-Venant de tomber sur [ce post->http://iguessimfloating.blogspot.com/2010/07/video-phoenix-foundation-pot.html], je m'aperçois qu'il manque une récompense dans le monde de la musique.
+Venant de tomber sur [ce post](http://iguessimfloating.blogspot.com/2010/07/video-phoenix-foundation-pot.html), je m'aperçois qu'il manque une récompense dans le monde de la musique.
 
 Toutes ces cérémonies négligent un art subtil, qui préfigure l'avenir d'un groupe, même avant son premier concert, sa première répétition ou quoi que ce soit d'autre : l'art du __band-naming__ ! 
 

@@ -10,4 +10,4 @@ Le BRMC vous offre la vidéo de leur single *Hate The Taste*, extrait de leur al
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/iaZc0ITpnQ8" frameborder="0" allowfullscreen></iframe>
 
-Rappelons encore une fois que ce groupe sous-côté est l'un de nos chouchous comme le prouvent la présence parmi ces pages de [*Let The Day Begin*->1221], [*Berlin*->783] ou [leur reprise de *Dirty Old Town*->709].
+Rappelons encore une fois que ce groupe sous-côté est l'un de nos chouchous comme le prouvent la présence parmi ces pages de [*Let The Day Begin*](1221], [*Berlin*->783] ou [leur reprise de *Dirty Old Town*->709).

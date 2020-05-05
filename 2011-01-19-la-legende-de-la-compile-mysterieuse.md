@@ -68,4 +68,4 @@ ps : *But it's no hanging matter, it's no capital crime !* : mettre du reggae su
 
 ps : une version altérée de la compile (où certains titres indisponibles sont remplacés par des versions karaoke) est disponible sur Spotify :  
 
-[<img src="/squelettes/images/spotify-button.png" />->http://open.spotify.com/user/dirtyhenry/playlist/0WKilQAcn8m45VnWo4jMYW]
+[<img src="/squelettes/images/spotify-button.png" />](http://open.spotify.com/user/dirtyhenry/playlist/0WKilQAcn8m45VnWo4jMYW)

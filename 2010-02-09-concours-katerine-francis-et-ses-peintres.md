@@ -21,11 +21,11 @@ tags:
 
 <span style="color:#009;">__Edit__ : on me glisse à l'oreille (merci à Damien et Guillaume) que c'est plus marrant de laisser le concours ouvert jusqu'à la fin de l'année, dont acte. En plus, plus on joue tard, moins on a de chances de gagner donc ça vaut. Mieux, pourquoi ne pourrait-on pas jouer plusieurs fois ? Dont acte également ! Mais par contre __il est interdit de jouer une chanson déjà jouée par soi-même ou un autre concurrent__ (cf. chansons jouées en bas de page)</span>
 
-Le site [www.katerinefrancisetsespeintres.com->http://www.katerinefrancisetsespeintres.com/] sera notre calendrier de l'avent 2010 : chaque lundi, on y découvre une nouvelle pépite de la chanson française, reprise par __Philippe Katerine__ et le groupe __Francis et ses peintres__.
+Le site [www.katerinefrancisetsespeintres.com](http://www.katerinefrancisetsespeintres.com/) sera notre calendrier de l'avent 2010 : chaque lundi, on y découvre une nouvelle pépite de la chanson française, reprise par __Philippe Katerine__ et le groupe __Francis et ses peintres__.
 
 Les 6 premières semaines de l'année furent lourdes de bonnes surprises avec des reprises de *C'est lundi*, *Une chanson douce*, *La boîte de jazz*, *Belle Île en Mer*, *Coup de folie* et *Papayou*. Mais que nous réservent les prochaines semaines ?
 
-Jouons ensemble en proposant 5 chansons. Si une des chansons pronostiquées est reprise par Katerine, on marque des points : 5 pts pour la chanson n°1, 4 pts pour la chanson n°2, etc... <strike>Les pronostics sont ouverts jusqu'à dimanche, où les pronostics seront publiés sur ce site !</strike> Le vainqueur du pronostic gagnera __une photo dédicacée de [Jean-Pierre Caca->rubrique 5]__. 
+Jouons ensemble en proposant 5 chansons. Si une des chansons pronostiquées est reprise par Katerine, on marque des points : 5 pts pour la chanson n°1, 4 pts pour la chanson n°2, etc... <strike>Les pronostics sont ouverts jusqu'à dimanche, où les pronostics seront publiés sur ce site !</strike> Le vainqueur du pronostic gagnera __une photo dédicacée de [Jean-Pierre Caca](rubrique 5)__. 
 
 Rendez-vous en 2011 pour le verdict !
 

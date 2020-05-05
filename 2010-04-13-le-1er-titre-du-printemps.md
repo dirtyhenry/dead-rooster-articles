@@ -10,7 +10,7 @@ date: '2010-04-13 11:21:12 +0200'
 ---
 {*Freelance Whales*} c'est un groupe du Queens qui sort aujourd'hui son premier album *Weathervanes*.
 
-Pour fêter ça, ils offrent le MP3 du single *Generator 2nd Floor* [sur leur page MySpace->http://www.myspace.com/freelancewhales] (cf. le "Get a free MP3 bla bla bla" dans la section "Similaire à"), dont on peut voir le clip plus bas. 
+Pour fêter ça, ils offrent le MP3 du single *Generator 2nd Floor* [sur leur page MySpace](http://www.myspace.com/freelancewhales) (cf. le "Get a free MP3 bla bla bla" dans la section "Similaire à"), dont on peut voir le clip plus bas. 
 
 Y figurent les 5 membres du groupe, en poncho et masqués, qui viennent ligoter une fille avec des jacks dans la neige. Tordu. Heureusement il y a un happy-end : la fille se libère et reste pote avec eux : elle leur offre même des pommes dans un nid. Encore plus tordu. 
 

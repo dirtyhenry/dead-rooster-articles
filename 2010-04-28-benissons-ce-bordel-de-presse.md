@@ -8,7 +8,7 @@ authors:
 wordpress_id: 605
 date: '2010-04-28 23:03:00 +0200'
 ---
-Au début ce que j'aimais bien de ce groupe de Brooklyn, __The Press__, c'était leur titre *Bless This Mess*, qu'[on peut écouter ici sur le site de The Tripwire->http://www.thetripwire.com/news/2010/04/02/premiere-the-press-bless-this-mess/].
+Au début ce que j'aimais bien de ce groupe de Brooklyn, __The Press__, c'était leur titre *Bless This Mess*, qu'[on peut écouter ici sur le site de The Tripwire](http://www.thetripwire.com/news/2010/04/02/premiere-the-press-bless-this-mess/).
 
 En cherchant un éventuel clip pour ce titre, je suis tombé sur bien mieux : un autre clip du groupe, celui de leur single *Master*, que voici : 
 

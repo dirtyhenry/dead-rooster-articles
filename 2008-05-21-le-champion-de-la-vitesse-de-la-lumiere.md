@@ -22,8 +22,8 @@ La meilleure surprise de la soirée est française et s'appelle __Koko Von Napoo
 
 Le meilleur groupe de la soirée fut __Lightspeed Champion__ et merci bien car c'est lui que j'étais venu voir. Le projet solo de Dev Hynes, ex-Test Icicles (groupe éphémère, auteur de l'explosif et génial *Circle, Square, Triangle*), fournit une musique bien différente de celle de son ancien groupe. Pop, folk, harmonies à tout va, les titres de *Falling Off The Lavender Bridge* en font un album candidat au top 2008. Pourtant sur scène, les morceaux sont arrangés différemment et on soupçonne que cela est davantage motivé par des contraintes musicales et techniques que par vrai choix artistique mais le groupe compense par une bonne humeur inébranlable (sourire radieux pendant l'intégralité du concert pour tous les membres, particulièrement craquant lorsqu'il s'agit de la batteuse, Anna Prior) et des changements de rythme aussi décomplexés que foutraques sur la plupart des morceaux. Le groupe conclut en beauté en plaçant une version originale et inattendue du thème de *Star Wars* en introduction du dernier morceau. On ne pleurera pas sur les cendres de Test Icicles.
 
--* [Glasvegas->http://www.myspace.com/glasvegas]
--* [These New Puritans->http://www.myspace.com/thesenewpuritans]
--* [Koko von Napoo->http://www.myspace.com/kokovonnapoo]
--* [Lightspeed Champion->http://www.myspace.com/lightspeedchampion]
--* [Vidéo de *Circle, Square, Triangle*->http://www.youtube.com/watch?v=qKnRg3uro-s]
+-* [Glasvegas](http://www.myspace.com/glasvegas)
+-* [These New Puritans](http://www.myspace.com/thesenewpuritans)
+-* [Koko von Napoo](http://www.myspace.com/kokovonnapoo)
+-* [Lightspeed Champion](http://www.myspace.com/lightspeedchampion)
+-* [Vidéo de *Circle, Square, Triangle*](http://www.youtube.com/watch?v=qKnRg3uro-s)

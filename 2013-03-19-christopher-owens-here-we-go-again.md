@@ -10,6 +10,6 @@ L'ex leader de Girls, propose un clip pour *Here We Go Again*, extrait de *Lysan
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/QWba2_HxpjQ" frameborder="0" allowfullscreen></iframe>
 
-Les nostalgiques de Girls peuvent toujours [réécouter *Honey Bunny*->http://www.deadrooster.org/Girls-Honey-Bunny].
+Les nostalgiques de Girls peuvent toujours [réécouter *Honey Bunny*](http://www.deadrooster.org/Girls-Honey-Bunny).
 
-(via [Pitchfork->http://pitchfork.com/news/49888-watch-christopher-owens-here-we-go-video/])
+(via [Pitchfork](http://pitchfork.com/news/49888-watch-christopher-owens-here-we-go-video/))

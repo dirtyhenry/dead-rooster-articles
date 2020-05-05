@@ -10,6 +10,6 @@ categories:
 tags:
 - Trucs marrants
 ---
-[Un parfum Sex Pistols vient d'être commercialisé en France.->http://www.nme.com/news/sex-pistols/52816] Et il ne sent même pas un mélange de sueur, de sang et de crottes de nez. Le monde va mal !
+[Un parfum Sex Pistols vient d'être commercialisé en France.](http://www.nme.com/news/sex-pistols/52816) Et il ne sent même pas un mélange de sueur, de sang et de crottes de nez. Le monde va mal !
 
-(photo par [lupinehorror->http://www.flickr.com/photos/lupinehorror/] sous [licence CC-BY-NC->http://creativecommons.org/licenses/by-nc/2.0/])
+(photo par [lupinehorror](http://www.flickr.com/photos/lupinehorror/] sous [licence CC-BY-NC->http://creativecommons.org/licenses/by-nc/2.0/))

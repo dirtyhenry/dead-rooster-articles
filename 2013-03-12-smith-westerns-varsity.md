@@ -14,6 +14,6 @@ UPDATE : la vidéo est là.
 
 <iframe width="600" height="338" src="http://www.youtube.com/embed/ykOK2XZ80vg" frameborder="0" allowfullscreen></iframe>
 
-Pareil que pour The National [hier->1227] : "Vivement l'album !"
+Pareil que pour The National [hier](1227) : "Vivement l'album !"
 
-(via [Pitchfork->http://pitchfork.com/news/49781-smith-westerns-announce-new-album-soft-will-share-new-track-varsity/] et [Pitchfork->http://pitchfork.com/news/50653-watch-smith-westerns-varsity-video/])
+(via [Pitchfork](http://pitchfork.com/news/49781-smith-westerns-announce-new-album-soft-will-share-new-track-varsity/] et [Pitchfork->http://pitchfork.com/news/50653-watch-smith-westerns-varsity-video/))

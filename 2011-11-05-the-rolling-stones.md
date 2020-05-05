@@ -28,7 +28,7 @@ Souvent considéré comme la réponse du berger à la bergère, les Rolling Ston
 
 Associé à cet auteur/interprète extraordinaire, on retrouve Keith Richards le fabuleux guitar-hero fan de zouk qui, très tôt, eut conscience qu'un destin de rock star l'attendait : ainsi, dans sa biographie, il nous révèle que tout gamin, il sniffait déjà les cendres de cigarettes de son père !
 
-Les deux compères ont accouché de formidables brûlots rock and roll, même si le duo est surtout connu pour ses "adaptations", qui en "empruntant" [*Roger*->http://www.youtube.com/watch?v=1a-EBGUapV8] aux __Rolling Bidochons__, qui en "rendant hommage" au __Eddy Mitchell__ de [*Rien qu'un seul mot*->http://www.deezer.com/listen-1107661].
+Les deux compères ont accouché de formidables brûlots rock and roll, même si le duo est surtout connu pour ses "adaptations", qui en "empruntant" [*Roger*](http://www.youtube.com/watch?v=1a-EBGUapV8] aux __Rolling Bidochons__, qui en "rendant hommage" au __Eddy Mitchell__ de [*Rien qu'un seul mot*->http://www.deezer.com/listen-1107661).
 
 A côté de cette paire fantastique gravitent d'autres merveilleux individus : que ce soit Mick Jones, qui partit rapidement fonder le __Clash__ ou Ron Wood, choisi parce qu'il avait le plus petit ampli disponible à l'époque (et qui donc pouvait facilement exploiter le bus-studio d'enregistrement spécialement aménagé pour capter *on the road* les idées foisonnantes du groupe), la seconde guitare chez les Stones a toujours été primordiale, tant et si bien que Keith laissait le plus souvent la part belle à ses alter-ego guitaristiques.
 

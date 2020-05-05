@@ -26,4 +26,4 @@ CSS est déjà à l'affiche de la Route du Rock, avec LCD Soundsystem. Les hanch
 
 <a href="http://www.myspace.com/officialtillyandthewall">[MySpace Tilly and the Wall]</a><br /><a href="http://www.myspace.com/canseidesersexy">[MySpace Cansei de Ser Sexy]</a>
 
-Photos : [(c) Robert Gil->http://www.photosconcerts.com/]
+Photos : [(c) Robert Gil](http://www.photosconcerts.com/)

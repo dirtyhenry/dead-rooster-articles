@@ -32,28 +32,28 @@ Oh, c'est pas mal, non ? Pardon ? L'échelle est logarithmique ? Ah, ok, bon, ef
 
 Par ailleurs, regardons quel est le top 10 des pages les plus visitées du site cette année ?
 
--# [Concombre tueur->850] : Dead Rooster a fait du chiffre sur la peur des Français et n'en est pas fier...
--# [Qui es-tu Nolwenn Leroy ?->789] : qui est aussi notre article le plus commenté et aura attiré des âmes sensibles à la facétie et au second degré : «Avant de critiquer, il faudrait se renseigner», «allez vomir ailleurs», «article dégoûtant», «procédé un peu facile et vulgaire», «écrit avec de la merde», «fait honte à la presse française» (putain, Dead Rooster fait partie de la presse française ? Champagne les potes !)
--# [Keren Ann - *101*->814] (bien derrière au niveau des chiffres)
--# [Top Musique 2010->747]
--# [Yes->884]
--# [Keren Ann au Havre->235] (l'un des tous premiers posts du site)
--# [Le nez de Dorothée sort de sa valise->553]
--# [Concours Katerine, Francis et ses peintres->569]
--# [The Doors, c'est trop bien, si, si, c'est vrai->774]
--# [Hawaï mon cul ouais->497]
+-# [Concombre tueur](850) : Dead Rooster a fait du chiffre sur la peur des Français et n'en est pas fier...
+-# [Qui es-tu Nolwenn Leroy ?](789) : qui est aussi notre article le plus commenté et aura attiré des âmes sensibles à la facétie et au second degré : «Avant de critiquer, il faudrait se renseigner», «allez vomir ailleurs», «article dégoûtant», «procédé un peu facile et vulgaire», «écrit avec de la merde», «fait honte à la presse française» (putain, Dead Rooster fait partie de la presse française ? Champagne les potes !)
+-# [Keren Ann - *101*](814) (bien derrière au niveau des chiffres)
+-# [Top Musique 2010](747)
+-# [Yes](884)
+-# [Keren Ann au Havre](235) (l'un des tous premiers posts du site)
+-# [Le nez de Dorothée sort de sa valise](553)
+-# [Concours Katerine, Francis et ses peintres](569)
+-# [The Doors, c'est trop bien, si, si, c'est vrai](774)
+-# [Hawaï mon cul ouais](497)
 
-Un constat s'impose, c'est bien marrant tout ça mais quid des vrais trésors de ce site ? Quid de [l'article de l'encyclopédie approximative de Jeff Buckley->831], de [la critique du second meilleur album de tous les temps->852], ou du [psycho-couac provoqué par la mort de Lucien Freud->876] ? Voilà de vrais trésors qu'il va nous falloir déterrer ! Nous y reviendrons la semaine prochaine dans un autre post intitulé "Feuille de route 2012 Dead Rooster", ou comment redonner le moral aux Français pour nous sortir de cette crise !
+Un constat s'impose, c'est bien marrant tout ça mais quid des vrais trésors de ce site ? Quid de [l'article de l'encyclopédie approximative de Jeff Buckley](831], de [la critique du second meilleur album de tous les temps->852], ou du [psycho-couac provoqué par la mort de Lucien Freud->876) ? Voilà de vrais trésors qu'il va nous falloir déterrer ! Nous y reviendrons la semaine prochaine dans un autre post intitulé "Feuille de route 2012 Dead Rooster", ou comment redonner le moral aux Français pour nous sortir de cette crise !
 
 <h2>Comment devenir un Ninja gratuitement ?</h2>
 
-Enfin, rigolons un peu. En s'inspirant de l'ouvrage [*Comment devenir un Ninja gratuitement*->http://www.amazon.fr/Comment-Devenir-Gratuitement-Josselin-Bordat/dp/2954063904/] et de [l'article que ça a inspiré aux Inrocks->http://www.lesinrocks.com/medias/numerique-article/t/72016/date/2011-10-24/article/coment-devenir-un-ninja-gratuitement/], allons-y à notre tour : palmarès des recherches Google ayant fini sur notre site les plus farfelues
+Enfin, rigolons un peu. En s'inspirant de l'ouvrage [*Comment devenir un Ninja gratuitement*](http://www.amazon.fr/Comment-Devenir-Gratuitement-Josselin-Bordat/dp/2954063904/] et de [l'article que ça a inspiré aux Inrocks->http://www.lesinrocks.com/medias/numerique-article/t/72016/date/2011-10-24/article/coment-devenir-un-ninja-gratuitement/), allons-y à notre tour : palmarès des recherches Google ayant fini sur notre site les plus farfelues
 
 __Catégorie "on se sent moins seul"__
-- beaucoup de monde parle de [guiguite le hamster->444] et veut des nouvelles
-- beaucoup de monde s'indigne de [la censure de la scène avec "petite vieille" dans *Dumb & Dumber*->576]
-- beaucoup de monde s'interroge sur [la légende urbaine du sanglier qu'on croyait mort et qu'on a enfermé dans le coffre de la voiture->538]
-- beaucoup de monde [n'aime pas les Doors->774] (exemple : the doors c'est d'la merde)
+- beaucoup de monde parle de [guiguite le hamster](444) et veut des nouvelles
+- beaucoup de monde s'indigne de [la censure de la scène avec "petite vieille" dans *Dumb & Dumber*](576)
+- beaucoup de monde s'interroge sur [la légende urbaine du sanglier qu'on croyait mort et qu'on a enfermé dans le coffre de la voiture](538)
+- beaucoup de monde [n'aime pas les Doors](774) (exemple : the doors c'est d'la merde)
 
 __Catégorie "on veut voir des gens tous nus"__
 - un nombre impressionnant de recherches concernant "Juliette je t'aime porno"

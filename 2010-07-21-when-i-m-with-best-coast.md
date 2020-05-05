@@ -20,8 +20,8 @@ Après plusieurs semaines d'attente, nous ne sommes plus qu'à quelques jours de
 Best Coast est un duo de Los Angeles dont la chanteuse, Bethany Cosentino, résume les ambitions par la formule suivante : de la batterie à la Beatles, des guitares à la Ramones et des voix à la Phil Spector. Chouette programme.
 
 Quelques liens :
-- [l'album en streaming->http://blog.urbanoutfitters.com/features/best_coast]
-- [une page où on peut écouter et télécharger le titre Boyfriend->http://pitchfork.com/reviews/tracks/11931-boyfriend/]
+- [l'album en streaming](http://blog.urbanoutfitters.com/features/best_coast)
+- [une page où on peut écouter et télécharger le titre Boyfriend](http://pitchfork.com/reviews/tracks/11931-boyfriend/)
 
 Et enfin la vidéo du single *When I'm With You* :
 

@@ -10,4 +10,4 @@ Section "découverte 2013", on vous présente Field Mouse. Un duo qui vient de B
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F78106313"></iframe>
 
-(via [IGIF->http://www.iguessimfloating.net/2013/02/listen-field-mouse-tomorrow-is-yesterday.html])
+(via [IGIF](http://www.iguessimfloating.net/2013/02/listen-field-mouse-tomorrow-is-yesterday.html))

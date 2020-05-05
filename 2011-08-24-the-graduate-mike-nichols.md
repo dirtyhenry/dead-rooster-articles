@@ -20,7 +20,7 @@ tags:
 ---
 <h2>*Le Lauréat* (*The Graduate*), de Mike Nichols (1967)</h2>
 
-Benjamin Braddock vient d'être diplômé. Ses parents et leurs amis sont tous très contents et s'interrogent maintenant sur la suite : "tu es si brillant Benjamin, que veux-tu faire maintenant ? [Du plastique ?->http://www.youtube.com/watch?v=PSxihhBzCjk]". Le problème de Benjamin, c'est qu'il n'en a aucune idée. Parmi les convives de la fête qui lui est consacrée se trouve Mrs. Robinson, la femme d'un ami proche de Papa Braddock, alcoolique et [cougar->http://fr.wikipedia.org/wiki/Cougar_(femme)] dans son temps-libre. Benjamin se laisse séduire par les avances de la dame et se met à glander sévère, au grand dam de ses parents qui, ne sachant rien de la relation liant leur fils et leur amie, insistent pour qu'il rencontre la fille de celle-ci, Elaine.
+Benjamin Braddock vient d'être diplômé. Ses parents et leurs amis sont tous très contents et s'interrogent maintenant sur la suite : "tu es si brillant Benjamin, que veux-tu faire maintenant ? [Du plastique ?](http://www.youtube.com/watch?v=PSxihhBzCjk]". Le problème de Benjamin, c'est qu'il n'en a aucune idée. Parmi les convives de la fête qui lui est consacrée se trouve Mrs. Robinson, la femme d'un ami proche de Papa Braddock, alcoolique et [cougar->http://fr.wikipedia.org/wiki/Cougar_(femme)) dans son temps-libre. Benjamin se laisse séduire par les avances de la dame et se met à glander sévère, au grand dam de ses parents qui, ne sachant rien de la relation liant leur fils et leur amie, insistent pour qu'il rencontre la fille de celle-ci, Elaine.
 
 <iframe width="540" height="435" src="http://www.youtube.com/embed/-3lKbMBab18" frameborder="0" allowfullscreen></iframe>
 
@@ -46,13 +46,13 @@ __{La musique qui va avec__}
 
 Dans sa première partie, *Le Lauréat* séduit car c'est vraiment très drôle. Dans sa seconde partie, *Le Lauréat* séduit car le drame qui se joue nous tient à cœur car on est devenus très copains avec Benjamin. Sur toute la durée du film, *Le Lauréat* séduit par sa bande-son, signée Simon & Garfunkel.
 
-La B.O. du film détrônera d'ailleurs le *White Album* des Beatles du sommet des charts, porté par les trois titres devenus depuis des standards [*Mrs. Robinson*->http://www.youtube.com/watch?v=mDrTCqXZrTQ], [*The Sound of Silence*->http://www.youtube.com/watch?v=eZGWQauQOAQ] et [*Scarborough Fair*->http://www.youtube.com/watch?v=nWu6ney5hYQ]. 
+La B.O. du film détrônera d'ailleurs le *White Album* des Beatles du sommet des charts, porté par les trois titres devenus depuis des standards [*Mrs. Robinson*](http://www.youtube.com/watch?v=mDrTCqXZrTQ], [*The Sound of Silence*->http://www.youtube.com/watch?v=eZGWQauQOAQ] et [*Scarborough Fair*->http://www.youtube.com/watch?v=nWu6ney5hYQ). 
 
 __{La suite ?__}
 
 - Mike Nichols a mis la tête dans le seau et a eu du mal à faire aussi bien, 
 - Charles Webb a publié la suite de ce premier roman en 2007 : ça s'appelle *Home School*, et il paraît que c'est un peu nul
-- [The Lemonheads ont repris *Mrs. Robinson*->http://www.youtube.com/watch?v=4DvK6VTG67U] dans les années 90
-- Dustin Hoffman et Robert Redford ont fini copains comme cochons, [finissent ensemble sur des tee-shirts->http://www.comboutique.com/shop/t_shirt_impression-tee_peter__steven-2620-47423.html] et tournent des films ensemble : 
+- [The Lemonheads ont repris *Mrs. Robinson*](http://www.youtube.com/watch?v=4DvK6VTG67U) dans les années 90
+- Dustin Hoffman et Robert Redford ont fini copains comme cochons, [finissent ensemble sur des tee-shirts](http://www.comboutique.com/shop/t_shirt_impression-tee_peter__steven-2620-47423.html) et tournent des films ensemble : 
 
 <iframe width="540" height="333" src="http://www.youtube.com/embed/hVytko7quO4" frameborder="0" allowfullscreen></iframe>

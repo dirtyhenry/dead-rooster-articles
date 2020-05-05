@@ -20,7 +20,7 @@ Déjà, la longueur des morceaux oscille entre 25 secondes et 10 minutes. Avouez
 
 <iframe title="YouTube video player" width="500" height="311" src="http://www.youtube.com/embed/HkNwuY2JUHQ" frameborder="0" allowfullscreen></iframe>
 
-Puis tranquillement, *Faking Jazz Together*  nous fait quitter l'eau, pour rejoindre un lit moelleux où notre esprit vagabonde dans des rêves indistincts (sorte de chanson parfaite pour le début d'[une compile du dimanche matin->http://www.deadrooster.org/La-compile-du-dimanche-matin]). En tout cas, ça me fait faire des vachement jolies phrases, vous avez vu ?
+Puis tranquillement, *Faking Jazz Together*  nous fait quitter l'eau, pour rejoindre un lit moelleux où notre esprit vagabonde dans des rêves indistincts (sorte de chanson parfaite pour le début d'[une compile du dimanche matin](http://www.deadrooster.org/La-compile-du-dimanche-matin)). En tout cas, ça me fait faire des vachement jolies phrases, vous avez vu ?
 
 Avec *Quadropuss Island*, on se retrouve certes sur une île, avec plage de sable fin et mer paisible, sauf qu'il serait 6h du mat, qu'il y aurait une brume tenace et qu'il ferait -10°C.
 

@@ -10,4 +10,4 @@ date: '2013-05-24 12:18:35 +0200'
 
 Fumer au lit c'est mal. À ne pas reproduire chez vous !
 
-(via [IGIF->http://www.iguessimfloating.net/2013/05/mp3-tv-girl-she-smokes-in-bed.html])
+(via [IGIF](http://www.iguessimfloating.net/2013/05/mp3-tv-girl-she-smokes-in-bed.html))

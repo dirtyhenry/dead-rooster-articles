@@ -13,15 +13,15 @@ L'occasion pour eux de jouer deux concerts :
 - le mardi 11 août, pour un concert long, en ouverture de la soirée "Pop/Rock/Dub" conclue par Tribal Tive Sound.
 
 Les autres groupes à l'affiche étaient :
-- [Tribal Tive Sound->http://www.myspace.com/tribaltivesound], dont on vous recommande le tube *Dub Hop* sur leur MySpace
-- [La Compagnie Cuanol->http://www.myspace.com/lacompagniecuanol83]
-- [Manuel->http://www.festivalcarpediem.info/cariboost1/crbst_35.html]
-- Lenny & Eva, évadés du groupe [Scartapuce->http://www.myspace.com/scartapuce] le temps de 6 reprises guitare sèche/voix très convaincantes 
+- [Tribal Tive Sound](http://www.myspace.com/tribaltivesound), dont on vous recommande le tube *Dub Hop* sur leur MySpace
+- [La Compagnie Cuanol](http://www.myspace.com/lacompagniecuanol83)
+- [Manuel](http://www.festivalcarpediem.info/cariboost1/crbst_35.html)
+- Lenny & Eva, évadés du groupe [Scartapuce](http://www.myspace.com/scartapuce) le temps de 6 reprises guitare sèche/voix très convaincantes 
 - Luna Evasis, groupe de chant médieval
-- [Danserien Pariz Ti Ar Vretoned->http://www.festivalcarpediem.info/cariboost1/crbst_55.html], des émissaires de la mission bretonne de Paris venus organiser un fest-noz
+- [Danserien Pariz Ti Ar Vretoned](http://www.festivalcarpediem.info/cariboost1/crbst_55.html), des émissaires de la mission bretonne de Paris venus organiser un fest-noz
 - sans compter le super-groupe final, tous les artistes mélangés, au sein duquel figurait Groovy Henry !
 
-Merci à eux, à Carpe Diem (tout spécialement à Théo, Anaïs et Rico) et à la mairie de la ville de nous avoir fait vivre cette superbe semaine. Des photos et des vidéos sont disponibles sur [le site du festival->http://www.festivalcarpediem.info/].
+Merci à eux, à Carpe Diem (tout spécialement à Théo, Anaïs et Rico) et à la mairie de la ville de nous avoir fait vivre cette superbe semaine. Des photos et des vidéos sont disponibles sur [le site du festival](http://www.festivalcarpediem.info/).
 
 Trackliste du concert du dimanche :
 - No, Not Now (de Hot Hot Heat)

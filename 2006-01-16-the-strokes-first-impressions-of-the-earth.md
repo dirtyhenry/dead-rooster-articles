@@ -18,7 +18,7 @@ Même les plus distraits et les moins curieux d'entre vous connaissent les __Str
 
 Et bien figurez vous que ces diables ont sorti leur 3ème album le 2 janvier et que ce disque est complètement oufesque (c'est bien simple, certains refrains ou riffs sont tellement obsédants qu'ils m'empêchent de dormir depuis plusieurs jours, même si j'exagère un poil). Donc, chers amis, ruez-vous sur cet album et particulièrement sur la 2 (le single), la 3 (le futur single), et la 12 (j'estime que ces informations sont bien plus utiles que les noms des chansons qui ne seraient pas retenus, je vous connais, c'est tout le temps la même chose).
 
-- La 2, *Juicebox*, est sur [YouTube->http://www.youtube.com/watch?v=SPVso-oeOiQ]
+- La 2, *Juicebox*, est sur [YouTube](http://www.youtube.com/watch?v=SPVso-oeOiQ)
 - La 3, *Heart in a Cage* :
 
 <iframe title="YouTube video player" width="500" height="405" src="http://www.youtube.com/embed/0Lg1W_Y72xE?rel=0" frameborder="0" allowfullscreen></iframe>

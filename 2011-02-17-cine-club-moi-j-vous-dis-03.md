@@ -24,11 +24,11 @@ Les deux références les plus marquantes sont :
 - la "yellow brick road" : c'est la voie que doit suivre Dorothy, l'héroïne du film, pour mener à bien sa quête (il ne m'a fallu qu'une semaine pour en tomber sur une, dans le livre *The Gun Seller* de Hugh Laurie) 
 - le fait de taper 3 fois ses souliers de rubis en disant "There's no place like home" : si jamais vous vous paumez dans monde parallèle, c'est un bon truc pour pouvoir rentrer chez soi.
 
-Musicalement, le film a laissé aussi son héritage puisque le célèbre titre *Over The Rainbow* a été écrit pour le film (l'écouter sur [YouTube->http://www.youtube.com/watch?v=QhzbzwPNgXA]). Le film a aussi d'autres musiques assez catchy dont celle-ci est ma préférée : 
+Musicalement, le film a laissé aussi son héritage puisque le célèbre titre *Over The Rainbow* a été écrit pour le film (l'écouter sur [YouTube](http://www.youtube.com/watch?v=QhzbzwPNgXA)). Le film a aussi d'autres musiques assez catchy dont celle-ci est ma préférée : 
 
 <iframe title="YouTube video player" width="500" height="405" src="http://www.youtube.com/embed/z6NsvJSGMVk?rel=0" frameborder="0" allowfullscreen></iframe>
 
-Enfin, le vendeur de BD des Simpsons me fait remarquer qu'il paraît qu'une partie de *The Dark Side Of The Moon*, des Pink Floyd, se superpose parfaitement à la séquence d'ouverture du film. Les fans ont baptisé ça *Dark Site Of The Rainbow* ([voir sur YouTube->http://www.youtube.com/embed/3ng74hxX61E]).
+Enfin, le vendeur de BD des Simpsons me fait remarquer qu'il paraît qu'une partie de *The Dark Side Of The Moon*, des Pink Floyd, se superpose parfaitement à la séquence d'ouverture du film. Les fans ont baptisé ça *Dark Site Of The Rainbow* ([voir sur YouTube](http://www.youtube.com/embed/3ng74hxX61E)).
 
 <h2>*Ghost World* - Terry Zwigoff (2001)</h2>
 
@@ -42,7 +42,7 @@ Musicalement, on y trouve le *What Do I Get* des Buzzcocks :
 
 <iframe title="YouTube video player" width="500" height="405" src="http://www.youtube.com/embed/-EEPvXlTUnU?rel=0" frameborder="0" allowfullscreen></iframe>
 
-Et le non moins fabuleux titre de la déjà citée scène de générique, tiré d'un Bollywood movie, dont l'intro n'aurait pas fait rougir le récemment décédé John Barry et que l'[on pourra voir sur YouTube->http://www.youtube.com/watch?v=VB4q9rcfvvE] (ils sont vraiment débiles les utilisateurs de YouTube qui désactivent l'intégration des vidéos sur des sites web).
+Et le non moins fabuleux titre de la déjà citée scène de générique, tiré d'un Bollywood movie, dont l'intro n'aurait pas fait rougir le récemment décédé John Barry et que l'[on pourra voir sur YouTube](http://www.youtube.com/watch?v=VB4q9rcfvvE) (ils sont vraiment débiles les utilisateurs de YouTube qui désactivent l'intégration des vidéos sur des sites web).
 
 <h2>*Fantomas* - André Hunebelle (1964)</h2>
 
@@ -56,11 +56,11 @@ Côté musique, le thème de Fantomas est très bon ! Pour l'anecdote, je me sou
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/Itmkhlwb5oU" frameborder="0" allowfullscreen></iframe>
 
-N.B. : le vendeur de BD des Simpsons s'intéressera aussi aux remixes de Fantomas, qu'on peut trouver [sur YouTube->http://www.youtube.com/watch?v=4AqOg_cF1IU] (le monde va mal !).
+N.B. : le vendeur de BD des Simpsons s'intéressera aussi aux remixes de Fantomas, qu'on peut trouver [sur YouTube](http://www.youtube.com/watch?v=4AqOg_cF1IU) (le monde va mal !).
 
 <h2>Les autres</h2>
 
-- *L'année du dragon* - Michael Cimino (1985) : remake du Parrain où on remplace la Sicile par la Chine, le film prouve surtout que [Mickey Rourke et Bruce Willis sont une seule et même personne->http://cheezburger.com/jibe/lolz/View/1353215232], que certains intérieurs new-yorkais ont vraiment la classe et que [certains looks des 80s n'étaient ni faits ni à faire->http://www.imdb.com/media/rm914397696/tt0090350]
+- *L'année du dragon* - Michael Cimino (1985) : remake du Parrain où on remplace la Sicile par la Chine, le film prouve surtout que [Mickey Rourke et Bruce Willis sont une seule et même personne](http://cheezburger.com/jibe/lolz/View/1353215232], que certains intérieurs new-yorkais ont vraiment la classe et que [certains looks des 80s n'étaient ni faits ni à faire->http://www.imdb.com/media/rm914397696/tt0090350)
 - *Definitely Maybe* - Adam Brooks (2008) : film qu'on regarde parce qu'on pense qu'il y aura un rapport avec Oasis mais en fait non, il s'agit d'une comédie romantique avec un scénario original (un père raconte sa vie amoureuse d'il y a 10 ans à sa jeune fille, en changeant le nom de ses prétendantes, parmi laquelle se cache sa future mère)
 
 __{Catégorie "à voir au ciné mais faut se dépêcher"__}

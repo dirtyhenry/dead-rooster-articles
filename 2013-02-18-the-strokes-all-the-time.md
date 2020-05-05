@@ -12,4 +12,4 @@ Après un premier extrait sujet à débats, The Strokes proposent un 2nd extrait
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/TJC8zeu3MHk" frameborder="0" allowfullscreen></iframe>
 
-(via [Pitchfork->http://pitchfork.com/news/49544-listen-to-the-new-strokes-single-all-the-time/] et [Stereogum->http://feedproxy.google.com/~r/stereogum/cBYa/~3/AXBHXtW-Gms/story01.htm])
+(via [Pitchfork](http://pitchfork.com/news/49544-listen-to-the-new-strokes-single-all-the-time/] et [Stereogum->http://feedproxy.google.com/~r/stereogum/cBYa/~3/AXBHXtW-Gms/story01.htm))

@@ -13,7 +13,7 @@ categories:
 tags:
 - Trucs marrants
 ---
-Pour fêter son premier anniversaire, le site très fun [Learn Something Every Day->http://cargocollective.com/learnsomethingeveryday] vient de publier une vidéo.
+Pour fêter son premier anniversaire, le site très fun [Learn Something Every Day](http://cargocollective.com/learnsomethingeveryday) vient de publier une vidéo.
 
 On y apprend (ou on s'y souvient) que :
 - la banane partage 50% du génome humain

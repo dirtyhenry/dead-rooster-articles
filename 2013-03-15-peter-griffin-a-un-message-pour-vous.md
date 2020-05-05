@@ -10,7 +10,7 @@ Aujourd'hui, on invite Peter Griffin, qui a quelque chose à dire au sujet de ce
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/9G4jnaznUoQ" frameborder="0" allowfullscreen></iframe>
 
-[<blockquote>That happened and we all let it happen</blockquote>->http://www.youtube.com/watch?v=M_HyxTAyla8]
+[<blockquote>That happened and we all let it happen</blockquote>](http://www.youtube.com/watch?v=M_HyxTAyla8)
 
 Le monde va mal !
 

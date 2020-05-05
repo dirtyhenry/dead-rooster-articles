@@ -25,5 +25,5 @@ Sur la côte ouest, la brune Zooey se cache, avec son compère M Ward, sous le n
 
 Niveau du disque : __Maçon__
 
--* [MySpace de Scarlett Johansson->http://www.myspace.com/scarlettalbum]
--* [MySpace de She & Him->http://www.myspace.com/sheandhim]
+-* [MySpace de Scarlett Johansson](http://www.myspace.com/scarlettalbum)
+-* [MySpace de She & Him](http://www.myspace.com/sheandhim)

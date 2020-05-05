@@ -14,7 +14,7 @@ tags:
 - Concours Katerine
 - Single
 ---
-La reprise de la semaine de __Katerine, Francis et ses peintres__ est [*Toi mon toit*->http://www.katerinefrancisetsespeintres.com/25.html], de Elli Medeiros.
+La reprise de la semaine de __Katerine, Francis et ses peintres__ est [*Toi mon toit*](http://www.katerinefrancisetsespeintres.com/25.html), de Elli Medeiros.
 
 L'originale suit, comme d'habitude, mais d'abord, profitons également du nouveau titre du prochain album de Katerine, *Bla Bla Bla*, diffusé cette semaine également :
 
@@ -30,6 +30,6 @@ Encore une fois, personne ne l'avait pronostiqué et le classement reste inchang
 - 4. Marion, David et Loïc, 4pts
 - 7. Le reste du monde à 0 pt
 
-Il est encore temps de participer en [cliquant ici->569] !
+Il est encore temps de participer en [cliquant ici](569) !
 
-Toutes les reprises sont disponibles sur [le site de Katerine, Francis et ses peintres->http://www.katerinefrancisetsespeintres.com/]...
+Toutes les reprises sont disponibles sur [le site de Katerine, Francis et ses peintres](http://www.katerinefrancisetsespeintres.com/)...
