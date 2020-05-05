@@ -1,23 +1,16 @@
 ---
-status: publie
-published: false
+layout: post
 title: Exile On Main Street
 description: Excellent article de {{Kill Me Sarah}} sur la réédition d'{Exile On Main
   Street}, des Rolling Stones.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 646
 date: '2010-07-07 10:23:30 +0200'
 categories:
 - Artistes
 tags:
 - The Rolling Stones
-comments: []
 ---
 Les __Rolling Stones__ ont récemment sorti une nouvelle réédition d'*Exile On Main Street*, album mythique de 1972.
 

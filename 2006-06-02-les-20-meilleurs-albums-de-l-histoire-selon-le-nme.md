@@ -1,21 +1,14 @@
 ---
-status: publie
-published: false
+layout: post
 title: Les 20 meilleurs albums de l'histoire selon le NME
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 317
 date: '2006-06-02 11:58:00 +0200'
 categories:
 - Artistes
 tags:
 - Oasis
-comments: []
 ---
 Un sondage sur NME.com a donné le résultat suivant :
 

@@ -1,19 +1,10 @@
 ---
-status: publie
-published: false
+layout: post
 title: Vampire Weekend - Step
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1212
 date: '2013-04-05 13:54:41 +0200'
-categories: []
-tags: []
-comments: []
 ---
 Tout clavecin dehors, Vampire Weekend revient avec *Step*, extrait de *Modern Vampires of the City* qui sortira début mai.
 

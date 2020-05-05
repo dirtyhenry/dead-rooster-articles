@@ -1,26 +1,19 @@
 ---
-status: publie
-published: false
+layout: post
 title: Prefab Prouuuut !
 description: '"La critique est aisée, et l''art est difficile", comme disait <s>Voltaire</s>
   Destouches. Faisant fi de la sagesse de <s>François-Marie Arouet</s> Philippe Néricault,
   restons planqués derrière notre écran d''ordinateur, et balançons un peu sur ce
   qui est considéré comme, qui un monument, qui une pierre angulaire, qui un must
   have des 80''s : j''ai nommé {Steve McQueen} de {{Prefab Sprout}}.'
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 566
 date: '2010-01-24 13:49:33 +0100'
 categories:
 - Catégories
 tags:
 - Albums
-comments: []
 ---
 Il y a quand même un truc bizarre. Alors qu'on entend encore et toujours des "J'aurais aimé vivre dans les sixties !", ils sont moins nombreux ceux qui regrettent de ne pas avoir connu les années 80. Alors pourquoi ? C'était pas la classe les survêts en coton et les jupes fluo ? Et pourquoi avoir un walkman avec des écouteurs recouverts de mousse orange serait moins tendance que de posséder un juke-box à côté de son flipper ? Et pourquoi découvrir *a posteriori* n'importe quel groupe de branquignoles des années 60 est-il plus recommandable que de jeter une oreille 30 ans plus tard sur le sommet artistique de Prefab Sprout ?
 

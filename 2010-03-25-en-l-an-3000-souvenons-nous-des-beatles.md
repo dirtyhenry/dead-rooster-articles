@@ -1,19 +1,10 @@
 ---
-status: publie
-published: false
+layout: post
 title: 'En l''an 3000, souvenons-nous des Beatles '
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 578
 date: '2010-03-25 10:36:53 +0100'
-categories: []
-tags: []
-comments: []
 ---
 Vous vous souvenez de ce groupe composé de John Lennon, Paul McKenzie, Greg Hutchinson and Scottie Pippen ? Ouais, c'était les Beatles !
 

@@ -1,23 +1,16 @@
 ---
-status: publie
-published: false
+layout: post
 title: Qui c'est celui là ?
 description: La reprise de la semaine de {{Katerine, Francis et ses peintres}} est
   {Qui c'est celui là ?}, de Pierre Vassiliu.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 618
 date: '2010-05-19 17:10:04 +0200'
 categories:
 - Catégories
 tags:
 - Concours Katerine
-comments: []
 ---
 Cette semaine, la reprise de __Katerine, Francis et ses peintres__ est [*Qui c'est celui là ?*->http://www.katerinefrancisetsespeintres.com/20.html], de Pierre Vassiliu.
 

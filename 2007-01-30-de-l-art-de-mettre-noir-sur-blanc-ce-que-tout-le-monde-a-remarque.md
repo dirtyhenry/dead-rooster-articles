@@ -1,19 +1,10 @@
 ---
-status: publie
-published: false
+layout: post
 title: De l'art de mettre noir sur blanc ce que tout le monde a remarqué
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 354
 date: '2007-01-30 17:17:00 +0100'
-categories: []
-tags: []
-comments: []
 ---
 Enfin quelqu'un fait l'effort de mettre le nez des concepteurs d'affiches de film dans leur caca :
 

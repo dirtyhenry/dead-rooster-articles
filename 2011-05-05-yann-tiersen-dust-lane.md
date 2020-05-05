@@ -1,18 +1,12 @@
 ---
-status: publie
-published: false
+layout: post
 title: Yann Tiersen - Dust Lane
 description: Yann Tiersen, ça commence à être un vieux de la vieille. L'été dernier,
   il présentait {Dust Lane} à la Route du Rock ([on y était et on avait aimé->696]).
   Depuis, {Dust Lane} est sorti en disque et il était de passage à la Carène, à Brest
   il y a deux semaines.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 837
 date: '2011-05-05 14:00:29 +0200'
 categories:
@@ -22,7 +16,6 @@ tags:
 - Concert
 - Albums
 - Yann Tiersen
-comments: []
 ---
 Yann Tiersen, ça commence à être un vieux de la vieille. Il fait des disque depuis déjà un bon bout de temps avec au passage quelques succès un rien empoisonnés comme la B.O. d'Amélie Poulain qui commence à lui sortir par les trous de nez. A cause de ce succès inattendu, Yann Tiersen s'est créé en France une base de fans un peu chiants. Du coup, il s'est mis à penser que la France était un pays de blaireaux et a commencé à regarder davantage à l'étranger : pour trouver un nouveau label, pour tourner, pour un peu tout. L'été dernier, il présentait *Dust Lane* à la Route du Rock ([on y était et on avait aimé->696]). Depuis, *Dust Lane* est sorti en disque et il était de passage à la Carène, à Brest, il y a deux semaines.
 

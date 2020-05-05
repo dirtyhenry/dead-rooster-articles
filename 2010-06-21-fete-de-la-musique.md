@@ -1,24 +1,17 @@
 ---
-status: publie
-published: false
+layout: post
 title: Fête de la musique
 description: "{{The Livingstones I Presume}} joueront à l'occasion de la fête de la
   musique le lundi 21 juin, à Paris, au Val Café, 39 boulevard de Port Royal, dans
   le XIIIème arrondissement."
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 633
 date: '2010-06-21 10:15:41 +0200'
 categories:
 - Catégories
 tags:
 - Dead Rooster Announcement
-comments: []
 ---
 {*The Livingstones I Presume*} joueront à l'occasion de la fête de la musique le lundi 21 juin, à Paris, au Val Café, 39 boulevard de Port Royal, dans le XIIIème arrondissement.
 

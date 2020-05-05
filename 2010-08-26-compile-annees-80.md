@@ -1,18 +1,10 @@
 ---
 published: false
 title: Compile années 80
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 683
 date: '2010-08-26 11:30:13 +0200'
-categories: []
-tags: []
-comments: []
 ---
 Voici ce qui me paraît être la meilleure track liste "Années 80".
 

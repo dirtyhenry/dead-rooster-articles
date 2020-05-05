@@ -1,19 +1,10 @@
 ---
-status: publie
-published: false
+layout: post
 title: Primal Scream - It's Alright, It's OK
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 1208
 date: '2013-04-02 12:07:12 +0200'
-categories: []
-tags: []
-comments: []
 ---
 Non, les Écossais ne reprennent pas [l'horrible tube de Leah Andreone->http://youtu.be/oDzX8OMgkjQ] et merci bien. Ils annoncent plutôt la sortie de leur nouvel album, *More Light*, prévue mi-mai.
 

@@ -1,14 +1,8 @@
 ---
-status: publie
-published: false
+layout: post
 title: La compile du 7 août
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 734
 date: '2008-07-08 15:15:00 +0200'
 categories:
@@ -19,7 +13,6 @@ tags:
 - The Black Keys
 - Fountains of Wayne
 - Herman Düne
-comments: []
 ---
 -# Herman Düne - *Seven Cities*
 -# Eels - *Hey Man (Now, You're Really Living)*

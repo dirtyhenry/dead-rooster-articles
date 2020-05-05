@@ -1,19 +1,10 @@
 ---
-status: publie
-published: false
+layout: post
 title: Kaiser Chiefs - Ruby
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 360
 date: '2007-02-21 18:01:00 +0100'
-categories: []
-tags: []
-comments: []
 ---
 <object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/qObzgUfCl28&hl=fr_FR&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/qObzgUfCl28&hl=fr_FR&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
 

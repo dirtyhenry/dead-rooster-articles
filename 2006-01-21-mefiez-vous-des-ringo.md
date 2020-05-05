@@ -1,14 +1,8 @@
 ---
-status: publie
-published: false
+layout: post
 title: Méfiez vous des Ringo
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 277
 date: '2006-01-21 20:33:00 +0100'
 categories:
@@ -17,7 +11,6 @@ categories:
 tags:
 - Concert
 - The Libertines
-comments: []
 ---
 Tous les groupes de rock ont leur Ringo, celui qui se fait tout discret, dont la presse se fout, qui est presque anticharismatique et qui doit certainement dormir en pyjama. Les Libertines avaient leur Ringo, le bassiste John Hassal.
 

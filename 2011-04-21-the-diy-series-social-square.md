@@ -1,25 +1,18 @@
 ---
-status: publie
-published: false
+layout: post
 title: The DIY Series - Social Square
 description: Les DIY Series sont une nouvelle saga de votre site préféré. Le concept
   ? Aller à la rencontre de créateurs amateurs et indépendants pour les interroger
   sur leur motivation, leur mode de fonctionnement. Bref, connaître et faire connaître
   des techniques de Do It Yourself. Première rencontre avec {{Social Square}}.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 829
 date: '2011-04-21 17:15:42 +0200'
 categories:
 - Catégories
 tags:
 - The DIY Series
-comments: []
 ---
 Les DIY Series sont une nouvelle saga de votre site préféré. Le concept ? Aller à la rencontre de créateurs amateurs et indépendants pour les interroger sur leur motivation, leur mode de fonctionnement. Bref, connaître et faire connaître des techniques de [Do It Yourself->http://fr.wikipedia.org/wiki/Do_it_yourself]. Première rencontre avec __Social Square__.
 

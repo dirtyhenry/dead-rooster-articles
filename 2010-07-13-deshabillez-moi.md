@@ -1,16 +1,10 @@
 ---
-status: publie
-published: false
+layout: post
 title: Déshabillez-moi
 description: La reprise de {{Katerine, Francis et ses peintres}} de la semaine est
   {Déshabillez-moi} de Juliette Gréco. En outre, Katerine a {La Banane}.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 648
 date: '2010-07-13 11:44:57 +0200'
 categories:
@@ -19,7 +13,6 @@ categories:
 tags:
 - Concours Katerine
 - Katerine
-comments: []
 ---
 La reprise de la semaine de __Katerine, Francis et ses peintres__ est [*Déshabillez-moi*->http://www.katerinefrancisetsespeintres.com/28.html], de Juliette Gréco.
 

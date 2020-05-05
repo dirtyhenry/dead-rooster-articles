@@ -1,19 +1,10 @@
 ---
-status: publie
-published: false
+layout: post
 title: Fruit Bats - When U Love Somebody
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 896
 date: '2011-09-01 16:29:34 +0200'
-categories: []
-tags: []
-comments: []
 ---
 <iframe src="http://player.vimeo.com/video/46306076?color=ffffff" width="540" height="304" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 

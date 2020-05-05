@@ -1,14 +1,8 @@
 ---
-status: publie
-published: false
+layout: post
 title: Venez voir chanter les comédiennes
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 209
 date: '2008-06-19 16:21:46 +0200'
 categories:
@@ -16,7 +10,6 @@ categories:
 tags:
 - She & Him
 - Zooey Deschanel
-comments: []
 ---
 Certains matins, des actrices se lèvent avec une énorme envie de chanter. C'est comme ça. Inutile de s'en lamenter, ça ne changera rien. Parfois même, ce sont les actrices les plus classes qui s'y collent. Cette année, par exemple, __Scarlett Johansson__ et __Zooey Deschanel__ (quel nom !) sont sorties du bois.
 

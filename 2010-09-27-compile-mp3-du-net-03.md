@@ -1,16 +1,10 @@
 ---
-status: publie
-published: false
+layout: post
 title: 'Compile MP3 du NET #03'
 description: Une sélection des meilleurs MP3 légalement disponibles au téléchargement
   des dernières semaines.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 706
 date: '2010-09-27 12:00:00 +0200'
 categories:
@@ -20,7 +14,6 @@ tags:
 - Single
 - MP3
 - The Raveonettes
-comments: []
 ---
 Au programme cette semaine, on en remet une couche avec la reprise de *I Wanna Be Adored*, des Stones Roses, par __The Raveonettes__, et je vous invite plus particulièrement à découvrir les excellents __Guards__ et __The Fresh & Onlys__.
 

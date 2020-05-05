@@ -1,21 +1,14 @@
 ---
-status: publie
-published: false
+layout: post
 title: Escadron de renards en vue !
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 213
 date: '2008-07-29 10:22:24 +0200'
 categories:
 - Artistes
 tags:
 - Fleet Foxes
-comments: []
 ---
 <p>Le 12 novembre prochain, à l'Olympia, le festival des Inrocks proposera une soirée exceptionnelle : MGMT et She &Him, dont nous avons déjà parlé ici, se présenteront avec Fleet Foxes, dont nous allons parler maintenant et Alela Diane, dont on vous parlera peut-être un jour. Si vous êtes tombé de votre siège en lisant cette affiche, c'est bien normal et merci bien.</p>
 <p>Le premier album éponyme des __Fleet Foxes__ commence par un hommage évident aux Beach Boys. Au bout de 5 secondes, ils nous sont donc déjà sympathiques. A la fin des 11 titres, ce sont nos nouveaux meilleurs amis.</p>

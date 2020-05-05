@@ -1,19 +1,10 @@
 ---
-status: publie
-published: false
+layout: post
 title: Born Ruffians - Needle
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1184
 date: '2013-02-26 10:39:49 +0100'
-categories: []
-tags: []
-comments: []
 ---
 Après [*With Her Shadow*->1155], Born Ruffians propose un nouvel extrait de leur album à paraître en 2013.
 

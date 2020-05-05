@@ -1,14 +1,8 @@
 ---
-status: publie
-published: false
+layout: post
 title: Au pays des seconds couteaux
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 216
 date: '2008-09-02 11:27:31 +0200'
 categories:
@@ -17,7 +11,6 @@ categories:
 tags:
 - Albums
 - The Outsiders
-comments: []
 ---
 Que peut-on encore attendre des Pays-Bas ? Y a-t-il encore quelque chose à sauver au pays de la tulipe qui fait rire ? Quand la plupart des stéréotypes qui circulent de par le monde font état, au mieux, d'un peuple qui mange du gouda en sabot de bois, et au pire, d'un grand blond qui mange du gouda en scandant qu'il irait bien refaire un tour du côté de chez Swan, l'imagerie actuelle est peu flatteuse pour qui se contente des poncifs modernes.
 

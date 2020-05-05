@@ -1,14 +1,8 @@
 ---
-status: publie
-published: false
+layout: post
 title: On préférait des gants sur des fesses
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 779
 date: '2011-02-12 12:08:24 +0100'
 categories:

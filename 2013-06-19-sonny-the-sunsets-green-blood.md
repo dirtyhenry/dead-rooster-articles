@@ -1,19 +1,10 @@
 ---
-status: publie
-published: false
+layout: post
 title: Sonny & The Sunsets - Green Blood
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1246
 date: '2013-06-19 12:00:00 +0200'
-categories: []
-tags: []
-comments: []
 ---
 Déjà 3 semaines qu'on n'a pas posté de chanson de Sonny & The Sunsets ? Vite, remédions à ça !!!
 

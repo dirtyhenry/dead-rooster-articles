@@ -1,21 +1,14 @@
 ---
-status: publie
-published: false
+layout: post
 title: Arrêtez les horloges !
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 334
 date: '2006-09-28 12:34:00 +0200'
 categories:
 - Artistes
 tags:
 - Oasis
-comments: []
 ---
 Les frangins Gallagher ont décidé d'arrêter les horloges et de regarder derrière eux. *Stop the Clocks*, le premier (double) best-of du groupe sortira le 20 novembre 2006, avec une pochette signée Sir Peter Blake, déjà en charge de celle du *Sgt Pepper* des Beatles. 
 

@@ -1,18 +1,10 @@
 ---
-status: publie
-published: false
+layout: post
 title: A-ha se sépare ?
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 539
 date: '2009-10-20 13:23:51 +0200'
-categories: []
-tags: []
 comments:
 - author: Benji
   author_email: ''

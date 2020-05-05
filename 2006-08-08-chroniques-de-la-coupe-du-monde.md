@@ -1,14 +1,8 @@
 ---
-status: publie
-published: false
+layout: post
 title: Chroniques de la Coupe du Monde
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 327
 date: '2006-08-08 15:06:00 +0200'
 categories:
@@ -17,7 +11,6 @@ categories:
 tags:
 - Graham Coxon
 - Foot
-comments: []
 ---
 Ça fait un mois que c'est fini tout ça mais 2 choses sont à retenir :
 

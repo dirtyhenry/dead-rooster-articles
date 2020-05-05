@@ -1,21 +1,12 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Stooges
 description: Après 2 semaines d'absence, rassurez-vous messieurs-dames, l'approximatif
   est de nouveau au menu du jour !
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 843
 date: '2011-06-18 10:05:11 +0200'
-categories: []
-tags: []
-comments: []
 ---
 The Stooges, c'est avant tout le groupe d'Iggy Pop, surnommé le Roi Lézard. Derrière lui, on peut citer, de tête, les frères Asheton (un à la batterie, l'autre à la guitare), par contre les autres, pfff... Si ! Il doit y en avoir un qui s'appelle Williamson.
 

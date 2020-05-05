@@ -1,14 +1,8 @@
 ---
-status: publie
-published: false
+layout: post
 title: Une tête de radio au pays des Jean-Mi
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 210
 date: '2008-07-04 13:51:17 +0200'
 categories:

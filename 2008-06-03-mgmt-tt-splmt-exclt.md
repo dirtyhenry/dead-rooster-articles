@@ -1,14 +1,8 @@
 ---
-status: publie
-published: false
+layout: post
 title: MGMT, TT SPLMT EXCLT
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 207
 date: '2008-06-03 11:59:11 +0200'
 categories:
@@ -19,7 +13,6 @@ tags:
 - Albums
 - MGMT
 - Florence + The Machine
-comments: []
 ---
 La première écoute de *Time To Pretend* avait été une révélation. Peut-être le meilleur single depuis *Take Me Out* de Franz Ferdinand. L'auteur de ce tube ? __MGMT__, à prononcer management, soit Andrew et Ben, deux jeunes gens de Brooklyn.
 

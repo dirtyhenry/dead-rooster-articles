@@ -1,19 +1,10 @@
 ---
-status: publie
-published: false
+layout: post
 title: Black Rebel Motorcycle Club - Hate The Taste
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1253
 date: '2013-06-26 12:00:00 +0200'
-categories: []
-tags: []
-comments: []
 ---
 Le BRMC vous offre la vidéo de leur single *Hate The Taste*, extrait de leur album *Specter at the Feast*, sorti en mars.
 

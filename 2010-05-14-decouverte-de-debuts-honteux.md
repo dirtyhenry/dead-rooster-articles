@@ -1,23 +1,16 @@
 ---
-status: publie
-published: false
+layout: post
 title: Découverte de débuts honteux
 description: Avant sa carrière solo, {{Keren Ann}} faisait partie du groupe Shelby.
   Vil Shelby !
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 616
 date: '2010-05-14 10:21:57 +0200'
 categories:
 - Artistes
 tags:
 - Keren Ann
-comments: []
 ---
 Quand on cherche l'actualité d'un artiste, en l'occurrence celle de __Keren Ann__, dont on n'a plus vraiment de nouvelle depuis 2007, on peut aussi tomber sur des bribes de son passé... qui mériterait parfois d'être mieux caché.
 

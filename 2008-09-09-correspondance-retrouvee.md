@@ -1,14 +1,8 @@
 ---
-status: publie
-published: false
+layout: post
 title: Correspondance retrouvée
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 217
 date: '2008-09-09 09:34:01 +0200'
 categories:
@@ -17,7 +11,6 @@ categories:
 tags:
 - Concert
 - The Notwist
-comments: []
 ---
 Les week-end du 15 août ne sont pas toujours très heureux. Bouchons interminables, jours qui raccourcissent sensiblement, ambiance "fin de vacances" déprimante. Nos archivistes ont retrouvé des fragments d'une correspondance entre Dirty Henry et Guiguilele qui semble montrer que cette période de l'année peut se montrer tout autrement enthousiasmante.
 

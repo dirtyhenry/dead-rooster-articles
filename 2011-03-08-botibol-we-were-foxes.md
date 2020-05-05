@@ -1,19 +1,10 @@
 ---
-status: publie
-published: false
+layout: post
 title: Botibol - We Were Foxes
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 797
 date: '2011-03-08 08:56:41 +0100'
-categories: []
-tags: []
-comments: []
 ---
 Pas de vidéo cette fois...désolé !
 

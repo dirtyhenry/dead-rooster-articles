@@ -1,22 +1,13 @@
 ---
-status: publie
-published: false
+layout: post
 title: 'Dead Rooster Racing Cup #2'
 description: La 2nde édition de la Dead Rooster Racing Cup, compétition de karting
   de renommée au moins mondiale, s'est tenue le 23 juillet 2010. Voici les résultats
   de la course.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 665
 date: '2010-07-30 10:22:39 +0200'
-categories: []
-tags: []
-comments: []
 ---
 La 2nde édition de la Dead Rooster Racing Cup, compétition de karting de renommée au moins mondiale, s'est tenue le 23 juillet 2010. Voici les résultats de la course.
 

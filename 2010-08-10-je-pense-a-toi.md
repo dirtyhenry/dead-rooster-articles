@@ -1,23 +1,16 @@
 ---
-status: publie
-published: false
+layout: post
 title: Je pense à toi
 description: La reprise de {{Katerine, Francis et ses peintres}} de la semaine est
   {Je pense à toi} d'Amadou & Mariam.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 678
 date: '2010-08-10 11:53:40 +0200'
 categories:
 - Catégories
 tags:
 - Concours Katerine
-comments: []
 ---
 La reprise de __Katerine, Francis et ses peintres__ de la semaine est [*Je pense à toi*->http://www.katerinefrancisetsespeintres.com/pense.html] d'Amadou & Mariam.
 

@@ -1,21 +1,14 @@
 ---
-status: publie
-published: false
+layout: post
 title: Le corail ou la chorale ?
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 203
 date: '2008-02-26 18:26:22 +0100'
 categories:
 - Artistes
 tags:
 - The Coral
-comments: []
 ---
 Louis Dumur a déclaré un jour : "Une injustice dont nous profitons s'appelle la chance; une injustice dont un autre profite s'appelle un scandale."
 

@@ -1,16 +1,10 @@
 ---
-status: publie
-published: false
+layout: post
 title: Bored To Death
 description: Présentation de la série de Jonathan Ames, où Jason Schwartzman, Zach
   Galifianakis et Ted Danson jouent sur une bande son de grande qualité.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 905
 date: '2011-09-08 18:43:53 +0200'
 categories:
@@ -19,7 +13,6 @@ categories:
 tags:
 - Jason Schwartzman
 - TV Show
-comments: []
 ---
 Jonathan Ames (Jason Schwartzman) est un écrivain en difficulté. Il a du mal à remettre le couvert après la publication de son premier ouvrage. Du coup, il boit beaucoup de vin et fume pas mal de substances illicites. Sa copine en a eu marre et l'a donc quitté. Pour remettre un peu de piment dans sa vie bien morne, il décide de diffuser une annonce sur internet pour vendre ses services en tant que détective privé.
 

@@ -1,19 +1,10 @@
 ---
-status: publie
-published: false
+layout: post
 title: Arctic Monkeys - Do I Wanna Know?
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1250
 date: '2013-06-21 12:00:00 +0200'
-categories: []
-tags: []
-comments: []
 ---
 Les Arctic Monkeys annonce leur retour prochain avec *Do I Wanna Know?*
 

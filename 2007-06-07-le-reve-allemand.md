@@ -1,19 +1,10 @@
 ---
-status: publie
-published: false
+layout: post
 title: Le rêve allemand
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 388
 date: '2007-06-07 16:07:00 +0200'
-categories: []
-tags: []
-comments: []
 ---
 Franck Ribéry vient de signer au Bayern de Munich.
 

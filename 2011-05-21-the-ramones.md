@@ -1,20 +1,11 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Ramones
 description: Cette semaine, l'Encyclopédie est approximativement punk.
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 833
 date: '2011-05-21 10:37:19 +0200'
-categories: []
-tags: []
-comments: []
 ---
 Anciens potes de classe et tous en cursus américain d'un équivalent BEP cheminées et ramonage (d'où leur nom !), les Ramones sont ce que les critiques appelleraient "la figure de proue du punk américain".
 

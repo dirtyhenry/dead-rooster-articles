@@ -1,16 +1,10 @@
 ---
-status: publie
-published: false
+layout: post
 title: De la bière et du foot, de la musique et un chien
 description: Le vendredi, le fun est de bon aloi. Cette semaine, de la bière et du
   foot, de la musique et un chien. Programme idéal.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 714
 date: '2010-10-15 12:00:00 +0200'
 categories:
@@ -21,7 +15,6 @@ tags:
 - Fun Friday
 - Wes Anderson
 - Queen
-comments: []
 ---
 Le vendredi, le fun est de bon aloi. Cette semaine, de la bière et du foot, de la musique et un chien. Programme idéal.
 

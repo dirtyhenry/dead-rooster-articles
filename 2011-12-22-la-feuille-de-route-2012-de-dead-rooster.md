@@ -1,21 +1,12 @@
 ---
-status: publie
-published: false
+layout: post
 title: La feuille de route 2012 de Dead Rooster
 description: La semaine dernière, on fait [le bilan 2011->969], il est temps de passer
   aux résolutions pour 2012.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 975
 date: '2011-12-22 12:33:54 +0100'
-categories: []
-tags: []
-comments: []
 ---
 La semaine dernière, on a fait [le bilan 2011->969], il est temps de passer aux résolutions pour 2012.
 

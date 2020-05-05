@@ -1,14 +1,8 @@
 ---
-status: publie
-published: false
+layout: post
 title: Les îles naissent sur les cendres des licornes
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 198
 date: '2008-03-12 20:10:49 +0100'
 categories:
@@ -17,7 +11,6 @@ categories:
 tags:
 - Concert
 - Islands
-comments: []
 ---
 Dans la presse, récemment, on a pu lire l'anecdote suivante : Michael Cera, du film *Juno*, a prêté à Jack Black, du film *Be Kind Rewind*, un CD d'Alden Penner, et ce dernier en est devenu complètement fan.
 

@@ -1,17 +1,11 @@
 ---
-status: publie
-published: false
+layout: post
 title: Concours Katerine, Francis et ses peintres
 description: Après {C'est lundi}, {Une chanson douce}, {La boîte de jazz}, {Belle
   Île en Mer}, {Coup de folie} et {Papayou}, quelle seront les prochaines reprises
   de Katerine, Francis et ses peintres ?
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 569
 date: '2010-02-09 13:30:18 +0100'
 categories:
@@ -20,7 +14,6 @@ categories:
 tags:
 - Concours Katerine
 - Katerine
-comments: []
 ---
 <span style="color:#009;">__Edit__ : 2010, c'est fini, le concours est terminé !</span>
 

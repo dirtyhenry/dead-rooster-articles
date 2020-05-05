@@ -1,24 +1,17 @@
 ---
-status: publie
-published: false
+layout: post
 title: Le 2nd titre du printemps
 description: Le titre est ancien mais avec leur reprise de {I Am The Resurrection}
   des Stone Roses, le groupe écossais {{Codeine Velvet Club}} offre le second grand
   titre du printemps !
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 598
 date: '2010-04-22 15:20:18 +0200'
 categories:
 - Catégories
 tags:
 - Reprise
-comments: []
 ---
 {*Codeine Velvet Club*} est un groupe de Glasgow, qui prouve encore une fois que c'est une des villes les plus cools du monde. 
 

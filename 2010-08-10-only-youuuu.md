@@ -1,20 +1,11 @@
 ---
-status: publie
-published: false
+layout: post
 title: Only youuuu !
 description: Un titre de {{Jason Falkner}}, ça ne se refuse pas !
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 679
 date: '2010-08-10 13:55:08 +0200'
-categories: []
-tags: []
-comments: []
 ---
 Rien à voir avec [la version->http://www.youtube.com/watch?v=9r2pEdc1_lI] des __Platters__ !
 <br>

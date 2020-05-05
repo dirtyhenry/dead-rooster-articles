@@ -1,19 +1,10 @@
 ---
-status: publie
-published: false
+layout: post
 title: Taxi Girl - Paris
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1210
 date: '2013-04-04 10:00:00 +0200'
-categories: []
-tags: []
-comments: []
 ---
 Le chanteur de [The Livingstones I Presume->http://thelivingstonesipresume.com/] en dit : 
 

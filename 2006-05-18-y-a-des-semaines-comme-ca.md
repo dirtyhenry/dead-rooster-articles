@@ -1,21 +1,14 @@
 ---
-status: publie
-published: false
+layout: post
 title: Y'a des semaines comme ça...
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 313
 date: '2006-05-18 08:20:00 +0200'
 categories:
 - Catégories
 tags:
 - Foot
-comments: []
 ---
 Dimanche 14 mai 2006, 11h35. C'est officiel, il n'y aura pas de surprise, Robert Pires n'est pas convoqué pour la coupe du monde.
 

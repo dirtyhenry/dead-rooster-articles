@@ -1,14 +1,8 @@
 ---
-status: publie
-published: false
+layout: post
 title: Compile printemps 2008
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 546
 date: '2008-06-30 12:00:00 +0200'
 categories:
@@ -20,7 +14,6 @@ tags:
 - She & Him
 - Supergrass
 - Lightspeed Champion
-comments: []
 ---
 -# *Remember When (Side B)* - The Black Keys
 -# *Why Do You Let Me Stay Here?* - She & Him

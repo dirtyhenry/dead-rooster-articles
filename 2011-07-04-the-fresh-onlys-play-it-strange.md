@@ -1,25 +1,18 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Fresh & Onlys - Play It Strange
 description: One month ago, Dead Rooster was in Barcelona for the Primavera Festival.
   This very friday, in the middle afternoon, we watched The Fresh & Onlys on stage.
   This gig convinced us to get their latest effort, {Play It Strange}, as soon as
   we could.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 867
 date: '2011-07-04 19:51:41 +0200'
 categories:
 - Catégories
 tags:
 - Albums
-comments: []
 ---
 One month ago, Dead Rooster was in Barcelona for the Primavera Festival. This very friday, in the middle afternoon, Joe Gantdelaine and I were sitting in the Parc Central del Poblenou, a satellite stage of the festival. There, we have grass rather than concrete but unexplicably, the vast majority of the festival audience snubs it. A San Miguel cup in hand, comfortably seated in plastic garden chairs, in the shade of the surrounding trees, we watched the concert of the Fresh & Onlys, the authors of the recent *Play It Strange*. The concert convinced us to get it.
 

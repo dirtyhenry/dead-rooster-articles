@@ -1,17 +1,11 @@
 ---
-status: publie
-published: false
+layout: post
 title: Leçon de Tennis !
 description: 'Après les [Dum Dum Girls->588] ou [Best Coast->657], entre autres, la
   mode est décidément à la girl-pop-lo-fi. Nouveau groupe à compter dans ce genre
   : {{Tennis}} ! '
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 660
 date: '2010-07-24 15:33:37 +0200'
 categories:

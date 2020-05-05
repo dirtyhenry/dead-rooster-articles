@@ -1,21 +1,14 @@
 ---
-status: publie
-published: false
+layout: post
 title: Katerine, Francis et ses peintres - Il est vraiment phénoménal
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 933
 date: '2011-10-17 16:31:51 +0200'
 categories:
 - Artistes
 tags:
 - Katerine
-comments: []
 ---
 <iframe width="540" height="304" src="http://www.youtube.com/embed/XjbU4F5nwAw" frameborder="0" allowfullscreen></iframe>
 

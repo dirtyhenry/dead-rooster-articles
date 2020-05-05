@@ -1,21 +1,14 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Raconteurs - Steady As She Goes
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 298
 date: '2006-04-09 13:29:00 +0200'
 categories:
 - Artistes
 tags:
 - The Raconteurs
-comments: []
 ---
 <iframe width="420" height="315" src="http://www.youtube.com/embed/Q7aOWIFgIZQ" frameborder="0" allowfullscreen></iframe>
 

@@ -1,14 +1,8 @@
 ---
-status: publie
-published: false
+layout: post
 title: 'Your new caricative action : the HoorayHenrysThon'
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 291
 date: '2006-03-31 16:33:00 +0200'
 categories:
@@ -17,7 +11,6 @@ categories:
 tags:
 - Dead Rooster Announcement
 - Hooray Henrys
-comments: []
 ---
 People need you guys.
 

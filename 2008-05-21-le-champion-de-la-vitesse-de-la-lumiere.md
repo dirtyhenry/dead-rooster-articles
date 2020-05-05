@@ -1,14 +1,8 @@
 ---
-status: publie
-published: false
+layout: post
 title: Le champion de la vitesse de la lumière
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 205
 date: '2008-05-21 21:07:00 +0200'
 categories:
@@ -17,7 +11,6 @@ categories:
 tags:
 - Concert
 - Lightspeed Champion
-comments: []
 ---
 Soirée plutôt sympa et assez dense jeudi dernier à la Maroquinerie pour un nouvel Inrocks Indie Club. Au programme, dans l'ordre chronologique : Koko Von Napoo, Glasvegas, These New Puritans et Lightspeed Champion.
 

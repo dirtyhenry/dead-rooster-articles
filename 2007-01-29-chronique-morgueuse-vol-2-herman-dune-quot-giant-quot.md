@@ -1,14 +1,8 @@
 ---
-status: publie
-published: false
+layout: post
 title: Chronique morgueuse vol. 2 - Herman Düne &quot;Giant&quot;
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 353
 date: '2007-01-29 14:07:00 +0100'
 categories:
@@ -17,7 +11,6 @@ categories:
 tags:
 - Albums
 - Herman Düne
-comments: []
 ---
 Les deux instrumentales de Giant : ah bon ?
 

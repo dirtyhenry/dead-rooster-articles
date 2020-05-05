@@ -1,23 +1,16 @@
 ---
-status: publie
-published: false
+layout: post
 title: Ah bah ma ballade irlandaise !
 description: Le titre de la semaine est la {Balade Irlandaise}, de Bourvil. On a un
   podium !
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 593
 date: '2010-04-12 19:41:55 +0200'
 categories:
 - Catégories
 tags:
 - Concours Katerine
-comments: []
 ---
 Cette semaine, la reprise de __Katerine, Francis et ses peintres__ est [*Balade Irlandaise*->http://www.katerinefrancisetsespeintres.com/15.html], de Bourvil.
 

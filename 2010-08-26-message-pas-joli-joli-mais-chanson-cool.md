@@ -1,15 +1,9 @@
 ---
-status: publie
-published: false
+layout: post
 title: Message pas joli joli, mais chanson cool
 description: Un message pas très joli joli de Cee-Lo...
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 684
 date: '2010-08-26 13:23:19 +0200'
 categories:

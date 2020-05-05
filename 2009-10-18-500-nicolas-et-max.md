@@ -1,14 +1,8 @@
 ---
-status: publie
-published: false
+layout: post
 title: "(500) Nicolas et Max"
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 538
 date: '2009-10-18 18:52:09 +0200'
 categories:

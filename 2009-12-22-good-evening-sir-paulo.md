@@ -1,21 +1,14 @@
 ---
-status: publie
-published: false
+layout: post
 title: Good Evening Sir Paulo !
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 557
 date: '2009-12-22 16:55:55 +0100'
 categories:
 - Artistes
 tags:
 - The Beatles
-comments: []
 ---
 2009 fut une année Beatles. Comme tous les ans depuis 1960, d'accord et merci bien, mais 2009 encore davantage avec la sortie des insuffisants coffrets "intégrale mono/stéréo" (qui pourraient alimenter - et alimentent effectivement - des débats interminables sur sa qualité et sa pertinence) ainsi que le *Good Evening Tour* de __Paul McCartney__ qu'il est, je pense, inutile et insultant de présenter. Le 10 décembre dernier, la tournée passait à Paris, au Palais Omnisports de Bercy. J'y allai.
 

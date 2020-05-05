@@ -1,19 +1,10 @@
 ---
-status: publie
-published: false
+layout: post
 title: Gotye - Somebody That I Used To Know
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 973
 date: '2011-12-19 09:00:00 +0100'
-categories: []
-tags: []
-comments: []
 ---
 <iframe width="540" height="304" src="http://www.youtube.com/embed/8UVNT4wvIGY" frameborder="0" allowfullscreen></iframe>
 

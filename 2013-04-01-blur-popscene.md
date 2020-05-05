@@ -1,19 +1,10 @@
 ---
-status: publie
-published: false
+layout: post
 title: Blur - Popscene
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1207
 date: '2013-04-01 13:34:17 +0200'
-categories: []
-tags: []
-comments: []
 ---
 Aujourd'hui, *Popscene* a 21 ans. Et je ne voulais pas manquer de vous montrer [le GIF animé->http://officialblur.tumblr.com/post/36888150968] que Blur qui célèbre la chose.
 

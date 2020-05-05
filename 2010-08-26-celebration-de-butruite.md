@@ -1,23 +1,16 @@
 ---
-status: publie
-published: false
+layout: post
 title: Célébration de butruite
 description: 'On ne l''avait pas mise du premier coup, mais maintenant, c''est réparé
   : voici la vidéo de 22 secondes la plus drôle des 20 dernières années.'
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 685
 date: '2010-08-26 13:32:46 +0200'
 categories:
 - Catégories
 tags:
 - Trucs marrants
-comments: []
 ---
 On ne l'avait pas mise du premier coup, mais maintenant, c'est réparé : voici la vidéo de 22 secondes la plus drôle des 20 dernières années.
 

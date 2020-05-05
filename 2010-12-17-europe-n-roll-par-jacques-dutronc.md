@@ -1,20 +1,11 @@
 ---
-status: publie
-published: false
+layout: post
 title: Europe'N'Roll par Jacques Dutronc
 description: Une chanson naze, par Jacques Dutronc
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 739
 date: '2010-12-17 15:12:26 +0100'
-categories: []
-tags: []
-comments: []
 ---
 Jacques Dutronc est un des meilleurs artistes français et a interprété de superbes morceaux : *La Fille du Père Noël*, *Fais pas ci, fais pas ça*, *Le Dragueur des Supermarchés*, etc. 
 

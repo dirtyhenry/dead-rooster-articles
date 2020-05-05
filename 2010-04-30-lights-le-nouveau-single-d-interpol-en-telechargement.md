@@ -1,16 +1,10 @@
 ---
-status: publie
-published: false
+layout: post
 title: Lights, le nouveau single d'Interpol en téléchargement
 description: Pas d'annonce de date ou quoi que ce soit au sujet du 4ème album du groupe,
   mais {{Interpol}} offre tout de même un single, {{Lights}},  en téléchargement.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 607
 date: '2010-04-30 16:54:38 +0200'
 categories:
@@ -19,7 +13,6 @@ categories:
 tags:
 - Interpol
 - Single
-comments: []
 ---
 Bientôt 3 ans après l'inégale *Our Love To Admire*, les new-yorkais __Interpol __ devraient être de retour en 2010. Ils ont enregistré leur 4ème album au printemps 2009 mais toujours aucune date de sortie n'a été annoncée.
 

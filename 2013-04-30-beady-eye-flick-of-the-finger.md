@@ -1,19 +1,10 @@
 ---
-status: publie
-published: false
+layout: post
 title: Beady Eye - Flick Of The Finger
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1224
 date: '2013-04-30 12:00:00 +0200'
-categories: []
-tags: []
-comments: []
 ---
 Beady Eye revient avec un second album, BE, produit par le TV On The Radio Dave Sitek.
 

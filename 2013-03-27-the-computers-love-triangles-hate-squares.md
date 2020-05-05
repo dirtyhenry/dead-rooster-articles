@@ -1,19 +1,10 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Computers - Love Triangles, Hate Squares
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1204
 date: '2013-03-27 15:20:31 +0100'
-categories: []
-tags: []
-comments: []
 ---
 Les Britanniques de The Computer vous montrent ce qui serait arrivé aux stars du rock si elles n'avaient pas réussi à faire de la musique leur métier. Johnny Cash n'était visiblement pas fait pour vendre des aspirateurs.
 

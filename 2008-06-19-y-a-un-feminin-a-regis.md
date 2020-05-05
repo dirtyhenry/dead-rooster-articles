@@ -1,18 +1,10 @@
 ---
-status: publie
-published: false
+layout: post
 title: Y'a un féminin à Régis ?
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 450
 date: '2008-06-19 14:08:00 +0200'
-categories: []
-tags: []
 comments:
 - author: ''
   author_email: ''

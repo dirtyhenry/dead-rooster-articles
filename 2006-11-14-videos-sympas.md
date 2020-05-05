@@ -1,21 +1,14 @@
 ---
-status: publie
-published: false
+layout: post
 title: Vidéos sympas
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 338
 date: '2006-11-14 23:04:00 +0100'
 categories:
 - Catégories
 tags:
 - Fun Friday
-comments: []
 ---
 Voici 2 petite vidéos, certes gentilles, mais qui sentent le frais, le printemps ou le mièvre, ce qui ne fait pas de mal une fois de temps en temps...
 

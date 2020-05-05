@@ -1,24 +1,17 @@
 ---
-status: publie
-published: false
+layout: post
 title: Single de Blur et poisson d'avril
 description: Blur a décidé de diffuser gratuitement le single {Fool's Day} qu'ils
   ont écrits à l'occasion du Record Store Day. De quoi espérer un nouvel album pour
   bientôt ?
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 595
 date: '2010-04-19 14:47:16 +0200'
 categories:
 - Artistes
 tags:
 - Blur
-comments: []
 ---
 Bientôt [un an après leur reformation pour une courte tournée festivale->514], __Blur__ a enregistré un single à l'occasion du [Record Store Day->http://www.recordstoreday.com].
 

@@ -1,18 +1,10 @@
 ---
-status: publie
-published: false
+layout: post
 title: Le mystère de la bamba triste persiste
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 555
 date: '2009-12-15 23:38:53 +0100'
-categories: []
-tags: []
 comments:
 - author: guiguilele
   author_email: ''

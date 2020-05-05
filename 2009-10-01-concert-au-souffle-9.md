@@ -1,19 +1,10 @@
 ---
-status: publie
-published: false
+layout: post
 title: Concert au souffle 9
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 552
 date: '2009-10-01 20:20:00 +0200'
-categories: []
-tags: []
-comments: []
 ---
 Le 5 septembre, les Hooray Henrys ont participé à la journée d'animation de l'association le Souffle9 ([http://www.lesouffle9.info/->http://www.lesouffle9.info/]).
 

@@ -1,16 +1,10 @@
 ---
-status: publie
-published: false
+layout: post
 title: The La's à Rock en Seine, que penser ?
 description: Lorsque les La's ont été annoncés à Rock en Seine cette année, ni une,
   ni deux, ma place était réservée dans les deux minutes. Qui ? Les La's ! Petit rappel...
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 894
 date: '2011-09-01 00:13:54 +0200'
 categories:
@@ -19,7 +13,6 @@ categories:
 tags:
 - Concert
 - The La's
-comments: []
 ---
 Lorsque les La's ont été annoncés à Rock en Seine cette année, ni une, ni deux, ma place était réservée dans les deux minutes. Qui ? Les La's ! Petit rappel... 
 

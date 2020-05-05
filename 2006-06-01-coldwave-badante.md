@@ -1,21 +1,14 @@
 ---
-status: publie
-published: false
+layout: post
 title: Coldwave badante
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 316
 date: '2006-06-01 21:24:00 +0200'
 categories:
 - Artistes
 tags:
 - Interpol
-comments: []
 ---
 {Turn on the bright lights} est le premier album d'Interpol et a dû sortir en 2002 (de mémoire). Je l'avais un peu éclipsé au profit de *Antics*, le 2ème album du groupe qui m'avait semblé meilleur à l'époque de sa sortie mais je suis en train de revoir complètement mon jugement car ce premier opus est dingue. 
 

@@ -1,14 +1,8 @@
 ---
-status: publie
-published: false
+layout: post
 title: La compile du dimanche matin volume 1
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 733
 date: '2008-08-23 20:45:00 +0200'
 categories:
@@ -19,7 +13,6 @@ tags:
 - Adam Green
 - Herman Düne
 - The Notwist
-comments: []
 ---
 -# Grandaddy - *He's Simple, He's Dumb, He's the Pilot*
 -# The Velvet Underground - *Sunday Morning*

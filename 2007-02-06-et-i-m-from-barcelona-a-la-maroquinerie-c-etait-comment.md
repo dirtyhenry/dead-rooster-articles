@@ -1,21 +1,14 @@
 ---
-status: publie
-published: false
+layout: post
 title: Et I'm from Barcelona à la Maroquinerie, c'était comment ?
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 356
 date: '2007-02-06 13:04:00 +0100'
 categories:
 - Catégories
 tags:
 - Concert
-comments: []
 ---
 "I'm from Barcelona, à la Maroquinerie le 23 janvier". 
 

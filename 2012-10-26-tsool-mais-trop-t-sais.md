@@ -1,16 +1,10 @@
 ---
-status: publie
-published: false
+layout: post
 title: TSOOL, mais trop t'sais !
 description: Second article pour un groupe qui le mérite, où l'on parle d'un Charlot
   et d'Ebbot qu'est beau.
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 1129
 date: '2012-10-26 01:25:26 +0200'
 categories:
@@ -18,7 +12,6 @@ categories:
 tags:
 - The Soundtrack Of Our Lives
 - Peter von Poehl
-comments: []
 ---
 Hé les copains, vous vous souvenez ? Y a 2 ans là ! Mais si ! Je vous parlais de mon groupe suédois inconnu (ou pas assez connu) du moment là ! __The Soundtrack Of Our Lives__ ! Non ? Pfff... Bon, [rattrapage pour tout le monde->http://www.deadrooster.org/TSOOL-Nan-toi-tu-soules] ! Après cette lecture fort instructive, j'en suis sûr, vous vous dites : "oui, et alors, quoi maintenant ?" Eh bien, plein de nouveautés concernant la bande à Lars, Niels ou un truc du genre (après vérification, y a un Kalle, un Fredrik, un Björn, j'y étais presque).
 

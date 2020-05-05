@@ -1,23 +1,16 @@
 ---
-status: publie
-published: false
+layout: post
 title: Darwin Deez's Up In The Clouds
 description: Très chouette chanson de {{Darwin Deez}}, un new-yorkais qui a sorti
   son premier album en avril dernier. Le clip n'est pas en reste.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 655
 date: '2010-07-20 12:20:32 +0200'
 categories:
 - Catégories
 tags:
 - Single
-comments: []
 ---
 Très chouette chanson de __Darwin Deez__, un new-yorkais qui a sorti son premier album en avril dernier. Le clip n'est pas en reste.
 

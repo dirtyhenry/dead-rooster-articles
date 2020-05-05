@@ -1,23 +1,16 @@
 ---
-status: publie
-published: false
+layout: post
 title: What's up Sleater-Kinney ?
 description: "{{Sleater-Kinney}} est en coma profond et c'est dommage. Mais son ex-leader,
   Corin Tucker, est de retour dans les actus !"
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 628
 date: '2010-06-09 14:47:33 +0200'
 categories:
 - Catégories
 tags:
 - Nouvel album
-comments: []
 ---
 {*Corin Tucker*}, l'ex-leader de Sleater-Kinney, publiera son 1er album solo le 5 octobre prochain.
 

@@ -1,24 +1,17 @@
 ---
-status: publie
-published: false
+layout: post
 title: Learn Something Every Day !
 description: Pour fêter son premier anniversaire, le site très fun [Learn Something
   Every Day->http://cargocollective.com/learnsomethingeveryday] vient de publier une
   vidéo.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 671
 date: '2010-08-02 12:20:35 +0200'
 categories:
 - Catégories
 tags:
 - Trucs marrants
-comments: []
 ---
 Pour fêter son premier anniversaire, le site très fun [Learn Something Every Day->http://cargocollective.com/learnsomethingeveryday] vient de publier une vidéo.
 

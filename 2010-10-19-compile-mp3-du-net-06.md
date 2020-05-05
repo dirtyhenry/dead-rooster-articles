@@ -1,18 +1,12 @@
 ---
-status: publie
-published: false
+layout: post
 title: 'Compile MP3 du NET #06'
 description: Une sélection des meilleurs MP3 légalement disponibles au téléchargement
   des dernières semaines. Au programme cette semaine, les retours de {{Frankie Rose
   & The Outs}} et de {{Women}} ainsi qu'une excellente reprise du No Satisfaction
   de Black Mountain par The Black Angels.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 715
 date: '2010-10-19 23:00:00 +0200'
 categories:
@@ -20,7 +14,6 @@ categories:
 tags:
 - Single
 - MP3
-comments: []
 ---
 Une sélection des meilleurs MP3 légalement disponibles au téléchargement des dernières semaines. Au programme cette semaine, les retours de __Frankie Rose & The Outs__ et de __Women__ ainsi qu'une excellente reprise du *No Satisfaction* de __Black Mountain__ par __The Black Angels__.
 

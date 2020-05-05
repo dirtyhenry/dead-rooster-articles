@@ -1,21 +1,13 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Police
 description: Cette semaine, l'encyclopédie se refuse à faire des jeux de mots pourris
   à base de "Lieutenant Sting" ou "les pères spirituels d'Interpol". Non ! Elle fait
   pire...
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 832
 date: '2011-04-23 09:42:32 +0200'
-categories: []
-tags: []
 comments:
 - author: StingFan
   author_email: ''

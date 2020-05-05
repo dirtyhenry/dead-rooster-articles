@@ -1,16 +1,10 @@
 ---
-status: publie
-published: false
+layout: post
 title: Les Levi's Pioneer Sessions
 description: Les Levi's Pioneer Sessions ou où télécharger des reprises interprétées
   par She & Him, The Shins et The Kills.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 623
 date: '2010-06-04 08:56:29 +0200'
 categories:
@@ -20,7 +14,6 @@ tags:
 - Téléchargements
 - She & Him
 - Reprise
-comments: []
 ---
 Levi's a récemment ouvert un site, [http://www.levispioneersessions.com/->http://www.levispioneersessions.com/] : deux fois par semaine, un artiste contemporain y offre une reprise d'un titre qui l'a inspiré au téléchargement.
 

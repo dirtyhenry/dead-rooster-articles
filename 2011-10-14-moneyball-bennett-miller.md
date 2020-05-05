@@ -1,16 +1,10 @@
 ---
-status: publie
-published: false
+layout: post
 title: Moneyball - Bennett Miller
 description: Parlons baseball, de stats, de mâchoires en avant, des Black Keys, de
   musique de stade et des Standells.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 932
 date: '2011-10-14 00:20:15 +0200'
 categories:
@@ -18,7 +12,6 @@ categories:
 tags:
 - The Black Keys
 - Brad Pitt
-comments: []
 ---
 Billy Beane a les boules, a les glandes, a les crottes de nez qui pendent. Il est manager de l'équipe de baseball des Athletics d'Oakland et, bien qu'il ait fait des miracles pour se qualifier pour les playoffs en dépit de son petit budget, ils se sont encore fait éliminés par les richissimes Yankees. Pour couronner le tout, trois de ses meilleurs joueurs quittent le club. [La vie n'fait pas d'cadeau->http://youtu.be/qPIiKF2I4YM?t=46s]. Du coup, Billy décide de changer de stratégie : plutôt que recruter de façon traditionnelle en écoutant les conseils d'un clan de vieux sages chiqueurs de tabac, on va tout baser sur les stats, sans se laisser distraire par des ressentis ou des impressions car les chiffres, eux, ne mentent pas.
 

@@ -1,19 +1,10 @@
 ---
-status: publie
-published: false
+layout: post
 title: Guards - Ready To Go
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1158
 date: '2013-01-14 10:41:50 +0100'
-categories: []
-tags: []
-comments: []
 ---
 Encore un [autre->1139] teaser pour l'album de Guards, à paraître en février.
 

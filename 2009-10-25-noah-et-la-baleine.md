@@ -1,17 +1,11 @@
 ---
-status: publie
-published: false
+layout: post
 title: Noah et la baleine
 description: Noah & the Whale a sorti son second album, {The Fist Days of Spring}
   et était de passage à Paris, au café de danse, en septembre. Que penser de ce groupe
   ? A écouter au casque ? A voir en live ? Les deux ?
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 540
 date: '2009-10-25 20:22:00 +0100'
 categories:

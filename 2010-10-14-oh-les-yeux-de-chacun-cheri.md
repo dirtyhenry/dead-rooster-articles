@@ -1,16 +1,10 @@
 ---
-status: publie
-published: false
+layout: post
 title: Oh ! Les yeux de chacun Chéri !
 description: Déjà trois semaines depuis la dernière mise à jour du concours Katerine.
   Allez, un petit peu de son actu marrante d'abord, et on parle du concours ensuite.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 713
 date: '2010-10-14 20:16:44 +0200'
 categories:
@@ -20,7 +14,6 @@ tags:
 - Concours Katerine
 - Single
 - Katerine
-comments: []
 ---
 Déjà trois semaines depuis la dernière mise à jour du concours Katerine. Allez, un petit peu de son actu marrante d'abord, et on parle du concours ensuite.
 

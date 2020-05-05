@@ -1,16 +1,10 @@
 ---
-status: publie
-published: false
+layout: post
 title: Saga Africa
 description: La reprise de {{Katerine, Francis et ses peintres}} de la semaine est
   {Saga Africa} de Yannick Noah. Mais où vont-ils chercher tout ça ?
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 626
 date: '2010-06-08 14:51:21 +0200'
 categories:
@@ -19,7 +13,6 @@ categories:
 tags:
 - Concours Katerine
 - Katerine
-comments: []
 ---
 La reprise de la semaine de __Katerine, Francis et ses peintres__ est [*Saga Africa*->http://www.katerinefrancisetsespeintres.com/23.html], de Yannick Noah.
 

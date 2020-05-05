@@ -1,19 +1,10 @@
 ---
-status: publie
-published: false
+layout: post
 title: Veronica Falls - Teenage
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1137
 date: '2012-11-15 08:00:00 +0100'
-categories: []
-tags: []
-comments: []
 ---
 Le 2nd album de [nos chouchous de 2011->984], *Waiting For Something To Happen*, sortira début 2013. Vous pouvez aussi [réécouter *My Heart Beats*->1011].
 

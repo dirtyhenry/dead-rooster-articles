@@ -1,14 +1,8 @@
 ---
-status: publie
-published: false
+layout: post
 title: When I was in the sweet little 16
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 214
 date: '2008-07-31 16:20:04 +0200'
 categories:

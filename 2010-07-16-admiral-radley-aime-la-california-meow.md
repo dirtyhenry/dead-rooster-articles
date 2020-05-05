@@ -1,24 +1,17 @@
 ---
-status: publie
-published: false
+layout: post
 title: Admiral Radley aime la California (meow)
 description: "{{Admiral Radley}} est le nouveau groupe de Jason Lytle, ex-Grandaddy,
   qui vient de sortir son premier album, {I Heart California}, dont est extrait le
   single karaoke qu'on vous présente ici."
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 651
 date: '2010-07-16 17:09:46 +0200'
 categories:
 - Catégories
 tags:
 - Single
-comments: []
 ---
 {*Admiral Radley*} est le nouveau groupe de Jason Lytle, ex-Grandaddy, qui vient de sortir son premier album, *I Heart California*, dont est extrait le single karaoke ci-dessous.
 

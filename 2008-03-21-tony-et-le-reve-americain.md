@@ -1,19 +1,10 @@
 ---
-status: publie
-published: false
+layout: post
 title: Tony et le rêve américain
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 441
 date: '2008-03-21 09:48:00 +0100'
-categories: []
-tags: []
-comments: []
 ---
 <quote>Viser la lucarne c'est comme viser la lune</quote>
 

@@ -1,17 +1,11 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Young Person's Guide To Becoming A Rock Star
 description: Retour sur quelques séries oubliées, mais qu'il faut remettre à la place
   qu'elles méritent. Premier épisode avec {The Young Person's Guide To Becoming A
   Rock Star}
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 955
 date: '2011-11-22 23:34:06 +0100'
 categories:

@@ -1,17 +1,11 @@
 ---
-status: publie
-published: false
+layout: post
 title: Katerine, le meilleur d'entre nous
 description: Ca fait longtemps que nous n'avons pas mis à jour le concours Katerine.
   Pour ne rien gâcher, l'actualité de Katerine est par ailleurs chargée. Il est temps
   de faire le point.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 704
 date: '2010-09-23 14:13:42 +0200'
 categories:
@@ -22,7 +16,6 @@ tags:
 - Trucs marrants
 - Reprise
 - Katerine
-comments: []
 ---
 Ca fait longtemps que nous n'avons pas mis à jour le concours Katerine. Pour ne rien gâcher, l'actualité de Katerine est par ailleurs chargée. Il est temps de faire le point.
 

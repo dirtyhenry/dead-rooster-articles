@@ -1,18 +1,12 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Fresh & Onlys - Play It Strange
 description: Il y a un mois, Dead Rooster était au Primavera Festival, à Barcelone.
   Ce vendredi-là, en plein milieu d'après-midi, nous regardâmes le concert des Fresh
   & Onlys, les auteurs du récent {Play It Strange}. Le concert nous convainquit de
   nous le procurer.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 857
 date: '2011-06-28 12:28:53 +0200'
 categories:

@@ -1,23 +1,16 @@
 ---
-status: publie
-published: false
+layout: post
 title: Say No To Love
 description: Clip de {Say No To Love}, le nouveau single de {{The Pains of Being Pure
   At Heart}}.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 647
 date: '2010-07-08 10:26:09 +0200'
 categories:
 - Catégories
 tags:
 - Single
-comments: []
 ---
 {*The Pains of Being Pure At Heart*} nous incite à dire non à l'amour dans leur nouveau single *Say No To Love*. 
 

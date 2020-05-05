@@ -1,21 +1,12 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Beach Boys
 description: Cette semaine, comme il fait approximativement beau, l'Encyclopédie part
   à la plage.
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 871
 date: '2011-07-16 16:31:57 +0200'
-categories: []
-tags: []
-comments: []
 ---
 The Beach Boys, c'est avant tout une histoire de famille : les Wilson. Brian, le génie un peu fou, Dennis, le batteur discret, Owen, guitariste et futur acteur comique. Formé au début des années 60, le groupe est souvent vu comme "la réponse de la Californie à Liverpool".
 

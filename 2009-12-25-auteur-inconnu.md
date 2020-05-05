@@ -1,19 +1,13 @@
 ---
-status: publie
-published: false
+layout: post
 title: Auteur inconnu
 description: Plutôt que de succomber à l'éternel classement de l'année (on aura suffisamment
   le temps l'année prochaine de trier les disques de cette année...), parlons d'un
   artiste trop méconnu, Jason Falkner (rien à voir avec le William Faulkner de la
   photo !), coupable du très bon {All Quiet on the Noise Floor} cette année (dans
   le top 5 de 2009 ?).
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 558
 date: '2009-12-25 23:11:36 +0100'
 categories:

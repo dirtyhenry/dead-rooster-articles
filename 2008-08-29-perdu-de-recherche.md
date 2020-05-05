@@ -1,21 +1,14 @@
 ---
-status: publie
-published: false
+layout: post
 title: Perdu de recherche
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 215
 date: '2008-08-29 14:44:37 +0200'
 categories:
 - Artistes
 tags:
 - Soledad Brothers
-comments: []
 ---
 Être bons en studio ou bons sur scène ? Cette question doit turlupiner nombre de groupes. Lightspeed Champion envisage par exemple d'arrêter la musique puisqu'il n'arrive pas, selon lui, à faire des concerts assez bons. Un groupe au moins a tranché de manière définitive cette question. Il s'agit des __Soledad Brothers__. Aujourd'hui disparu, ce groupe était tout simplement le meilleur groupe live qu'il m'a été donné de voir.
 

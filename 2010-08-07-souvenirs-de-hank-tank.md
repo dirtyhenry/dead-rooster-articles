@@ -1,16 +1,10 @@
 ---
-status: publie
-published: false
+layout: post
 title: Souvenirs de Hank & Tank
 description: "{{Hank & Tank}} : un groupe oublié qu'on retrouve 8 ans après. Soyons
   pointus et faisons le point sur un obscur groupe indé islandais."
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 674
 date: '2010-08-07 18:13:54 +0200'
 categories:
@@ -20,7 +14,6 @@ tags:
 - Concert
 - Keren Ann
 - Hank & Tank
-comments: []
 ---
 Je viens de retomber sur un brouillon de revue de concert, datant de novembre 2002 et du passage de Keren Ann à Bordeaux. Voilà de quoi oublier un petit peu le mainstream et aller faire un tour dans la scène indie islandaise, histoire de briller en société :
 

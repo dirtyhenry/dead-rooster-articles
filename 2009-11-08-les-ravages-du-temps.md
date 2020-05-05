@@ -1,18 +1,10 @@
 ---
-status: publie
-published: false
+layout: post
 title: Les ravages du temps
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 545
 date: '2009-11-08 16:36:40 +0100'
-categories: []
-tags: []
 comments:
 - author: ''
   author_email: ''

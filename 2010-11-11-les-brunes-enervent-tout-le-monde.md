@@ -1,15 +1,9 @@
 ---
-status: publie
-published: false
+layout: post
 title: Les brunes énervent tout le monde...
 description: 'Quatre semaines de Katerine à rattraper d''un coup... '
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 722
 date: '2010-11-11 16:31:30 +0100'
 categories:
@@ -18,7 +12,6 @@ categories:
 tags:
 - Concours Katerine
 - Katerine
-comments: []
 ---
 Quatre semaines de Katerine à rattraper d'un coup...
 

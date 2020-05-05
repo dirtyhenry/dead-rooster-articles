@@ -1,14 +1,8 @@
 ---
-status: publie
-published: false
+layout: post
 title: La Route du Rock 16
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 330
 date: '2006-08-16 22:00:00 +0200'
 categories:
@@ -18,7 +12,6 @@ tags:
 - Concert
 - Katerine
 - Franz Ferdinand
-comments: []
 ---
 Amis malouins et malouines, merci de m'avoir accueilli dans votre repaire de corsaires du rock pour la 16ème édition de votre festival.
 

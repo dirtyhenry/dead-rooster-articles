@@ -1,19 +1,10 @@
 ---
-status: publie
-published: false
+layout: post
 title: British Sea Power - Machineries Of Joy
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1181
 date: '2013-02-20 10:00:00 +0100'
-categories: []
-tags: []
-comments: []
 ---
 Les prolifiques British Sea Power, [chouchous de Joe Gantdelaine->928], reviennent cette année avec un nouvel LP, *Machineries of Joy*. Voici, le titre du même nom en teaser.
 

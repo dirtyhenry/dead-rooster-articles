@@ -1,21 +1,14 @@
 ---
-status: publie
-published: false
+layout: post
 title: La loi du plus fort
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 362
 date: '2007-02-22 17:35:00 +0100'
 categories:
 - Catégories
 tags:
 - Foot
-comments: []
 ---
 A l'attention de M. Eric BRAAMHAAR, 
 

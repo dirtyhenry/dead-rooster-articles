@@ -1,14 +1,8 @@
 ---
-status: publie
-published: false
+layout: post
 title: Les hymnes indé selon le NME
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 380
 date: '2007-05-02 21:00:00 +0200'
 categories:
@@ -18,7 +12,6 @@ tags:
 - Blur
 - Pulp
 - The La's
-comments: []
 ---
 Le NME a publié le résultat du sondage mené auprès de ses lecteurs sur les 50 meilleurs hymnes indé de tous les temps. Le résultat est sans véritable surprise... La preuve ? Mon top 5 (Pulp - 'Common People', Oasis - 'Live Forever', Blur - 'Song 2', The Libertines - 'Vertigo', Franz Ferdinand - 'Take me out') a réussi un joli coup avec 4 titres dans le top 16 (mais merde suis-je le seul à penser que Vertigo est et demeurera le meilleur titre des Libertines ???)
 

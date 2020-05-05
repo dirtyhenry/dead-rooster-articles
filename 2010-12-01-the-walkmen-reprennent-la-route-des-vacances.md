@@ -1,18 +1,12 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Walkmen reprennent la route des vacances
 description: 'Le site est actuellement assez inactif pour cause de séjour prolongé
   aux Etats-Unis avec connectivité limitée, mais célébrons dignement le mois de décembre
   par un cadeau digne des meilleurs calendriers de l''avent : une chanson de Noël
   !'
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 729
 date: '2010-12-01 18:15:30 +0100'
 categories:
@@ -20,7 +14,6 @@ categories:
 tags:
 - Reprise
 - Vidéo Clip
-comments: []
 ---
 Le site est actuellement assez inactif pour cause de séjour prolongé aux Etats-Unis avec connectivité limitée, mais célébrons dignement le mois de décembre par un cadeau digne des meilleurs calendriers de l'avent : une chanson de Noël !
 

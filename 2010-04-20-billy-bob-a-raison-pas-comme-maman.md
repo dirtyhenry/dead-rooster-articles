@@ -1,23 +1,16 @@
 ---
-status: publie
-published: false
+layout: post
 title: Billy Bob a raison. Pas comme Maman...
 description: Le titre de la semaine est la {Maman a tort}, de Mylène Farmer. Joe et
   Hervé l'avaient.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 596
 date: '2010-04-20 08:57:14 +0200'
 categories:
 - Catégories
 tags:
 - Concours Katerine
-comments: []
 ---
 Cette semaine, la reprise de __Katerine, Francis et ses peintres__ est [*Maman a tort*->http://www.katerinefrancisetsespeintres.com/16.html], de Mylène Farmer.
 

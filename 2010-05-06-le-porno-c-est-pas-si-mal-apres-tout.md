@@ -1,23 +1,16 @@
 ---
-status: publie
-published: false
+layout: post
 title: Le porno, c'est pas si mal après tout
 description: Bizarrement, je croyais que {{The New Pornographers}} c'était nul. Mais
   en fait non...
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 611
 date: '2010-05-06 16:34:39 +0200'
 categories:
 - Catégories
 tags:
 - Single
-comments: []
 ---
 {*The New Pornographers*} est un “super-groupe”, c'est-à-dire super au sens "composé de membres qui ont tous un autre groupe par ailleurs" ([leur page Wikipedia en donne le détail->http://fr.wikipedia.org/wiki/The_New_Pornographers]).
 

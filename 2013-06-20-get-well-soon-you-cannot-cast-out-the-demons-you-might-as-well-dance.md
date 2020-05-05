@@ -1,19 +1,10 @@
 ---
-status: publie
-published: false
+layout: post
 title: Get Well Soon - You Cannot Cast Out The Demons (You Might As Well Dance)
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1247
 date: '2013-06-20 12:00:00 +0200'
-categories: []
-tags: []
-comments: []
 ---
 Sorti assez injustement de nos radars, Get Well Soon y est revenu par le biais d'*Oh Boy*, chanson de générique de fin de l'excellent film éponyme. Après une découverte tardive de *The Scarlet Beast O'Seven Heads*, sorti en août 2012, nous sommes ravis de partager avec vous son titre de clôture, épique : 
 

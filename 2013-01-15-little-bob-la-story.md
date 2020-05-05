@@ -1,22 +1,13 @@
 ---
-status: publie
-published: false
+layout: post
 title: Little Bob, la Story
 description: Novembre 2012. Enfin ! Après des décennies de lecture de Rock&Folk et
   de "mais, merde, c'est qui ce Little Bob ?!", je vais le voir en concert. La légende
   se sera écrite sans moi, mais avec des santiags rouges.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1159
 date: '2013-01-15 10:00:00 +0100'
-categories: []
-tags: []
-comments: []
 ---
 Il y a quelques semaines, par téléphone : 
 

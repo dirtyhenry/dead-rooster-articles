@@ -1,17 +1,11 @@
 ---
-status: publie
-published: false
+layout: post
 title: High Violet, haute voltige
 description: '"The National est un groupe qui ne m''a jamais vraiment convaincu sur
   disque mais que je sais briller sur scène." [C''est ce que je pouvais dire->581]
   jusqu''à la sortie d''{High Violet}.'
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 696
 date: '2010-09-02 16:21:16 +0200'
 categories:
@@ -19,7 +13,6 @@ categories:
 tags:
 - Yann Tiersen
 - The National
-comments: []
 ---
 "The National est un groupe qui ne m'a jamais vraiment convaincu sur disque mais que je sais briller sur scène." [C'est ce que je pouvais dire->581] jusqu'à la sortie d'*High Violet*.
 

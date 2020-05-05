@@ -1,22 +1,14 @@
 ---
-status: publie
-published: false
+layout: post
 title: British Sea Power
 description: 'Dans la série {Les Losers Magnifiques} vus par Dead Rooster (on a déjà
   parlé [ici->http://www.deadrooster.org/TSOOL-Nan-toi-tu-soules] de The Soundtrack
   of Our Lives, et [là->http://www.deadrooster.org/Le-retour-des-losers-magnifiques]
   de The Thrills), aujourd''hui, un bon groupe bien poissard : {{British Sea Power}}.'
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 928
 date: '2011-10-09 16:28:09 +0200'
-categories: []
-tags: []
 comments:
 - author: Dirty Henry
   author_email: dirtyhenry@gmail.com

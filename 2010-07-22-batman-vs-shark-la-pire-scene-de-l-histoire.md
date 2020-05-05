@@ -1,16 +1,10 @@
 ---
-status: publie
-published: false
+layout: post
 title: 'Batman vs Shark : la pire scène de l''histoire ?'
 description: 'Entre le 1er Batman, {Batman : The Movie}, et le dernier en date, {The
   Dark Knight}, plusieurs paliers semblent avoir été franchis par le cinéma...'
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 658
 date: '2010-07-22 17:46:01 +0200'
 categories:

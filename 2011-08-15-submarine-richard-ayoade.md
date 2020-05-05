@@ -1,17 +1,11 @@
 ---
-status: publie
-published: false
+layout: post
 title: Submarine - Richard Ayoade
 description: Parlons du film {Submarine}, de Richard Ayoade pour la réalisation, de
   Joe Dunthorne pour avoir écrit le bouquin dont le film est l'adaptation, d'Alex
   Turner pour la BO et de Wes Anderson pour l'inspiration.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 879
 date: '2011-08-15 18:44:24 +0200'
 categories:
@@ -21,7 +15,6 @@ tags:
 - Cinéma
 - Wes Anderson
 - Richard Ayoade
-comments: []
 ---
 Oliver Tate est un lycéen probablement intelligent mais un peu loser. Alors que les bookmakers ne lui donnaient qu’une petite cote, il parvient à pécho sa camarade de classe Jordana. Mais très vite, à son labeur intensif pour devenir le-meilleur-petit-ami-possible s’ajoute une autre mission : sauver le mariage de ses parents, menacé par l’emménagement du premier amour de sa maman dans la maison d’en face.
 

@@ -1,19 +1,10 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Strokes - Fast Animals
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1213
 date: '2013-04-08 10:49:21 +0200'
-categories: []
-tags: []
-comments: []
 ---
 Aujourd'hui, j'avais prévu une version acoustique de *Song 2* ([un titre qui fête aujourd'hui ses 16 ans->http://officialblur.tumblr.com/post/47376848847/song-2-16-today], le bad intégral !) mais le compte YouTube qui jouait la vidéo a été fermé depuis hier.
 

@@ -1,16 +1,10 @@
 ---
-status: publie
-published: false
+layout: post
 title: Election du meilleur nom de groupe 2010 !
 description: Avec The Phoenix Fundation, lancement officiel de la sélection des nommés
   pour le Band Naming Award 2010 !
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 663
 date: '2010-07-28 13:45:25 +0200'
 categories:

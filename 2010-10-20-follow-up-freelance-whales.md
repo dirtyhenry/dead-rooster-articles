@@ -1,23 +1,16 @@
 ---
-status: publie
-published: false
+layout: post
 title: 'Follow-Up : Freelance Whales'
 description: Je vous avais parlé des {{Freelance Whales}} [ici->594]. Que deviennent-ils
   ?
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 716
 date: '2010-10-20 17:46:23 +0200'
 categories:
 - Catégories
 tags:
 - Vidéo Clip
-comments: []
 ---
 Je vous avais parlé des __Freelance Whales__ [ici->594], ils nous offraient alors un titre génial, *Generator ^ Second Floor*. Depuis, un album complet est sorti : il s'appelle *Weathervanes*, est écoutable en intégralité sur [Spotify->http://open.spotify.com/album/4XYtSHEBqUnYbxJ5q3pCze] et [se fait défoncer sur Pitchfork->http://pitchfork.com/reviews/albums/13955-weathervanes/] (c'est pas forcément mauvais signe) qui accuse le groupe de "maniérisme cucul sans but réel".
 

@@ -1,16 +1,10 @@
 ---
-status: publie
-published: false
+layout: post
 title: Le point sur le concours Katerine
 description: 'Le titre de la semaine est {La Queuleuleu} : Hervé n''est plus le seul
   à avoir des points au concours !'
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 583
 date: '2010-03-30 11:40:15 +0200'
 categories:
@@ -19,7 +13,6 @@ categories:
 tags:
 - Concours Katerine
 - Katerine
-comments: []
 ---
 Cette semaine, la reprise de __Katerine, Francis et ses peintres__ est [*La Queuleuleu*->http://www.katerinefrancisetsespeintres.com/13.html], le fameux titre de Bézu et dont l'auteur est... Guy Lux.
 

@@ -1,21 +1,14 @@
 ---
-status: publie
-published: false
+layout: post
 title: Quelques vidéos
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 340
 date: '2006-11-26 20:01:00 +0100'
 categories:
 - Catégories
 tags:
 - Trucs marrants
-comments: []
 ---
 <h2>Bombay TV</h2>
 

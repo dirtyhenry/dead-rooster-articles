@@ -1,21 +1,14 @@
 ---
-status: publie
-published: false
+layout: post
 title: Something like happiness
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 302
 date: '2006-04-18 22:07:00 +0200'
 categories:
 - Catégories
 tags:
 - Cinéma
-comments: []
 ---
 -# Ca sonne vrai, 
 -# C'est bien joué, 

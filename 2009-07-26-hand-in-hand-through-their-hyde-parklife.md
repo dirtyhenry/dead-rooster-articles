@@ -1,14 +1,8 @@
 ---
-status: publie
-published: false
+layout: post
 title: Hand in hand through their (Hyde) Parklife
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 514
 date: '2009-07-26 20:19:15 +0200'
 categories:
@@ -18,7 +12,6 @@ tags:
 - Concert
 - Blur
 - Florence + The Machine
-comments: []
 ---
 En décembre dernier, Damon Albarn lâchait une bombe : "__Blur__ jouera à Hyde Park le 3 juillet prochain". Deux minutes de réservation plus tard, le sold-out prouvait l'attachement des fans au groupe, qui rallongea la sauce de plusieurs dates. Un tel succès populaire n'était pas assuré, après six longues années depuis la sortie du dernier album du groupe *Think Tank*.
 

@@ -1,21 +1,12 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Presidents of the United States of America
 description: L'Encyclopédie approximative revisite l'Histoire du rock and roll, mais
   aussi l'Histoire tout court...
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 755
 date: '2011-02-12 09:37:26 +0100'
-categories: []
-tags: []
-comments: []
 ---
 Power trio par excellence (américain évidemment), formé après la seconde guerre mondiale. Ses membres originels sont Richard Nixon à la basse, Ronald Reagan à la guitare et Franklin D. Roosevelt au chant.
 

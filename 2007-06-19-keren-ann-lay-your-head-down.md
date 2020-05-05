@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Keren Ann - Lay Your Head Down
 author:
   display_name: ''
@@ -13,7 +12,6 @@ categories:
 - Artistes
 tags:
 - Keren Ann
-comments: []
 ---
 Sweet et rock'n'roll à la fois, chapeau.
 

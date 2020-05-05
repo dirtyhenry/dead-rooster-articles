@@ -1,19 +1,10 @@
 ---
-status: publie
-published: false
+layout: post
 title: Interpol - Live songs (Success, Barricade et Stella)
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 787
 date: '2011-02-24 14:56:25 +0100'
-categories: []
-tags: []
-comments: []
 ---
 <div id="InterpolWidget">
   <object type="application/x-shockwave-flash" data="http://www.interpolnyc.com/williamsburg/interpolwidget.swf" width="500" height="400">

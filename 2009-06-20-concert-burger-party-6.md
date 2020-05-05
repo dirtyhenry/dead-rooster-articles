@@ -1,19 +1,10 @@
 ---
-status: publie
-published: false
+layout: post
 title: 'Concert Burger Party #6'
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 512
 date: '2009-06-20 20:45:00 +0200'
-categories: []
-tags: []
-comments: []
 ---
 Trackliste : 
 - No, not now (de Hot Hot Heat)

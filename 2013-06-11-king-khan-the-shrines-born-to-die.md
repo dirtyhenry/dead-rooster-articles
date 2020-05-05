@@ -1,19 +1,10 @@
 ---
-status: publie
-published: false
+layout: post
 title: King Khan & The Shrines - Born To Die
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1245
 date: '2013-06-11 12:00:00 +0200'
-categories: []
-tags: []
-comments: []
 ---
 King Khan & The Shrines seront de retour cet automne avec un nouvel album *Idle No More*.
 

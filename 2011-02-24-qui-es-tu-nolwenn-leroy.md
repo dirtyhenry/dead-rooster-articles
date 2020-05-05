@@ -1,22 +1,14 @@
 ---
-status: publie
-published: false
+layout: post
 title: Qui es-tu Nolwenn Leroy ?
 description: Vous connaissez sûrement, au moins de vue, {{Nolwenn Leroy}}. Gentille
   fifille, vainqueur de la seconde édition de la {Star Academy} de TF1 en 2002, fricottant
   musicalement avec Laurent Voulzy et Alain Souchon. Bref, une chic fille, bien sous
   tout rapport. Ah oui, vraiment ?
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 789
 date: '2011-02-24 17:27:44 +0100'
-categories: []
-tags: []
 comments:
 - author: Dirty Henry
   author_email: dirtyhenry@gmail.com

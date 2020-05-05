@@ -1,21 +1,14 @@
 ---
-status: publie
-published: false
+layout: post
 title: Top Musique 2008 (par "Dead Rooster, canal historique")
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 224
 date: '2009-03-04 00:12:26 +0100'
 categories:
 - Artistes
 tags:
 - The Notwist
-comments: []
 ---
 Repue de corps peinturlurés s'agitant sur des scies musicales accrocheuses certes, mais trop empreintes de sonorités eighties pour être honnêtes, la branche Dead Rooster-Canal Historique a décidé de ne pas célébrer les petits jeunes braillards, ou les midinettes proprettes à voix de velours, mais plutôt de se pencher sur les vieux, les poilus, les célèbres et les oubliés, les on-sait-pas-ce-qu'ils-sont-devenus-mais-on-s'en-fout, les ils-sont-complètement-décédés-et-c'est-navrant. Ce top se veut cependant fédérateur, et n'est donc pas uniquement destiné aux vieux cons blasés après tant d'années à se démolir les ruches à base de rock dans toutes ses déclinaisons, ou aux jeunes cons en passe de devenir de vieux bougres aigris. Espérons que chacun y trouve son compte ! Avant de commencer, notons que ce top 2008 est basé essentiellement sur la mauvaise foi et l'arbitraire, dans la mesure où, notamment, la plupart des disques présents ici ne sont pas sortis en 2008. La raison de leur présence est plutôt due au fait qu'ils ne sont parvenus aux oreilles du musicophile revivaliste qu'au cours de cette fameuse année 2008...
 

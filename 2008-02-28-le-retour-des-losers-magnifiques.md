@@ -1,21 +1,14 @@
 ---
-status: publie
-published: false
+layout: post
 title: Le retour des losers magnifiques
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 202
 date: '2008-02-28 00:35:51 +0100'
 categories:
 - Catégories
 tags:
 - Albums
-comments: []
 ---
 { __Teenager.__ } Enfin le voici, ce 3ème album ! Sorti poussivement en France, 6 mois après la perfide albion. Le combat semble perdu d'avance. Pourtant, Credito les avait mis en bande son de sa pub. La région Midi-Pyrénées aussi.
 

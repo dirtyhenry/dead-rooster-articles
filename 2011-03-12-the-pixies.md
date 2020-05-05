@@ -1,20 +1,12 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Pixies
 description: Cette semaine, l'Encyclopédie Approximative vous propose THE article
   approximatif !
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 796
 date: '2011-03-12 09:18:45 +0100'
-categories: []
-tags: []
 comments:
 - author: Dirty Henry
   author_email: dirtyhenry@gmail.com

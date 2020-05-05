@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: 'Grande Saga : &quot;Un mois de juin 2007 rock''n''roll&quot; - Episode 1 sur
   5 : The Who à Bercy'
 author:
@@ -16,7 +15,6 @@ categories:
 tags:
 - Concert
 - The Who
-comments: []
 ---
 Cette année, boycott du concert des Rolling Stones au Stade de France ! Pourquoi ? Parce que j'ai déjà pris ma place pour les Who et que je m'impose la règle "pas plus d'un concert à 50 balles par mois" !
 

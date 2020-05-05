@@ -1,16 +1,10 @@
 ---
-status: publie
-published: false
+layout: post
 title: Vive le Douanier Rousseau
 description: La reprise de {{Katerine, Francis et ses peintres}} de la semaine est
   {Vive le Douanier Rousseau} de la Compagnie Créole. Enfin !
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 654
 date: '2010-07-19 16:25:17 +0200'
 categories:
@@ -19,7 +13,6 @@ categories:
 tags:
 - Concours Katerine
 - Katerine
-comments: []
 ---
 La reprise de la semaine de __Katerine, Francis et ses peintres__ est [*Vive le Douanier Rousseau*->http://www.katerinefrancisetsespeintres.com/29.html], de la Compagnie Créole.
 

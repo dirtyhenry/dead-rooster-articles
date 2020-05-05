@@ -1,21 +1,14 @@
 ---
-status: publie
-published: false
+layout: post
 title: Un peu d'ambiance avant ce soir
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 312
 date: '2006-05-17 09:04:00 +0200'
 categories:
 - Catégories
 tags:
 - Foot
-comments: []
 ---
 <iframe width="420" height="315" src="http://www.youtube.com/embed/BgomX3qD-iA" frameborder="0" allowfullscreen></iframe>
 

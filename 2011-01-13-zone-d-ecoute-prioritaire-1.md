@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: 'Zone d''Ecoute Prioritaire # 1'
 description: Une petite présentation de mes coups de coeur francophones du moment
   pour mon premier bulletin de ma toute nouvelle chronique.
@@ -13,9 +12,6 @@ author_login: fredg
 author_email: frederic@gaunard.com
 wordpress_id: 752
 date: '2011-01-13 19:47:26 +0100'
-categories: []
-tags: []
-comments: []
 ---
 Les acronymes c'est cool et ça permet de faire, genre, on est hyper occupé et hyper tendance. Souvenez-vous, lorsque vous avez téléphoné à votre amis Jean-Louis, enseignant :
 

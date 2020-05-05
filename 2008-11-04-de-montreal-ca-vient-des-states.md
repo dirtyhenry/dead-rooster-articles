@@ -1,14 +1,8 @@
 ---
-status: publie
-published: false
+layout: post
 title: De Montréal ? Ca vient des States !
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 220
 date: '2008-11-04 10:51:49 +0100'
 categories:

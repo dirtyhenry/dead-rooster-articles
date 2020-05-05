@@ -1,16 +1,10 @@
 ---
-status: publie
-published: false
+layout: post
 title: Frankie Rose and The Outs
 description: C'est promis, bientôt j'arrête avec les groupes Dum-Dum-Girls-like, mais
   là y'en a un dernier pour la route, il s'appelle Frankie Rose and The Outs !
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 666
 date: '2010-07-30 18:42:42 +0200'
 categories:
@@ -18,7 +12,6 @@ categories:
 tags:
 - Single
 - Téléchargements
-comments: []
 ---
 C'est promis, bientôt j'arrête avec les groupes Dum-Dum-Girls-like, mais là y'en a un dernier pour la route, il s'appelle __Frankie Rose and The Outs__ !
 

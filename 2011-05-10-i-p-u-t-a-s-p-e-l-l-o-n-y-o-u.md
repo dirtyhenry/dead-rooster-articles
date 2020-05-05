@@ -1,18 +1,12 @@
 ---
-status: publie
-published: false
+layout: post
 title: I.P.U.T.A.S.P.E.L.L.O.N.Y.O.U.
 description: La semaine dernière, [Yann Tiersen était à l'honneur ici-même->837].
   Le titre {Palestine} était évoqué mais tout n'a pas été dit sur ce titre. Ceux qui
   l'ont écouté le savent, son titre aurait dû être {P.A.L.E.S.T.I.N.E.} et ainsi rejoindre...
   "La Grande Tradition des Titres Épelés".
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 840
 date: '2011-05-10 11:00:13 +0200'
 categories:
@@ -25,7 +19,6 @@ tags:
 - Yann Tiersen
 - Noah and the Whale
 - Justice
-comments: []
 ---
 La semaine dernière, [Yann Tiersen était à l'honneur ici-même->837]. Le titre *Palestine* était évoqué mais tout n'a pas été dit sur ce titre. Ceux qui l'ont écouté le savent, son titre aurait dû être *P.A.L.E.S.T.I.N.E.* et ainsi rejoindre... "La Grande Tradition des Titres Épelés".
 

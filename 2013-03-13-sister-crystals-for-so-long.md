@@ -1,19 +1,10 @@
 ---
-status: publie
-published: false
+layout: post
 title: Sister Crystals - For So Long
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1193
 date: '2013-03-13 10:00:00 +0100'
-categories: []
-tags: []
-comments: []
 ---
 Le groupe sort son 1er LP éponyme en mai.
 

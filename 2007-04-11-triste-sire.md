@@ -1,21 +1,14 @@
 ---
-status: publie
-published: false
+layout: post
 title: Triste sire !
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 374
 date: '2007-04-11 09:47:00 +0200'
 categories:
 - Catégories
 tags:
 - Foot
-comments: []
 ---
 John Smith a été retrouvé pendu hier dans un pub miteux de la banlieue mancunienne.
 

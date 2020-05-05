@@ -1,16 +1,10 @@
 ---
-status: publie
-published: false
+layout: post
 title: Comme un roc
 description: La reprise de {{Katerine, Francis et ses peintres}} de la semaine est
   {Comme un roc} de Nâdiya. Jamais à une connerie près...
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 631
 date: '2010-06-17 11:57:21 +0200'
 categories:
@@ -19,7 +13,6 @@ categories:
 tags:
 - Concours Katerine
 - Katerine
-comments: []
 ---
 La reprise de la semaine de __Katerine, Francis et ses peintres__ est [*Comme un rock*->http://www.katerinefrancisetsespeintres.com/24.html], de Nâdiya.
 

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Ribéry est un déconneur
 author:
   display_name: ''
@@ -13,7 +12,6 @@ categories:
 - Catégories
 tags:
 - Foot
-comments: []
 ---
 En fait, si Ribéry a choisi le Bayern, c'est sûrement parce qu'il aime bien taquiner les Allemands. 
 

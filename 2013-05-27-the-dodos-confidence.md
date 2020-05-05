@@ -1,19 +1,10 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Dodos - Confidence
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1237
 date: '2013-05-27 12:00:00 +0200'
-categories: []
-tags: []
-comments: []
 ---
 Les [Dodos->http://www.dodosmusic.net/] viennent d'annoncer que leur prochain album, Carrier, sortira fin août. 
 

@@ -1,14 +1,8 @@
 ---
-status: publie
-published: false
+layout: post
 title: Le démon, sans torsion
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 211
 date: '2008-07-08 11:48:08 +0200'
 categories:
@@ -17,7 +11,6 @@ categories:
 tags:
 - Albums
 - The Notwist
-comments: []
 ---
 Ils nous avaient laissés, il y a de ça 6 ans déjà, après la sortie de l'excellent *Neon Golden*. Tellement excellent, qu'on n'écoutait plus le précédent album de __The Notwist__ qu'en de trop rares occasions, comme une sorte de bouée de sauvetage, de point de repère. Tous les 6 mois environ, après avoir entendu autant de daubes sans nom que de magnifiques fulgurances qui disparaissaient 10 jours plus tard. C'est une valeur sûre, un mètre-étalon. Alors après ce mini chef-d'œuvre, les allemands ne pouvaient que décevoir, non ?
 

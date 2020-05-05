@@ -1,21 +1,14 @@
 ---
-status: publie
-published: false
+layout: post
 title: De l'intérêt de s'entraîner à faire des bonds sur scène
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 315
 date: '2006-05-23 15:59:00 +0200'
 categories:
 - Artistes
 tags:
 - Kaiser Chiefs
-comments: []
 ---
 Ricky Wilson, le chanteur sautant de Kaiser Chiefs a eu un accident de voiture dimanche dernier, dont il s'est sorti presque indemne grâce à ses performances en saut, selon le site officiel du groupe, qui a publié un post pour taire les rumeurs qui commençaient à circuler sur cet accident :
 

@@ -1,21 +1,14 @@
 ---
-status: publie
-published: false
+layout: post
 title: Vikash vous zlatane tous !
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1153
 date: '2012-12-28 18:14:59 +0100'
 categories:
 - Catégories
 tags:
 - Foot
-comments: []
 ---
 Zlataner est [devenu un verbe en suédois->http://www.lequipe.fr/Football/Actualites/-zlataner-dans-le-dico-suedois/338616]. Tant mieux pour lui. Mais on oublie trop facilement que beaucoup d'autres footballeurs ont donné leur nom à des mots.
 

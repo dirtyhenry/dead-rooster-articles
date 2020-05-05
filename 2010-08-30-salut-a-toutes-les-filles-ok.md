@@ -1,16 +1,10 @@
 ---
-status: publie
-published: false
+layout: post
 title: Salut à toutes les filles OK
 description: Trois semaines de reprises de {{Katerine, Francis et ses peintres}} à
   rattraper. Les 3 dernières furent donc...
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 690
 date: '2010-08-30 16:13:02 +0200'
 categories:
@@ -19,7 +13,6 @@ categories:
 tags:
 - Concours Katerine
 - Katerine
-comments: []
 ---
 Trois semaines de reprises de __Katerine, Francis et ses peintres__ à rattraper. Les 3 dernières furent donc...
 

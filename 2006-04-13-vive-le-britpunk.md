@@ -1,14 +1,8 @@
 ---
-status: publie
-published: false
+layout: post
 title: Vive le Britpunk !!!
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 301
 date: '2006-04-13 10:08:00 +0200'
 categories:
@@ -17,7 +11,6 @@ categories:
 tags:
 - Concert
 - Graham Coxon
-comments: []
 ---
 Mercredi 12 avril 2006, 22h30, sortie du Trabendo. Au risque de ne surprendre personne et de me répéter un chouilla, __Graham Coxon__ est vraiment un musicien exceptionnel et n'a sûrement pas le succès qu'il mérite : salle à moitié vide, première partie sympa mais complètement inconnue au bataillon (Lou Ann & The Spoken Words), et pourtant, et pourtant... 
 

@@ -1,18 +1,10 @@
 ---
-status: publie
-published: false
+layout: post
 title: Shaquiri, chat qui pleure
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 994
 date: '2012-02-10 12:11:56 +0100'
-categories: []
-tags: []
 comments:
 - author: guiguilele
   author_email: ''

@@ -1,22 +1,15 @@
 ---
-status: publie
-published: false
+layout: post
 title: Grass Widow's Fried Egg
 description: Voici le clip de {Fried Egg} de {{Grass Widow}}.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 697
 date: '2010-09-06 18:09:00 +0200'
 categories:
 - Catégories
 tags:
 - Vidéo Clip
-comments: []
 ---
 Voici le clip de *Fried Egg* de __Grass Widow__.
 

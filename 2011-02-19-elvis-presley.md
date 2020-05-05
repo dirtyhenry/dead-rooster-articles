@@ -1,20 +1,12 @@
 ---
-status: publie
-published: false
+layout: post
 title: Elvis Presley
 description: Cette semaine, dans l'Encyclopédie Approximative du Rock and Roll, du
   lourd, du très lourd (du trop lourd ?). Messieurs-dames, Elvis !!!
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 768
 date: '2011-02-19 10:47:29 +0100'
-categories: []
-tags: []
 comments:
 - author: Dirty Henry
   author_email: dirtyhenry@gmail.com

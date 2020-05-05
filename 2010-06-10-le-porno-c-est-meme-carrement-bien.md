@@ -1,23 +1,16 @@
 ---
-status: publie
-published: false
+layout: post
 title: Le porno, c'est même carrément bien
 description: "{{The New Pornographers}} sortent un nouveau single. Et il est encore
   très bien..."
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 627
 date: '2010-06-10 12:06:42 +0200'
 categories:
 - Catégories
 tags:
 - Single
-comments: []
 ---
 [Le précédent single des __New Pornographers__ était déjà très bien->611], le nouveau, *The Crash Years*, est même encore mieux et dispose d'un clip très sympa à base de parapluie qui rappelle à la fois je ne sais plus quel film coréen de ces dernières années et la fin du générique de *Juliette, je t'aime*.
 

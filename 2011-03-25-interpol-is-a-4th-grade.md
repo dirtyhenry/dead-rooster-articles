@@ -1,22 +1,13 @@
 ---
-status: publie
-published: false
+layout: post
 title: Interpol is a 4th grade
 description: Go and see Interpol in 2011 is a multi-faces experience. You face one
   of the best bands of the past decade, you realize you didn't have a chance to say
   bye to Carlos D., you feel old... but you feel good.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 807
 date: '2011-03-25 17:38:16 +0100'
-categories: []
-tags: []
-comments: []
 ---
 {*2011, March 15th. Zénith, Paris, France*} The concert is about to start. Matthew Dear convinced us to wait for it from the bar, drinking expensive cheap beer. Five suited-up guys enter a foggy stage, something they may have learned when they were opening for U2 a few months ago. Three founding members of the band are still there : Paul Banks aka Julian Plenti, vocals, Daniel Kessler, guitars, and Sam Fogarino, drums[[alright, the very first drummer of the band was Greg Drudy, you're right]]. Farewell dear Carlos D., bass player and [full-time candidate for the world most classy person position->http://www.google.fr/images?q=carlos+d+interpol]. Less than one year ago, he was replaced on stage by Brandon Curtis (keyboards and backing vocals) and David Pajo (bass)... who's just announced he was off the ship, being last-minute replaced by Brad Truax whose resume just sums up two weeks of this Interpol job.
 

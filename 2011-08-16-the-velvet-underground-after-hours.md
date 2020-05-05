@@ -1,18 +1,10 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Velvet Underground - After Hours
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 880
 date: '2011-08-16 10:29:49 +0200'
-categories: []
-tags: []
 comments:
 - author: Joe Gantdelaine
   author_email: ''

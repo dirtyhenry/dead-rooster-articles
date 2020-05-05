@@ -1,14 +1,8 @@
 ---
-status: publie
-published: false
+layout: post
 title: L'orage bleu
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 208
 date: '2008-06-16 23:01:52 +0200'
 categories:
@@ -17,7 +11,6 @@ categories:
 tags:
 - Albums
 - Dennis Wilson
-comments: []
 ---
 Chœurs plombés. Piano grave. Rythmiques pesantes. Plus question de la légèreté (apparente) des albums où __Dennis Wilson__ n'était que le batteur au service des compos de ses frères. Ici, ni sons d'animaux, ni sourire.
 

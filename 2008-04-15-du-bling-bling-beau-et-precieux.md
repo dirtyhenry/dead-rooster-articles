@@ -1,14 +1,8 @@
 ---
-status: publie
-published: false
+layout: post
 title: Du bling bling beau et précieux !
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 204
 date: '2008-04-15 13:39:38 +0200'
 categories:
@@ -17,7 +11,6 @@ categories:
 tags:
 - Albums
 - Supergrass
-comments: []
 ---
 Souvenous-nous, 1994-1996. La Britpop fait rage sur tous les fronts. D'innombrables groupes émergent chaque semaine et s'affichent en couverture du NME. Puis c'est la fin. On oublie Cast, Kula Shaker ou Ocean Colour Scene aussi vite qu'ils étaient apparus.
 

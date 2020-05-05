@@ -1,24 +1,17 @@
 ---
-status: publie
-published: false
+layout: post
 title: 'Arrested Development : le film'
 description: Une nouvelle saison et un film adapté d'{Arrested Development} viennent
   d'être annoncés. Si vous n'êtes pas excité par cette annonce, c'est probablement
   parce que vous ne connaissez pas la série. Introduction.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 934
 date: '2011-10-20 17:24:42 +0200'
 categories:
 - Catégories
 tags:
 - TV Show
-comments: []
 ---
 Une nouvelle saison et un film adapté d'*Arrested Development* viennent d'être annoncés. Si vous n'êtes pas excité par cette annonce, vous avez sans doute besoin de lire ce qui suit.
 

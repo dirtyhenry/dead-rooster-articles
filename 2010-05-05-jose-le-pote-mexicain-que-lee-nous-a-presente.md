@@ -1,23 +1,16 @@
 ---
-status: publie
-published: false
+layout: post
 title: Jose, le pote mexicain que Lee nous a présenté
 description: L'actualité c'est bien. Mais réécouter les trésors des décennies précédentes
   c'est pas mal non plus... Have you met Jose ?
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 610
 date: '2010-05-05 13:39:03 +0200'
 categories:
 - Catégories
 tags:
 - Trésor Pop
-comments: []
 ---
 {*Lee Hazlewood*} est un génie, certes complètement décédé, mais qui a écrit des tubs universellement connus (parmi lesquels [*These Boots Are Made For Walkin*->http://www.youtube.com/watch?v=yRkovnss7sg] pour Nancy Sinatra) sans que son nom n'arrive à atteindre une aussi grosse notoriété.
 

@@ -1,21 +1,14 @@
 ---
-status: publie
-published: false
+layout: post
 title: She & Him live @Morning Becomes Eclectic
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 580
 date: '2010-03-26 20:15:39 +0100'
 categories:
 - Artistes
 tags:
 - She & Him
-comments: []
 ---
 Cette semaine, __She & Him__ était de passage dans l'émission [Morning Becomes Eclectic->http://www.kcrw.com/music/programs/mb] de la radio californienne KCRW.
 

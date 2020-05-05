@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Valérie Leulliot au café de la danse
 author:
   display_name: ''
@@ -16,7 +15,6 @@ tags:
 - Concert
 - Autour de Lucie
 - Valérie Leulliot
-comments: []
 ---
 Cher journal,
 

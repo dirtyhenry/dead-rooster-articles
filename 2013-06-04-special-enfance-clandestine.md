@@ -1,19 +1,10 @@
 ---
-status: publie
-published: false
+layout: post
 title: Spécial Enfance Clandestine
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1242
 date: '2013-06-04 11:30:00 +0200'
-categories: []
-tags: []
-comments: []
 ---
 Petit tour du côté du ciné aujourd'hui avec 2 titres extraits du recommandé film [*Enfance Clandestine*->http://www.allocine.fr/film/fichefilm_gen_cfilm=191079.html].
 

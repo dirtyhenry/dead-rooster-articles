@@ -1,23 +1,16 @@
 ---
-status: publie
-published: false
+layout: post
 title: Rêvons d'un autre monde
 description: "{{Mystery Jets}} s'apprête à sortir son 3ème album. Voici le clip du
   1er single qui en est extrait : {Dreaming Of Another World}."
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 629
 date: '2010-06-16 09:49:37 +0200'
 categories:
 - Catégories
 tags:
 - Single
-comments: []
 ---
 {*Mystery Jets*} s'apprête à sortir son 3ème album, *Serotonin*, le 5 juillet prochain, et offre déjà un clip pour son 1er single *Dreaming Of Another World* à voir ci dessous, et [qui n'est pas une reprise de Telephone->http://www.youtube.com/watch?v=-mdyFdgUNfI].
 

@@ -1,21 +1,13 @@
 ---
-status: publie
-published: false
+layout: post
 title: Mardi investigation
 description: Et si la façon la plus simple de perdre encore plus de temps qu'en regardant
   simplement des clips sur internet était de chercher à tout prix à créer un lien
   entre ces vidéos ?
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 723
 date: '2010-11-17 01:14:46 +0100'
-categories: []
-tags: []
 comments:
 - author: Julio, là
   author_email: ''

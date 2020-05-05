@@ -1,21 +1,14 @@
 ---
-status: publie
-published: false
+layout: post
 title: 'Ciné-Club moi j''vous dis #01'
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 534
 date: '2009-10-06 22:08:36 +0200'
 categories:
 - Catégories
 tags:
 - Cinéma
-comments: []
 ---
 {* {Casablanca*, œuvre magistrale ! *Le Cuirassé Potemkine*, n'en parlons même pas ! Quant à *Citizen Kane*, le meilleur de tous ! Ok, mais comment faire pour voir ces films anciens, boudés par la télé et trop peu repris par les cinémas ? Pour ma part, la solution a été un abonnement à un service de location de DVD en ligne : Glowria. Trois DVD par mois dont voici détaillée la livrée de septembre...}}
 

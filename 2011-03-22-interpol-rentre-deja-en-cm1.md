@@ -1,17 +1,11 @@
 ---
-status: publie
-published: false
+layout: post
 title: Interpol rentre déjà en CM1
 description: Voir Interpol en 2011, c'est voir un des meilleurs groupes de la décennie
   passée, ne pas avoir eu la chance de dire au revoir à Carlos D, prendre un petit
   coup de vieux, mais aimer ça finalement.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 802
 date: '2011-03-22 09:31:07 +0100'
 categories:
@@ -20,7 +14,6 @@ categories:
 tags:
 - Concert
 - Interpol
-comments: []
 ---
 {*Mardi 15 mars 2011. Zénith de Paris.*} C'est bientôt l'heure du concert d'Interpol, que Matthew Dear nous a convaincu d'attendre depuis le bar, une mauvaise bière à la main. Cinq types en costard s'avancent dans la nappe de fumée qui vient d'envahir la scène, un truc qu'ils ont dû apprendre en faisant la première partie de U2 il y a quelques mois. Parmi eux, trois membres d'origine du groupe : Paul Banks aka-Julian Plenti, chanteur, Daniel Kessler, guitariste et Sam Fogarino, batteur[[bon, ok, le vrai premier batteur du groupe s'appelait Greg Drudy mais bon, je simplifie un peu]]. Adios donc Carlos D., bassiste et [candidat permanent au titre d'homme le plus classe du monde->http://www.google.fr/images?q=carlos+d+interpol]. Depuis moins d'un an, il est remplacé sur scène par Brandon Curtis (claviers et choeurs) et David Pajo (basse)... qui vient déjà lui-même de quitter le navire au profit de Brad Truax qui n'a donc que deux petites semaines d'Interpol au compteur.
 

@@ -1,23 +1,16 @@
 ---
-status: publie
-published: false
+layout: post
 title: Les disques de novembre 2011
 description: En novembre, les rééditions sont à l'honneur. Phil Spector et les Beach
   Boys nous font revivre les années 60.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 961
 date: '2011-12-03 18:45:04 +0100'
 categories:
 - Catégories
 tags:
 - Albums
-comments: []
 ---
 <h2>Les 5 étoiles </h2>
 

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: On re-refait le match
 author:
   display_name: ''
@@ -13,7 +12,6 @@ categories:
 - Catégories
 tags:
 - Foot
-comments: []
 ---
 La ligue 1 a repris et Saccomano et ses sbires aussi. Je parle bien entendu du meilleur show radio des dernières années : *On refait le match*.
 

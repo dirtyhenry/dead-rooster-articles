@@ -1,23 +1,16 @@
 ---
-status: publie
-published: false
+layout: post
 title: Les disques de janvier 2012
 description: 'Annonce en fanfare : on présente les disques de janvier en avril parce
   qu''on n''a pas chômé pendant ce temps-là.'
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1021
 date: '2012-04-07 17:24:28 +0200'
 categories:
 - Catégories
 tags:
 - Albums
-comments: []
 ---
 C'est déjà le week-end de Pâques et il est donc plus que temps de présenter les disques écoutés en janvier 2012, non ? Alors oui, plus de 2 mois de retard. Mais pas pour rien...
 

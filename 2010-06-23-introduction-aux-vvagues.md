@@ -1,16 +1,10 @@
 ---
-status: publie
-published: false
+layout: post
 title: Introduction aux vvagues
 description: Wavves est un groupe californien qui s'apprête à sortir son 3ème album,
   {King of the Beach}. En attendant, il propose d'écouter son 1er single.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 635
 date: '2010-06-23 10:24:00 +0200'
 categories:

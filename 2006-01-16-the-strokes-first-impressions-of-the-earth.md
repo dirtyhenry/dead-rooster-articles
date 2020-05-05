@@ -1,14 +1,8 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Strokes - First impressions of the earth
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 275
 date: '2006-01-16 23:03:00 +0100'
 categories:
@@ -17,7 +11,6 @@ categories:
 tags:
 - Albums
 - The Strokes
-comments: []
 ---
 Même les plus distraits et les moins curieux d'entre vous connaissent les __Strokes__, peut-être sans le savoir. Souvenez-vous de la musique de la pub EDF du printemps 2004 à base de vie qui s'écoule et qui boucle (superbe épanadiplose publicitaire qui faisait dire à la moitié des filles de la salle "oh excellent, j'adore cette pub" pendant la fête du cinéma 2004), c'était eux et leur chanson *The end has no end*.
 

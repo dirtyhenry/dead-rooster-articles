@@ -1,19 +1,10 @@
 ---
-status: publie
-published: false
+layout: post
 title: Dinosaur Jr. - Entertainment
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 1203
 date: '2013-03-26 13:40:03 +0100'
-categories: []
-tags: []
-comments: []
 ---
 Dinosaur Jr. reprend le dernier single de Phoenix. Vous avez dit contre-emploi ?
 

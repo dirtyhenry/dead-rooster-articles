@@ -1,14 +1,8 @@
 ---
-status: publie
-published: false
+layout: post
 title: Trop bien la pop
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 326
 date: '2006-08-08 09:44:00 +0200'
 categories:
@@ -18,7 +12,6 @@ tags:
 - Dead Rooster Announcement
 - The (Raymond) Domenek! Strokes’ Cans
 - The Thrills
-comments: []
 ---
 En cette période où la pop, bizarrement, me fait davantage kiffer que le rock'n'roll, je soumets plusieurs points :
 

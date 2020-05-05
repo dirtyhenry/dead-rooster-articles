@@ -1,20 +1,12 @@
 ---
-status: publie
-published: false
+layout: post
 title: Jeff Buckley
 description: Cette semaine, l'encyclopédie vous livre les grandes lignes de la vie
   (et de la mort) d'un mec (approximativement) passionnant.
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 831
 date: '2011-05-07 09:19:21 +0200'
-categories: []
-tags: []
 comments:
 - author: aaaaaaaaaaAAAAAAA
   author_email: aaaaaaaaaaAAAAAAA@gmail.com

@@ -1,18 +1,10 @@
 ---
-status: publie
-published: false
+layout: post
 title: Lino l'est homme
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 993
 date: '2012-02-08 09:32:17 +0100'
-categories: []
-tags: []
 comments:
 - author: Julien
   author_email: guezeg@gmail.com

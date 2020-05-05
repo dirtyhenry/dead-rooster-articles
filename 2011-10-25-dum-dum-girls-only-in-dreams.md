@@ -1,17 +1,11 @@
 ---
-status: publie
-published: false
+layout: post
 title: Dum Dum Girls - Only In Dreams
 description: Les Dum Dum Girls sont souvent dans les chansons du jour et sont aussi
   sur le podcast. Mais parlons-en plus en détail enfin ! Surtout que leur second album,
   {Only In Dreams}, est très très bon.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 936
 date: '2011-10-25 04:07:00 +0200'
 categories:
@@ -20,7 +14,6 @@ categories:
 tags:
 - Albums
 - Dum Dum Girls
-comments: []
 ---
 Quand les Dum Dum Girls sont apparues sur les radars de Dead Rooster, c'était avec [*Jail La La*->588], [très bon morceau->750] et parfait symbole du premier album du groupe, *I Will Be*, courte mais énergique collection de 11 titres qui faisaient tous environ 2:30 et qui a dû rendre fou Phil Spector, dans sa cellule californienne. Du ta-pa-poum, de la guitare basique, une voix féminine avec des effets partout, les influences sont claires : du côté des Dum Dum Girls, on a dû écouter les Ronettes, mais sans doute aussi The Jesus & Mary Chain. L'album n'avait donc pas déçu.
 

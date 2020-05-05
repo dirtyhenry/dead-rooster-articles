@@ -1,14 +1,8 @@
 ---
-status: publie
-published: false
+layout: post
 title: Gallagher comme à la guerre !
-author:
-  display_name: Joe Gantdelaine
-  login: guiguilele
-  email: joe_gant_de_laine@hotmail.com
-  url: ''
-author_login: guiguilele
-author_email: joe_gant_de_laine@hotmail.com
+authors:
+  - Joe Gantdelaine
 wordpress_id: 221
 date: '2008-11-25 01:02:33 +0100'
 categories:
@@ -18,7 +12,6 @@ tags:
 - Concert
 - Albums
 - Oasis
-comments: []
 ---
 Combien de jeux de mots pourris (Noel en Novembre, __Oasis__ : la traversée du désert, Du vague à Liam) ? Combien de critiques narquoises ? Combien de : "Oasis ? Ouais, on les entend plus depuis *Wonderwall* tes potes !" ? Combien de : "Oasis est de retour !" ? Alors qu'ils ne sont jamais partis les frangins.
 
