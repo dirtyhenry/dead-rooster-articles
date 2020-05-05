@@ -5,9 +5,6 @@ authors:
   - Dirty Henry
 wordpress_id: 1225
 date: '2013-05-06 14:19:49 +0200'
-categories: []
-tags: []
-comments: []
 ---
 Ça ne vous avait sûrement pas échappé : Daft Punk est de retour avec *Get Lucky*. C'est pas le core business de Dead Rooster, mais le fun l'est un peu plus. D'où ces 2 vidéos pour vous égayer la journée.
 

@@ -10,7 +10,6 @@ categories:
 - Catégories
 tags:
 - Albums
-comments: []
 ---
 Update : les disques, désormais, c'est un peu en chantier mais c'est [ici->http://app.deadrooster.org/records].
 

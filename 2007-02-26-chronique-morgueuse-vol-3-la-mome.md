@@ -12,7 +12,6 @@ categories:
 - Catégories
 tags:
 - Cinéma
-comments: []
 ---
 Bonjour à vous, cher lecteur de Walk The Line Mag', le mag' qui ne critique que les biographies ciné des chanteurs morts ! Une fois n'est pas coutume, nous parlerons aujourd'hui d'un film sur une putain de frenchy, j'ai nommé __La Môme__...
 

@@ -5,9 +5,6 @@ authors:
   - Dirty Henry
 wordpress_id: 578
 date: '2010-03-25 10:36:53 +0100'
-categories: []
-tags: []
-comments: []
 ---
 Vous vous souvenez de ce groupe composé de John Lennon, Paul McKenzie, Greg Hutchinson and Scottie Pippen ? Ouais, c'était les Beatles !
 

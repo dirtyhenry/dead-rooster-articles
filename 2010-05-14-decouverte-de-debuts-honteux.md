@@ -11,7 +11,6 @@ categories:
 - Artistes
 tags:
 - Keren Ann
-comments: []
 ---
 Quand on cherche l'actualité d'un artiste, en l'occurrence celle de __Keren Ann__, dont on n'a plus vraiment de nouvelle depuis 2007, on peut aussi tomber sur des bribes de son passé... qui mériterait parfois d'être mieux caché.
 

@@ -12,7 +12,6 @@ categories:
 tags:
 - Single
 - MP3
-comments: []
 ---
 Au programme cette semaine, le retour aux affaires de Corin Tucker (ex-[Sleater Kinney->314]) et de Black Mountain, qui sera de passage à la Maroquinerie, à Paris, le 4 octobre.
 

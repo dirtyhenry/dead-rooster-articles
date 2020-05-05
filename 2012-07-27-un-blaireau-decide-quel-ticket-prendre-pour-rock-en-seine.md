@@ -14,7 +14,6 @@ categories:
 - Catégories
 tags:
 - Concert
-comments: []
 ---
 Il serait temps de faire un post sur ce blog, ne serait-ce que pour prouver qu'on existe toujours.
 

@@ -5,9 +5,6 @@ authors:
   - Dirty Henry
 wordpress_id: 354
 date: '2007-01-30 17:17:00 +0100'
-categories: []
-tags: []
-comments: []
 ---
 Enfin quelqu'un fait l'effort de mettre le nez des concepteurs d'affiches de film dans leur caca :
 

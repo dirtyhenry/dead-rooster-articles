@@ -13,7 +13,6 @@ categories:
 - Catégories
 tags:
 - Albums
-comments: []
 ---
 One month ago, Dead Rooster was in Barcelona for the Primavera Festival. This very friday, in the middle afternoon, Joe Gantdelaine and I were sitting in the Parc Central del Poblenou, a satellite stage of the festival. There, we have grass rather than concrete but unexplicably, the vast majority of the festival audience snubs it. A San Miguel cup in hand, comfortably seated in plastic garden chairs, in the shade of the surrounding trees, we watched the concert of the Fresh & Onlys, the authors of the recent *Play It Strange*. The concert convinced us to get it.
 

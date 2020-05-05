@@ -13,7 +13,6 @@ categories:
 tags:
 - Concours Katerine
 - Katerine
-comments: []
 ---
 La reprise de la semaine de __Katerine, Francis et ses peintres__ est [*Déshabillez-moi*->http://www.katerinefrancisetsespeintres.com/28.html], de Juliette Gréco.
 

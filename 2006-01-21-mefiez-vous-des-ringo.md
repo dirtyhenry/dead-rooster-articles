@@ -11,7 +11,6 @@ categories:
 tags:
 - Concert
 - The Libertines
-comments: []
 ---
 Tous les groupes de rock ont leur Ringo, celui qui se fait tout discret, dont la presse se fout, qui est presque anticharismatique et qui doit certainement dormir en pyjama. Les Libertines avaient leur Ringo, le bassiste John Hassal.
 

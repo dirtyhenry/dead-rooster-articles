@@ -12,7 +12,6 @@ categories:
 tags:
 - The Soundtrack Of Our Lives
 - Peter von Poehl
-comments: []
 ---
 Hé les copains, vous vous souvenez ? Y a 2 ans là ! Mais si ! Je vous parlais de mon groupe suédois inconnu (ou pas assez connu) du moment là ! __The Soundtrack Of Our Lives__ ! Non ? Pfff... Bon, [rattrapage pour tout le monde->http://www.deadrooster.org/TSOOL-Nan-toi-tu-soules] ! Après cette lecture fort instructive, j'en suis sûr, vous vous dites : "oui, et alors, quoi maintenant ?" Eh bien, plein de nouveautés concernant la bande à Lars, Niels ou un truc du genre (après vérification, y a un Kalle, un Fredrik, un Björn, j'y étais presque).
 

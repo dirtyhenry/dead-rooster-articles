@@ -5,9 +5,6 @@ authors:
   - Dirty Henry
 wordpress_id: 1177
 date: '2013-02-15 10:00:00 +0100'
-categories: []
-tags: []
-comments: []
 ---
 Beck reprend ici *Sound And Vision*, un titre de David Bowie, entouré de 167 musiciens. Si les 3 premières minutes vous saoulent, c'est sans doute normal, mais celles qui suivent sont top !
 

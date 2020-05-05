@@ -13,7 +13,6 @@ categories:
 tags:
 - Concours Katerine
 - Katerine
-comments: []
 ---
 Trois semaines de reprises de __Katerine, Francis et ses peintres__ à rattraper. Les 3 dernières furent donc...
 

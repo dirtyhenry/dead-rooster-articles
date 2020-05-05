@@ -5,8 +5,6 @@ authors:
   - Dirty Henry
 wordpress_id: 994
 date: '2012-02-10 12:11:56 +0100'
-categories: []
-tags: []
 comments:
 - author: guiguilele
   author_email: ''

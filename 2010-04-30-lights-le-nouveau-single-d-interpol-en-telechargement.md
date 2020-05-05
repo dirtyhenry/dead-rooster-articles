@@ -13,7 +13,6 @@ categories:
 tags:
 - Interpol
 - Single
-comments: []
 ---
 Bientôt 3 ans après l'inégale *Our Love To Admire*, les new-yorkais __Interpol __ devraient être de retour en 2010. Ils ont enregistré leur 4ème album au printemps 2009 mais toujours aucune date de sortie n'a été annoncée.
 

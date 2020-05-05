@@ -6,9 +6,6 @@ authors:
   - Joe Gantdelaine
 wordpress_id: 833
 date: '2011-05-21 10:37:19 +0200'
-categories: []
-tags: []
-comments: []
 ---
 Anciens potes de classe et tous en cursus américain d'un équivalent BEP cheminées et ramonage (d'où leur nom !), les Ramones sont ce que les critiques appelleraient "la figure de proue du punk américain".
 

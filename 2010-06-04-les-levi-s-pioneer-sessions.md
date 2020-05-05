@@ -14,7 +14,6 @@ tags:
 - Téléchargements
 - She & Him
 - Reprise
-comments: []
 ---
 Levi's a récemment ouvert un site, [http://www.levispioneersessions.com/->http://www.levispioneersessions.com/] : deux fois par semaine, un artiste contemporain y offre une reprise d'un titre qui l'a inspiré au téléchargement.
 

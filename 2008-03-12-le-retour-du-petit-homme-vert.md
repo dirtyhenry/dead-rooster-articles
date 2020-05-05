@@ -9,7 +9,6 @@ categories:
 - Artistes
 tags:
 - Adam Green
-comments: []
 ---
 5ème album en 6 ans, pour une carrière solo débutée juste après la vingtaine, Adam Green est ultra-prolifique. En témoigne donc ce *Sixes and Sevens*, rempli jusqu'à plus soif de nouvelles compositions : 20 titres pour l'édition normale, 24 pour l'édition collector, c'est tout de même beaucoup (trop ?).
 

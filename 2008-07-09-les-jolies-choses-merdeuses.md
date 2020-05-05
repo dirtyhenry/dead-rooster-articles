@@ -11,7 +11,6 @@ categories:
 tags:
 - Albums
 - Dirty Pretty Things
-comments: []
 ---
 <p>Comment est-ce possible ? Comment Carl Barât et ses __Dirty Pretty Things __ont-ils pu oser ? Comment après l'excellent *Waterloo to Anywhere* peut-on se dire, même l'instant d'une seconde : "ah tiens, on va sortir ça maintenant ! C'est bien, là ! Hein, les gars, c'est bien là, non ?"</p>
 <p>Sérieusement, ce *Romance at Short Notice* est un raté quasi-intégral ! Et pourtant, on avait bien plus d'affection pour ce brave Carl que pour son ex-acolyte alcoolique et ses Babyshambles, dont le premier album faisait au mieux pleurer sur les cendres des Libertines ; au pire, *Down in Albion* risquait de mettre en panne le système hi-fi, mis à mal par tant de médiocrité. Alors, lorsque surgit l'an dernier *Shooter's Nation* du père Pete, largement mieux que son prédécesseur (en même temps, le contraire eut été impossible...), on s'était dit que le temps, finalement, faisait bien quelque chose à l'affaire, et que les songwriters, y a pas à dire, ils se bonifient avec l'âge.</p>

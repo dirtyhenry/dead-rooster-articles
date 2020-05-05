@@ -13,7 +13,6 @@ tags:
 - Wendy McNeill
 - Sarah Slean
 - Isobel Campbell
-comments: []
 ---
 21 avril 2006. <a href="http://www.cafedeladanse.com">Café de la Danse</a>. Soirée du vendredi du 9ème festival <a href="http://www.lfsm.net/">Les Femmes s'en mêlent</a>. La première à s'élancer sur scène est <a href="http://www.wendymcneill.com/">Wendy McNeill</a>, seule en scène, avec guitare, accordéon et sampleur. Le problème c'est que j'avais déjà vu son set "autosampling + je chante par dessus" auparavant et que si j'avais bien aimé la 1ère fois, là, c'est vraiment sans surprise, répétitif et finalement assez limité donc bref, vivement la suite. Arrive alors <a href="http://www.sarahslean.com/">Sarah Slean</a>, que je connaissais absolument pas, accompagnée d'un quatuor à cordes. Là surprise, si mon a priori était très négatif ("chanteuse à voix" qui s'accompagne au piano pendant que le quatuor s'élance dans les passages tristes), c'est finalement plutôt pas mal. La dame a un charisme assez incroyable, s'amuse avec le public et le concert est finalement bien.
 

@@ -9,6 +9,5 @@ categories:
 - Artistes
 tags:
 - Arcade Fire
-comments: []
 ---
 C'est sur [NPR->http://www.npr.org/templates/story/story.php?storyId=7273765].

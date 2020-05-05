@@ -13,7 +13,6 @@ categories:
 tags:
 - Concours Katerine
 - Katerine
-comments: []
 ---
 Cette semaine, la reprise de __Katerine, Francis et ses peintres__ est [*Sentimental Moi*->http://www.katerinefrancisetsespeintres.com/14.html], un titre qui prouve que Plastic Bertrand a fait autre chose que *Ça plane pour moi* et qui permet à Guy Lux de signer un doublé après [*La Queuleuleu* de la semaine dernière->583].
 

@@ -5,9 +5,6 @@ authors:
   - Joe Gantdelaine
 wordpress_id: 620
 date: '2010-05-21 12:18:44 +0200'
-categories: []
-tags: []
-comments: []
 ---
 La nouvelle édifiante est [lisible->http://www.lequipe.fr/Voile/breves2010/20100520_175231_crepes-whaou-s-echappe.html] dans les colonnes de *L'équipe*. Je cite : "*Crêpes Whaou* s'échappe".
 

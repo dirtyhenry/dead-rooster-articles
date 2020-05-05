@@ -7,9 +7,6 @@ authors:
   - Joe Gantdelaine
 wordpress_id: 765
 date: '2011-03-19 10:23:43 +0100'
-categories: []
-tags: []
-comments: []
 ---
 Tout comme Dalida, __Claude François__, de son vrai nom Clodiris Fransosiris est né au Caire. Très bon batteur et danseur, il pense depuis la plus tendre enfance à une carrière artistique. Pour son arrivée en France, il change de nom, trouve 3-4 filles sexys qu'il habille de tenues pailletées, et hop, c'est parti !
 

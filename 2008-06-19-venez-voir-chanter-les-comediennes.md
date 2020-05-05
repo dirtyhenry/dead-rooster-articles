@@ -10,7 +10,6 @@ categories:
 tags:
 - She & Him
 - Zooey Deschanel
-comments: []
 ---
 Certains matins, des actrices se lèvent avec une énorme envie de chanter. C'est comme ça. Inutile de s'en lamenter, ça ne changera rien. Parfois même, ce sont les actrices les plus classes qui s'y collent. Cette année, par exemple, __Scarlett Johansson__ et __Zooey Deschanel__ (quel nom !) sont sorties du bois.
 

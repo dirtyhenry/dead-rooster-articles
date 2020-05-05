@@ -11,7 +11,6 @@ categories:
 tags:
 - Concert
 - Neil Young
-comments: []
 ---
 {*Neil Young*}, ou l'essence même de l'artiste transgénérationnel, au sens où nos parents écoutaient déjà *Harvest* sur l'autoradio de leur R5 qui sentait encore le neuf quand ils partaient en vacances en 73 à Font-Romeu.
 

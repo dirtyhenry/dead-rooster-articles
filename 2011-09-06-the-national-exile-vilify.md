@@ -9,7 +9,6 @@ categories:
 - Artistes
 tags:
 - The National
-comments: []
 ---
 <iframe width="540" height="333" src="http://www.youtube.com/embed/M4X6q7rKGd0" frameborder="0" allowfullscreen></iframe>
 

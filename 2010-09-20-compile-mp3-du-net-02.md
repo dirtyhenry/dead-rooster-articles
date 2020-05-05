@@ -12,7 +12,6 @@ categories:
 tags:
 - Single
 - MP3
-comments: []
 ---
 Au programme cette semaine, __The Shins__ reprennent un titre du groupe Squeeze, __The Walkmen__ sont de retour et la belle découverte __Beach Fossils__.
 

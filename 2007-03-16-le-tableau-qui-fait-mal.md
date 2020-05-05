@@ -9,6 +9,5 @@ categories:
 - Catégories
 tags:
 - Foot
-comments: []
 ---
 Les clubs français sont nuls. Le monde va mal !

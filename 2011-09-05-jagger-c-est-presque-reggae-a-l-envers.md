@@ -9,6 +9,5 @@ categories:
 - Catégories
 tags:
 - Trucs marrants
-comments: []
 ---
 Mick Jagger fait partie d'un nouveau groupe, SuperHeavy, et [leur musique->http://www.youtube.com/watch?v=MTF7T1Nw5OU] est super lourde. Le monde va mal !

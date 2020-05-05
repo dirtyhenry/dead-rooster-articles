@@ -9,7 +9,6 @@ categories:
 - Catégories
 tags:
 - Trucs marrants
-comments: []
 ---
 Ouais, ouais, t'es pas trop mauvais, ça passe...
 

@@ -9,6 +9,5 @@ categories:
 - Artistes
 tags:
 - Bob Dylan
-comments: []
 ---
 Je viens de finir la biographie de Bob Dylan par François Bon et il n'y a qu'à peine deux lignes sur Hugues Aufray ! J'espère qu'il parlera un peu plus de Johnny s'il fait la biographie d'Hendrix parce que là... Le monde va mal !

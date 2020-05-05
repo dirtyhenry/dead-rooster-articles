@@ -13,7 +13,6 @@ categories:
 tags:
 - Concours Katerine
 - Katerine
-comments: []
 ---
 Cette semaine, la reprise de __Katerine, Francis et ses peintres__ est [*La Queuleuleu*->http://www.katerinefrancisetsespeintres.com/13.html], le fameux titre de Bézu et dont l'auteur est... Guy Lux.
 

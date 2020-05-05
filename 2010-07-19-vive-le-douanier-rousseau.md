@@ -13,7 +13,6 @@ categories:
 tags:
 - Concours Katerine
 - Katerine
-comments: []
 ---
 La reprise de la semaine de __Katerine, Francis et ses peintres__ est [*Vive le Douanier Rousseau*->http://www.katerinefrancisetsespeintres.com/29.html], de la Compagnie Créole.
 

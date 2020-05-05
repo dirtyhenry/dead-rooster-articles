@@ -12,7 +12,6 @@ categories:
 - Catégories
 tags:
 - Trucs marrants
-comments: []
 ---
 Pour fêter son premier anniversaire, le site très fun [Learn Something Every Day->http://cargocollective.com/learnsomethingeveryday] vient de publier une vidéo.
 

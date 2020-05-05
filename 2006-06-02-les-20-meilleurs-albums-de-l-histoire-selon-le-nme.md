@@ -9,7 +9,6 @@ categories:
 - Artistes
 tags:
 - Oasis
-comments: []
 ---
 Un sondage sur NME.com a donné le résultat suivant :
 

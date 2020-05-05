@@ -15,7 +15,6 @@ tags:
 - Geek
 - Trucs marrants
 - Fun Friday
-comments: []
 ---
 Le vendredi, le fun est de bon aloi. Cette semaine : ton grand-père et ses chiens, Indiana Jones, James Mercer et des métalleux jouent au tir à la corde.
 

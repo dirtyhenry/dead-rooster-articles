@@ -7,8 +7,6 @@ authors:
   - Joe Gantdelaine
 wordpress_id: 820
 date: '2011-11-05 09:23:36 +0100'
-categories: []
-tags: []
 comments:
 - author: J. Prince de S.
   author_email: joan.gexfabry@gmail.com

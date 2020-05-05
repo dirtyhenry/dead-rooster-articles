@@ -7,9 +7,6 @@ authors:
   - Dirty Henry
 wordpress_id: 673
 date: '2010-08-06 12:06:20 +0200'
-categories: []
-tags: []
-comments: []
 ---
 Avant d'entamer sa carrière de musicien, Jean-Pierre Caca avait gagné une première réputation en tant que journaliste. Pour nous, il ouvre ses archives. Ainsi, commençons par cette article de la période 2001-2004 consacré à la trop méconnue soirée des Cacas d'Or, jadis publié dans le journal Le Reuveu.
 

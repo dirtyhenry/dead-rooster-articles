@@ -14,7 +14,6 @@ tags:
 - Concours Katerine
 - Trucs marrants
 - Katerine
-comments: []
 ---
 Faisons le point sur les 4 dernières semaines.
 

@@ -13,7 +13,6 @@ categories:
 tags:
 - Livre
 - Jonathan Coe
-comments: []
 ---
 Comment parler d'un livre sans trop en dire ? Au sujet de *La vie très privée de Mr Sim* de Jonathan Coe, je vous déconseille déjà de lire la 4ème de couverture, qui en dit beaucoup trop. 
 

@@ -5,9 +5,6 @@ authors:
   - Dirty Henry
 wordpress_id: 1220
 date: '2013-04-17 10:00:00 +0200'
-categories: []
-tags: []
-comments: []
 ---
 Second extrait de *Trouble Will Find Me* : la sortie approche !
 

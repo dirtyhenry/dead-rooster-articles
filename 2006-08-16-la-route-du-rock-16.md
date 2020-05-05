@@ -12,7 +12,6 @@ tags:
 - Concert
 - Katerine
 - Franz Ferdinand
-comments: []
 ---
 Amis malouins et malouines, merci de m'avoir accueilli dans votre repaire de corsaires du rock pour la 16ème édition de votre festival.
 

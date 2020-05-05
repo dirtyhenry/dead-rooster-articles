@@ -9,8 +9,6 @@ authors:
   - Dirty Henry
 wordpress_id: 789
 date: '2011-02-24 17:27:44 +0100'
-categories: []
-tags: []
 comments:
 - author: Dirty Henry
   author_email: dirtyhenry@gmail.com

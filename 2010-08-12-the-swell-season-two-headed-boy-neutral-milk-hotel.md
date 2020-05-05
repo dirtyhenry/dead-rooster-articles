@@ -10,7 +10,6 @@ categories:
 - Catégories
 tags:
 - Reprise
-comments: []
 ---
 Le concept du AV Club's Undercover est d'avoir une liste de 25 titres de reprise. Ils invitent ensuite 25 groupes qui à tour de rôle choisissent le titre qu'ils souhaitent reprendre jusqu'à ce qu'il n'y ait plus rien dans la liste.
 

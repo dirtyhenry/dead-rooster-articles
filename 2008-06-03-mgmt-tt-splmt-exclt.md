@@ -13,7 +13,6 @@ tags:
 - Albums
 - MGMT
 - Florence + The Machine
-comments: []
 ---
 La première écoute de *Time To Pretend* avait été une révélation. Peut-être le meilleur single depuis *Take Me Out* de Franz Ferdinand. L'auteur de ce tube ? __MGMT__, à prononcer management, soit Andrew et Ben, deux jeunes gens de Brooklyn.
 

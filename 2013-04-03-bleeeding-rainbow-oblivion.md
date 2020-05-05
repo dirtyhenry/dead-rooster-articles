@@ -5,9 +5,6 @@ authors:
   - Dirty Henry
 wordpress_id: 1209
 date: '2013-04-03 10:53:49 +0200'
-categories: []
-tags: []
-comments: []
 ---
 Après la sortie de *Yeah Right*, mes chouchous publient Oblivion, single extrait des sessions de l'album. Toujours aussi bon.
 

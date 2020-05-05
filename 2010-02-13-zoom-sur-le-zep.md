@@ -18,7 +18,6 @@ categories:
 tags:
   - Livre
   - Led Zeppelin
-comments: []
 ---
 
 {_Led Zeppelin_}, avec deux 'p' et un 'l', est un groupe de rock'n'roll, fondé

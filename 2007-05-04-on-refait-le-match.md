@@ -10,7 +10,6 @@ categories:
 tags:
 - Fun Friday
 - Foot
-comments: []
 ---
 <blockquote>Une équipe qui a Cubilier dans ses rangs ne peut pas être fondamentalement bonne.</blockquote>
 

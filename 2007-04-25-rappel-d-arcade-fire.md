@@ -9,7 +9,6 @@ categories:
 - Artistes
 tags:
 - Arcade Fire
-comments: []
 ---
 Lors de leur 1er soir à l'Olympia, cette année, les chanceux ont pu avoir un rappel intimiste que n'ont pas eu ceux du lendemain... Pour se rattraper <i>In The Backseat</i> :
 

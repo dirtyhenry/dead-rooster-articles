@@ -9,7 +9,6 @@ categories:
 - Artistes
 tags:
 - The Beatles
-comments: []
 ---
 2009 fut une année Beatles. Comme tous les ans depuis 1960, d'accord et merci bien, mais 2009 encore davantage avec la sortie des insuffisants coffrets "intégrale mono/stéréo" (qui pourraient alimenter - et alimentent effectivement - des débats interminables sur sa qualité et sa pertinence) ainsi que le *Good Evening Tour* de __Paul McCartney__ qu'il est, je pense, inutile et insultant de présenter. Le 10 décembre dernier, la tournée passait à Paris, au Palais Omnisports de Bercy. J'y allai.
 

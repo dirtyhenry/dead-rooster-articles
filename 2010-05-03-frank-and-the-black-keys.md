@@ -12,7 +12,6 @@ categories:
 tags:
 - Single
 - The Black Keys
-comments: []
 ---
 Le nouvel album débarque le 18 mai. En attendant, les __Black Keys__ se marrent bien et nous aussi, avec les clips des deux premiers titres issus de *Brothers* : [Tighten Up->http://www.youtube.com/watch?v=DNXwicxlsvI] et [Next Girl->http://www.youtube.com/watch?v=x_PrT25o8Vs]. Frank est fun(ky) et les filles, euh...jolies !
 

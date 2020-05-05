@@ -11,7 +11,6 @@ categories:
 - Catégories
 tags:
 - Trésor Pop
-comments: []
 ---
 {*Lee Hazlewood*} est un génie, certes complètement décédé, mais qui a écrit des tubs universellement connus (parmi lesquels [*These Boots Are Made For Walkin*->http://www.youtube.com/watch?v=yRkovnss7sg] pour Nancy Sinatra) sans que son nom n'arrive à atteindre une aussi grosse notoriété.
 

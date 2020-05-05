@@ -13,7 +13,6 @@ categories:
 tags:
 - Concours Katerine
 - Katerine
-comments: []
 ---
 La reprise de la semaine de __Katerine, Francis et ses peintres__ est [*Saga Africa*->http://www.katerinefrancisetsespeintres.com/23.html], de Yannick Noah.
 

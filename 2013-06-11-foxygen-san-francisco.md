@@ -5,9 +5,6 @@ authors:
   - Dirty Henry
 wordpress_id: 1244
 date: '2013-06-11 10:53:11 +0200'
-categories: []
-tags: []
-comments: []
 ---
 On avait vu passer la vidéo de [*No Destruction*->1230], celle-là, on était passé à côté. Dont acte.
 

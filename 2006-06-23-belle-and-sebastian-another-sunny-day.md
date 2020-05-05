@@ -9,6 +9,5 @@ categories:
 - Artistes
 tags:
 - Belle and Sebastian
-comments: []
 ---
 <iframe width="420" height="315" src="http://www.youtube.com/embed/8CPLNyopyOg" frameborder="0" allowfullscreen></iframe>

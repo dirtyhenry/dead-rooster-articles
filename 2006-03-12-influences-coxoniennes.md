@@ -9,7 +9,6 @@ categories:
 - Artistes
 tags:
 - Graham Coxon
-comments: []
 ---
 A l'occasion de la sortie de son album *Love travels at illegal speed*, Graham Coxon a donné une liste d'influences sur lesquelles, je pense, il doit valoir le coup de se pencher :
 

@@ -15,7 +15,6 @@ tags:
 - Fun Friday
 - Wes Anderson
 - Queen
-comments: []
 ---
 Le vendredi, le fun est de bon aloi. Cette semaine, de la bière et du foot, de la musique et un chien. Programme idéal.
 

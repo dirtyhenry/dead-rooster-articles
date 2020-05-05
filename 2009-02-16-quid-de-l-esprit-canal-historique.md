@@ -5,8 +5,6 @@ authors:
   - Dirty Henry
 wordpress_id: 489
 date: '2009-02-16 12:20:00 +0100'
-categories: []
-tags: []
 comments:
 - author: Biboulos
   author_email: ''

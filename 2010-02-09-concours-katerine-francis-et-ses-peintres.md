@@ -14,7 +14,6 @@ categories:
 tags:
 - Concours Katerine
 - Katerine
-comments: []
 ---
 <span style="color:#009;">__Edit__ : 2010, c'est fini, le concours est terminé !</span>
 

@@ -7,8 +7,6 @@ authors:
   - Dirty Henry
 wordpress_id: 761
 date: '2011-01-19 23:19:52 +0100'
-categories: []
-tags: []
 comments:
 - author: ''
   author_email: ''

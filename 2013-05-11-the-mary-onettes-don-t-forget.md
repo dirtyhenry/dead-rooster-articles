@@ -5,9 +5,6 @@ authors:
   - Joe Gantdelaine
 wordpress_id: 1229
 date: '2013-05-11 10:25:00 +0200'
-categories: []
-tags: []
-comments: []
 ---
 On change légèrement par rapport aux deux dernières chansons du jour : "Vive l'album !"
 

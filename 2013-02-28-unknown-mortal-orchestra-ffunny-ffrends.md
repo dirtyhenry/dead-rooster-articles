@@ -5,9 +5,6 @@ authors:
   - Joe Gantdelaine
 wordpress_id: 1186
 date: '2013-02-28 11:13:14 +0100'
-categories: []
-tags: []
-comments: []
 ---
 <div style="max-width:100%;"><iframe src="http://www.youtube.com/embed/c-36lCKovBg" frameborder="0" allowfullscreen></iframe></div>
 

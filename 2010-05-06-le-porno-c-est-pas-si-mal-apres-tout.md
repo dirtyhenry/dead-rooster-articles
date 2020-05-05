@@ -11,7 +11,6 @@ categories:
 - Catégories
 tags:
 - Single
-comments: []
 ---
 {*The New Pornographers*} est un “super-groupe”, c'est-à-dire super au sens "composé de membres qui ont tous un autre groupe par ailleurs" ([leur page Wikipedia en donne le détail->http://fr.wikipedia.org/wiki/The_New_Pornographers]).
 

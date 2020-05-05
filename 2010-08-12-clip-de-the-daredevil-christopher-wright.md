@@ -11,7 +11,6 @@ categories:
 - Catégories
 tags:
 - Single
-comments: []
 ---
 The Daredevil Christopher Wright est un groupe du Wisconsin qui sera de passage en France à la rentrée pour plusieurs date dont le 18 septembre à Paris. J'y serai.
 

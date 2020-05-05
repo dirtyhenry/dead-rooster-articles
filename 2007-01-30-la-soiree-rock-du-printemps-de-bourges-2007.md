@@ -5,9 +5,6 @@ authors:
   - Dirty Henry
 wordpress_id: 355
 date: '2007-01-30 17:20:00 +0100'
-categories: []
-tags: []
-comments: []
 ---
 C'est mi-figue, mi-raisin cette année.
 

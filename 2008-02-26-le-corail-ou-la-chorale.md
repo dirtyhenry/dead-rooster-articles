@@ -9,7 +9,6 @@ categories:
 - Artistes
 tags:
 - The Coral
-comments: []
 ---
 Louis Dumur a déclaré un jour : "Une injustice dont nous profitons s'appelle la chance; une injustice dont un autre profite s'appelle un scandale."
 

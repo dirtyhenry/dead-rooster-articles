@@ -5,9 +5,6 @@ authors:
   - Dirty Henry
 wordpress_id: 1245
 date: '2013-06-11 12:00:00 +0200'
-categories: []
-tags: []
-comments: []
 ---
 King Khan & The Shrines seront de retour cet automne avec un nouvel album *Idle No More*.
 

@@ -8,9 +8,6 @@ authors:
   - Dirty Henry
 wordpress_id: 1159
 date: '2013-01-15 10:00:00 +0100'
-categories: []
-tags: []
-comments: []
 ---
 Il y a quelques semaines, par téléphone : 
 

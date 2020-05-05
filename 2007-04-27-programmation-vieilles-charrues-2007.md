@@ -12,7 +12,6 @@ categories:
 - Artistes
 tags:
 - Herman Düne
-comments: []
 ---
 Ça y est <a href="http://www.vieillescharrues.asso.fr/festival/index.php">la programmation est tombée</a>.
 

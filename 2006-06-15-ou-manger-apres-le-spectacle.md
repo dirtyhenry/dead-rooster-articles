@@ -9,7 +9,6 @@ categories:
 - Catégories
 tags:
 - Sorties
-comments: []
 ---
 La __fête de la musique__ approche mais que faire pour cette soirée ?
 

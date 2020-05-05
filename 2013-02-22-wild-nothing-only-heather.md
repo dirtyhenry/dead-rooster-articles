@@ -5,9 +5,6 @@ authors:
   - Dirty Henry
 wordpress_id: 1183
 date: '2013-02-22 10:00:00 +0100'
-categories: []
-tags: []
-comments: []
 ---
 {Only Heather}, de Wild Nothing, titre issu de leur 2nd LP *Nocturne*.
 

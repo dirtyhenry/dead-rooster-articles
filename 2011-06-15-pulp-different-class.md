@@ -17,7 +17,6 @@ categories:
 tags:
 - Albums
 - Pulp
-comments: []
 ---
 Comment adapter une chanson de Renaud pour en faire un hymne absolu du rock indé ? Comment de grande tige malingre peut-on devenir songwriter adulé ? Comment cristalliser pour l'éternité les questions intimes de tous les adolescents ou anciens adolescents tout en leur donnant l'occasion d'agiter sans complexe leur corps maladroit ? Jarvis Cocker et son groupe Pulp ont donné la réponse à ces questions en octobre 1995 avec leur album *Different Class*.
 

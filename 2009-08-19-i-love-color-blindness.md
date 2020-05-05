@@ -9,7 +9,6 @@ categories:
 - Catégories
 tags:
 - Dead Rooster Announcement
-comments: []
 ---
 Un nouveau tee-shirt vient d'être ajouté à la boutique Dead Rooster. Plus que quelques jours pour être fashion cet été les enfants !
 

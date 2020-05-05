@@ -12,7 +12,6 @@ categories:
 tags:
 - Albums
 - Fountains of Wayne
-comments: []
 ---
 {*Fountains of Wayne*} sort un nouvel album. Wouhouhou !!! Hum... Loin de ma morgue habituelle, je suis un peu obligé de pousser un cri d'enthousiasme... Vous rendez-vous compte ? Fountains of Wayne ! Pour l'instant responsables de 3 albums géniaux, magistraux, formidaux (avec un coup de coeur perso pour *Utopia Parkway*). Mais mettons plutôt le disque sur la platine laser et appuyons fébrilement, il va s'en dire, sur lecture. Une fois, deux fois, dix fois, vingt fois... Bon allez, c'est bon ! Bien imprégné de la nouvelle substance, je vais pouvoir la juger.
 

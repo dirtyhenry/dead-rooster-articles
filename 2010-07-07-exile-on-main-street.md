@@ -11,7 +11,6 @@ categories:
 - Artistes
 tags:
 - The Rolling Stones
-comments: []
 ---
 Les __Rolling Stones__ ont récemment sorti une nouvelle réédition d'*Exile On Main Street*, album mythique de 1972.
 

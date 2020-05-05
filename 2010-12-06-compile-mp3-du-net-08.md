@@ -15,7 +15,6 @@ tags:
 - Single
 - MP3
 - Bleeding Rainbow
-comments: []
 ---
 Une sélection des meilleurs MP3 légalement disponibles au téléchargement des dernières semaines. Au programme cette semaine, des gens dont on reparlera très vite : __Reading Rainbow__, __The Notes__ et __Surfer Blood__. 
 

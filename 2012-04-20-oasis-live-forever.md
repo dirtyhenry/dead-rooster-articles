@@ -9,6 +9,5 @@ categories:
 - Artistes
 tags:
 - Oasis
-comments: []
 ---
 <iframe width="540" height="396" src="http://www.youtube.com/embed/R2poqYvWsyU" frameborder="0" allowfullscreen></iframe>

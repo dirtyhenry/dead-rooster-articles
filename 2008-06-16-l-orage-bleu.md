@@ -11,7 +11,6 @@ categories:
 tags:
 - Albums
 - Dennis Wilson
-comments: []
 ---
 Chœurs plombés. Piano grave. Rythmiques pesantes. Plus question de la légèreté (apparente) des albums où __Dennis Wilson__ n'était que le batteur au service des compos de ses frères. Ici, ni sons d'animaux, ni sourire.
 

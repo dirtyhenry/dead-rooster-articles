@@ -9,7 +9,6 @@ categories:
 - Catégories
 tags:
 - Trucs marrants
-comments: []
 ---
 Dommage que ce soit une pub...
 

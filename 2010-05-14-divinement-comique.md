@@ -8,8 +8,5 @@ authors:
   - Joe Gantdelaine
 wordpress_id: 617
 date: '2010-05-14 22:15:16 +0200'
-categories: []
-tags: []
-comments: []
 ---
 Le nouvel album de __Divine Comedy__, intitulé *Bang Goes The Knightwood*, est attendu pour le 31 mai. En attendant, on peut déjà admirer la pochette qui, comme souvent pour ce groupe, allie classe et burlesque !

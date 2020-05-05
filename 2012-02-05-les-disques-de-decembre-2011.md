@@ -15,7 +15,6 @@ tags:
 - Albums
 - The Black Keys
 - Fleet Foxes
-comments: []
 ---
 OK, on est déjà en février, mais faut bien trouver le temps de compiler les brouillons. C'est chose faite pour décembre.
 

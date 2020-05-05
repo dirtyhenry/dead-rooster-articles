@@ -12,7 +12,6 @@ categories:
 - Artistes
 tags:
 - Brad Pitt
-comments: []
 ---
 Dans le métro parisien, l'affiche de *L'Assassinat de Jesse James par le lâche Robert Ford* a envahi les murs. Je ne sais pas pourquoi mais j'ai envie d'aimer ce film. Je trouve l'affiche magnifique, avec des couleurs à la fois chaudes et sombres. Une sorte de classe qui donne envie d'appeler Brad Pitt "Blondin" et à l'arrière plan Casey Affleck, très sympathique depuis qu'on l'a vu en révolutionnaire mexicain dans *Ocean's 13*. 
 

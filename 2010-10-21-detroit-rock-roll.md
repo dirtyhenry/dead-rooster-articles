@@ -13,7 +13,6 @@ categories:
 - Artistes
 tags:
 - Soledad Brothers
-comments: []
 ---
 Ben Swank, le batteur des Soledad Brothers, désormais membre de [The See See->http://www.myspace.com/theseeseeband], et pigiste occasionnel pour The Guardian avait réagi en 2008 au visionnage d'un documentaire de la BBC, *Motor City's Burning: Detroit From Motown To The Stooges*.
 

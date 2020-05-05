@@ -9,7 +9,6 @@ categories:
 - Catégories
 tags:
 - Cinéma
-comments: []
 ---
 {Gentille}, c'est l'histoire du couple Fontaine Leglou/Michel Strogoff, lequel a demandé en mariage la première qui ne sait que répondre. 
 

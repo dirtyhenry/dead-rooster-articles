@@ -5,8 +5,6 @@ authors:
   - Joe Gantdelaine
 wordpress_id: 993
 date: '2012-02-08 09:32:17 +0100'
-categories: []
-tags: []
 comments:
 - author: Julien
   author_email: guezeg@gmail.com

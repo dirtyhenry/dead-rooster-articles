@@ -9,7 +9,6 @@ categories:
 - Artistes
 tags:
 - Nada Surf
-comments: []
 ---
 L'histoire entre moi et Nada Surf a véritablement commencé un après-midi de juillet 1997.
 

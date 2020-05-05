@@ -12,7 +12,6 @@ categories:
 tags:
 - Single
 - Téléchargements
-comments: []
 ---
 C'est promis, bientôt j'arrête avec les groupes Dum-Dum-Girls-like, mais là y'en a un dernier pour la route, il s'appelle __Frankie Rose and The Outs__ !
 

@@ -9,7 +9,6 @@ categories:
 - Catégories
 tags:
 - Concert
-comments: []
 ---
 -* __Vendredi__ : Rhésus, Deus, Yann Tiersen, Shout Out Louds, !!!
 -* __Samedi__ : Madness, Jamel, Editors, Hushpuppies, Cali

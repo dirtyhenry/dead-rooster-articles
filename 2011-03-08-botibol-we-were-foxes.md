@@ -5,9 +5,6 @@ authors:
   - Joe Gantdelaine
 wordpress_id: 797
 date: '2011-03-08 08:56:41 +0100'
-categories: []
-tags: []
-comments: []
 ---
 Pas de vidéo cette fois...désolé !
 

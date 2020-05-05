@@ -5,9 +5,6 @@ authors:
   - Dirty Henry
 wordpress_id: 1233
 date: '2013-05-17 15:44:59 +0200'
-categories: []
-tags: []
-comments: []
 ---
 Belle découverte et chouchou du moment, Mikal Cronin vient de sortir son album *MCII*, chaudement recommandé.
 

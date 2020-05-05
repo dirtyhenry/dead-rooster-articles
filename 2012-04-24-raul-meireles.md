@@ -9,6 +9,5 @@ categories:
 - Catégories
 tags:
 - Foot
-comments: []
 ---
 Est-il nécessaire d'en rajouter ? Le monde va mal !

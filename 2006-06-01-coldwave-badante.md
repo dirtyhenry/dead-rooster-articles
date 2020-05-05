@@ -9,7 +9,6 @@ categories:
 - Artistes
 tags:
 - Interpol
-comments: []
 ---
 {Turn on the bright lights} est le premier album d'Interpol et a dû sortir en 2002 (de mémoire). Je l'avais un peu éclipsé au profit de *Antics*, le 2ème album du groupe qui m'avait semblé meilleur à l'époque de sa sortie mais je suis en train de revoir complètement mon jugement car ce premier opus est dingue. 
 

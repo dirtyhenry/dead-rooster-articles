@@ -12,7 +12,6 @@ categories:
 - Artistes
 tags:
 - Keren Ann
-comments: []
 ---
 Sweet et rock'n'roll à la fois, chapeau.
 

@@ -7,8 +7,6 @@ authors:
   - Joe Gantdelaine
 wordpress_id: 844
 date: '2011-07-09 09:43:05 +0200'
-categories: []
-tags: []
 comments:
 - author: Alexia
   author_email: alexia8963@msn.com

@@ -5,9 +5,6 @@ authors:
   - Dirty Henry
 wordpress_id: 1071
 date: '2012-07-06 08:00:00 +0200'
-categories: []
-tags: []
-comments: []
 ---
 <iframe width="540" height="405" src="http://www.youtube.com/embed/alW6358dPxI" frameborder="0" allowfullscreen></iframe>
 

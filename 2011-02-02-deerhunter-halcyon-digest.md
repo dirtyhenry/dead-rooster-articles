@@ -15,7 +15,6 @@ tags:
 - Albums
 - Blur
 - R.E.M.
-comments: []
 ---
 Je sais désormais que faire [le top 2010->747] n'aura pas été vain : il m'a incité à réécouter *Halcyon Digest*, le 4ème album de __Deerhunter__, sorti cette année.
 

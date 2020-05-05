@@ -10,7 +10,6 @@ categories:
 - Catégories
 tags:
 - Cinéma
-comments: []
 ---
 Ce qui manquait aux films de Will Ferrell ? Eva Mendes !
 

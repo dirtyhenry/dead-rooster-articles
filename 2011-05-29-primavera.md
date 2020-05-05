@@ -6,9 +6,6 @@ authors:
   - Joe Gantdelaine
 wordpress_id: 848
 date: '2011-05-29 14:45:08 +0200'
-categories: []
-tags: []
-comments: []
 ---
 Car oui, depuis le rassemblement hippie d'Altamont où paix universelle et amour de son prochain étaient les maîtres-mots, tout amateur de rock and roll se doit d'assister périodiquement à ce genre de grands événements.
 

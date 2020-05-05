@@ -11,7 +11,6 @@ categories:
 - Catégories
 tags:
 - Concours Katerine
-comments: []
 ---
 Cette semaine, la reprise de __Katerine, Francis et ses peintres__ est [*Balade Irlandaise*->http://www.katerinefrancisetsespeintres.com/15.html], de Bourvil.
 

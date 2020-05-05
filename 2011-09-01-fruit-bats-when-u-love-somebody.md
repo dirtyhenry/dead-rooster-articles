@@ -5,9 +5,6 @@ authors:
   - Dirty Henry
 wordpress_id: 896
 date: '2011-09-01 16:29:34 +0200'
-categories: []
-tags: []
-comments: []
 ---
 <iframe src="http://player.vimeo.com/video/46306076?color=ffffff" width="540" height="304" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 

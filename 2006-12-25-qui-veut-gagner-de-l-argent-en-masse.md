@@ -9,6 +9,5 @@ categories:
 - Catégories
 tags:
 - Fun Friday
-comments: []
 ---
 <iframe width="540" height="396" src="http://www.youtube.com/embed/_N_1szXrjhI" frameborder="0" allowfullscreen></iframe>

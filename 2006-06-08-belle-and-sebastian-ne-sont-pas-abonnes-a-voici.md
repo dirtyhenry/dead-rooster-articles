@@ -9,7 +9,6 @@ categories:
 - Artistes
 tags:
 - Belle and Sebastian
-comments: []
 ---
 Stuart, de __Belle and Sebastian__ est un marrant. La preuve ? Cette anecdote, qu'il raconte [sur le site du groupe->http://www.belleandsebastian.com/bandbios.php?MemberName=Stuart] : 
 

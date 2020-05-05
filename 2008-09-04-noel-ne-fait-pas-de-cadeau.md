@@ -10,7 +10,6 @@ categories:
 tags:
 - Oasis
 - The La's
-comments: []
 ---
 Noel Gallagher a diffusé son top 10 de tous les temps : The Beatles, The Rolling Stones, The Who, Sex Pistols, The Kinks, The La's, Pink Floyd, The Bee Gees, The Specials et (Peter Green's) Fleetwood Mac. 
 

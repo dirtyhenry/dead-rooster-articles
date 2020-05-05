@@ -5,9 +5,6 @@ authors:
   - Dirty Henry
 wordpress_id: 1252
 date: '2013-06-25 12:00:00 +0200'
-categories: []
-tags: []
-comments: []
 ---
 Édition "Bleu Blanc Rouge" pour la chanson du jour aujourd'hui. Baden Baden a sorti son album *Coline* en septembre 2012.
 

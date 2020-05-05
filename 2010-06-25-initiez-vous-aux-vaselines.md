@@ -7,9 +7,6 @@ authors:
   - Dirty Henry
 wordpress_id: 637
 date: '2010-06-25 16:55:29 +0200'
-categories: []
-tags: []
-comments: []
 ---
 {*The Vaselines*} est un groupe mythique et inconnu. Pourquoi mythique ? Parce que Nirvana en a fait 3 reprises sans que le mérite en revienne sur ce groupe obscur. Si vous vous êtes un minimum intéressé à Nirvana dans votre vie, vous connaissez peut-être sans le savoir des titres des Vaselines, que ce soit [*Son of a Gun*->http://www.youtube.com/watch?v=B0qIARknhMg] ou [*Jesus doesn't want me for a sunbeam*->http://www.youtube.com/watch?v=RcLM_gqLlYc].
 

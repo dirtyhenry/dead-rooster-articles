@@ -5,9 +5,6 @@ authors:
   - Joe Gantdelaine
 wordpress_id: 1016
 date: '2012-03-28 13:36:14 +0200'
-categories: []
-tags: []
-comments: []
 ---
 Le foot, ça devient n'importe quoi : maintenant, [y a même des joueurs qui se font exclure *après* la rencontre->http://www.lequipe.fr/Football/Actualites/5-joueurs-exclus-apres-un-match/273335]. 
 

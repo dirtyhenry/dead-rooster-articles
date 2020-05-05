@@ -13,7 +13,6 @@ categories:
 tags:
 - Concert
 - The La's
-comments: []
 ---
 Lorsque les La's ont été annoncés à Rock en Seine cette année, ni une, ni deux, ma place était réservée dans les deux minutes. Qui ? Les La's ! Petit rappel... 
 

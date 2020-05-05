@@ -5,8 +5,6 @@ authors:
   - Dirty Henry
 wordpress_id: 1221
 date: '2013-04-18 10:00:00 +0200'
-categories: []
-tags: []
 comments:
 - author: Garorock
   author_email: stagearo@gmail.com

@@ -13,7 +13,6 @@ categories:
 - Catégories
 tags:
 - The DIY Series
-comments: []
 ---
 Les DIY Series sont une nouvelle saga de votre site préféré. Le concept ? Aller à la rencontre de créateurs amateurs et indépendants pour les interroger sur leur motivation, leur mode de fonctionnement. Bref, connaître et faire connaître des techniques de [Do It Yourself->http://fr.wikipedia.org/wiki/Do_it_yourself]. Première rencontre avec __Social Square__.
 

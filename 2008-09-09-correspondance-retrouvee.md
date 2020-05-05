@@ -11,7 +11,6 @@ categories:
 tags:
 - Concert
 - The Notwist
-comments: []
 ---
 Les week-end du 15 août ne sont pas toujours très heureux. Bouchons interminables, jours qui raccourcissent sensiblement, ambiance "fin de vacances" déprimante. Nos archivistes ont retrouvé des fragments d'une correspondance entre Dirty Henry et Guiguilele qui semble montrer que cette période de l'année peut se montrer tout autrement enthousiasmante.
 

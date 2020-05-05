@@ -11,7 +11,6 @@ categories:
 tags:
 - Graham Coxon
 - Foot
-comments: []
 ---
 Ça fait un mois que c'est fini tout ça mais 2 choses sont à retenir :
 

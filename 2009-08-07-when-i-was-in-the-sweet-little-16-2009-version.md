@@ -11,7 +11,6 @@ categories:
 tags:
 - Concert
 - Franz Ferdinand
-comments: []
 ---
 Comme les vaches en transhumance, comme les saumons pas d'élevage, comme les animaux de Panurge (moutons, brebis et toute la smala), il est des périodes dans le calendrier de l'amateur de "musique moderne" qui font qu'une partie de la population converge vers un seul et même lieu.
 Et cette année encore, qui a évoqué le week-end des 17-18 juillet à un amateur de pop, de rock, ou autre musique à guitare ou pas, s'est immédiatement entendu répondre : "Ah, c'est bloqué, je vais à la Garden !". Alors non, tout le monde n'est pas encore sarkophile au point de prolonger les festivités du 14 juillet jusqu'à squatter les jardins présidentiels pendant 4 jours ! Non ! Ici, il faut plutôt comprendre que le festivalier en goguette s'apprête à partir visiter Angoulême, ses églises, ses bars-restaurants, son charme désuet très 70s. Mais surtout sa ferme des Valettes.

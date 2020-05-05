@@ -5,9 +5,6 @@ authors:
   - Dirty Henry
 wordpress_id: 1196
 date: '2013-03-15 08:00:00 +0100'
-categories: []
-tags: []
-comments: []
 ---
 Aujourd'hui, on invite Peter Griffin, qui a quelque chose à dire au sujet de cette vidéo : 
 

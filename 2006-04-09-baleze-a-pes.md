@@ -10,6 +10,5 @@ categories:
 tags:
 - Fun Friday
 - Foot
-comments: []
 ---
 <iframe width="520" height="390" src="http://www.youtube.com/embed/ucav_J_3E30" frameborder="0" allowfullscreen></iframe>

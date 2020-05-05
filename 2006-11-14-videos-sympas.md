@@ -9,7 +9,6 @@ categories:
 - Catégories
 tags:
 - Fun Friday
-comments: []
 ---
 Voici 2 petite vidéos, certes gentilles, mais qui sentent le frais, le printemps ou le mièvre, ce qui ne fait pas de mal une fois de temps en temps...
 

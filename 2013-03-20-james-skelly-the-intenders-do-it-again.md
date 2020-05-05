@@ -5,9 +5,6 @@ authors:
   - Dirty Henry
 wordpress_id: 1199
 date: '2013-03-20 10:31:23 +0100'
-categories: []
-tags: []
-comments: []
 ---
 Le chanteur et principal compositeur de The Coral se lance en solo, soutenu par les Intenders, un backing band comprenant des membres de The Coral, The Sundowners et Tramp Attack.
 

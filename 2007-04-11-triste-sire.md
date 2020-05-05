@@ -9,7 +9,6 @@ categories:
 - Catégories
 tags:
 - Foot
-comments: []
 ---
 John Smith a été retrouvé pendu hier dans un pub miteux de la banlieue mancunienne.
 

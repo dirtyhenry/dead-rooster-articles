@@ -11,7 +11,6 @@ categories:
 - Catégories
 tags:
 - Concours Katerine
-comments: []
 ---
 Cette semaine, la reprise de __Katerine, Francis et ses peintres__ est [*Je ne veux pas rentrer
 chez moi seule*->http://www.katerinefrancisetsespeintres.com/18.html], du très connu groupe Regrets.

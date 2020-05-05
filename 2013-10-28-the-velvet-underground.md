@@ -7,9 +7,6 @@ authors:
   - Joe Gantdelaine
 wordpress_id: 1262
 date: '2013-10-28 09:51:00 +0100'
-categories: []
-tags: []
-comments: []
 ---
 Alors le Velvet Underground, c'est quoi, c'est qui ?
 

@@ -13,7 +13,6 @@ categories:
 tags:
 - Trucs marrants
 - Fun Friday
-comments: []
 ---
 <h2>Die, Sweet Roadrunner, Die</h2>
 

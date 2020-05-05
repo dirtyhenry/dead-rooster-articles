@@ -5,9 +5,6 @@ authors:
   - Dirty Henry
 wordpress_id: 1232
 date: '2013-05-16 13:44:57 +0200'
-categories: []
-tags: []
-comments: []
 ---
 Encore un peu de Dale Earnhardt Jr. Jr., extrait de leur EP *The Patterns*.
 

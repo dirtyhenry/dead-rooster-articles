@@ -5,9 +5,6 @@ authors:
   - Dirty Henry
 wordpress_id: 1215
 date: '2013-04-10 10:00:00 +0200'
-categories: []
-tags: []
-comments: []
 ---
 The National revient bientôt avec un 6ème album *Trouble Will Find Me*. Un premier titre du successeur de [*High Violet*->696] est en écoute ici :
 

@@ -11,7 +11,6 @@ categories:
 tags:
 - Cinéma
 - Ciné-Club moi j’vous dis
-comments: []
 ---
 {__Catégorie "Vieux Films à voir en DVD"__}
 

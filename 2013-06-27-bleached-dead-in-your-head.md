@@ -5,9 +5,6 @@ authors:
   - Dirty Henry
 wordpress_id: 1254
 date: '2013-06-27 12:00:00 +0200'
-categories: []
-tags: []
-comments: []
 ---
 Clip gavé psyché pour cet extrait de *Ride Your Heart*, premier album de Bleached :
 

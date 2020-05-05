@@ -14,7 +14,6 @@ categories:
 tags:
 - Reprise
 - Vidéo Clip
-comments: []
 ---
 Le site est actuellement assez inactif pour cause de séjour prolongé aux Etats-Unis avec connectivité limitée, mais célébrons dignement le mois de décembre par un cadeau digne des meilleurs calendriers de l'avent : une chanson de Noël !
 

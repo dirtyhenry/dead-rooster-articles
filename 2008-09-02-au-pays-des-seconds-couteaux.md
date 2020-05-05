@@ -11,7 +11,6 @@ categories:
 tags:
 - Albums
 - The Outsiders
-comments: []
 ---
 Que peut-on encore attendre des Pays-Bas ? Y a-t-il encore quelque chose à sauver au pays de la tulipe qui fait rire ? Quand la plupart des stéréotypes qui circulent de par le monde font état, au mieux, d'un peuple qui mange du gouda en sabot de bois, et au pire, d'un grand blond qui mange du gouda en scandant qu'il irait bien refaire un tour du côté de chez Swan, l'imagerie actuelle est peu flatteuse pour qui se contente des poncifs modernes.
 

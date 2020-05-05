@@ -11,7 +11,6 @@ categories:
 - Catégories
 tags:
 - Albums
-comments: []
 ---
 Voilà ce qu'on appelle un mec droit dans ses bottes. Loin des modes revivalistes, des sonorités tatapoumesques pour dancefloors ruisselants de sueur, __Connan Mockasin__, future grande pointure, nous offre un premier album hors norme.
 

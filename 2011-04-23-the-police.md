@@ -8,8 +8,6 @@ authors:
   - Joe Gantdelaine
 wordpress_id: 832
 date: '2011-04-23 09:42:32 +0200'
-categories: []
-tags: []
 comments:
 - author: StingFan
   author_email: ''

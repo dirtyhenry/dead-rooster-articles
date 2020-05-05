@@ -11,7 +11,6 @@ categories:
 - Catégories
 tags:
 - Single
-comments: []
 ---
 Le groupe de Memphis __Magic Kids__ nous invite à imaginer qu'on est en Californie dans les années 60.
 

@@ -5,9 +5,6 @@ authors:
   - Dirty Henry
 wordpress_id: 458
 date: '2008-08-20 12:12:00 +0200'
-categories: []
-tags: []
-comments: []
 ---
 Cissé affirmait depuis quelques temps qu'il souhaitait quitter l'OM, qualifié pour la Ligue des Champions, pour retourner dans un club anglais. Mais alors lequel ? Manchester United ? Arsenal ? Liverpool ? Chelsea ? 
 

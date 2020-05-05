@@ -9,6 +9,5 @@ categories:
 - Catégories
 tags:
 - Trucs marrants
-comments: []
 ---
 C'est quoi l'inverse ? Une émission connue avec des chanteurs mauvais ? Le monde va mal !

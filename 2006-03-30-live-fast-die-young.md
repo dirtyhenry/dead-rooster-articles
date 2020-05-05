@@ -9,7 +9,6 @@ categories:
 - Catégories
 tags:
 - Cinéma
-comments: []
 ---
 Bang bang
 _ I shot you down, bang bang

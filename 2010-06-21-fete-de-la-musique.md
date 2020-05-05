@@ -12,7 +12,6 @@ categories:
 - Catégories
 tags:
 - Dead Rooster Announcement
-comments: []
 ---
 {*The Livingstones I Presume*} joueront à l'occasion de la fête de la musique le lundi 21 juin, à Paris, au Val Café, 39 boulevard de Port Royal, dans le XIIIème arrondissement.
 

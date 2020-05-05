@@ -9,7 +9,6 @@ categories:
 - Artistes
 tags:
 - The Black Keys
-comments: []
 ---
 Mardi 27 mai 2008. Bataclan. En avant pour le concert des Black Keys, précédé de 2 premières parties.
 

@@ -5,9 +5,6 @@ authors:
   - Dirty Henry
 wordpress_id: 1257
 date: '2013-07-03 12:00:00 +0200'
-categories: []
-tags: []
-comments: []
 ---
 Ça faisait un bail que Franz Ferdinand avait pas montré le bout de son nez dans nos pages, mais leur 4ème LP est en phase d'atterrissage. 
 

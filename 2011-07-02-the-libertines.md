@@ -7,9 +7,6 @@ authors:
   - Joe Gantdelaine
 wordpress_id: 860
 date: '2011-07-02 09:17:47 +0200'
-categories: []
-tags: []
-comments: []
 ---
 Au début de l'aventure, Peter Doherty et Cärl Bàrât sont deux amis ayant une passion commune : le rock and roll. Enfin ça, c'est la passion avouable !
 

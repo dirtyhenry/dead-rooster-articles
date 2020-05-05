@@ -9,7 +9,6 @@ categories:
 - Artistes
 tags:
 - Katerine
-comments: []
 ---
 <iframe width="540" height="304" src="http://www.youtube.com/embed/XjbU4F5nwAw" frameborder="0" allowfullscreen></iframe>
 

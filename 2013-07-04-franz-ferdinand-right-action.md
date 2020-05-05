@@ -5,9 +5,6 @@ authors:
   - Dirty Henry
 wordpress_id: 1258
 date: '2013-07-04 12:00:00 +0200'
-categories: []
-tags: []
-comments: []
 ---
 Après le [*Love Illumination*->1257] du mercredi, voici le *Right Action* du jeudi : 
 

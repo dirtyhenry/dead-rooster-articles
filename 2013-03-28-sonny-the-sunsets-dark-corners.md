@@ -5,9 +5,6 @@ authors:
   - Dirty Henry
 wordpress_id: 1205
 date: '2013-03-28 17:10:24 +0100'
-categories: []
-tags: []
-comments: []
 ---
 Même en mode triste, Sonny and The Sunsets continuent de faire dodeliner les oreilles.
 

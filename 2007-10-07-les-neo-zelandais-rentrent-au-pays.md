@@ -5,8 +5,5 @@ authors:
   - Joe Gantdelaine
 wordpress_id: 406
 date: '2007-10-07 12:06:00 +0200'
-categories: []
-tags: []
-comments: []
 ---
 Le haka ne fait plus peur à personne. Le monde va mal !

@@ -5,9 +5,6 @@ authors:
   - Dirty Henry
 wordpress_id: 1240
 date: '2013-05-30 12:00:00 +0200'
-categories: []
-tags: []
-comments: []
 ---
 Face B retrouvée dans les archives, collaboration entre Michael Kiwanuka & Dan Auerbach, le mec des Black Keys. Tranquille.
 

@@ -14,7 +14,6 @@ categories:
 tags:
 - Albums
 - Dum Dum Girls
-comments: []
 ---
 Quand les Dum Dum Girls sont apparues sur les radars de Dead Rooster, c'était avec [*Jail La La*->588], [très bon morceau->750] et parfait symbole du premier album du groupe, *I Will Be*, courte mais énergique collection de 11 titres qui faisaient tous environ 2:30 et qui a dû rendre fou Phil Spector, dans sa cellule californienne. Du ta-pa-poum, de la guitare basique, une voix féminine avec des effets partout, les influences sont claires : du côté des Dum Dum Girls, on a dû écouter les Ronettes, mais sans doute aussi The Jesus & Mary Chain. L'album n'avait donc pas déçu.
 

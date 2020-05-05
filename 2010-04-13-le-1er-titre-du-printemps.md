@@ -7,9 +7,6 @@ authors:
   - Dirty Henry
 wordpress_id: 594
 date: '2010-04-13 11:21:12 +0200'
-categories: []
-tags: []
-comments: []
 ---
 {*Freelance Whales*} c'est un groupe du Queens qui sort aujourd'hui son premier album *Weathervanes*.
 

@@ -9,7 +9,6 @@ categories:
 - Artistes
 tags:
 - Bleeding Rainbow
-comments: []
 ---
 <iframe width="540" height="405" src="http://www.youtube.com/embed/IPmste-qIsE" frameborder="0" allowfullscreen></iframe>
 

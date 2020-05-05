@@ -12,7 +12,6 @@ categories:
 tags:
 - Concours Katerine
 - Katerine
-comments: []
 ---
 Quatre semaines de Katerine à rattraper d'un coup...
 

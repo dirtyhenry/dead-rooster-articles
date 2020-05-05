@@ -5,9 +5,6 @@ authors:
   - Dirty Henry
 wordpress_id: 683
 date: '2010-08-26 11:30:13 +0200'
-categories: []
-tags: []
-comments: []
 ---
 Voici ce qui me paraît être la meilleure track liste "Années 80".
 

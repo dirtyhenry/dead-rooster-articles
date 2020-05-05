@@ -11,7 +11,6 @@ categories:
 - Catégories
 tags:
 - Trésor Pop
-comments: []
 ---
 {*Annuals *} est un groupe un peu bizarre. Comparé à Animal Collective et à Arcade Fire à leurs débuts, ils tardent à confirmer et offrent des albums et EP assez inégaux tandis que leur leader se disperse par ailleurs dans un autre groupe sans génie, Sunfold.
 

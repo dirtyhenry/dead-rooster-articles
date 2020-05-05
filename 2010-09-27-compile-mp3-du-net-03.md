@@ -14,7 +14,6 @@ tags:
 - Single
 - MP3
 - The Raveonettes
-comments: []
 ---
 Au programme cette semaine, on en remet une couche avec la reprise de *I Wanna Be Adored*, des Stones Roses, par __The Raveonettes__, et je vous invite plus particulièrement à découvrir les excellents __Guards__ et __The Fresh & Onlys__.
 

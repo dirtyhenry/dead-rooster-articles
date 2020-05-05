@@ -11,7 +11,6 @@ categories:
 tags:
 - Concert
 - Jet
-comments: []
 ---
 Ça sent la rentrée donc les concerts vont commencer.
 

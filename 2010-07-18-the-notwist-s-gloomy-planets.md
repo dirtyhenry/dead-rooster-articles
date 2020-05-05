@@ -14,7 +14,6 @@ categories:
 tags:
 - Trésor Pop
 - The Notwist
-comments: []
 ---
 Que se passe-t-il lorsqu'on prend une chanson géniale, qu'on se fait accompagner par un orchestre symphonique et qu'on habille le tout d'une chorégraphie lumineuse très classe ? Une vidéo qui donne des frissons.
 

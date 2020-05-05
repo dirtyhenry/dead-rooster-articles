@@ -5,9 +5,6 @@ authors:
   - Dirty Henry
 wordpress_id: 524
 date: '2009-08-25 10:41:02 +0200'
-categories: []
-tags: []
-comments: []
 ---
 Ce mois d'août, les Hooray Henrys étaient au programme du festival "Un Temps Pour Tous", organisé par l'association Carpe Diem à St-Hilaire-de-Riez, du 9 au 14 août 2009.
 

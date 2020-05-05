@@ -9,7 +9,6 @@ categories:
 - Catégories
 tags:
 - Albums
-comments: []
 ---
 L'histoire est parfois cruelle. Le Velvet Underground fut un groupe essentiel, c'est incontestable. Bien que dans les années 60, leur succès commercial fut très relatif, Brian Eno a su démontrer l'influence du groupe par une formule assez célèbre : "rares sont ceux qui se sont procurés les disques du groupe lorsqu'ils sont sortis, mais ceux-là ont ensuite tous créé un groupe".
 

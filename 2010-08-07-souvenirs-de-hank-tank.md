@@ -14,7 +14,6 @@ tags:
 - Concert
 - Keren Ann
 - Hank & Tank
-comments: []
 ---
 Je viens de retomber sur un brouillon de revue de concert, datant de novembre 2002 et du passage de Keren Ann à Bordeaux. Voilà de quoi oublier un petit peu le mainstream et aller faire un tour dans la scène indie islandaise, histoire de briller en société :
 

@@ -19,7 +19,6 @@ tags:
 - Yann Tiersen
 - Noah and the Whale
 - Justice
-comments: []
 ---
 La semaine dernière, [Yann Tiersen était à l'honneur ici-même->837]. Le titre *Palestine* était évoqué mais tout n'a pas été dit sur ce titre. Ceux qui l'ont écouté le savent, son titre aurait dû être *P.A.L.E.S.T.I.N.E.* et ainsi rejoindre... "La Grande Tradition des Titres Épelés".
 

@@ -9,6 +9,5 @@ categories:
 - Artistes
 tags:
 - The Black Keys
-comments: []
 ---
 Les Black Keys préparent un album de hip-hop, Lil Wayne rappe sur l'album de Weezer et le chanteur des Shins est en train de monter un projet avec Danger Mouse. Le monde va mal !

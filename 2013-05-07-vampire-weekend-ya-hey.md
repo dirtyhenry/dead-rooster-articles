@@ -5,9 +5,6 @@ authors:
   - Dirty Henry
 wordpress_id: 1226
 date: '2013-05-07 15:05:57 +0200'
-categories: []
-tags: []
-comments: []
 ---
 Encore une chanson géniale et insupportable à la fois, merci Vampire Weekend ! La compétition entre ce titre et le *Default* de Django Django est ouverte.
 

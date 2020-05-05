@@ -8,9 +8,6 @@ authors:
   - Dirty Henry
 wordpress_id: 998
 date: '2012-02-23 23:15:00 +0100'
-categories: []
-tags: []
-comments: []
 ---
 En attendant les premiers épisodes de *La Visite du Louvre*, [promis il y a déjà quelques temps->975], voici un coup d'essai de BD inspiré d'un billet de François Morel sur France Inter : 
 

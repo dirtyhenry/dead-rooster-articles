@@ -10,6 +10,5 @@ categories:
 tags:
 - Trucs marrants
 - Poutre dans l'oeil
-comments: []
 ---
 120-11 ? Le basket, c'est plus ce que c'était. Le monde va mal !

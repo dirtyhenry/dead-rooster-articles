@@ -5,9 +5,6 @@ authors:
   - Dirty Henry
 wordpress_id: 1206
 date: '2013-03-29 11:34:32 +0100'
-categories: []
-tags: []
-comments: []
 ---
 Entre jouer avec Brakes ou accompagner Ben Kweller sur scène, les frangins d'Electric Soft Parade trouvent quand même le temps, une fois toutes les beaucoup d'années, de faire un LP. Ce sera le cas en 2013, puisque *Idiots* est annoncé pour juin.
 

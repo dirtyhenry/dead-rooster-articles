@@ -11,7 +11,6 @@ categories:
 - Artistes
 tags:
 - The Beatles
-comments: []
 ---
 Que [ce vil coquin de Sean Lennon se rassure->574], les Beatles ne sont pas encore prêts de quitter la scène publique !
 

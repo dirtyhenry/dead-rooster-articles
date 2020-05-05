@@ -9,7 +9,6 @@ categories:
 - Catégories
 tags:
 - Foot
-comments: []
 ---
 A l'attention de M. Eric BRAAMHAAR, 
 

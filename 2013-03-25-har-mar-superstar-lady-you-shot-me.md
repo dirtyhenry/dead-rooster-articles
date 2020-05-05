@@ -5,9 +5,6 @@ authors:
   - Dirty Henry
 wordpress_id: 1202
 date: '2013-03-25 10:00:00 +0100'
-categories: []
-tags: []
-comments: []
 ---
 L'écoute du titre était plutôt sympa, mais chercher des infos sur son interprète m'a définitivement convaincu de le featurer. Le [Katerine américain->http://www.serialoptimist.com/interviews/an-interview-with-the-amazing-har-mar-superstar-2903.html] ?
 

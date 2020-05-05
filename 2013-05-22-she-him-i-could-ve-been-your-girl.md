@@ -5,9 +5,6 @@ authors:
   - Dirty Henry
 wordpress_id: 1216
 date: '2013-05-22 11:30:00 +0200'
-categories: []
-tags: []
-comments: []
 ---
 {Volume 3} est dans les bacs, et après [*Never Wanted Your Love*->1190], *I Could’ve Been Your Girl* est le second titre qui en est extrait.
 

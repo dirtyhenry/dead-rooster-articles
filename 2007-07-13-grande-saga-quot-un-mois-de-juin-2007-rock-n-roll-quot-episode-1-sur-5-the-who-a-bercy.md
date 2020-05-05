@@ -15,7 +15,6 @@ categories:
 tags:
 - Concert
 - The Who
-comments: []
 ---
 Cette année, boycott du concert des Rolling Stones au Stade de France ! Pourquoi ? Parce que j'ai déjà pris ma place pour les Who et que je m'impose la règle "pas plus d'un concert à 50 balles par mois" !
 

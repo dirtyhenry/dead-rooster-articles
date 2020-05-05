@@ -11,7 +11,6 @@ categories:
 tags:
 - Compilation
 - The Raveonettes
-comments: []
 ---
 -# Dire Straits - Money for nothing
 -# The Detroit Cobras - Right around the corner

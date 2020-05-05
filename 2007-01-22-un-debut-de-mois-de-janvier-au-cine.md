@@ -9,7 +9,6 @@ categories:
 - Catégories
 tags:
 - Cinéma
-comments: []
 ---
 <h2>1. *L'incroyable destin d'Harold Crick*</h2>
 

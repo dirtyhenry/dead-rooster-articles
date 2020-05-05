@@ -9,7 +9,6 @@ categories:
 - Artistes
 tags:
 - Fountains of Wayne
-comments: []
 ---
 <iframe width="540" height="333" src="http://www.youtube.com/embed/PJ8tuVQKeto" frameborder="0" allowfullscreen></iframe>
 

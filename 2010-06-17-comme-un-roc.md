@@ -13,7 +13,6 @@ categories:
 tags:
 - Concours Katerine
 - Katerine
-comments: []
 ---
 La reprise de la semaine de __Katerine, Francis et ses peintres__ est [*Comme un rock*->http://www.katerinefrancisetsespeintres.com/24.html], de Nâdiya.
 

@@ -5,9 +5,6 @@ authors:
   - Dirty Henry
 wordpress_id: 1158
 date: '2013-01-14 10:41:50 +0100'
-categories: []
-tags: []
-comments: []
 ---
 Encore un [autre->1139] teaser pour l'album de Guards, à paraître en février.
 

@@ -12,7 +12,6 @@ tags:
 - Concert
 - April March
 - Bertrand Burgalat
-comments: []
 ---
 {*April March*} est l'artiste méconnue la plus omniprésente du moment. Cela dure depuis la sortie de <a href="http://www.allocine.fr/film/fichefilm_gen_cfilm=108247.html" target="_blank">*Boulevard de la mort*</a>, de Tarantino, en juin 2007. Le cinéaste a remis au goût du jour sa double reprise de France Gall en version originale (*Laisse tomber les filles*) et version américanisée (*Chick Habit*) qui depuis inonde les clubs indé, les bandes son de publicités et même certaines sonneries de portable. Ce titre a pourtant déjà 15 ans et date de l'époque à laquelle la californienne pour le moins francophile s'était laissée aller à reprendre de nombreux titres du répertoire français, pour la plupart signés Gainsbourg : *Laisse tomber les filles* (donc), *Caribou*, *La Chanson de Prévert*, *Cet air-là*, etc...
 

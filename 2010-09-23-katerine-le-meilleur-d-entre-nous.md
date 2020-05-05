@@ -16,7 +16,6 @@ tags:
 - Trucs marrants
 - Reprise
 - Katerine
-comments: []
 ---
 Ca fait longtemps que nous n'avons pas mis à jour le concours Katerine. Pour ne rien gâcher, l'actualité de Katerine est par ailleurs chargée. Il est temps de faire le point.
 

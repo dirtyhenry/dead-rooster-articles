@@ -10,7 +10,6 @@ categories:
 - Artistes
 tags:
 - Oasis
-comments: []
 ---
 Y'en a marre tes potes ! 
 

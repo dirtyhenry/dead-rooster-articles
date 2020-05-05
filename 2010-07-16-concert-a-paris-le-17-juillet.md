@@ -11,7 +11,6 @@ categories:
 - Catégories
 tags:
 - Dead Rooster Announcement
-comments: []
 ---
 {*The Livingstones I Presume*} joueront le samedi 17 juillet, à Paris, à 19h au bar Chez Adel, dans le Xème arrondissement.
 

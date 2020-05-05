@@ -5,9 +5,6 @@ authors:
   - Dirty Henry
 wordpress_id: 373
 date: '2007-04-09 13:57:00 +0200'
-categories: []
-tags: []
-comments: []
 ---
 2 vidéos de *No, Not Now* et *Riot Boogie*, joués par Dirty McFly et The Invisible Groovy dans un appartement parisien en février 2007 (les voisins s'en souviennent encore)
 

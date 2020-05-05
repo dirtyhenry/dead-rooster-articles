@@ -9,6 +9,5 @@ categories:
 - Artistes
 tags:
 - The Who
-comments: []
 ---
 Une association de protection de l'enfance veut empêcher The Who de jouer à la mi-temps du Super Bowl 2010 à cause du passé judiciaire de Pete Townshend. Michael Jackson avait fait ce spectacle en 1993. Le monde va mal !

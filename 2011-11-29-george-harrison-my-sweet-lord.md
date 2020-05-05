@@ -9,7 +9,6 @@ categories:
 - Artistes
 tags:
 - The Beatles
-comments: []
 ---
 <iframe width="540" height="396" src="http://www.youtube.com/embed/wynYMJwEPH8" frameborder="0" allowfullscreen></iframe>
 

@@ -8,9 +8,6 @@ authors:
   - Joe Gantdelaine
 wordpress_id: 758
 date: '2011-01-22 10:11:05 +0100'
-categories: []
-tags: []
-comments: []
 ---
 Groupe d'électro-pop français, on raconte parfois à tort que leur nom est un hommage à Étienne Daho, ce qui est absurde et anachronique.
 

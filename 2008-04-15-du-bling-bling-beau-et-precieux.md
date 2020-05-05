@@ -11,7 +11,6 @@ categories:
 tags:
 - Albums
 - Supergrass
-comments: []
 ---
 Souvenous-nous, 1994-1996. La Britpop fait rage sur tous les fronts. D'innombrables groupes émergent chaque semaine et s'affichent en couverture du NME. Puis c'est la fin. On oublie Cast, Kula Shaker ou Ocean Colour Scene aussi vite qu'ils étaient apparus.
 

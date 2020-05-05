@@ -9,7 +9,6 @@ categories:
 - Artistes
 tags:
 - Kaiser Chiefs
-comments: []
 ---
 Ricky Wilson, le chanteur sautant de Kaiser Chiefs a eu un accident de voiture dimanche dernier, dont il s'est sorti presque indemne grâce à ses performances en saut, selon le site officiel du groupe, qui a publié un post pour taire les rumeurs qui commençaient à circuler sur cet accident :
 

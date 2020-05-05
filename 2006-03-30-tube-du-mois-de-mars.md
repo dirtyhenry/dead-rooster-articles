@@ -9,7 +9,6 @@ categories:
 - Catégories
 tags:
 - Sorties
-comments: []
 ---
 1... 2... 3... Musique maestro :
 

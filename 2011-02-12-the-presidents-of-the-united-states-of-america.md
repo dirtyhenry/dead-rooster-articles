@@ -7,9 +7,6 @@ authors:
   - Joe Gantdelaine
 wordpress_id: 755
 date: '2011-02-12 09:37:26 +0100'
-categories: []
-tags: []
-comments: []
 ---
 Power trio par excellence (américain évidemment), formé après la seconde guerre mondiale. Ses membres originels sont Richard Nixon à la basse, Ronald Reagan à la guitare et Franklin D. Roosevelt au chant.
 

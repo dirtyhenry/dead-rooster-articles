@@ -9,6 +9,5 @@ categories:
 - Catégories
 tags:
 - Foot
-comments: []
 ---
 Ça fait quand même un moment qu'on est sans nouvelle de Roger Zabel. Le monde va mal !

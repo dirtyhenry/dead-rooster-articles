@@ -12,7 +12,6 @@ categories:
 - Catégories
 tags:
 - Cinéma
-comments: []
 ---
 <h2>__ {The Apartment} - Billy Wilder (1960)__</h2>
  

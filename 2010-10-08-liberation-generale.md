@@ -12,7 +12,6 @@ categories:
 tags:
 - Trucs marrants
 - Fun Friday
-comments: []
 ---
 <h2>1. Les légumes sont libérés</h2>
 

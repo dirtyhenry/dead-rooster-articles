@@ -9,6 +9,5 @@ categories:
 - Artistes
 tags:
 - The Hives
-comments: []
 ---
 <iframe src="http://player.vimeo.com/video/41854945" width="540" height="304" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>

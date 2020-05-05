@@ -9,7 +9,6 @@ categories:
 - Artistes
 tags:
 - Oasis
-comments: []
 ---
 Les frangins Gallagher ont décidé d'arrêter les horloges et de regarder derrière eux. *Stop the Clocks*, le premier (double) best-of du groupe sortira le 20 novembre 2006, avec une pochette signée Sir Peter Blake, déjà en charge de celle du *Sgt Pepper* des Beatles. 
 

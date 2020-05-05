@@ -11,7 +11,6 @@ categories:
 - Catégories
 tags:
 - Concours Katerine
-comments: []
 ---
 La reprise de la semaine de __Katerine, Francis et ses peintres__ est [*Quand t'es dans le désert*->http://www.katerinefrancisetsespeintres.com/26.html], de Jean-Patrick Capdevielle.
 

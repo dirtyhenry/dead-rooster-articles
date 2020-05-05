@@ -6,9 +6,6 @@ authors:
   - Joe Gantdelaine
 wordpress_id: 679
 date: '2010-08-10 13:55:08 +0200'
-categories: []
-tags: []
-comments: []
 ---
 Rien à voir avec [la version->http://www.youtube.com/watch?v=9r2pEdc1_lI] des __Platters__ !
 <br>

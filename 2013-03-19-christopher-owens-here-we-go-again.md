@@ -5,9 +5,6 @@ authors:
   - Dirty Henry
 wordpress_id: 1198
 date: '2013-03-19 10:19:17 +0100'
-categories: []
-tags: []
-comments: []
 ---
 L'ex leader de Girls, propose un clip pour *Here We Go Again*, extrait de *Lysandre*, son premier album solo.
 

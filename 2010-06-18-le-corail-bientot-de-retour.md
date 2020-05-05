@@ -12,7 +12,6 @@ categories:
 tags:
 - Single
 - The Coral
-comments: []
 ---
 Depuis leur premier album en 2002, __The Coral__ sortait des disques avec un rythme eelsien, un par an environ, jusqu'à leur dernier effort, l'excellent *Roots & Echoes*, en 2007.
 

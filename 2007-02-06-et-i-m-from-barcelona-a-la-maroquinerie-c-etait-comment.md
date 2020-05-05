@@ -9,7 +9,6 @@ categories:
 - Catégories
 tags:
 - Concert
-comments: []
 ---
 "I'm from Barcelona, à la Maroquinerie le 23 janvier". 
 

@@ -11,7 +11,6 @@ categories:
 tags:
 - Concert
 - Love Is All
-comments: []
 ---
 Une nouvelle soirée de concert au <a title="Point éphémère" href="http://www.pointephemere.org/" target="_blank">point éphémère</a> et encore une soirée réussie, à l'occasion du <a title="Pink & Purple Pop Festival" href="http://www.popingays.com/article.php?id_article=2079" target="_blank">__Pink & Purple Pop Festival__, organisé par popingays.com</a>. Un cadre parfait (bord de Seine) et une place à pas cher (12 € la soirée), merci merci merci.
 

@@ -9,6 +9,5 @@ categories:
 - Catégories
 tags:
 - Cinéma
-comments: []
 ---
 Mmmh ma biche, prenez mon Mojo, nous allons chercher le Grall !

@@ -9,6 +9,5 @@ categories:
 - Catégories
 tags:
 - Trucs marrants
-comments: []
 ---
 Notre cher président semble être devenu adepte de la musique du diable. Le monde va mal !

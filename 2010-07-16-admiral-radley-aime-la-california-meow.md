@@ -12,7 +12,6 @@ categories:
 - Catégories
 tags:
 - Single
-comments: []
 ---
 {*Admiral Radley*} est le nouveau groupe de Jason Lytle, ex-Grandaddy, qui vient de sortir son premier album, *I Heart California*, dont est extrait le single karaoke ci-dessous.
 

@@ -11,7 +11,6 @@ categories:
 - Catégories
 tags:
 - Concours Katerine
-comments: []
 ---
 La reprise de la semaine de __Katerine, Francis et ses peintres__ est [*Sous le vent*->http://www.katerinefrancisetsespeintres.com/27.html], de Garou et Céline Dion.
 

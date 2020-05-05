@@ -9,7 +9,6 @@ categories:
 - Catégories
 tags:
 - Cinéma
-comments: []
 ---
 {* {Casablanca*, œuvre magistrale ! *Le Cuirassé Potemkine*, n'en parlons même pas ! Quant à *Citizen Kane*, le meilleur de tous ! Ok, mais comment faire pour voir ces films anciens, boudés par la télé et trop peu repris par les cinémas ? Pour ma part, la solution a été un abonnement à un service de location de DVD en ligne : Glowria. Trois DVD par mois dont voici détaillée la livrée de septembre...}}
 

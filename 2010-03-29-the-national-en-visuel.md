@@ -11,7 +11,6 @@ categories:
 - Artistes
 tags:
 - The National
-comments: []
 ---
 {*The National*} est un groupe exceptionnel sur scène. Leur 5ème album *High Violet* sortira en mai. Pas sûr qu'on se jette dessus vu que leurs disques atteignent rarement les sommets des prestations scéniques (même s'ils vont crescendo dans ce domaine : *Boxer*, le précédent album étant aussi leur meilleur), mais voilà la vidéo d'un premier titre, *Terrible Love*, qui nous donne envie d'être le 7 mai, date à laquelle le groupe ouvrira pour Pavement au Zénith.
 

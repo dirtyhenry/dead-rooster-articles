@@ -5,8 +5,6 @@ authors:
   - Dirty Henry
 wordpress_id: 764
 date: '2011-01-23 15:40:29 +0100'
-categories: []
-tags: []
 comments:
 - author: Jo
   author_email: ''

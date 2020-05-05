@@ -9,7 +9,6 @@ categories:
 - Artistes
 tags:
 - The Raconteurs
-comments: []
 ---
 <iframe width="420" height="315" src="http://www.youtube.com/embed/Q7aOWIFgIZQ" frameborder="0" allowfullscreen></iframe>
 

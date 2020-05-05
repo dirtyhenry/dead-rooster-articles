@@ -5,9 +5,6 @@ authors:
   - Dirty Henry
 wordpress_id: 1235
 date: '2013-05-21 12:57:42 +0200'
-categories: []
-tags: []
-comments: []
 ---
 Quand on aime, on ne compte pas. 
 

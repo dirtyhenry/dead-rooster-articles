@@ -12,7 +12,6 @@ categories:
 - Catégories
 tags:
 - Foot
-comments: []
 ---
 En fait, si Ribéry a choisi le Bayern, c'est sûrement parce qu'il aime bien taquiner les Allemands. 
 

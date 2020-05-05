@@ -15,7 +15,6 @@ tags:
 - Concert
 - Autour de Lucie
 - Valérie Leulliot
-comments: []
 ---
 Cher journal,
 

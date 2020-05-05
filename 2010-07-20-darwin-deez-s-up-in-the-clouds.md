@@ -11,7 +11,6 @@ categories:
 - Catégories
 tags:
 - Single
-comments: []
 ---
 Très chouette chanson de __Darwin Deez__, un new-yorkais qui a sorti son premier album en avril dernier. Le clip n'est pas en reste.
 

@@ -9,7 +9,6 @@ categories:
 - Catégories
 tags:
 - Foot
-comments: []
 ---
 Dimanche 14 mai 2006, 11h35. C'est officiel, il n'y aura pas de surprise, Robert Pires n'est pas convoqué pour la coupe du monde.
 

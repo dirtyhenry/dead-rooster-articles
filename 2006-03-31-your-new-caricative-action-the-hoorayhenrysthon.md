@@ -11,7 +11,6 @@ categories:
 tags:
 - Dead Rooster Announcement
 - Hooray Henrys
-comments: []
 ---
 People need you guys.
 

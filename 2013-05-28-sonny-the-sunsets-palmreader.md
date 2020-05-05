@@ -5,9 +5,6 @@ authors:
   - Joe Gantdelaine
 wordpress_id: 1238
 date: '2013-05-28 12:00:00 +0200'
-categories: []
-tags: []
-comments: []
 ---
 Comme [pour les Smith Westerns->1235], quand on aime, on ne compte pas.
 

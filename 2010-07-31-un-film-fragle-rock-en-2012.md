@@ -13,7 +13,6 @@ categories:
 tags:
 - Cinéma
 - TV Show
-comments: []
 ---
 [Cory Edwards prévoit de sortir en 2012 une adaptation->http://www.imdb.com/title/tt0481649/] de la série pour enfants __Fraggle Rock__ - qui a le générique le plus groovy de sa génération (clap, clap) - plutôt orientée pour un public adulte.
 

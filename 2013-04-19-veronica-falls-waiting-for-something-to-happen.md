@@ -5,9 +5,6 @@ authors:
   - Dirty Henry
 wordpress_id: 1222
 date: '2013-04-19 11:27:07 +0200'
-categories: []
-tags: []
-comments: []
 ---
 Encore une chouette vidéo pour Veronica Falls, dont le 2nd album, *Waiting for Something to Happen*, vient de sortir.
 

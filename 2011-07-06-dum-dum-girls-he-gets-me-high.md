@@ -9,6 +9,5 @@ categories:
 - Artistes
 tags:
 - Dum Dum Girls
-comments: []
 ---
 <iframe width="500" height="314" src="http://www.youtube.com/embed/hOZgb0T7AM4" frameborder="0" allowfullscreen></iframe>

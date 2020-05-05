@@ -5,9 +5,6 @@ authors:
   - Dirty Henry
 wordpress_id: 1015
 date: '2012-03-26 17:41:18 +0200'
-categories: []
-tags: []
-comments: []
 ---
 Clip TTM pour cette reprise du tube des Primitives joué par le groupe de Glasgow pour la série des Late Night Tales.
 

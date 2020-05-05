@@ -9,7 +9,6 @@ categories:
 - Catégories
 tags:
 - Sorties
-comments: []
 ---
 UPDATE : désormais, les dates de concert, c'est un peu en chantier, mais c'est [ici->http://app.deadrooster.org/concerts]
 ---------

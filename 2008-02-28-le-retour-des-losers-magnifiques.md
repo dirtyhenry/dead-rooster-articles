@@ -9,7 +9,6 @@ categories:
 - Catégories
 tags:
 - Albums
-comments: []
 ---
 { __Teenager.__ } Enfin le voici, ce 3ème album ! Sorti poussivement en France, 6 mois après la perfide albion. Le combat semble perdu d'avance. Pourtant, Credito les avait mis en bande son de sa pub. La région Midi-Pyrénées aussi.
 

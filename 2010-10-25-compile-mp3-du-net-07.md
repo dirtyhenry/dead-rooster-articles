@@ -15,7 +15,6 @@ tags:
 - Single
 - MP3
 - Fleet Foxes
-comments: []
 ---
 Une sélection des meilleurs MP3 légalement disponibles au téléchargement des dernières semaines. Au programme cette semaine, beaucoup de VIP : __Pixies__, __Weezer__ et __Beach Boys__. Pour les distraits, Robin Peckhold est le chanteur des [Fleet Foxes->213].
 

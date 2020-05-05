@@ -5,9 +5,6 @@ authors:
   - Joe Gantdelaine
 wordpress_id: 1249
 date: '2010-03-22 12:00:00 +0100'
-categories: []
-tags: []
-comments: []
 ---
 Un quadrimoteur mais hélas...
 

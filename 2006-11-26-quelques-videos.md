@@ -9,7 +9,6 @@ categories:
 - Catégories
 tags:
 - Trucs marrants
-comments: []
 ---
 <h2>Bombay TV</h2>
 

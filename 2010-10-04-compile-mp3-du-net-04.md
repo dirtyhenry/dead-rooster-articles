@@ -14,7 +14,6 @@ categories:
 - Artistes
 tags:
 - Dale Earnhardt Jr. Jr.
-comments: []
 ---
 Au programme cette semaine, quelques stars (__Black Rebel Motorcycle Club__, __British Sea Power__ et __Shannon Wright__) et trois reprises pour conclure dont une du plus grand titre pop de tous les temps selon Paul McCartney : *God Only Knows*, des Beach Boys.
 

@@ -11,7 +11,6 @@ categories:
 - Catégories
 tags:
 - Dead Rooster Announcement
-comments: []
 ---
 {*The Livingstones I Presume*} joueront leur premier concert le samedi 1er mai, à Paris, à 14h au bar Chez Adel, dans le Xème arrondissement.
 

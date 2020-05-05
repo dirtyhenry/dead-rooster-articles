@@ -9,7 +9,6 @@ categories:
 - Artistes
 tags:
 - Blur
-comments: []
 ---
 <iframe frameborder="0" width="500" height="375" src="http://www.dailymotion.com/embed/video/x10grb?width=500&wmode=transparent"></iframe>
 

@@ -12,7 +12,6 @@ categories:
 - Catégories
 tags:
 - Cinéma
-comments: []
 ---
 Depuis une dizaine de semaines, Allociné propose une émission bien marrante : [__Faux Raccord__->http://www.allocine.fr/video/faux-raccords/].
 

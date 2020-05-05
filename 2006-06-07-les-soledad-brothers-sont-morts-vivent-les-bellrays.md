@@ -11,7 +11,6 @@ categories:
 tags:
 - Concert
 - Soledad Brothers
-comments: []
 ---
 Mardi 6 juin 2006. Devant la Maroquinerie. Ce soir c'est concert de rock'n'roll (yeah !) avec deux groupes que j'ai déjà vus à l'œuvre en live. 
 

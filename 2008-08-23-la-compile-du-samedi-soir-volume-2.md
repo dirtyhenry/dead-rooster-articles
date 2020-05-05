@@ -12,7 +12,6 @@ tags:
 - Compilation
 - The Raveonettes
 - Islands
-comments: []
 ---
 -# Wolf Parade - *Fancy Claps**
 -# Blur - *Song 2*

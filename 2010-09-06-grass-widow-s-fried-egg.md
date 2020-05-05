@@ -10,7 +10,6 @@ categories:
 - Catégories
 tags:
 - Vidéo Clip
-comments: []
 ---
 Voici le clip de *Fried Egg* de __Grass Widow__.
 

@@ -9,6 +9,5 @@ categories:
 - Artistes
 tags:
 - Arcade Fire
-comments: []
 ---
 <iframe width="540" height="396" src="http://www.youtube.com/embed/NRUDBhdsvxA" frameborder="0" allowfullscreen></iframe>

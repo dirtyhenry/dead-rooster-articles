@@ -5,9 +5,6 @@ authors:
   - Joe Gantdelaine
 wordpress_id: 1189
 date: '2013-03-06 10:00:00 +0100'
-categories: []
-tags: []
-comments: []
 ---
 L'album s'annonce, et s'annonce plutôt pas mal !
 

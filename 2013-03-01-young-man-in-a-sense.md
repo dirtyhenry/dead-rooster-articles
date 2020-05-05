@@ -5,9 +5,6 @@ authors:
   - Dirty Henry
 wordpress_id: 1187
 date: '2013-03-01 10:41:49 +0100'
-categories: []
-tags: []
-comments: []
 ---
 Le 3ème LP de Young Man, *Beyond Was All Around Me*, sort le 9 avril chez [French Kiss->http://www.frenchkissrecords.com/].
 

@@ -9,7 +9,6 @@ categories:
 - Catégories
 tags:
 - Cinéma
-comments: []
 ---
 Si on veut parler de l'adolescence et de l'école au cinéma, un auteur peut prendre plusieurs chemins. __Laurent Cantet__ et __Christophe Honoré__ auraient difficilement pu prendre des chemins plus éloignés que ceux qu'ils ont pris pour leurs films, respectivement *Entre les Murs* et *La Belle Personne*.
 

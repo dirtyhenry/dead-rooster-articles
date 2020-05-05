@@ -7,9 +7,6 @@ authors:
   - Joe Gantdelaine
 wordpress_id: 1143
 date: '2012-11-25 10:21:10 +0100'
-categories: []
-tags: []
-comments: []
 ---
 Avant d'écouter __The Vaccines__, j'avais un gros a priori négatif : j'entendais parler de "nouveaux Strokes", de "Ramones du 21ème siècle". La seule réaction que cela provoquait sur moi était cette question : "Ok, mais pour quoi faire ?" Donc, histoire de ne pas en rester là, j'ai profité de la sortie de leur deuxième album *Come Of Age* pour voir si mes craintes étaient fondées.
 

@@ -5,9 +5,6 @@ authors:
   - Dirty Henry
 wordpress_id: 577
 date: '2010-03-24 18:55:02 +0100'
-categories: []
-tags: []
-comments: []
 ---
 L'année 2009 fut une année de merde, y compris musicalement. __Phoenix__ et son *Wolfgang Amadeus Phoenix* furent parmi les rares à surnager et donnent encore du goût à 2010 en offrant un live de 8 titres au téléchargement. Pour y accéder, [cliquer ici->http://wearephoenix.com/observer/].
 

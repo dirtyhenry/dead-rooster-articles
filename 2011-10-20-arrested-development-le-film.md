@@ -12,7 +12,6 @@ categories:
 - Catégories
 tags:
 - TV Show
-comments: []
 ---
 Une nouvelle saison et un film adapté d'*Arrested Development* viennent d'être annoncés. Si vous n'êtes pas excité par cette annonce, vous avez sans doute besoin de lire ce qui suit.
 

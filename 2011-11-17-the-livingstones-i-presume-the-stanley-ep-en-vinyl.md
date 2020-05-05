@@ -7,9 +7,6 @@ authors:
   - Dirty Henry
 wordpress_id: 952
 date: '2011-11-17 18:06:42 +0100'
-categories: []
-tags: []
-comments: []
 ---
 Il y a maintenant presque un an, les magnifiques [The Livingstones I Presume->http://thelivingstonesipresume.com/], dont votre serviteur est le guitariste, sortaient *The Stanley EP*, au format numérique seulement, via [le site Bandcamp->http://thelivingstonesipresume.com/].
 

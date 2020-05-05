@@ -5,9 +5,6 @@ authors:
   - Dirty Henry
 wordpress_id: 1190
 date: '2013-03-08 16:07:48 +0100'
-categories: []
-tags: []
-comments: []
 ---
 She & Him amorce l'arrivée de son prochain album, qui s'appellera, comme on pouvait s'y attendre, *Volume 3* par le single *Never Wanted Your Love*.
 

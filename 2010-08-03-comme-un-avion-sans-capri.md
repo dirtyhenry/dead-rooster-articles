@@ -12,7 +12,6 @@ categories:
 - Catégories
 tags:
 - Concours Katerine
-comments: []
 ---
 Les reprises de __Katerine, Francis et ses peintres__ des deux dernières semaines sont [*Capri c'est fini*->http://www.katerinefrancisetsespeintres.com/capri.html] d'Hervé Vilard et [*Comme un avion sans aile*->http://www.katerinefrancisetsespeintres.com/avion.html] de Charlélie Couture.
 

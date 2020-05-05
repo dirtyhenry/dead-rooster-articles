@@ -11,7 +11,6 @@ categories:
 - Catégories
 tags:
 - Albums
-comments: []
 ---
 <h2>Les 5 étoiles </h2>
 

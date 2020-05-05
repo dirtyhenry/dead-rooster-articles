@@ -7,8 +7,6 @@ authors:
   - Joe Gantdelaine
 wordpress_id: 796
 date: '2011-03-12 09:18:45 +0100'
-categories: []
-tags: []
 comments:
 - author: Dirty Henry
   author_email: dirtyhenry@gmail.com

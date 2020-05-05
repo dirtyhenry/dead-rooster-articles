@@ -11,7 +11,6 @@ categories:
 - Catégories
 tags:
 - Single
-comments: []
 ---
 [Le précédent single des __New Pornographers__ était déjà très bien->611], le nouveau, *The Crash Years*, est même encore mieux et dispose d'un clip très sympa à base de parapluie qui rappelle à la fois je ne sais plus quel film coréen de ces dernières années et la fin du générique de *Juliette, je t'aime*.
 

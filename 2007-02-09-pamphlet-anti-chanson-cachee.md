@@ -9,7 +9,6 @@ categories:
 - Catégories
 tags:
 - Albums
-comments: []
 ---
 Myths of the Near Future, l'album des londoniens <a href="http://myspace.com/klaxons">__Klaxons__</a> est très bien, c'est pas ça la question.
 Leur électro-post-glam-punk hystérique teinté de proto-rave-funk de tout premier ordre, atteint même parfois des sommets comme sur *Totem on the Timeline*, par exemple.

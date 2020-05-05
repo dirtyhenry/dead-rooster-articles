@@ -10,7 +10,6 @@ categories:
 tags:
 - Soledad Brothers
 - Cut In The Hill Gang
-comments: []
 ---
 Les Soledad Brothers étaient déjà le secret le mieux gardé des années 2000. Depuis [leur séparation en 2006->318], je traquais sur internet la moindre réapparition de Johnny Walker, Ben Swank ou d'Oliver Henry.
 

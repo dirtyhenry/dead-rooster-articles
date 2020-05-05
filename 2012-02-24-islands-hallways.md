@@ -9,6 +9,5 @@ categories:
 - Artistes
 tags:
 - Islands
-comments: []
 ---
 <iframe width="500" height="284" src="http://www.youtube.com/embed/Czi0F_Ovaws" frameborder="0" allowfullscreen></iframe>

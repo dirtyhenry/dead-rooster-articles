@@ -11,7 +11,6 @@ categories:
 - Catégories
 tags:
 - Single
-comments: []
 ---
 Les concerts à emporter de la [__Blogothèque__->http://www.blogotheque.net/] sont désormais souvent assez chiants, maintenant que leur recette est éculée et le plaisir qu'ils procurent émoussé : un groupe ou un artiste solo vient jouer une chanson triste dans un cadre mélancolique tandis que la caméra tourne autour d'eux et s'attarde sur un enfant qui regarde le spectacle, émerveillé. Mouais.
 

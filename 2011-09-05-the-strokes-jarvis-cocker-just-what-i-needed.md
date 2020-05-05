@@ -12,7 +12,6 @@ tags:
 - Reprise
 - The Strokes
 - Pulp
-comments: []
 ---
 <iframe width="540" height="333" src="http://www.youtube.com/embed/GfBjR8ihAQ8" frameborder="0" allowfullscreen></iframe>
 

@@ -7,9 +7,6 @@ authors:
   - Dirty Henry
 wordpress_id: 641
 date: '2010-07-01 22:25:56 +0200'
-categories: []
-tags: []
-comments: []
 ---
 Groupe de San Francisco à découvrir, __Crocodiles__ offre un nouveau single, *Sleep Forever*, et on redécouvre leur tube, *Neon Jesus*.
 

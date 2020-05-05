@@ -5,9 +5,6 @@ authors:
   - Joe Gantdelaine
 wordpress_id: 1192
 date: '2013-03-12 10:00:00 +0100'
-categories: []
-tags: []
-comments: []
 ---
 Le groupe de Chicago annonce leur prochain LP, *Soft Will*, qui sortira le 11 juin.
 

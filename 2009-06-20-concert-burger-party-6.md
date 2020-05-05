@@ -5,9 +5,6 @@ authors:
   - Dirty Henry
 wordpress_id: 512
 date: '2009-06-20 20:45:00 +0200'
-categories: []
-tags: []
-comments: []
 ---
 Trackliste : 
 - No, not now (de Hot Hot Heat)

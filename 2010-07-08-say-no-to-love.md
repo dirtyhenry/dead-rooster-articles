@@ -11,7 +11,6 @@ categories:
 - Catégories
 tags:
 - Single
-comments: []
 ---
 {*The Pains of Being Pure At Heart*} nous incite à dire non à l'amour dans leur nouveau single *Say No To Love*. 
 

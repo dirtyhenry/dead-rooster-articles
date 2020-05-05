@@ -5,9 +5,6 @@ authors:
   - Dirty Henry
 wordpress_id: 1212
 date: '2013-04-05 13:54:41 +0200'
-categories: []
-tags: []
-comments: []
 ---
 Tout clavecin dehors, Vampire Weekend revient avec *Step*, extrait de *Modern Vampires of the City* qui sortira début mai.
 

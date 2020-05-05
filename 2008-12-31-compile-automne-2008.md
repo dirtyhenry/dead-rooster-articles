@@ -13,7 +13,6 @@ tags:
 - She & Him
 - The Coral
 - The Raconteurs
-comments: []
 ---
 -# The Ronettes - *Be My Baby*[[version live uniquement]]
 -# The Coral - *Pass It On*

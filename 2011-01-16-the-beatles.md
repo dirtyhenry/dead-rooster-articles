@@ -10,8 +10,6 @@ authors:
   - Joe Gantdelaine
 wordpress_id: 759
 date: '2011-01-16 13:58:45 +0100'
-categories: []
-tags: []
 comments:
 - author: Lola
   author_email: ''

@@ -11,7 +11,6 @@ categories:
 tags:
 - Albums
 - Herman Düne
-comments: []
 ---
 Les deux instrumentales de Giant : ah bon ?
 

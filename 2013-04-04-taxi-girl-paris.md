@@ -5,9 +5,6 @@ authors:
   - Dirty Henry
 wordpress_id: 1210
 date: '2013-04-04 10:00:00 +0200'
-categories: []
-tags: []
-comments: []
 ---
 Le chanteur de [The Livingstones I Presume->http://thelivingstonesipresume.com/] en dit : 
 

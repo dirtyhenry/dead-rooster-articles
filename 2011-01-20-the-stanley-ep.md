@@ -11,7 +11,6 @@ categories:
 - Artistes
 tags:
 - The Livingstones I Presume
-comments: []
 ---
 The Livingstones I Presume présentent leur 1er EP, The Stanley EP.
 

@@ -7,9 +7,6 @@ authors:
   - Dirty Henry
 wordpress_id: 599
 date: '2010-04-23 12:02:35 +0200'
-categories: []
-tags: []
-comments: []
 ---
 {*LCD Soundsystem*}, sur scène, c'est génial de A à Z (ah, ce soir d'août à la route du rock 2007 !) mais en disque ça m'a toujours laissé circonspect : une collection de titres trop longs fait toujours un disque trop chiant ([même un titre aussi excellent que *All My Friends* est chiant sur disque->http://www.youtube.com/watch?v=dL79-7oo9Xc], c'est dire ! Mais c'est surtout dû au fait qu'il dure 7:37 : [la version Franz Ferdinand->http://www.youtube.com/watch?v=IbTAFqnZkL0], 5:50 seulement, est ainsi bien moins relou).
 

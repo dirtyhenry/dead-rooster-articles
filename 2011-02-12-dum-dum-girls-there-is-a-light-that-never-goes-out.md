@@ -11,6 +11,5 @@ categories:
 tags:
 - Reprise
 - Dum Dum Girls
-comments: []
 ---
 <iframe title="YouTube video player" width="500" height="405" src="http://www.youtube.com/embed/2Tr96WtT3uY?rel=0" frameborder="0" allowfullscreen></iframe>

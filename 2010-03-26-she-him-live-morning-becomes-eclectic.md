@@ -9,7 +9,6 @@ categories:
 - Artistes
 tags:
 - She & Him
-comments: []
 ---
 Cette semaine, __She & Him__ était de passage dans l'émission [Morning Becomes Eclectic->http://www.kcrw.com/music/programs/mb] de la radio californienne KCRW.
 

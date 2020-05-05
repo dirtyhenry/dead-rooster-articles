@@ -7,9 +7,6 @@ authors:
   - Dirty Henry
 wordpress_id: 975
 date: '2011-12-22 12:33:54 +0100'
-categories: []
-tags: []
-comments: []
 ---
 La semaine dernière, on a fait [le bilan 2011->969], il est temps de passer aux résolutions pour 2012.
 

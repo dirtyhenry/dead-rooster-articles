@@ -5,8 +5,6 @@ authors:
   - Dirty Henry
 wordpress_id: 444
 date: '2008-04-17 11:53:00 +0200'
-categories: []
-tags: []
 comments:
 - author: smells_like_white_spirit_2
   author_email: ''

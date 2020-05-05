@@ -9,7 +9,6 @@ categories:
 - Catégories
 tags:
 - Concert
-comments: []
 ---
 Cher Journal,
 

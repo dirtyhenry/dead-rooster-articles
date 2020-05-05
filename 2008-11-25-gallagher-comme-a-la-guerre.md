@@ -12,7 +12,6 @@ tags:
 - Concert
 - Albums
 - Oasis
-comments: []
 ---
 Combien de jeux de mots pourris (Noel en Novembre, __Oasis__ : la traversée du désert, Du vague à Liam) ? Combien de critiques narquoises ? Combien de : "Oasis ? Ouais, on les entend plus depuis *Wonderwall* tes potes !" ? Combien de : "Oasis est de retour !" ? Alors qu'ils ne sont jamais partis les frangins.
 

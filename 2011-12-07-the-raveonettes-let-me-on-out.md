@@ -9,6 +9,5 @@ categories:
 - Artistes
 tags:
 - The Raveonettes
-comments: []
 ---
 <iframe width="540" height="304" src="http://www.youtube.com/embed/WwldQTXgkaQ" frameborder="0" allowfullscreen></iframe>

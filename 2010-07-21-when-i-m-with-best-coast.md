@@ -14,7 +14,6 @@ categories:
 tags:
 - Single
 - Best Coast
-comments: []
 ---
 Après plusieurs semaines d'attente, nous ne sommes plus qu'à quelques jours de la sortie de *Crazy For You*, le 1er album de __Best Coast__.
 

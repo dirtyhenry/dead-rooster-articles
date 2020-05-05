@@ -17,7 +17,6 @@ tags:
 - Mike Nichols
 - Simon & Garfunkel
 - Ciné-Club moi j’vous dis
-comments: []
 ---
 <h2>*Le Lauréat* (*The Graduate*), de Mike Nichols (1967)</h2>
 

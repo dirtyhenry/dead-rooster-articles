@@ -15,7 +15,6 @@ tags:
 - Cinéma
 - Wes Anderson
 - Richard Ayoade
-comments: []
 ---
 Oliver Tate est un lycéen probablement intelligent mais un peu loser. Alors que les bookmakers ne lui donnaient qu’une petite cote, il parvient à pécho sa camarade de classe Jordana. Mais très vite, à son labeur intensif pour devenir le-meilleur-petit-ami-possible s’ajoute une autre mission : sauver le mariage de ses parents, menacé par l’emménagement du premier amour de sa maman dans la maison d’en face.
 

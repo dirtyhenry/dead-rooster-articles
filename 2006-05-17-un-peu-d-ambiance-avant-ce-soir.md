@@ -9,7 +9,6 @@ categories:
 - Catégories
 tags:
 - Foot
-comments: []
 ---
 <iframe width="420" height="315" src="http://www.youtube.com/embed/BgomX3qD-iA" frameborder="0" allowfullscreen></iframe>
 

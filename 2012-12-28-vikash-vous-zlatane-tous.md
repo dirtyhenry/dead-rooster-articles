@@ -9,7 +9,6 @@ categories:
 - Catégories
 tags:
 - Foot
-comments: []
 ---
 Zlataner est [devenu un verbe en suédois->http://www.lequipe.fr/Football/Actualites/-zlataner-dans-le-dico-suedois/338616]. Tant mieux pour lui. Mais on oublie trop facilement que beaucoup d'autres footballeurs ont donné leur nom à des mots.
 

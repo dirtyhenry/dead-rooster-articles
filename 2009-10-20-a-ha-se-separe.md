@@ -5,8 +5,6 @@ authors:
   - Dirty Henry
 wordpress_id: 539
 date: '2009-10-20 13:23:51 +0200'
-categories: []
-tags: []
 comments:
 - author: Benji
   author_email: ''

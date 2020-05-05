@@ -14,7 +14,6 @@ categories:
 tags:
 - Single
 - She & Him
-comments: []
 ---
 {*She&Him*} vient de réaliser le clip de *Thieves*, extrait de son album *Volume Two*. Le résultat est sweet et ressemble à du lo-fi-late-1800's-avec-des-fausses-moustaches et des petites touches gondriesques.
 

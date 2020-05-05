@@ -7,9 +7,6 @@ authors:
   - Joe Gantdelaine
 wordpress_id: 976
 date: '2011-12-27 13:26:09 +0100'
-categories: []
-tags: []
-comments: []
 ---
 Car oui, en cette dernière quinzaine de l'année, tout est vraiment TTM : les décos du centre-ville, le père noël, le chiard de 6 mois de la belle-sœur à qui on met un serre-tête-bois-de-rennes-en-peluche entre 2 crises de pleurs stridents parce que bon : "il fait ses dents en ce moment !" (TTM les petites quenottes qui poussent), le canard dont on a mangé le foie bien gras. Bref, la vie est TTM.
 

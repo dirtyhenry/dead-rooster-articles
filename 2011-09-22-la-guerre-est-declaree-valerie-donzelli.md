@@ -14,7 +14,6 @@ categories:
 tags:
 - Cinéma
 - Benjamin Biolay
-comments: []
 ---
 Juliette rencontre Roméo. Une histoire d'amour commence. Bientôt, un enfant va naître. Mais le destin tragique de leurs aînés shakespeariens va les rattraper : leur fils Adam développe une tumeur au cerveau.
 

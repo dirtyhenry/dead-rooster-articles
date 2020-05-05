@@ -5,9 +5,6 @@ authors:
   - Dirty Henry
 wordpress_id: 347
 date: '2007-01-18 12:32:00 +0100'
-categories: []
-tags: []
-comments: []
 ---
 Les jeunes gens de la famille Followill sortiront leur 3ème album *Because of the times* le 2 avril prochain. Il succèdera aux excellents *Youth & Young Manhood* et *Aha Shake Heartbrak* sortis en 2003 et 2005.
 

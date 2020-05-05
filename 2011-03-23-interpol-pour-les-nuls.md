@@ -5,9 +5,6 @@ authors:
   - Dirty Henry
 wordpress_id: 803
 date: '2011-03-23 17:31:33 +0100'
-categories: []
-tags: []
-comments: []
 ---
 -# *Obstacle 1*
 -# *Say Hello To The Angels*

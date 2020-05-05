@@ -11,7 +11,6 @@ categories:
 - Catégories
 tags:
 - Concours Katerine
-comments: []
 ---
 La reprise de __Katerine, Francis et ses peintres__ de la semaine est [*Je pense à toi*->http://www.katerinefrancisetsespeintres.com/pense.html] d'Amadou & Mariam.
 

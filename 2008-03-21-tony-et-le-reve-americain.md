@@ -5,9 +5,6 @@ authors:
   - Dirty Henry
 wordpress_id: 441
 date: '2008-03-21 09:48:00 +0100'
-categories: []
-tags: []
-comments: []
 ---
 <quote>Viser la lucarne c'est comme viser la lune</quote>
 

@@ -12,7 +12,6 @@ categories:
 tags:
 - Single
 - Geek
-comments: []
 ---
 Arcade Fire frappe fort en proposant un clip interactif pour leur titre We Used To Wait, issu du récent The Suburbs.
 

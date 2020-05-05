@@ -13,7 +13,6 @@ categories:
 tags:
 - Concours Katerine
 - Katerine
-comments: []
 ---
 Cette semaine, la reprise de __Katerine, Francis et ses peintres__ est [*Confidence pour Confidence*->http://www.katerinefrancisetsespeintres.com/19.html], de Jean Schultheis.
 

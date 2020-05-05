@@ -5,9 +5,6 @@ authors:
   - Dirty Henry
 wordpress_id: 1250
 date: '2013-06-21 12:00:00 +0200'
-categories: []
-tags: []
-comments: []
 ---
 Les Arctic Monkeys annonce leur retour prochain avec *Do I Wanna Know?*
 

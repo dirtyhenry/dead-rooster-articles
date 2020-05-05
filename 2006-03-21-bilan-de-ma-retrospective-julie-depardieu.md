@@ -9,7 +9,6 @@ categories:
 - Catégories
 tags:
 - Cinéma
-comments: []
 ---
 La naïveté a ses charmes et, bizarrement, quand les réalisateurs ont un scénario plein de candeur entre les mains, il semble que germe alors dans leur esprit le projet d'inclure __Julie Depardieu__ dans leur casting, pour des fortunes diverses.
 

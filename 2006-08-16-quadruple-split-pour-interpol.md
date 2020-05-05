@@ -9,7 +9,6 @@ categories:
 - Artistes
 tags:
 - Interpol
-comments: []
 ---
 {*Interpol*} a donné signe de vie sur [le site officiel du groupe->http://interpolnyc.com].
 

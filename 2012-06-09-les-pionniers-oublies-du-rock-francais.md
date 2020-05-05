@@ -10,9 +10,6 @@ authors:
   - Joe Gantdelaine
 wordpress_id: 1048
 date: '2012-06-09 10:00:00 +0200'
-categories: []
-tags: []
-comments: []
 ---
 Le rock français a toujours été le parent pauvre du Rock and Roll. Et pourtant ! Bien souvent, le vent de la révolte trouvait sa source dans les belles campagnes de France, avant de se transformer en tornade transgénérationnelle de l'autre côté de l'Atlantique. L’Encyclopédie Approximative du Rock and Roll rend hommage à trois de ces héros tricolores méconnus.
 

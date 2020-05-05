@@ -5,9 +5,6 @@ authors:
   - Dirty Henry
 wordpress_id: 1247
 date: '2013-06-20 12:00:00 +0200'
-categories: []
-tags: []
-comments: []
 ---
 Sorti assez injustement de nos radars, Get Well Soon y est revenu par le biais d'*Oh Boy*, chanson de générique de fin de l'excellent film éponyme. Après une découverte tardive de *The Scarlet Beast O'Seven Heads*, sorti en août 2012, nous sommes ravis de partager avec vous son titre de clôture, épique : 
 

@@ -12,7 +12,6 @@ categories:
 - Artistes
 tags:
 - Interpol
-comments: []
 ---
 <iframe width="540" height="396" src="http://www.youtube.com/embed/Ha_bppvZ0a8" frameborder="0" allowfullscreen></iframe>
 

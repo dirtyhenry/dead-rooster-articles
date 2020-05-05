@@ -12,7 +12,6 @@ categories:
 - Catégories
 tags:
 - Follow-Up
-comments: []
 ---
 {*3 Guys Never In*} avait signé en 2005 un excellent album du même nom. Sans nouvelles depuis, j'ai emprunté les autoroutes de l'information pour savoir ce qu'ils étaient devenus.
 

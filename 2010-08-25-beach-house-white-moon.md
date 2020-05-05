@@ -7,9 +7,6 @@ authors:
   - Dirty Henry
 wordpress_id: 682
 date: '2010-08-25 10:39:01 +0200'
-categories: []
-tags: []
-comments: []
 ---
 Le groupe de __Baltimore__ propose d'écouter un nouveau titre, *White Moon*, sur SoundCloud.
 

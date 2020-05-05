@@ -15,7 +15,6 @@ tags:
 - Single
 - MP3
 - Bleeding Rainbow
-comments: []
 ---
 Au programme cette semaine, __Foxes in Fiction__ revient en vedette pour ouvrir et fermer la compile avec une reprise de Katy Perry.
 

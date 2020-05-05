@@ -11,7 +11,6 @@ categories:
 tags:
 - Concert
 - Islands
-comments: []
 ---
 Dans la presse, récemment, on a pu lire l'anecdote suivante : Michael Cera, du film *Juno*, a prêté à Jack Black, du film *Be Kind Rewind*, un CD d'Alden Penner, et ce dernier en est devenu complètement fan.
 

@@ -13,7 +13,6 @@ categories:
 tags:
 - Concours Katerine
 - Single
-comments: []
 ---
 La reprise de la semaine de __Katerine, Francis et ses peintres__ est [*Toi mon toit*->http://www.katerinefrancisetsespeintres.com/25.html], de Elli Medeiros.
 

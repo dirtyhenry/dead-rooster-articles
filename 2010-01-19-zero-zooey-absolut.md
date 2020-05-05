@@ -9,6 +9,5 @@ categories:
 - Artistes
 tags:
 - Zooey Deschanel
-comments: []
 ---
 La blonde sur la photo là, voyez ? Il paraît que c'est [Zooey Deschanel->http://facebook.com/absolut] ! Le monde va mal !

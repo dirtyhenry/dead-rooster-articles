@@ -13,7 +13,6 @@ tags:
 - Adam Green
 - Herman Düne
 - The Notwist
-comments: []
 ---
 -# Grandaddy - *He's Simple, He's Dumb, He's the Pilot*
 -# The Velvet Underground - *Sunday Morning*

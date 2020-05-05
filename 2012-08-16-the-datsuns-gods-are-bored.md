@@ -9,7 +9,6 @@ categories:
 - Artistes
 tags:
 - The Datsuns
-comments: []
 ---
 <iframe width="560" height="315" src="http://www.youtube.com/embed/o_DHCL2Q2d0" frameborder="0" allowfullscreen></iframe>
 

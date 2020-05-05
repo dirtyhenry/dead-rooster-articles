@@ -9,8 +9,6 @@ authors:
   - Joe Gantdelaine
 wordpress_id: 928
 date: '2011-10-09 16:28:09 +0200'
-categories: []
-tags: []
 comments:
 - author: Dirty Henry
   author_email: dirtyhenry@gmail.com

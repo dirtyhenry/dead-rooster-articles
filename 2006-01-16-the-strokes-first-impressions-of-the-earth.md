@@ -11,7 +11,6 @@ categories:
 tags:
 - Albums
 - The Strokes
-comments: []
 ---
 Même les plus distraits et les moins curieux d'entre vous connaissent les __Strokes__, peut-être sans le savoir. Souvenez-vous de la musique de la pub EDF du printemps 2004 à base de vie qui s'écoule et qui boucle (superbe épanadiplose publicitaire qui faisait dire à la moitié des filles de la salle "oh excellent, j'adore cette pub" pendant la fête du cinéma 2004), c'était eux et leur chanson *The end has no end*.
 

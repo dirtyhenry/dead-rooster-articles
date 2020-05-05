@@ -11,7 +11,6 @@ categories:
 tags:
 - Concert
 - Lightspeed Champion
-comments: []
 ---
 Soirée plutôt sympa et assez dense jeudi dernier à la Maroquinerie pour un nouvel Inrocks Indie Club. Au programme, dans l'ordre chronologique : Koko Von Napoo, Glasvegas, These New Puritans et Lightspeed Champion.
 

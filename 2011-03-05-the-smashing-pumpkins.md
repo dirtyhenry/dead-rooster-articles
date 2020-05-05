@@ -7,9 +7,6 @@ authors:
   - Joe Gantdelaine
 wordpress_id: 756
 date: '2011-03-05 09:36:22 +0100'
-categories: []
-tags: []
-comments: []
 ---
 C'est le groupe test par excellence ! Un peu comme __Pink Floyd__. Tandis que *The Wall* des Flamants Roses est soi-disant *LE* disque parfait pour tester son installation hi-fi, le groupe qui nous intéresse aujourd'hui permet de tester son disquaire préféré. 
 

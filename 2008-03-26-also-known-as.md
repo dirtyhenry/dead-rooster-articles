@@ -11,7 +11,6 @@ categories:
 tags:
 - Albums
 - Herman Düne
-comments: []
 ---
 Il s'appelle André Herman Düne, ou alors Ben Haschish, Ben Dope, ou [Stanley Brinks->http://www.myspace.com/therealstanleybrinks]... Finalement, peu importe l'étiquette. Le gars est tout de suite identifiable à sa voix : hésitante mais en place, aiguë mais pénétrante.
 

@@ -5,9 +5,6 @@ authors:
   - Dirty Henry
 wordpress_id: 350
 date: '2007-01-22 12:37:00 +0100'
-categories: []
-tags: []
-comments: []
 ---
 Paul Smith et ses compères sortiront leur 2nd album *Our Earthly Pleasures* le 2 avril prochain. 
 

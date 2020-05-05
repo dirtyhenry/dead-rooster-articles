@@ -5,8 +5,6 @@ authors:
   - Dirty Henry
 wordpress_id: 850
 date: '2011-06-01 12:34:24 +0200'
-categories: []
-tags: []
 comments:
 - author: Jass Humepas.
   author_email: ''

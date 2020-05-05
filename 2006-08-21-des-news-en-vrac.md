@@ -9,7 +9,6 @@ categories:
 - Artistes
 tags:
 - Pulp
-comments: []
 ---
 - __Richard Ashcroft__, l'ancien leader de The Verve, annule sa participation à Rock en Seine, où il sera remplacé par Kasabian.
 

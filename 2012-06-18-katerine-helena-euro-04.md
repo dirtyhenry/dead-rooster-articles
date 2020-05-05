@@ -11,6 +11,5 @@ categories:
 tags:
 - Katerine
 - Foot
-comments: []
 ---
 <iframe src="http://player.vimeo.com/video/14743873?color=ffffff" width="540" height="432" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/14743873">Katerine - "Euro zéro quatre" - with Helena Noguerra - official video clip</a> from <a href="http://vimeo.com/sofilms">Franck Annese</a> on <a href="http://vimeo.com">Vimeo</a>.</p>

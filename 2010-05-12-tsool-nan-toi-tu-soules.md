@@ -15,7 +15,6 @@ categories:
 tags:
 - Albums
 - The Soundtrack Of Our Lives
-comments: []
 ---
 Un jour, il faudra faire une vraie liste des groupes récents injustement mis de côté par l'histoire du rock. Un [bouquin->http://www.amazon.fr/H%C3%A9ros-oubli%C3%A9s-rocknroll-Nick-Tosches/dp/2844850464/ref=sr_1_1?ie=UTF8&s=books&qid=1273671158&sr=8-1] existe déjà sur les oubliés parmi les pionniers, ceux d'avant Elvis. Mais pour les laissés pour compte post-Strokes disons, il faudra attendre combien de temps ? Combien de temps pour qu'on oublie ceux qui ne méritent que ça, combien de temps pour qu'on se souvienne de ceux qui le valaient bien ?
 

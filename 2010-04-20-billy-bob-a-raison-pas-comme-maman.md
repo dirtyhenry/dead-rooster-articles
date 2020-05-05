@@ -11,7 +11,6 @@ categories:
 - Catégories
 tags:
 - Concours Katerine
-comments: []
 ---
 Cette semaine, la reprise de __Katerine, Francis et ses peintres__ est [*Maman a tort*->http://www.katerinefrancisetsespeintres.com/16.html], de Mylène Farmer.
 

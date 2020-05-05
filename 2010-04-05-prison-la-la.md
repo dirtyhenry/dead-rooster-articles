@@ -11,7 +11,6 @@ categories:
 - Artistes
 tags:
 - Dum Dum Girls
-comments: []
 ---
 <h2>Dum Dum Girls - *Jail La La*</h2>
 

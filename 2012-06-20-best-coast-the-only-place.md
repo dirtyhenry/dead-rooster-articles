@@ -9,6 +9,5 @@ categories:
 - Artistes
 tags:
 - Best Coast
-comments: []
 ---
 <iframe width="540" height="304" src="http://www.youtube.com/embed/AJW00gx4wvE" frameborder="0" allowfullscreen></iframe>

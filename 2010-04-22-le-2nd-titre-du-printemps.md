@@ -12,7 +12,6 @@ categories:
 - Catégories
 tags:
 - Reprise
-comments: []
 ---
 {*Codeine Velvet Club*} est un groupe de Glasgow, qui prouve encore une fois que c'est une des villes les plus cools du monde. 
 

@@ -5,9 +5,6 @@ authors:
   - Dirty Henry
 wordpress_id: 1218
 date: '2013-04-15 10:00:00 +0200'
-categories: []
-tags: []
-comments: []
 ---
 Miles Kane, [clone d'Alex Turner (et compère des Last Shadow Puppets) et ex-Rascal->224], sort son 2ème LP solo, *Don't Forget Who You Are*, début juin. En voici la chanson titre :
 

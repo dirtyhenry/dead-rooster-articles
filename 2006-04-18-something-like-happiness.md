@@ -9,7 +9,6 @@ categories:
 - Catégories
 tags:
 - Cinéma
-comments: []
 ---
 -# Ca sonne vrai, 
 -# C'est bien joué, 

@@ -9,7 +9,6 @@ categories:
 - Artistes
 tags:
 - Dale Earnhardt Jr. Jr.
-comments: []
 ---
 <iframe width="540" height="304" src="http://www.youtube.com/embed/2sqqSRoFKmg" frameborder="0" allowfullscreen></iframe>
 

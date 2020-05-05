@@ -9,6 +9,5 @@ categories:
 - Artistes
 tags:
 - Florence + The Machine
-comments: []
 ---
 <iframe width="540" height="405" src="http://www.youtube.com/embed/L8Yf06sU-Hs" frameborder="0" allowfullscreen></iframe>

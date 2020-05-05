@@ -12,7 +12,6 @@ tags:
 - Dead Rooster Announcement
 - The (Raymond) Domenek! Strokes’ Cans
 - The Thrills
-comments: []
 ---
 En cette période où la pop, bizarrement, me fait davantage kiffer que le rock'n'roll, je soumets plusieurs points :
 

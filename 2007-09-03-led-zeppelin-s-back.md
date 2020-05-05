@@ -14,7 +14,6 @@ categories:
 tags:
 - Concert
 - Led Zeppelin
-comments: []
 ---
 C'était dans l'air du temps depuis déjà quelques semaines, Led Zeppelin serait sur le point de se reformer - sans John Bonham pour des raisons qui ne concernent que lui et la science - pour un concert londonien unique pour lequel les tarifs seront bien sûr exorbitants.
 

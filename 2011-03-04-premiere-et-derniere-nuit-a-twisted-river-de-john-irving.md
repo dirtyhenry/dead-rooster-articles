@@ -18,7 +18,6 @@ categories:
 tags:
 - Livre
 - John Irving
-comments: []
 ---
 Quatre ans après la parution de son précédent roman, *Je te retrouverai*, les éditions du Seuil nous offrent, en même temps que tous les éditeurs qui sont apparemment incapables de répartir les sorties sur l'année - appelez ça la rentrée littéraire - le dernier opus du très talentueux John Irving.
 

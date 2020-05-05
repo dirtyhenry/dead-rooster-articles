@@ -12,7 +12,6 @@ tags:
 - Concert
 - Blur
 - Florence + The Machine
-comments: []
 ---
 En décembre dernier, Damon Albarn lâchait une bombe : "__Blur__ jouera à Hyde Park le 3 juillet prochain". Deux minutes de réservation plus tard, le sold-out prouvait l'attachement des fans au groupe, qui rallongea la sauce de plusieurs dates. Un tel succès populaire n'était pas assuré, après six longues années depuis la sortie du dernier album du groupe *Think Tank*.
 

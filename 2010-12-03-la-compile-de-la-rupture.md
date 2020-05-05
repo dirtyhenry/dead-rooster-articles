@@ -5,9 +5,6 @@ authors:
   - Dirty Henry
 wordpress_id: 737
 date: '2010-12-03 19:26:07 +0100'
-categories: []
-tags: []
-comments: []
 ---
 - Claude François - Chanson populaire
 - Joe Dassin - Salut les Amoureux

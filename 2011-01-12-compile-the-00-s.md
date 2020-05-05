@@ -11,7 +11,6 @@ categories:
 tags:
 - Compilation
 - The National
-comments: []
 ---
 -# The Strokes - *Last Nite*
 -# Nada Surf - *Hi-Speed Soul*

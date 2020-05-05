@@ -7,8 +7,6 @@ authors:
   - Joe Gantdelaine
 wordpress_id: 831
 date: '2011-05-07 09:19:21 +0200'
-categories: []
-tags: []
 comments:
 - author: aaaaaaaaaaAAAAAAA
   author_email: aaaaaaaaaaAAAAAAA@gmail.com

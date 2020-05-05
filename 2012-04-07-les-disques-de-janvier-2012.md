@@ -11,7 +11,6 @@ categories:
 - Catégories
 tags:
 - Albums
-comments: []
 ---
 C'est déjà le week-end de Pâques et il est donc plus que temps de présenter les disques écoutés en janvier 2012, non ? Alors oui, plus de 2 mois de retard. Mais pas pour rien...
 

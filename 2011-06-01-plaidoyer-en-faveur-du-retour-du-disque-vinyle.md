@@ -8,9 +8,6 @@ authors:
   - Dirty Henry
 wordpress_id: 849
 date: '2011-06-01 11:48:55 +0200'
-categories: []
-tags: []
-comments: []
 ---
 Ma principale résolution pour 2011[[outre 1440x900 - élue meilleure blague de l'histoire]] est d'abandonner les CD au profit des disques vinyles, et de me les procurer au plus près des artistes dans la chaîne de distribution. Pourquoi ? Parce que !
 

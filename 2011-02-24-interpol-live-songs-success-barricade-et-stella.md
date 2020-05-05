@@ -5,9 +5,6 @@ authors:
   - Dirty Henry
 wordpress_id: 787
 date: '2011-02-24 14:56:25 +0100'
-categories: []
-tags: []
-comments: []
 ---
 <div id="InterpolWidget">
   <object type="application/x-shockwave-flash" data="http://www.interpolnyc.com/williamsburg/interpolwidget.swf" width="500" height="400">

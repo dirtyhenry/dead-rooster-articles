@@ -5,9 +5,6 @@ authors:
   - Dirty Henry
 wordpress_id: 1243
 date: '2013-06-05 14:24:08 +0200'
-categories: []
-tags: []
-comments: []
 ---
 Petite reprise charmante de [SIxpence None The Richer->http://youtu.be/8N-qO3sPMjc] par Mikal Cronin :
 
