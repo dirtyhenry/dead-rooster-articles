@@ -84,4 +84,5 @@ les couleurs... et un magicien pour transformer une fille en chat) ?
 [5]: http://en.wikipedia.org/wiki/Mumford_%26_Sons
 [6]: http://en.wikipedia.org/wiki/The_Big_Lebowski
 
-[2]: {% post_url ... %} [7]: {% post_url 2013-12-03-outside-llewyn-davis %}
+[2]: {% post_url 2008-10-27-zoom-sur-le-zim %} 
+[7]: {% post_url 2013-12-03-outside-llewyn-davis %}

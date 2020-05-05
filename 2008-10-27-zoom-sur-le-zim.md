@@ -48,4 +48,4 @@ Pour finir voici une liste sélective du monde de Dylan, à goûter sur le net :
 
 [2]: http://fr.wikipedia.org/wiki/Traveling_Wilburys
 
-[1]: {% post_url ... %}
+[1]: {% post_url 2010-02-13-zoom-sur-le-zep %}
