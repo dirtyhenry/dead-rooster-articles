@@ -1,27 +1,27 @@
 ---
 layout: post
-title: La plus jolie chanson du monde... ou presque
+title: La plus jolie chanson du monde… ou presque
 authors:
   - Dirty Henry
 wordpress_id: 296
-date: '2006-04-08 17:04:00 +0200'
+date: "2006-04-08 17:04:00 +0200"
 categories:
-- Catégories
+  - Catégories
 tags:
-- Trucs marrants
+  - Trucs marrants
 ---
-Dommage que ce soit une pub...
 
-Dommage que le mot "Coke" apparaisse dans les paroles parce que sinon, ce serait la chanson de Noël parfaite :
+Dommage que ce soit une pub…
 
-<blockquote>
-_ I'd like to buy the world a home and furnish it with love,
-_ Grow apple trees and honey bees, and snow white turtle doves.
-_ I'd like to teach the world to sing in perfect harmony,
-_ I'd like to buy the world a Coke and keep it company.
-_ It's the real thing, Coke is what the world wants today.
-</blockquote>
+Dommage que le mot "Coke" apparaisse dans les paroles parce que sinon, ce serait
+la chanson de Noël parfaite :
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/Q8H5263jCGg" frameborder="0" allowfullscreen></iframe>
+> I'd like to buy the world a home and furnish it with love,  
+> Grow apple trees and honey bees, and snow white turtle doves.  
+> I'd like to teach the world to sing in perfect harmony,  
+> I'd like to buy the world a Coke and keep it company.  
+> It's the real thing, Coke is what the world wants today.
 
-Qu'est-ce que j'ai soif moi tout d'un coup...
+{% youtube Q8H5263jCGg %}
+
+Qu'est-ce que j'ai soif moi tout d'un coup…

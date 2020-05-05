@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The 3 First Named People Award winner is...
+title: The 3 First Named People Award winner is…
 authors:
   - Dirty Henry
 wordpress_id: 500

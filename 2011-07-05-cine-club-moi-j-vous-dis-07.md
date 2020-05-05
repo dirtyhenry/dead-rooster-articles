@@ -65,7 +65,7 @@ La musique qui va avec : *Les vacances à la mer*, de Mike Brank
 
 Et sinon, par ordre de recommandation :
 - *Une Séparation* - Asghar Farhadi : Ours d'or du meilleur film en 2011, un très beau film iranien sur la justice et la fierté, qui finit par forcer les gens aux meilleures intentions et à la meilleure volonté possibles à ne plus se regarder dans les yeux.
-- *Pater* - Alain Cavalier : un film qui sort de l'ordinaire, imaginatif, simple et prenant... Ce qui fout les jetons, c'est qu'après deux heures de film, on se dit que Cavalier et Lindon feraient de bien meilleurs présidents que tous les présidentiables réels actuels.
+- *Pater* - Alain Cavalier : un film qui sort de l'ordinaire, imaginatif, simple et prenant… Ce qui fout les jetons, c'est qu'après deux heures de film, on se dit que Cavalier et Lindon feraient de bien meilleurs présidents que tous les présidentiables réels actuels.
 - *La Conquête* - Xavier Durringer : syndrome *The Social Network* du film intéressant pour raconter une chronologie d'événements réels. Après, la scénarisation, les qualités et défauts prêtés aux différents personnages et la valeur artistique du film laissent perplexes.
 - *Very Bad Trip/The Hangover 2* - Todd Phillips : on rigole gentiment pendant 98% du film, on rit franchement dans les 2% finaux
 - *Beginners* - Mike Mills : la sensibilité de Mills est prometteuse, [comme on l'avait déjà dit il y a 5 ans](333), mais il tarde à confirmer dans ce film assez ennuyeux

@@ -25,7 +25,7 @@ Le site [www.katerinefrancisetsespeintres.com](http://www.katerinefrancisetsespe
 
 Les 6 premières semaines de l'année furent lourdes de bonnes surprises avec des reprises de *C'est lundi*, *Une chanson douce*, *La boîte de jazz*, *Belle Île en Mer*, *Coup de folie* et *Papayou*. Mais que nous réservent les prochaines semaines ?
 
-Jouons ensemble en proposant 5 chansons. Si une des chansons pronostiquées est reprise par Katerine, on marque des points : 5 pts pour la chanson n°1, 4 pts pour la chanson n°2, etc... <strike>Les pronostics sont ouverts jusqu'à dimanche, où les pronostics seront publiés sur ce site !</strike> Le vainqueur du pronostic gagnera __une photo dédicacée de [Jean-Pierre Caca](rubrique 5)__. 
+Jouons ensemble en proposant 5 chansons. Si une des chansons pronostiquées est reprise par Katerine, on marque des points : 5 pts pour la chanson n°1, 4 pts pour la chanson n°2, etc… <strike>Les pronostics sont ouverts jusqu'à dimanche, où les pronostics seront publiés sur ce site !</strike> Le vainqueur du pronostic gagnera __une photo dédicacée de [Jean-Pierre Caca](rubrique 5)__. 
 
 Rendez-vous en 2011 pour le verdict !
 

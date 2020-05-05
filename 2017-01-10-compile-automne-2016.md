@@ -11,7 +11,7 @@ description: >
   Parce que les playlists c'est bien mais que les compiles c'est peut-être
   mieux. Parce que les Inrocks ne font plus le boulot correctement. Parce que
   nos valeurs sont découverte, prospection, patrimoine et frites. Dead Rooster
-  présente... Un Automne 2016.
+  présente… Un Automne 2016.
 ---
 
 ## Longue vie aux compiles

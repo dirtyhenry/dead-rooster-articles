@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Les brunes énervent tout le monde...
-description: 'Quatre semaines de Katerine à rattraper d''un coup... '
+title: Les brunes énervent tout le monde…
+description: 'Quatre semaines de Katerine à rattraper d''un coup… '
 authors:
   - Dirty Henry
 wordpress_id: 722
@@ -13,13 +13,13 @@ tags:
 - Concours Katerine
 - Katerine
 ---
-Quatre semaines de Katerine à rattraper d'un coup...
+Quatre semaines de Katerine à rattraper d'un coup…
 
 <h2>Les chansons des 4 dernières semaines</h2>
 
 <h3>42. *Les brunes comptent pas des brunes* de Lio</h3>
 
-Alors que tout le monde s'attendait à Banana Split... La reprise de Katerine est [ici](http://www.katerinefrancisetsespeintres.com/brunes.html). Une version VHS un peu pourrie de l'originale :
+Alors que tout le monde s'attendait à Banana Split… La reprise de Katerine est [ici](http://www.katerinefrancisetsespeintres.com/brunes.html). Une version VHS un peu pourrie de l'originale :
 
 <object width="500" height="400"><param name="movie" value="http://www.youtube.com/v/Fdu4jmtzb-8?fs=1&hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/Fdu4jmtzb-8?fs=1&hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="400"></embed></object>
 
@@ -35,7 +35,7 @@ La reprise de Katerine est [ici](http://www.katerinefrancisetsespeintres.com/ene
 
 <h3>44. *Tout le monde le fait* d'Ophélie Winter</h3>
 
-Chanson totalement inconnue au bataillon... La reprise de Katerine est [ici](http://www.katerinefrancisetsespeintres.com/monde.html). L'originale :
+Chanson totalement inconnue au bataillon… La reprise de Katerine est [ici](http://www.katerinefrancisetsespeintres.com/monde.html). L'originale :
 
 <object width="500" height="400"><param name="movie" value="http://www.youtube.com/v/cGGp54buqlw?fs=1&hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/cGGp54buqlw?fs=1&hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="400"></embed></object>
 
@@ -64,4 +64,4 @@ Personne ne marque de point.
 
 Il est encore temps de participer en [cliquant ici](569) !
 
-Toutes les reprises sont disponibles sur [le site de Katerine, Francis et ses peintres](http://www.katerinefrancisetsespeintres.com/)...
+Toutes les reprises sont disponibles sur [le site de Katerine, Francis et ses peintres](http://www.katerinefrancisetsespeintres.com/)…

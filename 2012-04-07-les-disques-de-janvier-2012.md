@@ -12,7 +12,7 @@ categories:
 tags:
 - Albums
 ---
-C'est déjà le week-end de Pâques et il est donc plus que temps de présenter les disques écoutés en janvier 2012, non ? Alors oui, plus de 2 mois de retard. Mais pas pour rien...
+C'est déjà le week-end de Pâques et il est donc plus que temps de présenter les disques écoutés en janvier 2012, non ? Alors oui, plus de 2 mois de retard. Mais pas pour rien…
 
 Si vous vous référez [au point n°2 de notre feuille de route 2012](http://www.deadrooster.org/La-feuille-de-route-2012-de-Dead), vous lirez : 
 

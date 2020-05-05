@@ -1,6 +1,6 @@
 ---
 layout: post
-title: No future ? Surtout quand on meurt...
+title: No future ? Surtout quand on meurt…
 authors:
   - Dirty Henry
 wordpress_id: 591

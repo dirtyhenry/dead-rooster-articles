@@ -20,6 +20,6 @@ Ce sont trois bonnes raisons d'aller voir ce film. Y'en a sûrement d'autres, c'
 -* Si y'en a qui aiment les scènes entre mecs bourrés, y'en a. 
 -* Si y'en a qui aiment les vendeurs de salles de bain à qui on a envie de filer des baignes, y'en a aussi. 
 
-Y'a même des animaux de la ferme, alors c'est pour dire qu'on trouve vraiment à boire et à manger dans ce film...
+Y'a même des animaux de la ferme, alors c'est pour dire qu'on trouve vraiment à boire et à manger dans ce film…
 
 Découvrez plus d'info autour du film via [Allociné](http://www.allocine.fr/film/fichefilm_gen_cfilm=108851.html).

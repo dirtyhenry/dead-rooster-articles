@@ -17,7 +17,7 @@ comments:
 - author: Dirty Henry
   author_email: dirtyhenry@gmail.com
   date: '2009-10-18 19:37:36 +0200'
-  title: Une autre vidéo tirée du film...
+  title: Une autre vidéo tirée du film…
   content: "Trouvée via le blog : http://fansdechicklit.blogspot.com/2009/10/hot-guy-of-month-joseph-gordon-levitt.html\r\n\r\nhttp://www.youtube.com/watch?v=17KUOQOlt8E"
 - author: Adeline
   author_email: drown.soda@yahoo.fr
@@ -26,7 +26,7 @@ comments:
   content: "J'ai adoré (500) Days of Summer, ce film est tellement rafraîchissant
     ! Il faudra que j'aille le voir une seconde fois, pour vérifier ce que dit Marc
     Webb dans une interview : que la couleur bleue est associée à Summer, et que toutes
-    les scènes sans elle ne contiennent aucun élément bleu, pour créer un manque...\r\nLa
+    les scènes sans elle ne contiennent aucun élément bleu, pour créer un manque…\r\nLa
     vidéo sid & nancy est géniale ! Au fait, existe-t-il un lien entre Marc Webb et
     Chloe Webb, qui joue le rôle de Nancy dans le film original ?\r\nEt au sujet de
     la BO, j'ai eu le plaisir de reconnaître \"Sugar Town\" de la grande Nancy Sinatra,
@@ -75,12 +75,12 @@ __La chanson qui va avec__ : *Avoir un bon copain* bien sûr !
 <img338>
 <h2>*Le Petit Nicolas* - Laurent Tirard</h2>
 
-Est-il nécessaire de présenter le personnage de Goscinny et Sempé ? Est-il utile de s'étendre sur son adaptation ciné ? Quelques mots suffisent : "ennuyeux et globalement nul". Aussi raté que l'œuvre originale est brillante, arrivant à transformer Kad Merad et Valérie Lemercier en acteurs pathétiques et soporifiques, Laurent Tirard nous offre une oeuvre à oublier rapidement. Seuls éléments sauvables : le générique de début et les personnages de Clotaire et d'Agnan, qui arrivent à faire lever une paupière de temps en temps... 
+Est-il nécessaire de présenter le personnage de Goscinny et Sempé ? Est-il utile de s'étendre sur son adaptation ciné ? Quelques mots suffisent : "ennuyeux et globalement nul". Aussi raté que l'œuvre originale est brillante, arrivant à transformer Kad Merad et Valérie Lemercier en acteurs pathétiques et soporifiques, Laurent Tirard nous offre une oeuvre à oublier rapidement. Seuls éléments sauvables : le générique de début et les personnages de Clotaire et d'Agnan, qui arrivent à faire lever une paupière de temps en temps… 
 
-Tout cela est terriblement décevant de la part d'un bonhomme qui avait du crédit depuis *Mensonges et trahisons et plus si affinités...* et qui le consomme bien rapidement. Dans ce film avec Edouard Baer et Clovis Cornillac, il avait réussi à imprimer sur pellicule l'une des plus grandes légendes urbaines contemporaines : le sanglier accidenté qu'on met dans le coffre alors qu'il n'est pas encore vraiment mort. Big up également à Rémi Bezançon, qui s'était occupé de la légende du permis raté à cause du chien qui traverse la route dans *Le Premier jour du reste de ta vie*. 
+Tout cela est terriblement décevant de la part d'un bonhomme qui avait du crédit depuis *Mensonges et trahisons et plus si affinités…* et qui le consomme bien rapidement. Dans ce film avec Edouard Baer et Clovis Cornillac, il avait réussi à imprimer sur pellicule l'une des plus grandes légendes urbaines contemporaines : le sanglier accidenté qu'on met dans le coffre alors qu'il n'est pas encore vraiment mort. Big up également à Rémi Bezançon, qui s'était occupé de la légende du permis raté à cause du chien qui traverse la route dans *Le Premier jour du reste de ta vie*. 
 <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/SCcnQqtOSvg&hl=fr&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/SCcnQqtOSvg&hl=fr&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
 
-__La chanson qui va avec__ : symptôme du mal, la chanson du générique de fin est chantée par Renan Luce ou l'un de ses clônes alors que plusieurs chansons s'imposaient : *Fais pas ci, fais pas ça* de Dutronc ou [*Poil au tableau*](http://www.youtube.com/watch?v=5H2sSWmWJGc) de Gotainer...
+__La chanson qui va avec__ : symptôme du mal, la chanson du générique de fin est chantée par Renan Luce ou l'un de ses clônes alors que plusieurs chansons s'imposaient : *Fais pas ci, fais pas ça* de Dutronc ou [*Poil au tableau*](http://www.youtube.com/watch?v=5H2sSWmWJGc) de Gotainer…
 
 <hr />
 La playlist sur Spotify : [http://open.spotify.com/user/dirtyhenry/playlist/1XrlfhASZRJf8zjyMhREnX](http://open.spotify.com/user/dirtyhenry/playlist/1XrlfhASZRJf8zjyMhREnX)

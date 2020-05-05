@@ -18,7 +18,7 @@ La tête d'affiche est relativement connue, il s'agit des __BellRays__, groupe c
 
 Mais dès l'arrivée devant la salle, le ciel me tombe sur la tête, la feuille A4 scotchée sur la porte est on ne peut plus claire : "Le concert des Soledad Brothers est annulé pour cause de dissolution." Non !!! Pourquoi seigneur ?! Pourquoi ne verrai-je donc plus jamais ce groupe formidable, aux concerts formidables qui passaient le plus souvent dans des salles formidables à des tarifs formidables !!! Noyant ma déception dans la bière, je patiente donc jusqu'au début du concert des BellRays en me rappelant tous les souvenirs que nous avions partagé ensemble, les Soledad Brothers et moi. 
 
-Ah ce petit *Cage That Tiger* du concert du point éphémère de l'année dernière... Ah ces gros bras du batteur qu'on avait découverts au CAT à Bordeaux... Et merde, je n'aurai jamais de tee-shirt d'eux, je me contenterai de mon pull bleu et blanc à rayures, qui était déjà serré à l'époque où je l'avais acheté et qu'il faut que j'évite de porter complètement désormais ou je risque de me provoquer une occlusion intestinale.
+Ah ce petit *Cage That Tiger* du concert du point éphémère de l'année dernière… Ah ces gros bras du batteur qu'on avait découverts au CAT à Bordeaux… Et merde, je n'aurai jamais de tee-shirt d'eux, je me contenterai de mon pull bleu et blanc à rayures, qui était déjà serré à l'époque où je l'avais acheté et qu'il faut que j'évite de porter complètement désormais ou je risque de me provoquer une occlusion intestinale.
 
 <img352>
 

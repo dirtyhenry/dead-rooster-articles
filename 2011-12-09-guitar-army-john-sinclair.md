@@ -47,7 +47,7 @@ Sinclair y narre les vagues de son mouvement. Dans les temps forts, il raconte q
 
 Pour Sinclair, la jeunesse américaine doit prendre le pouvoir. Il prône un message pacifiste, dénigre [le grand soir](http://fr.wikipedia.org/wiki/Le_Grand_Soir) au profit d'un long processus de prise de pouvoir progressif en s'infiltrant dans les médias existants, en créant des disques sans passer par les majors, en organisant des concerts en évitant les gros acteurs. Pour lui, les "porcs" ont pris conscience de la menace de sa communauté et ont introduit l'héroïne (une "drogue de mort“), que les jeunes commencent à préférer à l'herbe et au LSD (des "drogues de vie"), pour tenter de la détruire. Alors Sinclair durcit son langage et envisage de prendre les armes, tout en continuant de convaincre les gens que l'héroïne c'est mal, que l'alcool c'est mal aussi :
 
-<blockquote>«Ils veulent que tu boives de l'alcool parce que ça fait partie intégrante du système culturel réactionnaire. L'alcool te fait accepter toutes les conneries soporifiques, le mode de vie conditionnel et les contraintes du boulot. (...) Le reste des activités qui leur sont proposées va de pair avec le travail à l'usine - se saouler, jouer au bowling, chasser, acheter du mobilier, fonder une famille nucléaire, acheter une nouvelle voiture ou des fringues élégantes, aller au salon de beauté, toutes ces conneries»</blockquote>
+<blockquote>«Ils veulent que tu boives de l'alcool parce que ça fait partie intégrante du système culturel réactionnaire. L'alcool te fait accepter toutes les conneries soporifiques, le mode de vie conditionnel et les contraintes du boulot. (…) Le reste des activités qui leur sont proposées va de pair avec le travail à l'usine - se saouler, jouer au bowling, chasser, acheter du mobilier, fonder une famille nucléaire, acheter une nouvelle voiture ou des fringues élégantes, aller au salon de beauté, toutes ces conneries»</blockquote>
 
 
 qu'il faut continuer à vivre en communauté :
@@ -58,12 +58,12 @@ qu'il faut continuer à vivre en communauté :
 
 Traqué par la police, il va faire plusieurs séjours en prison, le plus fameux faisant suite à une condamnation de 10 ans de prison pour possession de 2 joints (cf. le fameux «they gave him 10 for 2» de la chanson de Lennon). Les mouvements de soutien s'enchaînent et Sinclair sort finalement de prison au bout de 2 ans. Mais à la sortie, les choses ont changé : «les gens étaient déjà en train de couper leurs cheveux ou de remettre leurs soutiens-gorge».
 
-<h2>Et maintenant...</h2>
+<h2>Et maintenant…</h2>
 
 L'ouvrage s'arrête là. Nous sommes alors en 1971. Quand on se documente un peu sur internet pour voir ce que Sinclair a fait ces 40 dernières années, on se rend compte que tous ses efforts politiques ont un peu fini en eau de boudin. Il a fini par aller faire le DJ en Lousiane, faire de la «poésie sonore», et est aujourd'hui installé à Amsterdam, et vend des graines de marijuana par internet. C'est un peu la lose.
 
 Un passage intéressant à lire, quand on est en pleine crise financière de 2011 : 
-<quote>«L'économie est aux mains de 200 familles américaines ou européennes. (...) La classe dominante ne sait plus du tout ce qu'elle fait : ses membres se contentent d'appuyer sur des boutons en espérant que les machines vont faire le boulot à leur place. Ils ne comprennent pas plus comment leur système fonctionne que je ne comprends comment fonctionne un ampli Marshall - ils se contentent de brancher l'alimentation et prient pour que ça se passe bien.»</quote>
+<quote>«L'économie est aux mains de 200 familles américaines ou européennes. (…) La classe dominante ne sait plus du tout ce qu'elle fait : ses membres se contentent d'appuyer sur des boutons en espérant que les machines vont faire le boulot à leur place. Ils ne comprennent pas plus comment leur système fonctionne que je ne comprends comment fonctionne un ampli Marshall - ils se contentent de brancher l'alimentation et prient pour que ça se passe bien.»</quote>
 
 
 Guitar Army finit par une liste sans fin de disques de rock & roll, de rhythm & blues et de livres. Voici une compile Spotify de quelques artistes recommandés  pour se mettre dans l'ambiance :

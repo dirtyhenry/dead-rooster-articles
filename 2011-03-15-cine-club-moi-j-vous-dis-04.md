@@ -37,7 +37,7 @@ Plus je vieillis, plus j'aime quand un film me permet de glisser une oreille ver
 
 <iframe title="YouTube video player" width="500" height="405" src="http://www.youtube.com/embed/Y7F4z8FV6ME" frameborder="0" allowfullscreen></iframe>
 
-Même sur le domaine de la B.O., *Black Swan* ne se montre pas hyper intéressant : du classique connu de tous (le motif principal du lac des cygnes, tout le monde connaît quand même, faut pas déconner) et The Chemical Brothers. La prochaine fois, Aronofsky n'aura qu'à blinder sa B.O. de Massive Attack et on sera fâchés pour la vie... Pour fêter ça, allez, un peu de ska !
+Même sur le domaine de la B.O., *Black Swan* ne se montre pas hyper intéressant : du classique connu de tous (le motif principal du lac des cygnes, tout le monde connaît quand même, faut pas déconner) et The Chemical Brothers. La prochaine fois, Aronofsky n'aura qu'à blinder sa B.O. de Massive Attack et on sera fâchés pour la vie… Pour fêter ça, allez, un peu de ska !
 
 <iframe title="YouTube video player" width="500" height="405" src="http://www.youtube.com/embed/-utkYnIV1_k" frameborder="0" allowfullscreen></iframe>
 
@@ -67,7 +67,7 @@ Aussi, si le récit met beaucoup de temps à se construire, la question finale e
 
 La musique qui va avec : *What's Under The House* - Goldspot
 
-La B.O. est globalement très mièvre, mais ce titre est à sauver...
+La B.O. est globalement très mièvre, mais ce titre est à sauver…
 
 <iframe title="YouTube video player" width="500" height="311" src="http://www.youtube.com/embed/IXtOSt2vG80" frameborder="0" allowfullscreen></iframe>
 

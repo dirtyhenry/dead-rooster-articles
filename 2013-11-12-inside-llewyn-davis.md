@@ -73,7 +73,7 @@ vainqueur de l'oscar de la meilleure chanson originale en 2010.
 
 L'affiche du film n'est-elle pas un hommage aux cover arts de Bob Dylan (_The
 Freewheelin' Bob Dylan_ pour le décor et _The Times They Are A-Changin'_ pour
-les couleurs... et un magicien pour transformer une fille en chat) ?
+les couleurs… et un magicien pour transformer une fille en chat) ?
 
 {% asset llewyn-dylan.png %}
 

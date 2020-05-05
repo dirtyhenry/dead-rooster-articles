@@ -3,7 +3,7 @@ layout: post
 title: I.P.U.T.A.S.P.E.L.L.O.N.Y.O.U.
 description: La semaine dernière, [Yann Tiersen était à l'honneur ici-même](837).
   Le titre {Palestine} était évoqué mais tout n'a pas été dit sur ce titre. Ceux qui
-  l'ont écouté le savent, son titre aurait dû être {P.A.L.E.S.T.I.N.E.} et ainsi rejoindre...
+  l'ont écouté le savent, son titre aurait dû être {P.A.L.E.S.T.I.N.E.} et ainsi rejoindre…
   "La Grande Tradition des Titres Épelés".
 authors:
   - Dirty Henry
@@ -20,7 +20,7 @@ tags:
 - Noah and the Whale
 - Justice
 ---
-La semaine dernière, [Yann Tiersen était à l'honneur ici-même](837). Le titre *Palestine* était évoqué mais tout n'a pas été dit sur ce titre. Ceux qui l'ont écouté le savent, son titre aurait dû être *P.A.L.E.S.T.I.N.E.* et ainsi rejoindre... "La Grande Tradition des Titres Épelés".
+La semaine dernière, [Yann Tiersen était à l'honneur ici-même](837). Le titre *Palestine* était évoqué mais tout n'a pas été dit sur ce titre. Ceux qui l'ont écouté le savent, son titre aurait dû être *P.A.L.E.S.T.I.N.E.* et ainsi rejoindre… "La Grande Tradition des Titres Épelés".
 
 <h2>Le déclic : *Palestine*, de Yann Tiersen</h2>
 
@@ -44,7 +44,7 @@ Quand Blur fait du punk avec des sons marrants, c'est génial et ça donne <stri
 
 <h2>Le tube qui ne le mérite pas : *L.I.F.E.G.O.E.S.O.N.* de Noah & The Whale</h2>
 
-Sur son dernier album, Noah And The Whale part complètement en sucette et [grille les jokers qu'on lui avait bien gentiment accordés](540). Au premier rang de ces ratages, <strike>*Life Goes On*</strike> *L.I.F.E.G.O.E.S.O.N.* figure en bonne position mais a complètement cartonné en Angleterre. C'est pas comme ça qu'on va les aider à se remettre en question...
+Sur son dernier album, Noah And The Whale part complètement en sucette et [grille les jokers qu'on lui avait bien gentiment accordés](540). Au premier rang de ces ratages, <strike>*Life Goes On*</strike> *L.I.F.E.G.O.E.S.O.N.* figure en bonne position mais a complètement cartonné en Angleterre. C'est pas comme ça qu'on va les aider à se remettre en question…
 
 <iframe width="500" height="405" src="http://www.youtube.com/embed/Y8XuMDi-wIk?rel=0" frameborder="0" allowfullscreen></iframe>
 

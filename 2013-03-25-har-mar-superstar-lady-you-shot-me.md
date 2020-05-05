@@ -14,7 +14,7 @@ Et oui, c'est bien lui qui fait un disco duel avec Ben Stiller dans Starsky et H
 
 (via [Cult Records](http://www.cultrecords.com/splash/harmar-byebye17/))
 
-UPDATE : et maintenant la vidéo...
+UPDATE : et maintenant la vidéo…
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/ouuqJ0pkWvU" frameborder="0" allowfullscreen></iframe>
 

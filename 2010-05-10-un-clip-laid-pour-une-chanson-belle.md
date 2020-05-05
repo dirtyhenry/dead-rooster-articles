@@ -2,7 +2,7 @@
 layout: post
 title: Un clip laid pour une chanson belle
 description: Découverte tardive du clip de {Sore} par {{Annuals}}. Si la chanson est
-  un chef-d'œuvre, ils auraient quand même pu faire mieux niveau clip...
+  un chef-d'œuvre, ils auraient quand même pu faire mieux niveau clip…
 authors:
   - Dirty Henry
 wordpress_id: 612

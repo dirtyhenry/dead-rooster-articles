@@ -15,11 +15,11 @@ comments:
   date: '2006-08-23 12:54:20 +0200'
   title: La Malédiction des Festivals
   content: Salut    Ben sympa ton blog ! que j'ai découvert au travers des surf sur
-    page route du rock...   On peut dire que tu as la poisse! euh, tu as pas décider
+    page route du rock…   On peut dire que tu as la poisse! euh, tu as pas décider
     de changer de voiture depuis le temps ? ;) Bonne continuation sur la route des
     festivals et concerts
 ---
-Comment voir 40% en moyenne de la programmation de 4 journées de festival sans le vouloir et en étant plein de bonne volonté pour voir 100% ? La réponse est ici. Tout a commencé en avril...
+Comment voir 40% en moyenne de la programmation de 4 journées de festival sans le vouloir et en étant plein de bonne volonté pour voir 100% ? La réponse est ici. Tout a commencé en avril…
 
 <h2>Chapitre 1. Le Printemps de Bourges</h2>
 
@@ -57,7 +57,7 @@ Retour sur le site du festival pour le concert de Katerine ! Excellent tes potes
 
 <h3>Dimanche.</h3>
 
-Enfin... Une journée 100% ! On a pu faire l'ouverture des portes, et je suis resté jusqu'à la fin ! Programme copieux avec : Duchesse says, My baby wants to eat your pussy (!), Islands, Art Brut, Aberfelby, We are wolves, Archive, Muse. Pas mal, pas mal... mais un peu tard...
+Enfin… Une journée 100% ! On a pu faire l'ouverture des portes, et je suis resté jusqu'à la fin ! Programme copieux avec : Duchesse says, My baby wants to eat your pussy (!), Islands, Art Brut, Aberfelby, We are wolves, Archive, Muse. Pas mal, pas mal… mais un peu tard…
 
 <h3>Lundi.</h3>
 

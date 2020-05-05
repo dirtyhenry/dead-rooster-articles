@@ -32,6 +32,6 @@ Après ce plat de résistance, *Muss* est un no man's land désolé, un dimanche
 
 <iframe title="YouTube video player" width="500" height="311" src="http://www.youtube.com/embed/1AewoLLojss" frameborder="0" allowfullscreen></iframe>
 
-Au pays des drogues, les licornes sont les reines. C'est ce que semble vouloir dire *Unicorn in Uniform* et ses chœurs beatlessiens. Passons rapidement (pas plus de 25 secondes quoi...) sur *Grandpa Moff* pour arriver directement à la conclusion de ce premier album : *Please Turn Me Into The Snat* semble être un condensé de tout ce qui précède, batterie martiale par-ci, basse melodynelsonnesque par-là, le tout dans un monde brouillardeux et difforme.
+Au pays des drogues, les licornes sont les reines. C'est ce que semble vouloir dire *Unicorn in Uniform* et ses chœurs beatlessiens. Passons rapidement (pas plus de 25 secondes quoi…) sur *Grandpa Moff* pour arriver directement à la conclusion de ce premier album : *Please Turn Me Into The Snat* semble être un condensé de tout ce qui précède, batterie martiale par-ci, basse melodynelsonnesque par-là, le tout dans un monde brouillardeux et difforme.
 
 Le voyage s'arrête là, sauf qu'on n'a qu'une envie : tout recommencer depuis le début ! Attachez votre ceinture. Mettez vos baskets, chouette, c'est sympa, tu verras ! Hop ! (Re)Play !

@@ -3,7 +3,7 @@ layout: post
 title: The Police
 description: Cette semaine, l'encyclopédie se refuse à faire des jeux de mots pourris
   à base de "Lieutenant Sting" ou "les pères spirituels d'Interpol". Non ! Elle fait
-  pire...
+  pire…
 authors:
   - Joe Gantdelaine
 wordpress_id: 832

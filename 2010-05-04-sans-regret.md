@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sans regret...
+title: Sans regret…
 description: "Le titre de la semaine de {{Katerine, Francis et ses peintres}} est
   {Je ne veux pas rentrer\r\nchez moi seule}, du groupe Regrets."
 authors:
@@ -28,4 +28,4 @@ Bien heureusement, personne ne l'a trouvé. Classement inchangé :
 
 Il est encore temps de participer en [cliquant ici](569) !
 
-Toutes les reprises sont disponibles sur [le site de Katerine, Francis et ses peintres](http://www.katerinefrancisetsespeintres.com/)...
+Toutes les reprises sont disponibles sur [le site de Katerine, Francis et ses peintres](http://www.katerinefrancisetsespeintres.com/)…

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Finies les carresses et bises à l'oeil...
+title: Finies les carresses et bises à l'oeil…
 authors:
   - Dirty Henry
 wordpress_id: 890

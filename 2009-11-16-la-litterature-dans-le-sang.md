@@ -1,6 +1,6 @@
 ---
 layout: post
-title: La littérature dans le sang...
+title: La littérature dans le sang…
 authors:
   - Dirty Henry
 wordpress_id: 547

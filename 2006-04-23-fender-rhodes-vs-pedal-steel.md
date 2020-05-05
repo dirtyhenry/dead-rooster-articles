@@ -20,7 +20,7 @@ tags:
 
 C'est enfin au tour de la tête d'affice, <a href="http://www.isobelcampbell.com/">Isobel Campbell</a>. Accompagné d'un groupe fourni, l'ex de Belle and Sebastian commence le set par les chansons de son disque <span style="font-style:italic;">Ballad of the broken seas</span> et en l'absence de Mark Lanegan, c'est un pote à Isobel qui chante à sa place et lui pique presque la vedette. La seconde partie du concert est meilleure, les chansons deviennent pop, folk et country et la recette marche nettement mieux. 
 
-Et là, l'objet du post prend tout son sens... Un des musiciens d'Isobel joue de cet instrument qui sonne très musique hawaïenne et je pense savoir qu'il s'agit d'un Fender Rhodes... Non, un pedal steel... Putain mais c'est quoi ces 2 instruments souvent crédités dans les livrets de CD ?! Lequel est lequel ? Après enquête auprès de mes comparses dont je me rends compte qu'ils se posent tous en secret la même question, je décide de mener l'enquête et voici les résultats.
+Et là, l'objet du post prend tout son sens… Un des musiciens d'Isobel joue de cet instrument qui sonne très musique hawaïenne et je pense savoir qu'il s'agit d'un Fender Rhodes… Non, un pedal steel… Putain mais c'est quoi ces 2 instruments souvent crédités dans les livrets de CD ?! Lequel est lequel ? Après enquête auprès de mes comparses dont je me rends compte qu'ils se posent tous en secret la même question, je décide de mener l'enquête et voici les résultats.
 
 Le Fender Rhodes c'est plus un clavier :
 

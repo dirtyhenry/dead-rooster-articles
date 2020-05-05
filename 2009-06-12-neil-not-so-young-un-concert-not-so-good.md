@@ -14,7 +14,7 @@ tags:
 ---
 {*Neil Young*}, ou l'essence même de l'artiste transgénérationnel, au sens où nos parents écoutaient déjà *Harvest* sur l'autoradio de leur R5 qui sentait encore le neuf quand ils partaient en vacances en 73 à Font-Romeu.
 
-Plus de 30 ans après, il semble toujours difficile de passer un été ensoleillé sans s'envoyer de temps en temps un petit *Heart of Gold* ou un *Out on the Weekend* de derrière les fagots...
+Plus de 30 ans après, il semble toujours difficile de passer un été ensoleillé sans s'envoyer de temps en temps un petit *Heart of Gold* ou un *Out on the Weekend* de derrière les fagots…
 
 C'est donc la tête pleine de pépites acoustiques du vieux Neil, mais aussi avec en mémoire des titres plus pêchus de la période *Crazy Horse* que je me rendis au __Zénith de Paris__, avec cette idée lancinante : et si c'était le concert de ma vie ?
 

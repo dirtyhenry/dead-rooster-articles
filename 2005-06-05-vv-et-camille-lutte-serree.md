@@ -30,7 +30,7 @@ suspense est levé immédiatement, Hotel est vraiment un sosie-mix entre
 Jean-Louis Aubert et Iggy Pop et VV est terrible à tous les sens de termes !
 Sauvagerie (entre les chansons, elle tourne en rond tête baissé et à vive allure
 comme on imagine que Bagheera l'aurait fait si il avait préfére faire du rock
-que du dessin animé), rock'n'roll attitude, physique top-modélesque... Je pense
+que du dessin animé), rock'n'roll attitude, physique top-modélesque… Je pense
 que tous ceux qui étaient au concert sont tombés amoureux de VV et risquent de
 le rester assez longtemps.
 

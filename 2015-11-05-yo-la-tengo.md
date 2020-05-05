@@ -40,7 +40,7 @@ replacer l'action dans un club de jazz snob du New Jersey, où tout le monde
 porte un béret et des lunettes rondes. Mais on accepte bien volontiers cette
 caricature, puisqu'on en fait partie !
 
-"Bon, ok... Mais, il était comment ce concert ?" se demandent impatiemment les
+"Bon, ok… Mais, il était comment ce concert ?" se demandent impatiemment les
 lecteurs. A l'image du public inoffensif, le concert était plein de légèreté, de
 moments sweet et de versions épurées de titres plus ou moins récents. On est
 divinement bien. On applaudit gentiment entre les chansons tandis qu'un roadie

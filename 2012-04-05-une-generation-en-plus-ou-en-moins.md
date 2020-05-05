@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Une génération en plus ou en moins...
+title: Une génération en plus ou en moins…
 authors:
   - Dirty Henry
 wordpress_id: 1020

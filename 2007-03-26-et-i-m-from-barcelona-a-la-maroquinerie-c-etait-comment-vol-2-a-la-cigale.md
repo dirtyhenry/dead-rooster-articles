@@ -20,7 +20,7 @@ Cher journal, je n'ai pas peur de te le dire : j'ai vu ce soir l'un des meilleur
 
 1/ Ils ont commencé comme si c'était le rappel. Dès le début, tous s'agitaient sur scène, donnaient tout ce qu'ils pouvaient, et ça j'aime !
 
-2/ Ils ont continué en alignant tubes pop sur tubes pop (quasiment tout l'album y est passé...). Le seul commentaire que j'ai été capable de lancer fut : "j'ai l'impression qu'on a gagné la coupe du monde !"
+2/ Ils ont continué en alignant tubes pop sur tubes pop (quasiment tout l'album y est passé…). Le seul commentaire que j'ai été capable de lancer fut : "j'ai l'impression qu'on a gagné la coupe du monde !"
 
 3/ Ils ont fini dans une sorte de fête technoïsante jouissive qui, en temps normal, clôture les journées phares des festivals estivaux.
 

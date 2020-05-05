@@ -16,7 +16,7 @@ tags:
 ---
 La première écoute de *Time To Pretend* avait été une révélation. Peut-être le meilleur single depuis *Take Me Out* de Franz Ferdinand. L'auteur de ce tube ? __MGMT__, à prononcer management, soit Andrew et Ben, deux jeunes gens de Brooklyn.
 
-Quelques semaines plus tard, après un buzz YouTube de <a href="http://www.youtube.com/watch?v=XqzoRQv2UIU" title="MGMT chez Letterman avec des capes">leur passage capé au show de David Letterman</a>, leur 1er album, *Oracular Spectacular*, arrive enfin... et déçoit un peu. On se dit qu'on a peut être affaire à un nouveau Guillemots qui avait terriblement déçu au delà de leur brillant *Trains To Brazil*.
+Quelques semaines plus tard, après un buzz YouTube de <a href="http://www.youtube.com/watch?v=XqzoRQv2UIU" title="MGMT chez Letterman avec des capes">leur passage capé au show de David Letterman</a>, leur 1er album, *Oracular Spectacular*, arrive enfin… et déçoit un peu. On se dit qu'on a peut être affaire à un nouveau Guillemots qui avait terriblement déçu au delà de leur brillant *Trains To Brazil*.
 
 Après quelques écoutes pourtant, la sauce reprend. La construction texturée des morceaux de l'album finit par s'imposer comme bien plus complexe qu'au premier abord, très riche et fourmillant de bonnes idées, toujours élégament portée par des riffs aux mélodies imparables et entêtantes.
 

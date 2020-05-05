@@ -53,4 +53,4 @@ Quant au reste de la programmation de la Route du Rock, peu de bonnes surprises,
 - Serena Maneesh : brouillon et ça se la raconte (1)
 - Archie Bronson Outfit : bien meilleur que la 1ère fois que je les avais vus (3)
 - The National : brillant et intense (5)
-- The Flaming Lips : spectaculaire et original... mais bien peu de musique (2)
+- The Flaming Lips : spectaculaire et original… mais bien peu de musique (2)

@@ -3,7 +3,7 @@ layout: post
 title: Arcade Fire est-il le prochain Muse ?
 description: Plus que 5 jours avant la sortie du très attendu 3ème album d'Arcade
   Fire, {Suburbs}. La sortie de cet album est précédé d'un buzz énorme qui, je l'avoue,
-  me fait un peu peur...
+  me fait un peu peur…
 authors:
   - Dirty Henry
 wordpress_id: 662
@@ -24,7 +24,7 @@ comments:
   author_email: ''
   date: '2010-08-08 14:37:02 +0200'
   title: Arcade Fire est-il le prochain Muse ?
-  content: "... Euh, j'ai vu le stream sur You Tube depuis la France.\r\nRegine est
+  content: "… Euh, j'ai vu le stream sur You Tube depuis la France.\r\nRegine est
     à la base de l'unique engagement humanitaire d'Arcade Fire, pour Haiti, où elle
     a grandit avant de fuir la dictature.\r\n\r\nKeep up the great work."
 - author: Dirty Henry
@@ -32,7 +32,7 @@ comments:
   date: '2010-08-10 11:11:01 +0200'
   title: Arcade Fire est-il le prochain Muse ?
   content: "De chez moi, la page YouTube affichait un décourageant \"Unavailable in
-    your country\"... Bizarre.\r\n\r\nPour l'engagement humanitaire du groupe, c'est
+    your country\"… Bizarre.\r\n\r\nPour l'engagement humanitaire du groupe, c'est
     évidemment très respectable de leur part. J'avais juste peur qu'avec tous ces
     à-côté, le 3ème disque soit une merde :)\r\n\r\nDepuis j'ai écouté le disque et
     je confesse que mes peurs étaient infondées. J'en parlerai début septembre, après
@@ -46,6 +46,6 @@ Parmi toutes les joyeusetés qui accompagnent la sortie de l'album (qui aura 8 p
 
 Pourrons-nous voir ce stream ? Pas en France ! En effet, Arcade Fire semble avoir confié la gestion de ses vidéos à Vevo, une compagnie familiale détenue par Google et Universal Music (indice Muse n°3), qui a choisi de ne pas nous en faire profiter. Sympa et intelligent.
 
-Bref, Arcade Fire me fait peur...
+Bref, Arcade Fire me fait peur…
 
 ps : pour la bonne cause, la chanteuse du groupe, originaire de Haïti, lance [le groupe dans l'humanitaire](http://www.arcadefire.com/haiti/) (indice U2 n°1).

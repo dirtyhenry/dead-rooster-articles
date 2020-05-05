@@ -22,7 +22,7 @@ Quelques exemples :
 
 <h2>Mozinor</h2>
 
-[Mozinor](http://www.mozinor.com/) est un site de détournement d'extraits de film : on garde 90% des images, on fait quelques inserts et on redouble le bordel. Florilège...
+[Mozinor](http://www.mozinor.com/) est un site de détournement d'extraits de film : on garde 90% des images, on fait quelques inserts et on redouble le bordel. Florilège…
 
 <h3>Mozinor refait James Bond</h3>
 

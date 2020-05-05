@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ils connaissent pas Jacky...
+title: Ils connaissent pas Jacky…
 authors:
   - Joe Gantdelaine
 wordpress_id: 530

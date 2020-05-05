@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Etre chanceux d'aucun surf...
+title: Etre chanceux d'aucun surf…
 authors:
   - Dirty Henry
 wordpress_id: 195

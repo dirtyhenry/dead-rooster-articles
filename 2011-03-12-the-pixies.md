@@ -18,8 +18,8 @@ comments:
   author_email: guiguilele@gmail.com
   date: '2011-03-12 15:28:59 +0100'
   title: The Pixies
-  content: Merci beaucoup pour ces précisions...il est un jour où nous reviendrons
-    sur ce brave Hugues...
+  content: Merci beaucoup pour ces précisions…il est un jour où nous reviendrons
+    sur ce brave Hugues…
 - author: Dirty Henry
   author_email: dirtyhenry@gmail.com
   date: '2011-03-12 20:58:40 +0100'
@@ -37,8 +37,8 @@ comments:
   author_email: ''
   date: '2011-03-14 16:36:53 +0100'
   title: The Pixies
-  content: "Arf ! Désolé cher lecteur...\r\nPromis, la semaine prochaine, on parlera
-    pas de \"quatre bougres\" (pour la bonne raison qu'il n'y en aura qu'un...)"
+  content: "Arf ! Désolé cher lecteur…\r\nPromis, la semaine prochaine, on parlera
+    pas de \"quatre bougres\" (pour la bonne raison qu'il n'y en aura qu'un…)"
 - author: Julio, là
   author_email: ''
   date: '2011-03-31 10:17:05 +0200'

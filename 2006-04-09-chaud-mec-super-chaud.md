@@ -4,14 +4,15 @@ title: Chaud mec, super chaud
 authors:
   - Dirty Henry
 wordpress_id: 297
-date: '2006-04-09 12:48:00 +0200'
+date: "2006-04-09 12:48:00 +0200"
 categories:
-- Catégories
+  - Catégories
 tags:
-- Trucs marrants
+  - Trucs marrants
 ---
-Ouais, ouais, t'es pas trop mauvais, ça passe...
 
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/MCpWY20I6jk&hl=fr&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/MCpWY20I6jk&hl=fr&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+Ouais, ouais, t'es pas trop mauvais, ça passe…
 
-<strike>Toi aussi, ça passe :</strike> [edit : vidéo supprimée par l'utilisateur]
+{% youtube MCpWY20I6jk %}
+
+~~Toi aussi, ça passe :~~ [edit : vidéo supprimée par l'utilisateur]

@@ -8,7 +8,7 @@ tags:
 cover: printemps-2017.jpg
 description: >
   Ou Joe Dassin rend hommage à Hugo, et Marcel Proust s'en prend plein la
-  gueule. Dead Rooster présente... Un Printemps 2017.
+  gueule. Dead Rooster présente… Un Printemps 2017.
 ---
 
 Aujourd'hui, octobre pointe le bout de son nez mais qu'importe, nous allons

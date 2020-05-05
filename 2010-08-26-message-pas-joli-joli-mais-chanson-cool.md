@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Message pas joli joli, mais chanson cool
-description: Un message pas très joli joli de Cee-Lo...
+description: Un message pas très joli joli de Cee-Lo…
 authors:
   - Dirty Henry
 wordpress_id: 684
@@ -15,7 +15,7 @@ comments:
   author_email: dirtyhenry@gmail.com
   date: '2010-09-02 11:28:28 +0200'
   title: Message pas joli joli, mais chanson cool
-  content: Et voilà le clip définitif... http://stereogum.com/493071/cee-lo-fuck-you-video/video/
+  content: Et voilà le clip définitif… http://stereogum.com/493071/cee-lo-fuck-you-video/video/
 ---
 C'est pas tous les jours qu'on cite ici des œuvres pouvant être cataloguées "hip-hop" mais ce nouveau titre de __Cee-Lo__ est hyper catchy et finalement très cool. On peut même dire que [Cee-Lo est le nouveau Lily Allen](br28).
 

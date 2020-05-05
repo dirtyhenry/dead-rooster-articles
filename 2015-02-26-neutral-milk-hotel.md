@@ -10,7 +10,7 @@ description: >
   Le meilleur concert de 2014 pour certains, le meilleur album des 90s pour
   d'autres. Neuf mois après le concert, parce qu'on n'est pas aux pièces, retour
   sur la performance de Neutral Milk Hotel à Paris en mai dernier. La dernière,
-  probablement...
+  probablement…
 lead-paragraph: true
 ---
 
@@ -108,7 +108,7 @@ Une anecdote relatée par [Diffuser.fm][3] :
 
 > Dans la foule, un mec cria : “Joues-en une nouvelle !”. Mangum répondit :
 > “Vous n'entendrez jamais ces chansons.” La salle devint silencieuse. “Quoi ?”
-> souria-t-il. “C'est pas qu'elles n'existent pas...” avant de poursuivre le
+> souria-t-il. “C'est pas qu'elles n'existent pas…” avant de poursuivre le
 > concert sans qu'un seul nouveau titre ne soit joué.
 
 En outre, fin 2014, le groupe annonce que la tournée sans fin s'achèvera au
