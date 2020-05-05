@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: My Teenage Stride - Ears Like Golden Bats
 author:
   display_name: Joe Gantdelaine

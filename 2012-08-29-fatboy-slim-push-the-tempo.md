@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Fatboy Slim - Push The Tempo
 author:
   display_name: Dirty Henry

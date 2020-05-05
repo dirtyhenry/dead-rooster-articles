@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Katerine - Des Bisous
 author:
   display_name: Dirty Henry

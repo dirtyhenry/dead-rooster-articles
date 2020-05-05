@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Compile automne 2005
 author:
   display_name: Dirty Henry

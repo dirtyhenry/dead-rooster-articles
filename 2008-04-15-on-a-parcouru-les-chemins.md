@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: On a parcouru les chemins
 author:
   display_name: Joe Gantdelaine

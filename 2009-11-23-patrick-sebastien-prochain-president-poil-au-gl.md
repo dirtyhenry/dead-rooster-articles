@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: 'Patrick Sébastien : prochain président, poil au gl...'
 author:
   display_name: Joe Gantdelaine

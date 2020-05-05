@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Alou Diarra dit oui à Rennes ?!
 author:
   display_name: Dirty Henry

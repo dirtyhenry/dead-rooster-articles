@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Plagiat éhonté outre-Manche
 author:
   display_name: Dirty Henry

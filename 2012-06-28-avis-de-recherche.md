@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Avis de recherche
 author:
   display_name: Dirty Henry

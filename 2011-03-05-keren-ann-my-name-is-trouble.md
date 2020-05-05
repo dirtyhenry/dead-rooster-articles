@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Keren Ann - My Name Is Trouble
 author:
   display_name: Dirty Henry

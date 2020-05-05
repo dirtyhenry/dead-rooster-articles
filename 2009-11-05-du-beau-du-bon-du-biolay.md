@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Du beau, du bon, du Biolay
 description: 5ème album (environ, si on excepte les bandes originales de film et les
   disques avec ses ex) de Benjamin Biolay, {La Superbe} porte parfaitement son nom.

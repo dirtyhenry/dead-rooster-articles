@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Black Lips - Noc-A-Homa
 author:
   display_name: Dirty Henry

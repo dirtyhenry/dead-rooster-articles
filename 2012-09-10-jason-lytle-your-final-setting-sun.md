@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Jason Lytle - Your Final Setting Sun
 author:
   display_name: Dirty Henry

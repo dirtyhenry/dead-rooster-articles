@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: La nouvelle star est coupable !
 author:
   display_name: Joe Gantdelaine

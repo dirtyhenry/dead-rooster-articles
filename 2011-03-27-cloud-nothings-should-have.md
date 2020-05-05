@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Cloud Nothings - Should Have
 author:
   display_name: Joe Gantdelaine

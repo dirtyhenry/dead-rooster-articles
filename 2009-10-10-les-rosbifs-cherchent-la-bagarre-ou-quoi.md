@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Les Rosbifs cherchent la bagarre ou quoi ?
 author:
   display_name: Dirty Henry

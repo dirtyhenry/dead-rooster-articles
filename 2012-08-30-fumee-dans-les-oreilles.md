@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Fumée dans les oreilles
 author:
   display_name: Dirty Henry

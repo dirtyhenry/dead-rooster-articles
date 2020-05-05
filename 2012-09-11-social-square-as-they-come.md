@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Social Square - As They Come
 author:
   display_name: Dirty Henry

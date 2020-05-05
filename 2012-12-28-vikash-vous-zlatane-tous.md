@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Vikash vous zlatane tous !
 author:
   display_name: Dirty Henry

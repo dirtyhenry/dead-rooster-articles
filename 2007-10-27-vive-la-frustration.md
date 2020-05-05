@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Vive la frustration ?
 author:
   display_name: Groovy Henry

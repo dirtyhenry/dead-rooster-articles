@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Chaud mec, super chaud
 author:
   display_name: Dirty Henry

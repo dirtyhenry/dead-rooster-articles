@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: 'Arrested Development : le film'
 description: Une nouvelle saison et un film adapté d'{Arrested Development} viennent
   d'être annoncés. Si vous n'êtes pas excité par cette annonce, c'est probablement

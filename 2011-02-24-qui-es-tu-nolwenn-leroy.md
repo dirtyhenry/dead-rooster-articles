@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Qui es-tu Nolwenn Leroy ?
 description: Vous connaissez sûrement, au moins de vue, {{Nolwenn Leroy}}. Gentille
   fifille, vainqueur de la seconde édition de la {Star Academy} de TF1 en 2002, fricottant

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Yann Tiersen - Dust Lane
 description: Yann Tiersen, ça commence à être un vieux de la vieille. L'été dernier,
   il présentait {Dust Lane} à la Route du Rock ([on y était et on avait aimé->696]).

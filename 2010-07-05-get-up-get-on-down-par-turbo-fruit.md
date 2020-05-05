@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Get Up Get On Down par Turbo Fruit
 description: Le clip de {Get Up Get On Down} par {{Turbo Fruits}}, des gens visiblement
   fun du Tennessee.

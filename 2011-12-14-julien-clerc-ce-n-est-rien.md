@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Julien Clerc - Ce n'est rien
 author:
   display_name: Dirty Henry

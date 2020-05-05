@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Creedence Clearwater Revival
 description: Aujourd'hui, direction le Mississippi ! Creedence Clearwater Revival,
   c'est l'Amérique, le symbole de la liberté ! (pour peu qu'on approxime un peu leur

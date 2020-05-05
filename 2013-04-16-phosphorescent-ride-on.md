@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Phosphorescent - Ride On
 author:
   display_name: Dirty Henry

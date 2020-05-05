@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Non mais sérieux, que deviennent les Hooray Henrys ?
 author:
   display_name: Dirty Henry

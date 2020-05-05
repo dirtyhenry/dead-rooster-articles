@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Deerhunter - Halcyon Digest
 description: 'Je sais désormais que faire [le top 2010->747] n''aura pas été vain
   : il m''a incité à réécouter {Halcyon Digest}, le 4ème album de {{Deerhunter}},

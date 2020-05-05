@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Arctic Monkeys - Don’t Sit Down ‘Cause I’ve Moved Your Chair
 author:
   display_name: Dirty Henry

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: '"Our Earthly Pleasures" - 2nd Maxïmo Park'
 author:
   display_name: Dirty Henry

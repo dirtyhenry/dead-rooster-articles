@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Transat Pitch de Poutch
 author:
   display_name: Joe Gantdelaine

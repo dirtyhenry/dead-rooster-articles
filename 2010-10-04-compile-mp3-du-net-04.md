@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: 'Compile MP3 du NET #04'
 description: 'Une sélection des meilleurs MP3 légalement disponibles au téléchargement
   des dernières semaines. Au programme cette semaine, quelques stars ({{Black Rebel

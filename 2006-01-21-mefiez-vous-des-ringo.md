@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Méfiez vous des Ringo
 author:
   display_name: Dirty Henry

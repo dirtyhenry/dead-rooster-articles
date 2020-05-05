@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: A votre bon cœur msieurs-dames !
 author:
   display_name: Joe Gantdelaine

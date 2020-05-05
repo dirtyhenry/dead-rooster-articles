@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Les 20 meilleurs albums de l'histoire selon le NME
 author:
   display_name: Dirty Henry

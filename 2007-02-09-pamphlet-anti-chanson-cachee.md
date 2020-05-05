@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Pamphlet anti-chanson cachée.
 author:
   display_name: Dirty Henry

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Faudra attendre pour les vieux pots
 author:
   display_name: Dirty Henry

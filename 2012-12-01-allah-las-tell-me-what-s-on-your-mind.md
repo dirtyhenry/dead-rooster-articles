@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Allah-Las - Tell Me (What's On Your Mind)
 author:
   display_name: Joe Gantdelaine

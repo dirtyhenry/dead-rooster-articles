@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Single de Blur et poisson d'avril
 description: Blur a décidé de diffuser gratuitement le single {Fool's Day} qu'ils
   ont écrits à l'occasion du Record Store Day. De quoi espérer un nouvel album pour

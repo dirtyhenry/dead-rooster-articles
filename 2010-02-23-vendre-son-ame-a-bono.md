@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Vendre son âme à Bono
 author:
   display_name: Dirty Henry

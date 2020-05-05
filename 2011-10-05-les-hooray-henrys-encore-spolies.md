@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Les Hooray Henrys encore spoliés
 author:
   display_name: Dirty Henry

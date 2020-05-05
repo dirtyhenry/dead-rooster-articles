@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Saint Etienne
 description: 'Deuxième épisode de notre Encyclopédie Approximative du Rock and Roll.
   Pour continuer avec les monstres sacrés, après les Beatles, voici une grosse pointure,

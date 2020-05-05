@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: 'Bande annonce : The Other Guys'
 description: Ce qui manquait aux films de Will Ferrell ? Eva Mendes !
 author:

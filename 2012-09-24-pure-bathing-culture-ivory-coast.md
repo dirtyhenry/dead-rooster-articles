@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Pure Bathing Culture - Ivory Coast
 author:
   display_name: Dirty Henry

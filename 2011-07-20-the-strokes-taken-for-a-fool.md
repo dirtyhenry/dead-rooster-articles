@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Strokes - Taken For A Fool
 author:
   display_name: Dirty Henry

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Smashing Pumpkins
 description: Allez, la semaine dernière, c'était nul. Mais cette semaine, c'est reparti
   pour de la top qualité, top approximative.

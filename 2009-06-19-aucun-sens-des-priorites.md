@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Aucun sens des priorités
 author:
   display_name: Dirty Henry

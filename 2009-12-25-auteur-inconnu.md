@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Auteur inconnu
 description: Plutôt que de succomber à l'éternel classement de l'année (on aura suffisamment
   le temps l'année prochaine de trier les disques de cette année...), parlons d'un

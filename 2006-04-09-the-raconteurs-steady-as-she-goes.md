@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Raconteurs - Steady As She Goes
 author:
   display_name: Dirty Henry

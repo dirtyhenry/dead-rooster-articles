@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Le mariage est périssable
 author:
   display_name: Dirty Henry

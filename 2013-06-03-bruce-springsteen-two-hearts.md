@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Bruce Springsteen - Two Hearts
 author:
   display_name: Dirty Henry

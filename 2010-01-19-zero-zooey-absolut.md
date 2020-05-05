@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Zéro Zooey Absolut !
 author:
   display_name: Dirty Henry

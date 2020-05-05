@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Jet à l'Élysée Montmartre
 author:
   display_name: Dirty Henry

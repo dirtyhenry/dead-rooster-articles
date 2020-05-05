@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Swell Season - Two-Headed Boy (Neutral Milk Hotel)
 description: The Swell Season reprend le titre {Two-Headed Boy} de Neutral Milk Hotel
 author:

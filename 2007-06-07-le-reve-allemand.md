@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Le rêve allemand
 author:
   display_name: Dirty Henry

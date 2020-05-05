@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Alex Bleeker And The Freaks - Don't Look Down
 author:
   display_name: Dirty Henry

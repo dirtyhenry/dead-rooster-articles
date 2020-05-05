@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: TV Girl - She Smokes In Bed
 author:
   display_name: Dirty Henry

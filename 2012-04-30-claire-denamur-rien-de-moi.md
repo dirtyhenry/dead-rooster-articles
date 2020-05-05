@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Claire Denamur - Rien de moi
 author:
   display_name: Dirty Henry

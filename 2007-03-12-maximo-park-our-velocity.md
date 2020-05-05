@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Maximo Park - Our Velocity
 author:
   display_name: Dirty Henry

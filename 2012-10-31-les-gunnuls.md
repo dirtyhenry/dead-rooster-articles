@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Les Gunnuls
 author:
   display_name: Joe Gantdelaine

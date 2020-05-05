@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: De Montréal et pas d'ailleurs !
 author:
   display_name: Joe Gantdelaine

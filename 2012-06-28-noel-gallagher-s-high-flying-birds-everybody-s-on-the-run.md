@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Noel Gallagher's High Flying Birds - Everybody's On The Run
 author:
   display_name: Dirty Henry

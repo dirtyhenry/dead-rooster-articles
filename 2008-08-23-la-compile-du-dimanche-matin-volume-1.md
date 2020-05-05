@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: La compile du dimanche matin volume 1
 author:
   display_name: Joe Gantdelaine

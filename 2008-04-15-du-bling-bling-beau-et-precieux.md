@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Du bling bling beau et précieux !
 author:
   display_name: Dirty Henry

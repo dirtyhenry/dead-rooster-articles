@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Sea Pinks - A Pattern Recognition
 author:
   display_name: Dirty Henry

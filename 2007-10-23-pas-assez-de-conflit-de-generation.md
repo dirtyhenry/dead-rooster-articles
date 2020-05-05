@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Pas assez de conflit de génération
 author:
   display_name: Dirty Henry

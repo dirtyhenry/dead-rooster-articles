@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: T'es cap de porter 6 gares ?
 author:
   display_name: Groovy Henry

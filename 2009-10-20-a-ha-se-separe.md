@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: A-ha se sépare ?
 author:
   display_name: Dirty Henry

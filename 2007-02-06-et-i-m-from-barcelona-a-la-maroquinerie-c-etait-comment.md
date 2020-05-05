@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Et I'm from Barcelona à la Maroquinerie, c'était comment ?
 author:
   display_name: Dirty Henry

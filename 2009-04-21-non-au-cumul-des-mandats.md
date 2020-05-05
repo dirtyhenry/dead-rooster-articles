@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Non au cumul des mandats
 author:
   display_name: Dirty Henry

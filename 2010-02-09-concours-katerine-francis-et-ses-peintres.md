@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Concours Katerine, Francis et ses peintres
 description: Après {C'est lundi}, {Une chanson douce}, {La boîte de jazz}, {Belle
   Île en Mer}, {Coup de folie} et {Papayou}, quelle seront les prochaines reprises

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Le retour du petit homme vert
 author:
   display_name: Joe Gantdelaine

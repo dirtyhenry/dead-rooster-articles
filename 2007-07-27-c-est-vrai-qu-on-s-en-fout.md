@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: C'est vrai qu'on s'en fout !
 author:
   display_name: Joe Gantdelaine

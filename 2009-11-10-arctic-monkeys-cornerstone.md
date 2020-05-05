@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Arctic Monkeys - Cornerstone
 author:
   display_name: Dirty Henry

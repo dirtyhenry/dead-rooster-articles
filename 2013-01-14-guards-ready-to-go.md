@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Guards - Ready To Go
 author:
   display_name: Dirty Henry

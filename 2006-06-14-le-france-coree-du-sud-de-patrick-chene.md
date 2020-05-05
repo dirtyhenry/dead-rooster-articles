@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Le France-Corée du Sud de Patrick Chêne
 author:
   display_name: Dirty Henry

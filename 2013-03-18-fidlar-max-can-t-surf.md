@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Fidlar - Max Can't Surf
 author:
   display_name: Dirty Henry

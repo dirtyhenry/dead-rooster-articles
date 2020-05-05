@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Black Rebel Motorcycle Club - Let The Day Begin
 author:
   display_name: Dirty Henry

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Primavera
 description: Cette semaine, l'Encyclopédie est en retard pour cause de festival.
 author:

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Strokes - First impressions of the earth
 author:
   display_name: Dirty Henry

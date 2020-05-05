@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Eulogie pour R.E.M.
 description: R.E.M. vient d'annoncer sa séparation. Vous allez me dire "On s'en fout
   un peu, non ?", je vais vous répondre "Ah oui, oui, oui, complètement !". Mais pas

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Jamais dire jamais !
 author:
   display_name: Joe Gantdelaine

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: 'Neil (not so) Young : un concert (not so) good'
 author:
   display_name: Joe Gantdelaine

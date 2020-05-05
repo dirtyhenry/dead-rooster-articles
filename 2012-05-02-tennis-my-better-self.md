@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Tennis - My Better Self
 author:
   display_name: Dirty Henry

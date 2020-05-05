@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Perdu d'avance
 author:
   display_name: Dirty Henry

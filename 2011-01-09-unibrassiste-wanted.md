@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Unibrassiste Wanted
 author:
   display_name: Dirty Henry

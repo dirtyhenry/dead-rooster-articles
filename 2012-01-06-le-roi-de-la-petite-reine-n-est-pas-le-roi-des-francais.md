@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Le roi de la petite reine n'est pas le roi des Français
 author:
   display_name: Dirty Henry

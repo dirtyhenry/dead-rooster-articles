@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Le retour des losers magnifiques
 author:
   display_name: Joe Gantdelaine

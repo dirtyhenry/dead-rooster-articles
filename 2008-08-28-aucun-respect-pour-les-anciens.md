@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Aucun respect pour les anciens
 author:
   display_name: Dirty Henry

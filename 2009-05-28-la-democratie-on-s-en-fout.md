@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: La démocratie ? On s'en fout !
 author:
   display_name: Dirty Henry

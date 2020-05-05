@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Bilan Dead Rooster 2011
 description: C'est bientôt la fin de l'année, et c'est l'heure du bilan 2011 pour
   Dead Rooster.

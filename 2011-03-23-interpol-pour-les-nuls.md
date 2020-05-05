@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Interpol pour les Nuls
 author:
   display_name: Dirty Henry

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Les archives de Jean-Pierre, 1ère partie
 description: Avant d'entamer sa carrière de musicien, Jean-Pierre Caca avait gagné
   une première réputation en tant que journaliste. Pour nous, il ouvre ses archives.

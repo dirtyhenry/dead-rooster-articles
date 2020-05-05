@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Gary Clarke Jr. - Ain't Messin' Round
 author:
   display_name: Dirty Henry

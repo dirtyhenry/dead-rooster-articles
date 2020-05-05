@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Finies les carresses et bises à l'oeil...
 author:
   display_name: Dirty Henry

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Eels - Peach Blossom
 author:
   display_name: Joe Gantdelaine

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Oh la vache !
 author:
   display_name: Joe Gantdelaine

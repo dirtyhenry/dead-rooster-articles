@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Claude François
 description: 'L''article de cette semaine inaugure un nouveau concept : l''artiste
   approximativement rock and roll.'

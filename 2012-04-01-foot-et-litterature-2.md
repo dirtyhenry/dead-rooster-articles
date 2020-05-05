@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Foot et littérature (2)
 author:
   display_name: Joe Gantdelaine

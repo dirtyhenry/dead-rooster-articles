@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Oklahoma mise sur Thabeet
 author:
   display_name: Joe Gantdelaine

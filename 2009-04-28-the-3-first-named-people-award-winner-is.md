@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: The 3 First Named People Award winner is...
 author:
   display_name: Dirty Henry

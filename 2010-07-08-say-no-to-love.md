@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Say No To Love
 description: Clip de {Say No To Love}, le nouveau single de {{The Pains of Being Pure
   At Heart}}.

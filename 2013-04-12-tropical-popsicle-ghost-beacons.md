@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Tropical Popsicle - Ghost Beacons
 author:
   display_name: Dirty Henry

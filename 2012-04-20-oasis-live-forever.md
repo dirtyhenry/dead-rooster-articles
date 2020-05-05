@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Oasis - Live Forever
 author:
   display_name: Dirty Henry

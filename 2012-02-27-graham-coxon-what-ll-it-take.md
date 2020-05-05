@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Graham Coxon - What'll It Take
 author:
   display_name: Dirty Henry

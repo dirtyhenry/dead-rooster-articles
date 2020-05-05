@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Tennis - Tears in the Typing Pool
 author:
   display_name: Dirty Henry

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Luyas - Fifty Fifty
 author:
   display_name: Dirty Henry

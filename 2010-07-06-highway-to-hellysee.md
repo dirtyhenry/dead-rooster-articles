@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Highway to Hellysée
 author:
   display_name: Joe Gantdelaine

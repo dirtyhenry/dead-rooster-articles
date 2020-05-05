@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: La France bafouée
 author:
   display_name: Dirty Henry

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Les efforts non récompensés
 author:
   display_name: Dirty Henry

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Casse-Noisettes
 author:
   display_name: Dirty Henry

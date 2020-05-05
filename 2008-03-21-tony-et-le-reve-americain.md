@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Tony et le rêve américain
 author:
   display_name: Dirty Henry

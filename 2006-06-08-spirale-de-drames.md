@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Spirale de drames
 author:
   display_name: Dirty Henry

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Presidents of the United States of America
 description: L'Encyclopédie approximative revisite l'Histoire du rock and roll, mais
   aussi l'Histoire tout court...

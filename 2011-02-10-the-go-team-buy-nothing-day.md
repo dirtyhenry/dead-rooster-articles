@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Go! Team - Buy Nothing Day
 author:
   display_name: Dirty Henry

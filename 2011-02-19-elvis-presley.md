@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Elvis Presley
 description: Cette semaine, dans l'Encyclopédie Approximative du Rock and Roll, du
   lourd, du très lourd (du trop lourd ?). Messieurs-dames, Elvis !!!

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Connan Mockasin - Forever Dolphin Love
 description: Converse ? Santiags ? Platform boots ? Non !!! Mockasin ! Connan de son
   prénom. Et un premier album plutôt génial.

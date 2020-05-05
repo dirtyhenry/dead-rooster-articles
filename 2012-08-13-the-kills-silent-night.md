@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Kills - Silent Night
 author:
   display_name: Dirty Henry

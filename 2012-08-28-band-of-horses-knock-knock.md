@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Band of Horses - Knock Knock
 author:
   display_name: Dirty Henry

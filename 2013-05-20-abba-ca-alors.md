@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: ABBA ça alors !
 author:
   display_name: Dirty Henry

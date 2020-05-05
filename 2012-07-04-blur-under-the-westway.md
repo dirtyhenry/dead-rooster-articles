@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Blur - Under The Westway
 author:
   display_name: Dirty Henry

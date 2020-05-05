@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Arcade Fire est-il le prochain Muse ?
 description: Plus que 5 jours avant la sortie du très attendu 3ème album d'Arcade
   Fire, {Suburbs}. La sortie de cet album est précédé d'un buzz énorme qui, je l'avoue,

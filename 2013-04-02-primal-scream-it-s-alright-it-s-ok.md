@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Primal Scream - It's Alright, It's OK
 author:
   display_name: Joe Gantdelaine

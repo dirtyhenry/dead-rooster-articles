@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Le 2nd titre du printemps
 description: Le titre est ancien mais avec leur reprise de {I Am The Resurrection}
   des Stone Roses, le groupe écossais {{Codeine Velvet Club}} offre le second grand

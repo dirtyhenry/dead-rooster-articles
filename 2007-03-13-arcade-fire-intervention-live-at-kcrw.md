@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Arcade Fire - Intervention (live at KCRW)
 author:
   display_name: Dirty Henry

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Eternal Summers - You Kill
 author:
   display_name: Dirty Henry

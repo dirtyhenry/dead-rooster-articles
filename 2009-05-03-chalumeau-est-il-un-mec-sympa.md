@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Chalumeau est-il un mec sympa ?
 author:
   display_name: Dirty Henry

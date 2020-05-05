@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Perdus sur la carte du rock ?
 author:
   display_name: Dirty Henry

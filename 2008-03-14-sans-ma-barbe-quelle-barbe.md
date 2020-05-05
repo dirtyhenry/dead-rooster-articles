@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Sans ma barbe, quelle barbe !
 author:
   display_name: Dirty Henry

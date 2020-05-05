@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Strokes & Jarvis Cocker - Just What I Needed
 author:
   display_name: Dirty Henry

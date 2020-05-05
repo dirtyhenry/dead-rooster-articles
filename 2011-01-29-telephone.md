@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Téléphone
 description: L'encyclopédie approximative du rock and roll vous offre aujourd'hui
   un troisième article en forme de résumé bancal de l'histoire du plus grand groupe

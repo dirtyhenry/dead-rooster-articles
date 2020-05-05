@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Les néo-zélandais rentrent au pays
 author:
   display_name: Joe Gantdelaine

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Beach House - Wishes
 author:
   display_name: Joe Gantdelaine

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Dum Dum Girls - Coming Down
 author:
   display_name: Dirty Henry

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Concerts "Un Temps Pour Tous"
 author:
   display_name: Dirty Henry

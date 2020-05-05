@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Et I'm from Barcelona à la Maroquinerie, c'était comment ? vol.2 (à la Cigale)
 author:
   display_name: Joe Gantdelaine

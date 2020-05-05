@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Petite vieille !
 author:
   display_name: Dirty Henry

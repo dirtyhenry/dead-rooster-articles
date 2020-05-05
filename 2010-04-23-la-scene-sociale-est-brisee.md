@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: La scène sociale est brisée !
 description: Le nouvel album de Broken Social Scene est trèèèèès prometteur !
 author:

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Grizzly Bear - Gun-Shy
 author:
   display_name: Dirty Henry

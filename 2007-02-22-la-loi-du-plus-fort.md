@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: La loi du plus fort
 author:
   display_name: Dirty Henry

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Ils ont retrouvé le chemin
 author:
   display_name: Joe Gantdelaine

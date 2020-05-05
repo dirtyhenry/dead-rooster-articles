@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Walkmen reprennent la route des vacances
 description: 'Le site est actuellement assez inactif pour cause de séjour prolongé
   aux Etats-Unis avec connectivité limitée, mais célébrons dignement le mois de décembre

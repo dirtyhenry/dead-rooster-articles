@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Only youuuu !
 description: Un titre de {{Jason Falkner}}, ça ne se refuse pas !
 author:

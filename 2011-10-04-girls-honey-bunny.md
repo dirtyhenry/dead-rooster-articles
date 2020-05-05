@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Girls - Honey Bunny
 author:
   display_name: Dirty Henry

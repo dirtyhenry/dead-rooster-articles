@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Flo prend l'eau
 author:
   display_name: Joe Gantdelaine

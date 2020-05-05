@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Jolies pochettes... Restons-en là.
 description: Comme c'est frustrant quand des albums ont des super pochettes... mais
   que le contenu n'est pas à la hauteur...

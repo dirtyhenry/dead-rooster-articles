@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Chantal Goya en prison
 author:
   display_name: Joe Gantdelaine

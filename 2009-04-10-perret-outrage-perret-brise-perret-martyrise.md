@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Perret outragé ! Perret brisé ! Perret martyrisé !
 author:
   display_name: Joe Gantdelaine

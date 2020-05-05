@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Sleater-Kinney yeah !
 author:
   display_name: Dirty Henry

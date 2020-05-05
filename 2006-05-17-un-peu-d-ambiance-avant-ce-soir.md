@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Un peu d'ambiance avant ce soir
 author:
   display_name: Dirty Henry

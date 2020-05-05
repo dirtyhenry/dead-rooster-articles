@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Programmation complète des Vieilles Charrues
 author:
   display_name: Dirty Henry

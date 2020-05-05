@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: '"Rien n''a changé" ? Ben là, ça a changé non ?'
 author:
   display_name: Dirty Henry

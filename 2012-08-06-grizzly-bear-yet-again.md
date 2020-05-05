@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Grizzly Bear - Yet Again
 author:
   display_name: Dirty Henry

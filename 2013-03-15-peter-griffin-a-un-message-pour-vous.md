@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Peter Griffin a un message pour vous
 author:
   display_name: Dirty Henry

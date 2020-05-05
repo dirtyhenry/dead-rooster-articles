@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: She & Him - Never Wanted Your Love
 author:
   display_name: Dirty Henry

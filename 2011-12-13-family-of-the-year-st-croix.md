@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Family Of The Year - St. Croix
 author:
   display_name: Dirty Henry

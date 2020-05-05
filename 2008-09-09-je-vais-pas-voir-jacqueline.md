@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Je vais pas voir Jacqueline
 author:
   display_name: Dirty Henry

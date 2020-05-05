@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Trop bien la pop
 author:
   display_name: Dirty Henry

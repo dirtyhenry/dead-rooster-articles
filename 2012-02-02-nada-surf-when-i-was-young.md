@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Nada Surf - When I Was Young
 author:
   display_name: Dirty Henry

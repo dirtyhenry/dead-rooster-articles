@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Nouveau conflit des générations
 author:
   display_name: Joe Gantdelaine

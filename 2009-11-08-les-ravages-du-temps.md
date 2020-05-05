@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Les ravages du temps
 author:
   display_name: Dirty Henry

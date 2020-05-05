@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: On va perdre avec leurs conneries
 author:
   display_name: Dirty Henry

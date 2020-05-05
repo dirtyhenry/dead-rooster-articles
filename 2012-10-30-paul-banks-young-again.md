@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Paul Banks - Young Again
 author:
   display_name: Dirty Henry

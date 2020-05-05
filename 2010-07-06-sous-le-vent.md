@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Sous le vent
 description: La reprise de {{Katerine, Francis et ses peintres}} de la semaine est
   {Sous le vent} de Garou (featuring... Céline Dion).

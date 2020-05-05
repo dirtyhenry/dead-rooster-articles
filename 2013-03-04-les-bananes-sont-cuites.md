@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Les bananes sont cuites
 author:
   display_name: Joe Gantdelaine

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Del Potro dans l'oeil vol. 3
 author:
   display_name: Joe Gantdelaine

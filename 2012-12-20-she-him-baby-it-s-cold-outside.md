@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: She & Him - Baby It's Cold Outside
 author:
   display_name: Dirty Henry

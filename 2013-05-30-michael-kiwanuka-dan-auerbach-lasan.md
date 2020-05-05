@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Michael Kiwanuka & Dan Auerbach - Lasan
 author:
   display_name: Dirty Henry

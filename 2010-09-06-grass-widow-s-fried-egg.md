@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Grass Widow's Fried Egg
 description: Voici le clip de {Fried Egg} de {{Grass Widow}}.
 author:

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: British Sea Power - Living Is So Easy
 author:
   display_name: Joe Gantdelaine

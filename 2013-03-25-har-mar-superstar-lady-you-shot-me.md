@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: 'Har Mar Superstar - Lady You Shot Me '
 author:
   display_name: Dirty Henry

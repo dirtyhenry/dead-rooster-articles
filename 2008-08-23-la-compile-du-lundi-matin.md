@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: La compile du lundi matin
 author:
   display_name: Joe Gantdelaine

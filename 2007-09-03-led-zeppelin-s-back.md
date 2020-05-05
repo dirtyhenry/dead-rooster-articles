@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Led Zeppelin's back !
 author:
   display_name: ''

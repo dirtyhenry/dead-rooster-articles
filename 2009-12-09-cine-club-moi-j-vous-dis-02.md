@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: 'Ciné-Club moi j’vous dis #02'
 description: 'Au programme du mois, un appartement, des vacances à Hawaï et de l''ennui
   : {The Apartment} de Billy Wilder, {Forgetting Sarah Marshall} de Nicholas Stoller

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Fresh & Onlys - Play It Strange
 description: One month ago, Dead Rooster was in Barcelona for the Primavera Festival.
   This very friday, in the middle afternoon, we watched The Fresh & Onlys on stage.

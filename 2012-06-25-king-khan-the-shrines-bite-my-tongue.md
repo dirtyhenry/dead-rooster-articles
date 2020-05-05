@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: King Khan & The Shrines - Bite My Tongue
 author:
   display_name: Dirty Henry

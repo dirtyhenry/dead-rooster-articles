@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Le démon, sans torsion
 author:
   display_name: Joe Gantdelaine

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Trashmen - Surfin Bird
 author:
   display_name: Dirty Henry

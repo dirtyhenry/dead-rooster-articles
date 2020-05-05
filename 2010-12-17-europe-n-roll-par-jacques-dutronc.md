@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Europe'N'Roll par Jacques Dutronc
 description: Une chanson naze, par Jacques Dutronc
 author:

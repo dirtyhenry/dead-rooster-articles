@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Histoire du cinéma en 2 minutes
 description: Après [l'histoire de l'art en 3 minutes->143], voilà l'histoire du cinéma
   en 2 !

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Ses bottes ne sont plus faites pour marcher
 author:
   display_name: Joe Gantdelaine

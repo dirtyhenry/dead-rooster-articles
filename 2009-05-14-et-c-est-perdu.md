@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Et c'est perdu !
 author:
   display_name: Joe Gantdelaine

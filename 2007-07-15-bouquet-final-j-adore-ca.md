@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Bouquet final ! J'adore ça !
 author:
   display_name: ''

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Mister Heavenly - Bronx Sniper
 author:
   display_name: Dirty Henry

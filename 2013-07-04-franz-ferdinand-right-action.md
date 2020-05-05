@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Franz Ferdinand - Right Action
 author:
   display_name: Dirty Henry

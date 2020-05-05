@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Taxi Girl - Paris
 author:
   display_name: Dirty Henry

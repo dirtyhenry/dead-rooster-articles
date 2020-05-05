@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Et tu paries avec lui
 author:
   display_name: Joe Gantdelaine

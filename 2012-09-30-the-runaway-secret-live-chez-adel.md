@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Runaway Secret Live chez Adel
 author:
   display_name: Dirty Henry

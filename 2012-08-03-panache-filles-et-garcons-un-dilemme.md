@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: 'Panache - Filles et garçons : un dilemme'
 author:
   display_name: Dirty Henry

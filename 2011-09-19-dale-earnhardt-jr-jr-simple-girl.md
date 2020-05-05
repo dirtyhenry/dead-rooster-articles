@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Dale Earnhardt Jr. Jr. - Simple Girl
 author:
   display_name: Dirty Henry

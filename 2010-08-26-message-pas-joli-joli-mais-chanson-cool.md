@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Message pas joli joli, mais chanson cool
 description: Un message pas très joli joli de Cee-Lo...
 author:

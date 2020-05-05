@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Concert des Livingstones à Paris le 1er mai
 description: "{{The Livingstones I Presume}} joueront leur premier concert le samedi
   1er mai, à Paris."

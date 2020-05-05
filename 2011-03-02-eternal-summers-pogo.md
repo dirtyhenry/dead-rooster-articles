@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Eternal Summers - Pogo
 author:
   display_name: Dirty Henry

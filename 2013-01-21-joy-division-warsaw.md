@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Joy Division - Warsaw
 author:
   display_name: Dirty Henry

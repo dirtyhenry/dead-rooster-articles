@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Doors, c'est trop bien ? Si, si, allez !
 description: The Doors, c'est vraiment trop bien comme groupe ! Faisons-en la démonstration.
 author:

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: The National - Demons
 author:
   display_name: Dirty Henry

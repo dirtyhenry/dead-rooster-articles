@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Reading Rainbow
 description: Reading Rainbow a déjà été à l'honneur dans deux compiles du lundi et
   vient de réaliser un clip. Allons-les voir de plus près.

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Eudeline à Nantes
 author:
   display_name: Dirty Henry

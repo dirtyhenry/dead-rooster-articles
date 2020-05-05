@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: The National - Sea of Love
 author:
   display_name: Joe Gantdelaine

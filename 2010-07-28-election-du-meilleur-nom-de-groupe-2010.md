@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Election du meilleur nom de groupe 2010 !
 description: Avec The Phoenix Fundation, lancement officiel de la sélection des nommés
   pour le Band Naming Award 2010 !

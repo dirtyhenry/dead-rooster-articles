@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Katerine & Helena - Euro 04
 author:
   display_name: Dirty Henry

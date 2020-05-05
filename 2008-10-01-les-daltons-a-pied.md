@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Les Daltons à pied !
 author:
   display_name: Dirty Henry

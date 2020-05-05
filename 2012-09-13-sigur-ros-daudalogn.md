@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Sigur Rós - Dauðalogn
 author:
   display_name: Joe Gantdelaine

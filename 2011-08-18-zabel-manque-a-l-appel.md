@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Zabel manque à l'appel
 author:
   display_name: Dirty Henry

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: EELS - I'm Your Brave Little Soldier
 author:
   display_name: Dirty Henry

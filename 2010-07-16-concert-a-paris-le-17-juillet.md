@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Concert à Paris le 17 juillet
 description: "{{The Livingstones I Presume}} joueront le samedi 17 juillet, à Paris,
   à 19h au bar Chez Adel, dans le Xème arrondissement."

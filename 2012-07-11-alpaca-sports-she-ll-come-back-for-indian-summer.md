@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Alpaca Sports - She'll Come Back for Indian Summer
 author:
   display_name: Dirty Henry

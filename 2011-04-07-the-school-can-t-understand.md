@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: The School - Can't Understand
 author:
   display_name: Dirty Henry

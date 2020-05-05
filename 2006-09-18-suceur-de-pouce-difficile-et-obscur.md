@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Suceur de pouce difficile et obscur
 author:
   display_name: Dirty Henry

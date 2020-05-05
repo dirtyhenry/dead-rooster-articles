@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Black Rebel Motorcycle Club - Berlin
 author:
   display_name: Dirty Henry

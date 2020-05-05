@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Hey M. l'homme orchestre, qu'est ce que tu ne fais pas là ?
 author:
   display_name: Dirty Henry

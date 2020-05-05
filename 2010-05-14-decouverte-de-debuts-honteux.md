@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Découverte de débuts honteux
 description: Avant sa carrière solo, {{Keren Ann}} faisait partie du groupe Shelby.
   Vil Shelby !

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Fin de l'heure joyeuse
 author:
   display_name: Dirty Henry

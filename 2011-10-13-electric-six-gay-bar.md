@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Electric Six - Gay Bar
 author:
   display_name: Dirty Henry

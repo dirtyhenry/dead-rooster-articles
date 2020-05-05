@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Help-me Gibler
 author:
   display_name: Dirty Henry

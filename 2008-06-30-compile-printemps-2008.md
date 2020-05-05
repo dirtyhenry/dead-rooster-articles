@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Compile printemps 2008
 author:
   display_name: Dirty Henry

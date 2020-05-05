@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: OK Go - Here It Goes Again
 author:
   display_name: Dirty Henry

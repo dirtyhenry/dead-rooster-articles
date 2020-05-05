@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Scott McKenzie - San Francisco
 author:
   display_name: Dirty Henry

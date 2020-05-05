@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Damon Albarn - Apple Carts
 author:
   display_name: Dirty Henry

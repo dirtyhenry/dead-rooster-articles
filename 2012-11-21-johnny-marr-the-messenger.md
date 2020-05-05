@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Johnny Marr - The Messenger
 author:
   display_name: Dirty Henry

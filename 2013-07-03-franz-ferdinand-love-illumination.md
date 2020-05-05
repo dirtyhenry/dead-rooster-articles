@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Franz Ferdinand - Love Illumination
 author:
   display_name: Dirty Henry

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Submarine - Richard Ayoade
 description: Parlons du film {Submarine}, de Richard Ayoade pour la réalisation, de
   Joe Dunthorne pour avoir écrit le bouquin dont le film est l'adaptation, d'Alex

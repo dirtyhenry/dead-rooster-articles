@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Mikal Cronin - Kiss Me
 author:
   display_name: Dirty Henry

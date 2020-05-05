@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Interpol is a 4th grade
 description: Go and see Interpol in 2011 is a multi-faces experience. You face one
   of the best bands of the past decade, you realize you didn't have a chance to say

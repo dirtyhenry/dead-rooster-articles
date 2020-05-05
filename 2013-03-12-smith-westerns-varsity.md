@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Smith Westerns - Varsity
 author:
   display_name: Joe Gantdelaine

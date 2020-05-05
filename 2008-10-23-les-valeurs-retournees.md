@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Les valeurs retournées
 author:
   display_name: Dirty Henry

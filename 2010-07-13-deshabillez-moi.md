@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Déshabillez-moi
 description: La reprise de {{Katerine, Francis et ses peintres}} de la semaine est
   {Déshabillez-moi} de Juliette Gréco. En outre, Katerine a {La Banane}.

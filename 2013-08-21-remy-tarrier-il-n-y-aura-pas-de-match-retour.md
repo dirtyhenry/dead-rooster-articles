@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Rémy Tarrier - Il n'y aura pas de match retour
 author:
   display_name: Dirty Henry

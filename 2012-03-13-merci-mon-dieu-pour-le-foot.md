@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Merci mon dieu pour le foot !
 author:
   display_name: Joe Gantdelaine

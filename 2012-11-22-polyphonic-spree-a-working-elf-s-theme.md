@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Polyphonic Spree - A Working Elf's Theme
 author:
   display_name: Dirty Henry

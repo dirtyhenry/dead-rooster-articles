@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Findlay Brown - Promised Land
 description: Une chanson cool... Un clip sympa... (say no more, say no more)
 author:

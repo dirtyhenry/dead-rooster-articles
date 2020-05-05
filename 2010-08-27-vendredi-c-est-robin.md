@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Vendredi, c'est Robin !
 author:
   display_name: Joe Gantdelaine

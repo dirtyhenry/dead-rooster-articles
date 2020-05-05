@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Toi mon toit
 description: La reprise de {{Katerine, Francis et ses peintres}} de la semaine est
   {Toi mon toit} de Elli Medeiros. Mais cette semaine, Katerine nous offre aussi un

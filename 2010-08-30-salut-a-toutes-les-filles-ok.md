@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Salut à toutes les filles OK
 description: Trois semaines de reprises de {{Katerine, Francis et ses peintres}} à
   rattraper. Les 3 dernières furent donc...

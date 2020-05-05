@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: 'Ciné-Club moi j’vous dis #06'
 description: 'Au sommaire du mois : {Narco}, {Le Chant du Missouri}, {L''Aile ou la
   Cuisse}, {Minuit à Paris} et {Bon à Tirer}.'

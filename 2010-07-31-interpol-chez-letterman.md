@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Interpol chez Letterman
 description: Malgré le départ de Carlos D., [l'homme le plus classe du monde->http://www.google.fr/images?q=carlos%20d],
   et la présence d'un choriste/clavier à la voix ridicule et candidat au titre de

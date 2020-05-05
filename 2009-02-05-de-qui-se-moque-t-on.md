@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: De qui se moque-t-on ?
 author:
   display_name: Dirty Henry

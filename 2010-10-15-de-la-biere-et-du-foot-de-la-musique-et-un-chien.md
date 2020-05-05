@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: De la bière et du foot, de la musique et un chien
 description: Le vendredi, le fun est de bon aloi. Cette semaine, de la bière et du
   foot, de la musique et un chien. Programme idéal.

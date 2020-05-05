@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Une tête de radio au pays des Jean-Mi
 author:
   display_name: Dirty Henry

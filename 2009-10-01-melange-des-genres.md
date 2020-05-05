@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Mélange des genres
 author:
   display_name: Dirty Henry

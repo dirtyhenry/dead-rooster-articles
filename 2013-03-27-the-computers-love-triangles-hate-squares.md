@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Computers - Love Triangles, Hate Squares
 author:
   display_name: Dirty Henry

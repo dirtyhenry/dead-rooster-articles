@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Histoire de la télé censurée
 author:
   display_name: Dirty Henry

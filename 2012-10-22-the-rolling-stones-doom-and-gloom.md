@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Rolling Stones - Doom And Gloom
 author:
   display_name: Dirty Henry

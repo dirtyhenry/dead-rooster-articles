@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Baden Baden - Last Song
 author:
   display_name: Dirty Henry

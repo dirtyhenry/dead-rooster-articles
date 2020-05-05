@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: British Sea Power - Machineries Of Joy
 author:
   display_name: Dirty Henry

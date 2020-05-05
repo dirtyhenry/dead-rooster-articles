@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Parfois, on s'demande !
 description: "{En général}, quand on commence un groupe, on se voit déjà en haut de
   l'affiche, avec un nom qui claque, écrit avec des néons rouges. On passe ensuite

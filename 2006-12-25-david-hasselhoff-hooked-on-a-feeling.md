@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: David Hasselhoff - Hooked on a Feeling
 author:
   display_name: ''

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Les disques de décembre 2011
 description: OK, on est déjà en février, mais pourquoi serait-il trop tard pour parler
   des disques écoutés en décembre ? Classement discriminant, à l'emporte-pièce, dont

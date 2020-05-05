@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Dominique A - Rendez-nous la lumière
 author:
   display_name: Dirty Henry

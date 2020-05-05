@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Christopher Owens - Here We Go Again
 author:
   display_name: Dirty Henry

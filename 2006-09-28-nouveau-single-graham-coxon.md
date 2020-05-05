@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Nouveau single Graham Coxon
 author:
   display_name: Dirty Henry

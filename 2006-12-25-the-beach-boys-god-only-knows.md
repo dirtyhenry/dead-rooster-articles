@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Beach Boys - God Only Knows
 author:
   display_name: Dirty Henry

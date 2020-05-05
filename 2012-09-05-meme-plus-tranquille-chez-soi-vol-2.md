@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Même plus tranquille chez soi, vol. 2
 author:
   display_name: Dirty Henry

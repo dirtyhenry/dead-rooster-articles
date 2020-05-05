@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Chronique morgueuse (mais pas trop) vol.4 - Fountains of Wayne &quot;Traffic
   and weather&quot;
 author:

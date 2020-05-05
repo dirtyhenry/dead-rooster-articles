@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Jean-Bernard de Libreville - La juxtaposition 210
 author:
   display_name: Dirty Henry

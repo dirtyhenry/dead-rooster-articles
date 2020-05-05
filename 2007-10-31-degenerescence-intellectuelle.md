@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Dégénérescence intellectuelle
 author:
   display_name: Biboulos

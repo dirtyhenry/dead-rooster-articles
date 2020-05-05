@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Nada Surf - Bizarre Love Triangle
 author:
   display_name: Dirty Henry

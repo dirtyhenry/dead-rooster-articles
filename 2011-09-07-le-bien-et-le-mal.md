@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Le Bien et Le Mal
 author:
   display_name: Dirty Henry

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Wild Nothing - Only Heather
 author:
   display_name: Dirty Henry

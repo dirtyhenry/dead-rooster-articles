@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Raveonettes - She Owns The Street
 author:
   display_name: Dirty Henry

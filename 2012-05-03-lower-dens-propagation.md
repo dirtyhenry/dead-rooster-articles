@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Lower Dens - Propagation
 author:
   display_name: Dirty Henry

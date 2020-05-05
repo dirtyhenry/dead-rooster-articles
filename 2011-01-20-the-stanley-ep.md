@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Stanley EP
 description: "The Livingstones I Presume présentent leur 1er EP, The Stanley EP.\r\n\r\nVous
   pouvez l'écouter et le télécharger gratuitement sur [la page Bandcamp du groupe->http://thelivingstonesipresume.bandcamp.com/]."

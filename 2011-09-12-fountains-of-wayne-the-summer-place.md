@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Fountains of Wayne - The Summer Place
 author:
   display_name: Dirty Henry

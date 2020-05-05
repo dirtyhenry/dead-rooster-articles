@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Une carte mystère...
 author:
   display_name: Le Prince de Savoie

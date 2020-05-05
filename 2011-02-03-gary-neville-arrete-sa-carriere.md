@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Gary Neville arrête sa carrière
 author:
   display_name: Dirty Henry

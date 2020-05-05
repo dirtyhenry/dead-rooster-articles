@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Les disques d'octobre 2011
 description: Petit résumé des albums qui ont tourné sur les platines de par chez Dirty
   Henry en octobre 2011. Dum Dum Girls, Neutral Milk Hotel, Veronica Falls et Hanni

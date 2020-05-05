@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Bénissons ce bordel de presse !
 description: Clip marrant et chanson pour chanter dans les bars pour le groupe new-yorkais
   {{The Press}}.

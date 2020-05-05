@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Teach In - Ding A Dong
 author:
   display_name: Dirty Henry

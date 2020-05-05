@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: The La's à Rock en Seine, que penser ?
 description: Lorsque les La's ont été annoncés à Rock en Seine cette année, ni une,
   ni deux, ma place était réservée dans les deux minutes. Qui ? Les La's ! Petit rappel...

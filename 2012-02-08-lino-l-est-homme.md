@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Lino l'est homme
 author:
   display_name: Joe Gantdelaine

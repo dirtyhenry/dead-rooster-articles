@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Spaghetti Cowboy vs. El Bandido
 description: 'A une époque, le fun chez les artistes, c''était monnaie courante comme
   le prouve moults extraits du {Sasha Show}. De nos jours, ça se fait plus rare mais

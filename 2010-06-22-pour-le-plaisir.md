@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Pour le plaisir
 author:
   display_name: Joe Gantdelaine

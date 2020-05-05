@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Rock Critic en stuc
 author:
   display_name: Groovy Henry

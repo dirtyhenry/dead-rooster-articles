@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Fresh & Onlys - Yes or No
 author:
   display_name: Dirty Henry

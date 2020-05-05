@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Francky, c'est pas bon !
 author:
   display_name: Joe Gantdelaine

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Herman Düne - Tell Me Something I Don't Know
 author:
   display_name: Dirty Henry

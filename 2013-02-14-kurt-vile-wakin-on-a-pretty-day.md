@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Kurt Vile - Wakin On A Pretty Day
 author:
   display_name: Dirty Henry

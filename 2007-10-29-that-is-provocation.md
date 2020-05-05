@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: That is provocation !
 author:
   display_name: Groovy Henry

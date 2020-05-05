@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: The DIY Series - Social Square
 description: Les DIY Series sont une nouvelle saga de votre site préféré. Le concept
   ? Aller à la rencontre de créateurs amateurs et indépendants pour les interroger

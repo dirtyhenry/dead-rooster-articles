@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Tu seras terriblement gentille
 author:
   display_name: Dirty Henry

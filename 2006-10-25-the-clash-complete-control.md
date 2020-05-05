@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Clash - Complete Control
 author:
   display_name: Dirty Henry

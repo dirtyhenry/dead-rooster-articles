@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Pete and the Pirates - Winter 1
 author:
   display_name: Dirty Henry

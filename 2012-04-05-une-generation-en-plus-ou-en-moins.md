@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Une génération en plus ou en moins...
 author:
   display_name: Dirty Henry

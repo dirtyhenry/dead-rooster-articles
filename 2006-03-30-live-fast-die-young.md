@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Live fast, die young
 author:
   display_name: Dirty Henry

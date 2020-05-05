@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: France, pays du bon goût
 author:
   display_name: Dirty Henry

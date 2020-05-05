@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Mujeres à emporter
 description: "{{Mujeres}} dévoile son rock'n'roll enthousiaste dans un concert à emporter
   plus réjouissant que d'habitude !"

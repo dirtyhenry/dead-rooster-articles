@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: The National en visuel
 description: Prestation télé live de {Terrible Love} pour The National, attendant
   la sortie de {High Violet} en mai.

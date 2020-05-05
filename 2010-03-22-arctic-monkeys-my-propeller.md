@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Arctic Monkeys - My Propeller
 author:
   display_name: Joe Gantdelaine

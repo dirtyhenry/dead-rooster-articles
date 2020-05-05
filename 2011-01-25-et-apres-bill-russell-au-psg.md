@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Et après, Bill Russell au PSG ?
 author:
   display_name: Dirty Henry

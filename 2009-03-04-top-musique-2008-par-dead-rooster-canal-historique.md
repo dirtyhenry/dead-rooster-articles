@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Top Musique 2008 (par "Dead Rooster, canal historique")
 author:
   display_name: Joe Gantdelaine

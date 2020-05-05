@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Initiez-vous aux vaselines
 description: The Vaselines sortent leur 2nd album, 21 ans après le premier. Un extrait
   est à télécharger.

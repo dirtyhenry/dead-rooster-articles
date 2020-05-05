@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Convention de Genève ignorée
 author:
   display_name: Dirty Henry

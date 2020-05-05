@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Concert d'Arcade Fire
 author:
   display_name: Dirty Henry

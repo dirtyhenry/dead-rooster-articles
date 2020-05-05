@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Qui c'est celui là ?
 description: La reprise de la semaine de {{Katerine, Francis et ses peintres}} est
   {Qui c'est celui là ?}, de Pierre Vassiliu.

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Best Coast - The Only Place
 author:
   display_name: Dirty Henry

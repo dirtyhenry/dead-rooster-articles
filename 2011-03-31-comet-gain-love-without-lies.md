@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Comet Gain - Love Without Lies
 author:
   display_name: Joe Gantdelaine

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Father John Misty - This is Sally Hatchet
 author:
   display_name: Dirty Henry

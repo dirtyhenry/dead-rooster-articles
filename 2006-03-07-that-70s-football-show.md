@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: That '70s Football Show
 author:
   display_name: Dirty Henry

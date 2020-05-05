@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Noel ne fait pas de cadeau
 author:
   display_name: Dirty Henry

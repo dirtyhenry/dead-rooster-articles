@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Des idoles ne connaissent pas l'idole
 author:
   display_name: Dirty Henry

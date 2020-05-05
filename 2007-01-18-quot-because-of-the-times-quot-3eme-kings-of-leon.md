@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: "&quot;Because of the times&quot; - 3ème Kings of Leon"
 author:
   display_name: Dirty Henry

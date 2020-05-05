@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: James Skelly & The Intenders - Do It Again
 author:
   display_name: Dirty Henry

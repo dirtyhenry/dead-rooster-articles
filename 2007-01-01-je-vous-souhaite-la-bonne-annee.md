@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Je vous souhaite la bonne année
 author:
   display_name: Dirty Henry

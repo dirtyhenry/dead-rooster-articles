@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Love Is All - Ageing Had Never Been His Friend
 author:
   display_name: Dirty Henry

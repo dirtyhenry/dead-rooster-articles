@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Mikal Cronin - Change
 author:
   display_name: Dirty Henry

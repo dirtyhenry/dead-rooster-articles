@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: La Guerre est Déclarée - Valérie Donzelli
 description: Parlons un peu du film mais surtout, parlons un peu de sa bande son et
   de ses 6 meilleurs titres signés Frustration, Jacqueline Taïeb, Jacno, Peter von

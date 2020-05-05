@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: TSOOL ?!? Nan, toi, tu soûles !
 description: 'De la Suède, on retient toujours {Waterloo} et l''Eurovision de 1974,
   Ikea, Ericsson et Lego bien qu''on se gourre royalement concernant ce dernier exemple

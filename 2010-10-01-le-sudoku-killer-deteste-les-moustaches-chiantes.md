@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Le sudoku killer déteste les moustaches chiantes
 description: 'Le vendredi, le fun est de bon aloi. Cette semaine : on se réveille
   moustachu, détesté, entouré de photos chiantes, et on attend l''arrivée du sudoku-killer'

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Chronique morgueuse du 3ème album de Vincent Delerm
 author:
   display_name: Joe Gantdelaine

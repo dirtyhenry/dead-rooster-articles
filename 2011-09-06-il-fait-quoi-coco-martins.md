@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Il fait quoi Coco Martins ?
 author:
   display_name: Dirty Henry

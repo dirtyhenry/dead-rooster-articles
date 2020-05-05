@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Correspondance retrouvée
 author:
   display_name: Joe Gantdelaine

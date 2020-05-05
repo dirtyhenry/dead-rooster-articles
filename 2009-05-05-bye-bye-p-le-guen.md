@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Bye bye P. Le Guen
 author:
   display_name: Dirty Henry

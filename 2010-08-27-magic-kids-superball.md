@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Magic Kids' Superball
 description: Le groupe de Memphis {{Magic Kids}} nous invite à imaginer qu'on est
   en Californie dans les années 60.

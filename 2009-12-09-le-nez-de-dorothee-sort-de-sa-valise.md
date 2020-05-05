@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Le nez de Dorothée sort de sa valise
 author:
   display_name: Dirty Henry

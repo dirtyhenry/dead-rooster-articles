@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Paris 2008, découverte de Paris 1919
 author:
   display_name: Dirty Henry

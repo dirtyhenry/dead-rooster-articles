@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Wild Flag - Electric Band
 author:
   display_name: Dirty Henry

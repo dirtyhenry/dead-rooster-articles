@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: La littérature dans le sang...
 author:
   display_name: Dirty Henry

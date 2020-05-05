@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Hack-a-Shaq
 author:
   display_name: Joe Gantdelaine

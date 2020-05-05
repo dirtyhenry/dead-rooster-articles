@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Plaidoyer en faveur du retour du disque vinyle
 description: Ma principale résolution pour 2011 est d'abandonner les CD au profit
   des disques vinyles, et de me les procurer au plus près des artistes dans la chaîne

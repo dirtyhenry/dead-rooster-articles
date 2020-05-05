@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Go Johnny Moustache !
 author:
   display_name: Dirty Henry

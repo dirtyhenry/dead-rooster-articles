@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Kinks - She's bought a hat like Princess Marina
 author:
   display_name: Dirty Henry

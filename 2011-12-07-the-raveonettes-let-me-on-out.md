@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Raveonettes - Let Me On Out
 author:
   display_name: Dirty Henry

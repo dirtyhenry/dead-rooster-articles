@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Les disques de novembre 2011
 description: En novembre, les rééditions sont à l'honneur. Phil Spector et les Beach
   Boys nous font revivre les années 60.

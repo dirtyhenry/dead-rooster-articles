@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: C'est lundi...
 author:
   display_name: Joe Gantdelaine

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Beck - Where it's at
 author:
   display_name: Dirty Henry

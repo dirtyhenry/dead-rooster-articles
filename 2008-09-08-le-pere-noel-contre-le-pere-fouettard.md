@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Le père Noel contre le Père Fouettard
 author:
   display_name: Joe Gantdelaine

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Blur & Matt Sharp (The Rentals) - Friends of P
 author:
   display_name: Dirty Henry

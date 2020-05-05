@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Dale Earnhardt Jr. Jr. - Dark Water
 author:
   display_name: Dirty Henry

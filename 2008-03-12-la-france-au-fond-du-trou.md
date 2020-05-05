@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: La France au fond du trou
 author:
   display_name: Dirty Henry

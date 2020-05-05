@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Elle voyait souvent rouge...
 author:
   display_name: Joe Gantdelaine

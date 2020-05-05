@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Strokes - Fast Animals
 author:
   display_name: Dirty Henry

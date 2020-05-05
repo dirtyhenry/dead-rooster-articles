@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: On s'demande ce qu'ils écoutent ces cons-là !
 author:
   display_name: Dirty Henry

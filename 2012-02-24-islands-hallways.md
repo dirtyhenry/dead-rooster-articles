@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Islands - Hallways
 author:
   display_name: Joe Gantdelaine

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Le tableau qui fait mal
 author:
   display_name: Dirty Henry

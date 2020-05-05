@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Influences coxoniennes
 author:
   display_name: Dirty Henry

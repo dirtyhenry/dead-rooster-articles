@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Je pense à toi
 description: La reprise de {{Katerine, Francis et ses peintres}} de la semaine est
   {Je pense à toi} d'Amadou & Mariam.

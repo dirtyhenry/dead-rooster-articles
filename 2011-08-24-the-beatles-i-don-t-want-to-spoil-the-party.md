@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Beatles - I Don't Want To Spoil The Party
 author:
   display_name: Dirty Henry

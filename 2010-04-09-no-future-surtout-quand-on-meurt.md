@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: No future ? Surtout quand on meurt...
 author:
   display_name: Dirty Henry

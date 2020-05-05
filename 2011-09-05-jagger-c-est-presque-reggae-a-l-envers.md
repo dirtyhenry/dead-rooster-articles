@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Jagger c'est presque reggae à l'envers
 author:
   display_name: Dirty Henry

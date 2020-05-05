@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Carton rouge !
 author:
   display_name: Joe Gantdelaine

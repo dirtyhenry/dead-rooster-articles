@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Les hymnes indé selon le NME
 author:
   display_name: Dirty Henry

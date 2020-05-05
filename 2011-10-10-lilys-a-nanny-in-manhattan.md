@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Lilys - A Nanny In Manhattan
 author:
   display_name: Dirty Henry

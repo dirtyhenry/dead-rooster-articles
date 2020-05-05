@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Poutre dans l'oeil vol. 2
 author:
   display_name: Dirty Henry

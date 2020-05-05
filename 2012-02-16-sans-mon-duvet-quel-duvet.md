@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Sans mon duvet, quel duvet !
 author:
   display_name: Dirty Henry

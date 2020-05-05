@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Black Rebel Motorcycle Club - Hate The Taste
 author:
   display_name: Dirty Henry

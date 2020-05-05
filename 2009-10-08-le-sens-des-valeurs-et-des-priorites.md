@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Le sens des valeurs et des priorités
 author:
   display_name: Dirty Henry

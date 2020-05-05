@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: On refait le match
 author:
   display_name: Dirty Henry

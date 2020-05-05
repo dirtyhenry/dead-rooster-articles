@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: 'C''est officiel : la mascotte de la Coupe du...'
 author:
   display_name: Dirty Henry

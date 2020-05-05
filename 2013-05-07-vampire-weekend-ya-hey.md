@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Vampire Weekend - Ya Hey
 author:
   display_name: Dirty Henry

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: La compile du 7 août
 author:
   display_name: Joe Gantdelaine

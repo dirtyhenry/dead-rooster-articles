@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Stuck In The Sound - Pursuit
 author:
   display_name: Dirty Henry

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Ghislain dit adieu à Magicrème
 author:
   display_name: Dirty Henry

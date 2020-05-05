@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Où manger après le spectacle ?
 author:
   display_name: Dirty Henry

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: 'Grande Saga : “Un mois de juin 2007 rock’n''roll” - Episode 2 sur 5 : The
   White Stripes en live et en disque'
 author:

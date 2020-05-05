@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Blues post-Lenoir
 author:
   display_name: Dirty Henry

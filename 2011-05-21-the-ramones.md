@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Ramones
 description: Cette semaine, l'Encyclopédie est approximativement punk.
 author:

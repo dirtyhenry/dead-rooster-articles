@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Gallagher comme à la guerre !
 author:
   display_name: Joe Gantdelaine

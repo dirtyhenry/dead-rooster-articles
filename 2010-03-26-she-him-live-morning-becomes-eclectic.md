@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: She & Him live @Morning Becomes Eclectic
 author:
   display_name: Dirty Henry

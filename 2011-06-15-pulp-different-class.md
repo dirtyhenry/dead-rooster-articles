@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Pulp - Different Class
 description: Comment adapter une chanson de Renaud pour en faire un hymne absolu du
   rock indé ? Comment de grande tige malingre peut-on devenir songwriter adulé ? Comment

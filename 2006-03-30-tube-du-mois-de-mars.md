@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Tube du mois de mars
 author:
   display_name: Dirty Henry

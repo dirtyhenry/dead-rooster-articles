@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Nana was there !
 author:
   display_name: Joe Gantdelaine

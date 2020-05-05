@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Times New Viking - Sleep-In
 author:
   display_name: Joe Gantdelaine

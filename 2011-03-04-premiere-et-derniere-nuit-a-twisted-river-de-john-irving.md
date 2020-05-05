@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: "(Première et) Dernière nuit à Twisted River, de John Irving"
 description: A l'instar de Dirty Henry et de sa très chouette chronique du dernier
   roman de Coe, je vous propose à mon tour quelques mots sur le dernier bouquin d'Irving.

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: King Khan & The Shrines - Born To Die
 author:
   display_name: Dirty Henry

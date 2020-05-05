@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: L'étrange Noël de Mr. Jean-Pierre
 author:
   display_name: Dirty Henry

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: M Ward - Me And My Shadow
 author:
   display_name: Dirty Henry

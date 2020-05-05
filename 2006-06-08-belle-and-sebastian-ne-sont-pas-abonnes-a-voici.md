@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Belle and Sebastian ne sont pas abonnés à Voici
 author:
   display_name: Dirty Henry

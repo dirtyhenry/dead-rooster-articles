@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Shadows - Apache
 author:
   display_name: Dirty Henry

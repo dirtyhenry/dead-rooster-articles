@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: British Sea Power
 description: 'Dans la série {Les Losers Magnifiques} vus par Dead Rooster (on a déjà
   parlé [ici->http://www.deadrooster.org/TSOOL-Nan-toi-tu-soules] de The Soundtrack

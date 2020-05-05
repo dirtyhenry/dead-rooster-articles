@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: C'est comme ça !
 author:
   display_name: Dirty Henry

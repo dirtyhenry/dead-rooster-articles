@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Qu'est-ce que tu me wacontes là ?
 author:
   display_name: Joe Gantdelaine

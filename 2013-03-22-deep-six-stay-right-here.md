@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Deep Six - Stay Right Here
 author:
   display_name: Dirty Henry

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: La feuille de route 2012 de Dead Rooster
 description: La semaine dernière, on fait [le bilan 2011->969], il est temps de passer
   aux résolutions pour 2012.

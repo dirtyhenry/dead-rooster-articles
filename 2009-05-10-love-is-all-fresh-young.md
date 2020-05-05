@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Love is All ? Fresh & Young
 author:
   display_name: Dirty Henry

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Veronica Falls - Waiting For Something To Happen
 author:
   display_name: Dirty Henry

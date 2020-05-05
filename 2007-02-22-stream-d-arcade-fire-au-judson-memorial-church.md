@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Stream d'Arcade Fire au Judson Memorial Church
 author:
   display_name: Dirty Henry

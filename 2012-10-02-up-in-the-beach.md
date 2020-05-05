@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Up In The Beach
 author:
   display_name: Dirty Henry

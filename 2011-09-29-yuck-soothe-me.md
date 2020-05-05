@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Yuck - Soothe Me
 author:
   display_name: Dirty Henry

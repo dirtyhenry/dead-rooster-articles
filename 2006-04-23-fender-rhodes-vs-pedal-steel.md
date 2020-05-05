@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Fender Rhodes vs Pedal Steel
 author:
   display_name: Dirty Henry

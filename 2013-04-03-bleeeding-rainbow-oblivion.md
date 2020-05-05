@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Bleeeding Rainbow - Oblivion
 author:
   display_name: Dirty Henry

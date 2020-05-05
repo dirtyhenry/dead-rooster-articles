@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Antoine et les problèmes du monde moderne...
 author:
   display_name: Joe Gantdelaine

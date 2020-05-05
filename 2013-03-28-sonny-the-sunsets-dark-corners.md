@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Sonny & The Sunsets - Dark Corners
 author:
   display_name: Dirty Henry

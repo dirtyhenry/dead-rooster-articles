@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Aucun docteur n'a sauvé Willy
 author:
   display_name: Dirty Henry

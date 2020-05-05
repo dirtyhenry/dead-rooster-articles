@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Montreal, parce qu'on le vaut bien !
 author:
   display_name: ''

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Rachida douteuse
 author:
   display_name: Biboulos

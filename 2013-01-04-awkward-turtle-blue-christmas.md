@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Awkward Turtle - Blue Christmas
 author:
   display_name: Dirty Henry

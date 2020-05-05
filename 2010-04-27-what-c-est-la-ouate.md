@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: What ?! C'est la ouate ?
 description: Le titre de la semaine de {{Katerine, Francis et ses peintres}} est {C'est
   La Ouate}, de Caroline Loeb. David l'avait.

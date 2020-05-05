@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Le patinage artistique méprisé
 author:
   display_name: Joe Gantdelaine

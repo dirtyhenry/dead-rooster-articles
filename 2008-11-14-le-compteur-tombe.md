@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Le compteur tombe
 author:
   display_name: Dirty Henry

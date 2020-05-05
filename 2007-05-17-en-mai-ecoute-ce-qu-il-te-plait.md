@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: En mai, écoute ce qu'il te plait !
 author:
   display_name: Joe Gantdelaine

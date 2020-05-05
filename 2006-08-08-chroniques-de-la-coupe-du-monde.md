@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Chroniques de la Coupe du Monde
 author:
   display_name: Dirty Henry

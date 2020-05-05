@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Choc de cultures
 author:
   display_name: ''

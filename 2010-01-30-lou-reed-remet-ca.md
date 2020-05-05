@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Lou Reed remet ça
 author:
   display_name: Dirty Henry

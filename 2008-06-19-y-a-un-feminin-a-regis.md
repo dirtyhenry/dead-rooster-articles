@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Y'a un féminin à Régis ?
 author:
   display_name: Dirty Henry

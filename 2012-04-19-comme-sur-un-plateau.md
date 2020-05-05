@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Comme sur un plateau !
 author:
   display_name: Joe Gantdelaine

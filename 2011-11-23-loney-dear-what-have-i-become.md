@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Loney Dear - What Have I Become?
 author:
   display_name: Dirty Henry

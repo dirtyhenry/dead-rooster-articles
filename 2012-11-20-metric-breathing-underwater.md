@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Metric - Breathing Underwater
 author:
   display_name: Dirty Henry

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Libération générale
 description: 'Le vendredi, le fun est de bon aloi. Cette semaine : tout le monde se
   libère !'

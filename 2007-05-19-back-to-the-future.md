@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Back to the future
 author:
   display_name: Joe Gantdelaine

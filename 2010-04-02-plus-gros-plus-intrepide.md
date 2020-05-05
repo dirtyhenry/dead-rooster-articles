@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Plus gros, plus intrépide !
 description: Trois chansons à écouter ou à télécharger sur le net, avec au programme,
   Love Is All, Harlem et Foals !

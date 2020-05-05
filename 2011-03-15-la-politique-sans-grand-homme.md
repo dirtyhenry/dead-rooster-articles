@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: La politique sans grand homme
 author:
   display_name: Dirty Henry

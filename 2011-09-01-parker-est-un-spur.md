@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Parker est un Spur
 author:
   display_name: Dirty Henry

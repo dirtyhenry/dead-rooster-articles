@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Valence recrute Pabon
 author:
   display_name: Dirty Henry

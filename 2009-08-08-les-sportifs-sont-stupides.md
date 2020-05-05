@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Les sportifs sont stupides
 author:
   display_name: Dirty Henry

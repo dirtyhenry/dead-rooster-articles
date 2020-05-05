@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Dum Dum Girls - He Gets Me High
 author:
   display_name: Dirty Henry

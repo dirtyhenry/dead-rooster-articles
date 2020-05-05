@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Enrico-La-Chiasse
 author:
   display_name: Joe Gantdelaine

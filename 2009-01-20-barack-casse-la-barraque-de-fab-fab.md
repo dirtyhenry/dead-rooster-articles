@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Barack casse la barraque de Fab' Fab
 author:
   display_name: Dirty Henry

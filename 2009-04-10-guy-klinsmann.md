@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Guy Klinsmann ?
 author:
   display_name: Dirty Henry

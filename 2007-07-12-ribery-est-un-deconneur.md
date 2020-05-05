@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Ribéry est un déconneur
 author:
   display_name: ''

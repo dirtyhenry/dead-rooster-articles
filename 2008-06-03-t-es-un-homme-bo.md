@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: T'es un homme Bo
 author:
   display_name: Dirty Henry

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: La presse des Deschiens
 author:
   display_name: Joe Gantdelaine

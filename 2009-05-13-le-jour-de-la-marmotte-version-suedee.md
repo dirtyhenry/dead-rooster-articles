@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Le Jour de la Marmotte (version suédée)
 author:
   display_name: Dirty Henry

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Best Coast - Do You Love Me Like You Used To?
 author:
   display_name: Dirty Henry

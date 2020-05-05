@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Les disques de janvier 2012
 description: 'Annonce en fanfare : on présente les disques de janvier en avril parce
   qu''on n''a pas chômé pendant ce temps-là.'

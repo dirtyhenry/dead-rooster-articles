@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: St. Vincent - Cruel
 author:
   display_name: Dirty Henry

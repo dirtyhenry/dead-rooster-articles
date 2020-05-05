@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Mary Onettes - Once I Was Pretty
 author:
   display_name: Joe Gantdelaine

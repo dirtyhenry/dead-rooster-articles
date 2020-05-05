@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Mais que deviennent les Hooray Henrys ?
 author:
   display_name: Dirty Henry

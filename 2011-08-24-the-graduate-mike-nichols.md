@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Graduate - Mike Nichols
 description: Cette semaine, c'est {Le Lauréat} ({The Graduate}), de Mike Nichols,
   avec Dustin Hoffman qui devient un homme pendant que Simon & Garfunkel jouent de

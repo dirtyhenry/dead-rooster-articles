@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Kurt Vile - Jesus Fever
 author:
   display_name: Dirty Henry

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Arrêtez, n'en jetez plus !
 description: "{{Eels}} annonce fièrement la sortie d'un nouvel album, intitulé {Tomorrow
   Morning}, pour la fin août...Ce n'est que le troisième album en à peine plus de

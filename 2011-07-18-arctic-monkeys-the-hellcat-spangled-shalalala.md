@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Arctic Monkeys - The Hellcat Spangled Shalalala
 author:
   display_name: Dirty Henry

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Pixies
 description: Cette semaine, l'Encyclopédie Approximative vous propose THE article
   approximatif !

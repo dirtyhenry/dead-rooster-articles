@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Admiral Radley aime la California (meow)
 description: "{{Admiral Radley}} est le nouveau groupe de Jason Lytle, ex-Grandaddy,
   qui vient de sortir son premier album, {I Heart California}, dont est extrait le

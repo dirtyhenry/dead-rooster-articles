@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Gilles Gabriel - Love & Compagnie
 author:
   display_name: Dirty Henry

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Pour un dollar, t'as plein de trucs
 author:
   display_name: Dirty Henry

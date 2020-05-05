@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Reprise hors cadre
 author:
   display_name: Dirty Henry

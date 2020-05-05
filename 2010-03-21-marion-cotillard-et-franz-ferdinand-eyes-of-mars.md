@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Marion Cotillard et Franz Ferdinand - Eyes of Mars
 author:
   display_name: Dirty Henry

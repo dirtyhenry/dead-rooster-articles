@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Troggs - Wild Thing
 author:
   display_name: Dirty Henry

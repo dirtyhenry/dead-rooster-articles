@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Qui veut gagner de l'argent en masse ?
 author:
   display_name: Dirty Henry

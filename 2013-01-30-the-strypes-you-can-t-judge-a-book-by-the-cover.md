@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Strypes - You Can't Judge A Book By The Cover
 author:
   display_name: Dirty Henry

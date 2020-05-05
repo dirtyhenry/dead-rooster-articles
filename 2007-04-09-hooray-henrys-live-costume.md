@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Hooray Henrys live costumé
 author:
   display_name: Dirty Henry

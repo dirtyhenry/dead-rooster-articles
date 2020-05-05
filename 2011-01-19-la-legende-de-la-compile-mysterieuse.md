@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: La légende de la compile mystérieuse
 description: 'Voici un conte inspiré de faits réels : la légende de la compile mystérieuse
   ! '

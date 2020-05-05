@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Good Shoes - Never Meant To Hurt You
 author:
   display_name: Dirty Henry

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Les limites de la médecine
 description: Un jour on m'a dit que je n'étais pas vacciné contre la médiocrité. Ce
   vaccin n'existe toujours pas apparemment !

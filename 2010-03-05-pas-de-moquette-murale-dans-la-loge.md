@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Pas de moquette murale dans la loge !
 author:
   display_name: Joe Gantdelaine

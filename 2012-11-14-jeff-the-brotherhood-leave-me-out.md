@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: JEFF The Brotherhood - Leave Me Out
 author:
   display_name: Dirty Henry

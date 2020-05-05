@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Triste marquise des anges !
 author:
   display_name: Joe Gantdelaine

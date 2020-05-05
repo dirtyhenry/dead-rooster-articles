@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Also Known As
 author:
   display_name: Joe Gantdelaine

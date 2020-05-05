@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Strokes - You Only Live Once
 author:
   display_name: Joe Gantdelaine

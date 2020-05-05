@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: The new super french singermen
 author:
   display_name: Joe Gantdelaine

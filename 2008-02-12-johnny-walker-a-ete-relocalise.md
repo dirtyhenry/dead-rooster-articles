@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Johnny Walker a été relocalisé
 author:
   display_name: Dirty Henry

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Gotye - Somebody That I Used To Know
 author:
   display_name: Dirty Henry

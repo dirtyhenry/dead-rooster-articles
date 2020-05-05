@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Agenda Concerts
 author:
   display_name: Dirty Henry

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Elle est où la caméra ?
 author:
   display_name: Joe Gantdelaine

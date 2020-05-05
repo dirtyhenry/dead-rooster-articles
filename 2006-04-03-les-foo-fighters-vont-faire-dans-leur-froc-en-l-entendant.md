@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Les Foo Fighters vont faire dans leur froc en l'entendant
 author:
   display_name: Dirty Henry

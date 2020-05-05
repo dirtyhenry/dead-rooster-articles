@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Fleet Foxes - Grown Ocean
 author:
   display_name: Dirty Henry

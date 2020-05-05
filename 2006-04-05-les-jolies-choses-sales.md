@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Les jolies choses sales
 author:
   display_name: Dirty Henry

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Programmation Vieilles Charrues 2007
 author:
   display_name: ''

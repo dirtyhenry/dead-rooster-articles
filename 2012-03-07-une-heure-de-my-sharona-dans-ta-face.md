@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Une heure de My Sharona dans ta face !
 author:
   display_name: Dirty Henry

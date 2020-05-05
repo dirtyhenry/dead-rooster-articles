@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: George Harrison - My Sweet Lord
 author:
   display_name: Dirty Henry

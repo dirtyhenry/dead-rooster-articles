@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: 'Zone d''Ecoute Prioritaire # 1'
 description: Une petite présentation de mes coups de coeur francophones du moment
   pour mon premier bulletin de ma toute nouvelle chronique.

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: High Violet, haute voltige
 description: '"The National est un groupe qui ne m''a jamais vraiment convaincu sur
   disque mais que je sais briller sur scène." [C''est ce que je pouvais dire->581]

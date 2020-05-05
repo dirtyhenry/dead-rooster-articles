@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: 'Dinosaur Jr : cousin machin commence à grisonner'
 author:
   display_name: Joe Gantdelaine

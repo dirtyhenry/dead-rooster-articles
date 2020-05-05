@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: La Sera - Break My Heart
 author:
   display_name: Dirty Henry

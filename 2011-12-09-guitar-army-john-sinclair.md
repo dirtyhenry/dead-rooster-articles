@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Guitar Army - John Sinclair
 description: Vous connaissez sûrement {John Sinclair}, cette chanson de John Lennon
   qui fait «Gotta, gotta, gotta, gotta, gotta, gotta, gotta, gotta, gotta, gotta,

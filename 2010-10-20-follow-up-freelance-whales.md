@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: 'Follow-Up : Freelance Whales'
 description: Je vous avais parlé des {{Freelance Whales}} [ici->594]. Que deviennent-ils
   ?

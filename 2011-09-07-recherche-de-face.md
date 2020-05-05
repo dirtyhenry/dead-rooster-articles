@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Recherche de face
 author:
   display_name: Dirty Henry

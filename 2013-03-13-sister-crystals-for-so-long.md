@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Sister Crystals - For So Long
 author:
   display_name: Dirty Henry

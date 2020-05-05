@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: La France en Fed Cup, c'est n'importe quoi !
 author:
   display_name: Dirty Henry

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Florence + The Machine - Breaking Down
 author:
   display_name: Dirty Henry

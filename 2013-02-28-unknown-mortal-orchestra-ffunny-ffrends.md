@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Unknown Mortal Orchestra - Ffunny Ffrends
 author:
   display_name: Joe Gantdelaine

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Ils connaissent pas Jacky...
 author:
   display_name: Joe Gantdelaine

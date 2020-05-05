@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: She & Him - I Could’ve Been Your Girl
 author:
   display_name: Dirty Henry

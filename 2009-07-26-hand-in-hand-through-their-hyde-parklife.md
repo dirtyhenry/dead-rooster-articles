@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Hand in hand through their (Hyde) Parklife
 author:
   display_name: Dirty Henry

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Bleached - Dead In Your Head
 author:
   display_name: Dirty Henry

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: The National - Don't Swallow The Cap
 author:
   display_name: Dirty Henry

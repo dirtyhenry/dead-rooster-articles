@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: James Iha - To Who Knows Where
 author:
   display_name: Joe Gantdelaine

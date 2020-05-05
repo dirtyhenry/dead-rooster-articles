@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Cajun Dance Party - The Next Untouchable
 author:
   display_name: Dirty Henry

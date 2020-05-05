@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Sister Crystals - You Won't Let Go
 author:
   display_name: Dirty Henry

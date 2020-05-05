@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Prefab Prouuuut !
 description: '"La critique est aisée, et l''art est difficile", comme disait <s>Voltaire</s>
   Destouches. Faisant fi de la sagesse de <s>François-Marie Arouet</s> Philippe Néricault,

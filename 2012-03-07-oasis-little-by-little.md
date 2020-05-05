@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Oasis - Little By Little
 author:
   display_name: Dirty Henry

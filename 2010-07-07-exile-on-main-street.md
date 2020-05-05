@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Exile On Main Street
 description: Excellent article de {{Kill Me Sarah}} sur la réédition d'{Exile On Main
   Street}, des Rolling Stones.

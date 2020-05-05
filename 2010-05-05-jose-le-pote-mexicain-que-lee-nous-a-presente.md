@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Jose, le pote mexicain que Lee nous a présenté
 description: L'actualité c'est bien. Mais réécouter les trésors des décennies précédentes
   c'est pas mal non plus... Have you met Jose ?

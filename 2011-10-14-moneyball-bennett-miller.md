@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Moneyball - Bennett Miller
 description: Parlons baseball, de stats, de mâchoires en avant, des Black Keys, de
   musique de stade et des Standells.

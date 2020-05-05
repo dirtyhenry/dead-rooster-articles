@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Miles Kane - Don't Forget Who You Are
 author:
   display_name: Dirty Henry

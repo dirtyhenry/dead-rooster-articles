@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: J Mascis - Not Enough
 author:
   display_name: Joe Gantdelaine

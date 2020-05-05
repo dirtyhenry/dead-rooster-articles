@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Même plus tranquille chez soi
 author:
   display_name: Dirty Henry

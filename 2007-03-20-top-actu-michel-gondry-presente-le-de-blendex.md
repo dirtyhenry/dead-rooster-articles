@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: 'Top actu : Michel Gondry présente le de-blendex'
 author:
   display_name: Joe Gantdelaine

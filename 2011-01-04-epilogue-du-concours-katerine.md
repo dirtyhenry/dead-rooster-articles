@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Epilogue du concours Katerine
 description: C'est bien triste mais voici l'épilogue du concours Katerine, qui nous
   aura tenu en haleine toute l'année 2010.

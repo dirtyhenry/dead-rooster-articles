@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: H-Burns - Off The Map
 author:
   display_name: Dirty Henry

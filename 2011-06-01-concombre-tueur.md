@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Concombre tueur
 author:
   display_name: Dirty Henry

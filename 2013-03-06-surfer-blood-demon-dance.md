@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Surfer Blood - Demon Dance
 author:
   display_name: Joe Gantdelaine

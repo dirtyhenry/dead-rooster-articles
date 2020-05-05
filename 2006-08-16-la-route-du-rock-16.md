@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: La Route du Rock 16
 author:
   display_name: Dirty Henry

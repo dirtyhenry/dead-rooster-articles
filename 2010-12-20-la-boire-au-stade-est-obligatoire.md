@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: La boire au stade est OBLIGATOIRE !
 author:
   display_name: Dirty Henry

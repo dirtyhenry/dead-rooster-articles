@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Detroit&Rock&Roll
 description: 'Ben Swank, le batteur des Soledad Brothers, désormais membre de [The
   See See->http://www.myspace.com/theseeseeband], et pigiste occasionnel pour The

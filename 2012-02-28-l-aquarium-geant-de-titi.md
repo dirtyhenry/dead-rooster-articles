@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: L'aquarium géant de Titi
 author:
   display_name: Dirty Henry

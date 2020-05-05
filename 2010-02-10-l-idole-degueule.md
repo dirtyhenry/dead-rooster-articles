@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: L'idole dégueule
 author:
   display_name: Joe Gantdelaine

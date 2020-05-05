@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Belle and Sebastian - Another Sunny Day
 author:
   display_name: Dirty Henry

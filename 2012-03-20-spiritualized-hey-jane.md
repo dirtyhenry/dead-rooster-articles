@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Spiritualized - Hey Jane
 author:
   display_name: Joe Gantdelaine

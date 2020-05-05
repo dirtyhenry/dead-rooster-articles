@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Concert au souffle 9
 author:
   display_name: Dirty Henry

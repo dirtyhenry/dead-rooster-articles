@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Vélo à moteur ? Oui mais...
 description: "[Un cycliste aurait récemment gagné des courses en dissimulant un moteur
   électrique dans son vélo->http://www.lequipe.fr/Cyclisme/breves2010/20100601_175537_cancellara-nie.html]

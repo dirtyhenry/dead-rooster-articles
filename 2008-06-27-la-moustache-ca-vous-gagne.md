@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: La moustache, ça vous gagne !
 author:
   display_name: Joe Gantdelaine

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: De l'art de mettre noir sur blanc ce que tout le monde a remarqué
 author:
   display_name: Dirty Henry

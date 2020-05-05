@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Les pionniers oubliés du rock français
 description: Le rock français a toujours été le parent pauvre du Rock and Roll. Et
   pourtant ! Bien souvent, le vent de la révolte trouvait sa source dans les belles

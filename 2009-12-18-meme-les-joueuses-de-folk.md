@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Même les joueuses de folk ?!
 author:
   display_name: Dirty Henry

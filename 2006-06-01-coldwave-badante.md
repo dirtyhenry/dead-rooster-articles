@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Coldwave badante
 author:
   display_name: Dirty Henry

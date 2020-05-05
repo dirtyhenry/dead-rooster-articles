@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Sonny & The Sunsets - I Wanna Do It
 author:
   display_name: Dirty Henry

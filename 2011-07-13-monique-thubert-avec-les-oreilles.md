@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Monique Thubert - Avec Les Oreilles
 author:
   display_name: Joe Gantdelaine

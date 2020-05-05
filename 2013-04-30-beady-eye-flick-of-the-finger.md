@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Beady Eye - Flick Of The Finger
 author:
   display_name: Dirty Henry

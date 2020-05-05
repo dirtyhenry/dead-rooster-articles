@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Le Caire, nids d'espion
 author:
   display_name: Dirty Henry

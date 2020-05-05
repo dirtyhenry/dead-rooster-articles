@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Young Man - In A Sense
 author:
   display_name: Dirty Henry

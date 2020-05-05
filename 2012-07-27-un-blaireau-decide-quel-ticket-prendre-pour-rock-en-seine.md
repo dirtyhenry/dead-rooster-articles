@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Un blaireau décide quel ticket prendre pour Rock en Seine
 description: "Il serait temps de faire un post sur ce blog, ne serait-ce que pour
   prouver qu'on existe toujours.\r\n\r\nCe post a donc un triple objectif : \r\n-#

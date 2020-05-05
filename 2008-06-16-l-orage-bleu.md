@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: L'orage bleu
 author:
   display_name: Joe Gantdelaine

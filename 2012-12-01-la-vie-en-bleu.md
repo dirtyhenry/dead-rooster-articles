@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: La vie en bleu
 author:
   display_name: Joe Gantdelaine

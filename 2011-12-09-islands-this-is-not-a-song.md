@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Islands - This Is Not A Song
 author:
   display_name: Dirty Henry

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Gueule de pierre sous la terre...
 author:
   display_name: Groovy Henry

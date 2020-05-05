@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Datsuns - Gold Halo
 author:
   display_name: Joe Gantdelaine

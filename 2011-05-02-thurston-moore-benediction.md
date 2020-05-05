@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Thurston Moore - Benediction
 author:
   display_name: Joe Gantdelaine

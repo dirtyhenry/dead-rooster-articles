@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Datsuns - Gods Are Bored
 author:
   display_name: Dirty Henry

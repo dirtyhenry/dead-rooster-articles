@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Les Allemands marchent sans canne
 author:
   display_name: Dirty Henry

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Papa, Maman et la bonne sont tristes
 author:
   display_name: Dirty Henry

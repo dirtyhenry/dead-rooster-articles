@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Au pays des seconds couteaux
 author:
   display_name: Joe Gantdelaine

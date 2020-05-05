@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: When I was in the sweet little 16 (2009 version)
 author:
   display_name: Joe Gantdelaine

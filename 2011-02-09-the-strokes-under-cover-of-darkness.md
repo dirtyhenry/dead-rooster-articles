@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Strokes - Under Cover of Darkness
 author:
   display_name: Dirty Henry

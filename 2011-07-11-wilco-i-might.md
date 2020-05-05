@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Wilco - I Might
 author:
   display_name: Dirty Henry

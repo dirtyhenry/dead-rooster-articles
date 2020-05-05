@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Chronique morgueuse vol. 2 - Herman Düne &quot;Giant&quot;
 author:
   display_name: Joe Gantdelaine

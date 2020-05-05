@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Un début de mois de janvier au ciné
 author:
   display_name: Dirty Henry

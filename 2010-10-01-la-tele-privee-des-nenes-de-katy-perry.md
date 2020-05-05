@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: La télé privée des nénés de Katy Perry
 description: "[Les producteurs de Rue Sésame ont décidé de censurer la participation
   de Katy Perry à l'émission prévue pour le nouvel an à cause d'une robe au décolleté

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Spooky Tooth - I am the Walrus
 author:
   display_name: Dirty Henry

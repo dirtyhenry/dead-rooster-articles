@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Beach House - Wild
 author:
   display_name: Dirty Henry

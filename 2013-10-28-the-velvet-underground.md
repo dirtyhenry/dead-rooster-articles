@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Velvet Underground
 description: Parce que malheureusement, cette semaine, il n'y a pas que le Rooster
   qui soit Dead, retour en fanfare (?) de l'Encyclopédie approximative.

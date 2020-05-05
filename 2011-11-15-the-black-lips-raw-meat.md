@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Black Lips - Raw Meat
 author:
   display_name: Joe Gantdelaine

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Sardou-teux
 author:
   display_name: Biboulos

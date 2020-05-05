@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: La France, trou du cul du monde...
 author:
   display_name: Joe Gantdelaine

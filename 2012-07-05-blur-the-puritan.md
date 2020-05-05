@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Blur - The Puritan
 author:
   display_name: Dirty Henry

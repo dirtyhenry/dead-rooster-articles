@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Local Natives - Heavy Feet
 author:
   display_name: Dirty Henry

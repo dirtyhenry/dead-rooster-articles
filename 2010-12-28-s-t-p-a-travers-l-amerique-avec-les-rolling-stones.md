@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: 'S.T.P. : A travers l''Amérique avec les Rolling Stones'
 description: Mai 1972, les Rolling Stones arrivent sur le continent américain pour
   y entamer une tournée qui les enverra de Vancouver à New York. Baptisée S.T.P. (Stones

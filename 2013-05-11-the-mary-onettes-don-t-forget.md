@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Mary Onettes - Don't Forget
 author:
   display_name: Joe Gantdelaine

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Jeff Tweedy (Wilco) - I Gotta Feeling
 author:
   display_name: Joe Gantdelaine

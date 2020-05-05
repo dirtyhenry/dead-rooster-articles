@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Le Femme - Sur la planche
 author:
   display_name: Dirty Henry

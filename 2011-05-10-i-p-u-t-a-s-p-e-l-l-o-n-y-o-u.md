@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: I.P.U.T.A.S.P.E.L.L.O.N.Y.O.U.
 description: La semaine dernière, [Yann Tiersen était à l'honneur ici-même->837].
   Le titre {Palestine} était évoqué mais tout n'a pas été dit sur ce titre. Ceux qui

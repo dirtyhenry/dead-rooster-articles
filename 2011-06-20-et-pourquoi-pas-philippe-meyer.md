@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Et pourquoi pas Philippe Meyer ?
 author:
   display_name: Joe Gantdelaine

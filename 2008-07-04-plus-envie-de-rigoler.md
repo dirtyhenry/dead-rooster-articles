@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Plus envie de rigoler
 author:
   display_name: Dirty Henry

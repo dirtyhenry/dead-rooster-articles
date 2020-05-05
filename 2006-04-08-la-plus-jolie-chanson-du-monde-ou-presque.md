@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: La plus jolie chanson du monde... ou presque
 author:
   display_name: Dirty Henry

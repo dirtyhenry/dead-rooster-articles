@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: L'homme gris est de retour
 author:
   display_name: Dirty Henry

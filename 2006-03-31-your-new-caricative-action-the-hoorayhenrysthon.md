@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: 'Your new caricative action : the HoorayHenrysThon'
 author:
   display_name: Dirty Henry

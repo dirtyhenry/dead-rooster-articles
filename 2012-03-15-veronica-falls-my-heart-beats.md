@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Veronica Falls - My Heart Beats
 author:
   display_name: Dirty Henry

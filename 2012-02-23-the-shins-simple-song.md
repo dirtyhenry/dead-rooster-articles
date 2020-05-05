@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Shins - Simple Song
 author:
   display_name: Dirty Henry

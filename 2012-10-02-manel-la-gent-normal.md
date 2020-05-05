@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Manel - La Gent Normal
 author:
   display_name: Dirty Henry

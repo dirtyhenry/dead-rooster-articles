@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Salut les Copains de Facebook
 author:
   display_name: Dirty Henry

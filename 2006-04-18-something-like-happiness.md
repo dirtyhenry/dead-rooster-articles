@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Something like happiness
 author:
   display_name: Dirty Henry

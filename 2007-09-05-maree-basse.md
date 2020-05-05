@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Marée basse
 author:
   display_name: Dirty Henry

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Escadron de renards en vue !
 author:
   display_name: Dirty Henry

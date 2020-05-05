@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Labrador Records
 description: En cette période de fêtes où tout est vraiment Trop Trop Mignon (TTM),
   penchons-nous sur un label de musique Trop Trop Mignonne.

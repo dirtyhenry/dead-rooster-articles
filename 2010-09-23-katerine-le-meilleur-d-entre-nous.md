@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Katerine, le meilleur d'entre nous
 description: Ca fait longtemps que nous n'avons pas mis à jour le concours Katerine.
   Pour ne rien gâcher, l'actualité de Katerine est par ailleurs chargée. Il est temps

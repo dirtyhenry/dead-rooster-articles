@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Introduction aux vvagues
 description: Wavves est un groupe californien qui s'apprête à sortir son 3ème album,
   {King of the Beach}. En attendant, il propose d'écouter son 1er single.

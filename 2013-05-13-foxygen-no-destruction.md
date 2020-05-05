@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Foxygen - No Destruction
 author:
   display_name: Joe Gantdelaine

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Drew Barrymore & Hugh Grant - Way Back Into Love
 author:
   display_name: Dirty Henry

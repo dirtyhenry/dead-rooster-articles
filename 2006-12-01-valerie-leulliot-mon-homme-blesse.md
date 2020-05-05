@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Valérie Leulliot - Mon homme blessé
 author:
   display_name: Dirty Henry

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Surfer Blood - Weird Shapes
 author:
   display_name: Dirty Henry

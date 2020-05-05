@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Interpol rentre déjà en CM1
 description: Voir Interpol en 2011, c'est voir un des meilleurs groupes de la décennie
   passée, ne pas avoir eu la chance de dire au revoir à Carlos D, prendre un petit

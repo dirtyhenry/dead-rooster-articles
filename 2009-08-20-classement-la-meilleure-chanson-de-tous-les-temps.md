@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: 'Classement : la meilleure chanson de tous les temps'
 author:
   display_name: Joe Gantdelaine

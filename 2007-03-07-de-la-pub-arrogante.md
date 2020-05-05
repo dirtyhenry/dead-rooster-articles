@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: De la pub arrogante
 author:
   display_name: Dirty Henry

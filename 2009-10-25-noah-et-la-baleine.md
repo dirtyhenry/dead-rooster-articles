@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Noah et la baleine
 description: Noah & the Whale a sorti son second album, {The Fist Days of Spring}
   et était de passage à Paris, au café de danse, en septembre. Que penser de ce groupe

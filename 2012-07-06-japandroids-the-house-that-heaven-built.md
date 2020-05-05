@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Japandroids - The House That Heaven Built
 author:
   display_name: Dirty Henry

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Black Keys - Lonely Boy
 author:
   display_name: Joe Gantdelaine

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: White Town - Your Woman
 author:
   display_name: Dirty Henry

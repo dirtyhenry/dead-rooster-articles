@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Clip de The Daredevil Christopher Wright
 description: Clip et titre de The Daredevil Christopher Wright, bientôt de passage
   à Paris.

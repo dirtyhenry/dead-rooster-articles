@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Shy Boys - Julia
 author:
   display_name: Dirty Henry

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: TSOOL, mais trop t'sais !
 description: Second article pour un groupe qui le mérite, où l'on parle d'un Charlot
   et d'Ebbot qu'est beau.

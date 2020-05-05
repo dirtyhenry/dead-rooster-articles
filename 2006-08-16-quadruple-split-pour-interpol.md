@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Quadruple split pour Interpol
 author:
   display_name: Dirty Henry

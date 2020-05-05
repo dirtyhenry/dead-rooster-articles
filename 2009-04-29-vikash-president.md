@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Vikash président !
 author:
   display_name: Joe Gantdelaine

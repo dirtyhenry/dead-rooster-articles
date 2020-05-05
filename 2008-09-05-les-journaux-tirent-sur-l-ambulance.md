@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Les journaux tirent sur l'ambulance
 author:
   display_name: Dirty Henry

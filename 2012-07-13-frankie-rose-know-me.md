@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Frankie Rose - Know Me
 author:
   display_name: Dirty Henry

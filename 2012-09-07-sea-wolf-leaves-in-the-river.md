@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Sea Wolf - Leaves In The River
 author:
   display_name: Dirty Henry

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Y'a des semaines comme ça...
 author:
   display_name: Dirty Henry

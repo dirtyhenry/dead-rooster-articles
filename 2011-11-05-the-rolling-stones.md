@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Rolling Stones
 description: Aujourd'hui, encore un monument du rock and roll maltraité par l'Encyclopédie
   Approximative du Rock and Roll !

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Sonny & The Sunsets - Imagine
 author:
   display_name: Joe Gantdelaine

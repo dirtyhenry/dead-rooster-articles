@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: La vie très privée de Mr Sim de Jonathan Coe
 description: "[Marcello Proust->auteur5] m'a dit que Dead Rooster ne parlait pas assez
   de bouquins. Dont acte !"

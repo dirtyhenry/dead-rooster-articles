@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Moeurs légères
 author:
   display_name: Dirty Henry

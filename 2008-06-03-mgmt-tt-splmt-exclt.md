@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: MGMT, TT SPLMT EXCLT
 author:
   display_name: Dirty Henry

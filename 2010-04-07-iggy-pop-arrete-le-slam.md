@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Iggy Pop arrête le slam
 author:
   display_name: Dirty Henry

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Eteignez les radiateurs !
 author:
   display_name: Joe Gantdelaine

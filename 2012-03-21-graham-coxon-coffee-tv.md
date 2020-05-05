@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Graham Coxon - Coffee & TV
 author:
   display_name: Dirty Henry

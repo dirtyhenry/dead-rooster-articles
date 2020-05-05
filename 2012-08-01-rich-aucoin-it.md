@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Rich Aucoin - It
 author:
   display_name: Dirty Henry

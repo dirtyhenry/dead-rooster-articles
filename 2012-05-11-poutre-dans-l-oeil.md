@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Poutre dans l'oeil
 author:
   display_name: Dirty Henry

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Prix Goncourt du meilleur buteur
 author:
   display_name: Dirty Henry

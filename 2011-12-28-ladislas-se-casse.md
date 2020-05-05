@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Ladislas se casse !
 author:
   display_name: Joe Gantdelaine

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: "(500) Nicolas et Max"
 author:
   display_name: Dirty Henry

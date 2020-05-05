@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Le corail ou la chorale ?
 author:
   display_name: Dirty Henry

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Dum Dum Girls - Bedroom Eyes
 author:
   display_name: Dirty Henry

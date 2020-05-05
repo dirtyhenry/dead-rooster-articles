@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Psycho-couac
 author:
   display_name: Joe Gantdelaine

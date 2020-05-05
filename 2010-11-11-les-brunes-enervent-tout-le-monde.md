@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Les brunes énervent tout le monde...
 description: 'Quatre semaines de Katerine à rattraper d''un coup... '
 author:

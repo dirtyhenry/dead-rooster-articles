@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Muse n'amuse plus
 author:
   display_name: Dirty Henry

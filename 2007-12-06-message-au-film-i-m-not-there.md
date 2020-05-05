@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Message au film I'm not there
 author:
   display_name: Joe Gantdelaine

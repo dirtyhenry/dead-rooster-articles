@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: 'Batman vs Shark : la pire scène de l''histoire ?'
 description: 'Entre le 1er Batman, {Batman : The Movie}, et le dernier en date, {The
   Dark Knight}, plusieurs paliers semblent avoir été franchis par le cinéma...'

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Mais c'est dégeulâââsse
 author:
   display_name: Dirty Henry

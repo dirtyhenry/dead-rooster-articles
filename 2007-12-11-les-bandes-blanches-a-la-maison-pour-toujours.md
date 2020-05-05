@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Les bandes blanches à la maison pour toujours ?
 author:
   display_name: Dirty Henry

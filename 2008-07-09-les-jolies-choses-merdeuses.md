@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Les jolies choses merdeuses
 author:
   display_name: Joe Gantdelaine

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Jeff The Brotherhood - Sixpack
 author:
   display_name: Dirty Henry

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Confidence pour qu'on fit dense
 description: Le titre de la semaine de {{Katerine, Francis et ses peintres}} est {Confidence
   pour Confidence}, de Jean Schultheis. Loïc marque des points !

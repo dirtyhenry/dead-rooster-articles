@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: 'Compile MP3 du NET #02'
 description: Une sélection des meilleurs MP3 légalement disponibles au téléchargement
   des dernières semaines.

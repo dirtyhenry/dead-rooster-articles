@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Suede - It Starts And Ends With You
 author:
   display_name: Dirty Henry

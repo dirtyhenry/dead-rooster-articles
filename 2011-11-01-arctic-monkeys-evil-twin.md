@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Arctic Monkeys - Evil Twin
 author:
   display_name: Dirty Henry

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Radiohead nous refait le coup du "machin"
 author:
   display_name: Julian

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Wilco - Dawned on Me
 author:
   display_name: Joe Gantdelaine

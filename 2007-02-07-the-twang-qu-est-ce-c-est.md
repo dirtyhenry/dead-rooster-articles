@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Twang ? Qu'est ce c'est ?
 author:
   display_name: Dirty Henry

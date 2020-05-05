@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: De Montréal ? Ca vient des States !
 author:
   display_name: Dirty Henry

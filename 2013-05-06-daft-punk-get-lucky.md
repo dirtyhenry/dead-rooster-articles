@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Daft Punk - Get Lucky
 author:
   display_name: Dirty Henry

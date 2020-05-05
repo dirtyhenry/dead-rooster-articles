@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Goodbye Emmanuelle !
 author:
   display_name: Joe Gantdelaine

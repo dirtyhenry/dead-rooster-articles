@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Dum Dum Girls - There is a light that never goes out
 author:
   display_name: Dirty Henry

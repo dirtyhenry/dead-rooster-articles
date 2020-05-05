@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: 'Concours Katerine : sentimental Plastic & doublé de Guy'
 description: Le titre de la semaine est {Sentimental Moi}, de Plastic Bertrand. Encore
   un titre signé Guy Lux !

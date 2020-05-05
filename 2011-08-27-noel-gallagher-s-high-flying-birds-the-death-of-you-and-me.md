@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Noel Gallagher's High Flying Birds - The Death Of You And Me
 author:
   display_name: Dirty Henry

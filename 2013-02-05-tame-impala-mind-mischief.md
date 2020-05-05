@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Tame Impala - Mind Mischief
 author:
   display_name: Dirty Henry

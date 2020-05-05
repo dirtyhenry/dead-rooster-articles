@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Mérites non reconnus
 author:
   display_name: Dirty Henry

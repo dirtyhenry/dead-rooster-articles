@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Interpol - The Heinrich Maneuver
 author:
   display_name: ''

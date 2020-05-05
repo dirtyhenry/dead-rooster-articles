@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Guillemots - Trains To Brazil
 author:
   display_name: Dirty Henry

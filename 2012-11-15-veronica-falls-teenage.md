@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Veronica Falls - Teenage
 author:
   display_name: Dirty Henry

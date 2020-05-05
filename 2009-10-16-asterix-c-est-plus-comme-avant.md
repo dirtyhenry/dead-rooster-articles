@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Astérix, c'est plus comme avant...
 author:
   display_name: Dirty Henry

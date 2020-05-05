@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Les Raveonettes reprennent les Stone Roses
 description: Les reprises sont à la mode ! Après Levis et ses [Pioneer Sessions->623],
   Beck et son [record club->br26], le AV Club et son [Undercover->680], c'est au tour

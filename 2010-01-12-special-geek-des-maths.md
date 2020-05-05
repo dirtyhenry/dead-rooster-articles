@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Spécial geek des maths !
 author:
   display_name: Dirty Henry

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: BJ Thomas - Raindrops Keep Fallin' On My Head
 author:
   display_name: Dirty Henry

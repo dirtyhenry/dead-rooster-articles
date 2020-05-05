@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Interdisons le cyclisme !
 author:
   display_name: Joe Gantdelaine

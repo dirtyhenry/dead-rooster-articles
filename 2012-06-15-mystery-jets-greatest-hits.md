@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Mystery Jets - Greatest Hits
 author:
   display_name: Dirty Henry

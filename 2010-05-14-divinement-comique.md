@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Divinement comique
 description: Le nouvel album de {{Divine Comedy}}, intitulé {Bang Goes The Knightwood},
   est attendu pour le 31 mai. En attendant, on peut déjà admirer la pochette qui,

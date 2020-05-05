@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Les petits poucets toujours là
 author:
   display_name: ''

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Keren Ann - Lay Your Head Down
 author:
   display_name: ''

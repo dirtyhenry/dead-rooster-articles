@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Katerine, Francis et ses peintres - Il est vraiment phénoménal
 author:
   display_name: Dirty Henry

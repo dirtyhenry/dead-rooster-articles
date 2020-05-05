@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: La classe de retour !
 author:
   display_name: Dirty Henry

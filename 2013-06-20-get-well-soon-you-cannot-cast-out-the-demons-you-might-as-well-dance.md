@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Get Well Soon - You Cannot Cast Out The Demons (You Might As Well Dance)
 author:
   display_name: Dirty Henry

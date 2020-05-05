@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Les Levi's Pioneer Sessions
 description: Les Levi's Pioneer Sessions ou où télécharger des reprises interprétées
   par She & Him, The Shins et The Kills.

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Adam Green & Binki Shapiro - Just To Make Me Feel Good
 author:
   display_name: Dirty Henry

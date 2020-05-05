@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Ty Segall - The Hill
 author:
   display_name: Dirty Henry

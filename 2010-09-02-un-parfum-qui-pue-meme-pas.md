@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Un parfum qui pue même pas
 author:
   display_name: Dirty Henry

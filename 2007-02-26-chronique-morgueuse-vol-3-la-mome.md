@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Chronique morgueuse vol. 3 - La môme
 description: Bonjour à vous, cher lecteur de Walk The Line Mag', le mag' qui ne critique
   que les biographies ciné des chanteurs morts ! Une fois n'est pas coutume, nous

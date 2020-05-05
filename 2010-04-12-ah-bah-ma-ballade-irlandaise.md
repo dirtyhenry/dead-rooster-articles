@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Ah bah ma ballade irlandaise !
 description: Le titre de la semaine est la {Balade Irlandaise}, de Bourvil. On a un
   podium !

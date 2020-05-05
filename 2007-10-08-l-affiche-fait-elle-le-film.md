@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: L'Affiche fait-elle le film ?
 author:
   display_name: ''

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Trois degrés de séparation seulement...
 author:
   display_name: Dirty Henry

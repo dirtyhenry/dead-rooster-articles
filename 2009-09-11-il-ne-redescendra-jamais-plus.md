@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Il ne redescendra jamais plus...
 author:
   display_name: Joe Gantdelaine

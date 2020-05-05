@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Edward Shape & The Magnetic Zeros - Home
 author:
   display_name: Dirty Henry

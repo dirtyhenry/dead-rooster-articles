@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Les Soledad Brothers sont morts, vivent les BellRays
 author:
   display_name: Dirty Henry

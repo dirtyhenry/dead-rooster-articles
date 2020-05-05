@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Halte au magasin funèbre
 description: Pamphlet anti-"marché noir" !
 author:

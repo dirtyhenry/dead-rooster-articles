@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Le rock de filles orphelin
 author:
   display_name: Dirty Henry

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Niveau relevé pour le prochain Eurovision
 author:
   display_name: Dirty Henry

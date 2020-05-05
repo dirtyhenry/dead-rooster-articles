@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Raul Meireles
 author:
   display_name: Dirty Henry

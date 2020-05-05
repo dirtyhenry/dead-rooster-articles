@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Motorama - To The South
 author:
   display_name: Dirty Henry

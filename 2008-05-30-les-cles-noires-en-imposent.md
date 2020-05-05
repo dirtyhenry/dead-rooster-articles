@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Les clés noires en imposent !
 author:
   display_name: Dirty Henry

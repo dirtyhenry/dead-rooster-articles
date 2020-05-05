@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Le 1er titre du printemps
 description: Avec leur titre, {Generator 2nd Floor}, le groupe new-yorkais {{Freelance
   Whales}} nous offre le premier grand titre du printemps !

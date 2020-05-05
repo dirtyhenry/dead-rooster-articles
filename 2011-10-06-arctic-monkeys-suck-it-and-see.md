@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Arctic Monkeys - Suck It And See
 author:
   display_name: Dirty Henry

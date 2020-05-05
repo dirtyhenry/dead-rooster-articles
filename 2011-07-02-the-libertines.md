@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Libertines
 description: Cette semaine, l'Encyclopédie Approximative du Rock and Roll rend hommage
   aux groupes anglais qui rendent hommage à la grande chanson française.

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Best Coast - Our Deal
 author:
   display_name: Dirty Henry

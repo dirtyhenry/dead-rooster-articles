@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Oh ! Les yeux de chacun Chéri !
 description: Déjà trois semaines depuis la dernière mise à jour du concours Katerine.
   Allez, un petit peu de son actu marrante d'abord, et on parle du concours ensuite.

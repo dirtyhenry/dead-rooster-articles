@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Interpol - Live songs (Success, Barricade et Stella)
 author:
   display_name: Dirty Henry

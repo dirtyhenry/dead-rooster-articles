@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: La soirée rock du printemps de Bourges 2007
 author:
   display_name: Dirty Henry

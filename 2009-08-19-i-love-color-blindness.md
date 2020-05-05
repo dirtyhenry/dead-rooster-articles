@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: I Love Color Blindness
 author:
   display_name: Dirty Henry

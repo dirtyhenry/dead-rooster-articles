@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Les mafias de niche décimées
 author:
   display_name: Dirty Henry

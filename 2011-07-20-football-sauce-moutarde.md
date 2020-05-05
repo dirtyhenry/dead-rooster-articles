@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Football sauce moutarde
 author:
   display_name: Joe Gantdelaine

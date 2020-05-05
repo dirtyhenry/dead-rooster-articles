@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: A vous Simone !
 author:
   display_name: Joe Gantdelaine

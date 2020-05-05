@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Good Evening Sir Paulo !
 author:
   display_name: Dirty Henry

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: 'Ciné-Club moi j’vous dis #07'
 description: 'Au sommaire du mois : {La Folle Ingénue}, {La Chambre du Fils}, {Ni
   à vendre, ni à louer}.'

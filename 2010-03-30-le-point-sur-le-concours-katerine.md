@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Le point sur le concours Katerine
 description: 'Le titre de la semaine est {La Queuleuleu} : Hervé n''est plus le seul
   à avoir des points au concours !'

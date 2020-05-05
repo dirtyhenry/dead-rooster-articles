@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Venez voir chanter les comédiennes
 author:
   display_name: Dirty Henry

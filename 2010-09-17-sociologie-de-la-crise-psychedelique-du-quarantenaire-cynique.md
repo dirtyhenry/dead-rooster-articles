@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Sociologie de la crise psychédélique du quarantenaire cynique
 description: 'Le vendredi, le fun est de bon aloi. Cette semaine : crise existentielle,
   hallucination psychédélique, punk adolescent de quarantenaire, une touche de cynisme

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Vidéos sympas
 author:
   display_name: Dirty Henry

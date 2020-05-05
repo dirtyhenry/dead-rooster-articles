@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: L'Ibou niche où ?
 author:
   display_name: ''

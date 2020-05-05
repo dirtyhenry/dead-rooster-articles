@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Beach Boys
 description: Cette semaine, comme il fait approximativement beau, l'Encyclopédie part
   à la plage.

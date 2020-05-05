@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: T'étais Beau Derrick !
 author:
   display_name: Joe Gantdelaine

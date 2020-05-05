@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Black Keys & RZA - The Baddest Man Alive
 author:
   display_name: Dirty Henry

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Real Estate - It's Real
 author:
   display_name: Joe Gantdelaine

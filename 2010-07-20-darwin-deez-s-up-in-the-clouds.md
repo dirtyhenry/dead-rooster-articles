@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Darwin Deez's Up In The Clouds
 description: Très chouette chanson de {{Darwin Deez}}, un new-yorkais qui a sorti
   son premier album en avril dernier. Le clip n'est pas en reste.

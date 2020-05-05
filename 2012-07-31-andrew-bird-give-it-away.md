@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Andrew Bird - Give It Away
 author:
   display_name: Dirty Henry

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Le champion de la vitesse de la lumière
 author:
   display_name: Dirty Henry

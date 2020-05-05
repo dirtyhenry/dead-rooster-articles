@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Ben Gibbard - Ichiro's Theme
 author:
   display_name: Dirty Henry

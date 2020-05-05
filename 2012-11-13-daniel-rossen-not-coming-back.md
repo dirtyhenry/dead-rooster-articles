@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Daniel Rossen - Not Coming Back
 author:
   display_name: Dirty Henry

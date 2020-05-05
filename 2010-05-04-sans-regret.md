@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Sans regret...
 description: "Le titre de la semaine de {{Katerine, Francis et ses peintres}} est
   {Je ne veux pas rentrer\r\nchez moi seule}, du groupe Regrets."

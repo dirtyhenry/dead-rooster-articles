@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Django Django - WOR
 author:
   display_name: Dirty Henry

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Wavves - Sail To The Sun
 author:
   display_name: Joe Gantdelaine

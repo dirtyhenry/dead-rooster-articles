@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Mamie Blue
 author:
   display_name: Joe Gantdelaine

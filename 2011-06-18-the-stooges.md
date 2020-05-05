@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Stooges
 description: Après 2 semaines d'absence, rassurez-vous messieurs-dames, l'approximatif
   est de nouveau au menu du jour !

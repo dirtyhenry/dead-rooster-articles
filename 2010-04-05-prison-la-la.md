@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Prison la la
 description: Trois chansons à écouter ou à télécharger sur le net, avec au programme,
   Dum Dum Girls, Titus Andronicus et Josh Rouse !

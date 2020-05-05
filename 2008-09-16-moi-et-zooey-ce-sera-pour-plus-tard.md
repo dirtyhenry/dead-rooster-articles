@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Moi et Zooey, ce sera pour plus tard
 author:
   display_name: Dirty Henry

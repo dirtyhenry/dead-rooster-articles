@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Le parti opportuniste
 description: En attendant les premiers épisodes de {La Visite du Louvre}, [promis
   il y a déjà quelques temps->975], voici un coup d'essai de BD inspiré d'un billet

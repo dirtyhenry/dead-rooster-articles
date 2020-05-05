@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: La possibilité d'une île
 author:
   display_name: Dirty Henry

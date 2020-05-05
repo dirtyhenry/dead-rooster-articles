@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: The Strokes
 description: L'encyclopédie approximative vous offre aujourd'hui son plus mauvais
   article.

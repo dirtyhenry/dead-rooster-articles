@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: When I'm with Best Coast
 description: "{{Best Coast}} est un duo de Los Angeles dont la chanteuse, Bethany
   Cosentino, résume les ambitions par la formule suivante : de la batterie à la Beatles,

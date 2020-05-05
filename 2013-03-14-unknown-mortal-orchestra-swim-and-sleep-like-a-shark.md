@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Unknown Mortal Orchestra - Swim And Sleep (Like a Shark)
 author:
   display_name: Joe Gantdelaine

@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Etre chanceux d'aucun surf...
 author:
   display_name: Dirty Henry

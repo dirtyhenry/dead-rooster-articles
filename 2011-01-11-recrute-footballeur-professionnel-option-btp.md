@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Recrute footballeur professionnel, option BTP
 author:
   display_name: Joe Gantdelaine

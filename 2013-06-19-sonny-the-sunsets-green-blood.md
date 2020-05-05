@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Sonny & The Sunsets - Green Blood
 author:
   display_name: Dirty Henry

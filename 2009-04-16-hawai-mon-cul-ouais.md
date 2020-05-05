@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Hawaï mon cul ouais !!
 author:
   display_name: Biboulos

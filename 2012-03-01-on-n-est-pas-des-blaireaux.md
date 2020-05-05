@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: On n'est pas des blaireaux !
 author:
   display_name: Joe Gantdelaine

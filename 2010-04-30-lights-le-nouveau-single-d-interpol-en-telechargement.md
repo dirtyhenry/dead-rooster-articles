@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Lights, le nouveau single d'Interpol en téléchargement
 description: Pas d'annonce de date ou quoi que ce soit au sujet du 4ème album du groupe,
   mais {{Interpol}} offre tout de même un single, {{Lights}},  en téléchargement.

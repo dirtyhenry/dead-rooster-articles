@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Les oiseaux mis en cage
 author:
   display_name: Dirty Henry

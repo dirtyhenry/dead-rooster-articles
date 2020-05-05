@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: La mort de Modo
 author:
   display_name: Dirty Henry

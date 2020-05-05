@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: My Morning Jacket - Outta My System
 author:
   display_name: Dirty Henry

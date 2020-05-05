@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Royal Hippie
 author:
   display_name: Biboulos

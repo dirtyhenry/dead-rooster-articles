@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: M Ward - The First Time I Ran Away
 author:
   display_name: Dirty Henry

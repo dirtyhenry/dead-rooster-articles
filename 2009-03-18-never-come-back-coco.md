@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Never come back coco
 author:
   display_name: Dirty Henry

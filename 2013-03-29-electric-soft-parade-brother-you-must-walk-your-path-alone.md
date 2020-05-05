@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Electric Soft Parade - Brother, You Must Walk Your Path Alone
 author:
   display_name: Dirty Henry

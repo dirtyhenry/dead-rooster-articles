@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: Compile The 00's
 author:
   display_name: Dirty Henry

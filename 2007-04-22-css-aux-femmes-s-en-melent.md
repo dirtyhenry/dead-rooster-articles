@@ -1,6 +1,5 @@
 ---
-status: publie
-published: false
+layout: post
 title: CSS aux Femmes s'en mêlent
 author:
   display_name: Dirty Henry
