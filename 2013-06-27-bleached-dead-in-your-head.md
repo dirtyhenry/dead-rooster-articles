@@ -4,10 +4,13 @@ title: Bleached - Dead In Your Head
 authors:
   - Dirty Henry
 wordpress_id: 1254
-date: '2013-06-27 12:00:00 +0200'
+date: "2013-06-27 12:00:00 +0200"
 ---
-Clip gavé psyché pour cet extrait de *Ride Your Heart*, premier album de Bleached :
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/uCN9FCQ_P84" frameborder="0" allowfullscreen></iframe>
+Clip gavé psyché pour cet extrait de _Ride Your Heart_, premier album de
+Bleached :
 
-(via [Stereogum](http://www.stereogum.com/1389942/bleached-dead-in-your-head-video/video/))
+{% youtube uCN9FCQ_P84 %}
+
+(via
+[Stereogum](http://www.stereogum.com/1389942/bleached-dead-in-your-head-video/video/))

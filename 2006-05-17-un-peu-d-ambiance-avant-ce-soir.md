@@ -4,31 +4,27 @@ title: Un peu d'ambiance avant ce soir
 authors:
   - Dirty Henry
 wordpress_id: 312
-date: '2006-05-17 09:04:00 +0200'
-categories:
-- Catégories
-tags:
-- Foot
 ---
-<iframe width="420" height="315" src="http://www.youtube.com/embed/BgomX3qD-iA" frameborder="0" allowfullscreen></iframe>
 
-_ Ce sont les meilleures équipes,
-_ Sie sind die allerbesten Mannschaften
-_ The main event
+{% youtube BgomX3qD-iA %}
 
-_ Die Meister, Die Besten, Les Grandes Équipes, The Champions
-
-_ Une grande réunion
-_ Eine grosse sportliche Veranstaltung
-_ The main event
-
-_ Ils sont les meilleurs
-_ Sie sind die besten
-_ These are the champions
-
-_ Die Meister, Die Besten, Les Grandes Équipes, The Champions
-_ Die Meister, Die Besten, Les Grandes Équipes, The Champions
-
-_ Et espérons que les Rosbifs torcheront les Espagouins.
+> Ce sont les meilleures équipes,  
+> Sie sind die allerbesten Mannschaften  
+> The main event
+>
+> Die Meister, Die Besten, Les Grandes Équipes, The Champions
+>
+> Une grande réunion  
+> Eine grosse sportliche Veranstaltung  
+> The main event
+>
+> Ils sont les meilleurs  
+> Sie sind die besten  
+> These are the champions
+>
+> Die Meister, Die Besten, Les Grandes Équipes, The Champions  
+> Die Meister, Die Besten, Les Grandes Équipes, The Champions
+>
+> Et espérons que les Rosbifs torcheront les Espagouins.
 
 ps : la dernière ligne de la chanson est de moi…

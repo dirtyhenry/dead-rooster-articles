@@ -4,12 +4,15 @@ title: Franz Ferdinand - Love Illumination
 authors:
   - Dirty Henry
 wordpress_id: 1257
-date: '2013-07-03 12:00:00 +0200'
+date: "2013-07-03 12:00:00 +0200"
 ---
-Ça faisait un bail que Franz Ferdinand avait pas montré le bout de son nez dans nos pages, mais leur 4ème LP est en phase d'atterrissage. 
 
-Premier titre : *Love Illumination*.
+Ça faisait un bail que Franz Ferdinand n'avait pas montré le bout de son nez
+dans nos pages, mais leur 4ème LP est en phase d'atterrissage.
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/gWjN1GctWog" frameborder="0" allowfullscreen></iframe>
+Premier titre : _Love Illumination_.
 
-*Right Thoughts, Right Words, Right Action* sortira fin août, et ne contient a priori [aucun titre avec Marion Cotillard](1256).
+{% youtube gWjN1GctWog %}
+
+_Right Thoughts, Right Words, Right Action_ sortira fin août, et ne contient a
+priori [aucun titre avec Marion Cotillard](1256).
