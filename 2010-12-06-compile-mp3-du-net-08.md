@@ -4,13 +4,8 @@ title: 'Compile MP3 du NET #08'
 description: 'Une sélection des meilleurs MP3 légalement disponibles au téléchargement
   des dernières semaines. Au programme cette semaine, des gens dont on reparlera très
   vite : Reading Rainbow, The Notes et Surfer Blood.'
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 725
 date: '2010-12-06 12:00:00 +0100'
 categories:

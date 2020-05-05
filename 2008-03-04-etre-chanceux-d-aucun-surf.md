@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Etre chanceux d'aucun surf...
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 195
 date: '2008-03-04 12:35:48 +0100'
 categories:

@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Mystery Jets - Greatest Hits
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1052
 date: '2012-06-15 13:59:00 +0200'
 categories: []

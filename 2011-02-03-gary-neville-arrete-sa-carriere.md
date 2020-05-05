@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Gary Neville arrête sa carrière
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 771
 date: '2011-02-03 12:14:51 +0100'
 categories: []

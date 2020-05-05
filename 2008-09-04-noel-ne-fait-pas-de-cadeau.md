@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Noel ne fait pas de cadeau
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 460
 date: '2008-09-04 08:28:00 +0200'
 categories:

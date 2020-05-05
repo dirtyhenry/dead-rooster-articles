@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Pamphlet anti-chanson cachée.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 358
 date: '2007-02-09 14:31:00 +0100'
 categories:

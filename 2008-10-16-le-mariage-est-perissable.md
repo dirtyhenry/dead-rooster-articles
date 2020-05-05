@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Le mariage est périssable
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 473
 date: '2008-10-16 11:25:00 +0200'
 categories: []

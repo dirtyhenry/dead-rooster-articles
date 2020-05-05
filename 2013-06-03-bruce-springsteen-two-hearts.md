@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Bruce Springsteen - Two Hearts
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1241
 date: '2013-06-03 12:00:00 +0200'
 categories: []

@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Gospel Music - Automobile
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1124
 date: '2012-10-11 09:19:22 +0200'
 categories: []

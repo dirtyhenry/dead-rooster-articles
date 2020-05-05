@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Recherche de face
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 902
 date: '2011-09-07 16:18:21 +0200'
 categories: []

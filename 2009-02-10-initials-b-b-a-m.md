@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Initials B. B. & A. M.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 223
 date: '2009-02-10 14:42:29 +0100'
 categories:

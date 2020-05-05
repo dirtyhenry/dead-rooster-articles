@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Tavares - Heaven Must Be Missing An Angel
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 859
 date: '2011-06-30 10:54:01 +0200'
 categories: []

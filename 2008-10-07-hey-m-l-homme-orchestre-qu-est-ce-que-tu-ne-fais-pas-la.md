@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Hey M. l'homme orchestre, qu'est ce que tu ne fais pas là ?
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 472
 date: '2008-10-07 14:42:00 +0200'
 categories:

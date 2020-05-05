@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Wild Flag - Electric Band
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 937
 date: '2011-10-25 05:28:24 +0200'
 categories: []

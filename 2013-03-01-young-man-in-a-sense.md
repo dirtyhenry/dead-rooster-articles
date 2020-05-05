@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Young Man - In A Sense
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1187
 date: '2013-03-01 10:41:49 +0100'
 categories: []

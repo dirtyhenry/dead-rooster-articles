@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Paris 2008, découverte de Paris 1919
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 200
 date: '2008-03-27 00:13:25 +0100'
 categories:

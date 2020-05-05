@@ -4,13 +4,8 @@ title: Toi mon toit
 description: La reprise de {{Katerine, Francis et ses peintres}} de la semaine est
   {Toi mon toit} de Elli Medeiros. Mais cette semaine, Katerine nous offre aussi un
   nouveau titre bien à lui !
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 634
 date: '2010-06-22 12:25:39 +0200'
 categories:

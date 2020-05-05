@@ -4,13 +4,8 @@ title: Ton grand-père et ses chiens, Indiana Jones, James Mercer et des métall
   jouent au tir à la corde.
 description: 'Le vendredi, le fun est de bon aloi. Cette semaine : ton grand-père
   et ses chiens, Indiana Jones, James Mercer et des métalleux jouent au tir à la corde.'
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 705
 date: '2010-09-24 11:42:57 +0200'
 categories:

@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Le sens des valeurs et des priorités
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 535
 date: '2009-10-08 15:47:57 +0200'
 categories: []

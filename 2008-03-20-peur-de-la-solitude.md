@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Peur de la solitude ?
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 440
 date: '2008-03-20 13:13:00 +0100'
 categories: []

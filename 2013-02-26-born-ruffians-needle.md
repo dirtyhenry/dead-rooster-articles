@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Born Ruffians - Needle
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1184
 date: '2013-02-26 10:39:49 +0100'
 categories: []

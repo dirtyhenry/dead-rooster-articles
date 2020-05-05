@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Nada Surf - When I Was Young
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 990
 date: '2012-02-02 21:31:00 +0100'
 categories: []

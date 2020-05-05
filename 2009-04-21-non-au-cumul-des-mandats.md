@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Non au cumul des mandats
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 499
 date: '2009-04-21 12:14:00 +0200'
 categories: []

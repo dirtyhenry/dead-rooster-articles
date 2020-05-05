@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Programmation complète des Eurockéennes
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 303
 date: '2006-04-20 17:01:00 +0200'
 categories:

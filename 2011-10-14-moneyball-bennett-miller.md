@@ -3,13 +3,8 @@ layout: post
 title: Moneyball - Bennett Miller
 description: Parlons baseball, de stats, de mâchoires en avant, des Black Keys, de
   musique de stade et des Standells.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 932
 date: '2011-10-14 00:20:15 +0200'
 categories:

@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Dale Earnhardt Jr. Jr. - Dark Water
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1232
 date: '2013-05-16 13:44:57 +0200'
 categories: []

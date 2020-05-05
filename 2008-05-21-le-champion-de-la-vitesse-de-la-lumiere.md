@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Le champion de la vitesse de la lumière
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 205
 date: '2008-05-21 21:07:00 +0200'
 categories:

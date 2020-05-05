@@ -3,13 +3,8 @@ layout: post
 title: The National en visuel
 description: Prestation télé live de {Terrible Love} pour The National, attendant
   la sortie de {High Violet} en mai.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 581
 date: '2010-03-29 15:00:16 +0200'
 categories:

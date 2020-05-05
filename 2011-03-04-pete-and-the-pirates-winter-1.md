@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Pete and the Pirates - Winter 1
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 792
 date: '2011-03-04 12:00:00 +0100'
 categories: []

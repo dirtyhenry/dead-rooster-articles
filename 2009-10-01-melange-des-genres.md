@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Mélange des genres
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 532
 date: '2009-10-01 19:20:46 +0200'
 categories:

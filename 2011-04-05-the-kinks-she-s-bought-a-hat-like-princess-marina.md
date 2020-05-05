@@ -1,13 +1,8 @@
 ---
 layout: post
 title: The Kinks - She's bought a hat like Princess Marina
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 815
 date: '2011-04-05 14:09:01 +0200'
 categories: []

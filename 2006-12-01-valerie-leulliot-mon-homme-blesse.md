@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Valérie Leulliot - Mon homme blessé
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 341
 date: '2006-12-01 20:14:00 +0100'
 categories: []

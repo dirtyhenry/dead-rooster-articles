@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Un parfum qui pue même pas
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 694
 date: '2010-09-02 11:18:06 +0200'
 categories:

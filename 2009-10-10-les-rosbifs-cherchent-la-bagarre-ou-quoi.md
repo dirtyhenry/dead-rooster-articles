@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Les Rosbifs cherchent la bagarre ou quoi ?
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 536
 date: '2009-10-10 13:39:55 +0200'
 categories: []

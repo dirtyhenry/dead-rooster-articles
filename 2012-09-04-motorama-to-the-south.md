@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Motorama - To The South
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1101
 date: '2012-09-04 11:44:19 +0200'
 categories: []

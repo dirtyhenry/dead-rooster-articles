@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Salut les Copains de Facebook
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 922
 date: '2011-10-03 00:14:13 +0200'
 categories: []

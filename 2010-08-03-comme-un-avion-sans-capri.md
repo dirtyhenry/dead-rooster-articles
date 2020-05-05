@@ -4,13 +4,8 @@ title: Comme un avion sans Capri
 description: Les reprises de {{Katerine, Francis et ses peintres}} des deux dernières
   semaines sont {Capri c'est fini} d'Hervé Vilard et {Comme un avion sans aile} de
   Charlélie Couture.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 672
 date: '2010-08-03 12:05:22 +0200'
 categories:

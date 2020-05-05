@@ -1,13 +1,8 @@
 ---
 layout: post
 title: La Sera - Break My Heart
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1125
 date: '2012-10-19 08:00:00 +0200'
 categories: []

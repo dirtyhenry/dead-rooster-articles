@@ -4,13 +4,8 @@ title: Deerhunter - Halcyon Digest
 description: 'Je sais désormais que faire [le top 2010->747] n''aura pas été vain
   : il m''a incité à réécouter {Halcyon Digest}, le 4ème album de {{Deerhunter}},
   sorti cette année.'
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 770
 date: '2011-02-02 22:46:44 +0100'
 categories:

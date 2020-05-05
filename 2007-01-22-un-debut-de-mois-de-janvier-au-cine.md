@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Un début de mois de janvier au ciné
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 349
 date: '2007-01-22 12:24:00 +0100'
 categories:

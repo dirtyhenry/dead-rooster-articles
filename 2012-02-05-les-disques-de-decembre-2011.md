@@ -4,13 +4,8 @@ title: Les disques de décembre 2011
 description: OK, on est déjà en février, mais pourquoi serait-il trop tard pour parler
   des disques écoutés en décembre ? Classement discriminant, à l'emporte-pièce, dont
   The Black Keys, Atlas Sound, Fleet Foxes et Kurt Vile sortent vainqueurs.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 992
 date: '2012-02-05 15:31:15 +0100'
 categories:

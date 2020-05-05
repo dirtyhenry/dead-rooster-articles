@@ -4,13 +4,8 @@ title: Interpol is a 4th grade
 description: Go and see Interpol in 2011 is a multi-faces experience. You face one
   of the best bands of the past decade, you realize you didn't have a chance to say
   bye to Carlos D., you feel old... but you feel good.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 807
 date: '2011-03-25 17:38:16 +0100'
 categories: []

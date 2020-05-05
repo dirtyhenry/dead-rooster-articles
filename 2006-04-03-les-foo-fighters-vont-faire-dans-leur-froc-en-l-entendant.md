@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Les Foo Fighters vont faire dans leur froc en l'entendant
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 292
 date: '2006-04-03 09:18:00 +0200'
 categories:

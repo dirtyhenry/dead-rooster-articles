@@ -5,13 +5,8 @@ description: 'A une époque, le fun chez les artistes, c''était monnaie courant
   le prouve moults extraits du {Sasha Show}. De nos jours, ça se fait plus rare mais
   heureusement, quelques exceptions existent parmi lesquelles cette vidéo où une {{Feist}}
   moustachue joue un rôle incroyable : El Bandido.'
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 597
 date: '2010-04-21 18:05:03 +0200'
 categories: []

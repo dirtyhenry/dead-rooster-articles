@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Blues post-Lenoir
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1033
 date: '2012-05-07 09:58:52 +0200'
 categories:

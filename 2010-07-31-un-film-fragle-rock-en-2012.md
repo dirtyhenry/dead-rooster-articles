@@ -4,13 +4,8 @@ title: Un film Fragle Rock en 2012
 description: "[Cory Edwards prévoit de sortir en 2012 une adaptation->http://www.imdb.com/title/tt0481649/]
   de la série pour enfants {{Fraggle Rock}} - qui a le générique le plus groovy de
   sa génération (clap, clap) - plutôt orientée pour un public adulte."
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 670
 date: '2010-07-31 17:56:51 +0200'
 categories:

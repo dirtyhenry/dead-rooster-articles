@@ -3,13 +3,8 @@ layout: post
 title: Reading Rainbow
 description: Reading Rainbow a déjà été à l'honneur dans deux compiles du lundi et
   vient de réaliser un clip. Allons-les voir de plus près.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 728
 date: '2010-12-07 15:51:55 +0100'
 categories:

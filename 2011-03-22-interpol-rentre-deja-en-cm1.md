@@ -4,13 +4,8 @@ title: Interpol rentre déjà en CM1
 description: Voir Interpol en 2011, c'est voir un des meilleurs groupes de la décennie
   passée, ne pas avoir eu la chance de dire au revoir à Carlos D, prendre un petit
   coup de vieux, mais aimer ça finalement.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 802
 date: '2011-03-22 09:31:07 +0100'
 categories:

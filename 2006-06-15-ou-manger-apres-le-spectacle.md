@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Où manger après le spectacle ?
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 322
 date: '2006-06-15 08:07:00 +0200'
 categories:

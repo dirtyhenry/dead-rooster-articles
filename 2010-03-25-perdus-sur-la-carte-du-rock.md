@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Perdus sur la carte du rock ?
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 579
 date: '2010-03-25 15:38:11 +0100'
 categories: []

@@ -3,13 +3,8 @@ layout: post
 title: 'Concours Katerine : semaines 46 à 49'
 description: Faisons le point sur les 4 dernières semaines. Diam's, Eddy Mitchell,
   Chantal Goya et Chirstophe Willem ont été honorés.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 727
 date: '2010-12-09 12:00:00 +0100'
 categories:

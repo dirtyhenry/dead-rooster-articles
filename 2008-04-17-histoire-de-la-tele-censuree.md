@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Histoire de la télé censurée
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 444
 date: '2008-04-17 11:53:00 +0200'
 categories: []

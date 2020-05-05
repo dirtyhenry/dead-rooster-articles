@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Kaiser Chiefs - Ruby
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 360
 date: '2007-02-21 18:01:00 +0100'
 categories: []

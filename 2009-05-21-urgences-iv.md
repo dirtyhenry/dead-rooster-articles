@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Urgences IV
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 8
 date: '2009-05-21 13:49:06 +0200'
 categories:

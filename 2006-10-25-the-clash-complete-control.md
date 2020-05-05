@@ -1,13 +1,8 @@
 ---
 layout: post
 title: The Clash - Complete Control
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 337
 date: '2006-10-25 22:21:00 +0200'
 categories: []

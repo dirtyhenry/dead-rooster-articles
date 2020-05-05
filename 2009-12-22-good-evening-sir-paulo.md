@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Good Evening Sir Paulo !
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 557
 date: '2009-12-22 16:55:55 +0100'
 categories:

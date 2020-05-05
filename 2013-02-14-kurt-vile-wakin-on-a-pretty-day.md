@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Kurt Vile - Wakin On A Pretty Day
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1176
 date: '2013-02-14 10:00:00 +0100'
 categories: []

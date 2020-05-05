@@ -3,13 +3,8 @@ layout: post
 title: Pandas bourrés
 description: "{Drunk Girls} ou comment {{LCD Soundsystem}} est en bonne voie pour
   être aussi convaincant sur disque que sur scène..."
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 599
 date: '2010-04-23 12:02:35 +0200'
 categories: []

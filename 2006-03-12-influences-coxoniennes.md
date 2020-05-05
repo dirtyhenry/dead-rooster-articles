@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Influences coxoniennes
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 285
 date: '2006-03-12 18:25:00 +0100'
 categories:

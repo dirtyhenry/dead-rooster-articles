@@ -1,13 +1,8 @@
 ---
 layout: post
 title: TV Girl - She Smokes In Bed
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1236
 date: '2013-05-24 12:18:35 +0200'
 categories: []

@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Trop bien la pop
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 326
 date: '2006-08-08 09:44:00 +0200'
 categories:

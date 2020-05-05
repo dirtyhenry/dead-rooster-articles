@@ -1,13 +1,8 @@
 ---
 layout: post
 title: De qui se moque-t-on ?
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 488
 date: '2009-02-05 09:39:00 +0100'
 categories: []

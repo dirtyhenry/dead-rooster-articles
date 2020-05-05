@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Oasis - Little By Little
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1005
 date: '2012-03-07 12:17:43 +0100'
 categories:

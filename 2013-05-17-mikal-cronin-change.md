@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Mikal Cronin - Change
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1233
 date: '2013-05-17 15:44:59 +0200'
 categories: []

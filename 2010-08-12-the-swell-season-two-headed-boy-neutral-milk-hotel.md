@@ -2,13 +2,8 @@
 layout: post
 title: The Swell Season - Two-Headed Boy (Neutral Milk Hotel)
 description: The Swell Season reprend le titre {Two-Headed Boy} de Neutral Milk Hotel
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 680
 date: '2010-08-12 11:42:55 +0200'
 categories:

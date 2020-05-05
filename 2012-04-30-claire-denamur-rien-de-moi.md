@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Claire Denamur - Rien de moi
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1028
 date: '2012-04-30 11:39:59 +0200'
 categories: []

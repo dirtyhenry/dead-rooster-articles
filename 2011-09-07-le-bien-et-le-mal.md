@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Le Bien et Le Mal
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 904
 date: '2011-09-07 21:00:07 +0200'
 categories: []

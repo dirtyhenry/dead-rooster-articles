@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Yuck - Soothe Me
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 917
 date: '2011-09-29 09:00:00 +0200'
 categories: []

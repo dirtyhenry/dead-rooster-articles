@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Ivan Mládek - Jožin z bažin
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 194
 date: '2008-03-02 16:23:42 +0100'
 categories:

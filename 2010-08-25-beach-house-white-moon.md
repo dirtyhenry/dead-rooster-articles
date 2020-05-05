@@ -3,13 +3,8 @@ layout: post
 title: Beach House - White Moon
 description: Le groupe de Baltimore propose d'écouter un nouveau titre, {White Moon},
   sur SoundCloud.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 682
 date: '2010-08-25 10:39:01 +0200'
 categories: []

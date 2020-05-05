@@ -5,13 +5,8 @@ description: Après 10 jours de congés, il est temps de refaire un point sur le
   Katerine. Les 2 dernières reprises de {{Katerine, Francis et ses peintres}} sont
   {Sympathique} de Pink Martini (aka {Je ne veux pas travailler}) et {Ma Benz} de
   NTM.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 622
 date: '2010-06-03 11:12:46 +0200'
 categories:

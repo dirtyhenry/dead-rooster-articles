@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Perdu de recherche
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 215
 date: '2008-08-29 14:44:37 +0200'
 categories:

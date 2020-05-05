@@ -3,13 +3,8 @@ layout: post
 title: Ah bah ma ballade irlandaise !
 description: Le titre de la semaine est la {Balade Irlandaise}, de Bourvil. On a un
   podium !
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 593
 date: '2010-04-12 19:41:55 +0200'
 categories:

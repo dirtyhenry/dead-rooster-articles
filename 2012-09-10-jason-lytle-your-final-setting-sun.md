@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Jason Lytle - Your Final Setting Sun
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1106
 date: '2012-09-10 08:00:00 +0200'
 categories: []

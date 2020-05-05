@@ -1,13 +1,8 @@
 ---
 layout: post
 title: George Harrison - My Sweet Lord
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 957
 date: '2011-11-29 14:41:36 +0100'
 categories:

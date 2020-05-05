@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Venez voir chanter les comédiennes
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 209
 date: '2008-06-19 16:21:46 +0200'
 categories:

@@ -4,13 +4,8 @@ title: Les disques d'octobre 2011
 description: Petit résumé des albums qui ont tourné sur les platines de par chez Dirty
   Henry en octobre 2011. Dum Dum Girls, Neutral Milk Hotel, Veronica Falls et Hanni
   El Khatib sont les vainqueurs du mois.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 943
 date: '2011-11-03 17:08:32 +0100'
 categories:

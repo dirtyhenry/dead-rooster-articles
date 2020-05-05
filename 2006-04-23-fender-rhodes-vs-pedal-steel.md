@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Fender Rhodes vs Pedal Steel
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 304
 date: '2006-04-23 11:08:00 +0200'
 categories:

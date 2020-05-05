@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Fratricide
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 551
 date: '2009-12-02 19:26:44 +0100'
 categories:

@@ -4,13 +4,8 @@ title: When I'm with Best Coast
 description: "{{Best Coast}} est un duo de Los Angeles dont la chanteuse, Bethany
   Cosentino, résume les ambitions par la formule suivante : de la batterie à la Beatles,
   des guitares à la Ramones et des voix à la Phil Spector. Chouette programme."
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 657
 date: '2010-07-21 17:01:07 +0200'
 categories:

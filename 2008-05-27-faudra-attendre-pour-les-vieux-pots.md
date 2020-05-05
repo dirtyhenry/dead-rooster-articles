@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Faudra attendre pour les vieux pots
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 447
 date: '2008-05-27 07:40:00 +0200'
 categories: []

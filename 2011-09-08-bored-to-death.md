@@ -3,13 +3,8 @@ layout: post
 title: Bored To Death
 description: Présentation de la série de Jonathan Ames, où Jason Schwartzman, Zach
   Galifianakis et Ted Danson jouent sur une bande son de grande qualité.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 905
 date: '2011-09-08 18:43:53 +0200'
 categories:

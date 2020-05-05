@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Niveau relevé pour le prochain Eurovision
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 346
 date: '2007-01-17 12:26:00 +0100'
 categories: []

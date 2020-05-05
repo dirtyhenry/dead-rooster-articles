@@ -1,13 +1,8 @@
 ---
 layout: post
 title: No future ? Surtout quand on meurt...
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 591
 date: '2010-04-09 08:41:37 +0200'
 categories: []

@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Tennis - My Better Self
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1031
 date: '2012-05-02 14:07:38 +0200'
 categories: []

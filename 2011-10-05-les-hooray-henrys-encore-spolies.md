@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Les Hooray Henrys encore spoliés
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 923
 date: '2011-10-05 09:00:00 +0200'
 categories:

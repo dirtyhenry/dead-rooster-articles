@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Quadruple split pour Interpol
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 329
 date: '2006-08-16 15:02:00 +0200'
 categories:

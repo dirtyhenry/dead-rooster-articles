@@ -1,13 +1,8 @@
 ---
 layout: post
 title: She & Him - Never Wanted Your Love
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1190
 date: '2013-03-08 16:07:48 +0100'
 categories: []

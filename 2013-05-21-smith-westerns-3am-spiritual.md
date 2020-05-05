@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Smith Westerns - 3am Spiritual
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1235
 date: '2013-05-21 12:57:42 +0200'
 categories: []

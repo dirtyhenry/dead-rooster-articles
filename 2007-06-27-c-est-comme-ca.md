@@ -1,13 +1,8 @@
 ---
 layout: post
 title: C'est comme ça !
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 390
 date: '2007-06-27 12:52:00 +0200'
 categories:

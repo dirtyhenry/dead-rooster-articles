@@ -3,13 +3,8 @@ layout: post
 title: Sous le vent
 description: La reprise de {{Katerine, Francis et ses peintres}} de la semaine est
   {Sous le vent} de Garou (featuring... Céline Dion).
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 644
 date: '2010-07-06 09:37:54 +0200'
 categories:

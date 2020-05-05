@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Alex Bleeker And The Freaks - Don't Look Down
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1182
 date: '2013-02-21 10:00:25 +0100'
 categories: []

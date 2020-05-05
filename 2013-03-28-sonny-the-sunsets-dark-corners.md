@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Sonny & The Sunsets - Dark Corners
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1205
 date: '2013-03-28 17:10:24 +0100'
 categories: []

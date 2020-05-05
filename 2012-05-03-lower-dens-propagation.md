@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Lower Dens - Propagation
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1032
 date: '2012-05-03 14:10:00 +0200'
 categories: []

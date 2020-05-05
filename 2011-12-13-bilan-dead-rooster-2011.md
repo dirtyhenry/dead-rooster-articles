@@ -3,13 +3,8 @@ layout: post
 title: Bilan Dead Rooster 2011
 description: C'est bientôt la fin de l'année, et c'est l'heure du bilan 2011 pour
   Dead Rooster.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 969
 date: '2011-12-13 18:51:40 +0100'
 categories: []

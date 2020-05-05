@@ -4,13 +4,8 @@ title: The Graduate - Mike Nichols
 description: Cette semaine, c'est {Le Lauréat} ({The Graduate}), de Mike Nichols,
   avec Dustin Hoffman qui devient un homme pendant que Simon & Garfunkel jouent de
   la guitare.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 889
 date: '2011-08-24 20:52:14 +0200'
 categories:

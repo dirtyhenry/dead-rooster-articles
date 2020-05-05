@@ -3,13 +3,8 @@ layout: post
 title: What ?! C'est la ouate ?
 description: Le titre de la semaine de {{Katerine, Francis et ses peintres}} est {C'est
   La Ouate}, de Caroline Loeb. David l'avait.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 603
 date: '2010-04-27 23:50:00 +0200'
 categories:

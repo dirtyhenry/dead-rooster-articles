@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Compile automne 2008
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 601
 date: '2008-12-31 13:04:00 +0100'
 categories:

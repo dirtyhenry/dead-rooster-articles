@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Plus envie de rigoler
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 452
 date: '2008-07-04 16:18:00 +0200'
 categories: []

@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Dum Dum Girls - There is a light that never goes out
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 780
 date: '2011-02-12 13:58:44 +0100'
 categories:

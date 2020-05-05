@@ -2,13 +2,8 @@
 layout: post
 title: 'Ciné-Club moi j''vous dis #03'
 description: Un mois de janvier 2011 à aller au ciné et mater des DVD...
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 784
 date: '2011-02-17 22:49:54 +0100'
 categories:

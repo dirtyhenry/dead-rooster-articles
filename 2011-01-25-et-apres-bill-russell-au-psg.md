@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Et après, Bill Russell au PSG ?
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 766
 date: '2011-01-25 09:07:09 +0100'
 categories: []

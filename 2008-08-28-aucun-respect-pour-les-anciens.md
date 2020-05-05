@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Aucun respect pour les anciens
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 459
 date: '2008-08-28 08:44:00 +0200'
 categories: []

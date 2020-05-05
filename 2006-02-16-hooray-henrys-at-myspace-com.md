@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Hooray Henrys at MySpace.com
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 280
 date: '2006-02-16 13:05:00 +0100'
 categories:

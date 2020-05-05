@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Electric Soft Parade - Brother, You Must Walk Your Path Alone
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1206
 date: '2013-03-29 11:34:32 +0100'
 categories: []

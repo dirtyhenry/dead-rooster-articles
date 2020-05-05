@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Rémy Tarrier - Il n'y aura pas de match retour
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1261
 date: '2013-08-21 15:58:05 +0200'
 categories: []

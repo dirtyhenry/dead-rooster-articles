@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Finies les carresses et bises à l'oeil...
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 890
 date: '2011-08-26 14:58:27 +0200'
 categories: []

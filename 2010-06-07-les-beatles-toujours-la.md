@@ -3,13 +3,8 @@ layout: post
 title: Les Beatles toujours là !
 description: Que [ce vil coquin de Sean Lennon se rassure->574], les Beatles ne sont
   pas encore prêts de quitter la scène publique !
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 625
 date: '2010-06-07 14:46:25 +0200'
 categories:

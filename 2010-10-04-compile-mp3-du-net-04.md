@@ -6,13 +6,8 @@ description: 'Une sélection des meilleurs MP3 légalement disponibles au télé
   Motorcycle Club}}, {{British Sea Power}} et {{Shannon Wright}}) et trois reprises
   pour conclure dont une du plus grand titre pop de tous les temps selon Paul McCartney
   : {God Only Knows}, des Beach Boys.'
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 709
 date: '2010-10-04 10:58:46 +0200'
 categories:

@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Feist - Femme Fatale
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 881
 date: '2011-08-17 15:07:13 +0200'
 categories: []

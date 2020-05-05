@@ -1,13 +1,8 @@
 ---
 layout: post
 title: The Runaway Secret Live chez Adel
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 624
 date: '2012-09-30 16:57:38 +0200'
 categories:

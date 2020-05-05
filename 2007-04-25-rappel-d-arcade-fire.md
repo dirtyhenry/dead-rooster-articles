@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Rappel d'Arcade Fire
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 377
 date: '2007-04-25 20:38:00 +0200'
 categories:

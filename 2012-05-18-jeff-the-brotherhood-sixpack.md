@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Jeff The Brotherhood - Sixpack
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1040
 date: '2012-05-18 15:49:05 +0200'
 categories: []

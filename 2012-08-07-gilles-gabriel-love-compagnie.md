@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Gilles Gabriel - Love & Compagnie
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1086
 date: '2012-08-07 12:00:00 +0200'
 categories: []

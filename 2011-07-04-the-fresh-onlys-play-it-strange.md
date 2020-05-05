@@ -5,13 +5,8 @@ description: One month ago, Dead Rooster was in Barcelona for the Primavera Fest
   This very friday, in the middle afternoon, we watched The Fresh & Onlys on stage.
   This gig convinced us to get their latest effort, {Play It Strange}, as soon as
   we could.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 867
 date: '2011-07-04 19:51:41 +0200'
 categories:

@@ -3,13 +3,8 @@ layout: post
 title: Le 1er titre du printemps
 description: Avec leur titre, {Generator 2nd Floor}, le groupe new-yorkais {{Freelance
   Whales}} nous offre le premier grand titre du printemps !
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 594
 date: '2010-04-13 11:21:12 +0200'
 categories: []

@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Beck - Where it's at
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 991
 date: '2012-02-04 11:38:55 +0100'
 categories: []

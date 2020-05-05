@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Bleeeding Rainbow - Oblivion
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1209
 date: '2013-04-03 10:53:49 +0200'
 categories: []

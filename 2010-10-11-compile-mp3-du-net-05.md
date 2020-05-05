@@ -4,13 +4,8 @@ title: 'Compile MP3 du NET #05'
 description: Une sélection des meilleurs MP3 légalement disponibles au téléchargement
   des dernières semaines. Au programme cette semaine, {{Foxes in Fiction}} revient
   en vedette pour ouvrir et fermer la compile avec une reprise de Katy Perry.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 712
 date: '2010-10-11 15:54:04 +0200'
 categories:

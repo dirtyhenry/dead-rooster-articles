@@ -1,13 +1,8 @@
 ---
 layout: post
 title: OK Go - Here It Goes Again
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1043
 date: '2006-12-01 11:12:00 +0100'
 categories: []

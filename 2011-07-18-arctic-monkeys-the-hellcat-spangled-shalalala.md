@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Arctic Monkeys - The Hellcat Spangled Shalalala
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 872
 date: '2011-07-18 12:33:45 +0200'
 categories: []

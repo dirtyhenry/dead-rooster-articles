@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Bilan de ma rétrospective Julie Depardieu
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 286
 date: '2006-03-21 22:26:00 +0100'
 categories:

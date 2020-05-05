@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Marée basse
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 403
 date: '2007-09-05 08:31:00 +0200'
 categories:

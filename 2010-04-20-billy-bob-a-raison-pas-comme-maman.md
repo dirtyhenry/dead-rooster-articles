@@ -3,13 +3,8 @@ layout: post
 title: Billy Bob a raison. Pas comme Maman...
 description: Le titre de la semaine est la {Maman a tort}, de Mylène Farmer. Joe et
   Hervé l'avaient.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 596
 date: '2010-04-20 08:57:14 +0200'
 categories:

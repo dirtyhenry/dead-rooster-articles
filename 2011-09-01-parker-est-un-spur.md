@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Parker est un Spur
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 895
 date: '2011-09-01 15:24:24 +0200'
 categories: []

@@ -3,13 +3,8 @@ layout: post
 title: Jolies pochettes... Restons-en là.
 description: Comme c'est frustrant quand des albums ont des super pochettes... mais
   que le contenu n'est pas à la hauteur...
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 695
 date: '2010-09-02 15:07:18 +0200'
 categories: []

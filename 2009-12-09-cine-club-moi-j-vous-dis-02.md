@@ -4,13 +4,8 @@ title: 'Ciné-Club moi j’vous dis #02'
 description: 'Au programme du mois, un appartement, des vacances à Hawaï et de l''ennui
   : {The Apartment} de Billy Wilder, {Forgetting Sarah Marshall} de Nicholas Stoller
   et {Crimes and Misdmemeanors} de Woody Allen.'
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 554
 date: '2009-12-09 23:16:25 +0100'
 categories:

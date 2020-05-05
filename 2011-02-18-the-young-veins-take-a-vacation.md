@@ -1,13 +1,8 @@
 ---
 layout: post
 title: The Young Veins - Take A Vacation!
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 785
 date: '2011-02-18 19:04:19 +0100'
 categories: []

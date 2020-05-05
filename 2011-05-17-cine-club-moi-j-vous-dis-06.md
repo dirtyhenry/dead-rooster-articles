@@ -3,13 +3,8 @@ layout: post
 title: 'Ciné-Club moi j’vous dis #06'
 description: 'Au sommaire du mois : {Narco}, {Le Chant du Missouri}, {L''Aile ou la
   Cuisse}, {Minuit à Paris} et {Bon à Tirer}.'
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 841
 date: '2011-05-17 14:26:34 +0200'
 categories:

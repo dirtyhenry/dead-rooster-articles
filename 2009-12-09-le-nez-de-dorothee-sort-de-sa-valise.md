@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Le nez de Dorothée sort de sa valise
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 553
 date: '2009-12-09 13:44:42 +0100'
 categories: []

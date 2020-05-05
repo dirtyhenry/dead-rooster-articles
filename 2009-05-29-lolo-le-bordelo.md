@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Lolo le Bordelo !
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 507
 date: '2009-05-29 13:57:00 +0200'
 categories: []

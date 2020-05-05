@@ -3,13 +3,8 @@ layout: post
 title: Les Crocodiles dorment pour toujours
 description: Groupe de San Francisco à découvrir, {{Crocodiles}} offre un nouveau
   single, {Sleep Forever}, et on redécouvre leur tube, {Neon Jesus}.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 641
 date: '2010-07-01 22:25:56 +0200'
 categories: []

@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Wassup Rockers
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 306
 date: '2006-04-25 16:26:00 +0200'
 categories:

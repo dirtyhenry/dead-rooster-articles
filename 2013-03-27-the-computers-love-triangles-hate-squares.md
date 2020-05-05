@@ -1,13 +1,8 @@
 ---
 layout: post
 title: The Computers - Love Triangles, Hate Squares
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1204
 date: '2013-03-27 15:20:31 +0100'
 categories: []

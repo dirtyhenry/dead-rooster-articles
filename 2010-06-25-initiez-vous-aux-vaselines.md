@@ -3,13 +3,8 @@ layout: post
 title: Initiez-vous aux vaselines
 description: The Vaselines sortent leur 2nd album, 21 ans après le premier. Un extrait
   est à télécharger.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 637
 date: '2010-06-25 16:55:29 +0200'
 categories: []

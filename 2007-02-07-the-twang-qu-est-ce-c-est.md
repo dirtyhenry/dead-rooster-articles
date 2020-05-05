@@ -1,13 +1,8 @@
 ---
 layout: post
 title: The Twang ? Qu'est ce c'est ?
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 357
 date: '2007-02-07 09:15:00 +0100'
 categories: []

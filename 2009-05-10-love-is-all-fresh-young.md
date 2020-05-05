@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Love is All ? Fresh & Young
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 226
 date: '2009-05-10 16:54:52 +0200'
 categories:

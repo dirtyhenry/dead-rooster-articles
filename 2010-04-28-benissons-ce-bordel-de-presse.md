@@ -3,13 +3,8 @@ layout: post
 title: Bénissons ce bordel de presse !
 description: Clip marrant et chanson pour chanter dans les bars pour le groupe new-yorkais
   {{The Press}}.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 605
 date: '2010-04-28 23:03:00 +0200'
 categories: []

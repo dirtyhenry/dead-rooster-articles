@@ -1,13 +1,8 @@
 ---
 layout: post
 title: La classe de retour !
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 974
 date: '2011-12-19 12:57:51 +0100'
 categories: []

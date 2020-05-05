@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Moi et Zooey, ce sera pour plus tard
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 467
 date: '2008-09-16 11:58:00 +0200'
 categories: []

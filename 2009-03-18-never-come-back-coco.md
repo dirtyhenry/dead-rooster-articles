@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Never come back coco
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 492
 date: '2009-03-18 13:29:00 +0100'
 categories: []

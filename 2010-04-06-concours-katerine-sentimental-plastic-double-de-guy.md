@@ -3,13 +3,8 @@ layout: post
 title: 'Concours Katerine : sentimental Plastic & doublé de Guy'
 description: Le titre de la semaine est {Sentimental Moi}, de Plastic Bertrand. Encore
   un titre signé Guy Lux !
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 589
 date: '2010-04-06 12:24:29 +0200'
 categories:

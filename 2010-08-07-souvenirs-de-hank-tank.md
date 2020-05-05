@@ -3,13 +3,8 @@ layout: post
 title: Souvenirs de Hank & Tank
 description: "{{Hank & Tank}} : un groupe oublié qu'on retrouve 8 ans après. Soyons
   pointus et faisons le point sur un obscur groupe indé islandais."
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 674
 date: '2010-08-07 18:13:54 +0200'
 categories:

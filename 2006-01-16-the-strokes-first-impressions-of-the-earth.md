@@ -1,13 +1,8 @@
 ---
 layout: post
 title: The Strokes - First impressions of the earth
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 275
 date: '2006-01-16 23:03:00 +0100'
 categories:

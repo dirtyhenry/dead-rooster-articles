@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Sister Crystals - You Won't Let Go
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1251
 date: '2013-06-24 12:00:00 +0200'
 categories: []

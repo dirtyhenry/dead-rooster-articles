@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Daft Punk - Get Lucky
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1225
 date: '2013-05-06 14:19:49 +0200'
 categories: []

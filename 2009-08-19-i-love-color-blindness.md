@@ -1,13 +1,8 @@
 ---
 layout: post
 title: I Love Color Blindness
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 522
 date: '2009-08-19 20:21:56 +0200'
 categories:

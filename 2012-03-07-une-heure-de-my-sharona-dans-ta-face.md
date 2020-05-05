@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Une heure de My Sharona dans ta face !
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1006
 date: '2012-03-07 13:24:41 +0100'
 categories: []

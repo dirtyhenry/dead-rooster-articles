@@ -4,13 +4,8 @@ title: Les dents en caoutchouc de la mer
 description: Un samedi sur deux, Allociné propose l'émission {{Faux Raccord}} qui
   met cette semaine en évidence les faux raccords du film de Spielberg {Les Dents
   de la Mer}.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 587
 date: '2010-04-03 15:48:40 +0200'
 categories:

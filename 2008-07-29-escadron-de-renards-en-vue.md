@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Escadron de renards en vue !
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 213
 date: '2008-07-29 10:22:24 +0200'
 categories:

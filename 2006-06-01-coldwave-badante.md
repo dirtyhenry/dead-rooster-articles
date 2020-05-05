@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Coldwave badante
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 316
 date: '2006-06-01 21:24:00 +0200'
 categories:

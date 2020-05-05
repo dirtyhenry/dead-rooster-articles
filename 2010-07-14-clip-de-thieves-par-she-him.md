@@ -4,13 +4,8 @@ title: Clip de Thieves par She&Him
 description: "{{She&Him}} vient de réaliser le clip de {Thieves}, extrait de son album
   {Volume Two}. Le résultat est sweet et ressemble à du lo-fi-late-1800's-avec-des-fausses-moustaches
   et des petites touches gondriesques."
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 649
 date: '2010-07-14 16:28:53 +0200'
 categories:

@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Shy Boys - Julia
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1214
 date: '2013-04-09 10:00:00 +0200'
 categories: []

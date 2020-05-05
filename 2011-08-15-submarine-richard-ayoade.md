@@ -4,13 +4,8 @@ title: Submarine - Richard Ayoade
 description: Parlons du film {Submarine}, de Richard Ayoade pour la réalisation, de
   Joe Dunthorne pour avoir écrit le bouquin dont le film est l'adaptation, d'Alex
   Turner pour la BO et de Wes Anderson pour l'inspiration.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 879
 date: '2011-08-15 18:44:24 +0200'
 categories:

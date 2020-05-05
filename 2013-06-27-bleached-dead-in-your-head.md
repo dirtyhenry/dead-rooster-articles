@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Bleached - Dead In Your Head
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1254
 date: '2013-06-27 12:00:00 +0200'
 categories: []

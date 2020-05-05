@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Tiersen dit oui à Fantomas après qu'Arcade Fire a dit non à Hibernatus
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1263
 date: '2013-10-30 12:43:22 +0100'
 categories: []

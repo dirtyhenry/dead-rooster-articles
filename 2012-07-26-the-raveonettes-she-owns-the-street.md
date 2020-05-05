@@ -1,13 +1,8 @@
 ---
 layout: post
 title: The Raveonettes - She Owns The Street
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1076
 date: '2012-07-26 08:00:00 +0200'
 categories: []

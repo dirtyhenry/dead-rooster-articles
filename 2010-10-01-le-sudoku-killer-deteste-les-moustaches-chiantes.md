@@ -3,13 +3,8 @@ layout: post
 title: Le sudoku killer déteste les moustaches chiantes
 description: 'Le vendredi, le fun est de bon aloi. Cette semaine : on se réveille
   moustachu, détesté, entouré de photos chiantes, et on attend l''arrivée du sudoku-killer'
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 708
 date: '2010-10-01 16:22:20 +0200'
 categories:

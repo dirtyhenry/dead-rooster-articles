@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Ghislain dit adieu à Magicrème
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1265
 date: '2013-12-02 17:17:18 +0100'
 categories: []

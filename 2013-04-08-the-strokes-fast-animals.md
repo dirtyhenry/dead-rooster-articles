@@ -1,13 +1,8 @@
 ---
 layout: post
 title: The Strokes - Fast Animals
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1213
 date: '2013-04-08 10:49:21 +0200'
 categories: []

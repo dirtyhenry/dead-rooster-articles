@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Y'a des semaines comme ça...
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 313
 date: '2006-05-18 08:20:00 +0200'
 categories:

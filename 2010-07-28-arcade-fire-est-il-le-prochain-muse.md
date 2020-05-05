@@ -4,13 +4,8 @@ title: Arcade Fire est-il le prochain Muse ?
 description: Plus que 5 jours avant la sortie du très attendu 3ème album d'Arcade
   Fire, {Suburbs}. La sortie de cet album est précédé d'un buzz énorme qui, je l'avoue,
   me fait un peu peur...
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 662
 date: '2010-07-28 13:35:26 +0200'
 categories:

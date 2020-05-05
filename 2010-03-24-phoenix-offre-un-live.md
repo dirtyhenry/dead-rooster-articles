@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Phoenix offre un live
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 577
 date: '2010-03-24 18:55:02 +0100'
 categories: []

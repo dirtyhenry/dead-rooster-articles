@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Petite vieille !
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 576
 date: '2010-03-08 11:28:45 +0100'
 categories: []

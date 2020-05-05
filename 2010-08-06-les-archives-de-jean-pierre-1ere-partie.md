@@ -3,13 +3,8 @@ layout: post
 title: Les archives de Jean-Pierre, 1ère partie
 description: Avant d'entamer sa carrière de musicien, Jean-Pierre Caca avait gagné
   une première réputation en tant que journaliste. Pour nous, il ouvre ses archives.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 673
 date: '2010-08-06 12:06:20 +0200'
 categories: []

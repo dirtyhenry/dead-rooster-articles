@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Les clés noires en imposent !
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 206
 date: '2008-05-30 17:14:28 +0200'
 categories:

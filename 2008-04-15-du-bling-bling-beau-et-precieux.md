@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Du bling bling beau et précieux !
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 204
 date: '2008-04-15 13:39:38 +0200'
 categories:

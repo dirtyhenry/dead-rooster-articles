@@ -1,13 +1,8 @@
 ---
 layout: post
 title: La Malédiction des Festivals
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 325
 date: '2006-07-08 16:47:00 +0200'
 categories:

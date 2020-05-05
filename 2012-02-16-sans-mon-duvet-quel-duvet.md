@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Sans mon duvet, quel duvet !
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 997
 date: '2012-02-16 12:13:06 +0100'
 categories:

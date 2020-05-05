@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Compile The 00's
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 751
 date: '2011-01-12 13:24:59 +0100'
 categories:

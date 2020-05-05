@@ -6,13 +6,8 @@ description: "Il serait temps de faire un post sur ce blog, ne serait-ce que pou
   Avoir un nouveau post car y'en a marre d'avoir la même image en page de garde depuis
   avril\r\n-# Discuter de la programmation de {{Rock en Seine}}\r\n-# Montrer que
   {{Sortmash}} peut-être une appli utile aux blaireaux dans mon genre"
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1082
 date: '2012-07-27 11:01:53 +0200'
 categories:

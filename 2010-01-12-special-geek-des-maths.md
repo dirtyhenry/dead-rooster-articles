@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Spécial geek des maths !
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 563
 date: '2010-01-12 17:28:48 +0100'
 categories:

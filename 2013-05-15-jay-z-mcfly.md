@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Jay-Z McFly
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1231
 date: '2013-05-15 12:11:43 +0200'
 categories: []

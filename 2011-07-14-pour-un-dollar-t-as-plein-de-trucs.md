@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Pour un dollar, t'as plein de trucs
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 870
 date: '2011-07-14 14:26:06 +0200'
 categories: []

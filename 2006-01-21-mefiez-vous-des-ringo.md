@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Méfiez vous des Ringo
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 277
 date: '2006-01-21 20:33:00 +0100'
 categories:

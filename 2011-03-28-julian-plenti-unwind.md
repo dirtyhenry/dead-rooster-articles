@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Julian Plenti - Unwind
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 810
 date: '2011-03-28 17:35:50 +0200'
 categories: []

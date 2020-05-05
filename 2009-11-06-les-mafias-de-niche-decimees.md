@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Les mafias de niche décimées
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 544
 date: '2009-11-06 14:05:21 +0100'
 categories: []

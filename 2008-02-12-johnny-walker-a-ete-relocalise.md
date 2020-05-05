@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Johnny Walker a été relocalisé
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 435
 date: '2008-02-12 15:11:00 +0100'
 categories:

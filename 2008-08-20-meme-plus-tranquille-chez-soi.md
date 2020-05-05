@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Même plus tranquille chez soi
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 457
 date: '2008-08-20 08:09:00 +0200'
 categories: []

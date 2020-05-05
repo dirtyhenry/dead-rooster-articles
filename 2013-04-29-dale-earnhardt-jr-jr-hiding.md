@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Dale Earnhardt Jr. Jr. - Hiding
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1223
 date: '2013-04-29 21:29:11 +0200'
 categories: []

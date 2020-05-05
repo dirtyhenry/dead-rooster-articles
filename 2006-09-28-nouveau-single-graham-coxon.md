@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Nouveau single Graham Coxon
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 335
 date: '2006-09-28 15:54:00 +0200'
 categories:

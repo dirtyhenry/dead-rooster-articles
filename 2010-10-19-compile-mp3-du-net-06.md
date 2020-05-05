@@ -5,13 +5,8 @@ description: Une sélection des meilleurs MP3 légalement disponibles au téléc
   des dernières semaines. Au programme cette semaine, les retours de {{Frankie Rose
   & The Outs}} et de {{Women}} ainsi qu'une excellente reprise du No Satisfaction
   de Black Mountain par The Black Angels.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 715
 date: '2010-10-19 23:00:00 +0200'
 categories:

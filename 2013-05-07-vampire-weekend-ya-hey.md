@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Vampire Weekend - Ya Hey
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1226
 date: '2013-05-07 15:05:57 +0200'
 categories: []

@@ -3,13 +3,8 @@ layout: post
 title: The Stanley EP
 description: "The Livingstones I Presume présentent leur 1er EP, The Stanley EP.\r\n\r\nVous
   pouvez l'écouter et le télécharger gratuitement sur [la page Bandcamp du groupe->http://thelivingstonesipresume.bandcamp.com/]."
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 762
 date: '2011-01-20 13:21:09 +0100'
 categories:

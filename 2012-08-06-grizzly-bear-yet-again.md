@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Grizzly Bear - Yet Again
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1085
 date: '2012-08-06 09:05:04 +0200'
 categories: []

@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Lilys - A Nanny In Manhattan
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 929
 date: '2011-10-10 04:54:43 +0200'
 categories: []

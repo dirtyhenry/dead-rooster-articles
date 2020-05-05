@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Papa, Maman et la bonne sont tristes
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 947
 date: '2011-11-09 23:35:33 +0100'
 categories: []

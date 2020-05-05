@@ -6,13 +6,8 @@ description: Mai 1972, les Rolling Stones arrivent sur le continent américain p
   Touring Party), elle se conclura par trois dates au mythique Madison Square Garden.
   Ce sont ces deux mois intenses que {{Robert Greenfield}} raconte dans {S.T.P. A
   travers l'Amerique avec les Rolling Stones}.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 743
 date: '2010-12-28 11:13:17 +0100'
 categories:

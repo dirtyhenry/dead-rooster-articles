@@ -1,13 +1,8 @@
 ---
 layout: post
 title: The National - Exile, Vilify
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 901
 date: '2011-09-06 12:51:49 +0200'
 categories:

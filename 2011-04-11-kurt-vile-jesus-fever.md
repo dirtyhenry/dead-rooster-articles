@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Kurt Vile - Jesus Fever
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 822
 date: '2011-04-11 11:05:17 +0200'
 categories: []

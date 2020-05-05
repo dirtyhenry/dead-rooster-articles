@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Dum Dum Girls - He Gets Me High
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 862
 date: '2011-07-06 09:30:00 +0200'
 categories:

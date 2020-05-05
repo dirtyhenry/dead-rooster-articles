@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Nada Surf - Waiting For Something
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1051
 date: '2012-06-14 10:41:02 +0200'
 categories: []

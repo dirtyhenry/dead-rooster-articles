@@ -2,13 +2,8 @@
 layout: post
 title: Findlay Brown - Promised Land
 description: Une chanson cool... Un clip sympa... (say no more, say no more)
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 740
 date: '2010-12-21 21:42:19 +0100'
 categories:

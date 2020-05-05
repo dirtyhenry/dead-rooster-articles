@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Les Allemands marchent sans canne
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 469
 date: '2008-10-01 08:33:00 +0200'
 categories: []

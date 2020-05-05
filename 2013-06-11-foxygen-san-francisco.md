@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Foxygen - San Francisco
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1244
 date: '2013-06-11 10:53:11 +0200'
 categories: []

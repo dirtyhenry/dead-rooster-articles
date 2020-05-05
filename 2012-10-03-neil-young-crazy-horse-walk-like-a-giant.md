@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Neil Young & Crazy Horse - Walk Like A Giant
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1118
 date: '2012-10-03 08:00:00 +0200'
 categories: []

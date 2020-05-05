@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Fidlar - Max Can't Surf
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1197
 date: '2013-03-18 10:31:23 +0100'
 categories: []

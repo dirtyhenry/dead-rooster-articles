@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Une génération en plus ou en moins...
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1020
 date: '2012-04-05 12:10:47 +0200'
 categories: []

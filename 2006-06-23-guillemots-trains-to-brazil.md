@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Guillemots - Trains To Brazil
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1029
 date: '2006-06-23 12:00:00 +0200'
 categories: []

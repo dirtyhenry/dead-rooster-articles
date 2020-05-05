@@ -2,13 +2,8 @@
 layout: post
 title: Europe'N'Roll par Jacques Dutronc
 description: Une chanson naze, par Jacques Dutronc
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 739
 date: '2010-12-17 15:12:26 +0100'
 categories: []

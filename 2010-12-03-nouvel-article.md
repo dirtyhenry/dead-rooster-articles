@@ -1,13 +1,8 @@
 ---
 published: false
 title: Nouvel article
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 738
 date: '2010-12-03 19:27:03 +0100'
 categories: []

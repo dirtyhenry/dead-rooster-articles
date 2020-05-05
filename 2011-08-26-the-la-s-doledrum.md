@@ -1,13 +1,8 @@
 ---
 layout: post
 title: The La's - Doledrum
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 891
 date: '2011-08-26 15:37:18 +0200'
 categories:

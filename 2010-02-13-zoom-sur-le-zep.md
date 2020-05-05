@@ -10,8 +10,6 @@ author:
   login: dirtyhenry
   email: dirtyhenry@gmail.com
   url: ""
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
 wordpress_id: 571
 date: "2010-02-13 13:50:05 +0100"
 categories:

@@ -3,13 +3,8 @@ layout: post
 title: 'Ciné-Club moi j’vous dis #07'
 description: 'Au sommaire du mois : {La Folle Ingénue}, {La Chambre du Fils}, {Ni
   à vendre, ni à louer}.'
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 866
 date: '2011-07-05 09:50:00 +0200'
 categories:

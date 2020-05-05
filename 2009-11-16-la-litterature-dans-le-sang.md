@@ -1,13 +1,8 @@
 ---
 layout: post
 title: La littérature dans le sang...
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 547
 date: '2009-11-16 14:25:35 +0100'
 categories: []

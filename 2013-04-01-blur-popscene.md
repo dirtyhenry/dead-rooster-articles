@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Blur - Popscene
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1207
 date: '2013-04-01 13:34:17 +0200'
 categories: []

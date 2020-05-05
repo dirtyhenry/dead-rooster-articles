@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Veronica Falls - Waiting For Something To Happen
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1222
 date: '2013-04-19 11:27:07 +0200'
 categories: []

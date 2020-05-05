@@ -3,13 +3,8 @@ layout: post
 title: 'Ciné-Club moi j''vous dis #05'
 description: 'Au sommaire du mois : {Rusty James}, {Personnel et Confidentiel}, {Chez
   Gino}, {The Fighter} et {L''étrange affaire Angelica}'
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 824
 date: '2011-04-12 12:25:15 +0200'
 categories:

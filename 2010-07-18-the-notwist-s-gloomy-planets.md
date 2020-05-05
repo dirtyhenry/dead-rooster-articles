@@ -4,13 +4,8 @@ title: The Notwist's Gloomy Planets
 description: Que se passe-t-il lorsqu'on prend une chanson géniale, qu'on se fait
   accompagner par un orchestre symphonique et qu'on habille le tout d'une chorégraphie
   lumineuse très classe ? Une vidéo qui donne des frissons.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 652
 date: '2010-07-18 20:24:04 +0200'
 categories:

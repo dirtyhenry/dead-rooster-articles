@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Vidéos sympas
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 338
 date: '2006-11-14 23:04:00 +0100'
 categories:

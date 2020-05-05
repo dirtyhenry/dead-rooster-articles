@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Iggy Pop arrête le slam
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 590
 date: '2010-04-07 18:23:56 +0200'
 categories: []

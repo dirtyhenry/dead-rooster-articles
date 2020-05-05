@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Le bon-sens perturbé
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 425
 date: '2007-11-16 10:04:00 +0100'
 categories: []

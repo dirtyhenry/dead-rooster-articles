@@ -3,13 +3,8 @@ layout: post
 title: La vie très privée de Mr Sim de Jonathan Coe
 description: "[Marcello Proust->auteur5] m'a dit que Dead Rooster ne parlait pas assez
   de bouquins. Dont acte !"
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 793
 date: '2011-03-03 19:40:45 +0100'
 categories:

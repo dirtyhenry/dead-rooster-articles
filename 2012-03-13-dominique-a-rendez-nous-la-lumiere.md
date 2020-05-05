@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Dominique A - Rendez-nous la lumière
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1008
 date: '2012-03-13 18:14:08 +0100'
 categories: []

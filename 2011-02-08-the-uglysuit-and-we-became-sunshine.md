@@ -1,13 +1,8 @@
 ---
 layout: post
 title: The Uglysuit - ...And We Became Sunshine
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 773
 date: '2011-02-08 10:07:01 +0100'
 categories: []

@@ -2,13 +2,8 @@
 layout: post
 title: 'Grande Saga : “Un mois de juin 2007 rock’n''roll” - Episode 2 sur 5 : The
   White Stripes en live et en disque'
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 398
 date: '2007-07-31 15:21:00 +0200'
 categories:

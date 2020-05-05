@@ -4,13 +4,8 @@ title: Sociologie de la crise psychédélique du quarantenaire cynique
 description: 'Le vendredi, le fun est de bon aloi. Cette semaine : crise existentielle,
   hallucination psychédélique, punk adolescent de quarantenaire, une touche de cynisme
   et une étude sociologique populaire.  '
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 701
 date: '2010-09-17 11:28:20 +0200'
 categories:

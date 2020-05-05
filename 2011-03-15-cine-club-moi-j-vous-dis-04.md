@@ -3,13 +3,8 @@ layout: post
 title: 'Ciné-Club moi j''vous dis #04'
 description: 'Au sommaire du mois : {The King''s Speech}, {Black Swan}, {Incendies},
   {How Do You Know} et {Halal, Police d''Etat}'
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 798
 date: '2011-03-15 12:32:14 +0100'
 categories:

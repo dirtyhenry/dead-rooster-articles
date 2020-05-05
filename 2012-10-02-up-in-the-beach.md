@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Up In The Beach
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1121
 date: '2012-10-02 22:41:39 +0200'
 categories: []

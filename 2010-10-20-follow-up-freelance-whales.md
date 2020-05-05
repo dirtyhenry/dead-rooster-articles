@@ -3,13 +3,8 @@ layout: post
 title: 'Follow-Up : Freelance Whales'
 description: Je vous avais parlé des {{Freelance Whales}} [ici->594]. Que deviennent-ils
   ?
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 716
 date: '2010-10-20 17:46:23 +0200'
 categories:

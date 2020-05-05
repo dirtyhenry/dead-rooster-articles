@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Interpol pour les Nuls
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 803
 date: '2011-03-23 17:31:33 +0100'
 categories: []

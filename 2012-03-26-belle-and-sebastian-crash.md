@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Belle and Sebastian - "Crash"
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1015
 date: '2012-03-26 17:41:18 +0200'
 categories: []

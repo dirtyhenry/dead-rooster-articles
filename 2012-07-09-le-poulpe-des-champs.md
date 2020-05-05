@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Le Poulpe des champs
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1072
 date: '2012-07-09 11:56:43 +0200'
 categories: []

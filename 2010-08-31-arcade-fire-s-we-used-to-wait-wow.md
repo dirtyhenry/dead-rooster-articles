@@ -3,13 +3,8 @@ layout: post
 title: Arcade Fire's We Used To Wait... Wow !
 description: Arcade Fire frappe fort en proposant un clip interactif pour leur titre
   We Used To Wait, issu du récent The Suburbs.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 691
 date: '2010-08-31 10:12:58 +0200'
 categories:

@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Les oiseaux mis en cage
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 468
 date: '2008-10-01 08:32:00 +0200'
 categories: []

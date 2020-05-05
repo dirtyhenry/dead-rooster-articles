@@ -1,13 +1,8 @@
 ---
 layout: post
 title: EELS - I'm Your Brave Little Soldier
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1162
 date: '2013-01-25 15:06:41 +0100'
 categories: []

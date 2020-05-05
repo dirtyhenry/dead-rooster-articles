@@ -1,13 +1,8 @@
 ---
 layout: post
 title: L'aquarium géant de Titi
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1003
 date: '2012-02-28 10:35:43 +0100'
 categories: []

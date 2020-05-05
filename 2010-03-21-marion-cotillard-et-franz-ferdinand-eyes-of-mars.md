@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Marion Cotillard et Franz Ferdinand - Eyes of Mars
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1256
 date: '2010-03-21 12:00:00 +0100'
 categories: []

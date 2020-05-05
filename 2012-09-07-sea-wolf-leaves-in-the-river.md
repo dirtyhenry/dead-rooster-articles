@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Sea Wolf - Leaves In The River
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1105
 date: '2012-09-07 08:00:00 +0200'
 categories: []

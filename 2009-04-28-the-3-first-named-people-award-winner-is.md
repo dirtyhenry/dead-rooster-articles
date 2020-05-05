@@ -1,13 +1,8 @@
 ---
 layout: post
 title: The 3 First Named People Award winner is...
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 500
 date: '2009-04-28 17:13:00 +0200'
 categories: []

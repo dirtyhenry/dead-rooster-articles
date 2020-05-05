@@ -3,13 +3,8 @@ layout: post
 title: Mujeres à emporter
 description: "{{Mujeres}} dévoile son rock'n'roll enthousiaste dans un concert à emporter
   plus réjouissant que d'habitude !"
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 640
 date: '2010-06-30 18:19:57 +0200'
 categories:

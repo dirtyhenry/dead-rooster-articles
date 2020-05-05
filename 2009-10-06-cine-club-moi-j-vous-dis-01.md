@@ -1,13 +1,8 @@
 ---
 layout: post
 title: 'Ciné-Club moi j''vous dis #01'
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 534
 date: '2009-10-06 22:08:36 +0200'
 categories:

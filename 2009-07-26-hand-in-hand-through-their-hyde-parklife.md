@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Hand in hand through their (Hyde) Parklife
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 514
 date: '2009-07-26 20:19:15 +0200'
 categories:

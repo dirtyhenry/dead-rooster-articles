@@ -1,13 +1,8 @@
 ---
 layout: post
 title: She & Him - Baby It's Cold Outside
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1151
 date: '2012-12-20 09:00:00 +0100'
 categories:

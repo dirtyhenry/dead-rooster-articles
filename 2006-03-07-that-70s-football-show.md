@@ -1,13 +1,8 @@
 ---
 layout: post
 title: That '70s Football Show
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 284
 date: '2006-03-07 11:43:00 +0100'
 categories:

@@ -3,13 +3,8 @@ layout: post
 title: Sans regret...
 description: "Le titre de la semaine de {{Katerine, Francis et ses peintres}} est
   {Je ne veux pas rentrer\r\nchez moi seule}, du groupe Regrets."
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 609
 date: '2010-05-04 12:34:35 +0200'
 categories:

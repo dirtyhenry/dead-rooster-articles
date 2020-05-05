@@ -2,13 +2,8 @@
 layout: post
 title: Le Corail bientôt de retour
 description: Ici on aime bien {{The Coral}}. Alors on prêche la bonne parole...
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 630
 date: '2010-06-18 08:23:51 +0200'
 categories:

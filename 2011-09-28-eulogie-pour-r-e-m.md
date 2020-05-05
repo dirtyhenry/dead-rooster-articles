@@ -4,13 +4,8 @@ title: Eulogie pour R.E.M.
 description: R.E.M. vient d'annoncer sa séparation. Vous allez me dire "On s'en fout
   un peu, non ?", je vais vous répondre "Ah oui, oui, oui, complètement !". Mais pas
   que.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 915
 date: '2011-09-28 02:25:53 +0200'
 categories:

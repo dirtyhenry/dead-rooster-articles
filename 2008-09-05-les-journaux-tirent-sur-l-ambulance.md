@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Les journaux tirent sur l'ambulance
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 463
 date: '2008-09-05 16:07:00 +0200'
 categories: []

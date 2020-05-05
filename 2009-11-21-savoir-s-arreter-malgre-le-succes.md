@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Savoir s'arrêter malgré le succès
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 549
 date: '2009-11-21 14:25:17 +0100'
 categories: []

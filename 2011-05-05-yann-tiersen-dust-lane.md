@@ -5,13 +5,8 @@ description: Yann Tiersen, ça commence à être un vieux de la vieille. L'été
   il présentait {Dust Lane} à la Route du Rock ([on y était et on avait aimé->696]).
   Depuis, {Dust Lane} est sorti en disque et il était de passage à la Carène, à Brest
   il y a deux semaines.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 837
 date: '2011-05-05 14:00:29 +0200'
 categories:

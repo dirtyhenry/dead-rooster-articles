@@ -3,13 +3,8 @@ layout: post
 title: Clip de The Daredevil Christopher Wright
 description: Clip et titre de The Daredevil Christopher Wright, bientôt de passage
   à Paris.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 681
 date: '2010-08-12 15:56:11 +0200'
 categories:

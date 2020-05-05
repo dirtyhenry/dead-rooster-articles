@@ -1,13 +1,8 @@
 ---
 layout: post
 title: The Shins - Simple Song
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 999
 date: '2012-02-23 18:22:03 +0100'
 categories: []

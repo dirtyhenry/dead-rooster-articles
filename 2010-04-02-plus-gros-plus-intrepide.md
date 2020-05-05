@@ -3,13 +3,8 @@ layout: post
 title: Plus gros, plus intrépide !
 description: Trois chansons à écouter ou à télécharger sur le net, avec au programme,
   Love Is All, Harlem et Foals !
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 586
 date: '2010-04-02 21:16:20 +0200'
 categories: []

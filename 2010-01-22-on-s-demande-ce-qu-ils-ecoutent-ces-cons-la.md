@@ -1,13 +1,8 @@
 ---
 layout: post
 title: On s'demande ce qu'ils écoutent ces cons-là !
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 565
 date: '2010-01-22 14:42:40 +0100'
 categories: []

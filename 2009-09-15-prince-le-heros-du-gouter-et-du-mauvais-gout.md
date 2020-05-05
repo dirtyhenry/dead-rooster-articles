@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Prince, le héros du goûter et du mauvais goût
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 531
 date: '2009-09-15 16:33:58 +0200'
 categories: []

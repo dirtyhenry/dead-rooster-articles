@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Best Coast - Our Deal
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 968
 date: '2011-12-12 09:00:00 +0100'
 categories:

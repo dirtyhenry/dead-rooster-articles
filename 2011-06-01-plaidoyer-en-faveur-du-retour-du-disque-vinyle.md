@@ -4,13 +4,8 @@ title: Plaidoyer en faveur du retour du disque vinyle
 description: Ma principale résolution pour 2011 est d'abandonner les CD au profit
   des disques vinyles, et de me les procurer au plus près des artistes dans la chaîne
   de distribution. Pourquoi ? Parce que !
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 849
 date: '2011-06-01 11:48:55 +0200'
 categories: []

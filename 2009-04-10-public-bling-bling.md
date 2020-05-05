@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Public bling bling ?
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 494
 date: '2009-04-10 13:47:00 +0200'
 categories: []

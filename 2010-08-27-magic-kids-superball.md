@@ -3,13 +3,8 @@ layout: post
 title: Magic Kids' Superball
 description: Le groupe de Memphis {{Magic Kids}} nous invite à imaginer qu'on est
   en Californie dans les années 60.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 688
 date: '2010-08-27 12:40:26 +0200'
 categories:

@@ -3,13 +3,8 @@ layout: post
 title: Le porno, c'est même carrément bien
 description: "{{The New Pornographers}} sortent un nouveau single. Et il est encore
   très bien..."
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 627
 date: '2010-06-10 12:06:42 +0200'
 categories:

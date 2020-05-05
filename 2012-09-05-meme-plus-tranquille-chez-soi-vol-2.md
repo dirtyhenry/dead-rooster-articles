@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Même plus tranquille chez soi, vol. 2
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1104
 date: '2012-09-05 08:00:00 +0200'
 categories: []

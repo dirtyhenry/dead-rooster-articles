@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Jean-Bernard de Libreville - La juxtaposition 210
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 809
 date: '2011-03-27 16:46:02 +0200'
 categories: []

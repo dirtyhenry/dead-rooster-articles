@@ -3,13 +3,8 @@ layout: post
 title: Libération générale
 description: 'Le vendredi, le fun est de bon aloi. Cette semaine : tout le monde se
   libère !'
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 711
 date: '2010-10-08 12:08:42 +0200'
 categories:

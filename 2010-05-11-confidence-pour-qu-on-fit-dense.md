@@ -3,13 +3,8 @@ layout: post
 title: Confidence pour qu'on fit dense
 description: Le titre de la semaine de {{Katerine, Francis et ses peintres}} est {Confidence
   pour Confidence}, de Jean Schultheis. Loïc marque des points !
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 613
 date: '2010-05-11 23:42:00 +0200'
 categories:

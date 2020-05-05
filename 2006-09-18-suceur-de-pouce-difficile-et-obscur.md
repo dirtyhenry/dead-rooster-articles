@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Suceur de pouce difficile et obscur
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 333
 date: '2006-09-18 21:33:00 +0200'
 categories:

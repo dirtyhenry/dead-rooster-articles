@@ -1,13 +1,8 @@
 ---
 layout: post
 title: Graham Coxon - Coffee & TV
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ''
-author_login: dirtyhenry
-author_email: dirtyhenry@gmail.com
+authors:
+  - Dirty Henry
 wordpress_id: 1013
 date: '2012-03-21 19:14:00 +0100'
 categories:
