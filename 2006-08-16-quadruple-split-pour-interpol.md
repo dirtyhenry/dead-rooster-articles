@@ -10,7 +10,7 @@ categories:
 tags:
 - Interpol
 ---
-{*Interpol*} a donné signe de vie sur [le site officiel du groupe->http://interpolnyc.com].
+{*Interpol*} a donné signe de vie sur [le site officiel du groupe](http://interpolnyc.com).
 
 Le groupe indique avoir splitté 4 fois (!) mais que maintenant tout va bien et qu'il travaille depuis 6 mois à son 3ème album. L'enregistrement débutera à l'automne, pour une sortie de disque que Capitol, le nouveau label du groupe espère pour juillet 2007.
 

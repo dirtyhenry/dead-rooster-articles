@@ -14,7 +14,7 @@ comments:
   author_email: dirtyhenry@gmail.com
   date: '2006-06-15 13:52:44 +0200'
   title: Le France-Corée du Sud de Patrick Chêne
-  content: 'Article bien marrant sur la coupe du monde et la France : [http://www.planetepsg.com/?page=news&id=4861->http://www.planetepsg.com/?page=news&id=4861]'
+  content: 'Article bien marrant sur la coupe du monde et la France : [http://www.planetepsg.com/?page=news&id=4861](http://www.planetepsg.com/?page=news&id=4861)'
 ---
 Voici le message de Patrick Chêne à Raymond Domenech, qu'il a délivré sur football365.fr et qui est plutôt fun :
 

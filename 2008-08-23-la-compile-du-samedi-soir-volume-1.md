@@ -28,6 +28,6 @@ tags:
 -# David Bowie - *Suffragette City*
 -# The Strokes - *Ize of The World*
 
-[Ecouter la compile sur Spotify -> http://open.spotify.com/user/guiguilele/playlist/0BSh8CRhHXWWHaqd1G2e1l]
+[Ecouter la compile sur Spotify ]( http://open.spotify.com/user/guiguilele/playlist/0BSh8CRhHXWWHaqd1G2e1l)
 
 les titres avec astérisque sont indisponibles

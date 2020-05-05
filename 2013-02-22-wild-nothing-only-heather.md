@@ -12,4 +12,4 @@ date: '2013-02-22 10:00:00 +0100'
 <iframe src="http://www.youtube.com/embed/fD8Reb-zHXA" frameborder="0" allowfullscreen></iframe>
 </div>
 
-(via [Pitchfork->http://pitchfork.com/news/49548-watch-wild-nothings-dark-only-heather-video/])
+(via [Pitchfork](http://pitchfork.com/news/49548-watch-wild-nothings-dark-only-heather-video/))

@@ -15,7 +15,7 @@ tags:
 ---
 Le NME a publié le résultat du sondage mené auprès de ses lecteurs sur les 50 meilleurs hymnes indé de tous les temps. Le résultat est sans véritable surprise... La preuve ? Mon top 5 (Pulp - 'Common People', Oasis - 'Live Forever', Blur - 'Song 2', The Libertines - 'Vertigo', Franz Ferdinand - 'Take me out') a réussi un joli coup avec 4 titres dans le top 16 (mais merde suis-je le seul à penser que Vertigo est et demeurera le meilleur titre des Libertines ???)
 
-- 1. [Oasis - *Live Forever*->1025]
+- 1. [Oasis - *Live Forever*](1025)
 - 2. Nirvana - *Smells Like Teen Spirit*
 - 3. Pulp - *Common People*
 - 4. The Smiths - *There Is A Light That Never Goes Out*

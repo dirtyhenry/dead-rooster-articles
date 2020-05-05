@@ -18,6 +18,6 @@ Avec l'arrivée de __The Ettes__, le changement de registre est impressionant. B
 
 Arrive enfin __The Black Keys__. L'écoute de *Attack & Release*, leur dernier album, produit par Danger Mouse, levait une interrogation : comment allaient sonner les titres de ce disque sur scène, eux qui dépassent le plus souvent le cadre traditionnel guitare/batterie ? La réponse ne fut que partielle puisqu'à peine 4 ou 5 titres furent joués dont un *Strange Times* au refrain plutôt bancal. Le reste du temps, le public s'est régalé des meilleurs titres des quatre albums précédents et ne doit pas le regretter. Le couple est très équilibré : batteur intense et très spectaculaire de par sa grande taille et l'amplitude de sa frappe, guitariste/chanteur virtuose d'un blues intégralement joué aux doigts, les Black Keys sont vraiment un groupe à découvrir sur scène.
 
--* [MySpace de The Black Keys->http://www.myspace.com/theblackkeys]
--* [MySpace de The Ettes->http://www.myspace.com/theettes]
--* [MySpace de Don Cavalli->http://www.myspace.com/doncavalli]
+-* [MySpace de The Black Keys](http://www.myspace.com/theblackkeys)
+-* [MySpace de The Ettes](http://www.myspace.com/theettes)
+-* [MySpace de Don Cavalli](http://www.myspace.com/doncavalli)

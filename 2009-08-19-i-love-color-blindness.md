@@ -12,4 +12,4 @@ tags:
 ---
 Un nouveau tee-shirt vient d'être ajouté à la boutique Dead Rooster. Plus que quelques jours pour être fashion cet été les enfants !
 
-[Acheter le t-shirt "I love color blindness" ->http://www.comboutique.com/shop/t-shirt-i_love_color_blindness-21450-1502429.html]
+[Acheter le t-shirt "I love color blindness" ](http://www.comboutique.com/shop/t-shirt-i_love_color_blindness-21450-1502429.html)

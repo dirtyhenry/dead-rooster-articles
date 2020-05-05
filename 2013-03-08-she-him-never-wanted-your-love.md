@@ -12,4 +12,4 @@ She & Him amorce l'arrivée de son prochain album, qui s'appellera, comme on pou
 
 *Volume 3* sort le 13 mai en Europe.
 
-(via [Pitchfork->http://pitchfork.com/news/49830-new-she-him-never-wanted-your-love/])
+(via [Pitchfork](http://pitchfork.com/news/49830-new-she-him-never-wanted-your-love/))

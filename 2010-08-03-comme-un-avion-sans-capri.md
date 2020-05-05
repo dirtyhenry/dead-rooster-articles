@@ -13,7 +13,7 @@ categories:
 tags:
 - Concours Katerine
 ---
-Les reprises de __Katerine, Francis et ses peintres__ des deux dernières semaines sont [*Capri c'est fini*->http://www.katerinefrancisetsespeintres.com/capri.html] d'Hervé Vilard et [*Comme un avion sans aile*->http://www.katerinefrancisetsespeintres.com/avion.html] de Charlélie Couture.
+Les reprises de __Katerine, Francis et ses peintres__ des deux dernières semaines sont [*Capri c'est fini*](http://www.katerinefrancisetsespeintres.com/capri.html] d'Hervé Vilard et [*Comme un avion sans aile*->http://www.katerinefrancisetsespeintres.com/avion.html) de Charlélie Couture.
 
 Les originales :
 
@@ -30,6 +30,6 @@ Une fois encore, comment est-il possible que personne n'y ait pensé ?
 - 5. Marion, David et Loïc, 4pts
 - 8. Le reste du monde à 0 pt
 
-Il est encore temps de participer en [cliquant ici->569] !
+Il est encore temps de participer en [cliquant ici](569) !
 
-Toutes les reprises sont disponibles sur [le site de Katerine, Francis et ses peintres->http://www.katerinefrancisetsespeintres.com/]...
+Toutes les reprises sont disponibles sur [le site de Katerine, Francis et ses peintres](http://www.katerinefrancisetsespeintres.com/)...

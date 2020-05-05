@@ -16,7 +16,7 @@ Quand il lit ça, le curieux court prendre sa place, forcément, car cette équa
 
 <img350|center>
 
-La soirée commence par un décompte. Tiens, ils ne sont que 8 sur scène. Ah mais, en fait, c'est la 1ère partie, __Irene__. Pas mal, pas mal. En plus c'est un groupe sympa, ils offrent [plein de MP3 à télécharger gratuitement sur leur page web->http://www.irene.nu/], et [leur MySpace->http://www.myspace.com/ireneswe].
+La soirée commence par un décompte. Tiens, ils ne sont que 8 sur scène. Ah mais, en fait, c'est la 1ère partie, __Irene__. Pas mal, pas mal. En plus c'est un groupe sympa, ils offrent [plein de MP3 à télécharger gratuitement sur leur page web](http://www.irene.nu/], et [leur MySpace->http://www.myspace.com/ireneswe).
 
 Mais cette fois, c'est la bonne, __I'm From Barcelona__ entre en scène. On recompte. 1, 2, 3, etc. Le bloqueur restera bloqué à 16. Le taux d'absentéisme frôle les 45% mais ce n'est pas plus mal, on aurait eu du mal à loger les 13 absents entre les pieds de micros et les amplis, d'autant que les membres présents arrivent avec un sacré attirail : machines à bulles de savon, ballons de baudruches gigantesques et sacs de confettis. Ainsi armé, le show est d'une efficacité redoutable.
 
@@ -28,4 +28,4 @@ Le public est conquis, frappant dans ses mains et frétillant du bassin ou balan
 
 Renseignements pris, leur retour en mars se fera à la Cigale. Le rendez-vous est déjà pris.
 
-[Photos : (c) Robert Gil->http://www.photosconcerts.com/]
+[Photos : (c) Robert Gil](http://www.photosconcerts.com/)

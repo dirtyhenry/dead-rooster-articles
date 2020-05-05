@@ -12,4 +12,4 @@ Premier titre : *Love Illumination*.
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/gWjN1GctWog" frameborder="0" allowfullscreen></iframe>
 
-*Right Thoughts, Right Words, Right Action* sortira fin août, et ne contient a priori [aucun titre avec Marion Cotillard->1256].
+*Right Thoughts, Right Words, Right Action* sortira fin août, et ne contient a priori [aucun titre avec Marion Cotillard](1256).

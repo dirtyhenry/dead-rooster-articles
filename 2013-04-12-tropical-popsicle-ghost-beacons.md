@@ -10,4 +10,4 @@ date: '2013-04-12 10:00:00 +0200'
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F53075947"></iframe>
 
-via [IGIF->http://www.iguessimfloating.net/2013/03/listen-topical-popsicle-the-dawn-of-delight-lp.html]
+via [IGIF](http://www.iguessimfloating.net/2013/03/listen-topical-popsicle-the-dawn-of-delight-lp.html)

@@ -33,7 +33,7 @@ Un extrait d'*Empire Square* :
 
 <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/69e7JEcGCAM&hl=fr&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/69e7JEcGCAM&hl=fr&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
 
-[http://www.myspace.com/theailerons->http://www.myspace.com/theailerons]
+[http://www.myspace.com/theailerons](http://www.myspace.com/theailerons)
 
 __Alex James__, était déjà bassiste de side projects, Me Me Me et surtout Fat Les, pendant la grande époque de Blur. Avec le père de Lilly Allen au chant (et parfois même la fillette elle-même), ce dernier groupe fut l'auteur d'un hymne de l'équipe d'Angleterre pour la Coupe du Monde 1998 dont le clip parodiait celui de The Verve. Puis, il fonda WigWam avec Betty Boo pour un single seulement et écrivit quelques chansons pour Marianne Faithful et Sophie Ellis-Bextor. Plus récemment, il a aussi participé à l'enregistrement du prochain disque de Joy Division v3 aka Bad Lieutenant.
 
@@ -45,7 +45,7 @@ Ne nous attardons pas sur le travail de __Damon Albarn__ : Gorillaz, Mali Music,
 
 Attardons nous par contre sur le parcours de __Graham Coxon__. Le guitariste avait commencé sa carrière solo bien avant le split avec Blur par trois albums, obscurs, sans singles mais vrais joyaux. Puis Blur s'éloigne et le registre solo de Graham devient nettement plus pop : la trilogie* The Kiss Of Morning, Happiness in Magazines* et *Love Travels at Illegal Speed* fourmille de singles imparables à la hauteur de ses compositions pour Blur (*You're So Great* et *Coffee and TV*) : la candeur pop de *Bittersweet Bundle of Misery*, l'immédiateté punk/pop/garage de *Freakin' Out*, *People of The Earth*, *You & I* ou *I Don't Wanna Go Out*. Plus récemment vient de sortir *The Spinning Top*, un retour aux sources de la guitare, souvent sèche sur le disque, qui louche aussi, souvent, vers Nick Drake. La part d'ombre nécessaire à l'équilibre coxonien maintenant que Blur est de nouveau en piste ?
 
-- Photo Damon Albarn : (c) [Pooneh Ghana->http://www.flickr.com/photos/pooneh/]
+- Photo Damon Albarn : (c) [Pooneh Ghana](http://www.flickr.com/photos/pooneh/)
 - Photo chien : <div xmlns:cc="http://creativecommons.org/ns#" about="http://www.flickr.com/photos/nickgreenan/3687707587/"><a rel="cc:attributionURL" href="http://www.flickr.com/photos/nickgreenan/">http://www.flickr.com/photos/nickgreenan/</a> / <a rel="license" href="http://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a></div>
 - Photo Graham Coxon : <div xmlns:cc="http://creativecommons.org/ns#" about="http://www.flickr.com/photos/jellybean/3683285292/"><a rel="cc:attributionURL" href="http://www.flickr.com/photos/jellybean/">http://www.flickr.com/photos/jellybean/</a> / <a rel="license" href="http://creativecommons.org/licenses/by-nc/2.0/">CC BY-NC 2.0</a></div>
-- Johanna Seban, des Inrocks, [parle aussi du retour de Blur->http://www.lesinrocks.com/2009/07/08/musique/concerts/on-y-etait-le-retour-de-blur-1139175/]
+- Johanna Seban, des Inrocks, [parle aussi du retour de Blur](http://www.lesinrocks.com/2009/07/08/musique/concerts/on-y-etait-le-retour-de-blur-1139175/)

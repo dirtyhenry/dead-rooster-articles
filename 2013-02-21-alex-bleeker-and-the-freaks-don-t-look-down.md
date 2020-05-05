@@ -10,6 +10,6 @@ Tandis que Karim Benzema est l'avant-centre du Real Madrid, Alex Bleeker est lui
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F78418477"></iframe>
 
-Sinon, vous pouvez aussi réécouter [*Easy*->982] et [*It's Real*->944] du Real Estate.
+Sinon, vous pouvez aussi réécouter [*Easy*](982] et [*It's Real*->944) du Real Estate.
 
-(via [Stereogum->http://stereogum.com/1260751/alex-bleeker-and-the-freaks-dont-look-down/mp3s/])
+(via [Stereogum](http://stereogum.com/1260751/alex-bleeker-and-the-freaks-dont-look-down/mp3s/))

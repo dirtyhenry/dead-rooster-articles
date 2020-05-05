@@ -36,7 +36,7 @@ On commence par un court dessin animé, de l'école Seth MacFarlane, le créateu
 
 Il est temps de lancer une bande son pour la dernière partie du post. Je vous propose un plaisir coupable et un bon vieux Weezer, qui jouent *Memories* tiré de leur nouvel album *Hurley*.
 
-(via [Stereogum->http://stereogum.com/512912/weezer-bring-memories-to-leno-confirm-blinkerton-tour-working-with-male-bonding/video/])
+(via [Stereogum](http://stereogum.com/512912/weezer-bring-memories-to-leno-confirm-blinkerton-tour-working-with-male-bonding/video/))
 
 [Edit : la vidéo a été supprimée de YouTube, on remplace par le clip du titre]
 
@@ -44,11 +44,11 @@ Il est temps de lancer une bande son pour la dernière partie du post. Je vous p
 
 <h2>Ecouter de la musique en 1990 et en 2010</h2>
 
-Les oreilles pleines de chouette musique, on peut maintenant s'adonner à un peu de cynisme via [la comparaison de la consommation (sic) de la musique entre 1990 et 2010->http://www.pcinpact.com/affichage/59349-comparatif-consommation-musique-1990-2010/88999.htm].
+Les oreilles pleines de chouette musique, on peut maintenant s'adonner à un peu de cynisme via [la comparaison de la consommation (sic) de la musique entre 1990 et 2010](http://www.pcinpact.com/affichage/59349-comparatif-consommation-musique-1990-2010/88999.htm).
 
 (via Johann)
 
 <h2>Vide-Grenier</h2>
 
-On peut ensuite lire [le très marrant post de Boulet sur les vide-grenier.->http://www.bouletcorp.com/blog/index.php?date=20100910]
+On peut ensuite lire [le très marrant post de Boulet sur les vide-grenier.](http://www.bouletcorp.com/blog/index.php?date=20100910)
 

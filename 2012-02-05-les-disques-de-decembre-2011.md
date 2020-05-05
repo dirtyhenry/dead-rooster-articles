@@ -22,33 +22,33 @@ OK, on est déjà en février, mais faut bien trouver le temps de compiler les b
 
 <h3>The Black Keys - *El Camino*</h3>
 
-Malgré deux ou trois titres un rien faiblard (surtout en seconde partie d'album : *Sister* ou *Nova Baby* entre autres), les Black Keys restent malgré tout le groupe le plus cool des dernières années. *Lonely Boy* (et [le clip qui va avec->938]) ou *Little Black Submarines* en témoignent de façon convaincante.
+Malgré deux ou trois titres un rien faiblard (surtout en seconde partie d'album : *Sister* ou *Nova Baby* entre autres), les Black Keys restent malgré tout le groupe le plus cool des dernières années. *Lonely Boy* (et [le clip qui va avec](938)) ou *Little Black Submarines* en témoignent de façon convaincante.
 
 <h3>Atlas Sound - *Parallax*</h3>
 
-Dans la même veine que [Deerhunter->770], Bradford Cox en version solo continue dans une veine similaire, avec peut-être un peu moins d'électricité. Le titre d'ouverture, *The Shakes* est à la fois pop et sophistiqué, classe.
+Dans la même veine que [Deerhunter](770), Bradford Cox en version solo continue dans une veine similaire, avec peut-être un peu moins d'électricité. Le titre d'ouverture, *The Shakes* est à la fois pop et sophistiqué, classe.
 
 <h3>Fleet Foxes - *Helplessness Blues*</h3>
 
-[Nos chouchous de 2008->222] sont revenus cette année avec un album dans la lignée directe de [son aîné->213]. Du solide, donc, même si, l'effet de (bonne) surprise n'étant plus là, l'enthousiasme n'est pas le même que pour le premier opus. Attendons le suivant pour voir ce que Robin Pecknold et ses sbires ont encore dans le ventre. Dommage que Willy DeVille soit mort (attention, blague élaborée à venir), j'aurais aimé un duo Pecknold & Willy différent des Strokes.
+[Nos chouchous de 2008](222] sont revenus cette année avec un album dans la lignée directe de [son aîné->213). Du solide, donc, même si, l'effet de (bonne) surprise n'étant plus là, l'enthousiasme n'est pas le même que pour le premier opus. Attendons le suivant pour voir ce que Robin Pecknold et ses sbires ont encore dans le ventre. Dommage que Willy DeVille soit mort (attention, blague élaborée à venir), j'aurais aimé un duo Pecknold & Willy différent des Strokes.
 
 <h3>Kurt Vile - *Smoke Ring For My Halo*</h3>
 
-On avait beaucoup aimé [*Jesus Fever*->822] il y a de nombreux mois. L'album est dans la ligne directe de ce single et ne déçoit pas. Du classique, mais superbement exécuté.
+On avait beaucoup aimé [*Jesus Fever*](822) il y a de nombreux mois. L'album est dans la ligne directe de ce single et ne déçoit pas. Du classique, mais superbement exécuté.
 
 <h2>Les 4 étoiles</h2>
 
 <h3>Bon Iver - *Bon Iver*</h3>
 
-Bon, c'est pas mal hein. D'ailleurs [tout le monde le dit->984]. N'empêche que c'est trop travaillé, trop laborieux (au sens noble) pour s'y attacher complètement. Laurent Voulzy n'y verrait pas [un truc qui lui colle encore au coeur et au corps->http://www.youtube.com/watch?v=n9cOf8Qv8ts].
+Bon, c'est pas mal hein. D'ailleurs [tout le monde le dit](984]. N'empêche que c'est trop travaillé, trop laborieux (au sens noble) pour s'y attacher complètement. Laurent Voulzy n'y verrait pas [un truc qui lui colle encore au coeur et au corps->http://www.youtube.com/watch?v=n9cOf8Qv8ts).
 
 <h3>Powersolo - *Buzz Human*</h3>
 
-Déjà vus dans nos contrées [ici->950] ou [là->638], Powersolo poursuit sa route dans la veine garage cradingue. On sent que les Scandinaves s'amusent en jouant, ce qui est bien, mais  *Buzz Human* est beaucoup trop long pour qu'on reste accroché sur toute la durée du disque. Bien cool malgré tout. 
+Déjà vus dans nos contrées [ici](950] ou [là->638), Powersolo poursuit sa route dans la veine garage cradingue. On sent que les Scandinaves s'amusent en jouant, ce qui est bien, mais  *Buzz Human* est beaucoup trop long pour qu'on reste accroché sur toute la durée du disque. Bien cool malgré tout. 
 
 <h3>Beat Mark - *Howls of Joy*</h3>
 
-La bonne surprise française du mois. Une variété de tons toujours convaincants et quelques tubes en puissance. Écouter [*Breeezing !*->979] pour s'en convaincre.
+La bonne surprise française du mois. Une variété de tons toujours convaincants et quelques tubes en puissance. Écouter [*Breeezing !*](979) pour s'en convaincre.
 
 <h3>Surfer Blood - *Tarot Classics EP*</h3>
 
@@ -62,11 +62,11 @@ On n'a pas là des génies de la subtilité (même si certains morceaux sont qua
 
 <h3>The Mary Onettes - *Islands*</h3>
 
-On a dû écouter les Smiths par ici. Alors on tente de faire un peu les Smiths des années 2000. Sans avoir à en rougir. On en parle [ici->976] et on le fait écouter [là->972].
+On a dû écouter les Smiths par ici. Alors on tente de faire un peu les Smiths des années 2000. Sans avoir à en rougir. On en parle [ici](976] et on le fait écouter [là->972).
 
 <h3>Grand Ole Party - *Under Our Skin*</h3>
 
-[Dee Dee en mode pré-Dum Dum->936]. Moins immédiat, moins percutant, mais un album bien ficelé malgré tout. À découvrir.
+[Dee Dee en mode pré-Dum Dum](936). Moins immédiat, moins percutant, mais un album bien ficelé malgré tout. À découvrir.
 
 <h3>Stevie Jackson - *(I Can't Get No) Stevie Jackson*</h3>
 
@@ -94,7 +94,7 @@ De jolies mélodies mais enrobées de trop d'effets et d'électronique pour s'y 
 
 <h3>The Pains Of Being Pure At Heart - *Belong*</h3>
 
-Quelques bons trucs mais bien trop sirupeux de manière générale, la voix toute en murmures saoule assez rapidement. Se souvenir du conseil que Radiohead a donné dans *Pablo Honey* : [Stop Whispering->http://youtu.be/k2WG_0-CgYA].
+Quelques bons trucs mais bien trop sirupeux de manière générale, la voix toute en murmures saoule assez rapidement. Se souvenir du conseil que Radiohead a donné dans *Pablo Honey* : [Stop Whispering](http://youtu.be/k2WG_0-CgYA).
 
 <h3>MANSFIELD. TYA - *Nyx*</h3>
 
@@ -102,7 +102,7 @@ Difficilement supportable : trop ambitieux, trop de voix/percu, pas assez d'inst
 
 <h3>Esmerine - *La Lechuza*</h3>
 
-Le mec de [Bon pour les oreilles->http://www.bonpourlesoreilles.net/] me fait parfois découvrir de superbes groupes (le dernier récent étant Other Lives, diffusé depuis sur [le podcast #01->924]). D'autres fois, non. On est là dans la 2ème catégorie. Tant pis.
+Le mec de [Bon pour les oreilles](http://www.bonpourlesoreilles.net/] me fait parfois découvrir de superbes groupes (le dernier récent étant Other Lives, diffusé depuis sur [le podcast #01->924)). D'autres fois, non. On est là dans la 2ème catégorie. Tant pis.
 
 <h3>Super Heavy - *Super Heavy*</h3>
 
@@ -112,7 +112,7 @@ Mick Jagger a créé ce "super"-groupe. Une question : "pourquoi ?". Horrible.
 
 <a href="http://open.spotify.com/user/dirtyhenry/playlist/6XJB9SVjFgrjra8hnKreaY"><img src="/squelettes/images/spotify-button.png" /></a>
 
-Réalisée avec [Sortmash->http://sortmash.com].
+Réalisée avec [Sortmash](http://sortmash.com).
 
 <div style="background: url(/IMG/png/top-decembre-2011.png);">
 <ul>

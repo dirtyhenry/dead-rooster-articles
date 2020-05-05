@@ -26,6 +26,6 @@ Bien heureusement, personne ne l'a trouvé. Classement inchangé :
 - 4. Marion et David, 4pts
 - 6. Le reste du monde à 0 pt
 
-Il est encore temps de participer en [cliquant ici->569] !
+Il est encore temps de participer en [cliquant ici](569) !
 
-Toutes les reprises sont disponibles sur [le site de Katerine, Francis et ses peintres->http://www.katerinefrancisetsespeintres.com/]...
+Toutes les reprises sont disponibles sur [le site de Katerine, Francis et ses peintres](http://www.katerinefrancisetsespeintres.com/)...

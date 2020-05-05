@@ -28,4 +28,4 @@ tags:
 -# Sufjan Stevens - *Chicago*
 -# Nada Surf - *80 Windows*
 
-[<img src="/squelettes/images/spotify-button.png" />-> http://open.spotify.com/user/guiguilele/playlist/0GkIj6KquwqO8rFFso5rBA]
+[<img src="/squelettes/images/spotify-button.png" />]( http://open.spotify.com/user/guiguilele/playlist/0GkIj6KquwqO8rFFso5rBA)

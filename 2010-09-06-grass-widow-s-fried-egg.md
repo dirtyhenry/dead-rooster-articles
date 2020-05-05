@@ -17,4 +17,4 @@ Les Breeders sont toujours une influence majeure apparemment...
 
 <iframe src="http://player.vimeo.com/video/14374194?title=0&amp;byline=0&amp;portrait=0&amp;color=59a5d1" width="500" height="375" frameborder="0"></iframe>
 
-(via [The Tripwire->http://www.thetripwire.com/tripwiretv/2010/08/25/video-grass-widow-fried-egg/])
+(via [The Tripwire](http://www.thetripwire.com/tripwiretv/2010/08/25/video-grass-widow-fried-egg/))

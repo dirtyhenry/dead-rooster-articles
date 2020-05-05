@@ -18,19 +18,19 @@ Trois semaines de reprises de __Katerine, Francis et ses peintres__ à rattraper
 
 <h2>1. *A toutes les filles* de Didier Barbelivien & Félix Gray</h2>
 
-La reprise de Katerine est [ici->http://www.katerinefrancisetsespeintres.com/filles.html].
+La reprise de Katerine est [ici](http://www.katerinefrancisetsespeintres.com/filles.html).
 L'originale :
 
 <object width="500" height="400"><param name="movie" value="http://www.youtube.com/v/hZKyxmSrUug?fs=1&hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/hZKyxmSrUug?fs=1&hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="400"></embed></object>
 
 <h2>2. *T'es OK* d'Ottowan</h2>
 
-La reprise de Katerine est [ici->http://www.katerinefrancisetsespeintres.com/ok.html].
-Le clip de l'originale ne peut pas être embarquée sur le site mais est visible (et recommandée) [ici->http://www.youtube.com/watch?v=F-04OM2oUt4].
+La reprise de Katerine est [ici](http://www.katerinefrancisetsespeintres.com/ok.html).
+Le clip de l'originale ne peut pas être embarquée sur le site mais est visible (et recommandée) [ici](http://www.youtube.com/watch?v=F-04OM2oUt4).
 
 <h2>3. *Salut à toi* de Bérurier Noir</h2>
 
-La reprise de Katerine est [ici->http://www.katerinefrancisetsespeintres.com/salut.html].
+La reprise de Katerine est [ici](http://www.katerinefrancisetsespeintres.com/salut.html).
 L'originale (et un bout d'interview) : 
 <object width="500" height="400"><param name="movie" value="http://www.youtube.com/v/5lTFu-VpPho?fs=1&hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/5lTFu-VpPho?fs=1&hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="400"></embed></object>
 
@@ -44,6 +44,6 @@ Pas de changement au classement :
 - 5. Marion, David et Loïc, 4pts
 - 8. Le reste du monde à 0 pt
 
-Il est encore temps de participer en [cliquant ici->569] !
+Il est encore temps de participer en [cliquant ici](569) !
 
-Toutes les reprises sont disponibles sur [le site de Katerine, Francis et ses peintres->http://www.katerinefrancisetsespeintres.com/]...
+Toutes les reprises sont disponibles sur [le site de Katerine, Francis et ses peintres](http://www.katerinefrancisetsespeintres.com/)...

@@ -10,4 +10,4 @@ Le groupe de Matthew Houck signe une bien belle pochette pour Muchacho, que Pitc
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/5NrM5IIyRm0" frameborder="0" allowfullscreen></iframe>
 
-via [Pitchfork->http://pitchfork.com/reviews/albums/17522-phosphorescent-muchacho/]
+via [Pitchfork](http://pitchfork.com/reviews/albums/17522-phosphorescent-muchacho/)

@@ -10,10 +10,10 @@ date: '2013-05-06 14:19:49 +0200'
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/iqsMRspYQEY" frameborder="0" allowfullscreen></iframe>
 
-(inspiré de [la discudanse de Nicolas et Bruno->http://youtu.be/ha9mwmdXtmk])
+(inspiré de [la discudanse de Nicolas et Bruno](http://youtu.be/ha9mwmdXtmk))
 
 et le volume 2 : 
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/4rV2pfTbBxU" frameborder="0" allowfullscreen></iframe>
 
-(via [#benoitlebreau->https://twitter.com/benoitlebreau/])
+(via [#benoitlebreau](https://twitter.com/benoitlebreau/))

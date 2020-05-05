@@ -10,4 +10,4 @@ Le Record Club de Beck aura pour mission d’enregistrer régulièrement un albu
 
 <iframe src="http://player.vimeo.com/video/5222227?color=ffffff" width="540" height="405" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/5222227">Record Club: Velvet Underground & Nico 'Sunday Morning'</a> from <a href="http://vimeo.com/videotheque">Beck Hansen</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
 
-(via [le site officiel de Beck->http://www.beck.com/])
+(via [le site officiel de Beck](http://www.beck.com/))

@@ -16,4 +16,4 @@ _ You hit the ground, bang bang
 _ That awful sound, bang bang
 _ I used to shoot you down
 
-Je recommande [Romanzo Criminale->http://www.allocine.fr/film/fichefilm_gen_cfilm=61263.html].
+Je recommande [Romanzo Criminale](http://www.allocine.fr/film/fichefilm_gen_cfilm=61263.html).

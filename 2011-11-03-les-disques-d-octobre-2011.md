@@ -22,7 +22,7 @@ comments:
 ---
 <h2>Les 5 étoiles </h2>
 
-On en a déjà parlé [ici->936], Dum Dum Girls est incontestablement le disque du mois. Quant à Neutral Milk Hotel (évoqué [ici->680] et [ici->687]), ils sont sous les feux de la rampe puisqu'annonces de reformation et rééditions déboulent un peu partout. Si vous voulez investir dans les disques de Jeff Mangum et ses sbires, *In the Aeroplane, Over the Sea* est à se procurer en priorité. Deux belles découvertes complètent la liste des meilleurs disques du mois : Veronica Falls et Hanni El Khatib dont on reparlera très bientôt.
+On en a déjà parlé [ici](936], Dum Dum Girls est incontestablement le disque du mois. Quant à Neutral Milk Hotel (évoqué [ici->680] et [ici->687)), ils sont sous les feux de la rampe puisqu'annonces de reformation et rééditions déboulent un peu partout. Si vous voulez investir dans les disques de Jeff Mangum et ses sbires, *In the Aeroplane, Over the Sea* est à se procurer en priorité. Deux belles découvertes complètent la liste des meilleurs disques du mois : Veronica Falls et Hanni El Khatib dont on reparlera très bientôt.
 
 <h2>Les 4 étoiles</h2>
 
@@ -43,7 +43,7 @@ Frànçois & The Atlas Mountain est un groupe soit trop romantique, soit pas ass
 
 <h2>La synthèse</h2>
 
-Réalisée avec [Sortmash->http://sortmash.com].
+Réalisée avec [Sortmash](http://sortmash.com).
 
 <div style="background: url(/IMG/png/classement-octobre.png);">
 <ul>

@@ -17,4 +17,4 @@ date: '2011-03-23 17:31:33 +0100'
 -# *Success*
 -# *Lights*
 
-[<img src="/squelettes/images/spotify-button.png" />->http://open.spotify.com/user/dirtyhenry/playlist/7trDXQ940DYxcQDRIcjZwO]
+[<img src="/squelettes/images/spotify-button.png" />](http://open.spotify.com/user/dirtyhenry/playlist/7trDXQ940DYxcQDRIcjZwO)

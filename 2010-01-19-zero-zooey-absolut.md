@@ -10,4 +10,4 @@ categories:
 tags:
 - Zooey Deschanel
 ---
-La blonde sur la photo là, voyez ? Il paraît que c'est [Zooey Deschanel->http://facebook.com/absolut] ! Le monde va mal !
+La blonde sur la photo là, voyez ? Il paraît que c'est [Zooey Deschanel](http://facebook.com/absolut) ! Le monde va mal !

@@ -43,6 +43,6 @@ En gros, on s'y moque beaucoup de tous les poncifs du genre : le groupe qui pèt
 
 (je recommande le passage sur la "ego room" à 6:40, sur la vidéo ci-dessus)
 
-Depuis, peu de rediffusion, une VHS publiée mais pas de DVD, [les épisodes disponibles sur le site de Channel 4->http://www.channel4.com/programmes/young-persons-guide-to-becoming-a-rock-star/4od] mais en UK uniquement, soit un bien beau gâchis qu'on ne peut pas seulement expliquer par l'épouvantable accent écossais qu'on doit subir tout au long de la série. Si quelqu'un veut commencer une pétition pour la parution de la série dans un format correct, je serai de ceux-là. D'autant plus que le scénariste de la série, Bryan Elsley, a depuis connu le succès avec *Skins* (que je n'ai jamais vu) rendant l'anonymat de la série d'autant plus étonnant.
+Depuis, peu de rediffusion, une VHS publiée mais pas de DVD, [les épisodes disponibles sur le site de Channel 4](http://www.channel4.com/programmes/young-persons-guide-to-becoming-a-rock-star/4od) mais en UK uniquement, soit un bien beau gâchis qu'on ne peut pas seulement expliquer par l'épouvantable accent écossais qu'on doit subir tout au long de la série. Si quelqu'un veut commencer une pétition pour la parution de la série dans un format correct, je serai de ceux-là. D'autant plus que le scénariste de la série, Bryan Elsley, a depuis connu le succès avec *Skins* (que je n'ai jamais vu) rendant l'anonymat de la série d'autant plus étonnant.
 
 Bref, au moins, quelques extraits existent sur YouTube... Merci l'an 2000.

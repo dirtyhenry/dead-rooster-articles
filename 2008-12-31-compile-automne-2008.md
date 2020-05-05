@@ -30,7 +30,7 @@ tags:
 -# Get Well Soon - *If This Hat Is Missing I Have Gone Hunting*
 -# Serge Gainsbourg - *Initials B.B.*
 
-[Ecouter la compile sur Spotify->http://open.spotify.com/user/dirtyhenry/playlist/60Q0MuIcPyaQN70qTgOBax] 
+[Ecouter la compile sur Spotify](http://open.spotify.com/user/dirtyhenry/playlist/60Q0MuIcPyaQN70qTgOBax) 
 
 <small>les titres avec astérisque sont indisponibles</small>
 

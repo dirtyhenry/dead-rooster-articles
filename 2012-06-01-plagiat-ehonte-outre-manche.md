@@ -16,6 +16,6 @@ comments:
   title: Plagiat éhontée outre-Manche
   content: Shocking. Tout comme ton manque de credit, ca m'apprendra tiens.
 ---
-Un blog anglophone ([Some Kind of Explanation->http://somekindofexplanation.blogspot.co.uk/]) reprendrait un peu le principe de l'Encyclopédie approximative du rock, mais pour tout. Il serait presque aussi drôle. Le monde va mal !
+Un blog anglophone ([Some Kind of Explanation](http://somekindofexplanation.blogspot.co.uk/)) reprendrait un peu le principe de l'Encyclopédie approximative du rock, mais pour tout. Il serait presque aussi drôle. Le monde va mal !
 
 (merci Lola)

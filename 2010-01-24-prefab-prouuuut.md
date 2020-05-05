@@ -28,4 +28,4 @@ Mais sinon, rien, soyons francs, ne nous retient : on ne sait même plus quoi di
 Bref, pour qui n'a pas 40 ans en 2010, 2 possibilités : ne JAMAIS écouter Prefab Sprout, ou bien s'y risquer quand même, sachant qu'il est très probable d'avoir alors la moustache qui pousse, de voir un pantalon beige recouvrir ses jambes et un bandana investir ses cheveux.
 
 Liens :
-- Évidemment, rien de Prefab Sprout, mais plutôt, [*Canada*->http://www.youtube.com/watch?v=nBM19HS8lj8] de __The Field Mice__, moins connu, mais bien meilleur en tant que groupe 80s.
+- Évidemment, rien de Prefab Sprout, mais plutôt, [*Canada*](http://www.youtube.com/watch?v=nBM19HS8lj8) de __The Field Mice__, moins connu, mais bien meilleur en tant que groupe 80s.

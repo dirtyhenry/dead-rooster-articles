@@ -10,4 +10,4 @@ On change légèrement par rapport aux deux dernières chansons du jour : "Vive 
 
 <iframe src="http://player.vimeo.com/video/65736943" width="600" height="450" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
-(via [Stereogum->http://stereogum.com/1344071/the-mary-onettes-dont-forget-video-stereogum-premiere/video/])
+(via [Stereogum](http://stereogum.com/1344071/the-mary-onettes-dont-forget-video-stereogum-premiere/video/))

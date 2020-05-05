@@ -37,7 +37,7 @@ Il paraît fastidieux d'énumérer tous les temps forts de l'album, mais tout de
 Bref, pour conclure, n'ayons pas peur de nous emballer un peu, et écrivons-le haut et fort : ce disque est un chef-d'œuvre et mérite, pour l'instant, sa place au sommet de notre podium 2009.
 
 Liens :
-- Le disque en écoute intégrale sur [deezer->http://www.deezer.com/fr/music/benjamin-biolay/la-superbe-392891].
-- Le clip de [*La superbe*->http://www.youtube.com/watch?v=xtmVTfGJUzA].
+- Le disque en écoute intégrale sur [deezer](http://www.deezer.com/fr/music/benjamin-biolay/la-superbe-392891).
+- Le clip de [*La superbe*](http://www.youtube.com/watch?v=xtmVTfGJUzA).
 
-Photo : [Andrés Bortnik->http://www.bortnik.cl/] / [http://www.flickr.com/photos/potq->http://www.flickr.com/photos/potq]
+Photo : [Andrés Bortnik](http://www.bortnik.cl/] / [http://www.flickr.com/photos/potq->http://www.flickr.com/photos/potq)

@@ -12,7 +12,7 @@ tags:
 - Albums
 - Herman Düne
 ---
-Il s'appelle André Herman Düne, ou alors Ben Haschish, Ben Dope, ou [Stanley Brinks->http://www.myspace.com/therealstanleybrinks]... Finalement, peu importe l'étiquette. Le gars est tout de suite identifiable à sa voix : hésitante mais en place, aiguë mais pénétrante.
+Il s'appelle André Herman Düne, ou alors Ben Haschish, Ben Dope, ou [Stanley Brinks](http://www.myspace.com/therealstanleybrinks)... Finalement, peu importe l'étiquette. Le gars est tout de suite identifiable à sa voix : hésitante mais en place, aiguë mais pénétrante.
 
 Cet homme est plein de paradoxes : il a lâché le groupe familial à l'automne 2006, juste avant la tournée, alors qu'ils achevaient leur album le mieux réalisé à ce jour (*Giant*). Sans doute la peur du (relatif) succès, la peur d'être reconnu dans la rue... Bref, André s'expatrie à Berlin, publie dans la foulée un album solo (*Täglich Brot*) et change ensuite de patronyme. Cela dit, il est peut-être un peu rapide de couvrir 6 mois de son existence en 3 lignes.
 

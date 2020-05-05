@@ -21,4 +21,4 @@ Les perles de la semaine :
 
 - "Johann Audel a marqué 3 buts cette journée, il sera sûrement encore en tête du classement des buteurs en novembre"
 
-Abonnez-vous sans attendre au [Podcast On refait le match->http://www.rtl.fr/emission/on-refait-le-match-avec-eugene-saccomano].
+Abonnez-vous sans attendre au [Podcast On refait le match](http://www.rtl.fr/emission/on-refait-le-match-avec-eugene-saccomano).

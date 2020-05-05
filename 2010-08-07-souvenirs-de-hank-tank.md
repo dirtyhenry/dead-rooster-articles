@@ -34,6 +34,6 @@ Finalement Keren Ann et ses musiciens arrivent sur scène et dès leur apparitio
 
 Voilà, le brouillon s'arrête là. Tant pis pour Keren Ann.
 
-Mais le bon côté de la chose, c'est que je me suis souvenu de Hank & Tank. Visiblement, le groupe n'a toujours pas explosé et a une présence très sporadique sur le net. [Un MySpace qui atteint à peine les 7000 visites depuis 2008->http://www.myspace.com/hankntank], un MP3 sur Amazon, strictement rien sur iTunes. Mais malgré tout, une excellente vidéo sur YouTube. Considérez vous donc faire partie des happy few. Vous connaissez Hank & Tank.
+Mais le bon côté de la chose, c'est que je me suis souvenu de Hank & Tank. Visiblement, le groupe n'a toujours pas explosé et a une présence très sporadique sur le net. [Un MySpace qui atteint à peine les 7000 visites depuis 2008](http://www.myspace.com/hankntank), un MP3 sur Amazon, strictement rien sur iTunes. Mais malgré tout, une excellente vidéo sur YouTube. Considérez vous donc faire partie des happy few. Vous connaissez Hank & Tank.
 
 <object width="500" height="400"><param name="movie" value="http://www.youtube.com/v/cWDXydo9SoU&hl=fr_FR&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/cWDXydo9SoU&hl=fr_FR&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="400"></embed></object>

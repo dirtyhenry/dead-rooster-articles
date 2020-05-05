@@ -27,6 +27,6 @@ tags:
 -# Jason Falkner - *This Time**
 -# Just Jack - *Writer's Block*
 
-[Ecouter la compile sur Spotify -> http://open.spotify.com/user/guiguilele/playlist/5ZO0DMFEXTssWLRooaL20C]
+[Ecouter la compile sur Spotify ]( http://open.spotify.com/user/guiguilele/playlist/5ZO0DMFEXTssWLRooaL20C)
 
 les titres avec astérisque sont indisponibles

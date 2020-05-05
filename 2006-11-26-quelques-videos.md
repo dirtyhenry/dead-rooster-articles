@@ -12,17 +12,17 @@ tags:
 ---
 <h2>Bombay TV</h2>
 
-[Bombay TV->http://www.grapheine.com/bombaytv] est un site qui vous permet d'ajouter vos propres sous-titres à des extraits de films de Bollywood au potentiel comique étourdissant.
+[Bombay TV](http://www.grapheine.com/bombaytv) est un site qui vous permet d'ajouter vos propres sous-titres à des extraits de films de Bollywood au potentiel comique étourdissant.
 
 Quelques exemples :
 
-- [*Je veux des frites*->http://www.grapheine.com/bombaytv/play_fr.php?id=1778726], sur Bombay TV
+- [*Je veux des frites*](http://www.grapheine.com/bombaytv/play_fr.php?id=1778726), sur Bombay TV
 
-- [*L'homme et l'éléphant*->http://www.grapheine.com/bombaytv/play_fr.php?id=1779726], toujours sur Bombay TV
+- [*L'homme et l'éléphant*](http://www.grapheine.com/bombaytv/play_fr.php?id=1779726), toujours sur Bombay TV
 
 <h2>Mozinor</h2>
 
-[Mozinor->http://www.mozinor.com/] est un site de détournement d'extraits de film : on garde 90% des images, on fait quelques inserts et on redouble le bordel. Florilège...
+[Mozinor](http://www.mozinor.com/) est un site de détournement d'extraits de film : on garde 90% des images, on fait quelques inserts et on redouble le bordel. Florilège...
 
 <h3>Mozinor refait James Bond</h3>
 

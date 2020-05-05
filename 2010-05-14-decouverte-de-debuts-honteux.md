@@ -16,6 +16,6 @@ Quand on cherche l'actualité d'un artiste, en l'occurrence celle de __Keren Ann
 
 Ainsi, en 1999, à un an de la sortie de son premier album, *La Biographie de Luka Philipsen*, Keren Ann faisait partie du groupe __Shelby__.
 
-Shelby aura laissé dans l'histoire un simple CD 3 titres qui les plaçait en position de force [pour devenir les Joan Osborne français->http://www.dailymotion.com/video/x25ohb_joan-osborne-one-of-us_music]. Dieu merci, il n'en fut rien : Keren Ann s'en alla sur des chemins bien plus honorables, tout comme un certain Benjamin Biolay, créédité comme coauteur du fabuleux *1+1* :
+Shelby aura laissé dans l'histoire un simple CD 3 titres qui les plaçait en position de force [pour devenir les Joan Osborne français](http://www.dailymotion.com/video/x25ohb_joan-osborne-one-of-us_music). Dieu merci, il n'en fut rien : Keren Ann s'en alla sur des chemins bien plus honorables, tout comme un certain Benjamin Biolay, créédité comme coauteur du fabuleux *1+1* :
 
 <iframe width="540" height="405" src="http://www.youtube.com/embed/YgTwGOGoSu0" frameborder="0" allowfullscreen></iframe>

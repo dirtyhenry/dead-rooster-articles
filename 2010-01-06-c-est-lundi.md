@@ -10,4 +10,4 @@ categories:
 tags:
 - Katerine
 ---
-...et c'est jour de fête pour Katerine, qui s'offre [une reprise de ce bon vieux Jessé Garon'->http://www.katerinefrancisetsespeintres.com/01.html]. Pour les moins fortunés, Jessé refourgue aussi ses guitares et ses bananes. Le monde va mal !
+...et c'est jour de fête pour Katerine, qui s'offre [une reprise de ce bon vieux Jessé Garon'](http://www.katerinefrancisetsespeintres.com/01.html). Pour les moins fortunés, Jessé refourgue aussi ses guitares et ses bananes. Le monde va mal !

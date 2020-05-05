@@ -2,7 +2,7 @@
 layout: post
 title: Zoom sur le Zep
 description:
-  Après les Stones et [Bob Dylan->219] et en attendant [un probable ouvrage sur
+  Après les Stones et [Bob Dylan](219) et en attendant [un probable ouvrage sur
   Hendrix->http://www.tierslivre.net/spip/spip.php?article1373], François Bon
   s'était penché sur Led Zeppelin en septembre 2008 dans {Rock'n Roll}.
 author:
@@ -31,7 +31,7 @@ qui débutent sur scène sous le nom de New Yardbirds. Led Zep est né.
 Le livre commence quand la vie du groupe se termine, en septembre 1980, à la
 mort de Bonham, le batteur, dit Bonzo, lorsqu'une énième cuite se finit dans le
 style le plus glorieux du rock'n'roll : l'étouffement dans le vomi. Malgré
-plusieurs éphémères reformations depuis, [la dernière en 2007->402], le groupe
+plusieurs éphémères reformations depuis, [la dernière en 2007](402), le groupe
 ne survivra pas à cet événement tragique. François Bon repart alors à la genèse
 du groupe.
 
@@ -111,4 +111,4 @@ se marrer des anecdotes de Bonzo et cie.
 <hr />
 
 <img src="/IMG/arton219.jpg" alt="Bob Dylan, une biographie" width="100px" />
-[Relire le post consacré à l'ouvrage de François Bon sur Bob Dylan->219]
+[Relire le post consacré à l'ouvrage de François Bon sur Bob Dylan](219)

@@ -22,4 +22,4 @@ Ce sont trois bonnes raisons d'aller voir ce film. Y'en a sûrement d'autres, c'
 
 Y'a même des animaux de la ferme, alors c'est pour dire qu'on trouve vraiment à boire et à manger dans ce film...
 
-Découvrez plus d'info autour du film via [Allociné->http://www.allocine.fr/film/fichefilm_gen_cfilm=108851.html].
+Découvrez plus d'info autour du film via [Allociné](http://www.allocine.fr/film/fichefilm_gen_cfilm=108851.html).

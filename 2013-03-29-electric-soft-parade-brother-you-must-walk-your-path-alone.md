@@ -10,6 +10,6 @@ Entre jouer avec Brakes ou accompagner Ben Kweller sur scène, les frangins d'El
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/qn5vYtM1gws" frameborder="0" allowfullscreen></iframe>
 
-En 2007, on écoutait [*If That’s The Case, Then I Don’t Know*->381]. Ça ne nous rajeunit pas.
+En 2007, on écoutait [*If That’s The Case, Then I Don’t Know*](381). Ça ne nous rajeunit pas.
 
 (via Carole)

@@ -12,9 +12,9 @@ categories:
 tags:
 - Single
 ---
-{*The New Pornographers*} est un “super-groupe”, c'est-à-dire super au sens "composé de membres qui ont tous un autre groupe par ailleurs" ([leur page Wikipedia en donne le détail->http://fr.wikipedia.org/wiki/The_New_Pornographers]).
+{*The New Pornographers*} est un “super-groupe”, c'est-à-dire super au sens "composé de membres qui ont tous un autre groupe par ailleurs" ([leur page Wikipedia en donne le détail](http://fr.wikipedia.org/wiki/The_New_Pornographers)).
 
-Même si ce genre de groupes est destiné à être le side-project des membres et destiné à mourir à plus ou moins long terme (se souvient-on encore de [The Good, The Bad & The Queen->http://fr.wikipedia.org/wiki/The_Good,_the_Bad_and_the_Queen] ?), là on en est quand même au 5ème album du groupe de Vancouver. 
+Même si ce genre de groupes est destiné à être le side-project des membres et destiné à mourir à plus ou moins long terme (se souvient-on encore de [The Good, The Bad & The Queen](http://fr.wikipedia.org/wiki/The_Good,_the_Bad_and_the_Queen) ?), là on en est quand même au 5ème album du groupe de Vancouver. 
 
 *Together* est ainsi sorti ce mardi et figurez vous que, si je croyais que c'était nul comme groupe, et bien le single, *Your Hands (Together)*, et le clip qui va avec, vont sans doute me faire reconsidérer leur cas :
 

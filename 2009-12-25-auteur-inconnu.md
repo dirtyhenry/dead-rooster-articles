@@ -65,9 +65,9 @@ comments:
   title: Producteur inconnu
   content: Non juste ultra de fan de Jason Falkner  ;)
 ---
-En ces temps de "best of", de "meilleur de 2009", de "top five" et autre "top of the pops", il serait superflu de proposer notre bilan de l'année (de toute façon, c'est simple, le disque de l'année, c'est *[La Superbe->http://www.deadrooster.org/Du-beau-du-bon-du-Biolay]* de Benjamin Biolay et la chanson de l'année, c'est *Brandt Rhapsodie* de Benjamin Biolay). Il faut donc trouver un autre sujet de discussion musicale. Et pourquoi ne parlerait-on pas de __Jason Falkner__ ? Oui, pourquoi pas, hein ?
+En ces temps de "best of", de "meilleur de 2009", de "top five" et autre "top of the pops", il serait superflu de proposer notre bilan de l'année (de toute façon, c'est simple, le disque de l'année, c'est *[La Superbe](http://www.deadrooster.org/Du-beau-du-bon-du-Biolay)* de Benjamin Biolay et la chanson de l'année, c'est *Brandt Rhapsodie* de Benjamin Biolay). Il faut donc trouver un autre sujet de discussion musicale. Et pourquoi ne parlerait-on pas de __Jason Falkner__ ? Oui, pourquoi pas, hein ?
 
-Alors contrairement à *[certains->http://www.deadrooster.org/Good-Evening-Sir-Paulo]*, et même s'il a bossé avec, il n'est ni inutile, ni insultant de présenter Jason Falkner. Avant tout, on a envie de dire que Jason, c'est un mec sympa ! Y a qu'à voir la liste des gens avec qui il a collaboré au cours de ces dernières années : Paulo donc, mais aussi Beck, Air, Daniel Johnston, Brendan Benson. Il semblerait qu'il suffit de l'appeler pour que, tout de suite, le brave Jason rapplique. En même temps, vu qu'il fait tout sur ses propres albums (Qui écrit les chansons ? C'est lui ! Qui joue de tous les instruments ? C'est lui ! La production ? C'est lui ! Je vous laisse deviner qui est derrière la table de mixage...), on comprend qu'il doit avoir envie de voir du monde de temps en temps.
+Alors contrairement à *[certains](http://www.deadrooster.org/Good-Evening-Sir-Paulo)*, et même s'il a bossé avec, il n'est ni inutile, ni insultant de présenter Jason Falkner. Avant tout, on a envie de dire que Jason, c'est un mec sympa ! Y a qu'à voir la liste des gens avec qui il a collaboré au cours de ces dernières années : Paulo donc, mais aussi Beck, Air, Daniel Johnston, Brendan Benson. Il semblerait qu'il suffit de l'appeler pour que, tout de suite, le brave Jason rapplique. En même temps, vu qu'il fait tout sur ses propres albums (Qui écrit les chansons ? C'est lui ! Qui joue de tous les instruments ? C'est lui ! La production ? C'est lui ! Je vous laisse deviner qui est derrière la table de mixage...), on comprend qu'il doit avoir envie de voir du monde de temps en temps.
 
 Mais surtout, Jason, c'est un peu notre ami imaginaire qui existerait vraiment mais qui ne saurait pas que c'est notre ami (oui, donc, finalement, "un ami imaginaire"). En effet, depuis plus de 10 ans et la sortie de *Author Unknown*, son premier (et sans doute meilleur) album, ce mec revient tous les 2, 3 ans avec des chansons intemporelles, pleines de mélodies touchantes qu'on jurerait avoir entendues mille fois avant, chez la bande à Paulo, chez les frères Davies ou chez d'autres groupes des sixties. Et donc, depuis 1996, on retrouve régulièrement notre pote, venu nous raconter plein de nouvelles histoires.
 
@@ -78,6 +78,6 @@ Car oui, je l'avoue, je suis "fan de base" : si j'ai investi dans le dernier Dan
 Pour finir, signalons à ceux qui n'en ont pas encore assez, que Jason a eu une vie artistique avant sa carrière solo (au sein de Jellyfish notamment), et qu'il a aussi un side project (TV Eyes) qui fait une sorte d'électro-pop plutôt pas mal (enfin, pour le fan de base j'imagine !).
 
 Liens :
-- [5 titres->http://www.deezer.com/listen-3915256] tirés des 2 premiers albums (*Miss Understanding* à écouter en priorité)
-- le [site officiel->http://www.jasonfalkner.net]
-- le [myspace->http://www.myspace.com/jasonfalkner]
+- [5 titres](http://www.deezer.com/listen-3915256) tirés des 2 premiers albums (*Miss Understanding* à écouter en priorité)
+- le [site officiel](http://www.jasonfalkner.net)
+- le [myspace](http://www.myspace.com/jasonfalkner)

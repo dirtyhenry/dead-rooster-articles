@@ -12,7 +12,7 @@ categories:
 tags:
 - Trésor Pop
 ---
-{*Lee Hazlewood*} est un génie, certes complètement décédé, mais qui a écrit des tubs universellement connus (parmi lesquels [*These Boots Are Made For Walkin*->http://www.youtube.com/watch?v=yRkovnss7sg] pour Nancy Sinatra) sans que son nom n'arrive à atteindre une aussi grosse notoriété.
+{*Lee Hazlewood*} est un génie, certes complètement décédé, mais qui a écrit des tubs universellement connus (parmi lesquels [*These Boots Are Made For Walkin*](http://www.youtube.com/watch?v=yRkovnss7sg) pour Nancy Sinatra) sans que son nom n'arrive à atteindre une aussi grosse notoriété.
 
 Parmi les chefs d'œuvre trop méconnus de l'artiste, déterrons cette fable de *Jose*, l'enfant de la terre mexicaine qui va devenir le torero le plus classe de l'histoire en 4 minutes et 34 secondes.
 

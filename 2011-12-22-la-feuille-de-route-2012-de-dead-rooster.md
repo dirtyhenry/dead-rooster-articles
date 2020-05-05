@@ -1,14 +1,14 @@
 ---
 layout: post
 title: La feuille de route 2012 de Dead Rooster
-description: La semaine dernière, on fait [le bilan 2011->969], il est temps de passer
+description: La semaine dernière, on fait [le bilan 2011](969), il est temps de passer
   aux résolutions pour 2012.
 authors:
   - Dirty Henry
 wordpress_id: 975
 date: '2011-12-22 12:33:54 +0100'
 ---
-La semaine dernière, on a fait [le bilan 2011->969], il est temps de passer aux résolutions pour 2012.
+La semaine dernière, on a fait [le bilan 2011](969), il est temps de passer aux résolutions pour 2012.
 
 En 2011, on a essayé de faire un post au moins par semaine. C'est bien mais ça prend du temps. Du coup, en 2012, on va essayer de se focaliser davantage sur pourquoi Dead Rooster à été créé, c'est-à-dire partager des découvertes et des opinions musique et ciné mais aussi diffuser des créations.
 
@@ -23,8 +23,8 @@ Concrètement, voici le programme en 10 points de Dead Rooster en 2012 :
 Toutes ces nouveautés seront introduites plus en détail au fur et à mesure, lors des semaines à venir.
 
 Pour ne rien rater de l'actualité du site, trois moyens sont disponibles :
-- s'abonner au [flux RSS du site->http://feeds.feedburner.com/deadroosterorg] : le meilleur moyen d'être informé de tout ce qui est publié sur ce site
-- suivre le [twitter->http://twitter.com/dead__rooster] : c'est là qu'on poste des liens de trucs sympas à découvrir sur le web, quelques brèves ne pouvant faire l'objet d'un post et puis on peut y causer ensemble
-- s'inscrire sur la [page Facebook->http://www.facebook.com/DeadRoosterBlog], sans doute la meilleure option si vous n'êtes pas familier avec les flux RSS ou si vous n'avez pas de compte Twitter : toutes les informations relayées par ces deux canaux y sont agrégées et là aussi, on peut y causer ensemble !
+- s'abonner au [flux RSS du site](http://feeds.feedburner.com/deadroosterorg) : le meilleur moyen d'être informé de tout ce qui est publié sur ce site
+- suivre le [twitter](http://twitter.com/dead__rooster) : c'est là qu'on poste des liens de trucs sympas à découvrir sur le web, quelques brèves ne pouvant faire l'objet d'un post et puis on peut y causer ensemble
+- s'inscrire sur la [page Facebook](http://www.facebook.com/DeadRoosterBlog), sans doute la meilleure option si vous n'êtes pas familier avec les flux RSS ou si vous n'avez pas de compte Twitter : toutes les informations relayées par ces deux canaux y sont agrégées et là aussi, on peut y causer ensemble !
 
 On se revoit en 2012 !

@@ -16,7 +16,7 @@ tags:
 
 Venant de Los Angeles, ayant publié leur 1er album à la fin du mois de mars sur le label Sub Pop, Dum Dum Girls offre un single génial, *Jail La La*, à la production bien dans l'air du temps mais qui rappellent de chaleureux souvenirs de plusieurs décennies écoulées (Phil Spector, Breeders, etc.). A noter qu'elles seront en concert au point éphémère le 20 mai prochain.
 
-L'album est en écoute [ici->http://wearedumdumgirls.com/] et le MP3 peut être téléchargé [là->http://stereogum.com/319791/dum-dum-girls-jail-la-la-video/video/].
+L'album est en écoute [ici](http://wearedumdumgirls.com/] et le MP3 peut être téléchargé [là->http://stereogum.com/319791/dum-dum-girls-jail-la-la-video/video/).
 
 <object width="400" height="270"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=10559543&server=vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=&fullscreen=1" /><embed src="http://vimeo.com/moogaloop.swf?clip_id=10559543&server=vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=&fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="400" height="270"></embed></object><p><a href="http://vimeo.com/10559543">Dum Dum Girls - Jail La La</a> from <a href="http://vimeo.com/subpop">Sub Pop Records</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
 

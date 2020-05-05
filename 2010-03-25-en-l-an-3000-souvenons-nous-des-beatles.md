@@ -10,4 +10,4 @@ Vous vous souvenez de ce groupe composé de John Lennon, Paul McKenzie, Greg Hut
 
 <object width="500" height="350"><param name="movie" value="http://www.youtube.com/v/3Z2vU8M6CYI&hl=fr_FR&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/3Z2vU8M6CYI&hl=fr_FR&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="350"></embed></object>
 
-La vidéo est signée Scott Gairdner, un mec fun de Los Angeles dont [voici le site internet->http://www.scottgairdner.com/]. Vous pouvez télécharger le MP3 de Sgt. Petsounds [ici->http://www.mediafire.com/?zy5zznznmy1].
+La vidéo est signée Scott Gairdner, un mec fun de Los Angeles dont [voici le site internet](http://www.scottgairdner.com/]. Vous pouvez télécharger le MP3 de Sgt. Petsounds [ici->http://www.mediafire.com/?zy5zznznmy1).

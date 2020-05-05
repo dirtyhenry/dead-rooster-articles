@@ -12,4 +12,4 @@ tags:
 ---
 <iframe width="540" height="304" src="http://www.youtube.com/embed/XjbU4F5nwAw" frameborder="0" allowfullscreen></iframe>
 
-Katerine, Francis et ses peintres offrent une vidéo pour [ce titre que nous avons déjà tant aimé->704]. Les 52 reprises dans l'espace sont désormais disponible en disque, et en concert le 25 octobre à Paris (Gaîté Lyrique).
+Katerine, Francis et ses peintres offrent une vidéo pour [ce titre que nous avons déjà tant aimé](704). Les 52 reprises dans l'espace sont désormais disponible en disque, et en concert le 25 octobre à Paris (Gaîté Lyrique).

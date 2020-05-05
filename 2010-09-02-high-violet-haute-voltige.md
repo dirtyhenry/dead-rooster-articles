@@ -2,7 +2,7 @@
 layout: post
 title: High Violet, haute voltige
 description: '"The National est un groupe qui ne m''a jamais vraiment convaincu sur
-  disque mais que je sais briller sur scène." [C''est ce que je pouvais dire->581]
+  disque mais que je sais briller sur scène." [C''est ce que je pouvais dire](581)
   jusqu''à la sortie d''{High Violet}.'
 authors:
   - Dirty Henry
@@ -14,7 +14,7 @@ tags:
 - Yann Tiersen
 - The National
 ---
-"The National est un groupe qui ne m'a jamais vraiment convaincu sur disque mais que je sais briller sur scène." [C'est ce que je pouvais dire->581] jusqu'à la sortie d'*High Violet*.
+"The National est un groupe qui ne m'a jamais vraiment convaincu sur disque mais que je sais briller sur scène." [C'est ce que je pouvais dire](581) jusqu'à la sortie d'*High Violet*.
 
 Peu avant la sortie du disque, leur 5ème, en mai, les vidéos live de *Terrible Love* m'avaient emballé. C'est ce morceau qu'on retrouve en ouverture du disque. Qu'est-ce qui fait le charme de ce morceau ? Bien sûr, il y a le lent crescendo. On part d'une intro minimaliste et vaporeuse et on termine sur une envolée diablement électrique et incroyablement dense. Ça marche à tous les coups ou presque. Mais il n'y a pas que ça. Dans *Terrible Love*, il y a Bryan Devendorf, le batteur du groupe.
 

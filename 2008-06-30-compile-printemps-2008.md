@@ -33,4 +33,4 @@ tags:
 -# *I Don't Like You Anymore* - The Last Shadow Puppets
 -# *Kids* - MGMT
 
-[<img src="/squelettes/images/spotify-button.png" />->http://open.spotify.com/user/dirtyhenry/playlist/0KuVlvdrbsEHqfe8GicspZ]
+[<img src="/squelettes/images/spotify-button.png" />](http://open.spotify.com/user/dirtyhenry/playlist/0KuVlvdrbsEHqfe8GicspZ)

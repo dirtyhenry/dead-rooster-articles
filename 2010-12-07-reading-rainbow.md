@@ -24,7 +24,7 @@ comments:
 ---
 {*Reading Rainbow*} a déjà été à l'honneur dans deux compiles du lundi et vient de réaliser un clip. Allons-les voir de plus près.
 
-Reading Rainbow est un groupe basé à Philadelphia. Duo composé de Sarah Everton et Rob Garcia, ils ont déjà eu l'honneur de figurer dans 2 compiles du lundi avec [*Wasting Time* sur la 5->712] et [*Always On My Mind* sur la 10->725].
+Reading Rainbow est un groupe basé à Philadelphia. Duo composé de Sarah Everton et Rob Garcia, ils ont déjà eu l'honneur de figurer dans 2 compiles du lundi avec [*Wasting Time* sur la 5](712] et [*Always On My Mind* sur la 10->725).
 
 Un clip existe d'ailleurs pour ce dernier titre, réalisé par Amanda Finn, de Family Trees :
 
@@ -35,10 +35,10 @@ Le groupe est déjà auteur de deux albums :
 - Son successeur, *Prism Eyes* vient de sortir, espérons qu'il sera distribué en France.
 
 Quelques liens pour écouter tout ça :
-- [le site de Reading Rainbow->http://rreadingrrainbow.blogspot.com/]
-- [Mystical Participation sur Bandcamp->http://readingrainbow.bandcamp.com/album/mystical-participation]
-- [Prism Eyes sur Bandcamp->http://readingrainbow.bandcamp.com/album/prism-eyes]
+- [le site de Reading Rainbow](http://rreadingrrainbow.blogspot.com/)
+- [Mystical Participation sur Bandcamp](http://readingrainbow.bandcamp.com/album/mystical-participation)
+- [Prism Eyes sur Bandcamp](http://readingrainbow.bandcamp.com/album/prism-eyes)
 
-ps : j'ai aussi appris que le nom Reading Rainbow était celui d'[un show US pour enfant->http://en.wikipedia.org/wiki/Reading_Rainbow], dont voici le générique en bonus :
+ps : j'ai aussi appris que le nom Reading Rainbow était celui d'[un show US pour enfant](http://en.wikipedia.org/wiki/Reading_Rainbow), dont voici le générique en bonus :
 
 <object width="500" height="400"><param name="movie" value="http://www.youtube.com/v/c6j8EiWIVZs?fs=1&hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/c6j8EiWIVZs?fs=1&hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="400"></embed></object>
