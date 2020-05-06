@@ -4,16 +4,22 @@ title: Daft Punk - Get Lucky
 authors:
   - Dirty Henry
 wordpress_id: 1225
-date: '2013-05-06 14:19:49 +0200'
+date: "2013-05-06 14:19:49 +0200"
 ---
-Ça ne vous avait sûrement pas échappé : Daft Punk est de retour avec *Get Lucky*. C'est pas le core business de Dead Rooster, mais le fun l'est un peu plus. D'où ces 2 vidéos pour vous égayer la journée.
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/iqsMRspYQEY" frameborder="0" allowfullscreen></iframe>
+Ça ne vous avait sûrement pas échappé : **Daft Punk** est de retour avec _Get
+Lucky_. C'est pas le core business de Dead Rooster, mais le fun l'est un peu
+plus. D'où ces 2 vidéos pour vous égayer la journée.
 
-(inspiré de [la discudanse de Nicolas et Bruno](http://youtu.be/ha9mwmdXtmk))
+{% youtube iqsMRspYQEY %}
 
-et le volume 2 : 
+(inspiré de [la discudanse de Nicolas et Bruno][1])
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/4rV2pfTbBxU" frameborder="0" allowfullscreen></iframe>
+et le volume 2 :
 
-(via [#benoitlebreau](https://twitter.com/benoitlebreau/))
+{% youtube 4rV2pfTbBxU %}
+
+(via [@benoitlebreau][2])
+
+[1]: https://youtu.be/UAJpHiCz_Pk "Discudance"
+[2]: https://twitter.com/benoitlebreau/
