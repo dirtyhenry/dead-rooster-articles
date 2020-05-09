@@ -6,9 +6,8 @@ description:
   frères Coen aiment le folk.
 authors:
   - Dirty Henry
+cover: llewyn-davis.jpg
 ---
-
-{% asset llewyn-davis.jpg %}
 
 Au cas où certains en doutaient encore, je crois qu'on peut affirmer que les
 frères Coen aiment le folk.
@@ -69,7 +68,7 @@ vainqueur de l'oscar de la meilleure chanson originale en 2010.
 
 [On parle de la suite très vite][7]…
 
-<h2>Bonus</h2>
+## Bonus
 
 L'affiche du film n'est-elle pas un hommage aux cover arts de Bob Dylan (_The
 Freewheelin' Bob Dylan_ pour le décor et _The Times They Are A-Changin'_ pour
@@ -78,11 +77,10 @@ les couleurs… et un magicien pour transformer une fille en chat) ?
 {% asset llewyn-dylan.png %}
 
 [1]: http://www.allocine.fr/film/fichefilm_gen_cfilm=195051.html
+[2]: https://deadrooster.org/zoom-sur-le-zim/
 [3]: http://en.wikipedia.org/wiki/Jake_Johnson
 [4]:
   http://www.crushable.com/2013/07/02/entertainment/inside-llewyn-davis-movie-trailer-justin-timberlake/
 [5]: http://en.wikipedia.org/wiki/Mumford_%26_Sons
 [6]: http://en.wikipedia.org/wiki/The_Big_Lebowski
-
-[2]: {% post_url 2008-10-27-zoom-sur-le-zim %} 
-[7]: {% post_url 2013-12-03-outside-llewyn-davis %}
+[7]: https://deadrooster.org/outside-llewyn-davis/
