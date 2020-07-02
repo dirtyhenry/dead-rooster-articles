@@ -4,6 +4,10 @@ title: C'est la crise !
 authors:
   - Joe Gantdelaine
 wordpress_id: 582
-date: '2010-03-29 17:24:47 +0200'
+date: "2010-03-29 17:24:47 +0200"
+category: Le monde va mal
+cover: ribery-tracteur.jpg
 ---
-Le métier de footballeur ne permet plus de se payer de puissantes cylindrées. Même les meilleurs sont désormais contraints au cotracturage ! Le monde va mal !
+
+Le métier de footballeur ne permet plus de se payer de puissantes cylindrées.
+Même les meilleurs sont désormais contraints au cotracturage ! Le monde va mal !
