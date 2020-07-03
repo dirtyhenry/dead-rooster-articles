@@ -3,7 +3,6 @@ layout: post
 title: The Strokes - First impressions of the earth
 authors:
   - Dirty Henry
-wordpress_id: 275
 ---
 
 {% asset strokes-first-impressions-of-the-earth.jpg %}
