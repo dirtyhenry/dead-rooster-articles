@@ -13,7 +13,7 @@ cover: matthew-caws.jpg
 L’histoire entre moi et Nada Surf a véritablement commencé un après-midi de
 juillet 1997.
 
-Ma soeur avait remarqué que je passais leur single [_Popular _][1] en boucle et
+Ma soeur avait remarqué que je passais leur single [_Popular_][1] en boucle et
 en avait profité pour prendre en main mon émancipation vis-à-vis de l'autorité
 parentale : elle m’emmènerait à leur concert, un concert de rock donc, lieu de
 concentration de tous les maux de la société actuelle : alcool, drogue, sexe et
