@@ -10,7 +10,7 @@ categories:
   - Artistes
 tags:
   - Albums
-	- Supergrass
+  - Supergrass
 cover: supergrass.jpg
 ---
 
