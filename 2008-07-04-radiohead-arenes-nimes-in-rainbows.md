@@ -38,7 +38,7 @@ comments:
     date: "2008-07-08 23:14:00 +0200"
     title: Une tête de radio au pays des Jean-Mi
     content: Je confirme, j’y étais le 14. Je me disais aussi !
-- cover: radiohead.jpg
+cover: radiohead.jpg
 ---
 
 Dans le paysage rock actuel, il existe un certain type de groupes que le fan
