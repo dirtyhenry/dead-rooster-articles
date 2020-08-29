@@ -22,7 +22,7 @@ irait bien refaire un tour du côté de chez Swan, l'imagerie actuelle est peu
 flatteuse pour qui se contente des poncifs modernes.
 
 Tout semble d'ailleurs jouer en défaveur du peuple batave. Nous ne reviendrons
-pas ici sur les faits et méfaits des Oranjes, qui depuis Johan Cruiff et Marco
+pas ici sur les faits et méfaits des Oranjes, qui depuis Johan Cruyff et Marco
 Van Basten, peinent à nous offrir des modèles footballistiques au delà de tout
 soupçon (une requête "Pays Bas Portugal" sur [Youtube][1] suffit à illustrer ces
 propos). Évoquons plutôt le versant musical de l'affaire. Cependant, pour ne pas
