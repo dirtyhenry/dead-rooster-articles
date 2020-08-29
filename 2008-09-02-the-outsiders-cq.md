@@ -10,7 +10,7 @@ categories:
   - Artistes
 tags:
   - Albums
-	- The Outsiders
+  - The Outsiders
 cover: the-outsiders.jpg
 ---
 
