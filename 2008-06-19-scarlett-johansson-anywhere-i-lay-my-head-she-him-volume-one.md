@@ -30,7 +30,7 @@ le fort de Mr Sitek mais c'est pourtant lorsqu'il s'y essaie que les morceaux
 convainquent par leur mélancolie froide. On conseille à Scarlett de mieux
 s'entourer la prochaine fois.
 
-Niveau du disque : **Ramoneur/tapissier **
+Niveau du disque : **Ramoneur/tapissier**
 
 {% asset zooey-deschanel-2.jpg %}
 
