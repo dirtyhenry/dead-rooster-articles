@@ -8,7 +8,7 @@ date: "2008-08-29 14:44:37 +0200"
 categories:
   - Artistes
 tags:
-	- Soledad Brothers
+  - Soledad Brothers
 cover: soledad-brothers.jpg
 ---
 
