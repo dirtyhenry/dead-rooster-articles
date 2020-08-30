@@ -1,6 +1,6 @@
 ---
 layout: post
-title: De Montréal ? Ca vient des States !
+title: De Montréal ? Ça vient des States !
 authors:
   - Dirty Henry
 wordpress_id: 220
