@@ -3,9 +3,8 @@ layout: post
 title: Zoom sur le Zim
 authors:
   - Dirty Henry
+cover: zoom-zim.jpg
 ---
-
-{% asset zoom-zim.jpg %}
 
 **François Bon** vient de publier [_Rock'n roll_, un portrait de Led
 Zeppelin][1], le 3ème tome de sa trilogie de biographies rock entamée par celle
