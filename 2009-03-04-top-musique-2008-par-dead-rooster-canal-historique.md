@@ -182,12 +182,13 @@ Quelques liens utiles :
 
 - [Un mec qu'a tout compris](http://www.youtube.com/watch?v=qdYf3de-nHY)
 - [Le _Gospel Zone_ des Shadows of Knight](http://www.deezer.com/track/760963)
-- [_You Burn Me Up And Down_ de We The People](http://jiwa.fr/track/We-the-People-56181/Nuggets-Original-Artyfacts-From-the-First-Psychedelic-Era-1965-1968-disc-4-16748/You-Burn-Me-Up-And-Down-416504.html)
+- [_You Burn Me Up And Down_ de We The People][2]
 - [Lee et Nancy](http://www.youtube.com/watch?v=mQiDs9tKZv4)
 - [Nick Drake et ses trompettes](http://www.deezer.com/track/146153)
 - [**LA** chanson de l'année](http://www.deezer.com/track/985378)
 
 [1]: http://www.allmusic.com
+[2]: https://song.link/i/1470532632
 
 [i1]: {% post_url 2008-07-08-the-notwist-devil-you-plus-me %}
 
