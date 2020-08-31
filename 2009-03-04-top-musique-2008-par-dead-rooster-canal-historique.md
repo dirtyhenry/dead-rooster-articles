@@ -192,4 +192,4 @@ Quelques liens utiles :
 
 [i1]: {% post_url 2008-07-08-the-notwist-devil-you-plus-me %}
 
-[i2]: {% post_url 2008-09-09-route-du-rock-2008.md %}
+[i2]: {% post_url 2008-09-09-route-du-rock-2008 %}
