@@ -13,8 +13,8 @@ extrêmement classe. Dans la famille, c'est devenu un peu iconique. Du genre une
 partie de mon identité est basée sur le fait que j'avais ce truc.
 
 Hier, premier jour de maternelle en tant que papa. Un gamin dans la cour porte
-un tee-shirt Ghostbusters. Border de nom de Dieu de merde ! Quelles étaient les
-chances qu'un truc aussi improbable que ça arrive ?! Hasard spacio-temporel du
+un tee-shirt Ghostbusters. Bordel de nom de Dieu de merde ! Quelles étaient les
+chances qu'un truc aussi improbable que ça arrive ?! Hasard spacio-temporel du
 genre à te convaincre de rejoindre n'importe quel mouvement spirituel à la con.
 
 ---
