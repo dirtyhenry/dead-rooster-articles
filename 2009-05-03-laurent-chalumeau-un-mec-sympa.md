@@ -53,7 +53,7 @@ ses collaborations avec son pote De Caunes - qui maintenant que j'y pense
 dispose lui aussi de cette faculté très déroutante de pouvoir alterner le très
 bon et le très mauvais - est le sommet de sa carrière, ~~surveillons également
 leur prochaine collaboration pour _Le Montespan_, prochain film d'Antoine,
-scénarisé par Laurent~~ (le projet semble avoir été annulé).
+scénarisé par Laurent~~ (edit : le projet semble avoir été annulé).
 
 Photo : [©scottnj](http://www.flickr.com/photos/scottod/)
 
