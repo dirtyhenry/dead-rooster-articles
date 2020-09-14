@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Strokes - First impressions of the earth
+title: The Strokes - First Impressions of the Earth
 authors:
   - Dirty Henry
 ---
@@ -19,11 +19,11 @@ _The end has no end_.
 Et bien figurez vous que ces diables ont sorti leur 3ème album le 2 janvier et
 que ce disque est complètement oufesque (c'est bien simple, certains refrains ou
 riffs sont tellement obsédants qu'ils m'empêchent de dormir depuis plusieurs
-jours, même si j'exagère un poil). Donc, chers amis, ruez-vous sur cet album et
-particulièrement sur la 2 (le single), la 3 (le futur single), et la 12
-(j'estime que ces informations sont bien plus utiles que les noms des chansons
-qui ne seraient pas retenus, je vous connais, c'est tout le temps la même
-chose).
+jours, même si j'exagère un poil). Donc, chers amis, ruez-vous sur _First
+Impressions of the Earth_ et particulièrement sur la 2 (le single), la 3 (le
+futur single), et la 12 (j'estime que ces informations sont bien plus utiles que
+les noms des chansons qui ne seraient pas retenus, je vous connais, c'est tout
+le temps la même chose).
 
 - La 2, _Juicebox_, est sur [YouTube][2]
 - La 3, _Heart in a Cage_ :
