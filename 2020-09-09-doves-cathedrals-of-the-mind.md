@@ -23,8 +23,8 @@ hyper produit, à la densité épaisse sans être lourde.
 
 Je serais nettement plus indulgent qu'Assayas. J'avais pas mal saigné [_The Last
 Broadcast_][2] notamment par la qualité de l'enchaînement des trois derniers
-titres, et son single, _There Goes the Fear_, déjà vaguement évoqué [ici][i1]
-y'a pas mal de temps.
+titres, et son single, _There Goes the Fear_, déjà vaguement évoqué [ici][i1] y
+a pas mal de temps.
 
 [1]:
   https://www.franceinter.fr/emissions/very-good-trip/very-good-trip-08-septembre-2020
