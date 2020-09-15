@@ -9,6 +9,7 @@ categories:
   - Catégories
 tags:
   - Cinéma
+cover: julie-depardieu.jpg
 ---
 
 La naïveté a ses charmes et, bizarrement, quand les réalisateurs ont un scénario
