@@ -4,10 +4,17 @@ title: Go Johnny Moustache !
 authors:
   - Dirty Henry
 wordpress_id: 305
-date: '2006-04-24 15:34:00 +0200'
+date: "2006-04-24 15:34:00 +0200"
 categories:
-- Catégories
+  - Catégories
 tags:
-- Trucs marrants
+  - Trucs marrants
 ---
-<div><object width="480" height="381"><param name="movie" value="http://www.dailymotion.com/swf/x201h_marathon-de-la-danse&related=1"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.dailymotion.com/swf/x201h_marathon-de-la-danse&related=1" type="application/x-shockwave-flash" width="480" height="381" allowFullScreen="true" allowScriptAccess="always"></embed></object><br /><b><a href="http://www.dailymotion.com/video/x201h_marathon-de-la-danse">Marathon de la danse</a></b><br /><i>envoy&eacute; par <a href="http://www.dailymotion.com/roolian">roolian</a>.</i></div>
+
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
+  <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden" frameborder="0" type="text/html" src="https://www.dailymotion.com/embed/video/x201h" width="100%" height="100%" allowfullscreen></iframe>
+</div>
+
+La version complète, tragi-comique, est disponible [ici][1].
+
+[1]: https://www.ina.fr/video/CPB8405185302/overdanse-video.html
