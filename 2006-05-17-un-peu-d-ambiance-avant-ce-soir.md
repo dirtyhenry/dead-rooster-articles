@@ -4,6 +4,7 @@ title: Un peu d'ambiance avant ce soir
 authors:
   - Dirty Henry
 wordpress_id: 312
+cover: champions-league.jpg
 ---
 
 {% youtube BgomX3qD-iA %}
@@ -27,4 +28,4 @@ wordpress_id: 312
 >
 > Et espérons que les Rosbifs torcheront les Espagouins.
 
-ps : la dernière ligne de la chanson est de moi…
+PS : la dernière ligne de la chanson est de moi…
