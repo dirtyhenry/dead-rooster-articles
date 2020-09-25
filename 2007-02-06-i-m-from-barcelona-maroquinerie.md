@@ -36,7 +36,7 @@ présents arrivent avec un sacré attirail : machines à bulles de savon, ballon
 de baudruches gigantesques et sacs de confettis. Ainsi armé, le show est d'une
 efficacité redoutable.
 
-{% i-m-from-barcelona-2.png %}
+{% asset i-m-from-barcelona-2.png %}
 
 Cinq ou six musiciens clé, dont le leader, Emanuel Lundgren, assurent la base
 musicale du groupe tandis que tout autour, les autres membres font un peu ce
