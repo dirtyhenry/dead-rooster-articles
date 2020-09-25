@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "_Because of the Times_ - 3ème Kings of Leon"
+title: Because of the Times - 3ème Kings of Leon
 authors:
   - Dirty Henry
 wordpress_id: 347
