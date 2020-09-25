@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Et I'm from Barcelona à la Maroquinerie, c'était comment ?
+title: Et I’m from Barcelona à la Maroquinerie, c’était comment ?
 authors:
   - Dirty Henry
 wordpress_id: 356
@@ -25,8 +25,9 @@ Cleese… les références sont bonnes)
 
 La soirée commence par un décompte. Tiens, ils ne sont que 8 sur scène. Ah mais,
 en fait, c'est la 1ère partie, **Irene**. Pas mal, pas mal. En plus c'est un
-groupe sympa, ils offrent [plein de MP3 à télécharger gratuitement sur leur page
-web](http://www.irene.nu/], et [leur MySpace->http://www.myspace.com/ireneswe).
+groupe sympa, ils offrent
+[plein de MP3 à télécharger gratuitement sur leur page web](http://www.irene.nu/),
+et [leur MySpace](http://www.myspace.com/ireneswe).
 
 Mais cette fois, c'est la bonne, **I'm From Barcelona** entre en scène. On
 recompte. 1, 2, 3, etc. Le bloqueur restera bloqué à 16. Le taux d'absentéisme

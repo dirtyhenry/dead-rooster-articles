@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "*Our Earthly Pleasures* - 2nd Maxïmo Park"
+title: Our Earthly Pleasures - 2nd Maxïmo Park
 authors:
   - Dirty Henry
 wordpress_id: 350
