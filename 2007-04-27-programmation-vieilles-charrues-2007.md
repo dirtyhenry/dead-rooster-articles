@@ -1,24 +1,25 @@
 ---
 layout: post
 title: Programmation Vieilles Charrues 2007
-author:
-  display_name: ''
-  login: ''
-  email: ''
-  url: ''
+author: Dirty Henry
 wordpress_id: 378
-date: '2007-04-27 13:51:00 +0200'
+date: "2007-04-27 13:51:00 +0200"
 categories:
-- Artistes
+  - Artistes
 tags:
-- Herman Düne
+  - Herman Düne
+cover: vieilles-charrues-2007.png
 ---
-Ça y est <a href="http://www.vieillescharrues.asso.fr/festival/index.php">la programmation est tombée</a>.
 
-Les meilleurs moments :
-- __Jeudi__ : Rita Mitsouko et Katerine
-- __Vendredi__ : Arcade Fire, LCD Soundsystem, Clap Your Hands Say Yeah, Art Brut
-- __Samedi__ : Kaiser Chiefs, Emilie Simon, Sean Lennon, Justice, Herman Düne
-- __Dimanche__ : Klaxons… C'est à peu près tout
+Ça y est la programmation est tombée.
 
-Bref, on zappe le jeudi, on s'éclate sans limite vendredi et samedi parce que le dimanche on pourra faire la sieste pendant Yannick Noah.
+Les meilleurs moments :
+
+- **Jeudi** : Rita Mitsouko et Katerine
+- **Vendredi** : Arcade Fire, LCD Soundsystem, Clap Your Hands Say Yeah, Art
+  Brut
+- **Samedi** : Kaiser Chiefs, Emilie Simon, Sean Lennon, Justice, Herman Düne
+- **Dimanche** : Klaxons… C'est à peu près tout
+
+Bref, on zappe le jeudi, on s'éclate sans limite vendredi et samedi parce que le
+dimanche on pourra faire la sieste pendant Yannick Noah.
