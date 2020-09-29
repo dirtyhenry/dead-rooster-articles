@@ -79,7 +79,7 @@ du disque idéal, à savoir contenir entre 9 et 12 morceaux et durer entre 32 et
 38 minutes. Merci de ne pas les remettre en question, j'y ai réfléchi pendant de
 longues heures alors vous pouvez me faire confiance.
 
-**{Bonus**}
+## Bonus
 
 _Near Wild Heaven_ par R.E.M. :
 
@@ -87,7 +87,7 @@ _Near Wild Heaven_ par R.E.M. :
 
 _Oily Water_ par Blur :
 
-<iframe src="https://embed.spotify.com/?uri=spotify:track:4tRXWl0OES4ZwHAvyiCqOX" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
+{% spotify_track 4tRXWl0OES4ZwHAvyiCqOX %}
 
 _Resigned_ par Blur :
 
