@@ -20,9 +20,7 @@ Bourvil.
 
 Voilà la version originale :
 
-<object width="480" height="393"><param name="movie" value="http://www.dailymotion.com/swf/video/xk5w7"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed type="application/x-shockwave-flash" src="http://www.dailymotion.com/swf/video/xk5w7" width="480" height="393" allowfullscreen="true" allowscriptaccess="always"></embed></object><br /><b><a href="http://www.dailymotion.com/video/xk5w7_bourvil-ballade-nord-irlandaise">bourvil -
-ballade nord irlandaise</a></b><br /><i>envoy&eacute; par
-<a href="http://www.dailymotion.com/bisonravi1987">bisonravi1987</a>.</i>
+{% dailymotion xk5w7 %}
 
 Marion R. l'avait pronostiqué en deuz et marque donc 4 points. Elle prend place
 sur la 3ème marche du podium :

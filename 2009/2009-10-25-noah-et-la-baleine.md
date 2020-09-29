@@ -105,7 +105,7 @@ ce que donnent les titres du 2nd album sur disque"…
 [les concerts à emporter du groupe](http://www.blogotheque.net/Noah-and-the-Whale,4150)
 pendant ce temps-là)
 
-<div><object width="480" height="291"><param name="movie" value="http://www.dailymotion.com/swf/x5baf2"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.dailymotion.com/swf/x5baf2" type="application/x-shockwave-flash" width="480" height="291" allowfullscreen="true" allowscriptaccess="always"></object><br /><b><a href="http://www.dailymotion.com/video/x5baf2_913-noah-and-the-whale-episode-3_music">#91.3 Noah and the Whale - Episode 3</a></b><br /><i>envoy&eacute; par <a href="http://www.dailymotion.com/lablogotheque">lablogotheque</a>. - <a href="http://www.dailymotion.com/fr/channel/music">Regardez la dernière sélection musicale.</a></i></div>
+{% dailymotion x5baf2 %}
 
 La déception est digérée : on a réécouté le premier album (_Shape Of My Heart_
 et _5 Years Time_ sont toujours aussi bien) et revu des vidéos (où le groupe a

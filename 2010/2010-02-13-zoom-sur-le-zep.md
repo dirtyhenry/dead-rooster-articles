@@ -54,8 +54,7 @@ qui donne par ordre croissant d'intérêt :
   groupe, il est le garant de l'esprit du rock'n'roll au sein du groupe et, là,
   ça cause sérieux, et Bon adore !
 
-<object width="480" height="365"><param name="movie" value="http://www.dailymotion.com/swf/x1unb2"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.dailymotion.com/swf/x1unb2" width="480" height="365" allowfullscreen="true" allowscriptaccess="always"></embed></object><br /><b><a href="http://www.dailymotion.com/video/x1unb2_moby-dick-by-led-zeppelin_music">Moby
-Dick by Led Zeppelin</a></b><br />
+{% dailymotion x1unb2 %}
 
 Bonzo est un jeune batteur de la région de Birmingham. Ce qu'il aime, c'est
 taper sur des peaux et plus c'est fort, mieux c'est. Quand les baguettes ne lui

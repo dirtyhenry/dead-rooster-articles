@@ -20,7 +20,7 @@ de Jean-Patrick Capdevielle.
 
 L'originale :
 
-<object width="480" height="348"><param name="movie" value="http://www.dailymotion.com/swf/video/x32pfd"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed type="application/x-shockwave-flash" src="http://www.dailymotion.com/swf/video/x32pfd" width="480" height="348" allowfullscreen="true" allowscriptaccess="always"></embed></object>
+{% dailymotion x32pfd %}
 
 Toujours pas de changement au classement :
 
