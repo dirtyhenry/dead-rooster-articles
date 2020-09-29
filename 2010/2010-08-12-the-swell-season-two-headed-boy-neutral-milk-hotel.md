@@ -27,4 +27,4 @@ actuelle, Of Montreal en tête.
 
 Et forcément, la reprise est pas mal.
 
-<iframe frameborder="no" width="480" height="270" scrolling="no" src="http://www.avclub.com/video_embed/?id=38877"></iframe><br /><a href="http://www.avclub.com/articles/neutral-milk-hotel,38877/" target="_blank" title="The Swell Season covers Neutral Milk Hotel">The Swell Season covers Neutral Milk Hotel</a>
+{% youtube 6_5mHt8BZro %}

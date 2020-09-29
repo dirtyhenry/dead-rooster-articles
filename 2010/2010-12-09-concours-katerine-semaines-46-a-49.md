@@ -42,9 +42,7 @@ Chanson presque inconnue mais
 [reprise poignante (hum)](http://www.katerinefrancisetsespeintres.com/elephants.html).
 Tant pis pour la fille aux yeux menthe à l'eau. Chantée par le maître Eddy :
 
-<iframe frameborder="0" width="500" height="375" src="http://www.dailymotion.com/embed/video/x4hq81?width=500&theme=default&foreground=%23F7FFFD&highlight=%23FFC300&background=%23171D1B&start=&animatedTitle=&iframe=1&additionalInfos=0&autoPlay=0&hideInfos=0"></iframe><br /><b><a href="http://www.dailymotion.com/video/x4hq81_eddy-mitchell-le-cimetiere-des-elep_music">eddy mitchell &quot;le cimeti&egrave;re des &eacute;l&eacute;phants&quot;</a></b><br /><i>Uploaded by <a href="http://www.dailymotion.com/GERARDSERGE">GERARDSERGE</a>. - <a href="http://www.dailymotion.com/us/channel/music">Watch more music videos, in HD!</a></i>
-
-&nbsp;
+{% dailymotion x4hq81 %}
 
 <h3>48. *Un lapin* de Chantal Goya</h3>
 

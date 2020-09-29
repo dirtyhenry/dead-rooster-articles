@@ -41,7 +41,7 @@ fine équipe nous offre _Boneless_, la meilleure chanson du disque (d'ailleurs
 choisie comme second single). Et puis, pour clore le débat, le rythme redevient
 languissant, doux, laissant la place au calme et à la volupté.
 
-<iframe src="http://player.vimeo.com/video/7958945?title=0&byline=0&portrait=0&color=C2A966" width="540" height="405" frameborder="0"></iframe>
+{% vimeo 7958945 %}
 
 Pour résumer, voici donc un effort de bonne facture, qui réjouira les amateurs
 du précédent opus sans pour autant pouvoir rivaliser avec _Neon Golden_, qui

@@ -12,7 +12,7 @@ Miles Kane,
 sort son 2ème LP solo, _Don't Forget Who You Are_, début juin. En voici la
 chanson titre :
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F86365124&secret_token=s-X58Gj"></iframe>
+{% soundcloud 263280117 %}
 
 Sur son premier album, je recommande _Quicksand_.
 
