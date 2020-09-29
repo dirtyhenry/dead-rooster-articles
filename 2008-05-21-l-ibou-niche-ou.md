@@ -1,11 +1,7 @@
 ---
 layout: post
 title: L'Ibou niche où ?
-author:
-  display_name: ""
-  login: ""
-  email: ""
-  url: ""
+author: Dirty Henry
 wordpress_id: 446
 date: "2008-05-21 19:37:00 +0200"
 ---

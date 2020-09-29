@@ -1,11 +1,7 @@
 ---
 layout: post
 title: Bouquet final ! J'adore ça !
-author:
-  display_name: ""
-  login: ""
-  email: ""
-  url: ""
+author: Dirty Henry
 wordpress_id: 395
 date: "2007-07-15 18:29:00 +0200"
 ---

@@ -1,11 +1,7 @@
 ---
 layout: post
 title: La démocratie bafouée
-author:
-  display_name: ""
-  login: ""
-  email: ""
-  url: ""
+author: Dirty Henry
 wordpress_id: 410
 date: "2007-10-08 21:09:00 +0200"
 ---

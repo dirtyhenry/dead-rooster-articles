@@ -1,11 +1,7 @@
 ---
 layout: post
 title: On re-refait le match
-author:
-  display_name: ""
-  login: ""
-  email: ""
-  url: ""
+author: Dirty Henry
 wordpress_id: 399
 date: "2007-08-09 07:16:00 +0200"
 categories:

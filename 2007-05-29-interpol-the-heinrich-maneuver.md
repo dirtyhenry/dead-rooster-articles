@@ -1,11 +1,7 @@
 ---
 layout: post
 title: Interpol - The Heinrich Maneuver
-author:
-  display_name: ""
-  login: ""
-  email: ""
-  url: ""
+author: Dirty Henry
 wordpress_id: 387
 date: "2007-05-29 15:38:00 +0200"
 categories:

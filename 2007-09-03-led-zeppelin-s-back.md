@@ -1,11 +1,7 @@
 ---
 layout: post
 title: Led Zeppelin's back !
-author:
-  display_name: ""
-  login: ""
-  email: ""
-  url: ""
+author: Dirty Henry
 wordpress_id: 402
 date: "2007-09-03 16:29:00 +0200"
 categories:

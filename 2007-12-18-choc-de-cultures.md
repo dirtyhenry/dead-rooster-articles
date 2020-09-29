@@ -1,11 +1,7 @@
 ---
 layout: post
 title: Choc de cultures
-author:
-  display_name: ""
-  login: ""
-  email: ""
-  url: ""
+author: Dirty Henry
 wordpress_id: 431
 date: "2007-12-18 13:55:00 +0100"
 ---

@@ -1,11 +1,7 @@
 ---
 layout: post
 title: Ribéry est un déconneur
-author:
-  display_name: ""
-  login: ""
-  email: ""
-  url: ""
+author: Dirty Henry
 wordpress_id: 393
 date: "2007-07-12 13:34:00 +0200"
 categories:

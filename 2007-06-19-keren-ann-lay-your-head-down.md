@@ -1,11 +1,7 @@
 ---
 layout: post
 title: Keren Ann - Lay Your Head Down
-author:
-  display_name: ""
-  login: ""
-  email: ""
-  url: ""
+author: Dirty Henry
 wordpress_id: 389
 date: "2007-06-19 19:35:00 +0200"
 categories:

@@ -1,11 +1,7 @@
 ---
 layout: post
 title: Les petits poucets toujours là
-author:
-  display_name: ""
-  login: ""
-  email: ""
-  url: ""
+author: Dirty Henry
 wordpress_id: 443
 date: "2008-04-17 08:17:00 +0200"
 ---
