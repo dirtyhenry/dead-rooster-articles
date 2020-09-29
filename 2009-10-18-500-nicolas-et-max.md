@@ -111,7 +111,8 @@ avec des contraintes plus limitées.
 
 Afin de se familiariser avec l'univers d'Elliot, voici son court-métrage _Harvey
 Krumpet_, oscar du meilleur court métrage d'animation en 2003, dans lequel on
-retrouve pas mal de thèmes de _Mary & Max_ :
+retrouve pas mal de thèmes de *Mary & Max* :
+
 {% youtube ouyVS6HOFeo %}
 
 **La chanson qui va avec** : _Avoir un bon copain_ bien sûr !
@@ -137,6 +138,7 @@ rapidement. Dans ce film avec Edouard Baer et Clovis Cornillac, il avait réussi
 vraiment mort. Big up également à Rémi Bezançon, qui s'était occupé de la
 légende du permis raté à cause du chien qui traverse la route dans _Le Premier
 jour du reste de ta vie_.
+
 {% youtube SCcnQqtOSvg %}
 
 **La chanson qui va avec** : symptôme du mal, la chanson du générique de fin est
