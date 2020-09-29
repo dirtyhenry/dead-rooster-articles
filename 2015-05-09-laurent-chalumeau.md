@@ -73,9 +73,9 @@ Et c'est quoi le rapport avec Michel Sardou ? Le rapport c'est qu'en 2009,
 [j'écrivais ça][8] sur Chalumeau :
 
 > Quand on gratte un peu plus loin, on trouve quand même quelques casseroles
-> dans le passé du bonhomme : parolier pour Michel Sardou et G-Squad… Hum…
-> Lire un second livre pour préciser son jugement sur Lolo me semble donc à la
-> fois nécessaire et risqué. Nous vous tiendrons informé.
+> dans le passé du bonhomme : parolier pour Michel Sardou et G-Squad… Hum… Lire
+> un second livre pour préciser son jugement sur Lolo me semble donc à la fois
+> nécessaire et risqué. Nous vous tiendrons informé.
 
 Dont acte. Et aussi, je me suis davantage documenté. Et j'ai pas été déçu. Parce
 qu'en plus d'être un super romancier, Chalumeau n'est pas le dernier des sages.

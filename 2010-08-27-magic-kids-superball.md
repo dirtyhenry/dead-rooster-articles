@@ -1,19 +1,23 @@
 ---
 layout: post
 title: Magic Kids' Superball
-description: Le groupe de Memphis {{Magic Kids}} nous invite à imaginer qu'on est
-  en Californie dans les années 60.
+description:
+  Le groupe de Memphis {{Magic Kids}} nous invite à imaginer qu'on est en
+  Californie dans les années 60.
 authors:
   - Dirty Henry
 wordpress_id: 688
-date: '2010-08-27 12:40:26 +0200'
+date: "2010-08-27 12:40:26 +0200"
 categories:
-- Catégories
+  - Catégories
 tags:
-- Single
+  - Single
 ---
-Le groupe de Memphis __Magic Kids__ nous invite à imaginer qu'on est en Californie dans les années 60.
+
+Le groupe de Memphis **Magic Kids** nous invite à imaginer qu'on est en
+Californie dans les années 60.
 
 <object width="500" height="306"><param name="movie" value="http://www.youtube.com/v/inp3Dh1zib8?fs=1&hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/inp3Dh1zib8?fs=1&hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="306"></embed></object>
 
-(via [iguessimfloating.net](http://www.iguessimfloating.net/2010/08/video-magic-kids-superball.html))
+(via
+[iguessimfloating.net](http://www.iguessimfloating.net/2010/08/video-magic-kids-superball.html))

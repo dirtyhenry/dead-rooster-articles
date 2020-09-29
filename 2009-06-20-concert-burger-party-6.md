@@ -1,12 +1,14 @@
 ---
 layout: post
-title: 'Concert Burger Party #6'
+title: "Concert Burger Party #6"
 authors:
   - Dirty Henry
 wordpress_id: 512
-date: '2009-06-20 20:45:00 +0200'
+date: "2009-06-20 20:45:00 +0200"
 ---
-Trackliste : 
+
+Trackliste :
+
 - No, not now (de Hot Hot Heat)
 - Bitch
 - Great Disaster

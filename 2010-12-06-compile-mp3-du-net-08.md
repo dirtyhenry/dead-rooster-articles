@@ -1,24 +1,28 @@
 ---
 layout: post
-title: 'Compile MP3 du NET #08'
-description: 'Une sélection des meilleurs MP3 légalement disponibles au téléchargement
-  des dernières semaines. Au programme cette semaine, des gens dont on reparlera très
-  vite : Reading Rainbow, The Notes et Surfer Blood.'
+title: "Compile MP3 du NET #08"
+description:
+  "Une sélection des meilleurs MP3 légalement disponibles au téléchargement des
+  dernières semaines. Au programme cette semaine, des gens dont on reparlera
+  très vite : Reading Rainbow, The Notes et Surfer Blood."
 authors:
   - Dirty Henry
 wordpress_id: 725
-date: '2010-12-06 12:00:00 +0100'
+date: "2010-12-06 12:00:00 +0100"
 categories:
-- Catégories
-- Artistes
+  - Catégories
+  - Artistes
 tags:
-- Single
-- MP3
-- Bleeding Rainbow
+  - Single
+  - MP3
+  - Bleeding Rainbow
 ---
-Une sélection des meilleurs MP3 légalement disponibles au téléchargement des dernières semaines. Au programme cette semaine, des gens dont on reparlera très vite : __Reading Rainbow__, __The Notes__ et __Surfer Blood__. 
 
-A noter qu'une reprise de __Pavement__ est au programme. 
+Une sélection des meilleurs MP3 légalement disponibles au téléchargement des
+dernières semaines. Au programme cette semaine, des gens dont on reparlera très
+vite : **Reading Rainbow**, **The Notes** et **Surfer Blood**.
+
+A noter qu'une reprise de **Pavement** est au programme.
 
 <ul class="polaroids">
 <li><div class=polaroid>[<img447>Warpaint<br />*Undertow*](http://stereogum.com/508242/warpaint-undertow/mp3s/)</div></li>

@@ -1,19 +1,22 @@
 ---
 layout: post
-title: 'Compile MP3 du NET #02'
-description: Une sélection des meilleurs MP3 légalement disponibles au téléchargement
-  des dernières semaines.
+title: "Compile MP3 du NET #02"
+description:
+  Une sélection des meilleurs MP3 légalement disponibles au téléchargement des
+  dernières semaines.
 authors:
   - Dirty Henry
 wordpress_id: 702
-date: '2010-09-20 10:42:15 +0200'
+date: "2010-09-20 10:42:15 +0200"
 categories:
-- Catégories
+  - Catégories
 tags:
-- Single
-- MP3
+  - Single
+  - MP3
 ---
-Au programme cette semaine, __The Shins__ reprennent un titre du groupe Squeeze, __The Walkmen__ sont de retour et la belle découverte __Beach Fossils__.
+
+Au programme cette semaine, **The Shins** reprennent un titre du groupe Squeeze,
+**The Walkmen** sont de retour et la belle découverte **Beach Fossils**.
 
 <ul class="polaroids">
 

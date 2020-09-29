@@ -1,26 +1,33 @@
 ---
 layout: post
-title: 'Compile MP3 du NET #07'
-description: 'Une sélection des meilleurs MP3 légalement disponibles au téléchargement
-  des dernières semaines. Au programme cette semaine, beaucoup de VIP : {{Pixies}},
-  {{Weezer}} et {{Beach Boys}}.'
+title: "Compile MP3 du NET #07"
+description:
+  "Une sélection des meilleurs MP3 légalement disponibles au téléchargement des
+  dernières semaines. Au programme cette semaine, beaucoup de VIP : {{Pixies}},
+  {{Weezer}} et {{Beach Boys}}."
 authors:
   - Dirty Henry
 wordpress_id: 719
-date: '2010-10-25 12:00:00 +0200'
+date: "2010-10-25 12:00:00 +0200"
 categories:
-- Catégories
-- Artistes
+  - Catégories
+  - Artistes
 tags:
-- Single
-- MP3
-- Fleet Foxes
+  - Single
+  - MP3
+  - Fleet Foxes
 ---
-Une sélection des meilleurs MP3 légalement disponibles au téléchargement des dernières semaines. Au programme cette semaine, beaucoup de VIP : __Pixies__, __Weezer__ et __Beach Boys__. Pour les distraits, Robin Peckhold est le chanteur des [Fleet Foxes](213).
 
-A noter que sur le lien des Beach Boys, vous trouverez un LP pirate complet : *The Beach Boys meets Grateful Dead*. Assez cool. 
+Une sélection des meilleurs MP3 légalement disponibles au téléchargement des
+dernières semaines. Au programme cette semaine, beaucoup de VIP : **Pixies**,
+**Weezer** et **Beach Boys**. Pour les distraits, Robin Peckhold est le chanteur
+des [Fleet Foxes](213).
 
-Noter aussi que l'EP de __Guards__ est téléchargeable intégralement et gratuitement sur la formidable plateforme de téléchargement bandcamp.
+A noter que sur le lien des Beach Boys, vous trouverez un LP pirate complet :
+_The Beach Boys meets Grateful Dead_. Assez cool.
+
+Noter aussi que l'EP de **Guards** est téléchargeable intégralement et
+gratuitement sur la formidable plateforme de téléchargement bandcamp.
 
 <ul class="polaroids">
 <li><div class=polaroid>[<img436>California Wives<br />*Blood Red Youth*](http://www.rubinrecommends.com/2010/10/california-wives/)</div></li>

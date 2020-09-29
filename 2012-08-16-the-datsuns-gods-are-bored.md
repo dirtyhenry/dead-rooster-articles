@@ -4,12 +4,16 @@ title: The Datsuns - Gods Are Bored
 authors:
   - Dirty Henry
 wordpress_id: 1092
-date: '2012-08-16 08:00:00 +0200'
+date: "2012-08-16 08:00:00 +0200"
 categories:
-- Artistes
+  - Artistes
 tags:
-- The Datsuns
+  - The Datsuns
 ---
+
 <iframe width="560" height="315" src="http://www.youtube.com/embed/o_DHCL2Q2d0" frameborder="0" allowfullscreen></iframe>
 
-Les Datsuns annoncent la sortie de leur album *Death Rattle Boogie* (8 octobre 2012) avec cette vidéo qui prouvent qu'ils ont un sérieux point commun avec [le prix des allumettes](http://youtu.be/DTs7dIKXAvw). Personne ne s'en plaindra. Pas de date française pour le moment.
+Les Datsuns annoncent la sortie de leur album _Death Rattle Boogie_ (8
+octobre 2012) avec cette vidéo qui prouvent qu'ils ont un sérieux point commun
+avec [le prix des allumettes](http://youtu.be/DTs7dIKXAvw). Personne ne s'en
+plaindra. Pas de date française pour le moment.

@@ -4,10 +4,11 @@ title: Compile printemps 2010
 authors:
   - Dirty Henry
 wordpress_id: 686
-date: '2010-08-26 17:48:10 +0200'
+date: "2010-08-26 17:48:10 +0200"
 categories:
-- Catégories
+  - Catégories
 tags:
-- Compilation
+  - Compilation
 ---
+
 -# The Drums - {Let's Go Surfing}

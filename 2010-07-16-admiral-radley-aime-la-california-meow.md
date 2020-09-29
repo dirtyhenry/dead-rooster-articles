@@ -1,21 +1,29 @@
 ---
 layout: post
 title: Admiral Radley aime la California (meow)
-description: "{{Admiral Radley}} est le nouveau groupe de Jason Lytle, ex-Grandaddy,
-  qui vient de sortir son premier album, {I Heart California}, dont est extrait le
+description:
+  "{{Admiral Radley}} est le nouveau groupe de Jason Lytle, ex-Grandaddy, qui
+  vient de sortir son premier album, {I Heart California}, dont est extrait le
   single karaoke qu'on vous présente ici."
 authors:
   - Dirty Henry
 wordpress_id: 651
-date: '2010-07-16 17:09:46 +0200'
+date: "2010-07-16 17:09:46 +0200"
 categories:
-- Catégories
+  - Catégories
 tags:
-- Single
+  - Single
 ---
-{*Admiral Radley*} est le nouveau groupe de Jason Lytle, ex-Grandaddy, qui vient de sortir son premier album, *I Heart California*, dont est extrait le single karaoke ci-dessous.
 
-Malgré de beaux efforts, Admiral Radley a encore un train de retard sur [Nada Surf](http://www.youtube.com/watch?v=_Lh8uysjKwg] et sur [Eric->http://www.youtube.com/watch?v=VgxFt_zqvqg] en terme d'imitation de chats. [Le titre peut être téléchargé ici !->http://stereogum.com/366082/admiral-radley-i-heart-california-stereogum-premiere/mp3s/)
+{_Admiral Radley_} est le nouveau groupe de Jason Lytle, ex-Grandaddy, qui vient
+de sortir son premier album, _I Heart California_, dont est extrait le single
+karaoke ci-dessous.
+
+Malgré de beaux efforts, Admiral Radley a encore un train de retard sur [Nada
+Surf](http://www.youtube.com/watch?v=_Lh8uysjKwg] et sur
+[Eric->http://www.youtube.com/watch?v=VgxFt_zqvqg] en terme d'imitation de
+chats. [Le titre peut être téléchargé ici
+!->http://stereogum.com/366082/admiral-radley-i-heart-california-stereogum-premiere/mp3s/)
 
 Pas encore de date en France, mais bon, on s'tient au jus !
 

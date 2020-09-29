@@ -1,21 +1,26 @@
 ---
 layout: post
-title: 'Compile MP3 du NET #04'
-description: 'Une sélection des meilleurs MP3 légalement disponibles au téléchargement
-  des dernières semaines. Au programme cette semaine, quelques stars ({{Black Rebel
-  Motorcycle Club}}, {{British Sea Power}} et {{Shannon Wright}}) et trois reprises
-  pour conclure dont une du plus grand titre pop de tous les temps selon Paul McCartney
-  : {God Only Knows}, des Beach Boys.'
+title: "Compile MP3 du NET #04"
+description:
+  "Une sélection des meilleurs MP3 légalement disponibles au téléchargement des
+  dernières semaines. Au programme cette semaine, quelques stars ({{Black Rebel
+  Motorcycle Club}}, {{British Sea Power}} et {{Shannon Wright}}) et trois
+  reprises pour conclure dont une du plus grand titre pop de tous les temps
+  selon Paul McCartney : {God Only Knows}, des Beach Boys."
 authors:
   - Dirty Henry
 wordpress_id: 709
-date: '2010-10-04 10:58:46 +0200'
+date: "2010-10-04 10:58:46 +0200"
 categories:
-- Artistes
+  - Artistes
 tags:
-- Dale Earnhardt Jr. Jr.
+  - Dale Earnhardt Jr. Jr.
 ---
-Au programme cette semaine, quelques stars (__Black Rebel Motorcycle Club__, __British Sea Power__ et __Shannon Wright__) et trois reprises pour conclure dont une du plus grand titre pop de tous les temps selon Paul McCartney : *God Only Knows*, des Beach Boys.
+
+Au programme cette semaine, quelques stars (**Black Rebel Motorcycle Club**,
+**British Sea Power** et **Shannon Wright**) et trois reprises pour conclure
+dont une du plus grand titre pop de tous les temps selon Paul McCartney : _God
+Only Knows_, des Beach Boys.
 
 <ul class="polaroids">
 

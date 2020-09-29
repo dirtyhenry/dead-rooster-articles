@@ -1,19 +1,26 @@
 ---
 layout: post
 title: Comme un avion sans Capri
-description: Les reprises de {{Katerine, Francis et ses peintres}} des deux dernières
-  semaines sont {Capri c'est fini} d'Hervé Vilard et {Comme un avion sans aile} de
-  Charlélie Couture.
+description:
+  Les reprises de {{Katerine, Francis et ses peintres}} des deux dernières
+  semaines sont {Capri c'est fini} d'Hervé Vilard et {Comme un avion sans aile}
+  de Charlélie Couture.
 authors:
   - Dirty Henry
 wordpress_id: 672
-date: '2010-08-03 12:05:22 +0200'
+date: "2010-08-03 12:05:22 +0200"
 categories:
-- Catégories
+  - Catégories
 tags:
-- Concours Katerine
+  - Concours Katerine
 ---
-Les reprises de __Katerine, Francis et ses peintres__ des deux dernières semaines sont [*Capri c'est fini*](http://www.katerinefrancisetsespeintres.com/capri.html] d'Hervé Vilard et [*Comme un avion sans aile*->http://www.katerinefrancisetsespeintres.com/avion.html) de Charlélie Couture.
+
+Les reprises de **Katerine, Francis et ses peintres** des deux dernières
+semaines sont [*Capri c'est
+fini*](http://www.katerinefrancisetsespeintres.com/capri.html] d'Hervé Vilard et
+[_Comme un avion sans
+aile_->http://www.katerinefrancisetsespeintres.com/avion.html) de Charlélie
+Couture.
 
 Les originales :
 
@@ -32,4 +39,5 @@ Une fois encore, comment est-il possible que personne n'y ait pensé ?
 
 Il est encore temps de participer en [cliquant ici](569) !
 
-Toutes les reprises sont disponibles sur [le site de Katerine, Francis et ses peintres](http://www.katerinefrancisetsespeintres.com/)…
+Toutes les reprises sont disponibles sur
+[le site de Katerine, Francis et ses peintres](http://www.katerinefrancisetsespeintres.com/)…

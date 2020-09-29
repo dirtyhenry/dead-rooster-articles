@@ -1,19 +1,23 @@
 ---
 layout: post
-title: 'Compile MP3 du NET #01'
-description: Une sélection des meilleurs MP3 légalement disponibles au téléchargement
-  des dernières semaines.
+title: "Compile MP3 du NET #01"
+description:
+  Une sélection des meilleurs MP3 légalement disponibles au téléchargement des
+  dernières semaines.
 authors:
   - Dirty Henry
 wordpress_id: 700
-date: '2010-09-13 15:12:58 +0200'
+date: "2010-09-13 15:12:58 +0200"
 categories:
-- Catégories
+  - Catégories
 tags:
-- Single
-- MP3
+  - Single
+  - MP3
 ---
-Au programme cette semaine, le retour aux affaires de Corin Tucker (ex-[Sleater Kinney](314)) et de Black Mountain, qui sera de passage à la Maroquinerie, à Paris, le 4 octobre.
+
+Au programme cette semaine, le retour aux affaires de Corin Tucker
+(ex-[Sleater Kinney](314)) et de Black Mountain, qui sera de passage à la
+Maroquinerie, à Paris, le 4 octobre.
 
 <ul class="polaroids">
 
