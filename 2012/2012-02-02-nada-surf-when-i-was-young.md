@@ -7,4 +7,4 @@ wordpress_id: 990
 date: "2012-02-02 21:31:00 +0100"
 ---
 
-<iframe src="http://player.vimeo.com/video/35623730?title=0&amp;byline=0&amp;portrait=0&amp;color=C2A966" width="540" height="304" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+{% vimeo 35623730 %}

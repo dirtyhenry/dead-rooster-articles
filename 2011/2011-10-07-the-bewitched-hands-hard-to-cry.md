@@ -7,6 +7,6 @@ wordpress_id: 927
 date: "2011-10-07 09:00:00 +0200"
 ---
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/16277309" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+{% vimeo 16277309 %}
 
 Quand les concerts à emporter sont chouettes, ils ne font pas semblants.

@@ -10,7 +10,7 @@ date: "2013-05-17 15:44:59 +0200"
 Belle découverte et chouchou du moment, Mikal Cronin vient de sortir son album
 _MCII_, chaudement recommandé.
 
-<iframe src="http://player.vimeo.com/video/65655498" width="400" height="300" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+{% vimeo 65655498 %}
 
 Cronin sera de passage en France en août.
 
