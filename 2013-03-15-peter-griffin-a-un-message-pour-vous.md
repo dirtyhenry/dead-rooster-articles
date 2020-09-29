@@ -12,6 +12,8 @@ cette vidéo :
 
 {% youtube 9G4jnaznUoQ %}
 
-[<blockquote>That happened and we all let it happen</blockquote>](http://www.youtube.com/watch?v=M_HyxTAyla8)
+> That happened and we all let it happen.
+>
+> — [Peter Griffin](https://youtu.be/M_HyxTAyla8)
 
-Le monde va mal !
+Le monde va !

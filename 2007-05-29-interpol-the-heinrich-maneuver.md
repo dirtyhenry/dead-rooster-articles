@@ -12,9 +12,9 @@ tags:
 
 {% youtube Ha_bppvZ0a8 %}
 
-Philippe Paringault a dit un jour :
+Philippe Paringault a dit un jour :
 
-<blockquote>Ce sont ceux qui aiment qui ont raison.</blockquote>
+> Ce sont ceux qui aiment qui ont raison.
 
 J'aurai donc tort si je m'avançais à dire ce que j'ai pensé de _Pirate des
 Caraïbes 3_.

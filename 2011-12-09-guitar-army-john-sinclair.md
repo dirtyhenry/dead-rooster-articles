@@ -31,7 +31,10 @@ rarement bien. Cet homme, c'est John Sinclair.
 
 {% youtube uo35O1AJOfg %}
 
-<blockquote>«À mes yeux, il n'y a qu'un seul moyen de décrire l'impact du rock & roll sur l'Occident et de lui rendre justice : affirmer que ça a été la chose la plus important de l'histoire de l'humanité. Ne laissez personne vous dire le contraire !»</blockquote>
+> À mes yeux, il n'y a qu'un seul moyen de décrire l'impact du rock & roll sur
+> l'Occident et de lui rendre justice : affirmer que ça a été la chose la plus
+> important de l'histoire de l'humanité. Ne laissez personne vous dire le
+> contraire !
 
 John Sinclair a une devise : «rock and roll, dope, and fucking in the streets».
 Même si le message ne passe pas vraiment auprès des foules, Sinclair ne se
@@ -98,11 +101,20 @@ pour tenter de la détruire. Alors Sinclair durcit son langage et envisage de
 prendre les armes, tout en continuant de convaincre les gens que l'héroïne c'est
 mal, que l'alcool c'est mal aussi :
 
-<blockquote>«Ils veulent que tu boives de l'alcool parce que ça fait partie intégrante du système culturel réactionnaire. L'alcool te fait accepter toutes les conneries soporifiques, le mode de vie conditionnel et les contraintes du boulot. (…) Le reste des activités qui leur sont proposées va de pair avec le travail à l'usine - se saouler, jouer au bowling, chasser, acheter du mobilier, fonder une famille nucléaire, acheter une nouvelle voiture ou des fringues élégantes, aller au salon de beauté, toutes ces conneries»</blockquote>
+> Ils veulent que tu boives de l'alcool parce que ça fait partie intégrante du
+> système culturel réactionnaire. L'alcool te fait accepter toutes les conneries
+> soporifiques, le mode de vie conditionnel et les contraintes du boulot. (…) Le
+> reste des activités qui leur sont proposées va de pair avec le travail à
+> l'usine - se saouler, jouer au bowling, chasser, acheter du mobilier, fonder
+> une famille nucléaire, acheter une nouvelle voiture ou des fringues élégantes,
+> aller au salon de beauté, toutes ces conneries.
 
 qu'il faut continuer à vivre en communauté :
 
-<blockquote>«Trouvez vos propres frères et soeurs, commencez à vivre ensemble. Au sein du système actuel, vivre, travailler, manger et faire tout le reste sous forme communautaire est non seulement plus amusant et efficace, mais aussi plus simple et moins onéreux.»</blockquote>
+> Trouvez vos propres frères et soeurs, commencez à vivre ensemble. Au sein du
+> système actuel, vivre, travailler, manger et faire tout le reste sous forme
+> communautaire est non seulement plus amusant et efficace, mais aussi plus
+> simple et moins onéreux.
 
 Traqué par la police, il va faire plusieurs séjours en prison, le plus fameux
 faisant suite à une condamnation de 10 ans de prison pour possession de 2 joints

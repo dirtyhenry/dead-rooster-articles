@@ -12,6 +12,7 @@ tags:
   - Foot
 ---
 
-<blockquote>Une équipe qui a Cubilier dans ses rangs ne peut pas être fondamentalement bonne.</blockquote>
-
-Gilles Verdez
+> Une équipe qui a Cubilier dans ses rangs ne peut pas être fondamentalement
+> bonne.
+>
+> — Gilles Verdez
