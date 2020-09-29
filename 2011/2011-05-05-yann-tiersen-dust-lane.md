@@ -84,4 +84,4 @@ yeux.][4]
 [5]: https://deadrooster.org/top-musique-2010/
 [6]: https://deadrooster.org/qui-es-tu-nolwenn-leroy/
 
-[1]: {% post_url 2010-09-02-high-violet-haute-voltige %}
+[1]: {% post_url 2010/2010-09-02-high-violet-haute-voltige %}

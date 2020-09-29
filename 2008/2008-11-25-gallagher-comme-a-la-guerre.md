@@ -168,4 +168,4 @@ Bref, concernant le versant "Oasis en live", c'était mieux avant ! (L'Olympia d
 [7]:
   http://jiwa.fr/track/The-Lightning-Seeds-43804/Driving-Desire-98568/You-Showed-Me-346741.html
 
-[i1]: {% post_url 2012-04-20-oasis-live-forever %}
+[i1]: {% post_url 2012/2012-04-20-oasis-live-forever %}

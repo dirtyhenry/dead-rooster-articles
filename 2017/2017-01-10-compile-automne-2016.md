@@ -99,4 +99,4 @@ Par ici pour la [face B][faceb].
 [samedi-soir-2]: http://www.deadrooster.org/La-compile-du-samedi-soir-volume-2
 [cover]: https://twitter.com/christhebarker/status/815342375354662912
 
-[faceB]: {% post_url 2017-01-17-compile-automne-2016-face-B %}
+[faceB]: {% post_url 2017/2017-01-17-compile-automne-2016-face-B %}

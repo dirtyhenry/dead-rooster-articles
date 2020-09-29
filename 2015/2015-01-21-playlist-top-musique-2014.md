@@ -124,4 +124,4 @@ peu. C'est tout à leur honneur.
 [stone-et-charden-prix-des-alumettes]:
   https://www.youtube.com/watch?v=n8x1T_-XfMY
 
-[1]: {% post_url 2015-02-26-neutral-milk-hotel %}
+[1]: {% post_url 2015/2015-02-26-neutral-milk-hotel %}

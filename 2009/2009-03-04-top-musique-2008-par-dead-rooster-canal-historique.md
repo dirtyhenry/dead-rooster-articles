@@ -190,6 +190,6 @@ Quelques liens utiles :
 [1]: http://www.allmusic.com
 [2]: https://song.link/i/1470532632
 
-[i1]: {% post_url 2008-07-08-the-notwist-devil-you-plus-me %}
+[i1]: {% post_url 2008/2008-07-08-the-notwist-devil-you-plus-me %}
 
-[i2]: {% post_url 2008-09-09-route-du-rock-2008 %}
+[i2]: {% post_url 2008/2008-09-09-route-du-rock-2008 %}

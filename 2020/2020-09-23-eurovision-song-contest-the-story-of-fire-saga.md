@@ -72,10 +72,10 @@ relire ça dans 10 ans.
 [5]:
   https://www.theringer.com/movies/2020/7/15/21325097/making-of-wedding-crashers-football-scene
 
-[i1]: {% post_url 2007-07-04-neil-hannon-eurovision %}
+[i1]: {% post_url 2007/2007-07-04-neil-hannon-eurovision %}
 
-[i2]: {% post_url 2007-01-17-niveau-releve-pour-le-prochain-eurovision %}
+[i2]: {% post_url 2007/2007-01-17-niveau-releve-pour-le-prochain-eurovision %}
 
-[i3]: {% post_url 2014-03-03-eurovision-2014 %}
+[i3]: {% post_url 2014/2014-03-03-eurovision-2014 %}
 
-[i4]: {% post_url 2018-11-23-pixar-movie-challenge %}
+[i4]: {% post_url 2018/2018-11-23-pixar-movie-challenge %}

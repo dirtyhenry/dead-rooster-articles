@@ -27,6 +27,6 @@ foulée aussi tiens. Les autres attendront.
 
 [1]: https://soundcloud.com/hooray-henrys/helicopter-bloc-party-cover
 
-[i1]: {% post_url 2020-05-01-phoenix %}
+[i1]: {% post_url 2020/2020-05-01-phoenix %}
 
-[i2]: {% post_url 2005-12-31-compile-automne-2005 %}
+[i2]: {% post_url 2005/2005-12-31-compile-automne-2005 %}
