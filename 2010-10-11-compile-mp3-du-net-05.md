@@ -1,22 +1,25 @@
 ---
 layout: post
-title: 'Compile MP3 du NET #05'
-description: Une sélection des meilleurs MP3 légalement disponibles au téléchargement
-  des dernières semaines. Au programme cette semaine, {{Foxes in Fiction}} revient
+title: "Compile MP3 du NET #05"
+description:
+  Une sélection des meilleurs MP3 légalement disponibles au téléchargement des
+  dernières semaines. Au programme cette semaine, {{Foxes in Fiction}} revient
   en vedette pour ouvrir et fermer la compile avec une reprise de Katy Perry.
 authors:
   - Dirty Henry
 wordpress_id: 712
-date: '2010-10-11 15:54:04 +0200'
+date: "2010-10-11 15:54:04 +0200"
 categories:
-- Catégories
-- Artistes
+  - Catégories
+  - Artistes
 tags:
-- Single
-- MP3
-- Bleeding Rainbow
+  - Single
+  - MP3
+  - Bleeding Rainbow
 ---
-Au programme cette semaine, __Foxes in Fiction__ revient en vedette pour ouvrir et fermer la compile avec une reprise de Katy Perry.
+
+Au programme cette semaine, **Foxes in Fiction** revient en vedette pour ouvrir
+et fermer la compile avec une reprise de Katy Perry.
 
 <ul class="polaroids">
 
@@ -29,7 +32,6 @@ Au programme cette semaine, __Foxes in Fiction__ revient en vedette pour ouvrir 
 <li><div class=polaroid>[<img416>Ducktails<br />*Hamilton Road*](http://stereogum.com/463342/ducktails-hamilton-road/mp3s/)</div></li>
 <li><div class=polaroid>[<img417>Reading Rainbow<br />*Wasting Time*](http://stereogum.com/506002/reading-rainbow-wasting-time/mp3s/)</div></li>
 <li><div class=polaroid>[<img418>Foxes in Fiction & Weed<br />*Teenage Dream (Katy Perry)*](http://www.iguessimfloating.net/2010/09/thursday-and-covers-2.html)</div></li>
-
 
 </ul>
 

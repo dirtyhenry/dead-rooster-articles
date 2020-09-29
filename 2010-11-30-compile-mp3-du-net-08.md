@@ -1,16 +1,21 @@
 ---
 published: false
-title: 'Compile MP3 du NET #08'
-description: 'Une sélection des meilleurs MP3 légalement disponibles au téléchargement
-  des dernières semaines. Au programme cette semaine, des gens dont on reparlera très
-  vite : Reading Rainbow, The Notes et Surfer Blood. A noter qu''une reprise de Pavement
-  est au programme.'
+title: "Compile MP3 du NET #08"
+description:
+  "Une sélection des meilleurs MP3 légalement disponibles au téléchargement des
+  dernières semaines. Au programme cette semaine, des gens dont on reparlera
+  très vite : Reading Rainbow, The Notes et Surfer Blood. A noter qu'une reprise
+  de Pavement est au programme."
 authors:
   - Dirty Henry
 wordpress_id: 724
-date: '2010-11-30 02:05:01 +0100'
+date: "2010-11-30 02:05:01 +0100"
 ---
-Une sélection des meilleurs MP3 légalement disponibles au téléchargement des dernières semaines. Au programme cette semaine, des gens dont on reparlera très vite : Reading Rainbow, The Notes et Surfer Blood. A noter qu'une reprise de Pavement est au programme. 
+
+Une sélection des meilleurs MP3 légalement disponibles au téléchargement des
+dernières semaines. Au programme cette semaine, des gens dont on reparlera très
+vite : Reading Rainbow, The Notes et Surfer Blood. A noter qu'une reprise de
+Pavement est au programme.
 
 [Télécharger la compile](https://www.yousendit.com/download/ZGJjTkZqVEgrV3hjR0E9PQ)
 

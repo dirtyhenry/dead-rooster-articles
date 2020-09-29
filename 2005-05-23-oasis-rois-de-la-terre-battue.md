@@ -32,7 +32,7 @@ dont on ne pensait aucun groupe capable depuis la consécration du revers à deu
 mains, soyez assez aimables d'en convenir.
 
 Enfin, remarquons encore une fois l'absence de succésseur potentiel à Yannick
-Noah en tant que futur vainqueur français du tournoi… L'espoir de
-s'enorgueillir des victoires espagnoles sur terre battue et se réapproprier les
-lauriers du rock anglais, voilà d'ailleurs, pour ceux qui la cherchent encore,
-la bonne raison de voter oui au référendum, isn't it ?
+Noah en tant que futur vainqueur français du tournoi… L'espoir de s'enorgueillir
+des victoires espagnoles sur terre battue et se réapproprier les lauriers du
+rock anglais, voilà d'ailleurs, pour ceux qui la cherchent encore, la bonne
+raison de voter oui au référendum, isn't it ?

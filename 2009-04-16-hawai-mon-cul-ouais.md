@@ -5,11 +5,11 @@ author:
   display_name: Biboulos
   login: biboulos
   email: biboulos@gmail.com
-  url: ''
+  url: ""
 author_login: biboulos
 author_email: biboulos@gmail.com
 wordpress_id: 497
-date: '2009-04-16 09:58:00 +0200'
+date: "2009-04-16 09:58:00 +0200"
 ---
-Higgins, Zeus et Apollon ne sont pas universellement connus !
-Le monde va mal !
+
+Higgins, Zeus et Apollon ne sont pas universellement connus ! Le monde va mal !

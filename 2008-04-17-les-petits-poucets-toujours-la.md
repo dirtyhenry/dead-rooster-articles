@@ -1,12 +1,10 @@
 ---
 layout: post
 title: Les petits poucets toujours là
-author:
-  display_name: ''
-  login: ''
-  email: ''
-  url: ''
+author: Dirty Henry
 wordpress_id: 443
-date: '2008-04-17 08:17:00 +0200'
+date: "2008-04-17 08:17:00 +0200"
 ---
-On va encore devoir se taper deux clubs de ligue 2 en demies-finale de coupe de France. Le monde va mal !
+
+On va encore devoir se taper deux clubs de ligue 2 en demies-finale de coupe de
+France. Le monde va mal !

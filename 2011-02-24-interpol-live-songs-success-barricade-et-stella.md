@@ -4,8 +4,9 @@ title: Interpol - Live songs (Success, Barricade et Stella)
 authors:
   - Dirty Henry
 wordpress_id: 787
-date: '2011-02-24 14:56:25 +0100'
+date: "2011-02-24 14:56:25 +0100"
 ---
+
 <div id="InterpolWidget">
   <object type="application/x-shockwave-flash" data="http://www.interpolnyc.com/williamsburg/interpolwidget.swf" width="500" height="400">
     <param name="movie" value="http://www.interpolnyc.com/williamsburg/interpolwidget.swf"/>

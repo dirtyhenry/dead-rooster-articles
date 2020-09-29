@@ -4,26 +4,42 @@ title: Concerts "Un Temps Pour Tous"
 authors:
   - Dirty Henry
 wordpress_id: 524
-date: '2009-08-25 10:41:02 +0200'
+date: "2009-08-25 10:41:02 +0200"
 ---
-Ce mois d'août, les Hooray Henrys étaient au programme du festival "Un Temps Pour Tous", organisé par l'association Carpe Diem à St-Hilaire-de-Riez, du 9 au 14 août 2009.
+
+Ce mois d'août, les Hooray Henrys étaient au programme du festival "Un Temps
+Pour Tous", organisé par l'association Carpe Diem à St-Hilaire-de-Riez, du 9 au
+14 août 2009.
 
 L'occasion pour eux de jouer deux concerts :
-- le dimanche 9 août, pour la soirée d'ouverture du festival, où tous les artistes du festival étaient au programme pour un set court, sorte de bande-annonce des soirées à venir le reste de la semaine
-- le mardi 11 août, pour un concert long, en ouverture de la soirée "Pop/Rock/Dub" conclue par Tribal Tive Sound.
+
+- le dimanche 9 août, pour la soirée d'ouverture du festival, où tous les
+  artistes du festival étaient au programme pour un set court, sorte de
+  bande-annonce des soirées à venir le reste de la semaine
+- le mardi 11 août, pour un concert long, en ouverture de la soirée
+  "Pop/Rock/Dub" conclue par Tribal Tive Sound.
 
 Les autres groupes à l'affiche étaient :
-- [Tribal Tive Sound](http://www.myspace.com/tribaltivesound), dont on vous recommande le tube *Dub Hop* sur leur MySpace
+
+- [Tribal Tive Sound](http://www.myspace.com/tribaltivesound), dont on vous
+  recommande le tube _Dub Hop_ sur leur MySpace
 - [La Compagnie Cuanol](http://www.myspace.com/lacompagniecuanol83)
 - [Manuel](http://www.festivalcarpediem.info/cariboost1/crbst_35.html)
-- Lenny & Eva, évadés du groupe [Scartapuce](http://www.myspace.com/scartapuce) le temps de 6 reprises guitare sèche/voix très convaincantes 
+- Lenny & Eva, évadés du groupe [Scartapuce](http://www.myspace.com/scartapuce)
+  le temps de 6 reprises guitare sèche/voix très convaincantes
 - Luna Evasis, groupe de chant médieval
-- [Danserien Pariz Ti Ar Vretoned](http://www.festivalcarpediem.info/cariboost1/crbst_55.html), des émissaires de la mission bretonne de Paris venus organiser un fest-noz
-- sans compter le super-groupe final, tous les artistes mélangés, au sein duquel figurait Groovy Henry !
+- [Danserien Pariz Ti Ar Vretoned](http://www.festivalcarpediem.info/cariboost1/crbst_55.html),
+  des émissaires de la mission bretonne de Paris venus organiser un fest-noz
+- sans compter le super-groupe final, tous les artistes mélangés, au sein duquel
+  figurait Groovy Henry !
 
-Merci à eux, à Carpe Diem (tout spécialement à Théo, Anaïs et Rico) et à la mairie de la ville de nous avoir fait vivre cette superbe semaine. Des photos et des vidéos sont disponibles sur [le site du festival](http://www.festivalcarpediem.info/).
+Merci à eux, à Carpe Diem (tout spécialement à Théo, Anaïs et Rico) et à la
+mairie de la ville de nous avoir fait vivre cette superbe semaine. Des photos et
+des vidéos sont disponibles sur
+[le site du festival](http://www.festivalcarpediem.info/).
 
 Trackliste du concert du dimanche :
+
 - No, Not Now (de Hot Hot Heat)
 - Riot Boogie
 - Great Disaster
@@ -33,6 +49,7 @@ Trackliste du concert du dimanche :
 - Keep On Groovin'
 
 Trackliste du concert du mardi :
+
 - No, Not Now (de Hot Hot Heat)
 - Riot Boogie
 - Bitch
@@ -46,10 +63,9 @@ Trackliste du concert du mardi :
 - Save Our Soul
 - We've Got A File On You (de Blur)
 - La Chanson de Noël
-- Keep On Groovin'
-puis
+- Keep On Groovin' puis
 - Reprise de La Chanson de Noël
 - Helicopter (de Bloc Party)
 - I Heard It Through The Grapevine (de Marvin Gaye)
 
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/-auyB5FDtRw&hl=fr&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/-auyB5FDtRw&hl=fr&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+{% youtube -auyB5FDtRw %}

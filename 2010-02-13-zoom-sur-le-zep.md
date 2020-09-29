@@ -3,7 +3,7 @@ layout: post
 title: Zoom sur le Zep
 description:
   Après les Stones et [Bob Dylan](219) et en attendant [un probable ouvrage sur
-  Hendrix->http://www.tierslivre.net/spip/spip.php?article1373], François Bon
+  Hendrix](http://www.tierslivre.net/spip/spip.php?article1373), François Bon
   s'était penché sur Led Zeppelin en septembre 2008 dans {Rock'n Roll}.
 author:
   display_name: Dirty Henry

@@ -4,14 +4,17 @@ title: Johnny Walker a été relocalisé
 authors:
   - Dirty Henry
 wordpress_id: 435
-date: '2008-02-12 15:11:00 +0100'
+date: "2008-02-12 15:11:00 +0100"
 categories:
-- Artistes
+  - Artistes
 tags:
-- Soledad Brothers
-- Cut In The Hill Gang
+  - Soledad Brothers
+  - Cut In The Hill Gang
 ---
-Les Soledad Brothers étaient déjà le secret le mieux gardé des années 2000. Depuis [leur séparation en 2006](318), je traquais sur internet la moindre réapparition de Johnny Walker, Ben Swank ou d'Oliver Henry.
+
+Les Soledad Brothers étaient déjà le secret le mieux gardé des années 2000.
+Depuis [leur séparation en 2006](318), je traquais sur internet la moindre
+réapparition de Johnny Walker, Ben Swank ou d'Oliver Henry.
 
 C'est chose faite : Cut In The Hill Gang a publié son MySpace !
 

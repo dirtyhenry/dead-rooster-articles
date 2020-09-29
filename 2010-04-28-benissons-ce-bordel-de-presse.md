@@ -1,15 +1,20 @@
 ---
 layout: post
 title: Bénissons ce bordel de presse !
-description: Clip marrant et chanson pour chanter dans les bars pour le groupe new-yorkais
+description:
+  Clip marrant et chanson pour chanter dans les bars pour le groupe new-yorkais
   {{The Press}}.
 authors:
   - Dirty Henry
 wordpress_id: 605
-date: '2010-04-28 23:03:00 +0200'
+date: "2010-04-28 23:03:00 +0200"
 ---
-Au début ce que j'aimais bien de ce groupe de Brooklyn, __The Press__, c'était leur titre *Bless This Mess*, qu'[on peut écouter ici sur le site de The Tripwire](http://www.thetripwire.com/news/2010/04/02/premiere-the-press-bless-this-mess/).
 
-En cherchant un éventuel clip pour ce titre, je suis tombé sur bien mieux : un autre clip du groupe, celui de leur single *Master*, que voici : 
+Au début ce que j'aimais bien de ce groupe de Brooklyn, **The Press**, c'était
+leur titre _Bless This Mess_,
+qu'[on peut écouter ici sur le site de The Tripwire](http://www.thetripwire.com/news/2010/04/02/premiere-the-press-bless-this-mess/).
 
-<object width="500" height="300"><param name="movie" value="http://www.youtube.com/v/k0pI2vIa-Uk&hl=fr_FR&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/k0pI2vIa-Uk&hl=fr_FR&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="300"></embed></object>
+En cherchant un éventuel clip pour ce titre, je suis tombé sur bien mieux : un
+autre clip du groupe, celui de leur single _Master_, que voici :
+
+{% youtube k0pI2vIa-Uk %}

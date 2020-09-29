@@ -4,9 +4,11 @@ title: Nouvel article
 authors:
   - Dirty Henry
 wordpress_id: 738
-date: '2010-12-03 19:27:03 +0100'
+date: "2010-12-03 19:27:03 +0100"
 ---
-Kurt Cobain est mort ? Tout le monde a alors tenté de mettre son pied sur le piedestal du rock. Nous étions au début des années 90. Souvenons-nous
+
+Kurt Cobain est mort ? Tout le monde a alors tenté de mettre son pied sur le
+piedestal du rock. Nous étions au début des années 90. Souvenons-nous
 
 - Ugly Kid Joe - Everything About You
 - Crash Test Dummies - Mmm Mmm Mmm Mmm

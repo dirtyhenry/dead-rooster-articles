@@ -1,31 +1,37 @@
 ---
 layout: post
 title: Update du concours Katerine
-description: Après 10 jours de congés, il est temps de refaire un point sur le concours
-  Katerine. Les 2 dernières reprises de {{Katerine, Francis et ses peintres}} sont
-  {Sympathique} de Pink Martini (aka {Je ne veux pas travailler}) et {Ma Benz} de
-  NTM.
+description:
+  Après 10 jours de congés, il est temps de refaire un point sur le concours
+  Katerine. Les 2 dernières reprises de {{Katerine, Francis et ses peintres}}
+  sont {Sympathique} de Pink Martini (aka {Je ne veux pas travailler}) et {Ma
+  Benz} de NTM.
 authors:
   - Dirty Henry
 wordpress_id: 622
-date: '2010-06-03 11:12:46 +0200'
+date: "2010-06-03 11:12:46 +0200"
 categories:
-- Catégories
-- Artistes
+  - Catégories
+  - Artistes
 tags:
-- Concours Katerine
-- Katerine
+  - Concours Katerine
+  - Katerine
 ---
-Les reprises des deux dernières semaines de __Katerine, Francis et ses peintres__ sont [*Sympathique*](http://www.katerinefrancisetsespeintres.com/21.html], de Pink Martini (aka *Je ne veux pas travailler*) et [*Ma Benz*->http://www.katerinefrancisetsespeintres.com/22.html) de NTM..
+
+Les reprises des deux dernières semaines de **Katerine, Francis et ses
+peintres** sont
+[*Sympathique*](http://www.katerinefrancisetsespeintres.com/21.html], de Pink
+Martini (aka _Je ne veux pas travailler_) et [_Ma
+Benz_->http://www.katerinefrancisetsespeintres.com/22.html) de NTM..
 
 Les originales :
 
 <p>
-<object width="480" height="320"><param name="movie" value="http://www.youtube.com/v/satMi-rws1A&hl=fr_FR&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/satMi-rws1A&hl=fr_FR&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="320"></embed></object>
+{% youtube satMi-rws1A %}
 </p>
 
 <p>
-<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/LqCWcuceCUE&hl=fr_FR&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/LqCWcuceCUE&hl=fr_FR&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+{% youtube LqCWcuceCUE %}
 </p>
 
 Personne n'avait pronostiqué ces deux titres. Le classement reste inchangé !
@@ -37,4 +43,5 @@ Personne n'avait pronostiqué ces deux titres. Le classement reste inchangé !
 
 Il est encore temps de participer en [cliquant ici](569) !
 
-Toutes les reprises sont disponibles sur [le site de Katerine, Francis et ses peintres](http://www.katerinefrancisetsespeintres.com/)…
+Toutes les reprises sont disponibles sur
+[le site de Katerine, Francis et ses peintres](http://www.katerinefrancisetsespeintres.com/)…

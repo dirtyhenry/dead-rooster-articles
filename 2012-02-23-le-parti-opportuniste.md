@@ -1,19 +1,25 @@
 ---
 layout: post
 title: Le parti opportuniste
-description: En attendant les premiers épisodes de {La Visite du Louvre}, [promis
-  il y a déjà quelques temps->975], voici un coup d'essai de BD inspiré d'un billet
-  de François Morel sur France Inter.
+description:
+  En attendant les premiers épisodes de {La Visite du Louvre}, [promis il y a
+  déjà quelques temps->975], voici un coup d'essai de BD inspiré d'un billet de
+  François Morel sur France Inter.
 authors:
   - Dirty Henry
 wordpress_id: 998
-date: '2012-02-23 23:15:00 +0100'
+date: "2012-02-23 23:15:00 +0100"
 ---
-En attendant les premiers épisodes de *La Visite du Louvre*, [promis il y a déjà quelques temps](975), voici un coup d'essai de BD inspiré d'un billet de François Morel sur France Inter : 
 
-<iframe width="540" height="304" src="http://www.youtube.com/embed/PBoZBS4t9ks" frameborder="0" allowfullscreen></iframe>
+En attendant les premiers épisodes de _La Visite du Louvre_,
+[promis il y a déjà quelques temps](975), voici un coup d'essai de BD inspiré
+d'un billet de François Morel sur France Inter :
 
-Alors, bam, j'ai pas peur de parler politique et je me lance dans une tentative d'explication vaseuse sur pourquoi les sondages sont si mouvants, pourquoi les gens changent de vote aussi souvent, pourquoi tout ça.
+{% youtube PBoZBS4t9ks %}
+
+Alors, bam, j'ai pas peur de parler politique et je me lance dans une tentative
+d'explication vaseuse sur pourquoi les sondages sont si mouvants, pourquoi les
+gens changent de vote aussi souvent, pourquoi tout ça.
 
 <img509>
 <img510>

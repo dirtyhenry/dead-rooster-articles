@@ -5,18 +5,27 @@ description: Ici on aime bien {{The Coral}}. Alors on prêche la bonne parole…
 authors:
   - Dirty Henry
 wordpress_id: 630
-date: '2010-06-18 08:23:51 +0200'
+date: "2010-06-18 08:23:51 +0200"
 categories:
-- Catégories
-- Artistes
+  - Catégories
+  - Artistes
 tags:
-- Single
-- The Coral
+  - Single
+  - The Coral
 ---
-Depuis leur premier album en 2002, __The Coral__ sortait des disques avec un rythme eelsien, un par an environ, jusqu'à leur dernier effort, l'excellent *Roots & Echoes*, en 2007.
 
-Ils ont pris le temps, ont vu partir leur guitariste Bill Ryder-Jones, et les voilà fin prêts pour la sortie de *Butterfly House*, le 12 juillet prochain, qu'on écoutera alors en faisant la queue devant le Decathlon du coin pour se procurer le maillot à 2 étoiles de l'équipe de France de football.
+Depuis leur premier album en 2002, **The Coral** sortait des disques avec un
+rythme eelsien, un par an environ, jusqu'à leur dernier effort, l'excellent
+_Roots & Echoes_, en 2007.
 
-En attendant la sortie de l'album, la chanson titre *Butterfly House* est téléchargeable sur leur site officiel et le clip du 1er single *1000 Years* peut être visionné ci-dessous. The Coral semble y adopter une politique de débuts laborieux enchaînés sur des solos de guitare psychés en diable. Pas mal !
+Ils ont pris le temps, ont vu partir leur guitariste Bill Ryder-Jones, et les
+voilà fin prêts pour la sortie de _Butterfly House_, le 12 juillet prochain,
+qu'on écoutera alors en faisant la queue devant le Decathlon du coin pour se
+procurer le maillot à 2 étoiles de l'équipe de France de football.
 
-<object width="500" height="300"><param name="movie" value="http://www.youtube.com/v/baH0SWCFVzo&hl=fr_FR&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/baH0SWCFVzo&hl=fr_FR&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="300"></embed></object>
+En attendant la sortie de l'album, la chanson titre _Butterfly House_ est
+téléchargeable sur leur site officiel et le clip du 1er single _1000 Years_ peut
+être visionné ci-dessous. The Coral semble y adopter une politique de débuts
+laborieux enchaînés sur des solos de guitare psychés en diable. Pas mal !
+
+{% youtube baH0SWCFVzo %}
