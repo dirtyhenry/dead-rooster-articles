@@ -45,14 +45,14 @@ Trois semaines se sont écoulées depuis la dernière mise à jour. Pourtant, au
 le dire tout de go, personne ne marque de point. On n'est qu'une bande de
 losers.
 
-<h3>36. *L'idole des jeunes* de Johnny Hallyday</h3>
+### 36. *L'idole des jeunes* de Johnny Hallyday
 
 La reprise de Katerine est
 [ici](http://www.katerinefrancisetsespeintres.com/idole.html). L'originale :
 
 {% dailymotion xuh8q %}
 
-<h3>37. *Elle est d'ailleurs* de Pierre Bachelet</h3>
+### 37. *Elle est d'ailleurs* de Pierre Bachelet
 
 La reprise de Katerine est
 [ici](http://www.katerinefrancisetsespeintres.com/ailleurs.html). Une version
@@ -60,7 +60,7 @@ live :
 
 {% youtube H28JwoGQfBU %}
 
-<h3>38. *Il est vraiment phénomènal* de Phenomenal Club (?)</h3>
+### 38. *Il est vraiment phénomènal* de Phenomenal Club (?)
 
 La reprise de Katerine est
 [ici](http://www.katerinefrancisetsespeintres.com/vraiment.html). Je ne sais pas
@@ -70,7 +70,7 @@ live à _40° à l'ombre_ par un groupe baptisé Phenomenal Club est de toute be
 
 {% youtube X4cD1w10x_M %}
 
-<h3>Le classement</h3>
+### Le classement
 
 Je le disais, pas de changement au classement :
 

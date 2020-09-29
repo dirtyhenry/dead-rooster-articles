@@ -34,7 +34,7 @@ et en live et en kilt ça donne…
 
 ## Le concours
 
-<h3>39. *Les yeux de ma mère* d'Arno</h3>
+### 39. *Les yeux de ma mère* d'Arno
 
 La reprise de Katerine est
 [ici](http://www.katerinefrancisetsespeintres.com/mere.html). Une version live
@@ -42,21 +42,21 @@ d'Arno, qui fait pleurer les copains, Dechavanne, Arditi et Eve Angeli :
 
 {% youtube 2rrYrTQUlY0 %}
 
-<h3>40. *Chacun fait (c'qui lui plaît)* de Chagrun d'Amour</h3>
+### 40. *Chacun fait (c'qui lui plaît)* de Chagrun d'Amour
 
 La reprise de Katerine est
 [ici](http://www.katerinefrancisetsespeintres.com/chacun.html). L'originale :
 
 {% youtube lQ1aSVPuAug %}
 
-<h3>41. *Oh Oh Chéri* de Françoise Hary</h3>
+### 41. *Oh Oh Chéri* de Françoise Hary
 
 La reprise de Katerine est
 [ici](http://www.katerinefrancisetsespeintres.com/cheri.html). L'originale :
 
 {% youtube Sy7QglZfKHo %}
 
-<h3>Le classement</h3>
+### Le classement
 
 Pour la première fois depuis piouf, on a un changement au classement. kr avait
 choisi "Chacun fait …" en deuz et marque donc 4 points :
