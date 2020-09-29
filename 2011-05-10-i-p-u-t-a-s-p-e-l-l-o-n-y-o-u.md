@@ -72,8 +72,8 @@ comme ça qu'on va les aider à se remettre en question…
 
 Les Français qui ressemblent à Daft Punk, [qui sont peut-être le même
 groupe](http://flepi.net/image-insolite/daft-punk-et-justice-un-seul-et-meme-groupe-de-musique/]
-mais [en fait
-non](http://www.facebook.com/pages/Non-Daft-punk-et-Justice-ne-sont-pas-le-m%C3%AAme-groupe/225096182451),
+mais
+[en fait non](http://www.facebook.com/pages/Non-Daft-punk-et-Justice-ne-sont-pas-le-m%C3%AAme-groupe/225096182451),
 avaient signé en 2007 ce tube incroyable : <strike>_Dance_</strike>
 _D.A.N.C.E._. Pendant ce temps-là, [Gala est toujours remplacée par un
 sosie->http://www.facebook.com/group.php?gid=97891375246], [c'est Rick Astley

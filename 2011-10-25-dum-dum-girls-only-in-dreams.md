@@ -35,10 +35,11 @@ désagréable, mais derrière, pas grand chose. Les Inrocks avaient écrit
 [ici](http://www.lesinrocks.com/musique/musique-article/t/49359/date/2010-08-16/article/on-y-est-la-route-du-rock-jour-3/]
 la déception («les petits rollercoasters malins de l’album sont ici enchaînés
 sans grande vie, semblent presque interchangeables, les morceaux semblent cloués
-au sol») et se moquaient même d'un [camel
-toe](http://fr.wikipedia.org/wiki/Cameltoe), les fripons. On n'était pas loin de
-tirer un trait sur les Dum Dum Girls : sans doute un groupe opportuniste se
-lançant dans la brèche créée par [Best Coast->657), et qu'on aurait vite oublié.
+au sol») et se moquaient même d'un
+[camel toe](http://fr.wikipedia.org/wiki/Cameltoe), les fripons. On n'était pas
+loin de tirer un trait sur les Dum Dum Girls : sans doute un groupe opportuniste
+se lançant dans la brèche créée par [Best Coast->657), et qu'on aurait vite
+oublié.
 
 <img491>
 
