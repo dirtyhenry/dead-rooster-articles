@@ -50,7 +50,7 @@ succession de montées d'intensité des musiciens, mais jamais tous en même tem
 pour que tout cela soit continu, et s'installe, l'air de rien, jusqu'à nous
 embarquer avec elles.
 
-<object width="500" height="400"><param name="movie" value="http://www.youtube.com/v/u5C2WVCruPM?fs=1&hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/u5C2WVCruPM?fs=1&hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="400"></embed></object>
+{% youtube u5C2WVCruPM %}
 
 Au-delà de _Terrible Love_, la structure générale d'_High Violet_ est elle aussi
 très maîtrisée et offre un schéma quasi-mathématique puisque, sans titre faible,
@@ -63,7 +63,7 @@ intégralement auto-produit. Tiens, tiens, on dirait que l'apprentissage en la
 matière est fini, et le groupe obtient les félicitation du jury à la remise des
 diplômes.
 
-<object width="500" height="306"><param name="movie" value="http://www.youtube.com/v/OI9Y8ZCfxmU?fs=1&hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/OI9Y8ZCfxmU?fs=1&hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="306"></embed></object>
+{% youtube OI9Y8ZCfxmU %}
 
 Pour ne rien gâcher, le groupe n'a rien perdu de son talent scénique, comme on a
 pu s'en rendre compte lors de l'édition 2010 (plutôt humide) de la Route du
@@ -75,7 +75,7 @@ connaissances (_M. November_, _Fake Empire_), nous ont offert un concert
 mémorable, méritant certainement un titre de concert de l'année par
 anticipation.
 
-<object width="500" height="306"><param name="movie" value="http://www.youtube.com/v/3uMA2muKFGM?fs=1&hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/3uMA2muKFGM?fs=1&hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="306"></embed></object>
+{% youtube 3uMA2muKFGM %}
 
 Quant au reste de la programmation de la Route du Rock, peu de bonnes surprises,
 même si globalement, l'édition fut de bonne qualité :

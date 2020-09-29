@@ -22,6 +22,6 @@ mais aussi sur les collaborations déjà publiées de Corin [avec Blue Giant, qu
 est bien mais pas
 top.->http://pitchfork.com/news/39041-hear-blue-giants-corin-tucker-collab/).
 
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/FbmZi_VS4ZM&hl=fr_FR&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/FbmZi_VS4ZM&hl=fr_FR&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+{% youtube FbmZi_VS4ZM %}
 
 [Photo sous licence Creative Commons BY ND par **sarae** ](http://www.flickr.com/photos/sarae/234801351/)

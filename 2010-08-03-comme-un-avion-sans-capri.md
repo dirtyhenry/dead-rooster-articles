@@ -24,11 +24,11 @@ Couture.
 
 Les originales :
 
-<object width="500" height="400"><param name="movie" value="http://www.youtube.com/v/4TP3u0rNkys&hl=fr_FR&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/4TP3u0rNkys&hl=fr_FR&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="400"></embed></object>
+{% youtube 4TP3u0rNkys %}
 
 <div>&nbsp;</div>
 
-<object width="500" height="306"><param name="movie" value="http://www.youtube.com/v/PduOZg1DpvU&hl=fr_FR&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/PduOZg1DpvU&hl=fr_FR&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="306"></embed></object>
+{% youtube PduOZg1DpvU %}
 
 Une fois encore, comment est-il possible que personne n'y ait pensé ?
 

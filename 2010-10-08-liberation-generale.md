@@ -19,7 +19,7 @@ tags:
 
 La preuve :
 
-<object width="500" height="400"><param name="movie" value="http://www.youtube.com/v/1gD8nV8RlPU?fs=1&hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/1gD8nV8RlPU?fs=1&hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="400"></embed></object>
+{% youtube 1gD8nV8RlPU %}
 
 (via
 [howtodisappear](http://blog.howtodisappear.org/2010/09/dai-mahou-touge-vegetable-suicide.html))
@@ -52,6 +52,6 @@ Ca va être dur de choisir…
 
 Colette Renard est décédée cette semaine. Hommage en chanson fun…
 
-<object width="500" height="400"><param name="movie" value="http://www.youtube.com/v/n3gwyPxS7Yc?fs=1&hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/n3gwyPxS7Yc?fs=1&hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="400"></embed></object>
+{% youtube n3gwyPxS7Yc %}
 
 [Le Fun Friday de la semaine dernière](708)

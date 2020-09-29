@@ -84,7 +84,7 @@ fun.</a></i>
 Apple vous présente son tout dernier produit : l'ordinateur portable sans
 clavier ! Merci aussi de faire attention au sudoku-killer.
 
-<object width="500" height="400"><param name="movie" value="http://www.youtube.com/v/9BnLbv6QYcA?fs=1&hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/9BnLbv6QYcA?fs=1&hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="400"></embed></object>
+{% youtube 9BnLbv6QYcA %}
 
 (par [The Onion](http://www.theonion.com/) via Julian)
 

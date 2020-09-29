@@ -55,4 +55,4 @@ ps : j'ai aussi appris que le nom Reading Rainbow était celui
 d'[un show US pour enfant](http://en.wikipedia.org/wiki/Reading_Rainbow), dont
 voici le générique en bonus :
 
-<object width="500" height="400"><param name="movie" value="http://www.youtube.com/v/c6j8EiWIVZs?fs=1&hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/c6j8EiWIVZs?fs=1&hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="400"></embed></object>
+{% youtube c6j8EiWIVZs %}

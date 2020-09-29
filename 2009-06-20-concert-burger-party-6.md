@@ -23,4 +23,4 @@ Trackliste :
 - I Heard It Through The Grapevine (de Marvin Gaye)
 - We've Got A File On You (de Blur)
 
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/CUyY9Q8S1qQ&hl=fr&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/CUyY9Q8S1qQ&hl=fr&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+{% youtube CUyY9Q8S1qQ %}

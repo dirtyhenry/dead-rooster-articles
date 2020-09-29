@@ -26,4 +26,4 @@ First Floor_ (forcément), a été utilisé par un spot publicitaire de Twitter�
 n'a peut-être pas le même impact qu'être musique d'une pub Levi's mais quand
 même, ça doit aider à se faire connaître :
 
-<object width="500" height="306"><param name="movie" value="http://www.youtube.com/v/rIpD7hfffQo?fs=1&amp;hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/rIpD7hfffQo?fs=1&amp;hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="306"></embed></object>
+{% youtube rIpD7hfffQo %}

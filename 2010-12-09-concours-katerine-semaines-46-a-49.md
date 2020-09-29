@@ -32,7 +32,7 @@ Poitiers, Nantes et d'autres sont au programme.
 [Katerine veut qu'on le laisse kiffer la vibes avec son mec](http://www.katerinefrancisetsespeintres.com/dj.html).
 L'originale :
 
-<object width="500" height="400"><param name="movie" value="http://www.youtube.com/v/vXQrZQ5IHfc?fs=1&hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/vXQrZQ5IHfc?fs=1&hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="400"></embed></object>
+{% youtube vXQrZQ5IHfc %}
 
 &nbsp;
 
@@ -52,7 +52,7 @@ Ce matin, un lapin a tué un chasseur.
 [Katerine chante la révolution ici](http://www.katerinefrancisetsespeintres.com/lapin.html).
 Fais chauffer le fusil Chantal !
 
-<object width="500" height="400"><param name="movie" value="http://www.youtube.com/v/PsJtoVBhmbw?fs=1&hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/PsJtoVBhmbw?fs=1&hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="400"></embed></object>
+{% youtube PsJtoVBhmbw %}
 
 &nbsp;
 

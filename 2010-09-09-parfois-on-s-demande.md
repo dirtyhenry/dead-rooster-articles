@@ -39,7 +39,7 @@ pour écouter un groupe au nom technoïde…) qui, un jour, a fait s'effondrer m
 certitudes d'un cinglant : “Comment ?!? Tu connais pas **Acid House Kings** ?!?
 Mais c’est génial comme groupe !!!”
 
-<object width="500" height="401"><param name="movie" value="http://www.youtube.com/v/Y1mYCa5I8hA?fs=1&hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/Y1mYCa5I8hA?fs=1&hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="401"></embed></object>
+{% youtube Y1mYCa5I8hA %}
 
 Connaissant les goûts musicaux plutôt solides de la jeune fille, j’étais bien
 dans l’embarras ! Comment un groupe peut être “génial” avec un nom aussi pourri
@@ -71,7 +71,7 @@ désormais, _Advantage Acid House Kings_ et _Sing Along with Acid House Kings_ s
 révèlent tout aussi excellents, remplis de tubes en puissance, mais semble-t-il,
 puissamment ignorés…
 
-<object width="500" height="401"><param name="movie" value="http://www.youtube.com/v/gil7lOcvpjk?fs=1&hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/gil7lOcvpjk?fs=1&hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="401"></embed></object>
+{% youtube gil7lOcvpjk %}
 
 Alors, comme en plus, je suis en train de lire _Bandes Originales_ de **Rob
 Sheffield**, bouquin plutôt très bon décrivant une relation amoureuse au travers

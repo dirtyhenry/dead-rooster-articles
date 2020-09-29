@@ -27,7 +27,7 @@ Wes Anderson et Roman Coppola ont co-réalisé une pub pour Stella Artois. La
 Wes-touch - qui inclut toujours pas mal de french-touch, même si ici c'est
 peut-être de la belge-touch - est là.
 
-<object width="500" height="306"><param name="movie" value="http://www.youtube.com/v/hJ3dtPlD-8Q?fs=1&hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/hJ3dtPlD-8Q?fs=1&hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="306"></embed></object>
+{% youtube hJ3dtPlD-8Q %}
 
 (via
 [The Rushmore Academy](http://rushmoreacademy.com/2010/10/11/wes-anderson-and-roman-coppolas-ad-for-stella-artois))
@@ -43,7 +43,7 @@ par Sasha Baron Cohen, choix plutôt bien vu :
 
 Profitons-en pour nous souvenir de Freddie Mercure :
 
-<object width="500" height="400"><param name="movie" value="http://www.youtube.com/v/iTq0jtCoPGo?fs=1&hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/iTq0jtCoPGo?fs=1&hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="400"></embed></object>
+{% youtube iTq0jtCoPGo %}
 
 Par ailleurs, en ce qui concerne le biopic de Phil Spector (producteur génial
 des 60s, ayant plutôt mal vieilli : perruques et meurtre), le rôle serait tenu
@@ -78,16 +78,16 @@ Le foot est toujours source de fun.
 
 Preuve n°1 (via guiguilele) :
 
-<object width="500" height="400"><param name="movie" value="http://www.youtube.com/v/1T62VafD6a4?fs=1&hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/1T62VafD6a4?fs=1&hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="400"></embed></object>
+{% youtube 1T62VafD6a4 %}
 
 Preuve n°2 (via
 [L'Equipe Mag](http://www.lequipemag.fr/EquipeMag/Insolite/une-simulation-ridicule-20101011_162859.html)):
 
-<object width="500" height="400"><param name="movie" value="http://www.youtube.com/v/dP5rEffhXfo?fs=1&hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/dP5rEffhXfo?fs=1&hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="400"></embed></object>
+{% youtube dP5rEffhXfo %}
 
 <h2>5. Et le meilleur pour la fin</h2>
 
-<object width="500" height="400"><param name="movie" value="http://www.youtube.com/v/P9Fyey4D5hg?fs=1&hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/P9Fyey4D5hg?fs=1&hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="400"></embed></object>
+{% youtube P9Fyey4D5hg %}
 
 (via
 [Ludo](http://www.geeek.org/post/jesse-:-mon-nouvel-assistant-personnel-930))

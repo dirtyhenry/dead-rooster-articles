@@ -26,4 +26,4 @@ The Notwist est un groupe inégal mais parfois capable de coups de génies
 vidéo est ci-dessous. Merci à [how to
 disappear->http://blog.howtodisappear.org/) de nous l'avoir fait remarquer.
 
-<object width="500" height="400"><param name="movie" value="http://www.youtube.com/v/x2qKfzIpoQg&amp;hl=fr_FR&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/x2qKfzIpoQg&amp;hl=fr_FR&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="400"></embed></object>
+{% youtube x2qKfzIpoQg %}

@@ -21,12 +21,12 @@ c'est une des villes les plus cools du monde.
 Side-project d'un membre des Fratellis, il revisite le merveilleux titre des
 Stone Roses _I Am The Resurrection_ dans une version très Lee & Nancy.
 
-<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/qFMJ145mK1Q&hl=fr_FR&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/qFMJ145mK1Q&hl=fr_FR&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+{% youtube qFMJ145mK1Q %}
 
 Et l'originale des Stone Roses :
 
-<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/e6QnK0yql8s&hl=fr_FR&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/e6QnK0yql8s&hl=fr_FR&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+{% youtube e6QnK0yql8s %}
 
 Et pour le plaisir, Lee & Nancy :
 
-<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/iHtPvUHjZfU&hl=fr_FR&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/iHtPvUHjZfU&hl=fr_FR&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+{% youtube iHtPvUHjZfU %}

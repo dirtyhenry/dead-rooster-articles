@@ -28,4 +28,4 @@ téléchargeable sur leur site officiel et le clip du 1er single _1000 Years_ pe
 être visionné ci-dessous. The Coral semble y adopter une politique de débuts
 laborieux enchaînés sur des solos de guitare psychés en diable. Pas mal !
 
-<object width="500" height="300"><param name="movie" value="http://www.youtube.com/v/baH0SWCFVzo&hl=fr_FR&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/baH0SWCFVzo&hl=fr_FR&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="300"></embed></object>
+{% youtube baH0SWCFVzo %}

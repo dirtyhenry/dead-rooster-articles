@@ -34,4 +34,4 @@ l'exception de tous les autres". Foals a pas trop l'air de s'en faire et le
 single _This Orient_ nous semble dire que _Total Life Forever_ (qui sortira en
 mai) sera pas trop mal apparemment…
 
-<object width="500" height="300"><param name="movie" value="http://www.youtube.com/v/jX7sniIVmtM&hl=fr_FR&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/jX7sniIVmtM&hl=fr_FR&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="300"></embed></object>
+{% youtube jX7sniIVmtM %}

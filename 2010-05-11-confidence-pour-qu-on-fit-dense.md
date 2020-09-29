@@ -24,7 +24,7 @@ L'originale est ici (ne vous fiez pas à la vidéo, c'est moi qui ai la bonne
 orthographe de Schultheis,
 [cf. Wikipedia](http://fr.wikipedia.org/wiki/Jean_Schultheis)) :
 
-<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/nqAp8B50CeM&hl=fr_FR&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/nqAp8B50CeM&hl=fr_FR&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+{% youtube nqAp8B50CeM %}
 
 A noter que Jean a été l'auteur de nombreux autres tubes imparables, comme le
 prouve

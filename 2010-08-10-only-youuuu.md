@@ -15,4 +15,4 @@ de **Jason Falkner**, un artiste qu'on aime bien
 <br> Fort heureusement, et malgré 6 mois de décalage, elle nous parvient enfin
 aux oreilles ! Joie !
 
-<object width="500" height="300"><param name="movie" value="http://www.youtube.com/v/CeRzjsWneG8&hl=fr_FR&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/CeRzjsWneG8&hl=fr_FR&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="300"></embed></object>
+{% youtube CeRzjsWneG8 %}

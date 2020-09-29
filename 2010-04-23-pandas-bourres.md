@@ -27,4 +27,4 @@ discophiles deadroosteriens (c'est-à-dire entre 9 et 12 titres pour une durée
 totale de 32 à 36 minutes : le cahier des charges est assez précis) serait une
 tuerie…
 
-<object width="500" height="340"><param name="movie" value="http://www.youtube.com/v/qdRaf3-OEh4&hl=fr_FR&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/qdRaf3-OEh4&hl=fr_FR&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="340"></embed></object>
+{% youtube qdRaf3-OEh4 %}

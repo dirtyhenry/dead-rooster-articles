@@ -38,7 +38,7 @@ et quelques autres, voici une nouvelle réussite (3,5 millions de vues en à pei
 5 jours). En ce qui concerne la musique, la réussite est cependant moins
 franche…
 
-<object width="500" height="306"><param name="movie" value="http://www.youtube.com/v/nHlJODYBLKs?fs=1&hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/nHlJODYBLKs?fs=1&hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="306"></embed></object>
+{% youtube nHlJODYBLKs %}
 
 <h2>Guide du Metal</h2>
 

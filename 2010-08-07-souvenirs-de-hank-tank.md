@@ -63,4 +63,4 @@ un MP3 sur Amazon, strictement rien sur iTunes. Mais malgré tout, une excellent
 vidéo sur YouTube. Considérez vous donc faire partie des happy few. Vous
 connaissez Hank & Tank.
 
-<object width="500" height="400"><param name="movie" value="http://www.youtube.com/v/cWDXydo9SoU&hl=fr_FR&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/cWDXydo9SoU&hl=fr_FR&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="400"></embed></object>
+{% youtube cWDXydo9SoU %}

@@ -30,7 +30,7 @@ commencé.
 
 et en live et en kilt ça donne…
 
-<object width="500" height="400"><param name="movie" value="http://www.youtube.com/v/7PRhFYaWYYY?fs=1&hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/7PRhFYaWYYY?fs=1&hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="400"></embed></object>
+{% youtube 7PRhFYaWYYY %}
 
 <h2>Le concours</h2>
 
@@ -40,7 +40,7 @@ La reprise de Katerine est
 [ici](http://www.katerinefrancisetsespeintres.com/mere.html). Une version live
 d'Arno, qui fait pleurer les copains, Dechavanne, Arditi et Eve Angeli :
 
-<object width="500" height="400"><param name="movie" value="http://www.youtube.com/v/2rrYrTQUlY0?fs=1&hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/2rrYrTQUlY0?fs=1&hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="400"></embed></object>
+{% youtube 2rrYrTQUlY0 %}
 
 &nbsp;
 
@@ -49,7 +49,7 @@ d'Arno, qui fait pleurer les copains, Dechavanne, Arditi et Eve Angeli :
 La reprise de Katerine est
 [ici](http://www.katerinefrancisetsespeintres.com/chacun.html). L'originale :
 
-<object width="500" height="400"><param name="movie" value="http://www.youtube.com/v/lQ1aSVPuAug?fs=1&hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/lQ1aSVPuAug?fs=1&hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="400"></embed></object>
+{% youtube lQ1aSVPuAug %}
 
 &nbsp;
 
@@ -58,7 +58,7 @@ La reprise de Katerine est
 La reprise de Katerine est
 [ici](http://www.katerinefrancisetsespeintres.com/cheri.html). L'originale :
 
-<object width="500" height="400"><param name="movie" value="http://www.youtube.com/v/Sy7QglZfKHo?fs=1&hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/Sy7QglZfKHo?fs=1&hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="400"></embed></object>
+{% youtube Sy7QglZfKHo %}
 
 &nbsp;
 

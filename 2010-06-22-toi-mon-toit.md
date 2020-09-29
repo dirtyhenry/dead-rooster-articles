@@ -28,7 +28,7 @@ titre du prochain album de Katerine, _Bla Bla Bla_, diffusé cette semaine
 
 Quant à l'originale d'Elli Medeiros, là voilà :
 
-<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/mKsEBJdVvgI&hl=fr_FR&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/mKsEBJdVvgI&hl=fr_FR&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+{% youtube mKsEBJdVvgI %}
 
 Encore une fois, personne ne l'avait pronostiqué et le classement reste inchangé
 :

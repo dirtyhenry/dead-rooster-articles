@@ -26,7 +26,7 @@ l'exemple. Voilà le programme de pré-rentrée de Pauline, accompagnée de sa
 cousine (Arielle Dombasle, jeune et pas encore insupportable) et de son pote
 Pierre (Pascal Greggory, jeune et avec un suprenant physique de jeune premier).
 
-<object width="500" height="340"><param name="movie" value="http://www.youtube.com/v/bowl-mBK1aA&hl=fr&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/bowl-mBK1aA&hl=fr&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="340"></embed></object>
+{% youtube bowl-mBK1aA %}
 
 Ce film fait partie de la série _Comédies et proverbes_ de Rohmer (ici, "Qui
 trop parloit, il se mesfait"), que
@@ -49,7 +49,7 @@ d'admiration, la prend sous son aile et lui confie un rôle d'assistante à tout
 faire. Peu à peu, pourtant, Eve scrute et apprend tout de Margo et essaie de
 tout lui ravir : hommes, gloire et célébrité.
 
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/Eg-ckMup6SI&hl=fr&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/Eg-ckMup6SI&hl=fr&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+{% youtube Eg-ckMup6SI %}
 
 J'ai regardé ce film
 [sur les conseils que Serge Kaganski donne sur son blog](http://blogs.lesinrocks.com/s-kaganski/?p=204).
@@ -79,7 +79,7 @@ penser qu'il est un peu con, surtout que sa pote de boulot Alice semble être un
 chaussure plus adaptée à son pied. Mais gare à ses fesses si Irena en vient à la
 jalouser…
 
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/_9xmUidNvw8&hl=fr&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/_9xmUidNvw8&hl=fr&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+{% youtube _9xmUidNvw8 %}
 
 Film fantastique et d'angoisse assez court (1h10), l'oeuvre de Tourneur n'en est
 pas moins efficace. On flippe un peu, et encore une fois, c'est sur

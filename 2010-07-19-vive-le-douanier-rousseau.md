@@ -22,7 +22,7 @@ de la Compagnie Créole.
 
 L'originale en version Karaoké :
 
-<object width="500" height="400"><param name="movie" value="http://www.youtube.com/v/dBQOeZUA1wM&amp;hl=fr_FR&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/dBQOeZUA1wM&amp;hl=fr_FR&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="400"></embed></object>
+{% youtube dBQOeZUA1wM %}
 
 Comment est-il possible que personne n'y ait pensé ?
 

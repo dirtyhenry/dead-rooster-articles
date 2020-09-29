@@ -19,4 +19,4 @@ Heureusement qu'en France, on aura toujours la retransmission d'un spectacle du
 Crazy Horse à la St-Sylvestre, mais ils vont se faire chier aux States ! Le
 monde va mal !
 
-<object width="380" height="238"><param name="movie" value="http://www.youtube.com/v/ZibAqWH4UIQ?fs=1&hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/ZibAqWH4UIQ?fs=1&hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="380" height="238"></embed></object>
+{% youtube ZibAqWH4UIQ %}

@@ -22,4 +22,4 @@ meilleur), mais voilà la vidéo d'un premier titre, _Terrible Love_, qui nous
 donne envie d'être le 7 mai, date à laquelle le groupe ouvrira pour Pavement au
 Zénith.
 
-<object width="500" height="350"><param name="movie" value="http://www.youtube.com/v/-GdlsaQH6ao&color1=0xb1b1b1&color2=0xcfcfcf&hl=en_US&feature=player_embedded&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.youtube.com/v/-GdlsaQH6ao&color1=0xb1b1b1&color2=0xcfcfcf&hl=en_US&feature=player_embedded&fs=1" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="500" height="350"></embed></object>
+{% youtube -GdlsaQH6ao %}

@@ -23,4 +23,4 @@ la présence d'un choriste/clavier à la voix ridicule et candidat au titre de
 l'homme le moins charismatique du monde, la prestation d'Interpol chez Letterman
 laisse espérer de bonnes choses, pour le quatrième album !
 
-<object width="500" height="306"><param name="movie" value="http://www.youtube.com/v/gU9ZyrSEMS0&amp;hl=fr_FR&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/gU9ZyrSEMS0&amp;hl=fr_FR&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="306"></embed></object>
+{% youtube gU9ZyrSEMS0 %}

@@ -28,4 +28,4 @@ Apparemment, le leader du groupe, Blaine Harrison,
 et son papa/bassiste Henry a choisi de ne plus faire les tournées avec le
 groupe, mais le groupe semble regagner des couleurs après un 2nd album décevant.
 
-<object width="500" height="300"><param name="movie" value="http://www.youtube.com/v/oBRsXKgRAHc&color1=0xb1b1b1&color2=0xd0d0d0&hl=en_US&feature=player_embedded&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.youtube.com/v/oBRsXKgRAHc&color1=0xb1b1b1&color2=0xd0d0d0&hl=en_US&feature=player_embedded&fs=1" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="500" height="300"></embed></object>
+{% youtube oBRsXKgRAHc %}

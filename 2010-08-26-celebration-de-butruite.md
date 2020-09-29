@@ -17,7 +17,7 @@ tags:
 On ne l'avait pas mise du premier coup, mais maintenant, c'est réparé : voici la
 vidéo de 22 secondes la plus drôle des 20 dernières années.
 
-<object width="500" height="306"><param name="movie" value="http://www.youtube.com/v/IZHyUaJy_RI?fs=1&amp;hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/IZHyUaJy_RI?fs=1&amp;hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="306"></embed></object>
+{% youtube IZHyUaJy_RI %}
 
 ps : et c'est encore plus drôle
 [quand Larcenet en fait le commentaire](http://www.manularcenet.com/blog/articles/3791/point-trop-nen-faut)…

@@ -22,4 +22,4 @@ Pour le titre _Sleep Forever_, il faut se rendre sur le site de
 
 Pour Neon Jesus, c'est ici :
 
-<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/rfsKEdsmU7Y&hl=fr_FR&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/rfsKEdsmU7Y&hl=fr_FR&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+{% youtube rfsKEdsmU7Y %}

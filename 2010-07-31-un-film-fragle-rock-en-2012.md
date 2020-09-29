@@ -23,4 +23,4 @@ sa génération (clap, clap) - plutôt orientée pour un public adulte.
 
 C'est cool, j'irai voir ça pour fêter mes 31 ans !
 
-<object width="500" height="400"><param name="movie" value="http://www.youtube.com/v/6dXFWL7l7A0&amp;hl=fr_FR&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/6dXFWL7l7A0&amp;hl=fr_FR&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="400"></embed></object>
+{% youtube 6dXFWL7l7A0 %}

@@ -23,7 +23,7 @@ Noah.
 On ne se privera pas du plaisir de revoir l'originale :
 
 <p>
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/Xi4bI1PLBsI&hl=fr_FR&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/Xi4bI1PLBsI&hl=fr_FR&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+{% youtube Xi4bI1PLBsI %}
 </p>
 
 Alors que Roland Garros vient de se finir et à quelques jours de l'ouverture de

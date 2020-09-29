@@ -23,7 +23,7 @@ Devant un public en folie, Mylène Farmer l'interprète dans ce que je soupçonn
 manière assez troublante comme on peut entendre "abominable" quand Jean-Pierre
 Descombes lance "à vous Mylène" :
 
-<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/_lXGVrnLJhM&hl=fr_FR&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/_lXGVrnLJhM&hl=fr_FR&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+{% youtube _lXGVrnLJhM %}
 
 Hervé et Joe l'avaient tous deux pronostiquée en prems et ils marquent donc 5
 points chacun :

@@ -32,4 +32,4 @@ Quelques liens :
 
 Et enfin la vidéo du single _When I'm With You_ :
 
-<object width="500" height="306"><param name="movie" value="http://www.youtube.com/v/8Sj5_WITMpA&amp;hl=fr_FR&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/8Sj5_WITMpA&amp;hl=fr_FR&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="306"></embed></object>
+{% youtube 8Sj5_WITMpA %}

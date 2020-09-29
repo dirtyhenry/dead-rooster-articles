@@ -15,7 +15,7 @@ comments:
       une réplique…
 ---
 
-<object width="500" height="344"><param name="movie" value="http://www.youtube.com/v/XbSvA51olgY&hl=fr_FR&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/XbSvA51olgY&hl=fr_FR&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="344"></embed></object>
+{% youtube XbSvA51olgY %}
 
 Cette vidéo est évidemment à mettre en parallèle avec la déclaration de la
 semaine dernière du même chanteur masqué : "Je vais écrire un manifeste

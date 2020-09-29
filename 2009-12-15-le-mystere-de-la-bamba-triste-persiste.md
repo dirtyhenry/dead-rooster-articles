@@ -20,7 +20,7 @@ comments:
 
 <p>
 
-<object width="500" height="350"><param name="movie" value="http://www.youtube.com/v/V7QHPDcUp9M&hl=fr_FR&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/V7QHPDcUp9M&hl=fr_FR&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="350"></embed></object>
+{% youtube V7QHPDcUp9M %}
 
 </p>
 

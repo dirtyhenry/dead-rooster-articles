@@ -24,7 +24,7 @@ Alors que tout le monde s'attendait à Banana Split… La reprise de Katerine es
 [ici](http://www.katerinefrancisetsespeintres.com/brunes.html). Une version VHS
 un peu pourrie de l'originale :
 
-<object width="500" height="400"><param name="movie" value="http://www.youtube.com/v/Fdu4jmtzb-8?fs=1&hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/Fdu4jmtzb-8?fs=1&hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="400"></embed></object>
+{% youtube Fdu4jmtzb-8 %}
 
 &nbsp;
 
@@ -33,7 +33,7 @@ un peu pourrie de l'originale :
 La reprise de Katerine est
 [ici](http://www.katerinefrancisetsespeintres.com/enerve.html). L'originale :
 
-<object width="500" height="306"><param name="movie" value="http://www.youtube.com/v/iLv-LEO178c?fs=1&hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/iLv-LEO178c?fs=1&hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="306"></embed></object>
+{% youtube iLv-LEO178c %}
 
 &nbsp;
 
@@ -42,7 +42,7 @@ La reprise de Katerine est
 Chanson totalement inconnue au bataillon… La reprise de Katerine est
 [ici](http://www.katerinefrancisetsespeintres.com/monde.html). L'originale :
 
-<object width="500" height="400"><param name="movie" value="http://www.youtube.com/v/cGGp54buqlw?fs=1&hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/cGGp54buqlw?fs=1&hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="400"></embed></object>
+{% youtube cGGp54buqlw %}
 
 &nbsp;
 
@@ -52,12 +52,12 @@ La reprise de Katerine est
 [ici](http://www.katerinefrancisetsespeintres.com/pluie.html). La version
 française originale, par le prince Sasha :
 
-<object width="500" height="400"><param name="movie" value="http://www.youtube.com/v/p_GZXN6porg?fs=1&hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/p_GZXN6porg?fs=1&hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="400"></embed></object>
+{% youtube p_GZXN6porg %}
 
 Notons malgré tout que l'originale est signée Hal David et Burt Bacharach, pour
 le film _Butch Cassidy et le Kid_ :
 
-<object width="500" height="400"><param name="movie" value="http://www.youtube.com/v/VILWkqlQLWk?fs=1&hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/VILWkqlQLWk?fs=1&hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="400"></embed></object>
+{% youtube VILWkqlQLWk %}
 
 &nbsp;
 

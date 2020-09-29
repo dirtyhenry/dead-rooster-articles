@@ -64,7 +64,7 @@ dit éclectique ?
 
 Un extrait d'_Empire Square_ :
 
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/69e7JEcGCAM&hl=fr&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/69e7JEcGCAM&hl=fr&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+{% youtube 69e7JEcGCAM %}
 
 [http://www.myspace.com/theailerons](http://www.myspace.com/theailerons)
 
@@ -79,7 +79,7 @@ prochain disque de Joy Division v3 aka Bad Lieutenant.
 
 Le clip de _Vindaloo_ par Fat Les :
 
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/0T1pXsJp_go&hl=fr&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/0T1pXsJp_go&hl=fr&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+{% youtube 0T1pXsJp_go %}
 
 Ne nous attardons pas sur le travail de **Damon Albarn** : Gorillaz, Mali Music,
 The Good, The Bad & The Queen, Monkey: Journey To The West, tout cela est connu

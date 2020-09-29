@@ -17,7 +17,7 @@ tags:
 Le groupe de Memphis **Magic Kids** nous invite à imaginer qu'on est en
 Californie dans les années 60.
 
-<object width="500" height="306"><param name="movie" value="http://www.youtube.com/v/inp3Dh1zib8?fs=1&hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/inp3Dh1zib8?fs=1&hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="306"></embed></object>
+{% youtube inp3Dh1zib8 %}
 
 (via
 [iguessimfloating.net](http://www.iguessimfloating.net/2010/08/video-magic-kids-superball.html))

@@ -64,7 +64,7 @@ La reprise de Katerine est
 [ici](http://www.katerinefrancisetsespeintres.com/ailleurs.html). Une version
 live :
 
-<object width="500" height="306"><param name="movie" value="http://www.youtube.com/v/H28JwoGQfBU?fs=1&hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/H28JwoGQfBU?fs=1&hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="306"></embed></object>
+{% youtube H28JwoGQfBU %}
 
 &nbsp;
 
@@ -76,7 +76,7 @@ vraiment si cette chanson a un auteur officiel, mais en tout cas, cette version
 live à _40° à l'ombre_ par un groupe baptisé Phenomenal Club est de toute beauté
 :
 
-<object width="500" height="400"><param name="movie" value="http://www.youtube.com/v/X4cD1w10x_M?fs=1&hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/X4cD1w10x_M?fs=1&hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="400"></embed></object>
+{% youtube X4cD1w10x_M %}
 
 &nbsp;
 

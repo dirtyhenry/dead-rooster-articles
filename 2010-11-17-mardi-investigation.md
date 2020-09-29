@@ -34,12 +34,12 @@ La musique a ceci d'insurpassable qu'elle acquiert la cohérence qu'on lui
 trouve. Je sais pas si c'est très compréhensible comme phrase, mais par exemple,
 aujourd'hui, j'écoutais ça :
 
-<object width="500" height="400"><param name="movie" value="http://www.youtube.com/v/0eDOEgdyN5U?fs=1&hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/0eDOEgdyN5U?fs=1&hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="400"></embed></object>
+{% youtube 0eDOEgdyN5U %}
 
 Quand, au milieu de la chanson, il y a eu ces paroles : "With two years to
 wait/For the sound of Jilted John". Alors, du coup, j'ai regardé ça :
 
-<object width="500" height="400"><param name="movie" value="http://www.youtube.com/v/iN45OjB-cCU?fs=1&hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/iN45OjB-cCU?fs=1&hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="400"></embed></object>
+{% youtube iN45OjB-cCU %}
 
 Et puis, quand ce fut fini et que j'eus bien ri, je me mis à lire la page
 wikipédia de [Graham Fellows](http://fr.wikipedia.org/wiki/Graham_Fellows).
@@ -52,6 +52,6 @@ Kicks, je lus sur la page wikipédia sus-nommée que le morceau était
 Ce même John Peel qui n'avait qu'un souhait : être enterré au son de la chanson
 des Undertones.
 
-<object width="500" height="400"><param name="movie" value="http://www.youtube.com/v/oskM5XD_Yc4?fs=1&hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/oskM5XD_Yc4?fs=1&hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="400"></embed></object>
+{% youtube oskM5XD_Yc4 %}
 
 Bref, tout est cohérent quoi !

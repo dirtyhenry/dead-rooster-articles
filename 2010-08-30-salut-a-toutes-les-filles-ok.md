@@ -24,7 +24,7 @@ Les 3 dernières furent donc…
 La reprise de Katerine est
 [ici](http://www.katerinefrancisetsespeintres.com/filles.html). L'originale :
 
-<object width="500" height="400"><param name="movie" value="http://www.youtube.com/v/hZKyxmSrUug?fs=1&hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/hZKyxmSrUug?fs=1&hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="400"></embed></object>
+{% youtube hZKyxmSrUug %}
 
 <h2>2. *T'es OK* d'Ottowan</h2>
 
@@ -38,7 +38,7 @@ recommandée) [ici](http://www.youtube.com/watch?v=F-04OM2oUt4).
 La reprise de Katerine est
 [ici](http://www.katerinefrancisetsespeintres.com/salut.html). L'originale (et
 un bout d'interview) :
-<object width="500" height="400"><param name="movie" value="http://www.youtube.com/v/5lTFu-VpPho?fs=1&hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/5lTFu-VpPho?fs=1&hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="400"></embed></object>
+{% youtube 5lTFu-VpPho %}
 
 <h2>Le classement</h2>
 

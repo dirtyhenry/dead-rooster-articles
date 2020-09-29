@@ -37,4 +37,4 @@ comments:
 Entre le 1er Batman, _Batman : The Movie_, et le dernier en date, _The Dark
 Knight_, plusieurs paliers semblent avoir été franchis par le cinéma…
 
-<object width="500" height="306"><param name="movie" value="http://www.youtube.com/v/X0UJaprpxrk&amp;hl=fr_FR&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/X0UJaprpxrk&amp;hl=fr_FR&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="306"></embed></object>
+{% youtube X0UJaprpxrk %}

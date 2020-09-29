@@ -31,4 +31,4 @@ YouTube)
 ps : le texte de cette chanson n'est pas poli. Merci de ne pas le chanter chez
 vous.
 
-<object width="500" height="306"><param name="movie" value="http://www.youtube.com/v/CAV0XrbEwNc?fs=1&hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/CAV0XrbEwNc?fs=1&hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="306"></embed></object>
+{% youtube CAV0XrbEwNc %}

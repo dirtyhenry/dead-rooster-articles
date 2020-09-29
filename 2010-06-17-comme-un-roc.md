@@ -24,7 +24,7 @@ Tradition oblige, bien obligé de mettre la version originale (une médaille à
 celui qui tient plus de 20 secondes) :
 
 <p>
-<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/2Q5R48bXOKU&hl=fr_FR&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/2Q5R48bXOKU&hl=fr_FR&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+{% youtube 2Q5R48bXOKU %}
 </p>
 
 Merci bien, personne n'avait osé pronostiqué ça et donc, classement inchangé :

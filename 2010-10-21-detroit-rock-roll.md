@@ -21,7 +21,7 @@ Ben Swank, le batteur des Soledad Brothers, désormais membre de
 The Guardian avait réagi en 2008 au visionnage d'un documentaire de la BBC,
 _Motor City's Burning: Detroit From Motown To The Stooges_.
 
-<object width="500" height="306"><param name="movie" value="http://www.youtube.com/v/Et8VXb9pv1c?fs=1&hl=fr_FR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/Et8VXb9pv1c?fs=1&hl=fr_FR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="306"></embed></object>
+{% youtube Et8VXb9pv1c %}
 
 [L'article original est ici](http://www.guardian.co.uk/music/2008/mar/01/popandrock.features16),
 en voici une traduction faite maison :

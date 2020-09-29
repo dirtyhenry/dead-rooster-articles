@@ -32,4 +32,4 @@ prochaines semaines annoncent entre autres The Shins, Passion Pit ou The Kills.
 Photos et vidéos accompagnent chaque morceau, comme ici, avec celle de She & Him
 (tiens donc !) :
 
-<object width="500" height="300"><param name="movie" value="http://www.youtube.com/v/tWDjDL2NAQM&hl=fr_FR&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/tWDjDL2NAQM&hl=fr_FR&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="300"></embed></object>
+{% youtube tWDjDL2NAQM %}

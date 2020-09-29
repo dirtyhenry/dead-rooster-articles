@@ -21,7 +21,7 @@ et Céline Dion.
 Le choix de l'originale est discutable, hein, mais bon, c'est la tradition, la
 voilà jouée chez Drucker :
 
-<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/XBjCUsmGkFo&amp;hl=fr_FR&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/XBjCUsmGkFo&amp;hl=fr_FR&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+{% youtube XBjCUsmGkFo %}
 
 Comme depuis un moment, pas de changement au classement :
 
