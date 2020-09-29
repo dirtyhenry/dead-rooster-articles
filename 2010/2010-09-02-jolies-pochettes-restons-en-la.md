@@ -14,21 +14,21 @@ Comme c'est frustrant quand des albums ont des super pochettes… mais que le
 contenu n'est pas à la hauteur. Le contenu n'est pas horrible bien sûr, juste
 décevant vis-à-vis de la pochette.
 
-<h2>Beat Connection</h2>
+## Beat Connection
 
 <img366|center>
 
 Beat Connection vient de diffuser un EP gratuit sur bandcamp.
 [A écouter ici](http://beatconnection.bandcamp.com/).
 
-<h2>Warm Waves</h2>
+## Warm Waves
 
 <img367|center>
 
 Les gens de I Guess I'm Floating sont d'accord sur la qualité de la pochette… et
 [partagent les doutes sur la musique](http://www.iguessimfloating.net/2010/08/mpfree-warm-waves-lifted-ep.html).
 
-<h2>Pony Club</h2>
+## Pony Club
 
 <img368|center>
 

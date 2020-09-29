@@ -20,7 +20,7 @@ tags:
 <span style="color:#009;">**Edit** : 2010, c'est fini, le concours est terminé
 !</span>
 
-<h2>Concours permanent</h2>
+## Concours permanent
 
 <span style="color:#009;">**Edit** : on me glisse à l'oreille (merci à Damien et
 Guillaume) que c'est plus marrant de laisser le concours ouvert jusqu'à la fin

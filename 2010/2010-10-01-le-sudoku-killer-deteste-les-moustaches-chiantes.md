@@ -22,7 +22,7 @@ tags:
 Le vendredi, le fun est de bon aloi. Cette semaine : on se réveille moustachu,
 détesté, entouré de photos chiantes, et on attend l'arrivée du sudoku-killer.
 
-<h2>1. Comment rendre une pub marrante ?</h2>
+## 1. Comment rendre une pub marrante ?
 
 En engageant Jason Schwartzman comme acteur et Roman Coppola comme réalisateur
 ([tiens, tiens, encore ces deux-là !](201)).
@@ -36,7 +36,7 @@ verticalement.
 (via
 [NewYorker.com](http://www.newyorker.com/online/blogs/newsdesk/2010/09/jason-schwartzman-ipad-video.html))
 
-<h2>2. Comment devenir le groupe le plus détesté au monde ?</h2>
+## 2. Comment devenir le groupe le plus détesté au monde ?
 
 Le webcomic [XKCD](http://xkcd.com/780/) nous donne une piste pour cela.
 
@@ -48,7 +48,7 @@ détesté du monde grâce à son titre
 
 (via [xkcd](http://xkcd.com), sous licence Creative Commons)
 
-<h2>3. Comment rendre fun ses photos chiantes ?</h2>
+## 3. Comment rendre fun ses photos chiantes ?
 
 CollegeHumor nous présente
 [une nouvelle extension à Photoshop : le PhotoBomb Tool](http://www.collegehumor.com/video:1940686),
@@ -58,7 +58,7 @@ qui permet de rendre fun ses photos chiantes.
 
 (via [Ludo](http://www.geeek.org/post/photoshop-cs11-et-le-photobomb-tool-892))
 
-<h2>4. Comment revisiter l'histoire du foot en étant fun ?</h2>
+## 4. Comment revisiter l'histoire du foot en étant fun ?
 
 Les émissions de débat sur le foot sont ce qu'il y a de plus fun à la radio
 depuis que _La Panique au Mangin Palace_ n'est plus. Je recommande chaudement
@@ -75,7 +75,7 @@ absolument pas rire. C'est un risque à prendre.
 (via
 [lequipemag.fr](http://www.lequipemag.fr/EquipeMag/Blogs/les-deux-dingues-de-l-after-20100916_183228.html))
 
-<h2>5. Comment soigner son addiction aux nouvelles technologies ?</h2>
+## 5. Comment soigner son addiction aux nouvelles technologies ?
 
 Apple vous présente son tout dernier produit : l'ordinateur portable sans
 clavier ! Merci aussi de faire attention au sudoku-killer.

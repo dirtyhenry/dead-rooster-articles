@@ -49,7 +49,7 @@ déterrés à l'occasion du film ! Outre les morceaux de musique classique, tous
 très beaux, 6 morceaux se distinguent aux oreilles de l'amateur de musique un
 peu plus contemporaine.
 
-<h2>*Blind* - Frustration</h2>
+## *Blind* - Frustration
 
 Contrairement à ce qu'on pourrait penser, Frustration n'est pas un groupe
 anglais de 78, mais un groupe parisien des années 2000, qui n'a pas dû passer à
@@ -58,7 +58,7 @@ côté de Joy Division.
 À écouter
 [ici](http://www.musicme.com/Frustration/albums/Full-Of-Sorrow-3700368460979.html?play=01).
 
-<h2>*La Fac de Lettres* - Jacqueline Taïeb</h2>
+## *La Fac de Lettres* - Jacqueline Taïeb
 
 De la chanteuse des 60s, on connaissait surtout
 [_7 heures du matin_](http://www.youtube.com/watch?v=guADTFlEHJE), mais _La Fac
@@ -66,7 +66,7 @@ de Lettres_ n'est pas piquée des vers non plus.
 
 {% youtube QZjExxr2S_c %}
 
-<h2>*Si Tu Reviens Chez Moi* - 5 Gentlemen</h2>
+## *Si Tu Reviens Chez Moi* - 5 Gentlemen
 
 Là, pas de surprise, c'est bien dans les années 60 qu'il faut aller chercher
 pour trouver trace des 5 Gentlemen, visiblement inspiration non négligeable de
@@ -74,7 +74,7 @@ pour trouver trace des 5 Gentlemen, visiblement inspiration non négligeable de
 
 {% youtube k8nCsxVGR0M %}
 
-<h2>*The Bells Tolls Five* - Peter von Poehl</h2>
+## *The Bells Tolls Five* - Peter von Poehl
 
 Avec ce titre de Von Poehl
 (qu'[on avait ici même appelé von proote il y a quelques années](235), nous lui
@@ -83,14 +83,14 @@ l'atmosphère du film. Très beau titre.
 
 {% youtube Pp5i3I6MVpE %}
 
-<h2>*Rectangle* - Jacno</h2>
+## *Rectangle* - Jacno
 
 Pour le générique de fin, Donzelli nous rappelle que
 [c'est l'heure du goûter](http://www.youtube.com/watch?v=ZQPu374PPq0]. "Ne pas oublier d'aller réécouter [la version de Katerine->744").
 
 {% vimeo x33sv7 %}
 
-<h2>*Ton grain de beauté* - Benjamin Biolay & Valérie Donzelli</h2>
+## *Ton grain de beauté* - Benjamin Biolay & Valérie Donzelli
 
 Interprétée par Juliette et Roméo dans le film, la version avec Biolay est
 malgré tout plus réussie pour une écoute hors du film. Cependant introuvable en

@@ -20,7 +20,7 @@ tags:
   - Ciné-Club moi j’vous dis
 ---
 
-<h2>*Le Lauréat* (*The Graduate*), de Mike Nichols (1967)</h2>
+## *Le Lauréat* (*The Graduate*), de Mike Nichols (1967)
 
 Benjamin Braddock vient d'être diplômé. Ses parents et leurs amis sont tous très
 contents et s'interrogent maintenant sur la suite : "tu es si brillant Benjamin,

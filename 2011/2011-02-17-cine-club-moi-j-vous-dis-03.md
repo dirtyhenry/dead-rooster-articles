@@ -15,7 +15,7 @@ tags:
 
 {**Catégorie "Vieux Films à voir en DVD"**}
 
-<h2>*The Wizard Of Oz* - Victor Fleming (1939)</h2>
+## *The Wizard Of Oz* - Victor Fleming (1939)
 
 Il était grand temps pour moi de me pencher sur ce fameux magicien d'Oz. A force
 de références dans des films et séries, il est tout de même bon de jeter un oeil
@@ -49,7 +49,7 @@ partie de _The Dark Side Of The Moon_, des Pink Floyd, se superpose parfaitement
 à la séquence d'ouverture du film. Les fans ont baptisé ça _Dark Site Of The
 Rainbow_ ([voir sur YouTube](http://www.youtube.com/embed/3ng74hxX61E)).
 
-<h2>*Ghost World* - Terry Zwigoff (2001)</h2>
+## *Ghost World* - Terry Zwigoff (2001)
 
 Enid et Rebecca sont deux copines qui ressemblent beaucoup à Daria et Jeanne, de
 _Daria_. Elles viennent de finir le lycée et prévoient d'emménager ensemble à la
@@ -78,7 +78,7 @@ l'[on pourra voir sur YouTube](http://www.youtube.com/watch?v=VB4q9rcfvvE) (ils
 sont vraiment débiles les utilisateurs de YouTube qui désactivent l'intégration
 des vidéos sur des sites web).
 
-<h2>*Fantomas* - André Hunebelle (1964)</h2>
+## *Fantomas* - André Hunebelle (1964)
 
 Croyez-le ou pas, je n'ai vu Fantomas pour la 1ère fois de ma vie qu'en 2011.
 Bien sûr, j'en connaissais des bouts de ci de là, mais jamais je n'avais vu le
@@ -110,7 +110,7 @@ N.B. : le vendeur de BD des Simpsons s'intéressera aussi aux remixes de
 Fantomas, qu'on peut trouver
 [sur YouTube](http://www.youtube.com/watch?v=4AqOg_cF1IU) (le monde va mal !).
 
-<h2>Les autres</h2>
+## Les autres
 
 - _L'année du dragon_ - Michael Cimino (1985) : remake du Parrain où on remplace
   la Sicile par la Chine, le film prouve surtout que [Mickey Rourke et Bruce
@@ -127,7 +127,7 @@ Fantomas, qu'on peut trouver
 
 **{Catégorie "à voir au ciné mais faut se dépêcher"**}
 
-<h2>*Somewhere* - Sofia Coppola</h2>
+## *Somewhere* - Sofia Coppola
 
 Pas de révolution dans le cinéma de la fille Coppola. On se retrouve toujours
 passioné par des gens en train de s'ennuyer. En plus, y'a une chanson des
@@ -135,22 +135,22 @@ Strokes…
 
 {% youtube vvSspY7WU10 %}
 
-<h2>*Le nom des gens* - Michel Leclerc</h2>
+## *Le nom des gens* - Michel Leclerc
 
 Une jeune fille décide de coucher avec ceux qu'elles considèrent "fachos" pour
 les convertir à sa cause : le PS. C'est drôle et plutôt intelligent et élégant.
 
-<h2>*The Green Hornet* - Michel Gondry</h2>
+## *The Green Hornet* - Michel Gondry
 
 Parfois marrant, la première heure est tout de même longuette. Le final
 récompensera les plus patients.
 
-<h2>*Hereafter* - Clint Eastwood</h2>
+## *Hereafter* - Clint Eastwood
 
 Une scène de tsunami complètement incroyable et très spectaculaire (au bon sens
 du terme), après on s'ennuie ferme et on tend des mouchoirs à ses voisines…
 
-<h2>Les autres</h2>
+## Les autres
 
 - _Harry Potter and the Deathly Hallows - Part 1_ - David Yates : bon ben on a
   commencé la série alors on va aller au bout hein !

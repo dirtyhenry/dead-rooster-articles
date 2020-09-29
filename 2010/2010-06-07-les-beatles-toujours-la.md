@@ -17,7 +17,7 @@ tags:
 Que [ce vil coquin de Sean Lennon se rassure](574), les Beatles ne sont pas
 encore prêts de quitter la scène publique !
 
-<h2>McCartney et Barack</h2>
+## McCartney et Barack
 
 D'abord, scène improbable où **Paul McCartney** fait reprendre le refrain de
 _Hey Jude_ bras dessus-bras dessous avec le président Obama et son épouse, Jack
@@ -25,7 +25,7 @@ White, Seinfeld et bien d'autres :
 
 {% youtube xxkVAXSUdW8 %}
 
-<h2>Andre 3000 et Magic</h2>
+## Andre 3000 et Magic
 
 Ensuite, **Andre 3000** fait une pub pour Nike à l'occasion de la finale NBA en
 cours et montre de magnifiques images des Pippen, Magic Johnson, Barkley,

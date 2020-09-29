@@ -17,7 +17,7 @@ tags:
 
 {**Catégorie "Vieux Films à voir en DVD"**}
 
-<h2>*La Folle Ingénue/Cluny Brown* - Ernst Lubitsch</h2>
+## *La Folle Ingénue/Cluny Brown* - Ernst Lubitsch
 
 Cluny Brown est une fille un peu fofolle, pleine de vie mais qui ne se conforme
 pas assez aux règles de la bienséance de l'Angleterre de la fin des années 30.
@@ -55,7 +55,7 @@ pour bloquer l'intégration des vidéos sur les pages web. Les ringards !
 
 ---
 
-<h2>*La Chambre du fils* (*La stanza del figlio*) - Nanni Moretti</h2>
+## *La Chambre du fils* (*La stanza del figlio*) - Nanni Moretti
 
 Nous sommes à Ancône. Une chouette famille avec 2 enfants (un garçon et une
 fille qui ne s'appellent ni Bud, ni Kelly) coule des jours heureux. Sauf qu'un
@@ -87,7 +87,7 @@ La musique qui va avec : _By This River_ de Brian Eno
 
 **{Catégorie "à voir au ciné mais faut se dépêcher"**}
 
-<h2>*Ni à vendre/Ni à louer* - Pascal Rabaté</h2>
+## *Ni à vendre/Ni à louer* - Pascal Rabaté
 
 Un week-end sur le littoral de la Loire Atlantique, avec une flopée de
 personnages loufoques et cocasses, deux mots qu'on n'a que trop rarement

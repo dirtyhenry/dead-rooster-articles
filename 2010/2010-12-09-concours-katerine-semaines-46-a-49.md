@@ -19,13 +19,13 @@ tags:
 
 Faisons le point sur les 4 dernières semaines.
 
-<h2>Bientôt en concert</h2>
+## Bientôt en concert
 
 Le groupe vient d'annoncer des dates de concert à partir de mars 2011. Paris,
 Poitiers, Nantes et d'autres sont au programme.
 [Le détail complet est ici](http://www.katerinefrancisetsespeintres.com/concerts.html).
 
-<h2>Les chansons des 4 dernières semaines</h2>
+## Les chansons des 4 dernières semaines
 
 <h3>46. *DJ* de Diam's</h3>
 
@@ -58,7 +58,7 @@ mis à l'honneur par Katerine sur _Confidence pour Confidence_. L'originale :
 
 {% youtube Xe8QjHpYE1E %}
 
-<h2>Le classement</h2>
+## Le classement
 
 Personne ne marque de point.
 

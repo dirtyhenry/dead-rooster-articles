@@ -34,7 +34,7 @@ comments:
 C'est bien triste mais voici l'épilogue du concours Katerine, qui nous aura tenu
 en haleine toute l'année 2010.
 
-<h2>Les chansons des 3 dernières semaines</h2>
+## Les chansons des 3 dernières semaines
 
 <h3>50. *Rectangle* de Jacno</h3>
 
@@ -58,7 +58,7 @@ L'originale :
 
 {% vimeo x3rbw8 %}
 
-<h2>Le classement</h2>
+## Le classement
 
 Personne ne marque de point. Le classement final est donc :
 
@@ -69,7 +69,7 @@ Personne ne marque de point. Le classement final est donc :
 
 Félicitations à tous les lauréats !
 
-<h2>Pour conclure</h2>
+## Pour conclure
 
 N'oubliez pas que toutes les reprises sont disponibles sur
 [le site de Katerine, Francis et ses peintres](http://www.katerinefrancisetsespeintres.com/).

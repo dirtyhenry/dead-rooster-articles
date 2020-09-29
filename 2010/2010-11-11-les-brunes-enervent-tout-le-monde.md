@@ -16,7 +16,7 @@ tags:
 
 Quatre semaines de Katerine à rattraper d'un coup…
 
-<h2>Les chansons des 4 dernières semaines</h2>
+## Les chansons des 4 dernières semaines
 
 <h3>42. *Les brunes comptent pas des brunes* de Lio</h3>
 
@@ -53,7 +53,7 @@ le film _Butch Cassidy et le Kid_ :
 
 {% youtube VILWkqlQLWk %}
 
-<h2>Le classement</h2>
+## Le classement
 
 Personne ne marque de point.
 

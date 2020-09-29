@@ -21,7 +21,7 @@ tags:
 OK, on est déjà en février, mais faut bien trouver le temps de compiler les
 brouillons. C'est chose faite pour décembre.
 
-<h2>Les 5 étoiles </h2>
+## Les 5 étoiles 
 
 <h3>The Black Keys - *El Camino*</h3>
 
@@ -52,7 +52,7 @@ On avait beaucoup aimé [_Jesus Fever_](822) il y a de nombreux mois. L'album es
 dans la ligne directe de ce single et ne déçoit pas. Du classique, mais
 superbement exécuté.
 
-<h2>Les 4 étoiles</h2>
+## Les 4 étoiles
 
 <h3>Bon Iver - *Bon Iver*</h3>
 
@@ -80,7 +80,7 @@ Le chanteur de Surfer Blood a une voix vraiment particulière. Ça doit être du
 "ça passe ou ça casse". Chez moi ça passe, et les chansons sont bien donc c'est
 cool.
 
-<h2>Les 3 étoiles</h2>
+## Les 3 étoiles
 
 <h3>Jeff The Brotherhood - *We Are The Champions*</h3>
 
@@ -106,7 +106,7 @@ Le Belle & Sebastian en échappée solitaire dans des titres pop coolos sans êt
 flamboyants. Il sera sûrement repris avant la flamme rouge par le peloton. Le
 titre de l'album est malgré tout très drôle, on lui en saura gré.
 
-<h2>Les 2 étoiles</h2>
+## Les 2 étoiles
 
 <h3>Yuck - *Yuck*</h3>
 
@@ -128,7 +128,7 @@ quand on aura un peu de temps.
 De jolies mélodies mais enrobées de trop d'effets et d'électronique pour s'y
 attacher vraiment.
 
-<h2>Les 1 étoile</h2>
+## Les 1 étoile
 
 <h3>The Pains Of Being Pure At Heart - *Belong*</h3>
 
@@ -154,7 +154,7 @@ diffusé depuis sur [le podcast #01->924)). D'autres fois, non. On est là dans 
 
 Mick Jagger a créé ce "super"-groupe. Une question : "pourquoi ?". Horrible.
 
-<h2>La synthèse</h2>
+## La synthèse
 
 <a href="http://open.spotify.com/user/dirtyhenry/playlist/6XJB9SVjFgrjra8hnKreaY"><img src="/squelettes/images/spotify-button.png" /></a>
 
@@ -162,29 +162,29 @@ Réalisée avec [Sortmash](http://sortmash.com).
 
 <div style="background: url(/IMG/png/top-decembre-2011.png);">
 <ul>
-<li style="height: 70px;margin-left: 160px;"><h2>The Black Keys</h2><h3>El Camino</h3></li>
-<li style="height: 70px;margin-left: 160px;"><h2>Atlas Sound</h2><h3>Parallax</h3></li>
-<li style="height: 70px;margin-left: 160px;"><h2>Fleet Foxes</h2><h3>Helplessness Blues</h3></li>
-<li style="height: 70px;margin-left: 160px;"><h2>Kurt Vile</h2><h3>Smoke Ring For My Halo</h3></li>
+<li style="height: 70px;margin-left: 160px;">## The Black Keys<h3>El Camino</h3></li>
+<li style="height: 70px;margin-left: 160px;">## Atlas Sound<h3>Parallax</h3></li>
+<li style="height: 70px;margin-left: 160px;">## Fleet Foxes<h3>Helplessness Blues</h3></li>
+<li style="height: 70px;margin-left: 160px;">## Kurt Vile<h3>Smoke Ring For My Halo</h3></li>
 
-<li style="height: 70px;margin-left: 160px;"><h2>Bon Iver</h2><h3>Bon Iver</h3></li>
-<li style="height: 70px;margin-left: 160px;"><h2>Powersolo</h2><h3>Buzz Human</h3></li>
-<li style="height: 70px;margin-left: 160px;"><h2>Beat Mark</h2><h3>Howls of Joy</h3></li>
-<li style="height: 70px;margin-left: 160px;"><h2>Surfer Blood</h2><h3>Tarot Classics EP</h3></li>
+<li style="height: 70px;margin-left: 160px;">## Bon Iver<h3>Bon Iver</h3></li>
+<li style="height: 70px;margin-left: 160px;">## Powersolo<h3>Buzz Human</h3></li>
+<li style="height: 70px;margin-left: 160px;">## Beat Mark<h3>Howls of Joy</h3></li>
+<li style="height: 70px;margin-left: 160px;">## Surfer Blood<h3>Tarot Classics EP</h3></li>
 
-<li style="height: 70px;margin-left: 160px;"><h2>Jeff The Brotherhood</h2><h3>We Are The Champions</h3></li>
-<li style="height: 70px;margin-left: 160px;"><h2>The Mary Onettes</h2><h3>Islands</h3></li>
-<li style="height: 70px;margin-left: 160px;"><h2>Grand Ole Party</h2><h3>Under Our Skin</h3></li>
-<li style="height: 70px;margin-left: 160px;"><h2>Stevie Jackson</h2><h3>(I Can't Get No) Stevie Jackson</h3></li>
+<li style="height: 70px;margin-left: 160px;">## Jeff The Brotherhood<h3>We Are The Champions</h3></li>
+<li style="height: 70px;margin-left: 160px;">## The Mary Onettes<h3>Islands</h3></li>
+<li style="height: 70px;margin-left: 160px;">## Grand Ole Party<h3>Under Our Skin</h3></li>
+<li style="height: 70px;margin-left: 160px;">## Stevie Jackson<h3>(I Can't Get No) Stevie Jackson</h3></li>
 
-<li style="height: 70px;margin-left: 160px;"><h2>Yuck</h2><h3>Yuck</h3></li>
-<li style="height: 70px;margin-left: 160px;"><h2>Bonnie Prince Billy</h2><h3>Wolfroy Goes to Town</h3></li>
-<li style="height: 70px;margin-left: 160px;"><h2>Lana Del Rey</h2><h3>Video Games EP</h3></li>
-<li style="height: 70px;margin-left: 160px;"><h2>Youth Lagoon</h2><h3>Year Of Hibernation</h3></li>
+<li style="height: 70px;margin-left: 160px;">## Yuck<h3>Yuck</h3></li>
+<li style="height: 70px;margin-left: 160px;">## Bonnie Prince Billy<h3>Wolfroy Goes to Town</h3></li>
+<li style="height: 70px;margin-left: 160px;">## Lana Del Rey<h3>Video Games EP</h3></li>
+<li style="height: 70px;margin-left: 160px;">## Youth Lagoon<h3>Year Of Hibernation</h3></li>
 
-<li style="height: 70px;margin-left: 160px;"><h2>The Pains Of Being Pure At Heart</h2><h3>Belong</h3></li>
-<li style="height: 70px;margin-left: 160px;"><h2>MANSFIELD. TYA</h2><h3>Nyx</h3></li>
-<li style="height: 70px;margin-left: 160px;"><h2>Esmerine</h2><h3>La Lechuza</h3></li>
-<li style="height: 70px;margin-left: 160px;"><h2>Super Heavy</h2><h3>Super Heavy</h3></li>
+<li style="height: 70px;margin-left: 160px;">## The Pains Of Being Pure At Heart<h3>Belong</h3></li>
+<li style="height: 70px;margin-left: 160px;">## MANSFIELD. TYA<h3>Nyx</h3></li>
+<li style="height: 70px;margin-left: 160px;">## Esmerine<h3>La Lechuza</h3></li>
+<li style="height: 70px;margin-left: 160px;">## Super Heavy<h3>Super Heavy</h3></li>
 </ul>
 </div>

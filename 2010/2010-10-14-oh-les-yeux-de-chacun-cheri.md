@@ -21,7 +21,7 @@ tags:
 Déjà trois semaines depuis la dernière mise à jour du concours Katerine. Allez,
 un petit peu de son actu marrante d'abord, et on parle du concours ensuite.
 
-<h2>L'actualité</h2>
+## L'actualité
 
 L'album est sorti - et est très bon, dixit Guiguilele - et les concerts ont
 commencé.
@@ -32,7 +32,7 @@ et en live et en kilt ça donne…
 
 {% youtube 7PRhFYaWYYY %}
 
-<h2>Le concours</h2>
+## Le concours
 
 <h3>39. *Les yeux de ma mère* d'Arno</h3>
 

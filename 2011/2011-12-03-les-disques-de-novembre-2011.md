@@ -14,7 +14,7 @@ tags:
   - Albums
 ---
 
-<h2>Les 5 étoiles </h2>
+## Les 5 étoiles 
 
 <h3>Phil Spector - *Presents the Philles Album Collection*</h3>
 
@@ -51,7 +51,7 @@ certain manque d'identité qui font penser que certains titres sont des
 imitations (_Thin Black Sail_ pourrait être une parodie des Arctic Monkeys).
 _Living Is So Easy_ est recommandée.
 
-<h2>Les 4 étoiles</h2>
+## Les 4 étoiles
 
 <h3>A Classic Education - *Hey There Stranger*</h3>
 
@@ -83,7 +83,7 @@ Levitate With Me_), un disque inégal, mais
 [à télécharger librement](http://scionav.com/collection/851/Scion-A/V-Presents:-The-King-Khan-Experience),
 sympa.
 
-<h2>Les 3 étoiles</h2>
+## Les 3 étoiles
 
 <h3>Stephan Malkmus & The Jicks - *Mirror Traffic*</h3>
 
@@ -108,7 +108,7 @@ Heart_, _Calm Down_) et chansons plus anecdotiques (la 2nde partie de l'album
 est de ce tonneau). Il faut sûrement voir en _What I Have Become?_ un hommage à
 Supertramp, ce qui est cool et ringard à la fois. J'aime bien.
 
-<h2>Les 2 étoiles</h2>
+## Les 2 étoiles
 
 <h3>Herman Düne - *Strange Moosic*</h3>
 
@@ -141,7 +141,7 @@ plus, juste le syndrome _Les Visiteurs_ du truc que quand vous l'écoutez après
 tout le monde, vous ne voyez pas pourquoi les gens en font tout un foin. J'aime
 bien _Your Draw_, c'est mon petit côté Ringo Starr.
 
-<h2>Les 1 étoile</h2>
+## Les 1 étoile
 
 <h3>Lisa Miller - *Within Myself*</h3>
 
@@ -169,7 +169,7 @@ Juste un peu nul. Ça ressemble à ce que Kaiser Chiefs pourrait faire de pire. 
 groupe est un faux-ami : il a "Bear" dans son nom mais n'est pas vraiment cool
 pour autant. Minus est plus pertinent.
 
-<h2>La synthèse</h2>
+## La synthèse
 
 <a href="http://open.spotify.com/user/dirtyhenry/playlist/3hsF2PdtSXdxKF92uWILeo"><img src="/squelettes/images/spotify-button.png" /></a>
 
@@ -177,29 +177,29 @@ Réalisée avec [Sortmash](http://sortmash.com).
 
 <div style="background: url(/IMG/png/disques-novembre.png);">
 <ul>
-<li style="height: 70px;margin-left: 160px;"><h2>Phil Spector</h2><h3>Presents the Philles Album Collection</h3></li>
-<li style="height: 70px;margin-left: 160px;"><h2>The Beach Boys</h2><h3>Smile</h3></li>
-<li style="height: 70px;margin-left: 160px;"><h2>Real Estate</h2><h3>Days</h3></li>
-<li style="height: 70px;margin-left: 160px;"><h2>British Sea Power</h2><h3>Valhalla Dancehall</h3></li>
+<li style="height: 70px;margin-left: 160px;">## Phil Spector<h3>Presents the Philles Album Collection</h3></li>
+<li style="height: 70px;margin-left: 160px;">## The Beach Boys<h3>Smile</h3></li>
+<li style="height: 70px;margin-left: 160px;">## Real Estate<h3>Days</h3></li>
+<li style="height: 70px;margin-left: 160px;">## British Sea Power<h3>Valhalla Dancehall</h3></li>
 
-<li style="height: 70px;margin-left: 160px;"><h2>A Classic Education</h2><h3>Hey There Stranger</h3></li>
-<li style="height: 70px;margin-left: 160px;"><h2>Bert Jansch</h2><h3>Bert Jansch</h3></li>
-<li style="height: 70px;margin-left: 160px;"><h2>Maison Neuve</h2><h3>Joan</h3></li>
-<li style="height: 70px;margin-left: 160px;"><h2>The King Khan Experience</h2><h3>Scion A/V Presents…</h3></li>
+<li style="height: 70px;margin-left: 160px;">## A Classic Education<h3>Hey There Stranger</h3></li>
+<li style="height: 70px;margin-left: 160px;">## Bert Jansch<h3>Bert Jansch</h3></li>
+<li style="height: 70px;margin-left: 160px;">## Maison Neuve<h3>Joan</h3></li>
+<li style="height: 70px;margin-left: 160px;">## The King Khan Experience<h3>Scion A/V Presents…</h3></li>
 
-<li style="height: 70px;margin-left: 160px;"><h2>Stephen Malkmus & The Jicks</h2><h3>Mirror Trafic</h3></li>
-<li style="height: 70px;margin-left: 160px;"><h2>PJ Harvey</h2><h3>Let England Shake</h3></li>
-<li style="height: 70px;margin-left: 160px;"><h2>Foster The People</h2><h3>Torches</h3></li>
-<li style="height: 70px;margin-left: 160px;"><h2>Loney Dear</h2><h3>Hall Music</h3></li>
+<li style="height: 70px;margin-left: 160px;">## Stephen Malkmus & The Jicks<h3>Mirror Trafic</h3></li>
+<li style="height: 70px;margin-left: 160px;">## PJ Harvey<h3>Let England Shake</h3></li>
+<li style="height: 70px;margin-left: 160px;">## Foster The People<h3>Torches</h3></li>
+<li style="height: 70px;margin-left: 160px;">## Loney Dear<h3>Hall Music</h3></li>
 
-<li style="height: 70px;margin-left: 160px;"><h2>Herman Düne</h2><h3>Strange Moosic</h3></li>
-<li style="height: 70px;margin-left: 160px;"><h2>Yann Tiersen</h2><h3>Skyline</h3></li>
-<li style="height: 70px;margin-left: 160px;"><h2>James Vincent McMorrow</h2><h3>Early In The Morning</h3></li>
-<li style="height: 70px;margin-left: 160px;"><h2>Wonderflu</h2><h3>Lota Schwager</h3></li>
+<li style="height: 70px;margin-left: 160px;">## Herman Düne<h3>Strange Moosic</h3></li>
+<li style="height: 70px;margin-left: 160px;">## Yann Tiersen<h3>Skyline</h3></li>
+<li style="height: 70px;margin-left: 160px;">## James Vincent McMorrow<h3>Early In The Morning</h3></li>
+<li style="height: 70px;margin-left: 160px;">## Wonderflu<h3>Lota Schwager</h3></li>
 
-<li style="height: 70px;margin-left: 160px;"><h2>Lisa Miller</h2><h3>Within Myself</h3></li>
-<li style="height: 70px;margin-left: 160px;"><h2>Justice</h2><h3>Audio, Video, Disco</h3></li>
-<li style="height: 70px;margin-left: 160px;"><h2>Goodbye Ivan</h2><h3>Intervals</h3></li>
-<li style="height: 70px;margin-left: 160px;"><h2>Minus The Bear</h2><h3>Omni</h3></li>
+<li style="height: 70px;margin-left: 160px;">## Lisa Miller<h3>Within Myself</h3></li>
+<li style="height: 70px;margin-left: 160px;">## Justice<h3>Audio, Video, Disco</h3></li>
+<li style="height: 70px;margin-left: 160px;">## Goodbye Ivan<h3>Intervals</h3></li>
+<li style="height: 70px;margin-left: 160px;">## Minus The Bear<h3>Omni</h3></li>
 </ul>
 </div>

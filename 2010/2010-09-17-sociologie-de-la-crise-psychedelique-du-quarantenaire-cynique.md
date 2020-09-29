@@ -16,7 +16,7 @@ tags:
   - Fun Friday
 ---
 
-<h2>Die, Sweet Roadrunner, Die</h2>
+## Die, Sweet Roadrunner, Die
 
 On commence par un court dessin animé, de l'école Seth MacFarlane, le créateur
 de _Family Guy_ et d'_American Dad_.
@@ -25,7 +25,7 @@ de _Family Guy_ et d'_American Dad_.
 
 (via Jon)
 
-<h2>Le disque waouuuu</h2>
+## Le disque waouuuu
 
 <strike>On poursuit par une simulation de consommation de LSD via ce
 lien.</strike>
@@ -36,7 +36,7 @@ lien.</strike>
 
 {% youtube Vn1GaaLhz4g %}
 
-<h2>Weezer's *Memories*</h2>
+## Weezer's *Memories*
 
 Il est temps de lancer une bande son pour la dernière partie du post. Je vous
 propose un plaisir coupable et un bon vieux Weezer, qui jouent _Memories_ tiré
@@ -49,7 +49,7 @@ de leur nouvel album _Hurley_.
 
 {% youtube C5Fq3U_FjYc %}
 
-<h2>Ecouter de la musique en 1990 et en 2010</h2>
+## Ecouter de la musique en 1990 et en 2010
 
 Les oreilles pleines de chouette musique, on peut maintenant s'adonner à un peu
 de cynisme via
@@ -57,7 +57,7 @@ de cynisme via
 
 (via Johann)
 
-<h2>Vide-Grenier</h2>
+## Vide-Grenier
 
 On peut ensuite lire
 [le très marrant post de Boulet sur les vide-grenier.](http://www.bouletcorp.com/blog/index.php?date=20100910)

@@ -51,7 +51,7 @@ comments:
       http://www.allocine.fr/film/fichefilm-128377/interviews/\r\n:-)"
 ---
 
-<h2>*(500) Days of Summer* - Marc Webb</h2>
+## *(500) Days of Summer* - Marc Webb
 
 Tom est un mec de Los Angeles à la cool. Son boulot le branche pas trop mais
 bon, tant qu'il peut y écouter des disques peinard - de la bonne musique bien
@@ -91,7 +91,7 @@ ce blog, de _Please, Please, Please, Let Me Get What I Want_, des Smiths.
 <hr />
 
 <img337>
-<h2>*Mary and Max* - Adam Elliot</h2>
+## *Mary and Max* - Adam Elliot
 
 Mary est une petite fille australienne avec une tâche de naissance couleur caca
 sur le front. Max est un homme new-yorkais un peu marginal. Comment peut bien
@@ -120,7 +120,7 @@ retrouve pas mal de thèmes de *Mary & Max* :
 <hr />
 
 <img338>
-<h2>*Le Petit Nicolas* - Laurent Tirard</h2>
+## *Le Petit Nicolas* - Laurent Tirard
 
 Est-il nécessaire de présenter le personnage de Goscinny et Sempé ? Est-il utile
 de s'étendre sur son adaptation ciné ? Quelques mots suffisent : "ennuyeux et

@@ -22,7 +22,7 @@ tags:
 Le vendredi, le fun est de bon aloi. Cette semaine : ton grand-père et ses
 chiens, Indiana Jones, James Mercer et des métalleux jouent au tir à la corde.
 
-<h2>Guide du grand-père</h2>
+## Guide du grand-père
 
 <img388>
 
@@ -30,7 +30,7 @@ chiens, Indiana Jones, James Mercer et des métalleux jouent au tir à la corde.
 [fixedgear](http://www.flickr.com/photos/fixedgear/4159465921/], via [Flowing
 Data->http://flowingdata.com/2010/09/17/venn-your-grandfather/))
 
-<h2>Guide du clip à buzz</h2>
+## Guide du clip à buzz
 
 OK Go est très doué pour faire le buzz autour de ses clips. Après
 [_Here It Goes Again_ et ses tapis roulants](http://www.youtube.com/watch?v=dTAAsCNK7RA)
@@ -40,7 +40,7 @@ franche…
 
 {% youtube nHlJODYBLKs %}
 
-<h2>Guide du Metal</h2>
+## Guide du Metal
 
 Extrait de [**Fur TV**](http://fr.wikipedia.org/wiki/Fur_TV), une série
 anglaise, diffusée sur MTV Pulse.
@@ -49,12 +49,12 @@ anglaise, diffusée sur MTV Pulse.
 
 (via Stef)
 
-<h2>Guide des sports olympiques</h2>
+## Guide des sports olympiques
 
 **Learn Something Every Day** nous apprend cette semaine que…
 [le tir à la corde était un sport olympique de 1900 à 1920](http://cargocollective.com/learnsomethingeveryday/642495/September-18).
 
-<h2>Guide de l'artiste Geek</h2>
+## Guide de l'artiste Geek
 
 Dommage pour Broken Bells, qui avait réalisé un site geek assez sympa en août,
 mais que j'ai découvert après celui d'Arcade Fire qui, avouons-le, le bat à

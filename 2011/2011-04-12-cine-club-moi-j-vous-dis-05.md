@@ -17,7 +17,7 @@ tags:
 
 {**Catégorie "Vieux Films à voir en DVD"**}
 
-<h2>*Rusty James/Rumble Fish* - Francis Ford Coppola</h2>
+## *Rusty James/Rumble Fish* - Francis Ford Coppola
 
 Rusty James (Matt Dillon) est un jeune loulou qui se la raconte un petit peu,
 tout ça parce que son grand frère, Motorcycle Boy (Mickey Rourke), était un peu
@@ -52,7 +52,7 @@ La musique qui va avec : la musique de Double Dragon
 
 {% vimeo x8776u %}
 
-<h2>*Personnel et Confidentiel/Up Close & Personal* - Jon Avnet</h2>
+## *Personnel et Confidentiel/Up Close & Personal* - Jon Avnet
 
 Michelle Pfeiffer veut faire de la télé alors elle se fait un CV bidon et
 convainc Robert Redford de l'embaucher. Robert fait de Michelle une star tandis
@@ -69,7 +69,7 @@ regretter les années 90.
 
 **{Catégorie "à voir au ciné mais faut se dépêcher"**}
 
-<h2>*Chez Gino* - Samuel Benchetrit</h2>
+## *Chez Gino* - Samuel Benchetrit
 
 Je persiste et signe : voici mon coup de coeur inattendu du mois et l'un des
 films français les plus drôles depuis longtemps.
@@ -103,7 +103,7 @@ hommage au cinéma, façon [DIY->http://fr.wikipedia.org/wiki/Do_it_yourself).
 
 {% youtube 5VTQzQhW4bg %}
 
-<h2>*The Fighter* - David O. Russell</h2>
+## *The Fighter* - David O. Russell
 
 Le film adapte l'histoire vraie de la demie-fratrie de boxeurs Micky Ward/Dicky
 Eklund. Le plus jeune Micky, prometteur mais qui n'arrive pas à s'imposer, vit
@@ -126,7 +126,7 @@ les solos de saxo). Du coup, les Breeders gagnent.
 
 {% youtube Bt5MWCwFhCI %}
 
-<h2>*L'étrange affaire Angelica* - Manoel de Oliveira</h2>
+## *L'étrange affaire Angelica* - Manoel de Oliveira
 
 Séance "Coup de gueule" dédicacée à Joe Gantdelaine.
 
@@ -155,7 +155,7 @@ Zazou chante ici parfaitement ce que j'ai ressenti dans la salle :
 
 {% youtube DomEwrZb3j8 %}
 
-<h2>Les autres</h2>
+## Les autres
 
 - _Les femmes du 6ème étage_ - Philippe Le Guay : cousu de fil blanc mais ça
   reste un chouette film du dimanche soir.

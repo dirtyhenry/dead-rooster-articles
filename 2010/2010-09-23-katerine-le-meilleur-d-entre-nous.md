@@ -23,7 +23,7 @@ Ca fait longtemps que nous n'avons pas mis à jour le concours Katerine. Pour ne
 rien gâcher, l'actualité de Katerine est par ailleurs chargée. Il est temps de
 faire le point.
 
-<h2>L'actualité</h2>
+## L'actualité
 
 Vous le savez sans doute, Katerine sortira lundi prochain son nouvel album
 éponyme (déjà disponible en version digitale).
@@ -39,7 +39,7 @@ d'Angleterre lui chie à la raie (ce qui n'est pas sans rappeler
 
 <div><object type="application/x-shockwave-flash" data="http://www.wat.tv/swf2/206744nIc0K115163507" width="480" height="270" id="wat_5163507"><param name="movie" value="http://www.wat.tv/swf2/206744nIc0K115163507" /><param name="allowScriptAccess" value="always" /><param name="allowFullScreen" value="true" /><embed width="480" height="270" src="http://www.wat.tv/swf2/206744nIc0K115163507"  allowscriptaccess="always" allowfullscreen="true" />Veuillez installer Flash Player pour lire la vidéo</object></div><div class="watlinks" style="width:480px;font-size:11px; background:#CCCCCC; padding:2px 0 4px 0; text-align: center;"><a target="_blank" class="waturl" href="http://www.wat.tv/video/conversations-privees-philippe-32o6r_2z78r_.html" title="Vidéo Les conversations priv&eacute;es de Philippe Katerine sur wat.tv"><strong>Les conversations privées de Philippe Katerine</strong></a> Vidéo <a class="waturl altuser" href="http://www.wat.tv/OFFTV" title="Retrouvez toutes les vidéos OFFTV sur wat.tv">OFFTV</a> sélectionnée dans <a href="http://www.wat.tv/guide/musique" class="waturl alttheme" title="Toutes les vidéos Musique sont sur wat.tv">Musique</a> </div>
 
-<h2>Le concours</h2>
+## Le concours
 
 Trois semaines se sont écoulées depuis la dernière mise à jour. Pourtant, autant
 le dire tout de go, personne ne marque de point. On n'est qu'une bande de
