@@ -5,6 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 388
 date: "2007-06-07 16:07:00 +0200"
+cover: franck-ribery.jpg
 ---
 
 Franck Ribéry vient de signer au Bayern de Munich.

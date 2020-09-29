@@ -8,6 +8,7 @@ categories:
   - Catégories
 tags:
   - Foot
+cover: franck-ribery-2.jpg
 ---
 
 En fait, si Ribéry a choisi le Bayern, c'est sûrement parce qu'il aime bien

@@ -9,6 +9,7 @@ author:
 author_login: groovy
 wordpress_id: 430
 date: "2007-12-13 11:32:00 +0100"
+cover: ike-turner.jpg
 ---
 
 Ike Turner est mort. Plus personne ne sera donc en mesure de faire revenir Tina

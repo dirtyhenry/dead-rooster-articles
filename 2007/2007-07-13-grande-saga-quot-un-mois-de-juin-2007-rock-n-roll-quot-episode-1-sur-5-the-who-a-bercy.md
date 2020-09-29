@@ -12,6 +12,7 @@ categories:
 tags:
   - Concert
   - The Who
+cover: the-who-pete-townshend.jpg
 ---
 
 Cette année, boycott du concert des Rolling Stones au Stade de France ! Pourquoi

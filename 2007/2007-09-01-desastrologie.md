@@ -5,6 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 400
 date: "2007-09-01 10:40:00 +0200"
+cover: desastrologie.jpg
 ---
 
 Pour les amateurs de _La Sciences Des Rêves_, voici l'adresse du site de

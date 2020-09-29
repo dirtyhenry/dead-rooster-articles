@@ -13,9 +13,10 @@ comments:
     content:
       Elle est marrante la chanson mais tout de même, la photo fait un tout
       petit peu peur.
+cover: britney-spears-shaved.jpg
 ---
 
-«Why did we care if good old Britney wants to shave her head?»
+> Why did we care if good old Britney wants to shave her head?
 
 Merci à ces messieurs-dames de **I'm from Barcelona** de nous avoir éclairés sur
 cette affaire par l'intermédiaire de leur nouveau single en écoute

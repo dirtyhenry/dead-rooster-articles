@@ -5,6 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 420
 date: "2007-10-23 20:25:00 +0200"
+cover: the-rotters-club.png
 ---
 
 En 2007, les enfants sont habillés comme des adultes. Le monde va mal.
