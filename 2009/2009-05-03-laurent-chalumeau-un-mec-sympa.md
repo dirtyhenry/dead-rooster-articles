@@ -61,4 +61,4 @@ Photo : [©scottnj](http://www.flickr.com/photos/scottod/)
 [2]: http://www.youtube.com/watch?v=tQZTa15sp0M
 [3]: http://www.youtube.com/watch?v=T4UyOmpmEsc
 
-[i1]: {% post_url 2015-05-09-laurent-chalumeau %}
+[i1]: {% post_url 2015/2015-05-09-laurent-chalumeau %}

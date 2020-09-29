@@ -63,4 +63,4 @@ http://creativecommons.org/licenses/by-nc-sa/2.0
 [7]: http://www.lightspeedchampion.com/bmachine/devwrites.php?id=246
 
 [1]:
-{% post_url 2006-06-07-les-soledad-brothers-sont-morts-vivent-les-bellrays %}
+{% post_url 2006/2006-06-07-les-soledad-brothers-sont-morts-vivent-les-bellrays %}

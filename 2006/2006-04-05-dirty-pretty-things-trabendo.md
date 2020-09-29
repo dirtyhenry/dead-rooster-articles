@@ -31,4 +31,4 @@ standing to your right come on
 [1]:
   https://open.spotify.com/album/2prIc5Om2QPCGIjKVC5UQj?si=HqI-mPT6Sf-jlom_dIXEZQ
 
-[i1]: {% post_url 2006-01-21-ringos %}
+[i1]: {% post_url 2006/2006-01-21-ringos %}
