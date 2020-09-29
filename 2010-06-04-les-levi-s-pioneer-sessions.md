@@ -24,7 +24,7 @@ qui l'a inspiré au téléchargement.
 
 Au programme sont déjà passés [She &
 Him](http://www.levispioneersessions.com/artists/she-and-him/], [Dirty
-Projectors->http://www.levispioneersessions.com/artists/dirty-projectors/] et
+Projectors](http://www.levispioneersessions.com/artists/dirty-projectors/) et
 [The Swell
 Season->http://www.levispioneersessions.com/artists/the-swell-season/) et les
 prochaines semaines annoncent entre autres The Shins, Passion Pit ou The Kills.

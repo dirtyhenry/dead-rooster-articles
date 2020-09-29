@@ -63,13 +63,13 @@ a-t-elle commencé ? Où a-t-il foiré ? Va-t-il la récupérer ?
 
 Il y a comédie romantique et comédie romantique. Ce film tombe clairement dans
 la 2ème catégorie. Ici, pas de mièvrerie, dès qu'on s'en approche un peu trop,
-[une petite fantaisie](http://www.youtube.com/watch?v=yfg97-5uhFQ] de Webb et on
+[une petite fantaisie](http://www.youtube.com/watch?v=yfg97-5uhFQ) de Webb et on
 ressort en se marrant. Surtout, apparemment les 3/4 de la population mondiale
 peuvent se reconnaître dans le personnage de Tom, vaguement insatisfait de sa
 vie et qui mise tout sur l'espoir d'une relation extraordinaire pour se faire
 avancer et qui, malgré ses grandes qualités, a aussi des défauts bien répandus :
-[trop timide->http://www.youtube.com/watch?v=1dwtZw9Rx20], [trop
-fier->http://www.youtube.com/watch?v=ovYWY4Pf9_M], etc. Bref, on a ici la
+[trop timide](http://www.youtube.com/watch?v=1dwtZw9Rx20), [trop
+fier](http://www.youtube.com/watch?v=ovYWY4Pf9_M), etc. Bref, on a ici la
 meilleure comédie romantique depuis [_Marley and
 Me_->http://www.youtube.com/watch?v=brBM7_3ukzg) (et je vous mets au défi de
 trouver la moindre ironie dans ces paroles : _Marley & Me_ est un chef d'œuvre,

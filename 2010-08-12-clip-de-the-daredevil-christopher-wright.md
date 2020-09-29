@@ -24,6 +24,6 @@ mon tour. On se voit le 18 !
 
 [edit : ah merde, en fait le concert du 18 est un [happening
 événementiel](http://7ciel.net/concerts/] et pour avoir des places, il faudra
-les gagner sur [ce site->http://www.popnews.com/] à partir du 28 août…)
+les gagner sur [ce site](http://www.popnews.com/) à partir du 28 août…)
 
 <object width="500" height="375"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=13206073&server=vimeo.com&show_title=0&show_byline=0&show_portrait=0&color=59a5d1&fullscreen=1&autoplay=0&loop=0" /><embed src="http://vimeo.com/moogaloop.swf?clip_id=13206073&server=vimeo.com&show_title=0&show_byline=0&show_portrait=0&color=59a5d1&fullscreen=1&autoplay=0&loop=0" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="500" height="375"></embed></object>

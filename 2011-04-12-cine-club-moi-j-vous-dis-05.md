@@ -93,7 +93,7 @@ l'ambiance lose font très "cinéma belge" et rappellent également les passages
 plus potaches que glauques des films de
 [Delépine->http://www.allocine.fr/personne/fichepersonne_gen_cpersonne=2389.html]
 et
-[Kervern->http://www.allocine.fr/personne/fichepersonne_gen_cpersonne=97326.html].
+[Kervern](http://www.allocine.fr/personne/fichepersonne_gen_cpersonne=97326.html).
 Malgré quelques lenteurs et quelques malaises dûs aux acteurs (Anna Mouglalis
 n'est pas au top dans des rôles comiques), le film reste très drôle. Benchetrit
 aime aussi beaucoup citer les petits copains et son film est en fait un chouette

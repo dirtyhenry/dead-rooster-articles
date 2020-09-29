@@ -58,7 +58,7 @@ En ce qui concerne le style du film, Ayoade avait dû répondre lors du dernier
 Sundance Film Festival aux nombreuses comparaisons qu’on faisait entre son film
 et ceux de Wes Anderson. Il y a pire comme comparaisons. Dans une interview pour
 [Gordon and the Whale](http://gordonandthewhale.com/] relayée par
-[IndieWire->http://blogs.indiewire.com/theplaylist/archives/submarine_director_richard_ayoade_responds_to_wes_anderson_comparisons/],
+[IndieWire](http://blogs.indiewire.com/theplaylist/archives/submarine_director_richard_ayoade_responds_to_wes_anderson_comparisons/),
 loin de nier l’influence d’Anderson sur son film - et d’admettre que _Rushmore_
 est un film «complètement parfait» -, Ayoade avait surtout dressé une liste
 d’autres influences plus secrètes mais selon lui tout aussi intéressantes. Voilà

@@ -3,7 +3,7 @@ layout: post
 title: Learn Something Every Day !
 description:
   Pour fêter son premier anniversaire, le site très fun [Learn Something Every
-  Day->http://cargocollective.com/learnsomethingeveryday] vient de publier une
+  Day](http://cargocollective.com/learnsomethingeveryday) vient de publier une
   vidéo.
 authors:
   - Dirty Henry

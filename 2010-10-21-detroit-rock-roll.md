@@ -3,7 +3,7 @@ layout: post
 title: Detroit&Rock&Roll
 description:
   "Ben Swank, le batteur des Soledad Brothers, désormais membre de [The See
-  See->http://www.myspace.com/theseeseeband], et pigiste occasionnel pour The
+  See](http://www.myspace.com/theseeseeband), et pigiste occasionnel pour The
   Guardian avait réagi en 2008 au visionnage d'un documentaire de la BBC, {Motor
   City's Burning: Detroit From Motown To The Stooges}."
 authors:
@@ -52,9 +52,9 @@ de [*Kick Out The Jams*->http://fr.wikipedia.org/wiki/Kick_Out_the_Jams].
 Detroit n’a jamais bénéficié de «renaissance» et les conséquences des émeutes
 n’ont jamais été aussi profondes. Mais il y a toujours cette sensation
 d’aventure urbaine que [John
-Sinclair->http://fr.wikipedia.org/wiki/John_Sinclair_(po%C3%A8te)] décrit dans
+Sinclair](http://fr.wikipedia.org/wiki/John_Sinclair_(po%C3%A8te)) décrit dans
 le documentaire. Sinclair a toujours été un de mes héros : son parti des [White
-Panther->http://en.wikipedia.org/wiki/White_Panther_Party] a influencé mon
+Panther](http://en.wikipedia.org/wiki/White_Panther_Party) a influencé mon
 groupe, les [Soledad Brothers->215), et il a écrit les notes de pochettes de mon
 premier album.
 

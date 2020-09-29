@@ -47,7 +47,7 @@ artisanal à la maison.
 
 Bref, si vous êtes intéressés pour vous procurer le disque : -_ Contactez-nous
 par [Facebook](http://www.facebook.com/pages/Dead-Rooster/148439541886052],
-[Twitter->https://twitter.com/#!/dead__rooster] ou en [laissant un commentaire
+[Twitter](https://twitter.com/#!/dead__rooster) ou en [laissant un commentaire
 sur cette page->http://www.deadrooster.org/spip.php?page=forum&id_article=952)
 pour organiser une remise en mains propres -_ Allez sur
 [notre page Bandcamp](http://thelivingstonesipresume.com/), si vous préférez
