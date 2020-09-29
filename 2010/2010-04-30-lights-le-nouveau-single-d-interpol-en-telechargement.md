@@ -35,7 +35,4 @@ chaire de poule, _Pioneers To The Fall_.
   </object>
 </div>
 
-
-
-
 {% youtube hZmLdBOS2aI %}

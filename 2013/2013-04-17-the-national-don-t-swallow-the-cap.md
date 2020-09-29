@@ -11,7 +11,7 @@ Second extrait de _Trouble Will Find Me_ : la sortie approche !
 
 {% youtube bFnA-8H-5lo %}
 
-[Réécouter *Demons*.](1215). Se souvenir de [_High Violet_](696).
+[Réécouter _Demons_.](1215). Se souvenir de [_High Violet_](696).
 
 via
 [Stereogum](http://stereogum.com/1318302/the-national-dont-swallow-the-cap/mp3/)

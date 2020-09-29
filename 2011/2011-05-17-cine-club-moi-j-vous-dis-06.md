@@ -17,7 +17,7 @@ tags:
 
 {**Catégorie "Vieux Films à voir en DVD"**}
 
-## *Narco* - Gilles Lellouche et Tristan Aurouet
+## _Narco_ - Gilles Lellouche et Tristan Aurouet
 
 Gus Klopp est narcoleptique. Ça lui pose pas mal de problèmes dans sa vie privée
 et professionnelle. Mais quand il s'écroule et dort, il fait des rêves
@@ -52,7 +52,7 @@ La musique qui va avec : _La Ritournelle_ de Sébastien Tellier
 
 ---
 
-## *Le Chant du Missouri/Meet Me in St. Louis* - Vincente Minnelli
+## _Le Chant du Missouri/Meet Me in St. Louis_ - Vincente Minnelli
 
 Saint-Louis prépare l'exposition universelle de 1904. La famille Smith coule des
 jours paisibles durant lesquels les histoires sentimentales de leurs 2 filles
@@ -79,7 +79,7 @@ La musique qui va avec : à peu près tout le film.
 
 ---
 
-## *L'Aile ou la Cuisse* - Claude Zidi
+## _L'Aile ou la Cuisse_ - Claude Zidi
 
 Charles Duchemin est le directeur d'un guide gastronomique très renommé faisant
 honneur à la gastronomie française de qualité. Son fils Gérard n'est pas très
@@ -107,7 +107,7 @@ Attention, version symphonique :
 
 **{Catégorie "à voir au ciné mais faut se dépêcher"**}
 
-## *Minuit à Paris/Midnight in Paris* - Woody Allen
+## _Minuit à Paris/Midnight in Paris_ - Woody Allen
 
 Woody et moi, c'est [a bit complicated](554). Mais je le disais déjà à l'époque,
 j'aime bien _The Purple Rose of Cairo_ par exemple et _Midnight in Paris_ est
@@ -129,7 +129,7 @@ mais on préférera les Inconnus chantent les chansons d'antan
 
 ---
 
-## *Hall Pass/Bon à tirer (B.A.T.)* - Peter et Bobby Farrelly
+## _Hall Pass/Bon à tirer (B.A.T.)_ - Peter et Bobby Farrelly
 
 Rick et Fred sont mariés mais regrettent parfois leur célibat, persuadés qu'ils
 sont qu'ils pourraient pécho tout ce qui bouge. Lasses du comportement de leurs

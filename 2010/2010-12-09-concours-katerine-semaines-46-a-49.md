@@ -27,14 +27,14 @@ Poitiers, Nantes et d'autres sont au programme.
 
 ## Les chansons des 4 dernières semaines
 
-### 46. *DJ* de Diam's
+### 46. _DJ_ de Diam's
 
 [Katerine veut qu'on le laisse kiffer la vibes avec son mec](http://www.katerinefrancisetsespeintres.com/dj.html).
 L'originale :
 
 {% youtube vXQrZQ5IHfc %}
 
-### 47. *Le cimetière des éléphants* d'Eddy Mitchell
+### 47. _Le cimetière des éléphants_ d'Eddy Mitchell
 
 Chanson presque inconnue mais
 [reprise poignante (hum)](http://www.katerinefrancisetsespeintres.com/elephants.html).
@@ -42,7 +42,7 @@ Tant pis pour la fille aux yeux menthe à l'eau. Chantée par le maître Eddy :
 
 {% dailymotion x4hq81 %}
 
-### 48. *Un lapin* de Chantal Goya
+### 48. _Un lapin_ de Chantal Goya
 
 Ce matin, un lapin a tué un chasseur.
 [Katerine chante la révolution ici](http://www.katerinefrancisetsespeintres.com/lapin.html).
@@ -50,7 +50,7 @@ Fais chauffer le fusil Chantal !
 
 {% youtube PsJtoVBhmbw %}
 
-### 49. *Double Je* de Christophe Willem
+### 49. _Double Je_ de Christophe Willem
 
 [Une de mes préférées depuis le début de l'année](http://www.katerinefrancisetsespeintres.com/double.html).
 A noter que les paroles sont co-signées par le fils de Jean Schultheiss, déjà

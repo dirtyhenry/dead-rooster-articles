@@ -36,14 +36,14 @@ en haleine toute l'année 2010.
 
 ## Les chansons des 3 dernières semaines
 
-### 50. *Rectangle* de Jacno
+### 50. _Rectangle_ de Jacno
 
 [Katerine reprend le plus grand tube de l'ex-Stinky Toys](http://www.katerinefrancisetsespeintres.com/rectangle.html),
 décédé l'année dernière, et qui avait servi à une pub Nesquik. L'originale :
 
 {% vimeo x33sv7 %}
 
-### 51. *Noël Blanc* d'Irving Berlin
+### 51. _Noël Blanc_ d'Irving Berlin
 
 Voici
 [une reprise de _White Christmas_](http://www.katerinefrancisetsespeintres.com/neige.html),
@@ -51,7 +51,7 @@ traduite par Francis Blanche. La version du King :
 
 {% youtube G0xUPa_XBDk %}
 
-### 52. *Ne partons pas fâchés* de Raphaël
+### 52. _Ne partons pas fâchés_ de Raphaël
 
 [Katerine conclut 2010 par une reprise chorale du titre de Raphaël](http://www.katerinefrancisetsespeintres.com/fin.html).
 L'originale :

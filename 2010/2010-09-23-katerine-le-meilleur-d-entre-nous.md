@@ -45,14 +45,14 @@ Trois semaines se sont écoulées depuis la dernière mise à jour. Pourtant, au
 le dire tout de go, personne ne marque de point. On n'est qu'une bande de
 losers.
 
-### 36. *L'idole des jeunes* de Johnny Hallyday
+### 36. _L'idole des jeunes_ de Johnny Hallyday
 
 La reprise de Katerine est
 [ici](http://www.katerinefrancisetsespeintres.com/idole.html). L'originale :
 
 {% dailymotion xuh8q %}
 
-### 37. *Elle est d'ailleurs* de Pierre Bachelet
+### 37. _Elle est d'ailleurs_ de Pierre Bachelet
 
 La reprise de Katerine est
 [ici](http://www.katerinefrancisetsespeintres.com/ailleurs.html). Une version
@@ -60,7 +60,7 @@ live :
 
 {% youtube H28JwoGQfBU %}
 
-### 38. *Il est vraiment phénomènal* de Phenomenal Club (?)
+### 38. _Il est vraiment phénomènal_ de Phenomenal Club (?)
 
 La reprise de Katerine est
 [ici](http://www.katerinefrancisetsespeintres.com/vraiment.html). Je ne sais pas

@@ -23,7 +23,7 @@ comments:
       c'est les Hooray Henrys par exemple !"
 ---
 
-## Les 5 étoiles 
+## Les 5 étoiles
 
 On en a déjà parlé [ici](936], Dum Dum Girls est incontestablement le disque du
 mois. Quant à Neutral Milk Hotel (évoqué [ici](680) et [ici->687)), ils sont

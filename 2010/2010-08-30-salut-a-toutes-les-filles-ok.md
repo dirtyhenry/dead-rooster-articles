@@ -19,21 +19,21 @@ tags:
 Trois semaines de reprises de **Katerine, Francis et ses peintres** à rattraper.
 Les 3 dernières furent donc…
 
-## 1. *A toutes les filles* de Didier Barbelivien & Félix Gray
+## 1. _A toutes les filles_ de Didier Barbelivien & Félix Gray
 
 La reprise de Katerine est
 [ici](http://www.katerinefrancisetsespeintres.com/filles.html). L'originale :
 
 {% youtube hZKyxmSrUug %}
 
-## 2. *T'es OK* d'Ottowan
+## 2. _T'es OK_ d'Ottowan
 
 La reprise de Katerine est
 [ici](http://www.katerinefrancisetsespeintres.com/ok.html). Le clip de
 l'originale ne peut pas être embarquée sur le site mais est visible (et
 recommandée) [ici](http://www.youtube.com/watch?v=F-04OM2oUt4).
 
-## 3. *Salut à toi* de Bérurier Noir
+## 3. _Salut à toi_ de Bérurier Noir
 
 La reprise de Katerine est
 [ici](http://www.katerinefrancisetsespeintres.com/salut.html). L'originale (et

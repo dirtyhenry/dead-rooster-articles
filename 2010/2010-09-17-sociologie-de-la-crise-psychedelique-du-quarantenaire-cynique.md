@@ -36,7 +36,7 @@ lien.</strike>
 
 {% youtube Vn1GaaLhz4g %}
 
-## Weezer's *Memories*
+## Weezer's _Memories_
 
 Il est temps de lancer une bande son pour la dernière partie du post. Je vous
 propose un plaisir coupable et un bon vieux Weezer, qui jouent _Memories_ tiré
