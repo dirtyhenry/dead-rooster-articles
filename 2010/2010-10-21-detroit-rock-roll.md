@@ -27,7 +27,7 @@ _Motor City's Burning: Detroit From Motown To The Stooges_.
 en voici une traduction faite maison :
 
 <quote>
-Le 23 juillet 1967, [la plus grande émeute de l’histoire des Etats-Unis a éclaté dans les rues de Detroit](http://en.wikipedia.org/wiki/1967_Detroit_riot]. Alors que [Martha Reeves semblait chanter son *Dancing In The Streets*->http://www.youtube.com/watch?v=CdvITn5cAVc) à chaque fenêtre de la ville, la ville a brûlé, les gens ont pillé et des espoirs de révolution - «rock and roll, drogue et baise dans les rues» - ont émergé. Puis les hélicoptères de la garde nationale US ont atterri à Clark Park, mon ancien quartier, et les chars ont été déployés dans les rues. Cinq jours plus tard, 43 personnes avaient été tuées parmi lesquelles 33 étaient noires.
+Le 23 juillet 1967, [la plus grande émeute de l’histoire des Etats-Unis a éclaté dans les rues de Detroit](http://en.wikipedia.org/wiki/1967_Detroit_riot). Alors que [Martha Reeves semblait chanter son *Dancing In The Streets*](http://www.youtube.com/watch?v=CdvITn5cAVc) à chaque fenêtre de la ville, la ville a brûlé, les gens ont pillé et des espoirs de révolution - «rock and roll, drogue et baise dans les rues» - ont émergé. Puis les hélicoptères de la garde nationale US ont atterri à Clark Park, mon ancien quartier, et les chars ont été déployés dans les rues. Cinq jours plus tard, 43 personnes avaient été tuées parmi lesquelles 33 étaient noires.
 
 Il n'était pas facile de vivre dans le Detroit du milieu des années 60 pour la
 classe ouvrière de la ville. Alors que la

@@ -70,10 +70,10 @@ vie et qui mise tout sur l'espoir d'une relation extraordinaire pour se faire
 avancer et qui, malgré ses grandes qualités, a aussi des défauts bien répandus :
 [trop timide](http://www.youtube.com/watch?v=1dwtZw9Rx20),
 [trop fier](http://www.youtube.com/watch?v=ovYWY4Pf9_M), etc. Bref, on a ici la
-meilleure comédie romantique depuis [_Marley and
-Me_->http://www.youtube.com/watch?v=brBM7_3ukzg) (et je vous mets au défi de
-trouver la moindre ironie dans ces paroles : _Marley & Me_ est un chef d'œuvre,
-alternative positive au dépriment _Revolutionary Road_).
+meilleure comédie romantique depuis
+[_Marley and Me_](http://www.youtube.com/watch?v=brBM7_3ukzg) (et je vous mets
+au défi de trouver la moindre ironie dans ces paroles : _Marley & Me_ est un
+chef d'œuvre, alternative positive au dépriment _Revolutionary Road_).
 
 En prime, une vidéo fun, tournée en sus du film, faisant référence à l'une de
 ses scènes :

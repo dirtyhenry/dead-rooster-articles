@@ -63,7 +63,7 @@ coeur et au corps->http://www.youtube.com/watch?v=n9cOf8Qv8ts).
 
 ### Powersolo - *Buzz Human*
 
-Déjà vus dans nos contrées [ici](950] ou [là->638), Powersolo poursuit sa route
+Déjà vus dans nos contrées [ici](950) ou [là](638), Powersolo poursuit sa route
 dans la veine garage cradingue. On sent que les Scandinaves s'amusent en jouant,
 ce qui est bien, mais _Buzz Human_ est beaucoup trop long pour qu'on reste
 accroché sur toute la durée du disque. Bien cool malgré tout.

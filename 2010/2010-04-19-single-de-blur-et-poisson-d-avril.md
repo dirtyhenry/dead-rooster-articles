@@ -16,8 +16,8 @@ tags:
 ---
 
 Bientôt [un an après leur reformation pour une courte tournée festivale](514],
-**Blur** a enregistré un single à l'occasion du [Record Store
-Day->http://www.recordstoreday.com).
+**Blur** a enregistré un single à l'occasion du
+[Record Store Day](http://www.recordstoreday.com).
 
 D'abord destiné à être pressé sur seulement 1000 45 tours, le groupe a
 finalement décidé de diffuser le titre _Fool's Day_ gratuitement

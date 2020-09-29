@@ -60,8 +60,8 @@ repoussants. Mais que cachent ces titres "anecdotiques mais jamais repoussants"
 
 (entracte, profitons-en pour regarder les très marrants clips d'inspiration
 wesandersonienne très marquée des deux joyaux mentionnés en cliquant
-[ici](http://www.youtube.com/watch?v=t7Q2b2uTlHY] puis
-[là->http://www.youtube.com/watch?v=T8YCSJpF4g4) puisque ces blaireaux de Noah
+[ici](http://www.youtube.com/watch?v=t7Q2b2uTlHY) puis
+[là](http://www.youtube.com/watch?v=T8YCSJpF4g4) puisque ces blaireaux de Noah
 and the Whale ont désactivé la version embed de leurs vidéos)
 
 <img339>

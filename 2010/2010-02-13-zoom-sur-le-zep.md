@@ -85,8 +85,8 @@ Page choisissent les groupies avec lesquelles ils veulent passer la nuit. Bonham
 et son acolyte **Richard Cole**, le tour manager du groupe, vont alors
 s'évertuer à trouver les pires trucs à faire et dont les journaux des 70s se
 repaîtront : destruction de chambres d'hôtels, pratique de la moto dans leurs
-couloirs ou le fameux [épisode du
-requin->http://en.wikipedia.org/wiki/Shark_episode].
+couloirs ou le fameux
+[épisode du requin](http://en.wikipedia.org/wiki/Shark_episode).
 
 Tous les débordements du groupe, mais aussi ceux de Cole et de **Peter Grant**,
 le manager, leur vaudront de nombreux procès et interdictions de séjour dans

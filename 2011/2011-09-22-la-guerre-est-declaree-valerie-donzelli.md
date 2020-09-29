@@ -86,7 +86,7 @@ l'atmosphère du film. Très beau titre.
 ## *Rectangle* - Jacno
 
 Pour le générique de fin, Donzelli nous rappelle que
-[c'est l'heure du goûter](http://www.youtube.com/watch?v=ZQPu374PPq0]. "Ne pas oublier d'aller réécouter [la version de Katerine->744").
+[c'est l'heure du goûter](http://www.youtube.com/watch?v=ZQPu374PPq0). "Ne pas oublier d'aller réécouter [la version de Katerine](744").
 
 {% vimeo x33sv7 %}
 

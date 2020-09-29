@@ -20,7 +20,8 @@ comments:
       chez le coiffeur pourquoi ? "
 ---
 
-[A-ha annonce son split](http://www.aha-fr.com/news-suite.php?id_news=504].
-Merde, si ça se trouve, ça veut dire que [Bronski
-Beat->http://www.youtube.com/watch?v=9Xa79n1CdKY) existe toujours ! Le monde va
-mal !
+[A-ha annonce son split][1]. Merde, si ça se trouve, ça veut dire que
+[Bronski Beat](http://www.youtube.com/watch?v=9Xa79n1CdKY) existe toujours ! Le
+monde va mal !
+
+[1]: http://www.aha-fr.com/news-suite.php?id_news=504

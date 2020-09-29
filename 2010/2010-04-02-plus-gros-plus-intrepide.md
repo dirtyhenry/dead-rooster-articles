@@ -10,16 +10,16 @@ wordpress_id: 586
 date: "2010-04-02 21:16:20 +0200"
 ---
 
-## Love is All - *Bigger Bolder*
+## Love is All - _Bigger Bolder_
 
-On savait déjà qu'ils étaient formidables, [en concert](226] et
+On savait déjà qu'ils étaient formidables, [en concert](226) et
 [en studio](359), ils le confirment une fois de plus. **Love Is All** vient de
-sortir son 3ème album, _Two Thousand And Ten Injuries_, et [Stereogum nous
-propose de télécharger son titre d'ouverture : _Bigger
-Bolder_->http://stereogum.com/326052/love-is-all-bigger-bolder/mp3s/). Comme
-toujours, l'invention du groupe, l'énergie flegmatique, marche à merveille.
+sortir son 3ème album, _Two Thousand And Ten Injuries_, et
+[Stereogum nous propose de télécharger son titre d'ouverture : _Bigger Bolder_](http://stereogum.com/326052/love-is-all-bigger-bolder/mp3s/).
+Comme toujours, l'invention du groupe, l'énergie flegmatique, marche à
+merveille.
 
-## Harlem - *Gay Human Bones*
+## Harlem - _Gay Human Bones_
 
 Comme son nom ne l'indique pas, **Harlem** est un groupe d'Austin, Texas, dont
 plein de titres sont en écoute sur leur MySpace, et qui
@@ -27,7 +27,7 @@ plein de titres sont en écoute sur leur MySpace, et qui
 qui nous font attendre avec impatience la sortie de leur album _Hippies_, qui
 sortira la semaine prochaine.
 
-## Foals - *This Orient*
+## Foals - _This Orient_
 
 Winston Churchill disait que "le 2nd album est le plus dur à faire, à
 l'exception de tous les autres". Foals a pas trop l'air de s'en faire et le

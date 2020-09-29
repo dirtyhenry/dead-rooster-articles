@@ -14,7 +14,7 @@ s'appeller _How Far Away_. En voici le single :
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F78418477"></iframe>
 
-Sinon, vous pouvez aussi réécouter [*Easy*](982] et [_It's Real_->944) du Real
+Sinon, vous pouvez aussi réécouter [*Easy*](982) et [_It's Real_](944) du Real
 Estate.
 
 (via
