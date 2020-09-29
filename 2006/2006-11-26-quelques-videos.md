@@ -33,12 +33,12 @@ bordel. Florilège…
 
 ### Mozinor refait James Bond
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"> <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden" frameborder="0" type="text/html" src="https://www.dailymotion.com/embed/video/xxkxw" width="100%" height="100%" allowfullscreen > </iframe> </div>
+{% dailymotion xxkxw %}
 
 ### Mozinor refait _Beat It_ en _Bite It_
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"> <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden" frameborder="0" type="text/html" src="https://www.dailymotion.com/embed/video/x6f2d" width="100%" height="100%" allowfullscreen > </iframe> </div>
+{% dailymotion x6f2d %}
 
 <h3>Mozinor refait Ségolène Royal</h3>
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"> <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden" frameborder="0" type="text/html" src="https://www.dailymotion.com/embed/video/x2rhb1" width="100%" height="100%" allowfullscreen > </iframe> </div>
+{% dailymotion x2rhb1 %}

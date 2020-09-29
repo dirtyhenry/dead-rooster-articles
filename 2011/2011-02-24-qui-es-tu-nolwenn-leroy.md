@@ -120,7 +120,7 @@ Là où je veux en venir, c'est que l'oreille avertie remarquera que sur son
 disque de reprises figure un titre, _Suite Sudarmoricaine_, jadis mis en stade
 par Alan Stivell :
 
-<iframe frameborder="0" width="500" height="281" src="http://www.dailymotion.com/embed/video/x8b6na?width=500"></iframe>
+{% vimeo x8b6na %}
 
 Bon, bien sûr, vous n'avez rien compris, vu que les paroles sont en breton… Mais
 voici une traduction des paroles :
@@ -155,4 +155,4 @@ Une nausée me prend et je dois donc vous laisser avec cette dernière version d
 titre, signée d'un certain Julian, qui joue le titre en version blues qui tâche
 & kilt/chaussettes :
 
-<iframe frameborder="0" width="500" height="375" src="http://www.dailymotion.com/embed/video/x6d184?width=500"></iframe>
+{% vimeo x6d184 %}

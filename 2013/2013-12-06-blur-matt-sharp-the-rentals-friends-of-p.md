@@ -11,7 +11,7 @@ tags:
   - Blur
 ---
 
-<iframe frameborder="0" width="500" height="375" src="http://www.dailymotion.com/embed/video/x10grb?width=500&wmode=transparent"></iframe>
+{% vimeo x10grb %}
 
 Mise à jour du 06/12/2013 :
 

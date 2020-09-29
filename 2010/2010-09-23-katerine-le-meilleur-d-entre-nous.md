@@ -56,8 +56,6 @@ hallyday -L'Idole Des Jeunes 1962</a></b><br /><i>envoy&eacute; par
 <a href="http://www.dailymotion.com/fr/channel/music">Regardez d'autres
 vid&eacute;os de musique.</a></i>
 
-&nbsp;
-
 <h3>37. *Elle est d'ailleurs* de Pierre Bachelet</h3>
 
 La reprise de Katerine est
@@ -65,8 +63,6 @@ La reprise de Katerine est
 live :
 
 {% youtube H28JwoGQfBU %}
-
-&nbsp;
 
 <h3>38. *Il est vraiment phénomènal* de Phenomenal Club (?)</h3>
 
@@ -77,8 +73,6 @@ live à _40° à l'ombre_ par un groupe baptisé Phenomenal Club est de toute be
 :
 
 {% youtube X4cD1w10x_M %}
-
-&nbsp;
 
 <h3>Le classement</h3>
 

@@ -36,7 +36,7 @@ avec [*Wasting Time* sur la 5](712] et [_Always On My Mind_ sur la 10->725).
 Un clip existe d'ailleurs pour ce dernier titre, réalisé par Amanda Finn, de
 Family Trees :
 
-<iframe src="http://player.vimeo.com/video/17145194" width="500" height="331" frameborder="0"></iframe><p><a href="http://vimeo.com/17145194">READING RAINBOW always on my mind</a> from <a href="http://vimeo.com/user4160526">amanda finn</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+{% vimeo 17145194 %}
 
 Le groupe est déjà auteur de deux albums :
 

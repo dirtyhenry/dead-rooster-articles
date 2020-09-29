@@ -74,7 +74,7 @@ boules][4] ou celui de lécher la boule avant de la lancer, il pensait que les
 frères Coen feraient le tri au montage et son embarras lors du visionage du
 film, voyant qu'ils avaient tout gardé.
 
-<iframe width="480" height="270" src="http://www.dailymotion.com/embed/video/xgkr1t" frameborder="0"> </iframe>
+{% dailymotion xgkr1t %}
 
 ## Bonus aka le meilleur pour la fin
 

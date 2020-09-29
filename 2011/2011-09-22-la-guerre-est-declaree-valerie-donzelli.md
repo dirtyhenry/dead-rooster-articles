@@ -88,7 +88,7 @@ l'atmosphère du film. Très beau titre.
 Pour le générique de fin, Donzelli nous rappelle que
 [c'est l'heure du goûter](http://www.youtube.com/watch?v=ZQPu374PPq0]. "Ne pas oublier d'aller réécouter [la version de Katerine->744").
 
-<iframe frameborder="0" width="540" height="405" src="http://www.dailymotion.com/embed/video/x33sv7?width=540"></iframe><br /><a href="http://www.dailymotion.com/video/x33sv7_jacno-rectangle-1980_music" target="_blank">JACNO &quot; Rectangle&quot; 1980</a> <i>by <a href="http://www.dailymotion.com/chris591972" target="_blank">chris591972</a></i>
+{% vimeo x33sv7 %}
 
 <h2>*Ton grain de beauté* - Benjamin Biolay & Valérie Donzelli</h2>
 

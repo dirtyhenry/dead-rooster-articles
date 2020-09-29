@@ -7,4 +7,4 @@ wordpress_id: 783
 date: "2011-02-17 14:30:11 +0100"
 ---
 
-<iframe frameborder="0" width="500" height="333" src="http://www.dailymotion.com/embed/video/x5q1ai?width=500"></iframe>
+{% vimeo x5q1ai %}

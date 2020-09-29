@@ -29,7 +29,7 @@ rejoindre… "La Grande Tradition des Titres Épelés".
 
 <h2>Le déclic : *Palestine*, de Yann Tiersen</h2>
 
-<iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A55iR5M6dCzu4HYpMfJJ7hw" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+{% spotify_track 55iR5M6dCzu4HYpMfJJ7hw %}
 
 <h2>Le pionnier : *Y.M.C.A.* des Village People</h2>
 

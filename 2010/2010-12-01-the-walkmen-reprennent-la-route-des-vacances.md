@@ -26,7 +26,7 @@ La chanson est une reprise de la chanson _Holiday Road_, signée Lindsey
 Buckingham (**le** guitariste des Fleetwood Mac) par les Walkmen, dans le cadre
 de l'A.V. Club et de leur _Holiday Undercover_.
 
-<iframe frameborder="no" width="480" height="270" scrolling="no" src="http://www.avclub.com/video_embed/?id=48355"></iframe><br /><a href="http://www.avclub.com/articles/the-walkmen-cover-holiday-road,48355/" target="_blank" title="The Walkmen cover "Holiday Road"">The Walkmen cover "Holiday Road"</a>
+{% youtube __2rzfXoEv8 %}
 
 La version originale est ici :
 

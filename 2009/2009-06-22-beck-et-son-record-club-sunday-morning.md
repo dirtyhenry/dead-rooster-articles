@@ -13,6 +13,6 @@ ni arrangement préalable. Projet intéressant ou manque d’imagination de
 l’Américain ? Le premier album sera The Velvet Underground & Nico, dont une
 preview est déjà en ligne sur le site de l’artiste.
 
-<iframe src="http://player.vimeo.com/video/5222227?color=ffffff" width="540" height="405" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/5222227">Record Club: Velvet Underground & Nico 'Sunday Morning'</a> from <a href="http://vimeo.com/videotheque">Beck Hansen</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+{% vimeo 5222227 %}
 
 (via [le site officiel de Beck](http://www.beck.com/))

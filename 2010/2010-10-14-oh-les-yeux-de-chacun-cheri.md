@@ -26,7 +26,7 @@ un petit peu de son actu marrante d'abord, et on parle du concours ensuite.
 L'album est sorti - et est très bon, dixit Guiguilele - et les concerts ont
 commencé.
 
-<iframe frameborder="0" width="500" height="375" src="http://www.dailymotion.com/embed/video/xf2zor?width=500&theme=default&foreground=%23F7FFFD&highlight=%23FFC300&background=%23171D1B&start=&animatedTitle=&iframe=1&additionalInfos=0&autoPlay=0&hideInfos=0"></iframe><br /><b><a href="http://www.dailymotion.com/video/xf2zor_katerine-liberte-2010_music">Katerine : Libert&eacute; (2010)</a></b><br /><i>envoy&eacute; par <a href="http://www.dailymotion.com/tartenpion333">tartenpion333</a>. - <a href="http://www.dailymotion.com/fr/channel/music">Regardez plus de clips, en HD !</a></i>
+{% dailymotion xf2zor %}
 
 et en live et en kilt ça donne…
 
@@ -42,8 +42,6 @@ d'Arno, qui fait pleurer les copains, Dechavanne, Arditi et Eve Angeli :
 
 {% youtube 2rrYrTQUlY0 %}
 
-&nbsp;
-
 <h3>40. *Chacun fait (c'qui lui plaît)* de Chagrun d'Amour</h3>
 
 La reprise de Katerine est
@@ -51,16 +49,12 @@ La reprise de Katerine est
 
 {% youtube lQ1aSVPuAug %}
 
-&nbsp;
-
 <h3>41. *Oh Oh Chéri* de Françoise Hary</h3>
 
 La reprise de Katerine est
 [ici](http://www.katerinefrancisetsespeintres.com/cheri.html). L'originale :
 
 {% youtube Sy7QglZfKHo %}
-
-&nbsp;
 
 <h3>Le classement</h3>
 

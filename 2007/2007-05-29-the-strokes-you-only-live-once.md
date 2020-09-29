@@ -17,6 +17,6 @@ comments:
     content: Quant à moi, j'aurais plutôt dit "iser du monde".
 ---
 
-<iframe frameborder="0" width="540" height="365" src="http://www.dailymotion.com/embed/video/x4a6q1"></iframe><br /><a href="http://www.dailymotion.com/video/x4a6q1_the-strokes-you-only-live-once-warr_music" target="_blank">The Strokes - You Only Live Once (Warren Fu Alt…</a> <i>par <a href="http://www.dailymotion.com/potq" target="_blank">potq</a></i>
+{% dailymotion x4a6q1 %}
 
 J'aurais préféré qu'ils continuent sur "Iser le monde", mais c'est déjà pas mal…

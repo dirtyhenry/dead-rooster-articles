@@ -17,7 +17,7 @@ déterre des oeuvres qui auraient mieux fait de rester cachées.
 
 Parmi elles, ce titre : _Europe'N'Roll_.
 
-<iframe src="https://embed.spotify.com/?uri=spotify:track:0IkPogibXkUlCPlAWzv6Q3" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+{% spotify_track 0IkPogibXkUlCPlAWzv6Q3 %}
 
 Extrait des paroles :
 
@@ -33,6 +33,6 @@ _ L'Europe'nRoll !
 En matière de patriotisme européen, on préférera l'oeuvre de notre voisin Arno
 et son _Putain, Putain_ :
 
-<iframe src="https://embed.spotify.com/?uri=spotify:track:6xtXKVR79X5wjh7X4jSNHC" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+{% spotify_track 6xtXKVR79X5wjh7X4jSNHC %}
 
 Personne n'est parfait.

@@ -21,7 +21,7 @@ groupe Regrets.
 
 L'originale, elle aussi très connue, est ici :
 
-<object width="480" height="360"><param name="movie" value="http://www.dailymotion.com/swf/video/x63jh1"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed type="application/x-shockwave-flash" src="http://www.dailymotion.com/swf/video/x63jh1" width="480" height="360" allowfullscreen="true" allowscriptaccess="always"></embed></object>
+{% dailymotion x63jh1 %}
 
 Bien heureusement, personne ne l'a trouvé. Classement inchangé :
 

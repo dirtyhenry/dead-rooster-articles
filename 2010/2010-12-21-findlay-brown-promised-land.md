@@ -18,7 +18,7 @@ comments:
     content: Son album {Separated by the sea} est très très bon !
 ---
 
-<iframe src="http://player.vimeo.com/video/17600023" width="500" height="369" frameborder="0"></iframe><p><a href="http://vimeo.com/17600023">Findlay Brown - Promised Land</a> from <a href="http://vimeo.com/recordmakers">Record Makers</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+{% vimeo 17600023 %}
 
 C'est
 [une reprise d'un titre de 1989, interprété alors par Joe Smooth](http://www.youtube.com/watch?v=ML3w4HIMHpY)…
