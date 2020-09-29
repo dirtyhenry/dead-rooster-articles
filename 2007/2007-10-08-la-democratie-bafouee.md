@@ -4,6 +4,7 @@ title: La démocratie bafouée
 author: Dirty Henry
 wordpress_id: 410
 date: "2007-10-08 21:09:00 +0200"
+cover: franck-sauzee.jpg
 ---
 
 Le gouvernement français ignore la foule qui s'émeut et ne propose aucun

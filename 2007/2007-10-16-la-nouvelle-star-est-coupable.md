@@ -20,6 +20,7 @@ comments:
     date: "2007-10-18 11:30:00 +0200"
     title: La nouvelle star est coupable !
     content: Quel con ce Philippe !!
+cover: philippe-manoeuvre.jpg
 ---
 
 Philippe Manoeuvre sur M6 ? Le monde va mal !

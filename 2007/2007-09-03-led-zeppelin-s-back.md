@@ -10,6 +10,7 @@ categories:
 tags:
   - Concert
   - Led Zeppelin
+cover: led-zeppeling-jimmy-page.jpg
 ---
 
 C'était dans l'air du temps depuis déjà quelques semaines, Led Zeppelin serait

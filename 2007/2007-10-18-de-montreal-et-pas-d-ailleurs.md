@@ -5,6 +5,7 @@ authors:
   - Joe Gantdelaine
 wordpress_id: 414
 date: "2007-10-18 09:39:00 +0200"
+cover: of-montreal-3.jpg
 ---
 
 Grosse tournée mondiale pour les créateurs du formidable _Hissing fauna, are you

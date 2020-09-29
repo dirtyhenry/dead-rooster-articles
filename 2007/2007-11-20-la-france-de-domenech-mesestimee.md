@@ -5,6 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 426
 date: "2007-11-20 16:12:00 +0100"
+cover: raymond-domenech.jpg
 ---
 
 L'équipe de France, vice-championne du monde, sera vraisemblablement dans le
