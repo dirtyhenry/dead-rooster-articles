@@ -27,7 +27,8 @@ comments:
 
 {**Catégorie "à voir au ciné mais faut se dépêcher"**}
 
-<h2>*The King's Speech/Le Discours d'un Roi* - Tom Hooper<br />*Black Swan* - Darren Aronofsky</h2>
+<h2>*The King's Speech/Le Discours d'un Roi* - Tom Hooper
+*Black Swan* - Darren Aronofsky</h2>
 
 Voilà bien les deux blockbusters du mois de février !
 

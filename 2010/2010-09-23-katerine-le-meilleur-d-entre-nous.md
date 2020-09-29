@@ -50,11 +50,7 @@ losers.
 La reprise de Katerine est
 [ici](http://www.katerinefrancisetsespeintres.com/idole.html). L'originale :
 
-<object width="500" height="375"><param name="movie" value="http://www.dailymotion.com/swf/video/xuh8q?width=500&theme=default&foreground=%23F7FFFD&highlight=%23FFC300&background=%23171D1B&start=&animatedTitle=&additionalInfos=0&autoPlay=0&hideInfos=0"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed type="application/x-shockwave-flash" src="http://www.dailymotion.com/swf/video/xuh8q?width=500&theme=default&foreground=%23F7FFFD&highlight=%23FFC300&background=%23171D1B&start=&animatedTitle=&additionalInfos=0&autoPlay=0&hideInfos=0" width="500" height="375" allowfullscreen="true" allowscriptaccess="always"></embed></object><br /><b><a href="http://www.dailymotion.com/video/xuh8q_johnny-hallyday-l-idole-des-jeunes_music">Johnny
-hallyday -L'Idole Des Jeunes 1962</a></b><br /><i>envoy&eacute; par
-<a href="http://www.dailymotion.com/INDIEN94">INDIEN94</a>. -
-<a href="http://www.dailymotion.com/fr/channel/music">Regardez d'autres
-vid&eacute;os de musique.</a></i>
+{% dailymotion xuh8q %}
 
 <h3>37. *Elle est d'ailleurs* de Pierre Bachelet</h3>
 

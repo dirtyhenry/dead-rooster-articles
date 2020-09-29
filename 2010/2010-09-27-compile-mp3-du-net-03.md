@@ -24,39 +24,48 @@ particulièrement à découvrir les excellents **Guards** et **The Fresh & Onlys
 <ul class="polaroids">
 
 <li><div class="polaroid">
-[<img390>Guards<br />*Long Time*](http://www.iguessimfloating.net/2010/07/mpfree-guards-st-debut-ep-feat-cults.html)
+[<img390>Guards
+*Long Time*](http://www.iguessimfloating.net/2010/07/mpfree-guards-st-debut-ep-feat-cults.html)
 </div></li>
 
 <li><div class="polaroid">
-[<img391>Women<br />*Eyesore*](http://www.thefader.com/2010/07/15/listen-women-eyesore/)
+[<img391>Women
+*Eyesore*](http://www.thefader.com/2010/07/15/listen-women-eyesore/)
 </div></li>
 
 <li><div class="polaroid">
-[<img392>The Raveonettes<br />*I Wanna Be Adored*](http://50.drmartens.com/free-mp3s/)
+[<img392>The Raveonettes
+*I Wanna Be Adored*](http://50.drmartens.com/free-mp3s/)
 </div></li>
 
 <li><div class="polaroid">
-[<img393>Parenthetical Girls<br />*Young Throats*](http://www.iguessimfloating.net/2010/08/mp3-new-parenthetical-girls-young-throats.html)
+[<img393>Parenthetical Girls
+*Young Throats*](http://www.iguessimfloating.net/2010/08/mp3-new-parenthetical-girls-young-throats.html)
 </div></li>
 
 <li><div class="polaroid">
-[<img395>Magic Kids<br />*Superball*](http://stereogum.com/458381/magic-kids-superball/mp3s/)
+[<img395>Magic Kids
+*Superball*](http://stereogum.com/458381/magic-kids-superball/mp3s/)
 </div></li>
 
 <li><div class="polaroid">
-[<img396>Telenovelas<br />*One and Only*](http://www.iguessimfloating.net/2010/08/mp3-telenovelas-one-and-only.html)
+[<img396>Telenovelas
+*One and Only*](http://www.iguessimfloating.net/2010/08/mp3-telenovelas-one-and-only.html)
 </div></li>
 
 <li><div class="polaroid">
-[<img397>The Fresh & Onlys<br />*Waterfall*](http://stereogum.com/514272/the-fresh-onlys-waterfall/mp3s/)
+[<img397>The Fresh & Onlys
+*Waterfall*](http://stereogum.com/514272/the-fresh-onlys-waterfall/mp3s/)
 </div></li>
 
 <li><div class="polaroid">
-[<img398>Frankie Rose and the Outs<br />*Little Brown Haired Girls*](http://stereogum.com/491131/frankie-rose-the-outs-youre-no-good/mp3s/)
+[<img398>Frankie Rose and the Outs
+*Little Brown Haired Girls*](http://stereogum.com/491131/frankie-rose-the-outs-youre-no-good/mp3s/)
 </div></li>
 
 <li><div class="polaroid">
-[<img394>The Felice Brothers<br />*All When We Were Young*](http://www.blogotheque.net/When-We-Were-Kings)
+[<img394>The Felice Brothers
+*All When We Were Young*](http://www.blogotheque.net/When-We-Were-Kings)
 </div></li>
 
 </ul>

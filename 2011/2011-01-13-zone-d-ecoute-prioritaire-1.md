@@ -19,9 +19,9 @@ Les acronymes c'est cool et ça permet de faire, genre, on est hyper occupé et
 hyper tendance. Souvenez-vous, lorsque vous avez téléphoné à votre amis
 Jean-Louis, enseignant :
 
-<quote>- Salut Jean-Louis, ça roule ?<br />- Ah salut mec, ouais ça va mais
-depuis que je suis TZR dans la région PACA j'arrête pas! D'ailleurs je dois te
-laisser, on se rappelle ASAP!</quote>
+> - Salut Jean-Louis, ça roule ?
+> - Ah salut mec, ouais ça va mais depuis que je suis TZR dans la région PACA
+>   j'arrête pas! D'ailleurs je dois te laisser, on se rappelle ASAP !
 
 Bref, vous aurez compris, les acronymes sont _hype_. Du coup, en cherchant un
 nom pour ma nouvelle, et toute première, chronique, dont l'objet est la

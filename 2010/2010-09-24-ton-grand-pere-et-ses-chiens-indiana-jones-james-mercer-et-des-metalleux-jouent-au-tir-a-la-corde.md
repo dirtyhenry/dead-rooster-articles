@@ -45,12 +45,7 @@ franche…
 Extrait de [**Fur TV**](http://fr.wikipedia.org/wiki/Fur_TV), une série
 anglaise, diffusée sur MTV Pulse.
 
-<object width="500" height="375"><param name="movie" value="http://www.dailymotion.com/swf/video/x814ev?width=500&theme=default&foreground=%23F7FFFD&highlight=%23FFC300&background=%23171D1B&start=&animatedTitle=&additionalInfos=0&autoPlay=0&hideInfos=0"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed type="application/x-shockwave-flash" src="http://www.dailymotion.com/swf/video/x814ev?width=500&theme=default&foreground=%23F7FFFD&highlight=%23FFC300&background=%23171D1B&start=&animatedTitle=&additionalInfos=0&autoPlay=0&hideInfos=0" width="500" height="375" allowfullscreen="true" allowscriptaccess="always"></embed></object><br /><b><a href="http://www.dailymotion.com/video/x814ev_tv-poils-le-guide-du-metal-par-fat_fun">TV
-Poils: Le guide du metal par Fat Ed (VO ss-titres
-FR)</a></b><br /><i>envoy&eacute; par
-<a href="http://www.dailymotion.com/Chicheux">Chicheux</a>. -
-<a href="http://www.dailymotion.com/fr/channel/fun">Plus de vid&eacute;os
-fun.</a></i>
+{% dailymotion x814ev %}
 
 (via Stef)
 

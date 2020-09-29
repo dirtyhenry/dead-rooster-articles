@@ -70,11 +70,7 @@ parodier.
 Attention, si vous ne connaissez rien au foot, ces vidéos ne vous feront
 absolument pas rire. C'est un risque à prendre.
 
-<object width="500" height="375"><param name="movie" value="http://www.dailymotion.com/swf/video/xeua9d?width=500&theme=default&foreground=%23F7FFFD&highlight=%23FFC300&background=%23171D1B&start=&animatedTitle=&additionalInfos=0&autoPlay=0&hideInfos=0"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed type="application/x-shockwave-flash" src="http://www.dailymotion.com/swf/video/xeua9d?width=500&theme=default&foreground=%23F7FFFD&highlight=%23FFC300&background=%23171D1B&start=&animatedTitle=&additionalInfos=0&autoPlay=0&hideInfos=0" width="500" height="375" allowfullscreen="true" allowscriptaccess="always"></embed></object><br /><b><a href="http://www.dailymotion.com/video/xeua9d_parodie-grand-after_fun">Parodie
-GRAND AFTER</a></b><br /><i>envoy&eacute; par
-<a href="http://www.dailymotion.com/Parodie_After_Foot">Parodie_After_Foot</a>. -
-<a href="http://www.dailymotion.com/fr/channel/fun">Plus de vid&eacute;os
-fun.</a></i>
+{% dailymotion xeua9d %}
 
 (via
 [lequipemag.fr](http://www.lequipemag.fr/EquipeMag/Blogs/les-deux-dingues-de-l-after-20100916_183228.html))
