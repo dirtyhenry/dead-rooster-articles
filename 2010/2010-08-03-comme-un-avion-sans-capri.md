@@ -26,8 +26,6 @@ Les originales :
 
 {% youtube 4TP3u0rNkys %}
 
-<div>&nbsp;</div>
-
 {% youtube PduOZg1DpvU %}
 
 Une fois encore, comment est-il possible que personne n'y ait pensé ?

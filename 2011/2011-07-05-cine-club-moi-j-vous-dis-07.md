@@ -93,7 +93,7 @@ Un week-end sur le littoral de la Loire Atlantique, avec une flopée de
 personnages loufoques et cocasses, deux mots qu'on n'a que trop rarement
 l'occasion d'utiliser.
 
-<iframe frameborder="0" width="500" height="219" src="http://www.dailymotion.com/embed/video/xivsas?width=500"></iframe><br /><a href="http://www.dailymotion.com/video/xivsas_ni-a-vendre-ni-a-louer-bande-annonce-full-hd_shortfilms" target="_blank">NI &Agrave; VENDRE NI &Agrave; LOUER : BANDE-ANNONCE Full HD</a> <i>par <a href="http://www.dailymotion.com/baryla" target="_blank">baryla</a></i>
+{% vimeo xivsas %}
 
 Le cinéma à pas cher, des fois c'est bien, parce que ça permet de découvrir des
 pépites qu'on allait voir sur le bout des pieds. En l'occurrence, avant que je

@@ -41,9 +41,7 @@ en haleine toute l'année 2010.
 [Katerine reprend le plus grand tube de l'ex-Stinky Toys](http://www.katerinefrancisetsespeintres.com/rectangle.html),
 décédé l'année dernière, et qui avait servi à une pub Nesquik. L'originale :
 
-<iframe frameborder="0" width="500" height="375" src="http://www.dailymotion.com/embed/video/x33sv7?width=500&theme=default&foreground=%23F7FFFD&highlight=%23FFC300&background=%23171D1B&start=&animatedTitle=&iframe=1&additionalInfos=0&autoPlay=0&hideInfos=0"></iframe><br /><b><a href="http://www.dailymotion.com/video/x33sv7_jacno-rectangle-1980_music">JACNO &quot; Rectangle&quot; 1980</a></b><br /><i>envoy&eacute; par <a href="http://www.dailymotion.com/chris591972">chris591972</a>. - <a target="_self" href="http://www.dailymotion.com/fr/channel/music">Regardez plus de clips, en HD !</a></i>
-
-&nbsp;
+{% vimeo x33sv7 %}
 
 <h3>51. *Noël Blanc* d'Irving Berlin</h3>
 
@@ -53,16 +51,12 @@ traduite par Francis Blanche. La version du King :
 
 {% youtube G0xUPa_XBDk %}
 
-&nbsp;
-
 <h3>52. *Ne partons pas fâchés* de Raphaël</h3>
 
 [Katerine conclut 2010 par une reprise chorale du titre de Raphaël](http://www.katerinefrancisetsespeintres.com/fin.html).
 L'originale :
 
-<iframe frameborder="0" width="500" height="529" src="http://www.dailymotion.com/embed/video/x3rbw8?width=500&theme=default&foreground=%23F7FFFD&highlight=%23FFC300&background=%23171D1B&start=&animatedTitle=&iframe=1&additionalInfos=0&autoPlay=0&hideInfos=0"></iframe><br /><b><a href="http://www.dailymotion.com/video/x3rbw8_raphael-ne-partons-pas-faches_music">Raphael - Ne Partons Pas Fach&eacute;s</a></b><br /><i>envoy&eacute; par <a href="http://www.dailymotion.com/djoik">djoik</a>. - <a target="_self" href="http://www.dailymotion.com/fr/channel/music">Regardez plus de clips, en HD !</a></i>
-
-&nbsp;
+{% vimeo x3rbw8 %}
 
 <h2>Le classement</h2>
 

@@ -50,7 +50,7 @@ Mais surtout, la vraie leçon du film : le bandana et le marcel !
 
 La musique qui va avec : la musique de Double Dragon
 
-<iframe frameborder="0" width="500" height="450" src="http://www.dailymotion.com/embed/video/x8776u?width=500&wmode=transparent"></iframe><br /><a href="http://www.dailymotion.com/video/x8776u_game-boy-double-dragon_videogames" target="_blank">[Game Boy] Double Dragon</a> <i>par <a href="http://www.dailymotion.com/Titanohunter" target="_blank">Titanohunter</a></i>
+{% vimeo x8776u %}
 
 <h2>*Personnel et Confidentiel/Up Close & Personal* - Jon Avnet</h2>
 

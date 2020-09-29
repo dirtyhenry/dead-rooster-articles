@@ -42,8 +42,6 @@ d'Arno, qui fait pleurer les copains, Dechavanne, Arditi et Eve Angeli :
 
 {% youtube 2rrYrTQUlY0 %}
 
-&nbsp;
-
 <h3>40. *Chacun fait (c'qui lui plaît)* de Chagrun d'Amour</h3>
 
 La reprise de Katerine est
@@ -51,16 +49,12 @@ La reprise de Katerine est
 
 {% youtube lQ1aSVPuAug %}
 
-&nbsp;
-
 <h3>41. *Oh Oh Chéri* de Françoise Hary</h3>
 
 La reprise de Katerine est
 [ici](http://www.katerinefrancisetsespeintres.com/cheri.html). L'originale :
 
 {% youtube Sy7QglZfKHo %}
-
-&nbsp;
 
 <h3>Le classement</h3>
 

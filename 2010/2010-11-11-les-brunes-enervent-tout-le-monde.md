@@ -26,8 +26,6 @@ un peu pourrie de l'originale :
 
 {% youtube Fdu4jmtzb-8 %}
 
-&nbsp;
-
 <h3>43. *Ca m'énerve* d'Helmut Fritz</h3>
 
 La reprise de Katerine est
@@ -35,16 +33,12 @@ La reprise de Katerine est
 
 {% youtube iLv-LEO178c %}
 
-&nbsp;
-
 <h3>44. *Tout le monde le fait* d'Ophélie Winter</h3>
 
 Chanson totalement inconnue au bataillon… La reprise de Katerine est
 [ici](http://www.katerinefrancisetsespeintres.com/monde.html). L'originale :
 
 {% youtube cGGp54buqlw %}
-
-&nbsp;
 
 <h3>45. *Toute la pluie tombe sur moi* de Sasha Distel</h3>
 
@@ -58,8 +52,6 @@ Notons malgré tout que l'originale est signée Hal David et Burt Bacharach, pou
 le film _Butch Cassidy et le Kid_ :
 
 {% youtube VILWkqlQLWk %}
-
-&nbsp;
 
 <h2>Le classement</h2>
 

@@ -34,8 +34,6 @@ L'originale :
 
 {% youtube vXQrZQ5IHfc %}
 
-&nbsp;
-
 <h3>47. *Le cimetière des éléphants* d'Eddy Mitchell</h3>
 
 Chanson presque inconnue mais
@@ -52,8 +50,6 @@ Fais chauffer le fusil Chantal !
 
 {% youtube PsJtoVBhmbw %}
 
-&nbsp;
-
 <h3>49. *Double Je* de Christophe Willem</h3>
 
 [Une de mes préférées depuis le début de l'année](http://www.katerinefrancisetsespeintres.com/double.html).
@@ -61,8 +57,6 @@ A noter que les paroles sont co-signées par le fils de Jean Schultheiss, déjà
 mis à l'honneur par Katerine sur _Confidence pour Confidence_. L'originale :
 
 {% youtube Xe8QjHpYE1E %}
-
-&nbsp;
 
 <h2>Le classement</h2>
 
