@@ -107,7 +107,7 @@ et parfois lourdingue. Mais globalement, le livre est recommandé pour
 approfondir sa connaissance du groupe et parce que je défie quiconque de ne pas
 se marrer des anecdotes de Bonzo et cie.
 
-<hr />
+---
 
 <img src="/IMG/arton219.jpg" alt="Bob Dylan, une biographie" width="100px" />
 [Relire le post consacré à l'ouvrage de François Bon sur Bob Dylan](219)

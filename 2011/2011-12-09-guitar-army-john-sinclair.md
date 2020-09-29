@@ -81,11 +81,9 @@ communautaire hippie :
   State](http://en.wikipedia.org/wiki/Kent_State_shootings] (4 étudiants tués
   par la garde nationale de l'Ohio lors d'un rassemblement pacifiste) et
   [Jackson State->http://en.wikipedia.org/wiki/Jackson_State_killings)
-- La
-  [tuerie de Stonehead Manor](<http://en.wikipedia.org/wiki/Joe_(film)#Arville_Garland_.E2.80.94_a_real-life_.22Joe.22>)
-  (un homme tua sa fille de 17 ans et 3 de ses amis car elle était hippie et
-  vivait en communauté - l'homme en question fut condamné mais reçut des
-  centaines de lettres de soutien)
+- La [tuerie de Stonehead Manor][1] (un homme tua sa fille de 17 ans et 3 de ses
+  amis car elle était hippie et vivait en communauté - l'homme en question fut
+  condamné mais reçut des centaines de lettres de soutien)
 
 ## L'herbe et le LSD, oui ! L'alcool et l'héroïne, non !
 
@@ -145,3 +143,5 @@ blues et de livres. Voici une compile Spotify de quelques artistes recommandés
 pour se mettre dans l'ambiance :
 
 <a href="http://open.spotify.com/user/dirtyhenry/playlist/55rWJyJXPRlsRRyPKxxdyy"><img src="/squelettes/images/spotify-button.png" /></a>
+
+[1]: https://en.wikipedia.org/wiki/Joe_(1970_film)#Real-life_parallel

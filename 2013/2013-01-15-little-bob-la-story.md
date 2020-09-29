@@ -13,15 +13,17 @@ date: "2013-01-15 10:00:00 +0100"
 
 Il y a quelques semaines, par téléphone :
 
-« Dis-donc, le Vauban fête ses 50 ans pendant toute une semaine et y'aura des
-concerts de Miossec le jeudi et de Tiersen le vendredi, je te prends une place ?
-_ — Merde, je serai pas là, y'a rien le samedi ? _ — Bof, Little Bob. \_ —
-J'achète ! »
+> — Dis-donc, le Vauban fête ses 50 ans pendant toute une semaine et y'aura des
+> concerts de Miossec le jeudi et de Tiersen le vendredi, je te prends une
+> place ?  
+> — Merde, je serai pas là, y'a rien le samedi ?  
+> — Bof, Little Bob.  
+> — J'achète !
 
 Bien sûr, je le concède aujourd'hui, le choix d'aller voir Little Bob était un
 choix par défaut. Mais bon sang, il ne sera jamais regretté.
 
-**{C'est qui Little Bob ?**}
+## C'est qui Little Bob ?
 
 Si tu connais pas Little Bob, tu dois pas lire Rock&Folk bien souvent toi ! Dans
 Rock&Folk, Philippe Manoeuvre et ses anciens combattants du rock n'hésitent
@@ -39,14 +41,12 @@ sa place en France.
 Alors Little Bob fonde les Apaches, Little Bob and the Red Devils, Little Bob
 Blues Gun avant, enfin, de créer Little Bob Story en 1971. Le groupe restera
 injustement peu connu en France, même si avec _I'm Crying_, extrait de leur
-premier album, _High Time_
-([la référence au MC5](<http://en.wikipedia.org/wiki/High_Time_(MC5_album)>) est
-claire), le groupe se paie pourtant le luxe d'être Single of the Week du NME en
-1976 :
+premier album, _High Time_ ([la référence au MC5][1] est claire), le groupe se
+paie pourtant le luxe d'être Single of the Week du NME en 1976 :
 
 {% youtube owUbQy74qDY %}
 
-**{Et alors, ce concert ?**}
+## Et alors, ce concert ?
 
 Le concert avait donc lieu au [Vauban](http://cabaretvauban.com/), salle
 brestoise qui fêtait son anniversaire en grandes pompes. C'est avec un nouveau
@@ -73,7 +73,7 @@ Exemple du groupe jouant live, à la Maroquinerie, en 2011 :
 
 {% youtube js0Tx9C0LKY %}
 
-**{Et maintenant, quoi ?**}
+## Et maintenant, quoi ?
 
 Il y a d'abord cette vidéo où le groupe joue en studio (_Break Down The Walls_),
 et où Little Bob présente un peu les Blues Bastards et ses influences :
@@ -88,7 +88,7 @@ pesant de cacahuètes), puis quelques unes des versions originales de ses
 influences revendiquées, avant de finir par quelques titres du Little Blues
 Bastards.
 
-[<img src="/squelettes/images/spotify-button.png" >](http://open.spotify.com/user/dirtyhenry/playlist/0qG09yTaExnjCI9Tb8kl3i)
+{% spotify 0qG09yTaExnjCI9Tb8kl3i %}
 
 Et enfin, sachez qu'un documentaire sur Little Bob, _Rocking Class Hero_ est en
 cours de production. Ça devrait pas être triste, tiens.
@@ -96,3 +96,5 @@ cours de production. Ça devrait pas être triste, tiens.
 Update : Serge Kaganski donne des news du projet _Rocking Class Hero_
 [ici](http://blogs.lesinrocks.com/kaganski/2015/07/18/belles-familles-une-comedie-old-school-et-cest-rafraichissant/).
 Apparemment, le film est prêt mais pas encore de distribution.
+
+[1]: https://en.wikipedia.org/wiki/High_Time_(MC5_album)

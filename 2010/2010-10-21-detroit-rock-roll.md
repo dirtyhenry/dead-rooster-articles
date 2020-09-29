@@ -51,12 +51,11 @@ les magasins de disques d’occasion sont remplis de vinyls de
 de [*Kick Out The Jams*->http://fr.wikipedia.org/wiki/Kick_Out_the_Jams].
 Detroit n’a jamais bénéficié de «renaissance» et les conséquences des émeutes
 n’ont jamais été aussi profondes. Mais il y a toujours cette sensation
-d’aventure urbaine que
-[John Sinclair](<http://fr.wikipedia.org/wiki/John_Sinclair_(po%C3%A8te)>)
-décrit dans le documentaire. Sinclair a toujours été un de mes héros : son parti
-des [White Panther](http://en.wikipedia.org/wiki/White_Panther_Party) a
-influencé mon groupe, les [Soledad Brothers->215), et il a écrit les notes de
-pochettes de mon premier album.
+d’aventure urbaine que [John Sinclair][1] décrit dans le documentaire. Sinclair
+a toujours été un de mes héros : son parti des
+[White Panther](http://en.wikipedia.org/wiki/White_Panther_Party) a influencé
+mon groupe, les [Soledad Brothers->215), et il a écrit les notes de pochettes de
+mon premier album.
 
 Alors pourquoi Detroit continue de pondre le meilleur rock’n’roll ? A bien des
 égards, la ville s’est arrêtée après les émeutes, il n’y a donc pas de
@@ -84,3 +83,5 @@ En bonus, quelques liens, dont une compile Spotify :
 - [MC5 _Kick Out The Jams_](http://www.youtube.com/watch?v=iM6nasmkg7A)
 - [The Dirtbombs _Livin' for the City_](http://www.deezer.com/listen-2068265)
 - [Compile Detroit sur Spotify](http://open.spotify.com/user/dirtyhenry/playlist/1RLY05XUpE2GH92qaol6X6)
+
+[1]: https://fr.wikipedia.org/wiki/John_Sinclair_(poète)

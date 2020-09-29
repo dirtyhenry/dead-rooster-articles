@@ -51,7 +51,7 @@ comments:
       http://www.allocine.fr/film/fichefilm-128377/interviews/\r\n:-)"
 ---
 
-## *(500) Days of Summer* - Marc Webb
+## _(500) Days of Summer_ - Marc Webb
 
 Tom est un mec de Los Angeles à la cool. Son boulot le branche pas trop mais
 bon, tant qu'il peut y écouter des disques peinard - de la bonne musique bien
@@ -88,7 +88,7 @@ B.O. du film est impeccable : Smiths, Pixies, Doves, Black Kids, etc. Pourtant
 on choisira la reprise signée She & Him, qu'il n'est plus utile de présenter sur
 ce blog, de _Please, Please, Please, Let Me Get What I Want_, des Smiths.
 
-<hr />
+---
 
 <img337>
 ## *Mary and Max* - Adam Elliot
@@ -117,7 +117,7 @@ retrouve pas mal de thèmes de *Mary & Max* :
 
 **La chanson qui va avec** : _Avoir un bon copain_ bien sûr !
 
-<hr />
+---
 
 <img338>
 ## *Le Petit Nicolas* - Laurent Tirard
@@ -146,5 +146,7 @@ chantée par Renan Luce ou l'un de ses clônes alors que plusieurs chansons
 s'imposaient : _Fais pas ci, fais pas ça_ de Dutronc ou
 [_Poil au tableau_](http://www.youtube.com/watch?v=5H2sSWmWJGc) de Gotainer…
 
-<hr />
-La playlist sur Spotify : [http://open.spotify.com/user/dirtyhenry/playlist/1XrlfhASZRJf8zjyMhREnX](http://open.spotify.com/user/dirtyhenry/playlist/1XrlfhASZRJf8zjyMhREnX)
+---
+
+La playlist sur Spotify :
+[http://open.spotify.com/user/dirtyhenry/playlist/1XrlfhASZRJf8zjyMhREnX](http://open.spotify.com/user/dirtyhenry/playlist/1XrlfhASZRJf8zjyMhREnX)
