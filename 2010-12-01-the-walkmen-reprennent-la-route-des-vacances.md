@@ -30,7 +30,7 @@ de l'A.V. Club et de leur _Holiday Undercover_.
 
 La version originale est ici :
 
-<iframe title="YouTube video player" class="youtube-player" type="text/html" width="500" height="405" src="http://www.youtube.com/embed/_nLiQBV6A7c?rel=0" frameborder="0"></iframe>
+{% youtube _nLiQBV6A7c %}
 
 (via
 [A.V. Club](http://www.avclub.com/articles/the-walkmen-cover-holiday-road,48355/))

@@ -15,7 +15,7 @@ En attendant les premiers épisodes de _La Visite du Louvre_,
 [promis il y a déjà quelques temps](975), voici un coup d'essai de BD inspiré
 d'un billet de François Morel sur France Inter :
 
-<iframe width="540" height="304" src="http://www.youtube.com/embed/PBoZBS4t9ks" frameborder="0" allowfullscreen></iframe>
+{% youtube PBoZBS4t9ks %}
 
 Alors, bam, j'ai pas peur de parler politique et je me lance dans une tentative
 d'explication vaseuse sur pourquoi les sondages sont si mouvants, pourquoi les

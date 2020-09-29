@@ -62,7 +62,7 @@ Fais chauffer le fusil Chantal !
 A noter que les paroles sont co-signées par le fils de Jean Schultheiss, déjà
 mis à l'honneur par Katerine sur _Confidence pour Confidence_. L'originale :
 
-<iframe title="YouTube video player" class="youtube-player" type="text/html" width="500" height="405" src="http://www.youtube.com/embed/Xe8QjHpYE1E?rel=0" frameborder="0"></iframe>
+{% youtube Xe8QjHpYE1E %}
 
 &nbsp;
 

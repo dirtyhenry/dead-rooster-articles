@@ -11,4 +11,4 @@ La crise touche les Arctic Monkeys. Finis les clips bling-bling, ils ont dû
 claquer tout le pognon en jolies pépés, grosses cylindrées et petits fours pour
 finir par faire le clip le plus cheap de l’histoire pour _Cornerstone_…
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/LIQz6zZi7R0" frameborder="0" allowfullscreen></iframe>
+{% youtube LIQz6zZi7R0 %}

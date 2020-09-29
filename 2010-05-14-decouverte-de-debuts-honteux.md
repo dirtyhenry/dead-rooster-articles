@@ -28,4 +28,4 @@ Dieu merci, il n'en fut rien : Keren Ann s'en alla sur des chemins bien plus
 honorables, tout comme un certain Benjamin Biolay, créédité comme coauteur du
 fabuleux _1+1_ :
 
-<iframe width="540" height="405" src="http://www.youtube.com/embed/YgTwGOGoSu0" frameborder="0" allowfullscreen></iframe>
+{% youtube YgTwGOGoSu0 %}

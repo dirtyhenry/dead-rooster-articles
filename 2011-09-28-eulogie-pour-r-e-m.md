@@ -53,13 +53,13 @@ toute une génération de futurs bienfaiteurs du genre humain. Pour avoir une
 version de très bonne qualité, il fallait cliquer à la phrase précédente, mais
 on peut se contenter d'une version moyenne ci-dessous.
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/S8afojtw4UE" frameborder="0" allowfullscreen></iframe>
+{% youtube S8afojtw4UE %}
 
 [Le clip de _Losing My Religion_](http://youtu.be/if-UzXIQ5vw) est un peu
 bizarre et nettement moins cool, alors du coup, en regarder une version avec
 l'image d'une pochette et des pop-ups partout suffit, à mon humble avis :
 
-<iframe width="540" height="396" src="http://www.youtube.com/embed/FQ2yXWi0ppw" frameborder="0" allowfullscreen></iframe>
+{% youtube FQ2yXWi0ppw %}
 
 Quant à _Everybody Hurts_, j'ai changé d'avis. En fait, elle est vraiment un peu
 chiante mais ceux qui veulent rester dans les bouchons pendant plus de 5 minutes
@@ -74,10 +74,10 @@ jamais R.E.M. de votre vie si ça se trouve. Ce ne serait pas si grave car comme
 le disait Chamfort, «Il y a des redites pour l'oreille et pour l'esprit, il n'y
 en a point pour le coeur».
 
-<iframe width="540" height="396" src="http://www.youtube.com/embed/Z0GFRcFm-aY" frameborder="0" allowfullscreen></iframe>
+{% youtube Z0GFRcFm-aY %}
 
-<iframe width="540" height="396" src="http://www.youtube.com/embed/oC7er_6dpsI" frameborder="0" allowfullscreen></iframe>
+{% youtube oC7er_6dpsI %}
 
 Et une chanson bonus.
 
-<iframe width="540" height="396" src="http://www.youtube.com/embed/nn6nC8U_TFQ" frameborder="0" allowfullscreen></iframe>
+{% youtube nn6nC8U_TFQ %}

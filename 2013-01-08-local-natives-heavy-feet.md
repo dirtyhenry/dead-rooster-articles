@@ -12,4 +12,4 @@ on écoutait _Hummingbirds_ - la chanson - de Born Ruffians, cette fois, on
 attend _Hummingbirds_ - l'album. Ce sera le second des Local Natives et il
 sortira bien à un moment, en 2013.
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/h2zWfxW60z0" frameborder="0" allowfullscreen></iframe>
+{% youtube h2zWfxW60z0 %}

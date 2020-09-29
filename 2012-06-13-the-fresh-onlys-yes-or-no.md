@@ -7,4 +7,4 @@ wordpress_id: 1050
 date: "2012-06-13 14:12:03 +0200"
 ---
 
-<iframe width="540" height="304" src="http://www.youtube.com/embed/Iuvu_MgfyI4" frameborder="0" allowfullscreen></iframe>
+{% youtube Iuvu_MgfyI4 %}

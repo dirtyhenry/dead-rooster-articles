@@ -20,7 +20,7 @@ Au rang des grands groupes de l'ombre, BRMC fait l'exploit de rester dans celle
 du [Brian Jonestown Massacre](309). La vie n'est pas juste. _Specter at the
 Feast_ est sorti le mois dernier.
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/mmtQwtcaqLM" frameborder="0" allowfullscreen></iframe>
+{% youtube mmtQwtcaqLM %}
 
 Il y a 2 ans, on écoutait [*Berlin*](783]. Auparavant, on écoutait [leur reprise
 de _Dirty Old Town_->709).

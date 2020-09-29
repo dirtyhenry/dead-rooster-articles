@@ -9,7 +9,7 @@ date: "2013-04-17 10:00:00 +0200"
 
 Second extrait de _Trouble Will Find Me_ : la sortie approche !
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/bFnA-8H-5lo" frameborder="0" allowfullscreen></iframe>
+{% youtube bFnA-8H-5lo %}
 
 [Réécouter *Demons*.](1215]. Se souvenir de [_High Violet_->696).
 

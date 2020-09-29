@@ -13,7 +13,7 @@ comments:
     content: Underrated band !
 ---
 
-<iframe width="420" height="345" src="http://www.youtube.com/embed/1O6gX0FCwpU" frameborder="0" allowfullscreen></iframe>
+{% youtube 1O6gX0FCwpU %}
 
 <quote>«Life changer is the beatles… Underratd song, underrated album.»</quote>
 

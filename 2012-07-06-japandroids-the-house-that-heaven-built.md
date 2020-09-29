@@ -7,7 +7,7 @@ wordpress_id: 1071
 date: "2012-07-06 08:00:00 +0200"
 ---
 
-<iframe width="540" height="405" src="http://www.youtube.com/embed/alW6358dPxI" frameborder="0" allowfullscreen></iframe>
+{% youtube alW6358dPxI %}
 
 élue
 ["indie song de l'été" 2012 par Stereogum](http://stereogum.com/1083812/and-the-indie-song-of-the-summer-2012-is/top-stories/).

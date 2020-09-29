@@ -33,7 +33,7 @@ leads the way while the guitar keeps playing this simple but terrific riff that
 concludes the best song of the album, _Waterfall_,
 [that you might have already seen here](706).
 
-<iframe width="500" height="314" src="http://www.youtube.com/embed/Q2G4ETZvJjU" frameborder="0" allowfullscreen></iframe>
+{% youtube Q2G4ETZvJjU %}
 
 If Lee Mavers was twenty years younger, was taking anti-depressants and Frosties
 for breakfast, was born in San Fransico and spent more time at the beach, The

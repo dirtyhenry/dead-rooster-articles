@@ -10,7 +10,7 @@ date: "2013-04-05 13:54:41 +0200"
 Tout clavecin dehors, Vampire Weekend revient avec _Step_, extrait de _Modern
 Vampires of the City_ qui sortira début mai.
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/_mDxcDjg9P4" frameborder="0" allowfullscreen></iframe>
+{% youtube _mDxcDjg9P4 %}
 
 Pour revoir Jake Gyllenhall jouer au tennis dans une tenue ridiculement drôle,
 il faut retourner sur le clip de [_Giving Up The Gun_](1211).

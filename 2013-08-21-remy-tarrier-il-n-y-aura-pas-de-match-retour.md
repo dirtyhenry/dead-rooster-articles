@@ -13,4 +13,4 @@ ce site, voici un petit plaisir, découvert à l'écoute du
 
 «Contrôle de la poitrine, reprise de la volée en plein coeur»
 
- <iframe width="420" height="315" src="//www.youtube.com/embed/gmkb6YBboNs" frameborder="0" allowfullscreen></iframe>
+ {% youtube gmkb6YBboNs %}

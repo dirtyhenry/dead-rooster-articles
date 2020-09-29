@@ -11,4 +11,4 @@ tags:
   - The Luyas
 ---
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/6mZkbt7S4xM" frameborder="0" allowfullscreen></iframe>
+{% youtube 6mZkbt7S4xM %}

@@ -11,7 +11,7 @@ Matthew Caws, le chanteur de Nada Surf, envoie parfois des perles via son compte
 Twitter. Parmi elles, ce titre inconnu au bataillon, qui date de 1986 et qui
 envoie du pâté.
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/pbni7SkQwoo" frameborder="0" allowfullscreen></iframe>
+{% youtube pbni7SkQwoo %}
 
 La seule page d'informations trouvée sur les autoroutes de l'information est sur
 le bien nommé

@@ -21,7 +21,7 @@ Juliette rencontre Roméo. Une histoire d'amour commence. Bientôt, un enfant va
 naître. Mais le destin tragique de leurs aînés shakespeariens va les rattraper :
 leur fils Adam développe une tumeur au cerveau.
 
-<iframe width="540" height="304" src="http://www.youtube.com/embed/VAOxTMZtiWM" frameborder="0" allowfullscreen></iframe>
+{% youtube VAOxTMZtiWM %}
 
 D'inspiration autobiographique, Valérie Donzelli signe un film brillant, jamais
 plombant malgré le sérieux du sujet, et finalement plein de vie. Quelques mois
@@ -64,7 +64,7 @@ De la chanteuse des 60s, on connaissait surtout
 [_7 heures du matin_](http://www.youtube.com/watch?v=guADTFlEHJE), mais _La Fac
 de Lettres_ n'est pas piquée des vers non plus.
 
-<iframe width="540" height="30" src="http://www.youtube.com/embed/QZjExxr2S_c" frameborder="0" allowfullscreen></iframe>
+{% youtube QZjExxr2S_c %}
 
 <h2>*Si Tu Reviens Chez Moi* - 5 Gentlemen</h2>
 
@@ -72,7 +72,7 @@ Là, pas de surprise, c'est bien dans les années 60 qu'il faut aller chercher
 pour trouver trace des 5 Gentlemen, visiblement inspiration non négligeable de
 [Gangrène Plastique](http://www.youtube.com/watch?v=4eEfDIRaR4c).
 
-<iframe width="540" height="30" src="http://www.youtube.com/embed/k8nCsxVGR0M" frameborder="0" allowfullscreen></iframe>
+{% youtube k8nCsxVGR0M %}
 
 <h2>*The Bells Tolls Five* - Peter von Poehl</h2>
 
@@ -81,7 +81,7 @@ Avec ce titre de Von Poehl
 présentons nos plus plates excuses à ce sujet), on rentre un peu plus dans
 l'atmosphère du film. Très beau titre.
 
-<iframe width="540" height="396" src="http://www.youtube.com/embed/Pp5i3I6MVpE" frameborder="0" allowfullscreen></iframe>
+{% youtube Pp5i3I6MVpE %}
 
 <h2>*Rectangle* - Jacno</h2>
 
@@ -97,4 +97,4 @@ malgré tout plus réussie pour une écoute hors du film. Cependant introuvable 
 version intégrable dans cette page, voici la version du film et je vous invite
 globalement à écouter toute la B.O. dispo sur disque.
 
-<iframe width="540" height="304" src="http://www.youtube.com/embed/NbwsIp1mDTs" frameborder="0" allowfullscreen></iframe>
+{% youtube NbwsIp1mDTs %}

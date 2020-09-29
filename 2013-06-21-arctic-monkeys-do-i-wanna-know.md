@@ -9,7 +9,7 @@ date: "2013-06-21 12:00:00 +0200"
 
 Les Arctic Monkeys annonce leur retour prochain avec _Do I Wanna Know?_
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/bpOSxM0rNPM" frameborder="0" allowfullscreen></iframe>
+{% youtube bpOSxM0rNPM %}
 
 Rappelez-vous également des anciens titres aux noms rigolos des singes de
 l'arctique : [*The Hellcat Spangled Shalalala*](872] ou [*Don’t Sit Down ‘Cause

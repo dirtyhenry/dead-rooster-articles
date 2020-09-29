@@ -13,4 +13,4 @@ Encore un [autre](1139) teaser pour l'album de Guards, à paraître en février.
 
 Update : et désormais un clip :
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/KdLqDTP-ne4" frameborder="0" allowfullscreen></iframe>
+{% youtube KdLqDTP-ne4 %}

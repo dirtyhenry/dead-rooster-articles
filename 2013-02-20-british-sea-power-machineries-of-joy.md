@@ -11,9 +11,7 @@ Les prolifiques British Sea Power, [chouchous de Joe Gantdelaine](928),
 reviennent cette année avec un nouvel LP, _Machineries of Joy_. Voici, le titre
 du même nom en teaser.
 
-<div style="max-width:560px;">
-<iframe src="http://www.youtube.com/embed/9ZXqDholIzg" frameborder="0" allowfullscreen></iframe>
-</div>
+{% youtube 9ZXqDholIzg %}
 
 N'hésitez pas à réécouter leur LP précédent, _Valhalla Dancehall_, (et lire
 [notre petit commentaire à son sujet](961]) pendant ce temps-là, ou réécouter

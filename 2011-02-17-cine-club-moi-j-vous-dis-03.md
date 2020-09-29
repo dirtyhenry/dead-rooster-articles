@@ -42,7 +42,7 @@ The Rainbow_ a été écrit pour le film (l'écouter sur
 [YouTube](http://www.youtube.com/watch?v=QhzbzwPNgXA)). Le film a aussi d'autres
 musiques assez catchy dont celle-ci est ma préférée :
 
-<iframe title="YouTube video player" width="500" height="405" src="http://www.youtube.com/embed/z6NsvJSGMVk?rel=0" frameborder="0" allowfullscreen></iframe>
+{% youtube z6NsvJSGMVk %}
 
 Enfin, le vendeur de BD des Simpsons me fait remarquer qu'il paraît qu'une
 partie de _The Dark Side Of The Moon_, des Pink Floyd, se superpose parfaitement
@@ -56,7 +56,7 @@ _Daria_. Elles viennent de finir le lycée et prévoient d'emménager ensemble �
 fin de l'été, sitôt qu'Enid aura validé son diplôme en suivant le cours d'été
 d'art.
 
-<iframe title="YouTube video player" width="500" height="311" src="http://www.youtube.com/embed/rq6AOc0ATnU?rel=0" frameborder="0" allowfullscreen></iframe>
+{% youtube rq6AOc0ATnU %}
 
 Le générique du film annonce la couleur : ce film est excellent. On y découvre
 qu'on aurait pu découvrir Scarlett Johansson avant _Lost In Translation_, on
@@ -69,7 +69,7 @@ dont le récent ouvrage _Wilson_ est également à recommander.
 
 Musicalement, on y trouve le _What Do I Get_ des Buzzcocks :
 
-<iframe title="YouTube video player" width="500" height="405" src="http://www.youtube.com/embed/-EEPvXlTUnU?rel=0" frameborder="0" allowfullscreen></iframe>
+{% youtube -EEPvXlTUnU %}
 
 Et le non moins fabuleux titre de la déjà citée scène de générique, tiré d'un
 Bollywood movie, dont l'intro n'aurait pas fait rougir le récemment décédé John
@@ -104,7 +104,7 @@ Côté musique, le thème de Fantomas est très bon ! Pour l'anecdote, je me
 souviens même qu'il a été utilisé sur scène par Dionysos, en intro de _Song For
 Jedi_. Il est signé Michel Magne.
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/Itmkhlwb5oU" frameborder="0" allowfullscreen></iframe>
+{% youtube Itmkhlwb5oU %}
 
 N.B. : le vendeur de BD des Simpsons s'intéressera aussi aux remixes de
 Fantomas, qu'on peut trouver
@@ -133,7 +133,7 @@ Pas de révolution dans le cinéma de la fille Coppola. On se retrouve toujours
 passioné par des gens en train de s'ennuyer. En plus, y'a une chanson des
 Strokes…
 
-<iframe title="YouTube video player" width="500" height="311" src="http://www.youtube.com/embed/vvSspY7WU10?rel=0" frameborder="0" allowfullscreen></iframe>
+{% youtube vvSspY7WU10 %}
 
 <h2>*Le nom des gens* - Michel Leclerc</h2>
 

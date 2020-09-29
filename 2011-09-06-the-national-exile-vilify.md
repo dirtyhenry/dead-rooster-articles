@@ -11,7 +11,7 @@ tags:
   - The National
 ---
 
-<iframe width="540" height="333" src="http://www.youtube.com/embed/M4X6q7rKGd0" frameborder="0" allowfullscreen></iframe>
+{% youtube M4X6q7rKGd0 %}
 
 Voir les détails de l'histoire du clip sur
 [Pitchfork](http://pitchfork.com/news/43486-video-the-national-exile-vilify/).

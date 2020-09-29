@@ -51,7 +51,7 @@ Voici
 [une reprise de _White Christmas_](http://www.katerinefrancisetsespeintres.com/neige.html),
 traduite par Francis Blanche. La version du King :
 
-<iframe title="YouTube video player" class="youtube-player" type="text/html" width="500" height="405" src="http://www.youtube.com/embed/G0xUPa_XBDk?rel=0" frameborder="0"></iframe>
+{% youtube G0xUPa_XBDk %}
 
 &nbsp;
 

@@ -21,7 +21,7 @@ tags:
 On commence par un court dessin animé, de l'école Seth MacFarlane, le créateur
 de _Family Guy_ et d'_American Dad_.
 
-<iframe width="500" height="405" src="http://www.youtube.com/embed/PgLvmp-TO0E" frameborder="0" allowfullscreen></iframe>
+{% youtube PgLvmp-TO0E %}
 
 (via Jon)
 
@@ -34,7 +34,7 @@ lien.</strike>
 
 [Edit : le lien est cassé mais ça marche aussi avec la vidéo ci-dessous]
 
-<iframe width="500" height="405" src="http://www.youtube.com/embed/Vn1GaaLhz4g" frameborder="0" allowfullscreen></iframe>
+{% youtube Vn1GaaLhz4g %}
 
 <h2>Weezer's *Memories*</h2>
 
@@ -47,7 +47,7 @@ de leur nouvel album _Hurley_.
 
 [Edit : la vidéo a été supprimée de YouTube, on remplace par le clip du titre]
 
-<iframe width="500" height="314" src="http://www.youtube.com/embed/C5Fq3U_FjYc" frameborder="0" allowfullscreen></iframe>
+{% youtube C5Fq3U_FjYc %}
 
 <h2>Ecouter de la musique en 1990 et en 2010</h2>
 

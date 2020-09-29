@@ -33,7 +33,7 @@ c'est plus sa guerre, il préfère penser, se taire, et
 Le tout est filmé comme si _Nosferatu_ passait sur MTV pour que ça a ait de la
 gueule.
 
-<iframe title="YouTube video player" width="500" height="311" src="http://www.youtube.com/embed/7voEoWRKbAE" frameborder="0" allowfullscreen></iframe>
+{% youtube 7voEoWRKbAE %}
 
 En visionnant ce film, on se dit :
 
@@ -101,7 +101,7 @@ hommage au cinéma, façon [DIY->http://fr.wikipedia.org/wiki/Do_it_yourself).
 
 **<strike>La musique</strike> Le sketch qui va avec**
 
-<iframe title="YouTube video player" width="500" height="405" src="http://www.youtube.com/embed/5VTQzQhW4bg" frameborder="0" allowfullscreen></iframe>
+{% youtube 5VTQzQhW4bg %}
 
 <h2>*The Fighter* - David O. Russell</h2>
 
@@ -115,7 +115,7 @@ c'est touchant, c'est bien joué, bref, c'est du tout bon.
 
 Et surtout, surtout, pensez à regarder _Casablanca Driver_ !
 
-<iframe title="YouTube video player" width="500" height="405" src="http://www.youtube.com/embed/SVslPiOpalA" frameborder="0" allowfullscreen></iframe>
+{% youtube SVslPiOpalA %}
 
 La musique qui va avec : _Saints_ - The Breeders
 
@@ -124,7 +124,7 @@ pu être _Can't You Hear Me Knocking_, si seulement ce titre ne perdait pas de
 son punch au long de ses longues 7 minutes (il aurait dû faire 2:40 et éviter
 les solos de saxo). Du coup, les Breeders gagnent.
 
-<iframe title="YouTube video player" width="500" height="405" src="http://www.youtube.com/embed/Bt5MWCwFhCI" frameborder="0" allowfullscreen></iframe>
+{% youtube Bt5MWCwFhCI %}
 
 <h2>*L'étrange affaire Angelica* - Manoel de Oliveira</h2>
 
@@ -153,7 +153,7 @@ La musique qui va avec
 
 Zazou chante ici parfaitement ce que j'ai ressenti dans la salle :
 
-<iframe title="YouTube video player" width="500" height="405" src="http://www.youtube.com/embed/DomEwrZb3j8" frameborder="0" allowfullscreen></iframe>
+{% youtube DomEwrZb3j8 %}
 
 <h2>Les autres</h2>
 

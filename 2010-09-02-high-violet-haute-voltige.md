@@ -28,7 +28,7 @@ diablement électrique et incroyablement dense. Ça marche à tous les coups ou
 presque. Mais il n'y a pas que ça. Dans _Terrible Love_, il y a Bryan Devendorf,
 le batteur du groupe.
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/EfIm8lw4cCM" frameborder="0" allowfullscreen></iframe>
+{% youtube EfIm8lw4cCM %}
 
 Un ami à moi, sans doute vaguement masochiste et que je viens d'inventer,
 m'avait un jour confié qu'il aimait se retenir de pisser un maximum. Ainsi,

@@ -43,7 +43,7 @@ elle tandis que la guitare se cale dans un riff aussi simple que génial qui
 conclut le meilleur titre de l'album, _Waterfall_,
 [déjà référencé dans nos pages dans une compile](706).
 
-<iframe width="500" height="314" src="http://www.youtube.com/embed/Q2G4ETZvJjU" frameborder="0" allowfullscreen></iframe>
+{% youtube Q2G4ETZvJjU %}
 
 Si Lee Mavers avait vingt ans de moins, prenait des anti-dépresseurs et des
 Frosties au petit déjeuner, était né à San Francisco et passait plus de temps à

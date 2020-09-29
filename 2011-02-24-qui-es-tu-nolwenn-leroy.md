@@ -149,7 +149,7 @@ les plus ignominieuses.
 Confrontons désormais cette chanson à la pochette du disque dont elle est
 extraite :
 
-<iframe title="YouTube video player" width="500" height="311" src="http://www.youtube.com/embed/lioi51A5oUY?rel=0" frameborder="0" allowfullscreen></iframe>
+{% youtube lioi51A5oUY %}
 
 Une nausée me prend et je dois donc vous laisser avec cette dernière version du
 titre, signée d'un certain Julian, qui joue le titre en version blues qui tâche

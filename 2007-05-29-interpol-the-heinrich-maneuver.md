@@ -10,7 +10,7 @@ tags:
   - Interpol
 ---
 
-<iframe width="540" height="396" src="http://www.youtube.com/embed/Ha_bppvZ0a8" frameborder="0" allowfullscreen></iframe>
+{% youtube Ha_bppvZ0a8 %}
 
 Philippe Paringault a dit un jour :
 

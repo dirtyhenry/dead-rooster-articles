@@ -45,7 +45,7 @@ Love_</strike> _F.E.E.L.I.N.G.C.A.L.L.E.D.L.O.V.E._ de Pulp. Présent sur leur
 chef d'oeuvre, [_Different Class_](852), c'est un morceau idéal pour triper un
 max sur son lit d'adolescent.
 
-<iframe width="500" height="405" src="http://www.youtube.com/embed/1Qxn7DLcNwQ?rel=0" frameborder="0" allowfullscreen></iframe>
+{% youtube 1Qxn7DLcNwQ %}
 
 <h2>Le plus cool : *B.L.U.R.E.M.I.* de Blur</h2>
 
@@ -56,7 +56,7 @@ merveilleusement avec son voisin de l'album _13_ : _Battle_ (qui rivalise
 presque niveau trippant avec <strike>_Feeling Called Love_</strike>
 _F.E.E.L.I.N.G.C.A.L.L.E.D.L.O.V.E._).
 
-<iframe width="425" height="349" src="http://www.youtube.com/embed/8qq4327hb7E?rel=0" frameborder="0" allowfullscreen></iframe>
+{% youtube 8qq4327hb7E %}
 
 <h2>Le tube qui ne le mérite pas : *L.I.F.E.G.O.E.S.O.N.* de Noah & The Whale</h2>
 
@@ -66,7 +66,7 @@ rang de ces ratages, <strike>_Life Goes On_</strike> _L.I.F.E.G.O.E.S.O.N._
 figure en bonne position mais a complètement cartonné en Angleterre. C'est pas
 comme ça qu'on va les aider à se remettre en question…
 
-<iframe width="500" height="405" src="http://www.youtube.com/embed/Y8XuMDi-wIk?rel=0" frameborder="0" allowfullscreen></iframe>
+{% youtube Y8XuMDi-wIk %}
 
 <h2>Le plus dancefloor : *D.A.N.C.E.* de Justice</h2>
 
@@ -82,4 +82,4 @@ Minogue->http://www.youtube.com/watch?v=AVDogmtajKI], et [c'est toujours le
 vainqueur d'un concours de sosie qui se fait passer pour Paul
 McCartney->http://en.wikipedia.org/wiki/Paul_is_dead).
 
-<iframe width="500" height="405" src="http://www.youtube.com/embed/sy1dYFGkPUE?rel=0" frameborder="0" allowfullscreen></iframe>
+{% youtube sy1dYFGkPUE %}

@@ -21,7 +21,7 @@ Hutch.
 
 UPDATE : et maintenant la vidéo…
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/ouuqJ0pkWvU" frameborder="0" allowfullscreen></iframe>
+{% youtube ouuqJ0pkWvU %}
 
 (via
 [Stereogum](http://stereogum.com/1347671/har-mar-superstar-lady-you-shot-me-video-stereogum-premiere/mp3s/))

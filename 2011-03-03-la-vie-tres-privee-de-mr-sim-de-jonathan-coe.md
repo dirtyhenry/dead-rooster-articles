@@ -87,4 +87,4 @@ Les voilà désormais ajoutés à ma liste de trucs à lire et à voir (qui
 bizarrement, ne fait que grandir). Je vous quitte avec la bande annonce de _Deep
 Water_ :
 
-<iframe title="YouTube video player" width="500" height="311" src="http://www.youtube.com/embed/ePAfjxI4rws?rel=0" frameborder="0" allowfullscreen></iframe>
+{% youtube ePAfjxI4rws %}

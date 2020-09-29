@@ -11,6 +11,6 @@ tags:
   - Blur
 ---
 
-<iframe width="500" height="314" src="http://www.youtube.com/embed/2v8oWbOfmiE" frameborder="0" allowfullscreen></iframe>
+{% youtube 2v8oWbOfmiE %}
 
 Rarement Albarn a été aussi bon en solo.

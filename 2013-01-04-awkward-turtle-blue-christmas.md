@@ -10,6 +10,6 @@ date: "2013-01-04 09:00:00 +0100"
 L'équipe de Dead Rooster vous souhaite la bonne année 2013 en chanson, et en
 clip.
 
-<iframe width="540" height="304" src="http://www.youtube.com/embed/68GzNHS3SBM" frameborder="0" allowfullscreen></iframe>
+{% youtube 68GzNHS3SBM %}
 
 Et vous promet un post pour mardi.

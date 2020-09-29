@@ -28,7 +28,7 @@ rêver d'un hommage post rock à
 le tempo tatapoumesque fait plutôt penser à un crocodile qui se débat dans une
 mare de boue, englué par le chant sans conviction de Justin Young.
 
-<iframe width="500" height="281" src="http://www.youtube.com/embed/bFUKrsDDChE" frameborder="0" allowfullscreen></iframe>
+{% youtube bFUKrsDDChE %}
 
 Ce groupe n'est même pas fun, trop sérieux déjà. Des vieux-jeunes gens qui
 hésitent entre du rock de stade crétin : _Teenage icon_ (et sa fin ratée) ou

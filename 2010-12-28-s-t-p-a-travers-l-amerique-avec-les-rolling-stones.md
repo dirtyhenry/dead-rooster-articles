@@ -85,7 +85,7 @@ commun attendront la fin du concert - ce sera à deux heures du matin - pour
 ramener les spectateurs chez eux. Il paraît que sa popularité soudaine parmi la
 jeunesse de Boston aidera à le faire réélire quelques temps plus tard.
 
-<iframe title="YouTube video player" class="youtube-player" type="text/html" width="500" height="405" src="http://www.youtube.com/embed/ushiwMacvQw?rel=0" frameborder="0"></iframe>
+{% youtube ushiwMacvQw %}
 
 Le livre se conclut logiquement par la dernière date des Stones à New York, qui
 coïncide avec le 29ème anniversaire de Jagger. Pour fêter ça, Chip Monck

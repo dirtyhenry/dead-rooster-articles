@@ -13,7 +13,7 @@ de l'efficace.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F78952710"></iframe>
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/TJC8zeu3MHk" frameborder="0" allowfullscreen></iframe>
+{% youtube TJC8zeu3MHk %}
 
 (via
 [Pitchfork](http://pitchfork.com/news/49544-listen-to-the-new-strokes-single-all-the-time/]

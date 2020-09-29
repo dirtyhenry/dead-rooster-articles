@@ -14,7 +14,7 @@ juin.
 
 UPDATE : la vidéo est là.
 
-<iframe width="600" height="338" src="http://www.youtube.com/embed/ykOK2XZ80vg" frameborder="0" allowfullscreen></iframe>
+{% youtube ykOK2XZ80vg %}
 
 Pareil que pour The National [hier](1227) : "Vivement l'album !"
 

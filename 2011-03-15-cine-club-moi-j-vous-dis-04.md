@@ -67,7 +67,7 @@ le cas avec _The King's Speech_ qui me fait aimer Beethoven autrement que sous
 la forme d'un Saint-Bernard. Qu'on se le dise, la symphonie numéro 7 en la
 majeur de Ludwig Von a un riff du tonnerre !
 
-<iframe title="YouTube video player" width="500" height="405" src="http://www.youtube.com/embed/Y7F4z8FV6ME" frameborder="0" allowfullscreen></iframe>
+{% youtube Y7F4z8FV6ME %}
 
 Même sur le domaine de la B.O., _Black Swan_ ne se montre pas hyper intéressant
 : du classique connu de tous (le motif principal du lac des cygnes, tout le
@@ -75,7 +75,7 @@ monde connaît quand même, faut pas déconner) et The Chemical Brothers. La
 prochaine fois, Aronofsky n'aura qu'à blinder sa B.O. de Massive Attack et on
 sera fâchés pour la vie… Pour fêter ça, allez, un peu de ska !
 
-<iframe title="YouTube video player" width="500" height="405" src="http://www.youtube.com/embed/-utkYnIV1_k" frameborder="0" allowfullscreen></iframe>
+{% youtube -utkYnIV1_k %}
 
 <h2>*Incendies* - Denis Villeneuve</h2>
 
@@ -100,7 +100,7 @@ larmoyant, la mise en scène reste plutôt élégante.
 
 La musique qui va avec : _You And Who's Army?_ - Radiohead
 
-<iframe title="YouTube video player" width="500" height="311" src="http://www.youtube.com/embed/gAUMgureA6o" frameborder="0" allowfullscreen></iframe>
+{% youtube gAUMgureA6o %}
 
 <h2>*How Do You Know/Comment Savoir* - James L. Brooks</h2>
 
@@ -135,7 +135,7 @@ La musique qui va avec : _What's Under The House_ - Goldspot
 
 La B.O. est globalement très mièvre, mais ce titre est à sauver…
 
-<iframe title="YouTube video player" width="500" height="311" src="http://www.youtube.com/embed/IXtOSt2vG80" frameborder="0" allowfullscreen></iframe>
+{% youtube IXtOSt2vG80 %}
 
 <h2>*Halal, Police d'Etat* - Rachid Dhibou</h2>
 
@@ -145,7 +145,7 @@ _La Tour Montparnasse Infernale_ et c'est aussi moins réussi que _Seuls Two_. O
 rigole même davantage quand Ramzy parle de son amour pour Patrick Sébastien à la
 télé :
 
-<iframe title="YouTube video player" width="500" height="311" src="http://www.youtube.com/embed/Tl1ufE80DDM" frameborder="0" allowfullscreen></iframe>
+{% youtube Tl1ufE80DDM %}
 
 **{Catégorie "Vieux Films à voir en DVD"**}
 

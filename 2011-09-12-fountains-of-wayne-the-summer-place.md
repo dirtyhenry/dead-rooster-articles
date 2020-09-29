@@ -11,7 +11,7 @@ tags:
   - Fountains of Wayne
 ---
 
-<iframe width="540" height="333" src="http://www.youtube.com/embed/PJ8tuVQKeto" frameborder="0" allowfullscreen></iframe>
+{% youtube PJ8tuVQKeto %}
 
 Vu que Joe Gantdelaine le fait pas mais que la chanson et le clip sont pas mal,
 je m'y colle.

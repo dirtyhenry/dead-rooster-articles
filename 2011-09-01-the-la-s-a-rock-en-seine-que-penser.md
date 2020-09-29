@@ -27,7 +27,7 @@ commencent à sortir et à défaut d'être des succès, _Way Out_ (1987) mais su
 le tube désormais planétaire _There She Goes_ (1988) obtiennent une très bonne
 presse.
 
-<iframe width="420" height="345" src="http://www.youtube.com/embed/966GxzNRxaQ" frameborder="0" allowfullscreen></iframe>
+{% youtube 966GxzNRxaQ %}
 
 L'heure sonne donc pour les La's de sortir un premier album : ils rentrent en
 studio avec un premier producteur. Le courant ne passe pas et Mavers n'est pas
@@ -44,7 +44,7 @@ Steve Lillywhite, de se débrouiller avec ce qu'il a sous la main pour sortir un
 disque qui tienne la route. Mavers est vert de rage mais le disque est un succès
 en Angleterre.
 
-<iframe width="420" height="345" src="http://www.youtube.com/embed/CZXLLMbJdZ4" frameborder="0" allowfullscreen></iframe>
+{% youtube CZXLLMbJdZ4 %}
 
 Les interviews de Mavers ressemblent alors à ça :
 

@@ -73,7 +73,7 @@ admettrez que je ne me fous pas de votre gueule (y'a même Yo La Tengo pour Joe
 Gantdelaine) et je recommande particulièrement Katie Herzig, Josh Ritter et
 Family Of The Year.
 
-<iframe width="540" height="333" src="http://www.youtube.com/embed/uPSb8yFGZ-E" frameborder="0" allowfullscreen></iframe>
+{% youtube uPSb8yFGZ-E %}
 
 <a href="http://open.spotify.com/user/dirtyhenry/playlist/16Zh0sLmbLicvPdelYm7uD"><img src="/squelettes/images/spotify-button.png" /></a>
 

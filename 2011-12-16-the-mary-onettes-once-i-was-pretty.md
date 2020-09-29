@@ -7,7 +7,7 @@ wordpress_id: 972
 date: "2011-12-16 01:15:40 +0100"
 ---
 
-<iframe width="500" height="284" src="http://www.youtube.com/embed/l_6Oo0VfMyU" frameborder="0" allowfullscreen></iframe>
+{% youtube l_6Oo0VfMyU %}
 
 Un live pas mal, une
 [version studio](http://grooveshark.com/s/Once+I+Was+Pretty/2DZWVd?src=5) encore

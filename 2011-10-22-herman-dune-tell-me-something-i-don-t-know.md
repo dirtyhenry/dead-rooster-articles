@@ -11,4 +11,4 @@ tags:
   - Herman Düne
 ---
 
-<iframe width="540" height="304" src="http://www.youtube.com/embed/hY_wuw2u5lY" frameborder="0" allowfullscreen></iframe>
+{% youtube hY_wuw2u5lY %}

@@ -34,7 +34,7 @@ sévère, au grand dam de ses parents qui, ne sachant rien de la relation liant
 leur fils et leur amie, insistent pour qu'il rencontre la fille de celle-ci,
 Elaine.
 
-<iframe width="540" height="435" src="http://www.youtube.com/embed/-3lKbMBab18" frameborder="0" allowfullscreen></iframe>
+{% youtube -3lKbMBab18 %}
 
 **Mrs. Robinson, you're trying to seduce me. Aren't you?**
 
@@ -94,4 +94,4 @@ Fair_->http://www.youtube.com/watch?v=nWu6ney5hYQ).
   [finissent ensemble sur des tee-shirts](http://www.comboutique.com/shop/t_shirt_impression-tee_peter__steven-2620-47423.html)
   et tournent des films ensemble :
 
-<iframe width="540" height="333" src="http://www.youtube.com/embed/hVytko7quO4" frameborder="0" allowfullscreen></iframe>
+{% youtube hVytko7quO4 %}

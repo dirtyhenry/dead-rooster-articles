@@ -7,7 +7,7 @@ wordpress_id: 909
 date: "2011-09-14 10:45:24 +0200"
 ---
 
-<iframe width="540" height="435" src="http://www.youtube.com/embed/AzN0mMx-sJg" frameborder="0" allowfullscreen></iframe>
+{% youtube AzN0mMx-sJg %}
 
 Encore merci au
 [Facebook de Graham Coxon](http://www.facebook.com/grahamcoxonofficial) pour

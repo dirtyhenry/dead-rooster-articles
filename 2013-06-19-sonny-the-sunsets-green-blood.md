@@ -10,7 +10,7 @@ date: "2013-06-19 12:00:00 +0200"
 Déjà 3 semaines qu'on n'a pas posté de chanson de Sonny & The Sunsets ? Vite,
 remédions à ça !!!
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/5i5zO7aXiFA" frameborder="0" allowfullscreen></iframe>
+{% youtube 5i5zO7aXiFA %}
 
 Complète ta collection avec [*Palmreader*](1238], [*Dark Corners*->1205] ou le
 plus ancien [*I Wanna Do It*->827] voire leur reprise d'[_Imagine_->1195).

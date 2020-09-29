@@ -37,7 +37,7 @@ La série a aussi eu, au fil des saisons, une jolie ribambelle de guest stars :
 Scott Baio (_Happy Days_ et _Charles s'en Charge_), Liza Minnelli, Ben Stiller,
 Charlize Theron, Henry Winkler (Fonzy dans _Happy Days_), etc.
 
-<iframe width="540" height="304" src="http://www.youtube.com/embed/N9TXVMkQ29g" frameborder="0" allowfullscreen></iframe>
+{% youtube N9TXVMkQ29g %}
 
 La série est hilarante à tous les niveaux : personnages (Tobias et GOB en tête),
 situations (les péripéties de Buster), style (le côté télé réalité),
@@ -45,7 +45,7 @@ commentaires de la voix-off… Ses auteurs aiment aussi les jeux de mots foireux
 le plus développé étant sûrement celui autour du personnage récurrent de Bob
 Loblaw :
 
-<iframe width="540" height="396" src="http://www.youtube.com/embed/mwWAsNZTnug" frameborder="0" allowfullscreen></iframe>
+{% youtube mwWAsNZTnug %}
 
 L'idée de la série est venue de Ron Howard (aka Richie Cunningham - ce qui
 explique probablement la _Happy-Days_-connection des seconds rôles), qui voulait

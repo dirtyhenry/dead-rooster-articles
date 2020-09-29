@@ -15,6 +15,6 @@ Stripes le mériteraient pourtant.
 
 Allez, mieux vaut tard que jamais :
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/ojVsXB12zC8" frameborder="0" allowfullscreen></iframe>
+{% youtube ojVsXB12zC8 %}
 
 (via [Stereogum](http://stereogum.com/1290961/django-django-wor-video/video/))

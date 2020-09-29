@@ -40,7 +40,7 @@ ne pas confondre avec le titre de Bloc Party, jadis
 [merveilleusement repris par les Hooray Henrys](237), il est toujours bon de le
 rappeler).
 
-<iframe title="YouTube video player" class="youtube-player" type="text/html" width="500" height="405" src="http://www.youtube.com/embed/1mBSOtdOjoc?rel=0" frameborder="0" allowFullScreen></iframe>
+{% youtube 1mBSOtdOjoc %}
 
 Quant à _Desire Lines_, c'est selon moi le meilleur morceau de l'album. Il s'y
 trouve en plein milieu et lui sert de pierre angulaire, synthétisant en une
@@ -83,7 +83,7 @@ longues heures alors vous pouvez me faire confiance.
 
 _Near Wild Heaven_ par R.E.M. :
 
-<iframe title="YouTube video player" class="youtube-player" type="text/html" width="500" height="405" src="http://www.youtube.com/embed/DBK_B6m0_tY?rel=0" frameborder="0" allowFullScreen></iframe>
+{% youtube DBK_B6m0_tY %}
 
 _Oily Water_ par Blur :
 
@@ -91,8 +91,8 @@ _Oily Water_ par Blur :
 
 _Resigned_ par Blur :
 
-<iframe title="YouTube video player" class="youtube-player" type="text/html" width="500" height="405" src="http://www.youtube.com/embed/sEolFeMAalY?rel=0" frameborder="0" allowFullScreen></iframe>
+{% youtube sEolFeMAalY %}
 
 _Mine's Not A High Horse_ des Shins :
 
-<iframe title="YouTube video player" class="youtube-player" type="text/html" width="500" height="405" src="http://www.youtube.com/embed/CyqFhKpdNs0?rel=0" frameborder="0" allowFullScreen></iframe>
+{% youtube CyqFhKpdNs0 %}

@@ -13,4 +13,4 @@ le titre _Eyes of Mars_.
 Pas de mèche, pas de dent pétée, pas de bassiste bonhomme, c'est sûr : Franz
 Ferdinand n'y apparaît pas.
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/2uQ2Z_ht_qA" frameborder="0" allowfullscreen></iframe>
+{% youtube 2uQ2Z_ht_qA %}

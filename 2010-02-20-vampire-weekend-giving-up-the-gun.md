@@ -15,4 +15,4 @@ prochain film ?
 En ce qui concerne le contenu musical, _Giving Up The Sun_ n'est sûrement pas le
 meilleur titre du groupe.
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/bccKotFwzoY" frameborder="0" allowfullscreen></iframe>
+{% youtube bccKotFwzoY %}

@@ -15,4 +15,4 @@ comments:
       qu'on en parle !
 ---
 
-<iframe width="425" height="349" src="http://www.youtube.com/embed/tE8KBWgUZxw" frameborder="0" allowfullscreen></iframe>
+{% youtube tE8KBWgUZxw %}

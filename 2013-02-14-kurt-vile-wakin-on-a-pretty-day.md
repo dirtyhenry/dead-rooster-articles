@@ -11,7 +11,7 @@ Le prochain LP de Kurt Vile, _Wakin on a Pretty Daze_, sortira le 9 avril. Le
 précédent, _Smoke Ring For My Halo_, [avait été un de nos chouchous](992] et
 vous pouvez réécouter Jesus Fever [ici->822).
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/bd0K76H7sU8" frameborder="0" allowfullscreen></iframe>
+{% youtube bd0K76H7sU8 %}
 
 (via
 [Pitchfork](http://pitchfork.com/news/49461-kurt-vile-details-new-lp-wakin-on-a-pretty-daze-shares-nine-minute-album-opener/))

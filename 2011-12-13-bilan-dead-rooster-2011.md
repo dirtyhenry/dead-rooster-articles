@@ -13,7 +13,7 @@ date: "2011-12-13 18:51:40 +0100"
 C'est bientôt la fin de l'année, et c'est l'heure du bilan 2011 pour Dead
 Rooster.
 
-<iframe width="540" height="396" src="http://www.youtube.com/embed/5iVKeYJmRtk" frameborder="0" allowfullscreen></iframe>
+{% youtube 5iVKeYJmRtk %}
 
 Mine de rien, cette année, le site a fêté ses 6 ans. C'est pas rien et ça file
 un coup de vieux. Début 2009, on avait installé Google Analytics, un machin pour

@@ -11,7 +11,7 @@ tags:
   - Katerine
 ---
 
-<iframe width="540" height="304" src="http://www.youtube.com/embed/XjbU4F5nwAw" frameborder="0" allowfullscreen></iframe>
+{% youtube XjbU4F5nwAw %}
 
 Katerine, Francis et ses peintres offrent une vidéo pour
 [ce titre que nous avons déjà tant aimé](704). Les 52 reprises dans l'espace

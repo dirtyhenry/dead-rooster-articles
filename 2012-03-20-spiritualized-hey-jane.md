@@ -11,4 +11,4 @@ tags:
   - Spiritualized
 ---
 
-<iframe width="540" height="304" src="http://www.youtube.com/embed/9U_EqgBWnmc" frameborder="0" allowfullscreen></iframe>
+{% youtube 9U_EqgBWnmc %}

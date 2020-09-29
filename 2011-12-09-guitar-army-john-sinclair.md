@@ -17,7 +17,7 @@ gotta, gotta, gotta, gotta, gotta, gotta, gotta, gotta, gotta, gotta, gotta set
 him free», de qui parle-t-il donc bon sang ? Il est l'heure de faire plus ample
 connaissance avec ce fameux John Sinclair.
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/fZJLInCgem8" frameborder="0" allowfullscreen></iframe>
+{% youtube fZJLInCgem8 %}
 
 <h2>Detroit, MC5 et baise dans la rue</h2>
 
@@ -29,7 +29,7 @@ autres ne balancent la sauce. En coulisse, un homme, leur manager, négocie le
 bouzin avec les proprios de salle, la police locale et les tourneurs. Ça finit
 rarement bien. Cet homme, c'est John Sinclair.
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/uo35O1AJOfg" frameborder="0" allowfullscreen></iframe>
+{% youtube uo35O1AJOfg %}
 
 <blockquote>«À mes yeux, il n'y a qu'un seul moyen de décrire l'impact du rock & roll sur l'Occident et de lui rendre justice : affirmer que ça a été la chose la plus important de l'histoire de l'humanité. Ne laissez personne vous dire le contraire !»</blockquote>
 

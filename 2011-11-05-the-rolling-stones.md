@@ -62,4 +62,4 @@ Pour conclure, finissons avec ce tube incontournable capté à Altamont, sommet 
 la vague hippie, peace and love, où la bonne ambiance, comme on le voit, est
 palpable :
 
-<iframe width="500" height="369" src="http://www.youtube.com/embed/Dt0ipUCfdlU" frameborder="0" allowfullscreen></iframe>
+{% youtube Dt0ipUCfdlU %}

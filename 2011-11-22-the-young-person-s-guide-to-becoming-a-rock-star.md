@@ -54,7 +54,7 @@ courte, 6 épisodes seulement, et on y voit énormément de guest-stars et pas l
 moindres : Noel Gallagher, Jay Kay (le mec de Jamiroquai quoi) ou Chrissie Hynde
 (la chanteuse des Pretenders).
 
-<iframe width="540" height="396" src="http://www.youtube.com/embed/03ZZSsxnEh8" frameborder="0" allowfullscreen></iframe>
+{% youtube 03ZZSsxnEh8 %}
 
 En gros, on s'y moque beaucoup de tous les poncifs du genre : le groupe qui pète
 un câble dès que le succès pointe le bout de son nez, le producteur ermite reclu
@@ -67,7 +67,7 @@ mange ses céréales à l'eau dans une casserole sale) insérés dans quelques t
 romantiques et amicales à l'arrière plan. Bref, de la belle ouvrage, et qui aura
 connu un relatif succès à sa sortie.
 
-<iframe width="540" height="396" src="http://www.youtube.com/embed/MfPE1AtRxEw" frameborder="0" allowfullscreen></iframe>
+{% youtube MfPE1AtRxEw %}
 
 (je recommande le passage sur la "ego room" à 6:40, sur la vidéo ci-dessus)
 

@@ -11,6 +11,6 @@ tags:
   - Bleeding Rainbow
 ---
 
-<iframe width="540" height="405" src="http://www.youtube.com/embed/IPmste-qIsE" frameborder="0" allowfullscreen></iframe>
+{% youtube IPmste-qIsE %}
 
 Les ex-Reading Rainbow sortiront leur nouvel album, _Yeah Right_, début 2013.

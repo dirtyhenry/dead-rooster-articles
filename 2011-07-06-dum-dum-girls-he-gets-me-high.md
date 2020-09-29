@@ -11,4 +11,4 @@ tags:
   - Dum Dum Girls
 ---
 
-<iframe width="500" height="314" src="http://www.youtube.com/embed/hOZgb0T7AM4" frameborder="0" allowfullscreen></iframe>
+{% youtube hOZgb0T7AM4 %}

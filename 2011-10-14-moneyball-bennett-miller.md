@@ -26,7 +26,7 @@ décide de changer de stratégie : plutôt que recruter de façon traditionnelle
 baser sur les stats, sans se laisser distraire par des ressentis ou des
 impressions car les chiffres, eux, ne mentent pas.
 
-<iframe width="540" height="304" src="http://www.youtube.com/embed/AiAHlZVgXjk" frameborder="0" allowfullscreen></iframe>
+{% youtube AiAHlZVgXjk %}
 
 _Moneyball_ est l'adaptation d'un livre de Michael Lewis, s'inspirant d'une
 histoire vraie. Lorsque Columbia Pictures acheta les droits du livre en 2004,
@@ -56,7 +56,7 @@ Billy est bizarrement assez charmante et on a le droit aux Black Keys avec
 [_Howlin' For You_->http://www.youtube.com/watch?v=TLSpj7q6_mM), dont il existe
 un clip très marrant :
 
-<iframe width="540" height="304" src="http://www.youtube.com/embed/TLSpj7q6_mM" frameborder="0" allowfullscreen></iframe>
+{% youtube TLSpj7q6_mM %}
 
 Parenthèse culturelle, parlons un peu de la relation entre musique et baseball.
 Lorsqu'on va voir un match de baseball au stade, les joueurs rentrent toujours
@@ -74,4 +74,4 @@ puisque parmi les chansons figurent _Communication Breakdown_ de Led Zep ou
 _Dirty Water_, des Standells, l'un des meilleurs tubes de garage de tous les
 temps.
 
-<iframe width="540" height="396" src="http://www.youtube.com/embed/5apEctKwiD8" frameborder="0" allowfullscreen></iframe>
+{% youtube 5apEctKwiD8 %}

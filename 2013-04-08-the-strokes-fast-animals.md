@@ -17,7 +17,7 @@ Du coup, je vais
 vous présentant _Fast Animals_ des Strokes, la face B du single que les Strokes
 publieront à l'occasion du Record Store Day le 20 avril.
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/zMHEvVyb2Pg" frameborder="0" allowfullscreen></iframe>
+{% youtube zMHEvVyb2Pg %}
 
 N'hésitez pas à réécouter [*All The Time*](1179], qui sera la face A du même
 single, ou [la reprise de _Just What I Needed_ avec Jarvis Cocker->899).

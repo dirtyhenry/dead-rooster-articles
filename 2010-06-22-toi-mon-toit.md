@@ -24,7 +24,7 @@ L'originale suit, comme d'habitude, mais d'abord, profitons également du nouvea
 titre du prochain album de Katerine, _Bla Bla Bla_, diffusé cette semaine
 également :
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/cYfNDHSqrEA" frameborder="0" allowfullscreen></iframe>
+{% youtube cYfNDHSqrEA %}
 
 Quant à l'originale d'Elli Medeiros, là voilà :
 

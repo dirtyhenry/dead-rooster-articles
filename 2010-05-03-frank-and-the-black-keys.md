@@ -20,10 +20,6 @@ bien et nous aussi, avec les clips des deux premiers titres issus de _Brothers_
 Girl->http://www.youtube.com/watch?v=x_PrT25o8Vs). Frank est fun(ky) et les
 filles, euh…jolies !
 
-<p>
-<iframe width="540" height="304" src="http://www.youtube.com/embed/mpaPBCBjSVc" frameborder="0" allowfullscreen></iframe>
-</p>
+{% youtube mpaPBCBjSVc %}
 
-<p>
-<iframe width="540" height="304" src="http://www.youtube.com/embed/x_PrT25o8Vs" frameborder="0" allowfullscreen></iframe>
-</p>
+{% youtube x_PrT25o8Vs %}

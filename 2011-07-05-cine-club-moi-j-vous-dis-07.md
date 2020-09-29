@@ -27,7 +27,7 @@ inquiet pour son avenir, décide de la placer comme servante dans une grande
 famille de la banlieue londonienne. Cluny y retrouve un exilé tchécoslovaque,
 Adam Belinski, qu'elle a déjà croisé à Londres.
 
-<iframe width="500" height="405" src="http://www.youtube.com/embed/ebEe8i-4aus" frameborder="0" allowfullscreen></iframe>
+{% youtube ebEe8i-4aus %}
 
 Certes, le couple est séduisant (Jennifer Jones pétillante et pleine de charme
 comme une [Punky
@@ -81,7 +81,7 @@ que ce soit
 
 La musique qui va avec : _By This River_ de Brian Eno
 
-<iframe width="500" height="405" src="http://www.youtube.com/embed/i0mGxbf4yTU" frameborder="0" allowfullscreen></iframe>
+{% youtube i0mGxbf4yTU %}
 
 ---
 
@@ -115,7 +115,7 @@ donc recommandé.
 
 La musique qui va avec : _Les vacances à la mer_, de Mike Brank
 
-<iframe width="500" height="405" src="http://www.youtube.com/embed/d2tRDxgzupU" frameborder="0" allowfullscreen></iframe>
+{% youtube d2tRDxgzupU %}
 
 ---
 

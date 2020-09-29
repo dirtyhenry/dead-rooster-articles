@@ -11,6 +11,6 @@ tags:
   - The La's
 ---
 
-<iframe width="420" height="345" src="http://www.youtube.com/embed/ZvHpLflwPfc" frameborder="0" allowfullscreen></iframe>
+{% youtube ZvHpLflwPfc %}
 
 J-2 avant le concert à Rock en Seine !

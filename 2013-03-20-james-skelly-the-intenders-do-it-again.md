@@ -14,7 +14,7 @@ Sundowners et Tramp Attack.
 En attendant l'album, qui sortira en juin, James propose un blues qui tâche,
 mais la voix est toujours là. Régressif mais plaisant.
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/0aVBjvAupUs" frameborder="0" allowfullscreen></iframe>
+{% youtube 0aVBjvAupUs %}
 
 Il y a 5 ans, [on écoutait _In The Rain_](203). Qu'il est cool ce morceau,
 surtout quand Noel Gallagher est de la partie..

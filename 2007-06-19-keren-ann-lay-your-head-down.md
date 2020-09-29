@@ -10,6 +10,6 @@ tags:
   - Keren Ann
 ---
 
-Sweet et rock'n'roll à la fois, chapeau.
+{% youtube 91g9xqh4qU0 %}
 
-<iframe width="425" height="349" src="http://www.youtube.com/embed/91g9xqh4qU0" frameborder="0" allowfullscreen></iframe>
+Sweet et rock'n'roll à la fois, chapeau.

@@ -11,6 +11,6 @@ tags:
   - Dum Dum Girls
 ---
 
-<iframe width="540" height="304" src="http://www.youtube.com/embed/sZdbNMDH8hc" frameborder="0" allowfullscreen></iframe>
+{% youtube sZdbNMDH8hc %}
 
 Une des meilleures chansons de 2011 a un clip.

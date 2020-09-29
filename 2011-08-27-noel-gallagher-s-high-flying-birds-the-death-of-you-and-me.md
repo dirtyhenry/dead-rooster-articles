@@ -11,4 +11,4 @@ tags:
   - Oasis
 ---
 
-<iframe width="540" height="333" src="http://www.youtube.com/embed/kFx_IniNjfE" frameborder="0" allowfullscreen></iframe>
+{% youtube kFx_IniNjfE %}

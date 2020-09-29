@@ -13,4 +13,4 @@ comments:
     content: Incroyable ! J'aime bien !
 ---
 
-<iframe title="YouTube video player" width="500" height="311" src="http://www.youtube.com/embed/aqqH16oePQg" frameborder="0" allowfullscreen></iframe>
+{% youtube aqqH16oePQg %}

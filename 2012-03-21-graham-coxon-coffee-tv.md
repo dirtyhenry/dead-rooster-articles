@@ -11,4 +11,4 @@ tags:
   - Blur
 ---
 
-<iframe width="540" height="304" src="http://www.youtube.com/embed/6oqXVx3sBOk" frameborder="0" allowfullscreen></iframe>
+{% youtube 6oqXVx3sBOk %}

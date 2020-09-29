@@ -44,7 +44,7 @@ premier album, _High Time_
 claire), le groupe se paie pourtant le luxe d'être Single of the Week du NME en
 1976 :
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/owUbQy74qDY" frameborder="0" allowfullscreen></iframe>
+{% youtube owUbQy74qDY %}
 
 **{Et alors, ce concert ?**}
 
@@ -71,14 +71,14 @@ suffrages, le public sort conquis.
 
 Exemple du groupe jouant live, à la Maroquinerie, en 2011 :
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/js0Tx9C0LKY" frameborder="0" allowfullscreen></iframe>
+{% youtube js0Tx9C0LKY %}
 
 **{Et maintenant, quoi ?**}
 
 Il y a d'abord cette vidéo où le groupe joue en studio (_Break Down The Walls_),
 et où Little Bob présente un peu les Blues Bastards et ses influences :
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/p6COucS-gNU" frameborder="0" allowfullscreen></iframe>
+{% youtube p6COucS-gNU %}
 
 Et puis ça vaut le coup d'aller les écouter un peu ces influences ! Alors, je
 vous ai préparé un petit mix sur Spotify. Ça commence par une collection de

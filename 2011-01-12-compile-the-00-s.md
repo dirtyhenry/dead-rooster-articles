@@ -19,4 +19,4 @@ Strokes - _Ize Of The World_ -# Interpol - _Pioneers To The Fall_ -# She & Him -
 _Why Do You Let Me Stay Here?_ -# Phoenix - _Lisztomania_ -# The National -
 _Terrible Love_
 
-<iframe width="540" height="304" src="http://www.youtube.com/embed/videoseries?list=PL9409C5AE9E9D68B0&amp;hl=fr_FR" frameborder="0" allowfullscreen></iframe>
+{% youtube videoseries %}

@@ -12,4 +12,4 @@ Un quadrimoteur mais hélas…
 Le clip de _My Propeller_ d’Arctic Monkeys est maintenant sur la toile. Comme
 dirait tout bon journaliste de Rock’n’Folk : lysergique !!!
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/Z5vZovv8cPk" frameborder="0" allowfullscreen></iframe>
+{% youtube Z5vZovv8cPk %}

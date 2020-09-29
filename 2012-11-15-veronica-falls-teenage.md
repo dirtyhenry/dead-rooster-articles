@@ -14,4 +14,4 @@ sortira début 2013. Vous pouvez aussi [réécouter _My Heart Beats_->1011).
 
 UPDATE : et maintenant, un clip :
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/8A8yRqDIrBw" frameborder="0" allowfullscreen></iframe>
+{% youtube 8A8yRqDIrBw %}

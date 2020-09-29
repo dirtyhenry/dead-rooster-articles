@@ -10,7 +10,7 @@ date: "2013-04-19 11:27:07 +0200"
 Encore une chouette vidéo pour Veronica Falls, dont le 2nd album, _Waiting for
 Something to Happen_, vient de sortir.
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/AkidhFXCm_U" frameborder="0" allowfullscreen></iframe>
+{% youtube AkidhFXCm_U %}
 
 Réécouter [*My Heart Beats*](1011] ou [_Teenage_->1137).
 

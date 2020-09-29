@@ -45,7 +45,7 @@ ne pas vraiment apprécier son passage parisien. Allez, trêve de blabla, un pet
 extrait plutôt (le son est pourri, c'est moche ! Mais on voit bien le tonton à
 moustache…).
 
-<iframe width="500" height="281" src="http://www.youtube.com/embed/-2SRfj-l65o" frameborder="0" allowfullscreen></iframe>
+{% youtube -2SRfj-l65o %}
 
 Ensuite, il y a eu [cet album](http://www.deezer.com/fr/album/1668777], sorti au
 milieu de l'été et dont le groupe avait déjà joué pas mal de morceaux à Paris

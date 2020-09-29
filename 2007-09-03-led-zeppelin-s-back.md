@@ -22,7 +22,7 @@ la fin des années 60, le NME a identifié 5 vidéos du groupe sur Youtube que l
 site considère comme étant les meilleures. Ca ne regarde que lui, mais le petit
 _Rock&Roll_ de derrière les fagots n'est pas pour me déplaire et le voici :
 
-<iframe width="540" height="304" src="http://www.youtube.com/embed/FfgjJhh3U3A" frameborder="0" allowfullscreen></iframe>
+{% youtube FfgjJhh3U3A %}
 
 Pour les quatre autres vidéos,
 <a href="http://www.nme.com/blog/index.php?blog=10&title=led_zeppelin_top_5_youtube_moments&more=1&c=1&tb=1&pb=1">la

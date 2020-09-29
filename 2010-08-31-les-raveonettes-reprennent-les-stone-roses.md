@@ -25,7 +25,7 @@ Duke Spirit, Black Rebel Motorcycle Club sont au programme, ainsi que les
 Raveonettes qui reprennent ici le _I Wanna Be Adored_ des Stone Roses
 ([dont c'est la seconde reprise mentionnée sur ce site](598)).
 
-<iframe width="540" height="405" src="http://www.youtube.com/embed/6zbdrabfQc0" frameborder="0" allowfullscreen></iframe>
+{% youtube 6zbdrabfQc0 %}
 
 Les MP3 qui vont avec peuvent être téléchargés
 [ici](http://50.drmartens.com/free-mp3s).

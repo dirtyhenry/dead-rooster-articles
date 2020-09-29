@@ -48,7 +48,7 @@ apparaît dans les bonus du DVD.
 
 La musique qui va avec : _La Ritournelle_ de Sébastien Tellier
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/BPWQTLLMAAc" frameborder="0" allowfullscreen></iframe>
+{% youtube BPWQTLLMAAc %}
 
 ---
 
@@ -62,7 +62,7 @@ chante, yukaïdi yukaïda, jusqu'à ce que le père annonce qu'il a accepté un 
 Tootie dans le film : "Wasn't I lucky to be born in my favourite city?") alors
 que le pauvre vieux, il fait ça en pensant leur faire plaisir.
 
-<iframe width="500" height="405" src="http://www.youtube.com/embed/0odXnKhKBxQ?rel=0" frameborder="0" allowfullscreen></iframe>
+{% youtube 0odXnKhKBxQ %}
 
 Ce film musical a été classé comme "culturally significant" aux États-Unis et
 figure régulièrement dans des listes des meilleurs films de l'histoire,
@@ -88,7 +88,7 @@ Tricatel, lui, est le directeur d'un groupe de nourriture industrielle et
 souhaite discréditer le guide Duchemin pour promouvoir ses propres restaurants,
 temples de la malbouffe.
 
-<iframe width="500" height="405" src="http://www.youtube.com/embed/IsFfiD7TxVw?rel=0" frameborder="0" allowfullscreen></iframe>
+{% youtube IsFfiD7TxVw %}
 
 Comédie de 1976, même si le contenu quoiqu'amusant est très daté, il reste très
 troublant de voir que le discours sur la bataille entre la nourriture de qualité
@@ -101,7 +101,7 @@ n'est pas une coïncidence, c'est fait exprès), le thème est signé Vladimir C
 (quelle surprise !), sans doute l'un des plus connus de son prolixe auteur.
 Attention, version symphonique :
 
-<iframe width="500" height="314" src="http://www.youtube.com/embed/DwEGV5ZiauU?rel=0" frameborder="0" allowfullscreen></iframe>
+{% youtube DwEGV5ZiauU %}
 
 ---
 
@@ -125,7 +125,7 @@ monde, j'en suis sûr.
 La musique qui va avec : on aura pu mettre _J'ai deux amours_ de Joséphine Baker
 mais on préférera les Inconnus chantent les chansons d'antan
 
-<iframe width="500" height="405" src="http://www.youtube.com/embed/-be65CIwE08?rel=0" frameborder="0" allowfullscreen></iframe>
+{% youtube -be65CIwE08 %}
 
 ---
 

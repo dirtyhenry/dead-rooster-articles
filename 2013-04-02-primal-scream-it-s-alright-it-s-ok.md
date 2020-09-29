@@ -14,7 +14,7 @@ mi-mai.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F83991691"></iframe>
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/Ty-IJ3qz-GE" frameborder="0" allowfullscreen></iframe>
+{% youtube Ty-IJ3qz-GE %}
 
 (via
 [Telerama](http://www.telerama.fr/musique/it-s-alright-it-s-ok-un-nouveau-titre-de-primal-scream,95021.php]

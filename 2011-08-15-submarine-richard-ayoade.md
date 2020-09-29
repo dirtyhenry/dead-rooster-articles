@@ -25,7 +25,7 @@ le-meilleur-petit-ami-possible s’ajoute une autre mission : sauver le mariage 
 ses parents, menacé par l’emménagement du premier amour de sa maman dans la
 maison d’en face.
 
-<iframe width="540" height="337" src="http://www.youtube.com/embed/4IVFfiv6wpY" frameborder="0" allowfullscreen></iframe>
+{% youtube 4IVFfiv6wpY %}
 
 _Submarine_, excellent film, est l’adaptation du premier roman éponyme de
 [Joe Dunthorne](http://www.joedunthorne.com/), un jeune écrivain gallois
@@ -43,7 +43,7 @@ Monkeys, Last Shadow Puppets, Vampire Weekend, Kasabian et Yeah Yeah Yeahs) et
 l’interprétation, l’écriture et la réalisation d’un ovni télévisuel au potentiel
 burlesque himalayesque, _AD/BC: A Rock Opera_.
 
-<iframe width="540" height="435" src="http://www.youtube.com/embed/q37UomRayr0" frameborder="0" allowfullscreen></iframe>
+{% youtube q37UomRayr0 %}
 
 Le carnet d’adresses d’Ayoade est aussi bien fourni puisque que c’est Ben
 Stiller qui est à la production de _Submarine_, mais, surtout, Alex Turner,

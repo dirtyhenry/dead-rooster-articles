@@ -52,7 +52,7 @@ de nos vies (je pense être le premier à la faire celle-là…) aux relents
 johnbarryesques et/ou drogués, on écoutera d'abord _Let It Come Alive_, _Century
 Child_ ou _Safety Operation_.
 
-<iframe width="540" height="405" src="http://www.youtube.com/embed/9DgyeIm2CQ4" frameborder="0" allowfullscreen></iframe>
+{% youtube 9DgyeIm2CQ4 %}
 
 Et puis il y a le petit dernier, _Communion_, sorti l'année dernière,
 complètement ignoré des tops 10, tops 100, tops 10 000 000. Cet album (double !)

@@ -15,7 +15,7 @@ Si vous aimez les reprises de Beck, vous avez aussi celle de _Sunday Morning_
 [ici](1178]. Et si vous préférez les originales, _Where It's At_, une des
 chansons les plus cool de l'histoire, est [là->991).
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/QnOmrDzRrGQ" frameborder="0" allowfullscreen></iframe>
+{% youtube QnOmrDzRrGQ %}
 
 (via
 [Stereogum](http://stereogum.com/1257281/watch-beck-cover-bowies-%E2%80%9Csound-and-vision%E2%80%9D-with-a-167-piece-orchestra/franchises/commercial-appeal/))

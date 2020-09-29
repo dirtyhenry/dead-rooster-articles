@@ -11,7 +11,7 @@ Aujourd'hui, _Popscene_ a 21 ans. Et je ne voulais pas manquer de vous montrer
 [le GIF animé](http://officialblur.tumblr.com/post/36888150968) que Blur qui
 célèbre la chose.
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/XV8CxSO5imQ" frameborder="0" allowfullscreen></iframe>
+{% youtube XV8CxSO5imQ %}
 
 Et n'oubliez pas que Blur tourne cet été et que Blur en concert,
 [on vous a déjà dit que c'est de la balle](514).

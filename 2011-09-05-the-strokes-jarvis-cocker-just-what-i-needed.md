@@ -14,6 +14,6 @@ tags:
   - Pulp
 ---
 
-<iframe width="540" height="333" src="http://www.youtube.com/embed/GfBjR8ihAQ8" frameborder="0" allowfullscreen></iframe>
+{% youtube GfBjR8ihAQ8 %}
 
 Une reprise de The Cars, jouée au Reading Festival cet été.

@@ -20,4 +20,4 @@ via [NME](http://www.nme.com/news/miles-kane/69665)
 
 UPDATE : et maintenant, le clip :
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/zj5RKp0inTw" frameborder="0" allowfullscreen></iframe>
+{% youtube zj5RKp0inTw %}

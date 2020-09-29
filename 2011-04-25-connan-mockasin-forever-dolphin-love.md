@@ -36,7 +36,7 @@ d'un univers à l'autre sans discontinuité, la fin d'un titre est le début du
 suivant. Pourtant, rien ne se ressemble vraiment : _It's Coade My Dear_ est une
 chanson "aqueuse", comme semble l'attester le clip officiel :
 
-<iframe title="YouTube video player" width="500" height="311" src="http://www.youtube.com/embed/HkNwuY2JUHQ" frameborder="0" allowfullscreen></iframe>
+{% youtube HkNwuY2JUHQ %}
 
 Puis tranquillement, _Faking Jazz Together_ nous fait quitter l'eau, pour
 rejoindre un lit moelleux où notre esprit vagabonde dans des rêves indistincts
@@ -57,14 +57,14 @@ psyché-guinguette ? Du **Sigur Ros** des antipodes ? Et puis non, en fait, y a
 vraiment une basse à la **Melody Nelson** là ! Attention, chef-d’œuvre flippant,
 surtout si on accompagne l'écoute du clip qui va avec :
 
-<iframe title="YouTube video player" width="500" height="311" src="http://www.youtube.com/embed/E7CaTJ2SvG8" frameborder="0" allowfullscreen></iframe>
+{% youtube E7CaTJ2SvG8 %}
 
 Après ce plat de résistance, _Muss_ est un no man's land désolé, un dimanche
 après-midi d'octobre. Mais c'est surtout une introduction au fantastique,
 hypnotique et épique _Egon Hosford_ où on se dit que si Mozart avait joué de la
 batterie sous LSD, il aurait pu faire un truc dans ce style :
 
-<iframe title="YouTube video player" width="500" height="311" src="http://www.youtube.com/embed/1AewoLLojss" frameborder="0" allowfullscreen></iframe>
+{% youtube 1AewoLLojss %}
 
 Au pays des drogues, les licornes sont les reines. C'est ce que semble vouloir
 dire _Unicorn in Uniform_ et ses chœurs beatlessiens. Passons rapidement (pas
