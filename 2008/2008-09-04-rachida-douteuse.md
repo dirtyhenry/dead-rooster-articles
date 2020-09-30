@@ -1,13 +1,7 @@
 ---
 layout: post
 title: Rachida douteuse
-author:
-  display_name: Biboulos
-  login: biboulos
-  email: biboulos@gmail.com
-  url: ""
-author_login: biboulos
-author_email: biboulos@gmail.com
+author: Biboulos
 wordpress_id: 461
 date: "2008-09-04 12:12:00 +0200"
 ---

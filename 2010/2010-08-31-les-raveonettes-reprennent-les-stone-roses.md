@@ -3,7 +3,7 @@ layout: post
 title: Les Raveonettes reprennent les Stone Roses
 description:
   Les reprises sont à la mode ! Après Levis et ses [Pioneer Sessions](623), Beck
-  et son [record club](br26], le AV Club et son [Undercover->680), c'est au tour
+  et son [record club](br26), le AV Club et son [Undercover](680), c'est au tour
   de Doc Martens de créer sa collec' de reprises pour fêter ses 50 ans.
 authors:
   - Dirty Henry

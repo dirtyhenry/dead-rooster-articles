@@ -21,7 +21,7 @@ tags:
 Le vendredi, le fun est de bon aloi. Cette semaine, de la bière et du foot, de
 la musique et un chien. Programme idéal.
 
-<h2>1. Vendons de la bière</h2>
+## 1. Vendons de la bière
 
 Wes Anderson et Roman Coppola ont co-réalisé une pub pour Stella Artois. La
 Wes-touch - qui inclut toujours pas mal de french-touch, même si ici c'est
@@ -32,7 +32,7 @@ peut-être de la belge-touch - est là.
 (via
 [The Rushmore Academy](http://rushmoreacademy.com/2010/10/11/wes-anderson-and-roman-coppolas-ad-for-stella-artois))
 
-<h2>2. Passons un casting</h2>
+## 2. Passons un casting
 
 Deux biopics musicaux sont en préparation.
 
@@ -63,7 +63,7 @@ Phil Spector_.
 et…
 [Stereogum->http://stereogum.com/540682/name-the-phil-spector-biopic-starring-al-pacin/casting-couch/))
 
-<h2>3. Continuons à chercher des noms</h2>
+## 3. Continuons à chercher des noms
 
 Les [générateurs](http://www.nukekiller.net/cgi-bin/namer.cgi] de
 [nom](http://www.bandnamemaker.com/generator/) de
@@ -72,7 +72,7 @@ de [boîtes à aimer->http://www.dotomator.com/web20.html]) ont fait légion ces
 dernières années, [ce dernier arrivé est pas mal non
 plus->http://chillwitchnamemagic.com/).
 
-<h2>4. Causons foot</h2>
+## 4. Causons foot
 
 Le foot est toujours source de fun.
 
@@ -85,7 +85,7 @@ Preuve n°2 (via
 
 {% youtube dP5rEffhXfo %}
 
-<h2>5. Et le meilleur pour la fin</h2>
+## 5. Et le meilleur pour la fin
 
 {% youtube P9Fyey4D5hg %}
 

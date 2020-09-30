@@ -1,13 +1,7 @@
 ---
 layout: post
 title: Une carte mystère…
-author:
-  display_name: Le Prince de Savoie
-  login: jojo
-  email: joan.gexfabry@gmail.com
-  url: ""
-author_login: jojo
-author_email: joan.gexfabry@gmail.com
+author: Le Prince de Savoie
 wordpress_id: 1022
 date: "2012-04-18 10:25:46 +0200"
 ---

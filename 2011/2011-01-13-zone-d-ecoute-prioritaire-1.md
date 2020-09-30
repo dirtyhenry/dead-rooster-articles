@@ -4,13 +4,7 @@ title: "Zone d'Ecoute Prioritaire # 1"
 description:
   Une petite présentation de mes coups de coeur francophones du moment pour mon
   premier bulletin de ma toute nouvelle chronique.
-author:
-  display_name: Marcello Marcellito
-  login: fredg
-  email: frederic@gaunard.com
-  url: ""
-author_login: fredg
-author_email: frederic@gaunard.com
+author: Marcello Marcellito
 wordpress_id: 752
 date: "2011-01-13 19:47:26 +0100"
 ---
@@ -19,9 +13,9 @@ Les acronymes c'est cool et ça permet de faire, genre, on est hyper occupé et
 hyper tendance. Souvenez-vous, lorsque vous avez téléphoné à votre amis
 Jean-Louis, enseignant :
 
-<quote>- Salut Jean-Louis, ça roule ?<br />- Ah salut mec, ouais ça va mais
-depuis que je suis TZR dans la région PACA j'arrête pas! D'ailleurs je dois te
-laisser, on se rappelle ASAP!</quote>
+> - Salut Jean-Louis, ça roule ?
+> - Ah salut mec, ouais ça va mais depuis que je suis TZR dans la région PACA
+>   j'arrête pas! D'ailleurs je dois te laisser, on se rappelle ASAP !
 
 Bref, vous aurez compris, les acronymes sont _hype_. Du coup, en cherchant un
 nom pour ma nouvelle, et toute première, chronique, dont l'objet est la

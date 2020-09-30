@@ -1,12 +1,7 @@
 ---
 layout: post
 title: T'es cap de porter 6 gares ?
-author:
-  display_name: Groovy Henry
-  login: groovy
-  email: ""
-  url: ""
-author_login: groovy
+author: Groovy Henry
 wordpress_id: 527
 date: "2009-09-04 15:12:29 +0200"
 ---

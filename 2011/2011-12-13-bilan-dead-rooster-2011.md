@@ -20,7 +20,7 @@ un coup de vieux. Début 2009, on avait installé Google Analytics, un machin po
 mesurer l'audience des sites internet, et y'a plein de trucs marrants à dire
 là-dessus donc on va faire ça, ok ?
 
-<h2>Le bilan graphique des performances depuis 2009</h2>
+## Le bilan graphique des performances depuis 2009
 
 <img498>
 
@@ -39,7 +39,7 @@ l'intention de donner un coup de collier.
 (bien sûr l'absence de chiffres sur les axes est volontaire, on veut bien
 rigoler mais on a sa fierté)
 
-<h2>Le top 10 des pages vues en 2011</h2>
+## Le top 10 des pages vues en 2011
 
 Par ailleurs, regardons quel est le top 10 des pages les plus visitées du site
 cette année ?
@@ -66,7 +66,7 @@ trésors qu'il va nous falloir déterrer ! Nous y reviendrons la semaine prochai
 dans un autre post intitulé "Feuille de route 2012 Dead Rooster", ou comment
 redonner le moral aux Français pour nous sortir de cette crise !
 
-<h2>Comment devenir un Ninja gratuitement ?</h2>
+## Comment devenir un Ninja gratuitement ?
 
 Enfin, rigolons un peu. En s'inspirant de l'ouvrage [*Comment devenir un Ninja
 gratuitement*](http://www.amazon.fr/Comment-Devenir-Gratuitement-Josselin-Bordat/dp/2954063904/]

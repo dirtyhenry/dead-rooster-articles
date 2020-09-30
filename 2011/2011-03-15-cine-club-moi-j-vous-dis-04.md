@@ -27,7 +27,7 @@ comments:
 
 {**Catégorie "à voir au ciné mais faut se dépêcher"**}
 
-<h2>*The King's Speech/Le Discours d'un Roi* - Tom Hooper<br />*Black Swan* - Darren Aronofsky</h2>
+## _The King's Speech/Le Discours d'un Roi_ - Tom Hooper / _Black Swan_ - Darren Aronofsky</h2>
 
 Voilà bien les deux blockbusters du mois de février !
 
@@ -77,7 +77,7 @@ sera fâchés pour la vie… Pour fêter ça, allez, un peu de ska !
 
 {% youtube -utkYnIV1_k %}
 
-<h2>*Incendies* - Denis Villeneuve</h2>
+## _Incendies_ - Denis Villeneuve
 
 Au Québec, tout commence par un frère et une soeur, Jeanne et Simon, qui
 découvrent à la lecture du testament de leur mère qu'ils ont un frère dont ils
@@ -102,7 +102,7 @@ La musique qui va avec : _You And Who's Army?_ - Radiohead
 
 {% youtube gAUMgureA6o %}
 
-<h2>*How Do You Know/Comment Savoir* - James L. Brooks</h2>
+## _How Do You Know/Comment Savoir_ - James L. Brooks
 
 Lisa est une joueuse de baseball irréprochable mais vieillissante et se fait
 virer de son équipe sans le voir venir. George est un cadre de la grosse
@@ -137,7 +137,7 @@ La B.O. est globalement très mièvre, mais ce titre est à sauver…
 
 {% youtube IXtOSt2vG80 %}
 
-<h2>*Halal, Police d'Etat* - Rachid Dhibou</h2>
+## _Halal, Police d'Etat_ - Rachid Dhibou
 
 Ce qu'il y a de bien avec Eric & Ramzy, c'est qu'on sait à qui s'attendre et
 qu'on est rarement déçu. Là encore, on rigole mais tout de même moins qu'avec

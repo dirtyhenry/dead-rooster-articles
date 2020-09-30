@@ -19,22 +19,22 @@ tags:
 
 Faisons le point sur les 4 dernières semaines.
 
-<h2>Bientôt en concert</h2>
+## Bientôt en concert
 
 Le groupe vient d'annoncer des dates de concert à partir de mars 2011. Paris,
 Poitiers, Nantes et d'autres sont au programme.
 [Le détail complet est ici](http://www.katerinefrancisetsespeintres.com/concerts.html).
 
-<h2>Les chansons des 4 dernières semaines</h2>
+## Les chansons des 4 dernières semaines
 
-<h3>46. *DJ* de Diam's</h3>
+### 46. _DJ_ de Diam's
 
 [Katerine veut qu'on le laisse kiffer la vibes avec son mec](http://www.katerinefrancisetsespeintres.com/dj.html).
 L'originale :
 
 {% youtube vXQrZQ5IHfc %}
 
-<h3>47. *Le cimetière des éléphants* d'Eddy Mitchell</h3>
+### 47. _Le cimetière des éléphants_ d'Eddy Mitchell
 
 Chanson presque inconnue mais
 [reprise poignante (hum)](http://www.katerinefrancisetsespeintres.com/elephants.html).
@@ -42,7 +42,7 @@ Tant pis pour la fille aux yeux menthe à l'eau. Chantée par le maître Eddy :
 
 {% dailymotion x4hq81 %}
 
-<h3>48. *Un lapin* de Chantal Goya</h3>
+### 48. _Un lapin_ de Chantal Goya
 
 Ce matin, un lapin a tué un chasseur.
 [Katerine chante la révolution ici](http://www.katerinefrancisetsespeintres.com/lapin.html).
@@ -50,7 +50,7 @@ Fais chauffer le fusil Chantal !
 
 {% youtube PsJtoVBhmbw %}
 
-<h3>49. *Double Je* de Christophe Willem</h3>
+### 49. _Double Je_ de Christophe Willem
 
 [Une de mes préférées depuis le début de l'année](http://www.katerinefrancisetsespeintres.com/double.html).
 A noter que les paroles sont co-signées par le fils de Jean Schultheiss, déjà
@@ -58,7 +58,7 @@ mis à l'honneur par Katerine sur _Confidence pour Confidence_. L'originale :
 
 {% youtube Xe8QjHpYE1E %}
 
-<h2>Le classement</h2>
+## Le classement
 
 Personne ne marque de point.
 

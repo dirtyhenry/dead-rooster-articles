@@ -18,13 +18,9 @@ La reprise de **Katerine, Francis et ses peintres** de la semaine est
 [_Je pense à toi_](http://www.katerinefrancisetsespeintres.com/pense.html)
 d'Amadou & Mariam.
 
-L'originale :
+L'originale :
 
-<object width="500" height="375"><param name="movie" value="http://www.dailymotion.com/swf/video/x44z4w?width=500&theme=none&foreground=%23F7FFFD&highlight=%23FFC300&background=%23171D1B&start=&animatedTitle=&additionalInfos=0&autoPlay=0&hideInfos=0"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed type="application/x-shockwave-flash" src="http://www.dailymotion.com/swf/video/x44z4w?width=500&theme=none&foreground=%23F7FFFD&highlight=%23FFC300&background=%23171D1B&start=&animatedTitle=&additionalInfos=0&autoPlay=0&hideInfos=0" width="500" height="375" allowfullscreen="true" allowscriptaccess="always"></embed></object><br /><b><a href="http://www.dailymotion.com/video/x44z4w_amadou-mariam-je-pense-a-toi_music">Amadou
-Mariam &quot;Je pense a toi&quot;</a></b><br /><i>envoy&eacute; par
-<a href="http://www.dailymotion.com/robsab34">robsab34</a>. -
-<a href="http://www.dailymotion.com/fr/channel/music">Regardez plus de clips, en
-HD !</a></i>
+{% dailymotion x44z4w %}
 
 Pas de changement au classement :
 

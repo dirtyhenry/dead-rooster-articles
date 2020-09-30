@@ -38,5 +38,6 @@ Toutes les reprises sont disponibles sur
 Photo : [Thomas Faivre-Duboz](http://www.flickr.com/photos/tfa/) // licensed
 under a
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/">Creative
-Commons Attribution-Share Alike 2.0 Generic License</a><br />
+Commons Attribution-Share Alike 2.0 Generic License</a>
+
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/2.0/88x31.png" /></a>

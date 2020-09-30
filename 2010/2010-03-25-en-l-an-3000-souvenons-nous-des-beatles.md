@@ -12,6 +12,6 @@ Hutchinson and Scottie Pippen ? Ouais, c'était les Beatles !
 
 {% youtube 3Z2vU8M6CYI %}
 
-La vidéo est signée Scott Gairdner, un mec fun de Los Angeles dont [voici le
-site internet](http://www.scottgairdner.com/]. Vous pouvez télécharger le MP3 de
-Sgt. Petsounds [ici->http://www.mediafire.com/?zy5zznznmy1).
+La vidéo est signée Scott Gairdner, un mec fun de Los Angeles dont
+[voici le site internet](http://www.scottgairdner.com/). Vous pouvez télécharger
+le MP3 de Sgt. Petsounds [ici](http://www.mediafire.com/?zy5zznznmy1).

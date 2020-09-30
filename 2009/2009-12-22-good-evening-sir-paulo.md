@@ -98,11 +98,9 @@ d'inviter Gérard Klein pour _Magical Mystery Tour_, Johnny Hallyday pour _Got T
 Get You Into My Life_ ou Tino Rossi pour _Yesterday_), mon petit chou sort de la
 salle en criant :
 
-<quote> 
-  We definitely enjoyed the show<br />
-  We're sorry that it's time to go<br />
-  We'd like to thank you once again…<br />
-  Good Evening Sir Paul McCartney
-</quote>
+> We definitely enjoyed the show  
+> We're sorry that it's time to go  
+> We'd like to thank you once again…  
+> Good Evening Sir Paul McCartney
 
 Photos : (c) [Arnaud Compagne](www.arnaudcompagne.com)

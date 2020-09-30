@@ -39,6 +39,6 @@ bordel. Florilège…
 
 {% dailymotion x6f2d %}
 
-<h3>Mozinor refait Ségolène Royal</h3>
+### Mozinor refait Ségolène Royal
 
 {% dailymotion x2rhb1 %}

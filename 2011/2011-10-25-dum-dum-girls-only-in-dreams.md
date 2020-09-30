@@ -18,7 +18,7 @@ tags:
 ---
 
 Quand les Dum Dum Girls sont apparues sur les radars de Dead Rooster, c'était
-avec [*Jail La La*](588], [très bon morceau->750) et parfait symbole du premier
+avec [_Jail La La_](588), [très bon morceau](750) et parfait symbole du premier
 album du groupe, _I Will Be_, courte mais énergique collection de 11 titres qui
 faisaient tous environ 2:30 et qui a dû rendre fou Phil Spector, dans sa cellule
 californienne. Du ta-pa-poum, de la guitare basique, une voix féminine avec des

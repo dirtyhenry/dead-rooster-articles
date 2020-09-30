@@ -27,7 +27,7 @@ _Motor City's Burning: Detroit From Motown To The Stooges_.
 en voici une traduction faite maison :
 
 <quote>
-Le 23 juillet 1967, [la plus grande émeute de l’histoire des Etats-Unis a éclaté dans les rues de Detroit](http://en.wikipedia.org/wiki/1967_Detroit_riot]. Alors que [Martha Reeves semblait chanter son *Dancing In The Streets*->http://www.youtube.com/watch?v=CdvITn5cAVc) à chaque fenêtre de la ville, la ville a brûlé, les gens ont pillé et des espoirs de révolution - «rock and roll, drogue et baise dans les rues» - ont émergé. Puis les hélicoptères de la garde nationale US ont atterri à Clark Park, mon ancien quartier, et les chars ont été déployés dans les rues. Cinq jours plus tard, 43 personnes avaient été tuées parmi lesquelles 33 étaient noires.
+Le 23 juillet 1967, [la plus grande émeute de l’histoire des Etats-Unis a éclaté dans les rues de Detroit](http://en.wikipedia.org/wiki/1967_Detroit_riot). Alors que [Martha Reeves semblait chanter son *Dancing In The Streets*](http://www.youtube.com/watch?v=CdvITn5cAVc) à chaque fenêtre de la ville, la ville a brûlé, les gens ont pillé et des espoirs de révolution - «rock and roll, drogue et baise dans les rues» - ont émergé. Puis les hélicoptères de la garde nationale US ont atterri à Clark Park, mon ancien quartier, et les chars ont été déployés dans les rues. Cinq jours plus tard, 43 personnes avaient été tuées parmi lesquelles 33 étaient noires.
 
 Il n'était pas facile de vivre dans le Detroit du milieu des années 60 pour la
 classe ouvrière de la ville. Alors que la
@@ -51,12 +51,11 @@ les magasins de disques d’occasion sont remplis de vinyls de
 de [*Kick Out The Jams*->http://fr.wikipedia.org/wiki/Kick_Out_the_Jams].
 Detroit n’a jamais bénéficié de «renaissance» et les conséquences des émeutes
 n’ont jamais été aussi profondes. Mais il y a toujours cette sensation
-d’aventure urbaine que
-[John Sinclair](<http://fr.wikipedia.org/wiki/John_Sinclair_(po%C3%A8te)>)
-décrit dans le documentaire. Sinclair a toujours été un de mes héros : son parti
-des [White Panther](http://en.wikipedia.org/wiki/White_Panther_Party) a
-influencé mon groupe, les [Soledad Brothers->215), et il a écrit les notes de
-pochettes de mon premier album.
+d’aventure urbaine que [John Sinclair][1] décrit dans le documentaire. Sinclair
+a toujours été un de mes héros : son parti des
+[White Panther](http://en.wikipedia.org/wiki/White_Panther_Party) a influencé
+mon groupe, les [Soledad Brothers->215), et il a écrit les notes de pochettes de
+mon premier album.
 
 Alors pourquoi Detroit continue de pondre le meilleur rock’n’roll ? A bien des
 égards, la ville s’est arrêtée après les émeutes, il n’y a donc pas de
@@ -84,3 +83,5 @@ En bonus, quelques liens, dont une compile Spotify :
 - [MC5 _Kick Out The Jams_](http://www.youtube.com/watch?v=iM6nasmkg7A)
 - [The Dirtbombs _Livin' for the City_](http://www.deezer.com/listen-2068265)
 - [Compile Detroit sur Spotify](http://open.spotify.com/user/dirtyhenry/playlist/1RLY05XUpE2GH92qaol6X6)
+
+[1]: https://fr.wikipedia.org/wiki/John_Sinclair_(poète)

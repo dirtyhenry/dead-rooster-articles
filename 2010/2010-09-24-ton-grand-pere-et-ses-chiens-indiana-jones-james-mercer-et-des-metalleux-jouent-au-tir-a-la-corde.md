@@ -22,7 +22,7 @@ tags:
 Le vendredi, le fun est de bon aloi. Cette semaine : ton grand-père et ses
 chiens, Indiana Jones, James Mercer et des métalleux jouent au tir à la corde.
 
-<h2>Guide du grand-père</h2>
+## Guide du grand-père
 
 <img388>
 
@@ -30,7 +30,7 @@ chiens, Indiana Jones, James Mercer et des métalleux jouent au tir à la corde.
 [fixedgear](http://www.flickr.com/photos/fixedgear/4159465921/], via [Flowing
 Data->http://flowingdata.com/2010/09/17/venn-your-grandfather/))
 
-<h2>Guide du clip à buzz</h2>
+## Guide du clip à buzz
 
 OK Go est très doué pour faire le buzz autour de ses clips. Après
 [_Here It Goes Again_ et ses tapis roulants](http://www.youtube.com/watch?v=dTAAsCNK7RA)
@@ -40,26 +40,21 @@ franche…
 
 {% youtube nHlJODYBLKs %}
 
-<h2>Guide du Metal</h2>
+## Guide du Metal
 
 Extrait de [**Fur TV**](http://fr.wikipedia.org/wiki/Fur_TV), une série
 anglaise, diffusée sur MTV Pulse.
 
-<object width="500" height="375"><param name="movie" value="http://www.dailymotion.com/swf/video/x814ev?width=500&theme=default&foreground=%23F7FFFD&highlight=%23FFC300&background=%23171D1B&start=&animatedTitle=&additionalInfos=0&autoPlay=0&hideInfos=0"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed type="application/x-shockwave-flash" src="http://www.dailymotion.com/swf/video/x814ev?width=500&theme=default&foreground=%23F7FFFD&highlight=%23FFC300&background=%23171D1B&start=&animatedTitle=&additionalInfos=0&autoPlay=0&hideInfos=0" width="500" height="375" allowfullscreen="true" allowscriptaccess="always"></embed></object><br /><b><a href="http://www.dailymotion.com/video/x814ev_tv-poils-le-guide-du-metal-par-fat_fun">TV
-Poils: Le guide du metal par Fat Ed (VO ss-titres
-FR)</a></b><br /><i>envoy&eacute; par
-<a href="http://www.dailymotion.com/Chicheux">Chicheux</a>. -
-<a href="http://www.dailymotion.com/fr/channel/fun">Plus de vid&eacute;os
-fun.</a></i>
+{% dailymotion x814ev %}
 
 (via Stef)
 
-<h2>Guide des sports olympiques</h2>
+## Guide des sports olympiques
 
 **Learn Something Every Day** nous apprend cette semaine que…
 [le tir à la corde était un sport olympique de 1900 à 1920](http://cargocollective.com/learnsomethingeveryday/642495/September-18).
 
-<h2>Guide de l'artiste Geek</h2>
+## Guide de l'artiste Geek
 
 Dommage pour Broken Bells, qui avait réalisé un site geek assez sympa en août,
 mais que j'ai découvert après celui d'Arcade Fire qui, avouons-le, le bat à

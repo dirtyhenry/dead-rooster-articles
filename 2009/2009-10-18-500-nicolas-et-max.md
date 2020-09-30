@@ -51,7 +51,7 @@ comments:
       http://www.allocine.fr/film/fichefilm-128377/interviews/\r\n:-)"
 ---
 
-<h2>*(500) Days of Summer* - Marc Webb</h2>
+## _(500) Days of Summer_ - Marc Webb
 
 Tom est un mec de Los Angeles à la cool. Son boulot le branche pas trop mais
 bon, tant qu'il peut y écouter des disques peinard - de la bonne musique bien
@@ -70,10 +70,10 @@ vie et qui mise tout sur l'espoir d'une relation extraordinaire pour se faire
 avancer et qui, malgré ses grandes qualités, a aussi des défauts bien répandus :
 [trop timide](http://www.youtube.com/watch?v=1dwtZw9Rx20),
 [trop fier](http://www.youtube.com/watch?v=ovYWY4Pf9_M), etc. Bref, on a ici la
-meilleure comédie romantique depuis [_Marley and
-Me_->http://www.youtube.com/watch?v=brBM7_3ukzg) (et je vous mets au défi de
-trouver la moindre ironie dans ces paroles : _Marley & Me_ est un chef d'œuvre,
-alternative positive au dépriment _Revolutionary Road_).
+meilleure comédie romantique depuis
+[_Marley and Me_](http://www.youtube.com/watch?v=brBM7_3ukzg) (et je vous mets
+au défi de trouver la moindre ironie dans ces paroles : _Marley & Me_ est un
+chef d'œuvre, alternative positive au dépriment _Revolutionary Road_).
 
 En prime, une vidéo fun, tournée en sus du film, faisant référence à l'une de
 ses scènes :
@@ -88,10 +88,10 @@ B.O. du film est impeccable : Smiths, Pixies, Doves, Black Kids, etc. Pourtant
 on choisira la reprise signée She & Him, qu'il n'est plus utile de présenter sur
 ce blog, de _Please, Please, Please, Let Me Get What I Want_, des Smiths.
 
-<hr />
+---
 
 <img337>
-<h2>*Mary and Max* - Adam Elliot</h2>
+## *Mary and Max* - Adam Elliot
 
 Mary est une petite fille australienne avec une tâche de naissance couleur caca
 sur le front. Max est un homme new-yorkais un peu marginal. Comment peut bien
@@ -117,10 +117,10 @@ retrouve pas mal de thèmes de *Mary & Max* :
 
 **La chanson qui va avec** : _Avoir un bon copain_ bien sûr !
 
-<hr />
+---
 
 <img338>
-<h2>*Le Petit Nicolas* - Laurent Tirard</h2>
+## *Le Petit Nicolas* - Laurent Tirard
 
 Est-il nécessaire de présenter le personnage de Goscinny et Sempé ? Est-il utile
 de s'étendre sur son adaptation ciné ? Quelques mots suffisent : "ennuyeux et
@@ -146,5 +146,7 @@ chantée par Renan Luce ou l'un de ses clônes alors que plusieurs chansons
 s'imposaient : _Fais pas ci, fais pas ça_ de Dutronc ou
 [_Poil au tableau_](http://www.youtube.com/watch?v=5H2sSWmWJGc) de Gotainer…
 
-<hr />
-La playlist sur Spotify : [http://open.spotify.com/user/dirtyhenry/playlist/1XrlfhASZRJf8zjyMhREnX](http://open.spotify.com/user/dirtyhenry/playlist/1XrlfhASZRJf8zjyMhREnX)
+---
+
+La playlist sur Spotify :
+[http://open.spotify.com/user/dirtyhenry/playlist/1XrlfhASZRJf8zjyMhREnX](http://open.spotify.com/user/dirtyhenry/playlist/1XrlfhASZRJf8zjyMhREnX)

@@ -16,9 +16,9 @@ tags:
 
 Quatre semaines de Katerine à rattraper d'un coup…
 
-<h2>Les chansons des 4 dernières semaines</h2>
+## Les chansons des 4 dernières semaines
 
-<h3>42. *Les brunes comptent pas des brunes* de Lio</h3>
+### 42. _Les brunes comptent pas des brunes_ de Lio
 
 Alors que tout le monde s'attendait à Banana Split… La reprise de Katerine est
 [ici](http://www.katerinefrancisetsespeintres.com/brunes.html). Une version VHS
@@ -26,21 +26,21 @@ un peu pourrie de l'originale :
 
 {% youtube Fdu4jmtzb-8 %}
 
-<h3>43. *Ca m'énerve* d'Helmut Fritz</h3>
+### 43. _Ca m'énerve_ d'Helmut Fritz
 
 La reprise de Katerine est
 [ici](http://www.katerinefrancisetsespeintres.com/enerve.html). L'originale :
 
 {% youtube iLv-LEO178c %}
 
-<h3>44. *Tout le monde le fait* d'Ophélie Winter</h3>
+### 44. _Tout le monde le fait_ d'Ophélie Winter
 
 Chanson totalement inconnue au bataillon… La reprise de Katerine est
 [ici](http://www.katerinefrancisetsespeintres.com/monde.html). L'originale :
 
 {% youtube cGGp54buqlw %}
 
-<h3>45. *Toute la pluie tombe sur moi* de Sasha Distel</h3>
+### 45. _Toute la pluie tombe sur moi_ de Sasha Distel
 
 La reprise de Katerine est
 [ici](http://www.katerinefrancisetsespeintres.com/pluie.html). La version
@@ -53,7 +53,7 @@ le film _Butch Cassidy et le Kid_ :
 
 {% youtube VILWkqlQLWk %}
 
-<h2>Le classement</h2>
+## Le classement
 
 Personne ne marque de point.
 

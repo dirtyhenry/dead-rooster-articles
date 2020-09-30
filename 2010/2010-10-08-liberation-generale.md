@@ -15,7 +15,7 @@ tags:
   - Fun Friday
 ---
 
-<h2>1. Les légumes sont libérés</h2>
+## 1. Les légumes sont libérés
 
 La preuve :
 
@@ -24,7 +24,7 @@ La preuve :
 (via
 [howtodisappear](http://blog.howtodisappear.org/2010/09/dai-mahou-touge-vegetable-suicide.html))
 
-<h2>2. La France est libérée</h2>
+## 2. La France est libérée
 
 [*Le Retour à la
 Terre*](http://fr.wikipedia.org/wiki/Le_Retour_%C3%A0_la_terre], c'est marrant.
@@ -34,12 +34,12 @@ c'est marrant. [Le mélange des
 deux->http://www.manularcenet.com/blog/articles/4016/piratage), c'est donc
 marrant aussi.
 
-<h2>3. Les urbanistes de Floride sont libérés</h2>
+## 3. Les urbanistes de Floride sont libérés
 
 Fun mais un peu flippant, voici
 [une collection de vues Google Maps de Floride](http://www.boston.com/bigpicture/2010/09/human_landscapes_in_sw_florida.html).
 
-<h2>4. La laideur est libérée</h2>
+## 4. La laideur est libérée
 
 Les Craypion d'Or ont été créés pour élire les sites les plus moches d'Internet.
 Voici
@@ -48,7 +48,7 @@ Ca va être dur de choisir…
 
 (via Joe Gantdelaine)
 
-<h2>5. La chanson est libérée</h2>
+## 5. La chanson est libérée
 
 Colette Renard est décédée cette semaine. Hommage en chanson fun…
 

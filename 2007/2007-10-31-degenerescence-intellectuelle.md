@@ -1,13 +1,7 @@
 ---
 layout: post
 title: Dégénérescence intellectuelle
-author:
-  display_name: Biboulos
-  login: biboulos
-  email: biboulos@gmail.com
-  url: ""
-author_login: biboulos
-author_email: biboulos@gmail.com
+author: Biboulos
 wordpress_id: 423
 date: "2007-10-31 09:05:00 +0100"
 cover: burnout.jpg

@@ -31,7 +31,7 @@ de réaliser un clip. Allons-les voir de plus près.
 
 Reading Rainbow est un groupe basé à Philadelphia. Duo composé de Sarah Everton
 et Rob Garcia, ils ont déjà eu l'honneur de figurer dans 2 compiles du lundi
-avec [*Wasting Time* sur la 5](712] et [_Always On My Mind_ sur la 10->725).
+avec [_Wasting Time_ sur la 5](712) et [_Always On My Mind_ sur la 10](725).
 
 Un clip existe d'ailleurs pour ce dernier titre, réalisé par Amanda Finn, de
 Family Trees :

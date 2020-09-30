@@ -12,7 +12,7 @@ premier titre du successeur de [_High Violet_](696) est en écoute ici :
 
 {% youtube N527oBKIPMc %}
 
-Réécouter [*Exile, Velify*](901] et une version live de [_Terrible Love_->788)
+Réécouter [_Exile, Velify_](901) et une version live de [_Terrible Love_](788)
 
 via
 [Pitchfork](http://pitchfork.com/news/50230-listen-to-the-nationals-new-single-demons/)

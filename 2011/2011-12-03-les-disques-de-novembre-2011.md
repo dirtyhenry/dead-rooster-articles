@@ -14,9 +14,9 @@ tags:
   - Albums
 ---
 
-<h2>Les 5 étoiles </h2>
+## Les 5 étoiles
 
-<h3>Phil Spector - *Presents the Philles Album Collection*</h3>
+### Phil Spector - _Presents the Philles Album Collection_
 
 7 CD pour synthétiser une large partie de la carrière du producteur génial :
 Crystals, Ronettes, Bob B. Soxx and the Blue Jeans sont au programme. Du grand
@@ -24,7 +24,7 @@ art : _Another Country - Another World_, _Be My Baby_ et leurs petites soeurs
 sont de la partie. Seul le dernier CD, signé The Phil Spector Wall Of Sound
 Orchestra, un rien jazzy, peut faire bailler. Le reste est de la balle.
 
-<h3>The Beach Boys - *The Smile Sessions*</h3>
+### The Beach Boys - _The Smile Sessions_
 
 Mettons de côté l'édition 5-CD, complètement inaudible et réservée aux fans
 hardcores du groupe pour se concentrer sur l'édition 2-CD. Même en 2011, on
@@ -38,27 +38,27 @@ donné la version finale prédomine. J'imagine quelque chose comme un disque ent
 36 et 40 minutes (la durée de _Pet Sounds_ et _Sergent Pepper's_, les 2 repères
 de _Smile_).
 
-<h3>Real Estate - *Days*</h3>
+### Real Estate - _Days_
 
 Une identité certaine (le groupe adore la reverb). De très bons titres. Allez-y.
 Ma préférée est _Younger than Yesterday_. Vous pouvez écouter _It's Real_
 [ici](944).
 
-<h3>British Sea Power - *Valhalla Dancehall*</h3>
+### British Sea Power - _Valhalla Dancehall_
 
 Les chouchous de Joe Gantdelaine régalent. Seul reproche à faire au groupe : un
 certain manque d'identité qui font penser que certains titres sont des
 imitations (_Thin Black Sail_ pourrait être une parodie des Arctic Monkeys).
 _Living Is So Easy_ est recommandée.
 
-<h2>Les 4 étoiles</h2>
+## Les 4 étoiles
 
-<h3>A Classic Education - *Hey There Stranger*</h3>
+### A Classic Education - _Hey There Stranger_
 
 Un EP plein de charme, mi pop immédiate façon Spinto Band (_What My Life Could
 Have Been_), mi pop-orfèvre à la Guillemots (_Toi_).
 
-<h3>Bert Jansch - *Bert Jansch*</h3>
+### Bert Jansch - _Bert Jansch_
 
 Bert Jansch est mort en octobre et c'est l'occasion de découvrir son oeuvre.
 C'est moche mais c'est comme ça. Si Pentangle est complètement indigeste, le
@@ -68,14 +68,14 @@ classe. L'album a sûrement influencé Nick Drake et Jimmy Page. Y'a pire. _Need
 Of Death_ (<strike>_Do You Hear Me Now_</strike> : apparemment le nommage sur
 Spotify est un peu bugué, au temps pour moi) est ma préférée.
 
-<h3>Maison Neuve - *Joan*</h3>
+### Maison Neuve - _Joan_
 
 Un groupe français qui fait du rock cool, voilà quelque chose qu'on ne rencontre
 pas tous les jours. Voix d'influence Phoenixienne, des compos en anglais et des
 compos en français nettement plus awkward : _Under Skies of Fire_ est à écouter
 en priorité.
 
-<h3>The King Khan Experience - *Scion A/V Presents The King Khan Experience*</h3>
+### The King Khan Experience - _Scion A/V Presents The King Khan Experience_
 
 King Khan est un personnage à découvrir. De la soul officiellement allemande, ça
 ne se voit pas tous les jours. Du très bon (_Bob Log Stomp_), du médiocre (_Come
@@ -83,53 +83,53 @@ Levitate With Me_), un disque inégal, mais
 [à télécharger librement](http://scionav.com/collection/851/Scion-A/V-Presents:-The-King-Khan-Experience),
 sympa.
 
-<h2>Les 3 étoiles</h2>
+## Les 3 étoiles
 
-<h3>Stephan Malkmus & The Jicks - *Mirror Traffic*</h3>
+### Stephan Malkmus & The Jicks - _Mirror Traffic_
 
 Du solide, sans être exceptionnel de la part du leader de Pavement. _Senator_
 est marrante. _Tigers_ est cool aussi.
 
-<h3>PJ Harvey - *Let England Shake*</h3>
+### PJ Harvey - _Let England Shake_
 
 Un disque nettement plus ambitieux que les précédents pour PJ. Le disque est
 parti pour truster les meilleures places des tops de fin d'année un peu partout.
 
-<h3>Foster The People - *Torches*</h3>
+### Foster The People - _Torches_
 
 _Pumped Up Kids_ est un tube incontournable et donne une popularité méritée au
 groupe. Attention cependant au syndromes MGMT et White Town : ne pas devenir
 trop bizarre ou se faire tuer par un trop gros tube.
 
-<h3>Loney Dear - *Hall Music*</h3>
+### Loney Dear - _Hall Music_
 
 Le suédois offre un album assez ambitieux alternant vraies réussites (_My
 Heart_, _Calm Down_) et chansons plus anecdotiques (la 2nde partie de l'album
 est de ce tonneau). Il faut sûrement voir en _What I Have Become?_ un hommage à
 Supertramp, ce qui est cool et ringard à la fois. J'aime bien.
 
-<h2>Les 2 étoiles</h2>
+## Les 2 étoiles
 
-<h3>Herman Düne - *Strange Moosic*</h3>
+### Herman Düne - _Strange Moosic_
 
 Loin d'être le meilleur de la fratrie. Mais pas déplaisant : _The Rock_, _Lay
 Your Head On My Chest_, _Tell Me Something I Don't Know_ sont de bonne facture.
 
-<h3>Yann Tiersen - *Skyline*</h3>
+### Yann Tiersen - _Skyline_
 
 Successeur de _Dust Lane_, dont on peut penser qu'il est composé de ses chutes,
 Yann Tiersen n'atteint pas ici les sommets de son prédécesseur. Trop peu
 organique, trop monocorde, la machine tourne moins rond. Et la pochette est
 moche.
 
-<h3>James Vincent McMorrow - *Early in the morning*</h3>
+### James Vincent McMorrow - _Early in the morning_
 
 Dans la veine songwriter, sonne comme le meilleur de Bon Iver dans les meilleurs
 moments. Sonne comme le pire Charlie Winston dans les plus mauvais. _This Old
 Dark Machine_ est incontestablement le tube du disque mais sans doute pas le
 meilleur morceau.
 
-<h3>Wonderflu - *Lota Schwager*</h3>
+### Wonderflu - _Lota Schwager_
 
 J'avais entendu beaucoup de choses en bien sur les Parisiens de Wonderflu
 [ici](829] et
@@ -141,35 +141,35 @@ plus, juste le syndrome _Les Visiteurs_ du truc que quand vous l'écoutez après
 tout le monde, vous ne voyez pas pourquoi les gens en font tout un foin. J'aime
 bien _Your Draw_, c'est mon petit côté Ringo Starr.
 
-<h2>Les 1 étoile</h2>
+## Les 1 étoile
 
-<h3>Lisa Miller - *Within Myself*</h3>
+### Lisa Miller - _Within Myself_
 
 Un disque de 1967 par une fille de 11 ans. Pas déplaisant mais des tremolo façon
 [rossignolets de la chanson](http://www.dailymotion.com/video/x1ho21_le-pot-pourri-des-rossignolets-part_music)
 et une des pires reprises des Beatles de l'histoire (_Fool On The Hill_) dont
 les percus feraient rougir d'envie Jean-Pierre Caca.
 
-<h3>Justice - *Audio, Video, Disco*</h3>
+### Justice - _Audio, Video, Disco_
 
 Justice, a priori, c'est pas mon genre. Mais le 1er album, il y a 4 ans, m'avait
 séduit par quelques titres, _D.A.N.C.E._ était un tube incontournable (comme
 avant lui le remix de _We Are Your Friend_), _Stress_ avait quelque chose. Peu
 de morceaux de ce niveau dans cet opus.
 
-<h3>Goodbye Ivan - *Intervals*</h3>
+### Goodbye Ivan - _Intervals_
 
 Recommandé par
 [Bon Pour les Oreilles](http://www.bonpourlesoreilles.net/musique/2011/08/goodbye-ivan-the-cherry-wood-ep.html),
 l'album reste trop atmosphérique pour qu'on s'y plonge.
 
-<h3>Minus The Bear - *Omni*</h3>
+### Minus The Bear - _Omni_
 
 Juste un peu nul. Ça ressemble à ce que Kaiser Chiefs pourrait faire de pire. Ce
 groupe est un faux-ami : il a "Bear" dans son nom mais n'est pas vraiment cool
 pour autant. Minus est plus pertinent.
 
-<h2>La synthèse</h2>
+## La synthèse
 
 <a href="http://open.spotify.com/user/dirtyhenry/playlist/3hsF2PdtSXdxKF92uWILeo"><img src="/squelettes/images/spotify-button.png" /></a>
 
@@ -177,29 +177,29 @@ Réalisée avec [Sortmash](http://sortmash.com).
 
 <div style="background: url(/IMG/png/disques-novembre.png);">
 <ul>
-<li style="height: 70px;margin-left: 160px;"><h2>Phil Spector</h2><h3>Presents the Philles Album Collection</h3></li>
-<li style="height: 70px;margin-left: 160px;"><h2>The Beach Boys</h2><h3>Smile</h3></li>
-<li style="height: 70px;margin-left: 160px;"><h2>Real Estate</h2><h3>Days</h3></li>
-<li style="height: 70px;margin-left: 160px;"><h2>British Sea Power</h2><h3>Valhalla Dancehall</h3></li>
+<li style="height: 70px;margin-left: 160px;">## Phil Spector### Presents the Philles Album Collection</li>
+<li style="height: 70px;margin-left: 160px;">## The Beach Boys### Smile</li>
+<li style="height: 70px;margin-left: 160px;">## Real Estate### Days</li>
+<li style="height: 70px;margin-left: 160px;">## British Sea Power### Valhalla Dancehall</li>
 
-<li style="height: 70px;margin-left: 160px;"><h2>A Classic Education</h2><h3>Hey There Stranger</h3></li>
-<li style="height: 70px;margin-left: 160px;"><h2>Bert Jansch</h2><h3>Bert Jansch</h3></li>
-<li style="height: 70px;margin-left: 160px;"><h2>Maison Neuve</h2><h3>Joan</h3></li>
-<li style="height: 70px;margin-left: 160px;"><h2>The King Khan Experience</h2><h3>Scion A/V Presents…</h3></li>
+<li style="height: 70px;margin-left: 160px;">## A Classic Education### Hey There Stranger</li>
+<li style="height: 70px;margin-left: 160px;">## Bert Jansch### Bert Jansch</li>
+<li style="height: 70px;margin-left: 160px;">## Maison Neuve### Joan</li>
+<li style="height: 70px;margin-left: 160px;">## The King Khan Experience### Scion A/V Presents…</li>
 
-<li style="height: 70px;margin-left: 160px;"><h2>Stephen Malkmus & The Jicks</h2><h3>Mirror Trafic</h3></li>
-<li style="height: 70px;margin-left: 160px;"><h2>PJ Harvey</h2><h3>Let England Shake</h3></li>
-<li style="height: 70px;margin-left: 160px;"><h2>Foster The People</h2><h3>Torches</h3></li>
-<li style="height: 70px;margin-left: 160px;"><h2>Loney Dear</h2><h3>Hall Music</h3></li>
+<li style="height: 70px;margin-left: 160px;">## Stephen Malkmus & The Jicks### Mirror Trafic</li>
+<li style="height: 70px;margin-left: 160px;">## PJ Harvey### Let England Shake</li>
+<li style="height: 70px;margin-left: 160px;">## Foster The People### Torches</li>
+<li style="height: 70px;margin-left: 160px;">## Loney Dear### Hall Music</li>
 
-<li style="height: 70px;margin-left: 160px;"><h2>Herman Düne</h2><h3>Strange Moosic</h3></li>
-<li style="height: 70px;margin-left: 160px;"><h2>Yann Tiersen</h2><h3>Skyline</h3></li>
-<li style="height: 70px;margin-left: 160px;"><h2>James Vincent McMorrow</h2><h3>Early In The Morning</h3></li>
-<li style="height: 70px;margin-left: 160px;"><h2>Wonderflu</h2><h3>Lota Schwager</h3></li>
+<li style="height: 70px;margin-left: 160px;">## Herman Düne### Strange Moosic</li>
+<li style="height: 70px;margin-left: 160px;">## Yann Tiersen### Skyline</li>
+<li style="height: 70px;margin-left: 160px;">## James Vincent McMorrow### Early In The Morning</li>
+<li style="height: 70px;margin-left: 160px;">## Wonderflu### Lota Schwager</li>
 
-<li style="height: 70px;margin-left: 160px;"><h2>Lisa Miller</h2><h3>Within Myself</h3></li>
-<li style="height: 70px;margin-left: 160px;"><h2>Justice</h2><h3>Audio, Video, Disco</h3></li>
-<li style="height: 70px;margin-left: 160px;"><h2>Goodbye Ivan</h2><h3>Intervals</h3></li>
-<li style="height: 70px;margin-left: 160px;"><h2>Minus The Bear</h2><h3>Omni</h3></li>
+<li style="height: 70px;margin-left: 160px;">## Lisa Miller### Within Myself</li>
+<li style="height: 70px;margin-left: 160px;">## Justice### Audio, Video, Disco</li>
+<li style="height: 70px;margin-left: 160px;">## Goodbye Ivan### Intervals</li>
+<li style="height: 70px;margin-left: 160px;">## Minus The Bear### Omni</li>
 </ul>
 </div>

@@ -23,7 +23,7 @@ Ca fait longtemps que nous n'avons pas mis à jour le concours Katerine. Pour ne
 rien gâcher, l'actualité de Katerine est par ailleurs chargée. Il est temps de
 faire le point.
 
-<h2>L'actualité</h2>
+## L'actualité
 
 Vous le savez sans doute, Katerine sortira lundi prochain son nouvel album
 éponyme (déjà disponible en version digitale).
@@ -39,24 +39,20 @@ d'Angleterre lui chie à la raie (ce qui n'est pas sans rappeler
 
 <div><object type="application/x-shockwave-flash" data="http://www.wat.tv/swf2/206744nIc0K115163507" width="480" height="270" id="wat_5163507"><param name="movie" value="http://www.wat.tv/swf2/206744nIc0K115163507" /><param name="allowScriptAccess" value="always" /><param name="allowFullScreen" value="true" /><embed width="480" height="270" src="http://www.wat.tv/swf2/206744nIc0K115163507"  allowscriptaccess="always" allowfullscreen="true" />Veuillez installer Flash Player pour lire la vidéo</object></div><div class="watlinks" style="width:480px;font-size:11px; background:#CCCCCC; padding:2px 0 4px 0; text-align: center;"><a target="_blank" class="waturl" href="http://www.wat.tv/video/conversations-privees-philippe-32o6r_2z78r_.html" title="Vidéo Les conversations priv&eacute;es de Philippe Katerine sur wat.tv"><strong>Les conversations privées de Philippe Katerine</strong></a> Vidéo <a class="waturl altuser" href="http://www.wat.tv/OFFTV" title="Retrouvez toutes les vidéos OFFTV sur wat.tv">OFFTV</a> sélectionnée dans <a href="http://www.wat.tv/guide/musique" class="waturl alttheme" title="Toutes les vidéos Musique sont sur wat.tv">Musique</a> </div>
 
-<h2>Le concours</h2>
+## Le concours
 
 Trois semaines se sont écoulées depuis la dernière mise à jour. Pourtant, autant
 le dire tout de go, personne ne marque de point. On n'est qu'une bande de
 losers.
 
-<h3>36. *L'idole des jeunes* de Johnny Hallyday</h3>
+### 36. _L'idole des jeunes_ de Johnny Hallyday
 
 La reprise de Katerine est
 [ici](http://www.katerinefrancisetsespeintres.com/idole.html). L'originale :
 
-<object width="500" height="375"><param name="movie" value="http://www.dailymotion.com/swf/video/xuh8q?width=500&theme=default&foreground=%23F7FFFD&highlight=%23FFC300&background=%23171D1B&start=&animatedTitle=&additionalInfos=0&autoPlay=0&hideInfos=0"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed type="application/x-shockwave-flash" src="http://www.dailymotion.com/swf/video/xuh8q?width=500&theme=default&foreground=%23F7FFFD&highlight=%23FFC300&background=%23171D1B&start=&animatedTitle=&additionalInfos=0&autoPlay=0&hideInfos=0" width="500" height="375" allowfullscreen="true" allowscriptaccess="always"></embed></object><br /><b><a href="http://www.dailymotion.com/video/xuh8q_johnny-hallyday-l-idole-des-jeunes_music">Johnny
-hallyday -L'Idole Des Jeunes 1962</a></b><br /><i>envoy&eacute; par
-<a href="http://www.dailymotion.com/INDIEN94">INDIEN94</a>. -
-<a href="http://www.dailymotion.com/fr/channel/music">Regardez d'autres
-vid&eacute;os de musique.</a></i>
+{% dailymotion xuh8q %}
 
-<h3>37. *Elle est d'ailleurs* de Pierre Bachelet</h3>
+### 37. _Elle est d'ailleurs_ de Pierre Bachelet
 
 La reprise de Katerine est
 [ici](http://www.katerinefrancisetsespeintres.com/ailleurs.html). Une version
@@ -64,7 +60,7 @@ live :
 
 {% youtube H28JwoGQfBU %}
 
-<h3>38. *Il est vraiment phénomènal* de Phenomenal Club (?)</h3>
+### 38. _Il est vraiment phénomènal_ de Phenomenal Club (?)
 
 La reprise de Katerine est
 [ici](http://www.katerinefrancisetsespeintres.com/vraiment.html). Je ne sais pas
@@ -74,7 +70,7 @@ live à _40° à l'ombre_ par un groupe baptisé Phenomenal Club est de toute be
 
 {% youtube X4cD1w10x_M %}
 
-<h3>Le classement</h3>
+### Le classement
 
 Je le disais, pas de changement au classement :
 

@@ -1,12 +1,7 @@
 ---
 layout: post
 title: Gueule de pierre sous la terre…
-author:
-  display_name: Groovy Henry
-  login: groovy
-  email: ""
-  url: ""
-author_login: groovy
+author: Groovy Henry
 wordpress_id: 430
 date: "2007-12-13 11:32:00 +0100"
 cover: ike-turner.jpg

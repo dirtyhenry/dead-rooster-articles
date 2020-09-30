@@ -22,7 +22,7 @@ tags:
 Le vendredi, le fun est de bon aloi. Cette semaine : on se réveille moustachu,
 détesté, entouré de photos chiantes, et on attend l'arrivée du sudoku-killer.
 
-<h2>1. Comment rendre une pub marrante ?</h2>
+## 1. Comment rendre une pub marrante ?
 
 En engageant Jason Schwartzman comme acteur et Roman Coppola comme réalisateur
 ([tiens, tiens, encore ces deux-là !](201)).
@@ -36,7 +36,7 @@ verticalement.
 (via
 [NewYorker.com](http://www.newyorker.com/online/blogs/newsdesk/2010/09/jason-schwartzman-ipad-video.html))
 
-<h2>2. Comment devenir le groupe le plus détesté au monde ?</h2>
+## 2. Comment devenir le groupe le plus détesté au monde ?
 
 Le webcomic [XKCD](http://xkcd.com/780/) nous donne une piste pour cela.
 
@@ -48,7 +48,7 @@ détesté du monde grâce à son titre
 
 (via [xkcd](http://xkcd.com), sous licence Creative Commons)
 
-<h2>3. Comment rendre fun ses photos chiantes ?</h2>
+## 3. Comment rendre fun ses photos chiantes ?
 
 CollegeHumor nous présente
 [une nouvelle extension à Photoshop : le PhotoBomb Tool](http://www.collegehumor.com/video:1940686),
@@ -58,7 +58,7 @@ qui permet de rendre fun ses photos chiantes.
 
 (via [Ludo](http://www.geeek.org/post/photoshop-cs11-et-le-photobomb-tool-892))
 
-<h2>4. Comment revisiter l'histoire du foot en étant fun ?</h2>
+## 4. Comment revisiter l'histoire du foot en étant fun ?
 
 Les émissions de débat sur le foot sont ce qu'il y a de plus fun à la radio
 depuis que _La Panique au Mangin Palace_ n'est plus. Je recommande chaudement
@@ -70,16 +70,12 @@ parodier.
 Attention, si vous ne connaissez rien au foot, ces vidéos ne vous feront
 absolument pas rire. C'est un risque à prendre.
 
-<object width="500" height="375"><param name="movie" value="http://www.dailymotion.com/swf/video/xeua9d?width=500&theme=default&foreground=%23F7FFFD&highlight=%23FFC300&background=%23171D1B&start=&animatedTitle=&additionalInfos=0&autoPlay=0&hideInfos=0"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed type="application/x-shockwave-flash" src="http://www.dailymotion.com/swf/video/xeua9d?width=500&theme=default&foreground=%23F7FFFD&highlight=%23FFC300&background=%23171D1B&start=&animatedTitle=&additionalInfos=0&autoPlay=0&hideInfos=0" width="500" height="375" allowfullscreen="true" allowscriptaccess="always"></embed></object><br /><b><a href="http://www.dailymotion.com/video/xeua9d_parodie-grand-after_fun">Parodie
-GRAND AFTER</a></b><br /><i>envoy&eacute; par
-<a href="http://www.dailymotion.com/Parodie_After_Foot">Parodie_After_Foot</a>. -
-<a href="http://www.dailymotion.com/fr/channel/fun">Plus de vid&eacute;os
-fun.</a></i>
+{% dailymotion xeua9d %}
 
 (via
 [lequipemag.fr](http://www.lequipemag.fr/EquipeMag/Blogs/les-deux-dingues-de-l-after-20100916_183228.html))
 
-<h2>5. Comment soigner son addiction aux nouvelles technologies ?</h2>
+## 5. Comment soigner son addiction aux nouvelles technologies ?
 
 Apple vous présente son tout dernier produit : l'ordinateur portable sans
 clavier ! Merci aussi de faire attention au sudoku-killer.

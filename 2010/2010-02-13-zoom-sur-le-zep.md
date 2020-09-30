@@ -5,11 +5,7 @@ description:
   Après les Stones et [Bob Dylan](219) et en attendant [un probable ouvrage sur
   Hendrix](http://www.tierslivre.net/spip/spip.php?article1373), François Bon
   s'était penché sur Led Zeppelin en septembre 2008 dans {Rock'n Roll}.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ""
+author: Dirty Henry
 wordpress_id: 571
 date: "2010-02-13 13:50:05 +0100"
 categories:
@@ -20,7 +16,7 @@ tags:
   - Led Zeppelin
 ---
 
-{_Led Zeppelin_}, avec deux 'p' et un 'l', est un groupe de rock'n'roll, fondé
+**Led Zeppelin**, avec deux 'p' et un 'l', est un groupe de rock'n'roll, fondé
 en 1968 sur les cendres des Yardbirds, lorsque James Patrick Page, dit Jimmy, le
 successeur de Clapton et Jeff Beck au poste de lead guitare du groupe, se
 retrouve seul en son sein avec des dates de concert à assurer. Il contacte alors
@@ -85,8 +81,8 @@ Page choisissent les groupies avec lesquelles ils veulent passer la nuit. Bonham
 et son acolyte **Richard Cole**, le tour manager du groupe, vont alors
 s'évertuer à trouver les pires trucs à faire et dont les journaux des 70s se
 repaîtront : destruction de chambres d'hôtels, pratique de la moto dans leurs
-couloirs ou le fameux [épisode du
-requin->http://en.wikipedia.org/wiki/Shark_episode].
+couloirs ou le fameux
+[épisode du requin](http://en.wikipedia.org/wiki/Shark_episode).
 
 Tous les débordements du groupe, mais aussi ceux de Cole et de **Peter Grant**,
 le manager, leur vaudront de nombreux procès et interdictions de séjour dans
@@ -107,7 +103,7 @@ et parfois lourdingue. Mais globalement, le livre est recommandé pour
 approfondir sa connaissance du groupe et parce que je défie quiconque de ne pas
 se marrer des anecdotes de Bonzo et cie.
 
-<hr />
+---
 
 <img src="/IMG/arton219.jpg" alt="Bob Dylan, une biographie" width="100px" />
 [Relire le post consacré à l'ouvrage de François Bon sur Bob Dylan](219)

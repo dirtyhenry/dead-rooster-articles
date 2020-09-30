@@ -4,13 +4,7 @@ title: "(Première et) Dernière nuit à Twisted River, de John Irving"
 description:
   A l'instar de Dirty Henry et de sa très chouette chronique du dernier roman de
   Coe, je vous propose à mon tour quelques mots sur le dernier bouquin d'Irving.
-author:
-  display_name: Marcello Marcellito
-  login: fredg
-  email: frederic@gaunard.com
-  url: ""
-author_login: fredg
-author_email: frederic@gaunard.com
+author: Marcello Marcellito
 wordpress_id: 794
 date: "2011-03-04 11:29:35 +0100"
 categories:

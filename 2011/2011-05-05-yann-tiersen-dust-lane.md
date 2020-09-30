@@ -58,9 +58,7 @@ bassiste et le batteur assurent les bases mélodiques des titres, chantés avec
 entrefilent des sonorités bruitistes tout en évitant d'obtenir un résultat noisy
 insupportable mais plutôt un cousin rock belge à la dEUS, physique et torturé.
 
-<iframe width="400" height="100" style="position: relative; display: block; width: 400px; height: 100px;" src="http://bandcamp.com/EmbeddedPlayer/v=2/track=367684424/size=venti/bgcol=FFFFFF/linkcol=4285BB/" allowtransparency="true" frameborder="0">
-  <a href="http://nestorisbianca.bandcamp.com/track/april-day">April Day by nestorisbianca</a>
-</iframe>
+{% bandcamp_track 470995843 367684424 %}
 
 Le chanteur du groupe rejoint d'ailleurs Tiersen quand c'est au Breton d'arriver
 sur scène. On retrouve le même show qu'à St-Malo, en effectif plus limité, mais

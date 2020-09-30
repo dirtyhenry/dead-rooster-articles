@@ -19,8 +19,8 @@ tags:
 Cette semaine, la reprise de **Katerine, Francis et ses peintres** est
 [*Sentimental Moi*](http://www.katerinefrancisetsespeintres.com/14.html], un
 titre qui prouve que Plastic Bertrand a fait autre chose que _Ça plane pour moi_
-et qui permet à Guy Lux de signer un doublé après [_La Queuleuleu_ de la semaine
-dernière->583).
+et qui permet à Guy Lux de signer un doublé après
+[_La Queuleuleu_ de la semaine dernière](583).
 
 Voilà la version originale :
 

@@ -14,6 +14,6 @@ tags:
 {% vimeo 27621823 %}
 
 Version longue de la vidéo réalisée par Drew Barrymore. Vous y reconnaîtrez
-Chloe Moretz (de [*Kick-Ass*](769] et [*500 Days Of Summer*->538]), et Alia
+Chloe Moretz (de [_Kick-Ass_](769) et [_500 Days Of Summer_](538]), et Alia
 Shawkat (d'[*Arrested Development*->934] et [_Bliss/Whip It_->769), le premier
 film réalisé par Barrymore).

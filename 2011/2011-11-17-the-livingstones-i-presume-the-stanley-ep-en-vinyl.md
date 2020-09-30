@@ -11,9 +11,8 @@ date: "2011-11-17 18:06:42 +0100"
 ---
 
 Il y a maintenant presque un an, les magnifiques [The Livingstones I
-Presume](http://thelivingstonesipresume.com/], dont votre serviteur est le
-guitariste, sortaient _The Stanley EP_, au format numérique seulement, via [le
-site Bandcamp->http://thelivingstonesipresume.com/).
+Presume][1], dont votre serviteur est le guitariste, sortaient _The Stanley EP_,
+au format numérique seulement, via [le site Bandcamp][1].
 
 Depuis, [j'ai crié ma passion aux disques vinyls](849) et les autres membres du
 groupe - un certain batteur en tête - m'ont offert un magnifique cadeau : un
@@ -32,27 +31,27 @@ quasi-unanimité fut donc "la merde, on le fait !".
 Voilà, 250 disques vinyls de _The Stanley EP_ sont en cours de commande et
 devraient arriver le mois prochain entre nos mains. Et on veut en faire profiter
 tout le monde, et vous devriez vous montrer intéressés pour plein de bonnes
-raisons : -_ on va le vendre le moins cher possible : 6€ seulement -_ on peut le
-fournir par la Poste en passant par Bandcamp, mais ça augmentera le prix à cause
-des frais de ports alors envoyez-nous un message pour voir si une remise en main
-propre est possible (à Paris sans aucun doute, mais aussi à Brest et sûrement
-ailleurs, si vous nous contactez, on verra comment s'arranger) -\* même les gens
-qui n'ont pas de lecteur de disques vinyls devraient être intéréssés, grâce à la
-pochette du disque et cette magnifique photo signée
-[Cary Ann Wayman](http://www.cariwayman.com/)
+raisons :
+
+- on va le vendre le moins cher possible : 6€ seulement
+- on peut le fournir par la Poste en passant par Bandcamp, mais ça augmentera le
+  prix à cause des frais de ports alors envoyez-nous un message pour voir si une
+  remise en main propre est possible (à Paris sans aucun doute, mais aussi à
+  Brest et sûrement ailleurs, si vous nous contactez, on verra comment
+  s'arranger)
+- même les gens qui n'ont pas de lecteur de disques vinyls devraient être
+  intéréssés, grâce à la pochette du disque et cette magnifique photo signée
+  [Cary Ann Wayman](http://www.cariwayman.com/).
 
 Bien sûr, tous les acheteurs auront le droit immédiatement à la version digitale
 de l'album, ainsi qu'au titre inédit, _I Know You'll Go_, enregistré en mode
 artisanal à la maison.
 
-Bref, si vous êtes intéressés pour vous procurer le disque : -_ Contactez-nous
-par [Facebook](http://www.facebook.com/pages/Dead-Rooster/148439541886052],
-[Twitter](https://twitter.com/#!/dead__rooster) ou en [laissant un commentaire
-sur cette page->http://www.deadrooster.org/spip.php?page=forum&id_article=952)
-pour organiser une remise en mains propres -_ Allez sur
-[notre page Bandcamp](http://thelivingstonesipresume.com/), si vous préférez
-passer par la Poste
+Bref, si vous êtes intéressés pour vous procurer le disque : allez sur [notre
+page Bandcamp][1].
 
-<iframe width="400" height="100" style="position: relative; display: block; width: 400px; height: 100px;" src="http://bandcamp.com/EmbeddedPlayer/v=2/album=3803626780/size=venti/bgcol=FFFFFF/linkcol=4285BB/" allowtransparency="true" frameborder="0"><a href="http://thelivingstonesipresume.com/album/the-stanley-ep">The Stanley EP by The Livingstones I Presume</a></iframe>
+{% bandcamp_album 3803626780 %}
 
 Tout cela, bien sûr, en attendant, peut-être, un second EP…
+
+[1]: https://thelivingstonesipresume.bandcamp.com

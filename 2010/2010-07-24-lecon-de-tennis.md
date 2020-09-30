@@ -2,7 +2,7 @@
 layout: post
 title: Leçon de Tennis !
 description:
-  "Après les [Dum Dum Girls](588] ou [Best Coast->657), entre autres, la mode
+  "Après les [Dum Dum Girls](588) ou [Best Coast](657), entre autres, la mode
   est décidément à la girl-pop-lo-fi. Nouveau groupe à compter dans ce genre :
   {{Tennis}} ! "
 authors:
@@ -33,7 +33,7 @@ comments:
       <a href=\"http://vimeo.com\">Vimeo</a>.</p>"
 ---
 
-Après les [Dum Dum Girls](588] ou [Best Coast->657), entre autres, la mode est
+Après les [Dum Dum Girls](588) ou [Best Coast](657), entre autres, la mode est
 décidément à la girl-pop-lo-fi. Nouveau groupe à compter dans ce genre :
 **Tennis** !
 
