@@ -11,4 +11,4 @@ tags:
   - Reprise
 ---
 
-{% soundcloud_track 30611632 %}
+{% soundcloud 30611632 %}
