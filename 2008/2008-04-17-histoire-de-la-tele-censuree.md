@@ -17,6 +17,7 @@ comments:
       même transformé dans mon esprit Guiguite le hamster, en Kikite le Cochon
       d'Inde !!\r\nC'est ça que l'on veut ?? L'oubli et le mépris des risques du
       quotidien ?\r\nTu n'es pas seul dans la lutte mon ami !"
+cover: hamster-halteres.jpg
 ---
 
 Malgré Internet, la popularité du brevet se secourisme et la place accordées à

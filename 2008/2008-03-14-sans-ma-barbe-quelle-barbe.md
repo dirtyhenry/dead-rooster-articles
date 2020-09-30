@@ -4,6 +4,7 @@ title: Sans ma barbe, quelle barbe !
 authors:
   - Dirty Henry
 wordpress_id: 439
+cover: gennaro-gattuso.jpg
 date: "2008-03-14 12:51:00 +0100"
 ---
 

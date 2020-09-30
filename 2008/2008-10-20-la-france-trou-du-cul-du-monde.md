@@ -10,6 +10,7 @@ categories:
 tags:
   - The Black Keys
   - The Datsuns
+cover: carte-fesses.jpg
 ---
 
 Plutôt qu'un long discours, une simple question : sachant que les Datsuns et les

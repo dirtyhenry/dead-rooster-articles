@@ -9,6 +9,7 @@ categories:
   - Catégories
 tags:
   - La Petite Reine
+cover: schumacher-velo.png
 ---
 
 Il a failli tuer Battiston, il a rendu la F1 soporifique et v'là qu'il se met au

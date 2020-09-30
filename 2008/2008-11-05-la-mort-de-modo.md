@@ -5,6 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 478
 date: "2008-11-05 10:00:00 +0100"
+cover: skinner.png
 ---
 
 Acteur fabuleux, on se souvient tous la larme à l'oeil de son interprétation de

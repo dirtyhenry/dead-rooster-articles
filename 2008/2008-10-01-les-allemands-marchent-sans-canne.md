@@ -5,6 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 469
 date: "2008-10-01 08:33:00 +0200"
+cover: oliver-kahn.jpg
 ---
 
 Hier, pour le match entre le Bayern et Lyon (qui jouait avec les maillots les

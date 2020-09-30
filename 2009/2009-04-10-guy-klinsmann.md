@@ -5,6 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 493
 date: "2009-04-10 13:45:00 +0200"
+cover: guy-roux.jpg
 ---
 
 Tu m'étonnes que le Bayern Munich ait pris une branlée contre le Barça… Jurgen

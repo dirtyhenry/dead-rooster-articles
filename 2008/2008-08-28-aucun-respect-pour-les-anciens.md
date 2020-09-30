@@ -5,6 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 459
 date: "2008-08-28 08:44:00 +0200"
+cover: fabrice-santoro.jpg
 ---
 
 Roddick a éliminé Santoro de l'US Open et l'Equipe écrit : "Enfin, Fabrice

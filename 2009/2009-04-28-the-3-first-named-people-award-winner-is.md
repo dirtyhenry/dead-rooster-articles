@@ -5,6 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 500
 date: "2009-04-28 17:13:00 +0200"
+cover: christian-jeanpierre.jpg
 ---
 
 Christian Jeanpierre, le batteur du groupe Rockaway (véridique), a apparemment

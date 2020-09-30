@@ -5,6 +5,7 @@ authors:
   - Joe Gantdelaine
 wordpress_id: 498
 date: "2009-04-21 12:09:00 +0200"
+cover: enrico-macias.jpg
 ---
 
 La crise n'épargne rien ni personne. Enrico, ce bon vieil Enrico, est désormais

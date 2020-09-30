@@ -13,6 +13,7 @@ comments:
     content:
       "C'est surtout que tout le monde a oublié que c'était ma fête aujourd'hui
       !! Le monde va mal !! "
+cover: fabrice-santoro-2.jpg
 ---
 
 Aujourd'hui c'est Santoro Day : Santoro a gagné en grand chelem à 36 ans.

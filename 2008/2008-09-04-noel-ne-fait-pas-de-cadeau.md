@@ -10,6 +10,7 @@ categories:
 tags:
   - Oasis
   - The La's
+cover: noel-gallagher-2.jpg
 ---
 
 Noel Gallagher a diffusé son top 10 de tous les temps : The Beatles, The Rolling

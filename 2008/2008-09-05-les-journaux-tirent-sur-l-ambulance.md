@@ -5,6 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 463
 date: "2008-09-05 16:07:00 +0200"
+cover: sondage-equipe-chavanel.png
 ---
 
 Aujourd'hui sur le site de l'Equipe, on a pu voir un sondage au résultat aussi

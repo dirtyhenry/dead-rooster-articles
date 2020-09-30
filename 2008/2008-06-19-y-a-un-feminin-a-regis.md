@@ -14,6 +14,7 @@ comments:
       "Et personne pour lui lancer un \"CONNASSE!\" bien senti ? J'étais ni là
       ni bourré, alors.\r\n\r\nJulio, devant son demi, son PC, devant sa
       solitude de répondeur à des posts vieux de 3 ans."
+cover: with-stupid.jpg
 ---
 
 Aujourd'hui, j'ai encore entendu une conne s'égosiller d'un lamentablement plat
