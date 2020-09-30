@@ -5,11 +5,7 @@ description:
   Après les Stones et [Bob Dylan](219) et en attendant [un probable ouvrage sur
   Hendrix](http://www.tierslivre.net/spip/spip.php?article1373), François Bon
   s'était penché sur Led Zeppelin en septembre 2008 dans {Rock'n Roll}.
-author:
-  display_name: Dirty Henry
-  login: dirtyhenry
-  email: dirtyhenry@gmail.com
-  url: ""
+author: Dirty Henry
 wordpress_id: 571
 date: "2010-02-13 13:50:05 +0100"
 categories:
@@ -20,7 +16,7 @@ tags:
   - Led Zeppelin
 ---
 
-{_Led Zeppelin_}, avec deux 'p' et un 'l', est un groupe de rock'n'roll, fondé
+**Led Zeppelin**, avec deux 'p' et un 'l', est un groupe de rock'n'roll, fondé
 en 1968 sur les cendres des Yardbirds, lorsque James Patrick Page, dit Jimmy, le
 successeur de Clapton et Jeff Beck au poste de lead guitare du groupe, se
 retrouve seul en son sein avec des dates de concert à assurer. Il contacte alors

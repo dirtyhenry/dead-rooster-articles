@@ -1,11 +1,7 @@
 ---
 layout: post
 title: Rock Critic en stuc
-author:
-  display_name: Groovy Henry
-  login: groovy
-  email: ""
-  url: ""
+author: Groovy Henry
 author_login: groovy
 wordpress_id: 418
 date: "2007-10-19 09:38:00 +0200"

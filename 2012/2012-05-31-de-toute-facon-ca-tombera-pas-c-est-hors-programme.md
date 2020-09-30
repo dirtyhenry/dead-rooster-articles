@@ -1,13 +1,7 @@
 ---
 layout: post
 title: De toute façon, ça tombera pas, c'est hors programme
-author:
-  display_name: Le Prince de Savoie
-  login: jojo
-  email: joan.gexfabry@gmail.com
-  url: ""
-author_login: jojo
-author_email: joan.gexfabry@gmail.com
+author: Le Prince de Savoie
 wordpress_id: 1045
 date: "2012-05-31 09:25:00 +0200"
 categories:

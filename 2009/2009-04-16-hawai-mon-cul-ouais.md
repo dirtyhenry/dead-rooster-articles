@@ -1,13 +1,7 @@
 ---
 layout: post
 title: Hawaï mon cul ouais !!
-author:
-  display_name: Biboulos
-  login: biboulos
-  email: biboulos@gmail.com
-  url: ""
-author_login: biboulos
-author_email: biboulos@gmail.com
+author: Biboulos
 wordpress_id: 497
 date: "2009-04-16 09:58:00 +0200"
 ---

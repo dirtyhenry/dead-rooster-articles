@@ -1,12 +1,7 @@
 ---
 layout: post
 title: Radiohead nous refait le coup du "machin"
-author:
-  display_name: Julian
-  login: julian
-  email: ""
-  url: ""
-author_login: julian
+author: Julian
 wordpress_id: 782
 date: "2011-02-16 14:04:50 +0100"
 ---

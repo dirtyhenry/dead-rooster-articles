@@ -4,13 +4,7 @@ title: "Zone d'Ecoute Prioritaire # 1"
 description:
   Une petite présentation de mes coups de coeur francophones du moment pour mon
   premier bulletin de ma toute nouvelle chronique.
-author:
-  display_name: Marcello Marcellito
-  login: fredg
-  email: frederic@gaunard.com
-  url: ""
-author_login: fredg
-author_email: frederic@gaunard.com
+author: Marcello Marcellito
 wordpress_id: 752
 date: "2011-01-13 19:47:26 +0100"
 ---
