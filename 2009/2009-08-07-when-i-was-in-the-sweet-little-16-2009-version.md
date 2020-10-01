@@ -11,6 +11,7 @@ categories:
 tags:
   - Concert
   - Franz Ferdinand
+cover: jim-jones-revue.jpg
 ---
 
 Comme les vaches en transhumance, comme les saumons pas d'élevage, comme les

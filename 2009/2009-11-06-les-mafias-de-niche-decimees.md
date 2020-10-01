@@ -5,6 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 544
 date: "2009-11-06 14:05:21 +0100"
+cover: random-badminton-team.jpg
 ---
 
 C'est lequipe.fr qui l'annonce :

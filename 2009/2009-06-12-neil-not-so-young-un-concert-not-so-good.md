@@ -11,9 +11,10 @@ categories:
 tags:
   - Concert
   - Neil Young
+cover: neil-young.jpg
 ---
 
-{_Neil Young_}, ou l'essence même de l'artiste transgénérationnel, au sens où
+**Neil Young**, ou l'essence même de l'artiste transgénérationnel, au sens où
 nos parents écoutaient déjà _Harvest_ sur l'autoradio de leur R5 qui sentait
 encore le neuf quand ils partaient en vacances en 73 à Font-Romeu.
 

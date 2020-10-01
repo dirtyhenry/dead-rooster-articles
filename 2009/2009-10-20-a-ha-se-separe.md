@@ -18,6 +18,7 @@ comments:
     content:
       "Je cherchais des photos-exemples à montrer la prochaine fois que j'irai
       chez le coiffeur pourquoi ? "
+cover: a-ha.jpg
 ---
 
 [A-ha annonce son split][1]. Merde, si ça se trouve, ça veut dire que

@@ -5,6 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 535
 date: "2009-10-08 15:47:57 +0200"
+cover: pile-journaux.jpg
 ---
 
 Hortefeu et les blagues douteuses… Le PS et le bourrage d'urne… Lombard et la

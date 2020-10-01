@@ -5,6 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 536
 date: "2009-10-10 13:39:55 +0200"
+cover: stephane-guivarch-newcastle.jpg
 ---
 
 Stéphane Guivarc'h, formé à Brest, double meilleur buteur de L1, champion du

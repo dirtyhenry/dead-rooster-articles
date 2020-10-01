@@ -11,6 +11,7 @@ comments:
     date: "2009-11-24 10:00:08 +0100"
     title: Les ravages du temps
     content: Ne pas mettre de jogging, c'est déjà un bon début les gars.
+cover: rolland-courbis.png
 ---
 
 Les 4 photos ci-dessus sont de la même personne… Ce qu'il s'est passé entre
