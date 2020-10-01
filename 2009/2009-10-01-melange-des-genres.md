@@ -9,6 +9,7 @@ categories:
   - Artistes
 tags:
   - The Black Keys
+cover: puissance-rap.jpg
 ---
 
 Les Black Keys préparent un album de hip-hop, Lil Wayne rappe sur l'album de

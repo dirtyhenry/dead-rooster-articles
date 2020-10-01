@@ -12,6 +12,7 @@ tags:
   - Concert
   - Blur
   - Florence + The Machine
+cover: blur-hyde-park.jpg
 ---
 
 En décembre dernier, Damon Albarn lâchait une bombe : "**Blur** jouera à Hyde

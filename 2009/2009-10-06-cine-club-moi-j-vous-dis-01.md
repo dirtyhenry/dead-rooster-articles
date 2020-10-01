@@ -9,16 +9,16 @@ categories:
   - Catégories
 tags:
   - Cinéma
+cover: pauline-a-la-plage.jpg
 ---
 
-{_ {Casablanca_, œuvre magistrale ! _Le Cuirassé Potemkine_, n'en parlons même
-pas ! Quant à _Citizen Kane_, le meilleur de tous ! Ok, mais comment faire pour
-voir ces films anciens, boudés par la télé et trop peu repris par les cinémas ?
-Pour ma part, la solution a été un abonnement à un service de location de DVD en
-ligne : Glowria. Trois DVD par mois dont voici détaillée la livrée de
-septembre…}}
+_Casablanca_, œuvre magistrale ! _Le Cuirassé Potemkine_, n'en parlons même pas
+! Quant à _Citizen Kane_, le meilleur de tous ! Ok, mais comment faire pour voir
+ces films anciens, boudés par la télé et trop peu repris par les cinémas ? Pour
+ma part, la solution a été un abonnement à un service de location de DVD en
+ligne : Glowria. Trois DVD par mois dont voici détaillée la livrée de septembre…
 
-** {Pauline à la plage} - Eric Rohmer (1983)**
+## _Pauline à la plage_ - Eric Rohmer (1983)
 
 La plage en septembre, c'est trop cool. Y'a plus personne et on peut apprendre
 la planche à voile et parfaire son éducation sentimentale par la pratique et
@@ -42,7 +42,7 @@ dis-je, ce chef d'œuvre : _Un été de porcelaine_, de Mort Schuman.
 
 <img335>
 
-** {All about Eve} - Joseph L. Mankiewicz (1950)**
+## _All about Eve_ - Joseph L. Mankiewicz (1950)
 
 Eve est une fan groupiesque de la star du théâtre Margo qui, flattée par tant
 d'admiration, la prend sous son aile et lui confie un rôle d'assistante à tout
@@ -68,7 +68,7 @@ karaoke… Désolé…
 
 <img336>
 
-** {Cat People} - Jacques Tourneur (1942)**
+## _Cat People_ - Jacques Tourneur (1942)
 
 Irena est une femme un peu bizarre. Bien que séduisant Oliver d'un coup de cil,
 elle est un peu flippante : c'est pas tout le monde qui provoque une hystérie

@@ -25,6 +25,7 @@ comments:
       La trackliste du concert au café de la danse est dispo
       [ici](http://meinzuhausemeinblog.blogspot.com/2009/09/noah-whale-paris-180909.html)
       !
+cover: noah-and-the-whale.jpg
 ---
 
 Il y a plusieurs mois, Noah and the Whale est arrivé un peu partout sur internet

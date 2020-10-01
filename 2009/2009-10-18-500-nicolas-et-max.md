@@ -49,6 +49,7 @@ comments:
     content:
       "Tu peux regarder cette interview sur Allociné :
       http://www.allocine.fr/film/fichefilm-128377/interviews/\r\n:-)"
+cover: 500-days-of-summer.jpg
 ---
 
 ## _(500) Days of Summer_ - Marc Webb
@@ -91,7 +92,8 @@ ce blog, de _Please, Please, Please, Let Me Get What I Want_, des Smiths.
 ---
 
 <img337>
-## *Mary and Max* - Adam Elliot
+
+## _Mary and Max_ - Adam Elliot
 
 Mary est une petite fille australienne avec une tâche de naissance couleur caca
 sur le front. Max est un homme new-yorkais un peu marginal. Comment peut bien
@@ -120,7 +122,8 @@ retrouve pas mal de thèmes de *Mary & Max* :
 ---
 
 <img338>
-## *Le Petit Nicolas* - Laurent Tirard
+
+## _Le Petit Nicolas_ - Laurent Tirard
 
 Est-il nécessaire de présenter le personnage de Goscinny et Sempé ? Est-il utile
 de s'étendre sur son adaptation ciné ? Quelques mots suffisent : "ennuyeux et

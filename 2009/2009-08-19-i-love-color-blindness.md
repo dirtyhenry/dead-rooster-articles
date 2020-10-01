@@ -9,6 +9,7 @@ categories:
   - Catégories
 tags:
   - Dead Rooster Announcement
+cover: i-love-color-blindness.png
 ---
 
 Un nouveau tee-shirt vient d'être ajouté à la boutique Dead Rooster. Plus que

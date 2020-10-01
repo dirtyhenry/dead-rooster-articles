@@ -5,6 +5,7 @@ authors:
   - Joe Gantdelaine
 wordpress_id: 543
 date: "2009-11-05 17:54:16 +0100"
+cover: super-heroes.jpg
 ---
 
 Attention, cela va très mal ! Pascal Obispo annonce qu'il est dorénavant
