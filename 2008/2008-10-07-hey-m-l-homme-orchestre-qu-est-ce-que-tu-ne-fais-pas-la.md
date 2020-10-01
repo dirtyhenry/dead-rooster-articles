@@ -9,6 +9,7 @@ categories:
   - Artistes
 tags:
   - Bob Dylan
+cover: hugues-aufray.jpg
 ---
 
 Je viens de finir la biographie de Bob Dylan par François Bon et il n'y a qu'à

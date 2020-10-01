@@ -5,6 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 487
 date: "2009-02-02 17:09:00 +0100"
+cover: willy-sagnol.jpg
 ---
 
 La médecine ne peut rien contre les douleurs que Willy ressent au tendon

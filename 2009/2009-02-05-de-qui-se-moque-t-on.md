@@ -5,6 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 488
 date: "2009-02-05 09:39:00 +0100"
+cover: tourisme-mayenne.png
 ---
 
 Des affiches publicitaires sont récemment apparues dans le métro et ont pour

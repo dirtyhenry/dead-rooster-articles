@@ -12,6 +12,7 @@ comments:
     title: Le mariage est périssable
     content:
       Oui et puis passé 50 ans en plus, on est plus à l'abri d'un accident…
+cover: madonna.jpg
 ---
 
 Madonna et Guy Ritchie divorcent. Outre la tristesse intrinsèque de cette

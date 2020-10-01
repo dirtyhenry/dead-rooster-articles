@@ -5,6 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 440
 date: "2008-03-20 13:13:00 +0100"
+cover: crowd.jpg
 ---
 
 Raymond Domenech a sélectionné 39 joueurs pour 2 matches amicaux la semaine

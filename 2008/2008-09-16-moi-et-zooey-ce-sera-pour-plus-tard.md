@@ -5,6 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 467
 date: "2008-09-16 11:58:00 +0200"
+cover: she-and-him.jpg
 ---
 
 She & Him a décommandé. Le groupe ne sera pas de la partie au festival des

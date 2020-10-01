@@ -10,6 +10,7 @@ categories:
 tags:
   - Soledad Brothers
   - Cut In The Hill Gang
+cover: cut-in-the-hill-gang.jpg
 ---
 
 Les Soledad Brothers étaient déjà le secret le mieux gardé des années 2000.

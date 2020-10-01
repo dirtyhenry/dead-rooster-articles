@@ -5,6 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 465
 date: "2008-09-09 08:48:00 +0200"
+cover: guillotine.jpg
 ---
 
 Un match et une défaite. Voilà le "bilan catastrophique" de Domenech en ce début

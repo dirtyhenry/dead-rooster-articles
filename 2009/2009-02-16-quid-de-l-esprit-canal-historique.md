@@ -11,6 +11,7 @@ comments:
     date: "2009-02-16 15:12:00 +0100"
     title: Quid de l'esprit canal historique ?
     content: Dirty Henry fait des jeux de mots acronymiques. Le monde va mal !
+cover: philippe-gildas.jpg
 ---
 
 Philippe Gildas a enfin un successeur : Olivier Besancenot relance NPA ! Mais la

@@ -4,6 +4,7 @@ title: La France au fond du trou
 authors:
   - Dirty Henry
 wordpress_id: 438
+cover: basile-boli.jpg
 date: "2008-03-12 19:53:00 +0100"
 ---
 

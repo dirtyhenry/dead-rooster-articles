@@ -5,6 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 457
 date: "2008-08-20 08:09:00 +0200"
+cover: magnetophone.jpg
 ---
 
 Alors que Bono écoutait tranquillement les nouveaux titres de U2 chez lui, un

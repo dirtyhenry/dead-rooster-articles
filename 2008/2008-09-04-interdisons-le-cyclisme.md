@@ -5,6 +5,7 @@ authors:
   - Joe Gantdelaine
 wordpress_id: 462
 date: "2008-09-04 16:26:00 +0200"
+cover: velo-casse.jpg
 ---
 
 Déjà au niveau zéro de la crédibilité pour cause de dopage généralisé, les

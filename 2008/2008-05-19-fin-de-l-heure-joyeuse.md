@@ -5,6 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 445
 date: "2008-05-19 08:24:00 +0200"
+cover: pinte-de-biere.jpg
 ---
 
 Le gouvernement travaillerait à interdire les happy hours dans les bars. Le

@@ -5,6 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 458
 date: "2008-08-20 12:12:00 +0200"
+cover: djibrill-cisse-swag.jpg
 ---
 
 Cissé affirmait depuis quelques temps qu'il souhaitait quitter l'OM, qualifié
