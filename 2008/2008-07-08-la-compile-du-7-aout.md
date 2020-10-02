@@ -15,14 +15,19 @@ tags:
   - Herman Düne
 ---
 
--# Herman Düne - _Seven Cities_ -# Eels - _Hey Man (Now, You're Really Living)_
--# Of Montreal - _A Sentence of Sorts in Kongsvinger_ -# Johnny Cash - _Ballad
-of a Teenage Queen_ -# Creedence Clearwater Revival - _Cotton Fields_ -# The
-Black Keys - *The Lengths\*\* -# Isobel Campbell & Mark Lanegan - *Ramblin' Man*
--# Sly and the Family Stone - *Runnin' Away* -# Marvin Gaye - *Once Upon a Time*
--# Fountains of Wayne - *Planet of Weed* -# Jason Falkner - *This Time\** -#
-Just Jack - *Writer's Block\*
+1. Herman Düne - _Seven Cities_
+1. Eels - _Hey Man (Now, You're Really Living)_
+1. Of Montreal - _A Sentence of Sorts in Kongsvinger_
+1. Johnny Cash - _Ballad of a Teenage Queen_
+1. Creedence Clearwater Revival - _Cotton Fields_
+1. The Black Keys - *The Lengths*🔇
+1. Isobel Campbell & Mark Lanegan - _Ramblin' Man_
+1. Sly and the Family Stone - _Runnin' Away_
+1. Marvin Gaye - _Once Upon a Time_
+1. Fountains of Wayne - _Planet of Weed_
+1. Jason Falkner - *This Time*🔇
+1. Just Jack - _Writer's Block_
 
-[Ecouter la compile sur Spotify ](http://open.spotify.com/user/guiguilele/playlist/5ZO0DMFEXTssWLRooaL20C)
+{% spotify 5ZO0DMFEXTssWLRooaL20C %}
 
-les titres avec astérisque sont indisponibles
+_NB : les titres avec 🔇 sont indisponibles._
