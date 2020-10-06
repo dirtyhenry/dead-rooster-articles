@@ -12,6 +12,7 @@ categories:
   - Artistes
 tags:
   - Dum Dum Girls
+cover: dum-dum-girls.png
 ---
 
 ## Dum Dum Girls - _Jail La La_

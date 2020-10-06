@@ -13,6 +13,7 @@ categories:
   - Artistes
 tags:
   - Blur
+cover: blur-vinyl.png
 ---
 
 Bientôt [un an après leur reformation pour une courte tournée festivale](514],

@@ -13,6 +13,7 @@ categories:
   - Catégories
 tags:
   - Cinéma
+cover: faux-raccord.png
 ---
 
 Depuis une dizaine de semaines, Allociné propose une émission bien marrante :

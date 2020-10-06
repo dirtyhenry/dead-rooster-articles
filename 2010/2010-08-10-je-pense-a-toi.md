@@ -14,9 +14,8 @@ tags:
   - Concours Katerine
 ---
 
-La reprise de **Katerine, Francis et ses peintres** de la semaine est
-[_Je pense à toi_](http://www.katerinefrancisetsespeintres.com/pense.html)
-d'Amadou & Mariam.
+La reprise de **Katerine, Francis et ses peintres** de la semaine est _Je pense
+à toi_ d'Amadou & Mariam.
 
 L'originale :
 
@@ -30,6 +29,3 @@ Pas de changement au classement :
 - 8. Le reste du monde à 0 pt
 
 Il est encore temps de participer en [cliquant ici](569) !
-
-Toutes les reprises sont disponibles sur
-[le site de Katerine, Francis et ses peintres](http://www.katerinefrancisetsespeintres.com/)…

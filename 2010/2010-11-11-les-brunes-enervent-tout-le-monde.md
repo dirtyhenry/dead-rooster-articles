@@ -20,31 +20,26 @@ Quatre semaines de Katerine à rattraper d'un coup…
 
 ### 42. _Les brunes comptent pas des brunes_ de Lio
 
-Alors que tout le monde s'attendait à Banana Split… La reprise de Katerine est
-[ici](http://www.katerinefrancisetsespeintres.com/brunes.html). Une version VHS
-un peu pourrie de l'originale :
+Alors que tout le monde s'attendait à Banana Split… Une version VHS un peu
+pourrie de l'originale :
 
 {% youtube Fdu4jmtzb-8 %}
 
 ### 43. _Ca m'énerve_ d'Helmut Fritz
 
-La reprise de Katerine est
-[ici](http://www.katerinefrancisetsespeintres.com/enerve.html). L'originale :
+L'originale :
 
 {% youtube iLv-LEO178c %}
 
 ### 44. _Tout le monde le fait_ d'Ophélie Winter
 
-Chanson totalement inconnue au bataillon… La reprise de Katerine est
-[ici](http://www.katerinefrancisetsespeintres.com/monde.html). L'originale :
+Chanson totalement inconnue au bataillon… L'originale :
 
 {% youtube cGGp54buqlw %}
 
 ### 45. _Toute la pluie tombe sur moi_ de Sasha Distel
 
-La reprise de Katerine est
-[ici](http://www.katerinefrancisetsespeintres.com/pluie.html). La version
-française originale, par le prince Sasha :
+La version française originale, par le prince Sasha :
 
 {% youtube p_GZXN6porg %}
 
@@ -63,6 +58,3 @@ Personne ne marque de point.
 - 9. Le reste du monde à 0 pt
 
 Il est encore temps de participer en [cliquant ici](569) !
-
-Toutes les reprises sont disponibles sur
-[le site de Katerine, Francis et ses peintres](http://www.katerinefrancisetsespeintres.com/)…

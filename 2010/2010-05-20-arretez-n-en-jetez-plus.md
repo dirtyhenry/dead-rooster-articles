@@ -14,8 +14,9 @@ categories:
   - Catégories
 tags:
   - Nouvel album
+cover: lots-of-records.jpg
 ---
 
-{_Eels_} annonce fièrement la sortie d'un nouvel album, intitulé _Tomorrow
+**Eels** annonce fièrement la sortie d'un nouvel album, intitulé _Tomorrow
 Morning_, pour la fin août…Ce n'est que le troisième disque en à peine plus de
 12 mois ! Prince et ses quadruples albums bimensuels n'ont qu'à bien se tenir !

@@ -14,14 +14,15 @@ tags:
   - Nouvel album
 ---
 
-{_Corin Tucker_}, l'ex-leader de Sleater-Kinney, publiera son 1er album solo le
+**Corin Tucker**, l'ex-leader de Sleater-Kinney, publiera son 1er album solo le
 5 octobre prochain.
 
-De quoi [se remettre les oreilles dans les disques de feu-Sleater-Kinney](314],
-mais aussi sur les collaborations déjà publiées de Corin [avec Blue Giant, qui
-est bien mais pas
-top.->http://pitchfork.com/news/39041-hear-blue-giants-corin-tucker-collab/).
+De quoi [se remettre les oreilles dans les disques de feu-Sleater-Kinney][i1],
+mais aussi sur les collaborations déjà publiées de Corin
+[avec Blue Giant, qui est bien mais pas top.](http://pitchfork.com/news/39041-hear-blue-giants-corin-tucker-collab/).
 
 {% youtube FbmZi_VS4ZM %}
 
-[Photo sous licence Creative Commons BY ND par **sarae** ](http://www.flickr.com/photos/sarae/234801351/)
+[Photo sous licence Creative Commons BY ND par **sarae**](http://www.flickr.com/photos/sarae/234801351/)
+
+[i1]: {% post_url 2006/2006-05-23-sleater-kinney-nouveau-casino %}

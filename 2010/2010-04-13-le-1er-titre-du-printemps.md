@@ -8,6 +8,7 @@ authors:
   - Dirty Henry
 wordpress_id: 594
 date: "2010-04-13 11:21:12 +0200"
+cover: freelance-whales.jpg
 ---
 
 {% youtube CnXl_4YoAeM %}

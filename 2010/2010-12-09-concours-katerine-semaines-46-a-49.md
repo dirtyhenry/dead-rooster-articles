@@ -23,38 +23,34 @@ Faisons le point sur les 4 dernières semaines.
 
 Le groupe vient d'annoncer des dates de concert à partir de mars 2011. Paris,
 Poitiers, Nantes et d'autres sont au programme.
-[Le détail complet est ici](http://www.katerinefrancisetsespeintres.com/concerts.html).
 
 ## Les chansons des 4 dernières semaines
 
 ### 46. _DJ_ de Diam's
 
-[Katerine veut qu'on le laisse kiffer la vibes avec son mec](http://www.katerinefrancisetsespeintres.com/dj.html).
-L'originale :
+Katerine veut qu'on le laisse kiffer la vibes avec son mec. L'originale :
 
 {% youtube vXQrZQ5IHfc %}
 
 ### 47. _Le cimetière des éléphants_ d'Eddy Mitchell
 
-Chanson presque inconnue mais
-[reprise poignante (hum)](http://www.katerinefrancisetsespeintres.com/elephants.html).
-Tant pis pour la fille aux yeux menthe à l'eau. Chantée par le maître Eddy :
+Chanson presque inconnue mais reprise poignante (hum). Tant pis pour la fille
+aux yeux menthe à l'eau. Chantée par le maître Eddy :
 
 {% dailymotion x4hq81 %}
 
 ### 48. _Un lapin_ de Chantal Goya
 
-Ce matin, un lapin a tué un chasseur.
-[Katerine chante la révolution ici](http://www.katerinefrancisetsespeintres.com/lapin.html).
-Fais chauffer le fusil Chantal !
+Ce matin, un lapin a tué un chasseur. Katerine chante la révolution. Fais
+chauffer le fusil Chantal !
 
 {% youtube PsJtoVBhmbw %}
 
 ### 49. _Double Je_ de Christophe Willem
 
-[Une de mes préférées depuis le début de l'année](http://www.katerinefrancisetsespeintres.com/double.html).
-A noter que les paroles sont co-signées par le fils de Jean Schultheiss, déjà
-mis à l'honneur par Katerine sur _Confidence pour Confidence_. L'originale :
+Une de mes préférées depuis le début de l'année. A noter que les paroles sont
+co-signées par le fils de Jean Schultheiss, déjà mis à l'honneur par Katerine
+sur _Confidence pour Confidence_. L'originale :
 
 {% youtube Xe8QjHpYE1E %}
 
@@ -69,6 +65,3 @@ Personne ne marque de point.
 
 Il est encore temps de participer - mais faut quand même se dêpécher et faire
 une croix sur la 1ère place - en [cliquant ici](569) !
-
-Toutes les reprises sont disponibles sur
-[le site de Katerine, Francis et ses peintres](http://www.katerinefrancisetsespeintres.com/)…

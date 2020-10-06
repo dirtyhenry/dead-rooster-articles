@@ -17,8 +17,7 @@ tags:
 ---
 
 La reprise de la semaine de **Katerine, Francis et ses peintres** est
-[_Déshabillez-moi_](http://www.katerinefrancisetsespeintres.com/28.html), de
-Juliette Gréco.
+_Déshabillez-moi_, de Juliette Gréco.
 
 L'originale :
 
@@ -39,6 +38,3 @@ Banane_, pour qui la vie se résume à manger des bananes tout nu sur la plage. 
 programme politique fort !
 
 {% youtube XuOSwppg8rc %}
-
-Toutes les reprises sont disponibles sur
-[le site de Katerine, Francis et ses peintres](http://www.katerinefrancisetsespeintres.com/)…

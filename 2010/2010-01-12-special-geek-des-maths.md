@@ -9,6 +9,7 @@ categories:
   - Artistes
 tags:
   - The Rolling Stones
+cover: ron-wood.jpg
 ---
 
 Ron Wood, 62 ans, vient de pécho un mannequin de 26 ans. C'est donc comme ça que

@@ -8,6 +8,7 @@ authors:
   - Dirty Henry
 wordpress_id: 605
 date: "2010-04-28 23:03:00 +0200"
+cover: the-press-master.jpg
 ---
 
 Au début ce que j'aimais bien de ce groupe de Brooklyn, **The Press**, c'était

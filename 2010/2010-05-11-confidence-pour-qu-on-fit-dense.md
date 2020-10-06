@@ -14,11 +14,11 @@ categories:
 tags:
   - Concours Katerine
   - Katerine
+cover: jean-schultheis.jpg
 ---
 
 Cette semaine, la reprise de **Katerine, Francis et ses peintres** est
-[_Confidence pour Confidence_](http://www.katerinefrancisetsespeintres.com/19.html),
-de Jean Schultheis.
+_Confidence pour Confidence_, de Jean Schultheis.
 
 L'originale est ici (ne vous fiez pas à la vidéo, c'est moi qui ai la bonne
 orthographe de Schultheis,
@@ -38,6 +38,3 @@ Loïc l'a trouvé en deuz et marque 4 points :
 - 7. Le reste du monde à 0 pt
 
 Il est encore temps de participer en [cliquant ici](569) !
-
-Toutes les reprises sont disponibles sur
-[le site de Katerine, Francis et ses peintres](http://www.katerinefrancisetsespeintres.com/)…

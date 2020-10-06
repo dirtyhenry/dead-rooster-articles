@@ -5,6 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 553
 date: "2009-12-09 13:44:42 +0100"
+cover: club-dorothee.jpg
 ---
 
 Dorothée va faire son retour sur scène en 2010. Pendant ce temps là, les

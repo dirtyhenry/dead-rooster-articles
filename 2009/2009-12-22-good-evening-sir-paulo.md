@@ -9,6 +9,7 @@ categories:
   - Artistes
 tags:
   - The Beatles
+cover: paul-mc-cartney.jpg
 ---
 
 2009 fut une année Beatles. Comme tous les ans depuis 1960, d'accord et merci
@@ -19,7 +20,7 @@ que le _Good Evening Tour_ de **Paul McCartney** qu'il est, je pense, inutile et
 insultant de présenter. Le 10 décembre dernier, la tournée passait à Paris, au
 Palais Omnisports de Bercy. J'y allai.
 
-A peine le temps de prendre ses marques dans la salle et de commander une pinte
+À peine le temps de prendre ses marques dans la salle et de commander une pinte
 à 7 euros, d'admirer le diaporama en fond de scène (Paulo et Linda, Paulo et les
 Beatles, Paulo tout seul, Paulo et Linda, etc.) et de se lasser des dispensables
 reprises des Beatles sensées nous faire patienter (encore une fois et jusqu'à
@@ -51,14 +52,12 @@ diffuse sur chaque titre une nouvelle séquence. Si la plupart du temps,
 vidéos/photos se succèdent, quelques passages remarquables sont à noter.
 
 Tout d'abord la vidéo extraite de Guitar Hero a l'air de choquer autour de moi
-et
-[sur le web](http://www.soul-kitchen.fr/9156-photos-concert-paul-mc-cartney-enflamme-bercy/)…
-Pas moi. D'un point de vue esthétique, la vidéo est très réussie et reste fidèle
-à l'atmosphère visuelle des Beatles (voir le temps passer sur les
-représentations 3D des quatre de Liverpool, faisant évoluer coiffures et
-vêtements de 1960 à 1969 donne toujours envie d'être né 30 ans plus tôt). D'un
-point de vue éthique, je suis peut-être naïf, passif ou un peu con, mais je n'ai
-pas trouvé de message commercial agressif.
+et [sur le web][1]… Pas moi. D'un point de vue esthétique, la vidéo est très
+réussie et reste fidèle à l'atmosphère visuelle des Beatles (voir le temps
+passer sur les représentations 3D des quatre de Liverpool, faisant évoluer
+coiffures et vêtements de 1960 à 1969 donne toujours envie d'être né 30 ans plus
+tôt). D'un point de vue éthique, je suis peut-être naïf, passif ou un peu con,
+mais je n'ai pas trouvé de message commercial agressif.
 
 Autre extrait vidéo qui m'a laissé beaucoup plus circonspect : la diffusion du
 trailer de _Everybody's fine_, film pour lequel Macca a écrit un titre. La vidéo
@@ -74,12 +73,11 @@ c'est parfait ainsi).
 
 On parle, on parle, mais on en est déjà à une quinzaine de titres de joués et il
 serait temps de commencer à envoyer du bois là. Pas de panique, c'est prévu. A
-partir de _Michelle_, Paulo et sa bande vont enchaîner une
-[trackliste](http://paulmccartney.forumactif.com/good-evening-paris-set-list-soundcheck-petite-review-n3056.htm)
-de rêve composée de certains des meilleurs titres des Beatles chantés par Macca
-en version originale (sauf _Something_ et _A Day In The Life_, enchaîné avec
-_Give Peace A Chance_, de Lennon) et ceux de son après-Beatles (les excellents
-_Band On The Run_ et _Live And Let Die_).
+partir de _Michelle_, Paulo et sa bande vont enchaîner une [trackliste][2] de
+rêve composée de certains des meilleurs titres des Beatles chantés par Macca en
+version originale (sauf _Something_ et _A Day In The Life_, enchaîné avec _Give
+Peace A Chance_, de Lennon) et ceux de son après-Beatles (les excellents _Band
+On The Run_ et _Live And Let Die_).
 
 Tout est presque parfait : à part quelques fautes de goût du blond et du brun,
 qui jouent leurs solos comme dans un jeu vidéo de bagnoles, même sur _Let It
@@ -104,3 +102,8 @@ salle en criant :
 > Good Evening Sir Paul McCartney
 
 Photos : (c) [Arnaud Compagne](www.arnaudcompagne.com)
+
+[1]:
+  http://www.soul-kitchen.fr/9156-photos-concert-paul-mc-cartney-enflamme-bercy/
+[2]:
+  http://paulmccartney.forumactif.com/good-evening-paris-set-list-soundcheck-petite-review-n3056.htm

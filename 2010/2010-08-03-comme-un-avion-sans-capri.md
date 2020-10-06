@@ -16,11 +16,8 @@ tags:
 ---
 
 Les reprises de **Katerine, Francis et ses peintres** des deux dernières
-semaines sont [*Capri c'est
-fini*](http://www.katerinefrancisetsespeintres.com/capri.html] d'Hervé Vilard et
-[_Comme un avion sans
-aile_->http://www.katerinefrancisetsespeintres.com/avion.html) de Charlélie
-Couture.
+semaines sont _Capri c'est fini_ d'Hervé Vilard et _Comme un avion sans aile_ de
+Charlélie Couture.
 
 Les originales :
 
@@ -36,6 +33,3 @@ Une fois encore, comment est-il possible que personne n'y ait pensé ?
 - 8. Le reste du monde à 0 pt
 
 Il est encore temps de participer en [cliquant ici](569) !
-
-Toutes les reprises sont disponibles sur
-[le site de Katerine, Francis et ses peintres](http://www.katerinefrancisetsespeintres.com/)…

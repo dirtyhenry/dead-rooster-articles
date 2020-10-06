@@ -9,6 +9,7 @@ categories:
   - Artistes
 tags:
   - The Who
+cover: dessin-enfants-balancoire.jpg
 ---
 
 Une association de protection de l'enfance veut empêcher The Who de jouer à la

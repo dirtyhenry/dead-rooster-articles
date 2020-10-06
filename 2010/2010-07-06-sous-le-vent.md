@@ -14,9 +14,8 @@ tags:
   - Concours Katerine
 ---
 
-La reprise de la semaine de **Katerine, Francis et ses peintres** est
-[_Sous le vent_](http://www.katerinefrancisetsespeintres.com/27.html), de Garou
-et Céline Dion.
+La reprise de la semaine de **Katerine, Francis et ses peintres** est _Sous le
+vent_, de Garou et Céline Dion.
 
 Le choix de l'originale est discutable, hein, mais bon, c'est la tradition, la
 voilà jouée chez Drucker :
@@ -31,6 +30,3 @@ Comme depuis un moment, pas de changement au classement :
 - 7. Le reste du monde à 0 pt
 
 Il est encore temps de participer en [cliquant ici](569) !
-
-Toutes les reprises sont disponibles sur
-[le site de Katerine, Francis et ses peintres](http://www.katerinefrancisetsespeintres.com/)…

@@ -36,23 +36,20 @@ et en live et en kilt ça donne…
 
 ### 39. _Les yeux de ma mère_ d'Arno
 
-La reprise de Katerine est
-[ici](http://www.katerinefrancisetsespeintres.com/mere.html). Une version live
-d'Arno, qui fait pleurer les copains, Dechavanne, Arditi et Eve Angeli :
+Une version live d'Arno, qui fait pleurer les copains, Dechavanne, Arditi et Eve
+Angeli :
 
 {% youtube 2rrYrTQUlY0 %}
 
 ### 40. _Chacun fait (c'qui lui plaît)_ de Chagrun d'Amour
 
-La reprise de Katerine est
-[ici](http://www.katerinefrancisetsespeintres.com/chacun.html). L'originale :
+L'originale :
 
 {% youtube lQ1aSVPuAug %}
 
 ### 41. _Oh Oh Chéri_ de Françoise Hary
 
-La reprise de Katerine est
-[ici](http://www.katerinefrancisetsespeintres.com/cheri.html). L'originale :
+L'originale :
 
 {% youtube Sy7QglZfKHo %}
 
@@ -67,6 +64,3 @@ choisi "Chacun fait …" en deuz et marque donc 4 points :
 - 9. Le reste du monde à 0 pt
 
 <strike>Il est encore temps de participer en [cliquant ici](569) !</strike>
-
-Toutes les reprises sont disponibles sur
-[le site de Katerine, Francis et ses peintres](http://www.katerinefrancisetsespeintres.com/)…

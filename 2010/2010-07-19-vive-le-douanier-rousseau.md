@@ -16,9 +16,8 @@ tags:
   - Katerine
 ---
 
-La reprise de la semaine de **Katerine, Francis et ses peintres** est
-[_Vive le Douanier Rousseau_](http://www.katerinefrancisetsespeintres.com/29.html),
-de la Compagnie Créole.
+La reprise de la semaine de **Katerine, Francis et ses peintres** est _Vive le
+Douanier Rousseau_, de la Compagnie Créole.
 
 L'originale en version Karaoké :
 
@@ -32,6 +31,3 @@ Comment est-il possible que personne n'y ait pensé ?
 - 8. Le reste du monde à 0 pt
 
 Il est encore temps de participer en [cliquant ici](569) !
-
-Toutes les reprises sont disponibles sur
-[le site de Katerine, Francis et ses peintres](http://www.katerinefrancisetsespeintres.com/)…

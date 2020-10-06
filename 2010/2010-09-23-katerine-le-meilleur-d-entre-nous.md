@@ -47,26 +47,21 @@ losers.
 
 ### 36. _L'idole des jeunes_ de Johnny Hallyday
 
-La reprise de Katerine est
-[ici](http://www.katerinefrancisetsespeintres.com/idole.html). L'originale :
+L'originale :
 
 {% dailymotion xuh8q %}
 
 ### 37. _Elle est d'ailleurs_ de Pierre Bachelet
 
-La reprise de Katerine est
-[ici](http://www.katerinefrancisetsespeintres.com/ailleurs.html). Une version
-live :
+Une version live :
 
 {% youtube H28JwoGQfBU %}
 
 ### 38. _Il est vraiment phénomènal_ de Phenomenal Club (?)
 
-La reprise de Katerine est
-[ici](http://www.katerinefrancisetsespeintres.com/vraiment.html). Je ne sais pas
-vraiment si cette chanson a un auteur officiel, mais en tout cas, cette version
-live à _40° à l'ombre_ par un groupe baptisé Phenomenal Club est de toute beauté
-:
+Je ne sais pas vraiment si cette chanson a un auteur officiel, mais en tout cas,
+cette version live à _40° à l'ombre_ par un groupe baptisé Phenomenal Club est
+de toute beauté :
 
 {% youtube X4cD1w10x_M %}
 
@@ -80,6 +75,3 @@ Je le disais, pas de changement au classement :
 - 8. Le reste du monde à 0 pt
 
 Il est encore temps de participer en [cliquant ici](569) !
-
-Toutes les reprises sont disponibles sur
-[le site de Katerine, Francis et ses peintres](http://www.katerinefrancisetsespeintres.com/)…

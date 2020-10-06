@@ -12,14 +12,17 @@ categories:
 tags:
   - Single
   - The Black Keys
+cover: chien-dinosaure.jpg
 ---
 
 Le nouvel album débarque le 18 mai. En attendant, les **Black Keys** se marrent
-bien et nous aussi, avec les clips des deux premiers titres issus de _Brothers_
-: [Tighten Up](http://www.youtube.com/watch?v=DNXwicxlsvI] et [Next
-Girl->http://www.youtube.com/watch?v=x_PrT25o8Vs). Frank est fun(ky) et les
-filles, euh…jolies !
+bien et nous aussi, avec les clips des deux premiers titres issus de
+*Brothers* : [Tighten Up][1] et [Next Girl][2]. Frank est fun(ky) et les filles,
+euh… jolies !
 
 {% youtube mpaPBCBjSVc %}
 
 {% youtube x_PrT25o8Vs %}
+
+[1]: https://youtu.be/DNXwicxlsvI
+[2]: https://youtu.be/x_PrT25o8Vs

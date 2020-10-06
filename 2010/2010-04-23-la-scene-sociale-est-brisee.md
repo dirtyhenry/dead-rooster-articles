@@ -6,6 +6,7 @@ authors:
   - Joe Gantdelaine
 wordpress_id: 600
 date: "2010-04-23 14:51:47 +0200"
+cover: broken-social-scene.jpg
 ---
 
 On n'avait jamais trop fait cas encore des canadiens de **Broken Social Scene**.
