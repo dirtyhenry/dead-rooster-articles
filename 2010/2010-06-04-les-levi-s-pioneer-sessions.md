@@ -22,12 +22,13 @@ Levi's a récemment ouvert un site,
 deux fois par semaine, un artiste contemporain y offre une reprise d'un titre
 qui l'a inspiré au téléchargement.
 
-Au programme sont déjà passés [She &
-Him](http://www.levispioneersessions.com/artists/she-and-him/],
+Au programme sont déjà passés
+[She & Him](http://www.levispioneersessions.com/artists/she-and-him/),
 [Dirty Projectors](http://www.levispioneersessions.com/artists/dirty-projectors/)
-et [The Swell
-Season->http://www.levispioneersessions.com/artists/the-swell-season/) et les
-prochaines semaines annoncent entre autres The Shins, Passion Pit ou The Kills.
+et
+[The Swell Season](http://www.levispioneersessions.com/artists/the-swell-season/)
+et les prochaines semaines annoncent entre autres The Shins, Passion Pit ou The
+Kills.
 
 Photos et vidéos accompagnent chaque morceau, comme ici, avec celle de She & Him
 (tiens donc !) :

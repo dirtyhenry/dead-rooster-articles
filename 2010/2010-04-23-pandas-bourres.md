@@ -11,6 +11,8 @@ date: "2010-04-23 12:02:35 +0200"
 cover: lcd-soundsystem-drunk-girls.png
 ---
 
+{% youtube t5uTVqu0bXs %}
+
 **LCD Soundsystem**, sur scène, c'est génial de A à Z (ah, ce soir d'août à la
 route du rock 2007 !) mais en disque ça m'a toujours laissé circonspect : une
 collection de titres trop longs fait toujours un disque trop chiant
@@ -26,5 +28,3 @@ prouve qu'un disque de LCD Soundsystem qui respecterait les règles des canons
 discophiles deadroosteriens (c'est-à-dire entre 9 et 12 titres pour une durée
 totale de 32 à 36 minutes : le cahier des charges est assez précis) serait une
 tuerie…
-
-{% youtube qdRaf3-OEh4 %}
