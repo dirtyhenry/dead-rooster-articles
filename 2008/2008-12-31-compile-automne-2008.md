@@ -32,7 +32,7 @@ cover: compile-automne-2008.jpg
 1. Get Well Soon - _If This Hat Is Missing I Have Gone Hunting_ -# Serge
    Gainsbourg - _Initials B.B._
 
-{% 60Q0MuIcPyaQN70qTgOBax %}
+{% spotify 60Q0MuIcPyaQN70qTgOBax %}
 
 <small>les titres avec astérisque sont indisponibles</small>
 
