@@ -30,8 +30,7 @@ Dont acte également ! Mais par contre **il est interdit de jouer une chanson
 déjà jouée par soi-même ou un autre concurrent** (cf. chansons jouées en bas de
 page)</span>
 
-Le site
-[www.katerinefrancisetsespeintres.com](http://www.katerinefrancisetsespeintres.com/)
+Le site www.katerinefrancisetsespeintres.com (edit : le site n'existe plus ☹️)
 sera notre calendrier de l'avent 2010 : chaque lundi, on y découvre une nouvelle
 pépite de la chanson française, reprise par **Philippe Katerine** et le groupe
 **Francis et ses peintres**.

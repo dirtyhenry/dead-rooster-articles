@@ -16,9 +16,8 @@ tags:
   - Single
 ---
 
-La reprise de la semaine de **Katerine, Francis et ses peintres** est
-[_Toi mon toit_](http://www.katerinefrancisetsespeintres.com/25.html), de Elli
-Medeiros.
+La reprise de la semaine de **Katerine, Francis et ses peintres** est _Toi mon
+toit_, de Elli Medeiros.
 
 L'originale suit, comme d'habitude, mais d'abord, profitons également du nouveau
 titre du prochain album de Katerine, _Bla Bla Bla_, diffusé cette semaine
@@ -39,6 +38,3 @@ Encore une fois, personne ne l'avait pronostiqué et le classement reste inchang
 - 7. Le reste du monde à 0 pt
 
 Il est encore temps de participer en [cliquant ici](569) !
-
-Toutes les reprises sont disponibles sur
-[le site de Katerine, Francis et ses peintres](http://www.katerinefrancisetsespeintres.com/)…

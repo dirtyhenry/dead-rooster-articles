@@ -15,9 +15,8 @@ tags:
 cover: mouton-irlandais.jpg
 ---
 
-Cette semaine, la reprise de **Katerine, Francis et ses peintres** est
-[_Balade Irlandaise_](http://www.katerinefrancisetsespeintres.com/15.html), de
-Bourvil.
+Cette semaine, la reprise de **Katerine, Francis et ses peintres** est _Balade
+Irlandaise_, de Bourvil.
 
 Voilà la version originale :
 
@@ -32,9 +31,6 @@ sur la 3ème marche du podium :
 - 4. Le reste du monde à 0 pt
 
 Il est encore temps de participer en [cliquant ici](569) !
-
-Toutes les reprises sont disponibles sur
-[le site de Katerine, Francis et ses peintres](http://www.katerinefrancisetsespeintres.com/)…
 
 Photo : [Thomas Faivre-Duboz](http://www.flickr.com/photos/tfa/) // licensed
 under a

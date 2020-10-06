@@ -19,20 +19,14 @@ tags:
 ---
 
 Les reprises des deux dernières semaines de **Katerine, Francis et ses
-peintres** sont
-[*Sympathique*](http://www.katerinefrancisetsespeintres.com/21.html], de Pink
-Martini (aka _Je ne veux pas travailler_) et [_Ma
-Benz_->http://www.katerinefrancisetsespeintres.com/22.html) de NTM..
+peintres** sont _Sympathique_, de Pink Martini (aka _Je ne veux pas travailler_)
+et _Ma Benz_ de NTM..
 
 Les originales :
 
-<p>
 {% youtube satMi-rws1A %}
-</p>
 
-<p>
 {% youtube LqCWcuceCUE %}
-</p>
 
 Personne n'avait pronostiqué ces deux titres. Le classement reste inchangé !
 
@@ -42,6 +36,3 @@ Personne n'avait pronostiqué ces deux titres. Le classement reste inchangé !
 - 7. Le reste du monde à 0 pt
 
 Il est encore temps de participer en [cliquant ici](569) !
-
-Toutes les reprises sont disponibles sur
-[le site de Katerine, Francis et ses peintres](http://www.katerinefrancisetsespeintres.com/)…

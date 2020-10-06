@@ -15,9 +15,8 @@ tags:
 cover: pierre-vassiliu-qui-c-est-celui-la.jpg
 ---
 
-Cette semaine, la reprise de **Katerine, Francis et ses peintres** est
-[_Qui c'est celui là ?_](http://www.katerinefrancisetsespeintres.com/20.html),
-de Pierre Vassiliu.
+Cette semaine, la reprise de **Katerine, Francis et ses peintres** est _Qui
+c'est celui là ?_, de Pierre Vassiliu.
 
 L'originale est ici :
 
@@ -37,6 +36,3 @@ une nouvelle fois, qu'Hervé doit être dans la sphère du projet de Katerine.
 - 7. Le reste du monde à 0 pt
 
 Il est encore temps de participer en [cliquant ici](569) !
-
-Toutes les reprises sont disponibles sur
-[le site de Katerine, Francis et ses peintres](http://www.katerinefrancisetsespeintres.com/)…

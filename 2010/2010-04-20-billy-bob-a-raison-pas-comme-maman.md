@@ -15,9 +15,8 @@ tags:
 cover: mylene-farmer-maman-a-tort.jpg
 ---
 
-Cette semaine, la reprise de **Katerine, Francis et ses peintres** est
-[_Maman a tort_](http://www.katerinefrancisetsespeintres.com/16.html), de Mylène
-Farmer.
+Cette semaine, la reprise de **Katerine, Francis et ses peintres** est _Maman a
+tort_, de Mylène Farmer.
 
 Devant un public en folie, Mylène Farmer l'interprète dans ce que je soupçonne
 être un playback dans la vidéo qui suit, une belle page de variéte qui montre de
@@ -35,6 +34,3 @@ points chacun :
 - 5. Le reste du monde à 0 pt
 
 Il est encore temps de participer en [cliquant ici](569) !
-
-Toutes les reprises sont disponibles sur
-[le site de Katerine, Francis et ses peintres](http://www.katerinefrancisetsespeintres.com/)…
