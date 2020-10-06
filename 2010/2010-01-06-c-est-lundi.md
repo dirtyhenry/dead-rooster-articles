@@ -9,6 +9,7 @@ categories:
   - Artistes
 tags:
   - Katerine
+cover: jesse-garon.jpg
 ---
 
 …et c'est jour de fête pour Katerine, qui s'offre

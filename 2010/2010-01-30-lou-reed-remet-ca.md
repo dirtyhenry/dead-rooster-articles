@@ -5,6 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 567
 date: "2010-01-30 13:05:06 +0100"
+cover: psychose-hitchcock-douche.jpg
 ---
 
 Lou Reed réédite Metal Machine Music et va le jouer en tournée (en avril à

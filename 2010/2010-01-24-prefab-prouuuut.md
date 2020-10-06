@@ -16,6 +16,7 @@ categories:
   - Catégories
 tags:
   - Albums
+cover: steve-mc-queen.jpg
 ---
 
 Il y a quand même un truc bizarre. Alors qu'on entend encore et toujours des

@@ -9,6 +9,7 @@ categories:
   - Artistes
 tags:
   - Zooey Deschanel
+cover: zooey-deschanel-blonde.jpg
 ---
 
 La blonde sur la photo là, voyez ? Il paraît que c'est

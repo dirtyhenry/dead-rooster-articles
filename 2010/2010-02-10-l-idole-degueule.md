@@ -5,6 +5,7 @@ authors:
   - Joe Gantdelaine
 wordpress_id: 570
 date: "2010-02-10 23:37:28 +0100"
+cover: toilettes-cassees.jpg
 ---
 
 Alors comme ça,

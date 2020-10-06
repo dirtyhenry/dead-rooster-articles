@@ -72,6 +72,7 @@ comments:
     date: "2013-02-12 11:41:57 +0100"
     title: Producteur inconnu
     content: Non juste ultra de fan de Jason Falkner  ;)
+cover: william-faulkner.png
 ---
 
 En ces temps de "best of", de "meilleur de 2009", de "top five" et autre "top of

@@ -5,6 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 547
 date: "2009-11-16 14:25:35 +0100"
+cover: dracula.jpg
 ---
 
 Dacre Stoker, ancien coach de l'équipe du Canada de Pentathlon, a donné une

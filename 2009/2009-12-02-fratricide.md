@@ -9,9 +9,13 @@ categories:
   - Artistes
 tags:
   - Oasis
+cover: oasis-liam-gallagher.jpg
 ---
 
-Liam Gallagher a annoncé que
-[malgré le départ du groupe de Noel, il a l'intention de publier de nouveaux disques sous le nom d'Oasis](http://www.thetripwire.com/news/2009/12/01/liam-gallagher-disrespects-his-bro-some-more-to-continue-recording-as-oasis).
-Du coup, Ringo Starr va sûrement se mettre à tourner sous le nom des Beatles… Le
-monde va mal !
+Liam Gallagher a annoncé que [malgré le départ du groupe de Noel, il a
+l'intention de publier de nouveaux disques sous le nom d'Oasis][1]. Du coup,
+Ringo Starr va sûrement se mettre à tourner sous le nom des Beatles… Le monde va
+mal !
+
+[1]:
+  http://www.thetripwire.com/news/2009/12/01/liam-gallagher-disrespects-his-bro-some-more-to-continue-recording-as-oasis
