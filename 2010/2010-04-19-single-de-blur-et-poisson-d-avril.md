@@ -16,7 +16,7 @@ tags:
 cover: blur-vinyl.png
 ---
 
-Bientôt [un an après leur reformation pour une courte tournée festivale](514],
+Bientôt [un an après leur reformation pour une courte tournée festivale](514),
 **Blur** a enregistré un single à l'occasion du
 [Record Store Day](http://www.recordstoreday.com).
 

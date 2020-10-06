@@ -16,13 +16,13 @@ tags:
 cover: codeine-velvet-club.jpg
 ---
 
-{_Codeine Velvet Club_} est un groupe de Glasgow, qui prouve encore une fois que
+**Codeine Velvet Club** est un groupe de Glasgow, qui prouve encore une fois que
 c'est une des villes les plus cools du monde.
 
 Side-project d'un membre des Fratellis, il revisite le merveilleux titre des
 Stone Roses _I Am The Resurrection_ dans une version très Lee & Nancy.
 
-{% youtube qFMJ145mK1Q %}
+{% youtube IKyBm43uO_E %}
 
 Et l'originale des Stone Roses :
 

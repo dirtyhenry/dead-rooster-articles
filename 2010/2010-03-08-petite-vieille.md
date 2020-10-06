@@ -14,5 +14,3 @@ n'est toujours pas question de rééditer le DVD de _Dumb And Dumber_, avec [la
 scène où Jim Carrey hurle "petite vieille" !][1]. Le monde va mal !
 
 [1]: http://www.dailymotion.com/video/x7svjs_dumb-et-dumber-petite-vieille_fun
-
-s
