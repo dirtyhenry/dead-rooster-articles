@@ -12,6 +12,7 @@ categories:
   - Catégories
 tags:
   - Concours Katerine
+cover: ouate.jpg
 ---
 
 Cette semaine, la reprise de **Katerine, Francis et ses peintres** est

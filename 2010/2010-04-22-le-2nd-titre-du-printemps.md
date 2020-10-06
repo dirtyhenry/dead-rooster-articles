@@ -13,6 +13,7 @@ categories:
   - Catégories
 tags:
   - Reprise
+cover: codeine-velvet-club.jpg
 ---
 
 {_Codeine Velvet Club_} est un groupe de Glasgow, qui prouve encore une fois que

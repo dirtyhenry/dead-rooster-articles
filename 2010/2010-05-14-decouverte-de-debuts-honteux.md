@@ -12,6 +12,7 @@ categories:
   - Artistes
 tags:
   - Keren Ann
+cover: ford-shelby.jpg
 ---
 
 Quand on cherche l'actualité d'un artiste, en l'occurrence celle de **Keren

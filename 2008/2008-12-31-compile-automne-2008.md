@@ -13,19 +13,26 @@ tags:
   - She & Him
   - The Coral
   - The Raconteurs
+cover: compile-automne-2008.jpg
 ---
 
--# The Ronettes - _Be My Baby_[[version live uniquement]] -# The Coral - _Pass
-It On_ -# Oasis - _The Shock of the Lightning_ -# The Raconteurs - _Salute Your
-Solution_ -# Motorhead - _Ace of Spades_ -# Kaiser Chiefs - _Never Miss a Beat_
--# David McWilliams - _Days of Pearly Spencer_ -# She & Him - _I Thought I Saw
-Your Face Today_ -# Get Well Soon - _Prelude_ -# The Rolling Stones - _I'm
-Free_[[version live uniquement]] -# The Kings of Leon - _Sex on Fire_ -# Oasis -
-_I'm Outta Time_[[version "tribute" uniquement]] -# Sigur Rós - _Vid Spilum
-Endalaus_ -# Get Well Soon - _If This Hat Is Missing I Have Gone Hunting_ -#
-Serge Gainsbourg - _Initials B.B._
+1. The Ronettes - _Be My Baby_[[version live uniquement]]
+1. The Coral - _Pass It On_
+1. Oasis - _The Shock of the Lightning_
+1. The Raconteurs - _Salute Your Solution_
+1. Motorhead - _Ace of Spades_
+1. Kaiser Chiefs - _Never Miss a Beat_
+1. David McWilliams - _Days of Pearly Spencer_
+1. She & Him - _I Thought I Saw Your Face Today_
+1. Get Well Soon - _Prelude_
+1. The Rolling Stones - _I'm Free_[[version live uniquement]]
+1. The Kings of Leon - _Sex on Fire_
+1. Oasis - _I'm Outta Time_[[version "tribute" uniquement]]
+1. Sigur Rós - _Vid Spilum Endalaus_
+1. Get Well Soon - _If This Hat Is Missing I Have Gone Hunting_ -# Serge
+   Gainsbourg - _Initials B.B._
 
-[Ecouter la compile sur Spotify](http://open.spotify.com/user/dirtyhenry/playlist/60Q0MuIcPyaQN70qTgOBax)
+{% 60Q0MuIcPyaQN70qTgOBax %}
 
 <small>les titres avec astérisque sont indisponibles</small>
 

@@ -10,6 +10,8 @@ wordpress_id: 611
 date: "2010-05-06 16:34:39 +0200"
 ---
 
+{% youtube bxMCaU83QKs %}
+
 **The New Pornographers** est un _super-groupe_, c'est-à-dire super au sens
 "composé de membres qui ont tous un autre groupe par ailleurs" ([leur page
 Wikipedia en donne le détail][1]).
@@ -22,8 +24,6 @@ Vancouver.
 _Together_ (l'album) est ainsi sorti ce mardi et figurez vous que, si je croyais
 que c'était nul comme groupe, et bien le single, _Your Hands (Together)_, et le
 clip qui va avec, vont sans doute me faire reconsidérer leur cas :
-
-{% youtube bxMCaU83QKs %}
 
 [1]: https://fr.wikipedia.org/wiki/The_New_Pornographers
 [2]: https://fr.wikipedia.org/wiki/The_Good,_the_Bad_and_the_Queen

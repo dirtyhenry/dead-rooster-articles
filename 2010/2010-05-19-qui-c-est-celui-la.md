@@ -12,6 +12,7 @@ categories:
   - Catégories
 tags:
   - Concours Katerine
+cover: pierre-vassiliu-qui-c-est-celui-la.jpg
 ---
 
 Cette semaine, la reprise de **Katerine, Francis et ses peintres** est

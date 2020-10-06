@@ -8,9 +8,10 @@ authors:
   - Dirty Henry
 wordpress_id: 602
 date: "2010-04-26 10:53:21 +0200"
+cover: moustaches.png
 ---
 
-{% youtube POYWuNNRRf0 %}
+{% youtube weGKKoUT4oA %}
 
 Ne viendra-t-on donc jamais à bout des trésors cachés que les décennies passées
 ont dissimulé tels des œufs de Pâques numériques dans le jardin des autoroutes

@@ -14,6 +14,7 @@ categories:
 tags:
   - Concours Katerine
   - Katerine
+cover: jean-schultheis.jpg
 ---
 
 Cette semaine, la reprise de **Katerine, Francis et ses peintres** est

@@ -9,6 +9,7 @@ authors:
   - Joe Gantdelaine
 wordpress_id: 617
 date: "2010-05-14 22:15:16 +0200"
+cover: the-divine-comedy-bang-goes-the-knighthood.jpg
 ---
 
 Le nouvel album de **Divine Comedy**, intitulé _Bang Goes The Knightwood_, est

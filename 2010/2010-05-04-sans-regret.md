@@ -12,12 +12,11 @@ categories:
   - Catégories
 tags:
   - Concours Katerine
+cover: regrets-vinyl-cover.jpg
 ---
 
-Cette semaine, la reprise de **Katerine, Francis et ses peintres** est [*Je ne
-veux pas rentrer chez moi
-seule*->http://www.katerinefrancisetsespeintres.com/18.html], du très connu
-groupe Regrets.
+Cette semaine, la reprise de **Katerine, Francis et ses peintres** est _Je ne
+veux pas rentrer chez moi seule_, du très connu groupe Regrets.
 
 L'originale, elle aussi très connue, est ici :
 

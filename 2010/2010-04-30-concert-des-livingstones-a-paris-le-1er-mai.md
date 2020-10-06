@@ -12,6 +12,7 @@ categories:
   - Catégories
 tags:
   - Dead Rooster Announcement
+cover: the-livingstones-i-presume-concert-chez-adel.png
 ---
 
 {_The Livingstones I Presume_} joueront leur premier concert le samedi 1er mai,
