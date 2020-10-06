@@ -14,6 +14,7 @@ categories:
 tags:
   - Concours Katerine
   - Katerine
+cover: playmobil-queue-leu-leu.jpg
 ---
 
 Cette semaine, la reprise de **Katerine, Francis et ses peintres** est

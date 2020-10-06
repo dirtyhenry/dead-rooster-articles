@@ -9,6 +9,7 @@ categories:
   - Artistes
 tags:
   - Interpol
+cover: stade-de-france.jpg
 ---
 
 Interpol va tourner avec U2 cet été. Espérons que les Strokes ne tourneront pas

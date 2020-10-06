@@ -8,6 +8,7 @@ authors:
   - Dirty Henry
 wordpress_id: 586
 date: "2010-04-02 21:16:20 +0200"
+cover: love-is-all.png
 ---
 
 ## Love is All - _Bigger Bolder_

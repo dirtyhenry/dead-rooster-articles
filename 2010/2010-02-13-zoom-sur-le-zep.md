@@ -14,6 +14,7 @@ categories:
 tags:
   - Livre
   - Led Zeppelin
+cover: john-bonham-bonzo.jpg
 ---
 
 **Led Zeppelin**, avec deux 'p' et un 'l', est un groupe de rock'n'roll, fondé

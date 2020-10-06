@@ -5,6 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 590
 date: "2010-04-07 18:23:56 +0200"
+cover: no-crowd-surfing-sign.jpg
 ---
 
 Iggy Pop a décidé d'arrêter le slam après que
