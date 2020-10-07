@@ -6,7 +6,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 681
-date: "2010-08-12 15:56:11 +0200"
+cover: the-daredevil-christopher-wright.jpg
+date: 2010-08-12 15:56:11 +0200
 categories:
   - Catégories
 tags:

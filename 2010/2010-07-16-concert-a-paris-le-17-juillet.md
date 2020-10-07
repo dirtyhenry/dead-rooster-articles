@@ -7,7 +7,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 650
-date: "2010-07-16 12:15:02 +0200"
+cover: the-livingstones-i-presume-flyer-concert-17-juillet.jpg
+date: 2010-07-16 12:15:02 +0200
 categories:
   - Catégories
 tags:

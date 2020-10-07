@@ -7,7 +7,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 644
-date: "2010-07-06 09:37:54 +0200"
+cover: garou-celine-dion-sous-le-vent.jpg
+date: 2010-07-06 09:37:54 +0200
 categories:
   - Catégories
 tags:

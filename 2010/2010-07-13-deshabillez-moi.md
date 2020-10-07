@@ -7,7 +7,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 648
-date: "2010-07-13 11:44:57 +0200"
+cover: juliette-greco-deshabillez-moi.jpg
+date: 2010-07-13 11:44:57 +0200
 categories:
   - Catégories
   - Artistes

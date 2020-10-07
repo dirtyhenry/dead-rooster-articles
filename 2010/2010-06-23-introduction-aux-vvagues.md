@@ -7,7 +7,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 635
-date: "2010-06-23 10:24:00 +0200"
+cover: wavves-post-acid.jpg
+date: 2010-06-23 10:24:00 +0200
 categories:
   - Catégories
 tags:

@@ -9,7 +9,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 670
-date: "2010-07-31 17:56:51 +0200"
+cover: fraggle-rock.jpg
+date: 2010-07-31 17:56:51 +0200
 categories:
   - Catégories
 tags:

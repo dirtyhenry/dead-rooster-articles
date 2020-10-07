@@ -9,7 +9,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 677
-date: "2010-08-10 11:22:03 +0200"
+cover: robert-plant.jpg
+date: 2010-08-10 11:22:03 +0200
 categories:
   - Catégories
   - Artistes

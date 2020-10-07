@@ -7,7 +7,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 682
-date: "2010-08-25 10:39:01 +0200"
+cover: beach-house.png
+date: 2010-08-25 10:39:01 +0200
 ---
 
 {% soundcloud 324249275 %}

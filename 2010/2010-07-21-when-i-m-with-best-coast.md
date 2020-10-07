@@ -9,7 +9,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 657
-date: "2010-07-21 17:01:07 +0200"
+cover: best-coast-album-cover.jpg
+date: 2010-07-21 17:01:07 +0200
 categories:
   - Catégories
   - Artistes

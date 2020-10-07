@@ -7,7 +7,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 667
-date: "2010-07-30 21:30:52 +0200"
+cover: salle-de-cinema-vide.jpg
+date: 2010-07-30 21:30:52 +0200
 ---
 
 Après [l'histoire de l'art en 3 minutes](br143), voilà l'histoire du cinéma en 2

@@ -5,7 +5,8 @@ description: Ce qui manquait aux films de Will Ferrell ? Eva Mendes !
 authors:
   - Dirty Henry
 wordpress_id: 676
-date: "2010-08-10 11:05:31 +0200"
+cover: the-other-guys.jpg
+date: 2010-08-10 11:05:31 +0200
 categories:
   - Catégories
 tags:

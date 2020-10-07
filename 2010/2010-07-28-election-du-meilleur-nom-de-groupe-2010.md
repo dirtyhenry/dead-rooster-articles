@@ -7,7 +7,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 663
-date: "2010-07-28 13:45:25 +0200"
+cover: mac-gyver.jpg
+date: 2010-07-28 13:45:25 +0200
 categories:
   - Catégories
 tags:
@@ -15,21 +16,21 @@ tags:
 comments:
   - author: Dirty Henry
     author_email: dirtyhenry@gmail.com
-    date: "2010-08-30 15:06:05 +0200"
+    date: 2010-08-30 15:06:05 +0200
     title: Election du meilleur nom de groupe 2010 !
     content:
       "Nouveau candidat : Com Truise\r\n(cf.
       http://stereogum.com/447862/com-truise-sundriped/mp3s/)"
   - author: Dirty Henry
     author_email: dirtyhenry@gmail.com
-    date: "2010-09-13 16:10:24 +0200"
+    date: 2010-09-13 16:10:24 +0200
     title: Election du meilleur nom de groupe 2010 !
     content:
       "Dumbo Gets
       Mad\r\nhttp://www.iguessimfloating.net/2010/09/mp3-dumbo-gets-mad-plumy-tale.html"
   - author: Dirty Henry
     author_email: dirtyhenry@gmail.com
-    date: "2010-09-17 10:44:08 +0200"
+    date: 2010-09-17 10:44:08 +0200
     title: Election du meilleur nom de groupe 2010 !
     content:
       "Someone Still Loves You Boris Yeltsin
@@ -37,7 +38,7 @@ comments:
       candidats sérieux."
   - author: Dirty Henry
     author_email: dirtyhenry@gmail.com
-    date: "2010-09-17 10:44:32 +0200"
+    date: 2010-09-17 10:44:32 +0200
     title: Election du meilleur nom de groupe 2010 !
     content: Sheetah et les Weissmuller (of course)
 ---

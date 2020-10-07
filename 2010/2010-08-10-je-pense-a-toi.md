@@ -7,7 +7,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 678
-date: "2010-08-10 11:53:40 +0200"
+cover: amadou-et-mariam-je-pense-a-toi.jpg
+date: 2010-08-10 11:53:40 +0200
 categories:
   - Catégories
 tags:

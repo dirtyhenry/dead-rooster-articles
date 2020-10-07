@@ -9,6 +9,7 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 622
+cover: ntm-ma-benz.jpg
 date: "2010-06-03 11:12:46 +0200"
 categories:
   - Catégories

@@ -8,7 +8,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 633
-date: "2010-06-21 10:15:41 +0200"
+cover: the-livingstones-i-presume-posing.jpg
+date: 2010-06-21 10:15:41 +0200
 categories:
   - Catégories
 tags:

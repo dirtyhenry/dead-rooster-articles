@@ -4,7 +4,8 @@ title: Highway to Hellysée
 authors:
   - Joe Gantdelaine
 wordpress_id: 645
-date: "2010-07-06 20:56:44 +0200"
+cover: nicolas-sarkozy.jpg
+date: 2010-07-06 20:56:44 +0200
 categories:
   - Catégories
 tags:

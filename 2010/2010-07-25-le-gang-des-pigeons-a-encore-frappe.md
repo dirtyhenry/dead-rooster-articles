@@ -8,7 +8,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 661
-date: "2010-07-25 18:36:14 +0200"
+cover: pigeon-lisant-livre.png
+date: 2010-07-25 18:36:14 +0200
 categories:
   - Catégories
 tags:

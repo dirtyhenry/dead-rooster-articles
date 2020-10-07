@@ -7,7 +7,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 643
-date: "2010-07-05 11:09:52 +0200"
+cover: turbo-fruits-logo.png
+date: 2010-07-05 11:09:52 +0200
 categories:
   - Catégories
 tags:

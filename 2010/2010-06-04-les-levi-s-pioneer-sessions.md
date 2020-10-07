@@ -7,6 +7,7 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 623
+cover: levis-revival-recording.jpg
 date: "2010-06-04 08:56:29 +0200"
 categories:
   - Catégories

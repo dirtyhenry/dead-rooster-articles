@@ -7,7 +7,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 673
-date: "2010-08-06 12:06:20 +0200"
+cover: couloir-boites-archives.jpg
+date: 2010-08-06 12:06:20 +0200
 ---
 
 Avant d'entamer sa carrière de musicien, Jean-Pierre Caca avait gagné une

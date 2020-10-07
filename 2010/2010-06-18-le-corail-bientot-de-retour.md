@@ -5,6 +5,7 @@ description: Ici on aime bien {{The Coral}}. Alors on prêche la bonne parole…
 authors:
   - Dirty Henry
 wordpress_id: 630
+cover: the-coral-butterfly-house.png
 date: "2010-06-18 08:23:51 +0200"
 categories:
   - Catégories

@@ -7,7 +7,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 674
-date: "2010-08-07 18:13:54 +0200"
+cover: hank-and-tank.png
+date: 2010-08-07 18:13:54 +0200
 categories:
   - Catégories
   - Artistes
