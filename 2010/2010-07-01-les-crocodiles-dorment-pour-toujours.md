@@ -7,7 +7,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 641
-date: "2010-07-01 22:25:56 +0200"
+cover: crocodiles-sleep-forever.jpg
+date: 2010-07-01 22:25:56 +0200
 ---
 
 Groupe de San Francisco à découvrir, **Crocodiles** offre un nouveau single,

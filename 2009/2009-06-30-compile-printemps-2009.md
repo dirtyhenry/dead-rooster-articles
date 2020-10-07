@@ -4,7 +4,8 @@ title: Compile printemps 2009
 authors:
   - Dirty Henry
 wordpress_id: 638
-date: "2009-06-30 20:48:00 +0200"
+cover: vieux-banc-en-bois.jpg
+date: 2009-06-30 20:48:00 +0200
 categories:
   - Catégories
 tags:

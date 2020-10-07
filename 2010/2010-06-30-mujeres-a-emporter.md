@@ -7,7 +7,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 640
-date: "2010-06-30 18:19:57 +0200"
+cover: mujeres.jpg
+date: 2010-06-30 18:19:57 +0200
 categories:
   - Catégories
 tags:

@@ -7,7 +7,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 639
-date: "2010-06-29 13:55:54 +0200"
+cover: jean-patrick-capdevielle-quand-t-es-dans-le-desert.jpg
+date: 2010-06-29 13:55:54 +0200
 categories:
   - Catégories
 tags:

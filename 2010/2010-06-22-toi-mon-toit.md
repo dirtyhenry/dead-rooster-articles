@@ -8,7 +8,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 634
-date: "2010-06-22 12:25:39 +0200"
+cover: elli-medeiros-toi-mon-toit.jpg
+date: 2010-06-22 12:25:39 +0200
 categories:
   - Catégories
 tags:

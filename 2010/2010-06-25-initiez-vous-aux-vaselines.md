@@ -7,7 +7,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 637
-date: "2010-06-25 16:55:29 +0200"
+cover: the-vaselines.jpg
+date: 2010-06-25 16:55:29 +0200
 ---
 
 **The Vaselines** est un groupe mythique et inconnu. Pourquoi mythique ? Parce
