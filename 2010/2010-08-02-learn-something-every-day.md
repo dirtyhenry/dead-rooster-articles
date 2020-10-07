@@ -8,7 +8,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 671
-date: "2010-08-02 12:20:35 +0200"
+cover: lean-something-every-day.png
+date: 2010-08-02 12:20:35 +0200
 categories:
   - Catégories
 tags:

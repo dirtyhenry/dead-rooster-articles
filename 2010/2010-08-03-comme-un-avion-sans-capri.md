@@ -8,7 +8,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 672
-date: "2010-08-03 12:05:22 +0200"
+cover: herve-vilard-capri-c-est-fini.jpg
+date: 2010-08-03 12:05:22 +0200
 categories:
   - Catégories
 tags:

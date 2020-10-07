@@ -6,7 +6,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 680
-date: "2010-08-12 11:42:55 +0200"
+cover: the-swell-season.jpg
+date: 2010-08-12 11:42:55 +0200
 categories:
   - Catégories
 tags:

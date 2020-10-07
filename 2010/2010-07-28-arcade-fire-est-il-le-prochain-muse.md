@@ -8,7 +8,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 662
-date: "2010-07-28 13:35:26 +0200"
+cover: arcade-fire-suburbs-cover.jpg
+date: 2010-07-28 13:35:26 +0200
 categories:
   - Catégories
   - Artistes
@@ -18,14 +19,14 @@ tags:
 comments:
   - author: Dirty Henry
     author_email: dirtyhenry@gmail.com
-    date: "2010-07-29 12:00:36 +0200"
+    date: 2010-07-29 12:00:36 +0200
     title: Arcade Fire est-il le prochain Muse ?
     content:
       "Indice U2 #2 :
       [http://www.nme.com/news/arcade-fire/52255](http://www.nme.com/news/arcade-fire/52255)"
   - author: Tune
     author_email: ""
-    date: "2010-08-08 14:37:02 +0200"
+    date: 2010-08-08 14:37:02 +0200
     title: Arcade Fire est-il le prochain Muse ?
     content:
       "… Euh, j'ai vu le stream sur You Tube depuis la France.\r\nRegine est à
@@ -33,7 +34,7 @@ comments:
       elle a grandit avant de fuir la dictature.\r\n\r\nKeep up the great work."
   - author: Dirty Henry
     author_email: dirtyhenry@gmail.com
-    date: "2010-08-10 11:11:01 +0200"
+    date: 2010-08-10 11:11:01 +0200
     title: Arcade Fire est-il le prochain Muse ?
     content:
       "De chez moi, la page YouTube affichait un décourageant \"Unavailable in

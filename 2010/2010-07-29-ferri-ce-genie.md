@@ -4,7 +4,8 @@ title: Ferri, ce génie
 authors:
   - Dirty Henry
 wordpress_id: 664
-date: "2010-07-29 10:06:48 +0200"
+cover: rouleaux-papier-toilette.gif
+date: 2010-07-29 10:06:48 +0200
 categories:
   - Catégories
 tags:

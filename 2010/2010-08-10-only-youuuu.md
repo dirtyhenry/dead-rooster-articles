@@ -5,7 +5,8 @@ description: Un titre de {{Jason Falkner}}, ça ne se refuse pas !
 authors:
   - Joe Gantdelaine
 wordpress_id: 679
-date: "2010-08-10 13:55:08 +0200"
+cover: jason-falkner.jpg
+date: 2010-08-10 13:55:08 +0200
 ---
 
 {% youtube CeRzjsWneG8 %}

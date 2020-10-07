@@ -8,7 +8,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 665
-date: "2010-07-30 10:22:39 +0200"
+cover: dead-rooster-racing-cup-2.png
+date: 2010-07-30 10:22:39 +0200
 ---
 
 La 2nde édition de la Dead Rooster Racing Cup, compétition de karting de

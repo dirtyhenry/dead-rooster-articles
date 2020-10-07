@@ -10,7 +10,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 669
-date: "2010-07-31 16:24:43 +0200"
+cover: interpol-live-letterman.png
+date: 2010-07-31 16:24:43 +0200
 categories:
   - Artistes
 tags:
