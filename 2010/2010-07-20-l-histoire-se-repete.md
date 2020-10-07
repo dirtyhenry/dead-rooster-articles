@@ -8,7 +8,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 656
-date: "2010-07-20 12:37:21 +0200"
+cover: patrick-juvet-je-vais-me-marier-marie.jpg
+date: 2010-07-20 12:37:21 +0200
 categories:
   - Catégories
 tags:

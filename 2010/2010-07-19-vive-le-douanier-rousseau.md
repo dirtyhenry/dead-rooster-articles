@@ -7,7 +7,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 654
-date: "2010-07-19 16:25:17 +0200"
+cover: peinture-douanier-rousseau.jpg
+date: 2010-07-19 16:25:17 +0200
 categories:
   - Catégories
   - Artistes

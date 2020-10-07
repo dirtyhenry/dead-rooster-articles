@@ -8,7 +8,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 660
-date: "2010-07-24 15:33:37 +0200"
+cover: tennis-band.jpg
+date: 2010-07-24 15:33:37 +0200
 categories:
   - Catégories
 tags:
@@ -16,7 +17,7 @@ tags:
 comments:
   - author: Dirty Henry
     author_email: dirtyhenry@gmail.com
-    date: "2010-07-29 11:58:28 +0200"
+    date: 2010-07-29 11:58:28 +0200
     title: Leçon de Tennis !
     content:
       "Une autre vidéo :\r\n\r\n<object width=\"400\" height=\"265\"><param

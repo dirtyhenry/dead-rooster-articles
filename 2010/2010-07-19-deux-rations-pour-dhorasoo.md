@@ -9,7 +9,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 653
-date: "2010-07-19 16:14:18 +0200"
+cover: cassoulet.jpg
+date: 2010-07-19 16:14:18 +0200
 categories:
   - Catégories
 tags:

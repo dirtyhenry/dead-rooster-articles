@@ -7,7 +7,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 655
-date: "2010-07-20 12:20:32 +0200"
+cover: darwin-deez.jpg
+date: 2010-07-20 12:20:32 +0200
 categories:
   - Catégories
 tags:

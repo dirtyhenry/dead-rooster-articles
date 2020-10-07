@@ -8,7 +8,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 652
-date: "2010-07-18 20:24:04 +0200"
+cover: the-notwist-avec-orchestre-symphonique.png
+date: 2010-07-18 20:24:04 +0200
 categories:
   - Catégories
   - Artistes
