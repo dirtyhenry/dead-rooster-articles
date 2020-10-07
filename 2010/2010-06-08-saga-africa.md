@@ -7,6 +7,7 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 626
+cover: roger-milla-dancing.jpg
 date: "2010-06-08 14:51:21 +0200"
 categories:
   - Catégories

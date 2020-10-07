@@ -7,6 +7,7 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 625
+cover: the-beatles-hairy.jpg
 date: "2010-06-07 14:46:25 +0200"
 categories:
   - Artistes

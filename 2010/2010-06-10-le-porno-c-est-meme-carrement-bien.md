@@ -7,6 +7,7 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 627
+cover: the-new-pornographers-live.jpg
 date: "2010-06-10 12:06:42 +0200"
 categories:
   - Catégories

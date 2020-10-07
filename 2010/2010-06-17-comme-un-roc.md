@@ -7,6 +7,7 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 631
+cover: nadiya.jpg
 date: "2010-06-17 11:57:21 +0200"
 categories:
   - Catégories

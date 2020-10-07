@@ -7,6 +7,7 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 628
+cover: corin-tucker-live.jpg
 date: "2010-06-09 14:47:33 +0200"
 categories:
   - Catégories

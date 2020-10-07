@@ -7,6 +7,7 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 629
+cover: mystery-jets-flash-a-hungry-smile.jpg
 date: "2010-06-16 09:49:37 +0200"
 categories:
   - Catégories
