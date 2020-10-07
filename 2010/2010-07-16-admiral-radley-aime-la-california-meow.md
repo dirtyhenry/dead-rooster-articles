@@ -8,7 +8,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 651
-date: "2010-07-16 17:09:46 +0200"
+cover: admiral-radley-logo.jpg
+date: 2010-07-16 17:09:46 +0200
 categories:
   - Catégories
 tags:

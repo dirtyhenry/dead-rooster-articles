@@ -7,7 +7,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 647
-date: "2010-07-08 10:26:09 +0200"
+cover: the-pains-at-being-pure-at-heart-say-no-to-love.jpg
+date: 2010-07-08 10:26:09 +0200
 categories:
   - Catégories
 tags:

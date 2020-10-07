@@ -7,7 +7,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 646
-date: "2010-07-07 10:23:30 +0200"
+cover: rolling-stones-exile-on-main-street.jpg
+date: 2010-07-07 10:23:30 +0200
 categories:
   - Artistes
 tags:

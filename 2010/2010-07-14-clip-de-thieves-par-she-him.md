@@ -9,7 +9,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 649
-date: "2010-07-14 16:28:53 +0200"
+cover: she-and-him-logo.png
+date: 2010-07-14 16:28:53 +0200
 categories:
   - Catégories
   - Artistes
