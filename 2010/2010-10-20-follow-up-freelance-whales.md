@@ -6,7 +6,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 716
-date: "2010-10-20 17:46:23 +0200"
+cover: freelance-whales-weathervanes.png
+date: 2010-10-20 17:46:23 +0200
 categories:
   - Catégories
 tags:

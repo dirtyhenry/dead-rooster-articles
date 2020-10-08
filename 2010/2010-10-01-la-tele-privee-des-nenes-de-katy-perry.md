@@ -11,7 +11,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 707
-date: "2010-10-01 12:11:34 +0200"
+cover: katy-pretty-rue-sesame.png
+date: 2010-10-01 12:11:34 +0200
 ---
 
 [Les producteurs de Rue Sésame ont décidé de censurer la participation de Katy Perry à l'émission prévue pour le nouvel an à cause d'une robe au décolleté trop olé olé…](http://www.nme.com/news/katy-perry/53135)

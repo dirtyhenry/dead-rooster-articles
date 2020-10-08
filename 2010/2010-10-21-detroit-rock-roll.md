@@ -9,7 +9,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 717
-date: "2010-10-21 14:42:39 +0200"
+cover: mc5-live.jpg
+date: 2010-10-21 14:42:39 +0200
 categories:
   - Artistes
 tags:

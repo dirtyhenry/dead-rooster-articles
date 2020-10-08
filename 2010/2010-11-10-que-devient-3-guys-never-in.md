@@ -8,7 +8,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 721
-date: "2010-11-10 19:03:52 +0100"
+cover: three-guys-never-in.jpg
+date: 2010-11-10 19:03:52 +0100
 categories:
   - Catégories
 tags:

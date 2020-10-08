@@ -8,7 +8,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 708
-date: "2010-10-01 16:22:20 +0200"
+cover: fun-friday-708.png
+date: 2010-10-01 16:22:20 +0200
 categories:
   - Catégories
   - Artistes

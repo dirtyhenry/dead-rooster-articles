@@ -8,7 +8,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 725
-date: "2010-12-06 12:00:00 +0100"
+cover: web-compile-8.png
+date: 2010-12-06 12:00:00 +0100
 categories:
   - Catégories
   - Artistes
