@@ -7,7 +7,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 688
-date: "2010-08-27 12:40:26 +0200"
+cover: magic-kids.png
+date: 2010-08-27 12:40:26 +0200
 categories:
   - Catégories
 tags:

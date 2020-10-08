@@ -5,7 +5,8 @@ description: Un message pas très joli joli de Cee-Lo…
 authors:
   - Dirty Henry
 wordpress_id: 684
-date: "2010-08-26 13:23:19 +0200"
+cover: fuck-you-snapshot.png
+date: 2010-08-26 13:23:19 +0200
 categories:
   - Catégories
 tags:
@@ -13,7 +14,7 @@ tags:
 comments:
   - author: Dirty Henry
     author_email: dirtyhenry@gmail.com
-    date: "2010-09-02 11:28:28 +0200"
+    date: 2010-09-02 11:28:28 +0200
     title: Message pas joli joli, mais chanson cool
     content:
       Et voilà le clip définitif…

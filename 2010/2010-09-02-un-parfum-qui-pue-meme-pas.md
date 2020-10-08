@@ -4,7 +4,8 @@ title: Un parfum qui pue même pas
 authors:
   - Dirty Henry
 wordpress_id: 694
-date: "2010-09-02 11:18:06 +0200"
+cover: god-save-the-queen-union-jack.jpg
+date: 2010-09-02 11:18:06 +0200
 categories:
   - Catégories
 tags:

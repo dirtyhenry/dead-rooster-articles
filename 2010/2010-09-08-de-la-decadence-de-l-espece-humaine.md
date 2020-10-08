@@ -4,11 +4,12 @@ title: De la décadence de l'espèce humaine
 authors:
   - Joe Gantdelaine
 wordpress_id: 698
-date: "2010-09-08 00:34:43 +0200"
+cover: vieux-camion-agricole-avec-fermiers.jpg
+date: 2010-09-08 00:34:43 +0200
 comments:
   - author: Dirty Henry
     author_email: dirtyhenry@gmail.com
-    date: "2010-09-08 15:19:02 +0200"
+    date: 2010-09-08 15:19:02 +0200
     title: De la décadence de l'espèce humaine
     content:
       "Même ABBA parle des meules avec légéreté : qui aurait pu anticiper un tel

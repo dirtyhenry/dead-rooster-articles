@@ -7,7 +7,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 695
-date: "2010-09-02 15:07:18 +0200"
+cover: francis-cabrel-les-chemins-de-traverse.jpg
+date: 2010-09-02 15:07:18 +0200
 ---
 
 Comme c'est frustrant quand des albums ont des super pochettes… mais que le

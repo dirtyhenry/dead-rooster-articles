@@ -7,7 +7,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 691
-date: "2010-08-31 10:12:58 +0200"
+cover: arcade-if-re-we-used-to-wait-screenshot.png
+date: 2010-08-31 10:12:58 +0200
 categories:
   - Catégories
 tags:

@@ -7,7 +7,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 690
-date: "2010-08-30 16:13:02 +0200"
+cover: faux-clip-ottawan-t-es-ok.png
+date: 2010-08-30 16:13:02 +0200
 categories:
   - Catégories
   - Artistes
@@ -25,7 +26,7 @@ L'originale :
 
 {% youtube hZKyxmSrUug %}
 
-## 2. _T'es OK_ d'Ottowan
+## 2. _T'es OK_ d'Ottawan
 
 Le clip de l'originale ne peut pas être embarquée sur le site mais est visible
 (et recommandée) [ici](http://www.youtube.com/watch?v=F-04OM2oUt4).

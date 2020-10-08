@@ -8,7 +8,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 701
-date: "2010-09-17 11:28:20 +0200"
+cover: fun-friday.png
+date: 2010-09-17 11:28:20 +0200
 categories:
   - Catégories
 tags:

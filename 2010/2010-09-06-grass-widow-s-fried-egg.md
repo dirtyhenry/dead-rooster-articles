@@ -5,7 +5,8 @@ description: Voici le clip de {Fried Egg} de {{Grass Widow}}.
 authors:
   - Dirty Henry
 wordpress_id: 697
-date: "2010-09-06 18:09:00 +0200"
+cover: grass-widow-fried-egg.png
+date: 2010-09-06 18:09:00 +0200
 categories:
   - Catégories
 tags:
