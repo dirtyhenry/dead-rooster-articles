@@ -7,7 +7,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 774
-date: "2011-02-08 22:56:00 +0100"
+cover: jim-morrisson.jpg
+date: 2011-02-08 22:56:00 +0100
 categories:
   - Artistes
 tags:
@@ -16,7 +17,7 @@ tags:
 comments:
   - author: bah, c'est moi quoi! :)
     author_email: ""
-    date: "2011-02-08 23:23:10 +0100"
+    date: 2011-02-08 23:23:10 +0100
     title: The Doors, c'est trop bien ? Si, si, allez !
     content:
       "Génial cet article! \r\nVrai et bien dit! \r\n\r\nJ'aime bien la musique
@@ -25,43 +26,43 @@ comments:
       cette vérité sans ambages. "
   - author: Dirty Henry
     author_email: dirtyhenry@gmail.com
-    date: "2011-02-09 10:23:31 +0100"
+    date: 2011-02-09 10:23:31 +0100
     title: The Doors, c'est trop bien ? Si, si, allez !
     content: Thanks ! ;)
   - author: Biboulos
     author_email: biboulos@yahoo.fr
-    date: "2011-02-11 10:57:15 +0100"
+    date: 2011-02-11 10:57:15 +0100
     title: The Doors, c'est trop bien ? Si, si, allez !
     content: Faux !! (moi j'aime bien)
   - author: ""
     author_email: ""
-    date: "2011-03-24 23:23:25 +0100"
+    date: 2011-03-24 23:23:25 +0100
     title: The Doors, c'est trop bien ? Si, si, allez !
     content:
       "chacun sa philo; mntnt il é plus facile de critiker ; faut comprendre
       avant  et ressentir "
   - author: Alex
     author_email: ""
-    date: "2012-01-30 14:16:32 +0100"
+    date: 2012-01-30 14:16:32 +0100
     title: The Doors, c'est trop bien ? Si, si, allez !
     content:
       "Excellent article ! L'idée d'être soi-même archi-répétitif et super creux
       pour reprocher à un groupe ses longueurs, c'est trop bon !\r\n\r\n"
   - author: Dirty Henry
     author_email: dirtyhenry@gmail.com
-    date: "2012-01-30 14:22:41 +0100"
+    date: 2012-01-30 14:22:41 +0100
     title: The Doors, c'est trop bien ? Si, si, allez !
-    content: ":) c'est de bonne guerre."
+    content: :) c'est de bonne guerre.
   - author: un fan
     author_email: charly_gutierrez@ymail.com
-    date: "2012-04-20 14:23:03 +0200"
+    date: 2012-04-20 14:23:03 +0200
     title: The Doors, c'est trop bien ? Si, si, allez !
     content:
       "Quand on critique les Doors, on s'informe un peu avant. La basse est peut
       être chiant dans ce groupe, normal il y en a pas abrutis… "
   - author: Dirty Henry
     author_email: dirtyhenry@gmail.com
-    date: "2012-04-23 10:08:27 +0200"
+    date: 2012-04-23 10:08:27 +0200
     title: The Doors, c'est trop bien ? Si, si, allez !
     content:
       'Il n''y a pas de guitare basse mais il y a un piano basse. T''inquiète,

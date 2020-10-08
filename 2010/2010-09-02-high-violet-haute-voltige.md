@@ -8,7 +8,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 696
-date: "2010-09-02 16:21:16 +0200"
+cover: the-national-high-violet.jpg
+date: 2010-09-02 16:21:16 +0200
 categories:
   - Artistes
 tags:

@@ -4,11 +4,12 @@ title: France, pays du bon goût
 authors:
   - Dirty Henry
 wordpress_id: 764
-date: "2011-01-23 15:40:29 +0100"
+cover: bezu-ali-baba.jpg
+date: 2011-01-23 15:40:29 +0100
 comments:
   - author: Jo
     author_email: ""
-    date: "2011-01-24 12:08:18 +0100"
+    date: 2011-01-24 12:08:18 +0100
     title: France, pays du bon goût
     content:
       "Et de l'autre côté de la Manche c'est pas plus glorieux : \r\n\r\n1 -
@@ -17,12 +18,12 @@ comments:
       http://www.bbc.co.uk/radio1/chart/2010/albums"
   - author: Joe Gantdelaine
     author_email: ""
-    date: "2011-01-24 12:59:12 +0100"
+    date: 2011-01-24 12:59:12 +0100
     title: France, pays du bon goût
     content: Heureusement que Johnny sort un nouvel album cette année !
   - author: Dirty Henry
     author_email: dirtyhenry@gmail.com
-    date: "2011-01-24 17:39:01 +0100"
+    date: 2011-01-24 17:39:01 +0100
     title: France, pays du bon goût
     content: Monde de merde !
 ---

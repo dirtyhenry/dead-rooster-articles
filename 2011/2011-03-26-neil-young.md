@@ -7,11 +7,12 @@ description:
 authors:
   - Joe Gantdelaine
 wordpress_id: 804
-date: "2011-03-26 09:53:31 +0100"
+cover: neil-young-footballer.jpg
+date: 2011-03-26 09:53:31 +0100
 comments:
   - author: Dirty Henry
     author_email: dirtyhenry@gmail.com
-    date: "2011-03-26 10:06:53 +0100"
+    date: 2011-03-26 10:06:53 +0100
     title: Neil Young
     content: Je peux pas les saquer ces mecs du Buffalo Shelbyville !
 ---

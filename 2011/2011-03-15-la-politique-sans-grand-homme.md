@@ -4,7 +4,8 @@ title: La politique sans grand homme
 authors:
   - Dirty Henry
 wordpress_id: 800
-date: "2011-03-15 18:49:14 +0100"
+cover: patrick-sebastien.jpg
+date: 2011-03-15 18:49:14 +0100
 ---
 
 Alors que j'avais mis le champagne au frais pour célébrer le premier

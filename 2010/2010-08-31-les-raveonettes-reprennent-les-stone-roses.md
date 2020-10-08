@@ -8,7 +8,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 692
-date: "2010-08-31 10:32:55 +0200"
+cover: raveonettes-drawing.png
+date: 2010-08-31 10:32:55 +0200
 categories:
   - Catégories
   - Artistes

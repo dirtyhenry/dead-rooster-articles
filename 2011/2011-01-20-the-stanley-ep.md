@@ -8,7 +8,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 762
-date: "2011-01-20 13:21:09 +0100"
+cover: the-livingstones-i-presume-the-stanley-ep.png
+date: 2011-01-20 13:21:09 +0100
 categories:
   - Artistes
 tags:

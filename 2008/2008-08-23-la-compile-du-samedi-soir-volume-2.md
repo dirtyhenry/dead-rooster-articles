@@ -4,7 +4,8 @@ title: La compile du samedi soir volume 2
 authors:
   - Joe Gantdelaine
 wordpress_id: 730
-date: "2008-08-23 18:52:00 +0200"
+cover: dancefloor-lumineux.jpg
+date: 2008-08-23 18:52:00 +0200
 categories:
   - Catégories
   - Artistes

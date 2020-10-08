@@ -7,7 +7,8 @@ description:
 authors:
   - Joe Gantdelaine
 wordpress_id: 755
-date: "2011-02-12 09:37:26 +0100"
+cover: mont-rushmore.jpg
+date: 2011-02-12 09:37:26 +0100
 ---
 
 Power trio par excellence (américain évidemment), formé après la seconde guerre

@@ -10,7 +10,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 709
-date: "2010-10-04 10:58:46 +0200"
+cover: web-compile-4.png
+date: 2010-10-04 10:58:46 +0200
 categories:
   - Artistes
 tags:

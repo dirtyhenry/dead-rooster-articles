@@ -8,7 +8,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 713
-date: "2010-10-14 20:16:44 +0200"
+cover: katerine-dunk-basket.png
+date: 2010-10-14 20:16:44 +0200
 categories:
   - Catégories
   - Artistes

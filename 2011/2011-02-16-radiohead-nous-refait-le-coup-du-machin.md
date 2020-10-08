@@ -3,7 +3,8 @@ layout: post
 title: Radiohead nous refait le coup du "machin"
 author: Julian
 wordpress_id: 782
-date: "2011-02-16 14:04:50 +0100"
+cover: radiohead-the-king-of-limbs.jpg
+date: 2011-02-16 14:04:50 +0100
 ---
 
 Un nouvel album diffusé par surprise, en téléchargement pas cher OU en version

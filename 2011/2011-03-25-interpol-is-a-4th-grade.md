@@ -8,7 +8,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 807
-date: "2011-03-25 17:38:16 +0100"
+cover: interpol-live-daniel-kessler.png
+date: 2011-03-25 17:38:16 +0100
 ---
 
 {_2011, March 15th. Zénith, Paris, France_} The concert is about to start.

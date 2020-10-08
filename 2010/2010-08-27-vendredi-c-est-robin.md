@@ -4,7 +4,8 @@ title: Vendredi, c'est Robin !
 authors:
   - Joe Gantdelaine
 wordpress_id: 689
-date: "2010-08-27 12:44:55 +0200"
+cover: robin-friday-ii.jpg
+date: 2010-08-27 12:44:55 +0200
 ---
 
 Parlons enfin football ! Et quand je dis "football", je veux parler de **Robin

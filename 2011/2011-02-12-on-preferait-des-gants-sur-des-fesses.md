@@ -4,7 +4,8 @@ title: On préférait des gants sur des fesses
 authors:
   - Dirty Henry
 wordpress_id: 779
-date: "2011-02-12 12:08:24 +0100"
+cover: the-strokes-angles.jpg
+date: 2011-02-12 12:08:24 +0100
 categories:
   - Artistes
 tags:
@@ -12,7 +13,7 @@ tags:
 comments:
   - author: benji
     author_email: ""
-    date: "2011-02-16 11:02:19 +0100"
+    date: 2011-02-16 11:02:19 +0100
     title: On préférait des gants sur des fesses
     content:
       Animal collective font autant de mal à l'artwork qu'ils font du bien à la

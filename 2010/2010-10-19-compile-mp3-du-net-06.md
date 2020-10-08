@@ -9,7 +9,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 715
-date: "2010-10-19 23:00:00 +0200"
+cover: web-compile-6.png
+date: 2010-10-19 23:00:00 +0200
 categories:
   - Catégories
 tags:

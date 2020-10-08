@@ -7,7 +7,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 744
-date: "2011-01-04 09:26:43 +0100"
+cover: 52-reprises-dans-espace.png
+date: 2011-01-04 09:26:43 +0100
 categories:
   - Catégories
   - Artistes
@@ -17,14 +18,14 @@ tags:
 comments:
   - author: Benj
     author_email: ""
-    date: "2011-10-14 16:09:41 +0200"
+    date: 2011-10-14 16:09:41 +0200
     title: Epilogue du concours Katerine
     content:
       "Au fait, on était pas censés gagner une photo dédicassée de JP Caca
       ?\r\nEnfin, je suis que 2ième ex aequo, mais j'en veux bien une …"
   - author: Dirty Henry
     author_email: dirtyhenry@gmail.com
-    date: "2011-10-17 21:53:59 +0200"
+    date: 2011-10-17 21:53:59 +0200
     title: Epilogue du concours Katerine
     content:
       Patience, ce sera fait. JP Caca prépare son come-back mais pas dans la

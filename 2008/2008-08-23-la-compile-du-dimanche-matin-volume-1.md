@@ -4,7 +4,8 @@ title: La compile du dimanche matin volume 1
 authors:
   - Joe Gantdelaine
 wordpress_id: 733
-date: "2008-08-23 20:45:00 +0200"
+cover: banc-parc-brume.jpg
+date: 2008-08-23 20:45:00 +0200
 categories:
   - Catégories
   - Artistes

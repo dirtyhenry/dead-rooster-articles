@@ -7,7 +7,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 793
-date: "2011-03-03 19:40:45 +0100"
+cover: jonathan-coe-mr-sim.jpg
+date: 2011-03-03 19:40:45 +0100
 categories:
   - Catégories
   - Artistes

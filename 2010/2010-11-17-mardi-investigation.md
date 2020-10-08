@@ -8,23 +8,24 @@ description:
 authors:
   - Joe Gantdelaine
 wordpress_id: 723
-date: "2010-11-17 01:14:46 +0100"
+cover: sherlock-holmes-detective-accessoires.jpg
+date: 2010-11-17 01:14:46 +0100
 comments:
   - author: Julio, là
     author_email: ""
-    date: "2010-11-17 10:08:01 +0100"
+    date: 2010-11-17 10:08:01 +0100
     title: Mardi investigation
     content:
       la dernière vidéo, la vache! voila donc ce que faisait Sim dans sa
       jeunesse!
   - author: guiguilele
     author_email: guiguilele@gmail.com
-    date: "2010-11-17 11:33:48 +0100"
+    date: 2010-11-17 11:33:48 +0100
     title: Mardi investigation
     content: Rha ouais, t'sais c'est quoi l'pire ?!? C'est que t'as raison mec !
   - author: Dirty Henry
     author_email: dirtyhenry@gmail.com
-    date: "2010-11-17 16:12:46 +0100"
+    date: 2010-11-17 16:12:46 +0100
     title: Mardi investigation
     content:
       On peut aussi se demander si Sim n'est pas le père de Pete Doherty !

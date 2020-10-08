@@ -4,7 +4,8 @@ title: La compile du 7 août
 authors:
   - Joe Gantdelaine
 wordpress_id: 734
-date: "2008-07-08 15:15:00 +0200"
+cover: chemin-campagne.jpg
+date: 2008-07-08 15:15:00 +0200
 categories:
   - Catégories
   - Artistes

@@ -10,7 +10,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 743
-date: "2010-12-28 11:13:17 +0100"
+cover: rolling-stones-jagger-richards-live.jpg
+date: 2010-12-28 11:13:17 +0100
 categories:
   - Catégories
   - Artistes

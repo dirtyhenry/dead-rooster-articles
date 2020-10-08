@@ -7,7 +7,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 685
-date: "2010-08-26 13:32:46 +0200"
+cover: gros-poissson-pecheurs.png
+date: 2010-08-26 13:32:46 +0200
 categories:
   - Catégories
 tags:

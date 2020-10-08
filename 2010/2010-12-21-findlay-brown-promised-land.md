@@ -5,7 +5,8 @@ description: Une chanson cool… Un clip sympa… (say no more, say no more)
 authors:
   - Dirty Henry
 wordpress_id: 740
-date: "2010-12-21 21:42:19 +0100"
+cover: findlay-brown-promised-land.jpg
+date: 2010-12-21 21:42:19 +0100
 categories:
   - Catégories
 tags:
@@ -13,7 +14,7 @@ tags:
 comments:
   - author: Marcello Marcellito
     author_email: frederic@gaunard.com
-    date: "2011-01-13 10:04:48 +0100"
+    date: 2011-01-13 10:04:48 +0100
     title: Findlay Brown - Promised Land
     content: Son album {Separated by the sea} est très très bon !
 ---

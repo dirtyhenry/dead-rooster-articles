@@ -7,7 +7,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 700
-date: "2010-09-13 15:12:58 +0200"
+cover: dead-rooster-web-compile-1.png
+date: 2010-09-13 15:12:58 +0200
 categories:
   - Catégories
 tags:

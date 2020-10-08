@@ -7,7 +7,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 726
-date: "2010-11-30 20:03:39 +0100"
+cover: leslie-nielsen.jpg
+date: 2010-11-30 20:03:39 +0100
 categories:
   - Catégories
 tags:

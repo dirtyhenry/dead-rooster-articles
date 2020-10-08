@@ -8,30 +8,31 @@ description:
 authors:
   - Joe Gantdelaine
 wordpress_id: 760
-date: "2011-01-29 12:46:55 +0100"
+cover: telephone.jpg
+date: 2011-01-29 12:46:55 +0100
 comments:
   - author: ""
     author_email: ""
-    date: "2011-01-29 20:39:55 +0100"
+    date: 2011-01-29 20:39:55 +0100
     title: Téléphone
     content:
       Ben non, pas comme dans le Velvet, justement… La meuf était à la basse,
       comme chez les Citrouilles….
   - author: Joe Gantdelaine
     author_email: guiguilele@gmail.com
-    date: "2011-01-29 21:39:39 +0100"
+    date: 2011-01-29 21:39:39 +0100
     title: Téléphone
     content:
       Mais en fait, c'est le principe de l'Encyclopédie ! Dire des trucs presque
       vrais, mais pas tout à fait…
   - author: ""
     author_email: ""
-    date: "2011-01-29 22:56:43 +0100"
+    date: 2011-01-29 22:56:43 +0100
     title: Téléphone
     content: my mistake… :-S
   - author: Biboulos
     author_email: biboulos@yahoo.fr
-    date: "2011-01-30 16:18:16 +0100"
+    date: 2011-01-30 16:18:16 +0100
     title: Téléphone
     content: On l'appelait l'Abbé Aubert parce qu'il était bigot (phone) ?
 ---

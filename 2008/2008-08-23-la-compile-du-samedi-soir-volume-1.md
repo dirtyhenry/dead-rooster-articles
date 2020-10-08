@@ -4,7 +4,8 @@ title: La compile du samedi soir volume 1
 authors:
   - Joe Gantdelaine
 wordpress_id: 731
-date: "2008-08-23 18:57:00 +0200"
+cover: boule-a-facette.jpg
+date: 2008-08-23 18:57:00 +0200
 categories:
   - Catégories
 tags:

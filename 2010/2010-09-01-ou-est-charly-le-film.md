@@ -8,7 +8,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 693
-date: "2010-09-01 19:57:15 +0200"
+cover: miniature-tigers-where-is-waldo.png
+date: 2010-09-01 19:57:15 +0200
 categories:
   - Catégories
 tags:

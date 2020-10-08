@@ -5,7 +5,8 @@ description: Une chanson naze, par Jacques Dutronc
 authors:
   - Dirty Henry
 wordpress_id: 739
-date: "2010-12-17 15:12:26 +0100"
+cover: drapeau-union-europeenne.jpg
+date: 2010-12-17 15:12:26 +0100
 ---
 
 Jacques Dutronc est un des meilleurs artistes français et a interprété de

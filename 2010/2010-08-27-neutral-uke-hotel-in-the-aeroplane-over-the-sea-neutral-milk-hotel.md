@@ -9,7 +9,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 687
-date: "2010-08-27 12:07:19 +0200"
+cover: neutral-uke-hotel-moustache.png
+date: 2010-08-27 12:07:19 +0200
 ---
 
 Encore une reprise de Neutral Milk Hotel, jouée cette fois au Ukulele, par un

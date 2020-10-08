@@ -5,7 +5,8 @@ description: "Quatre semaines de Katerine à rattraper d'un coup… "
 authors:
   - Dirty Henry
 wordpress_id: 722
-date: "2010-11-11 16:31:30 +0100"
+cover: butch-cassidy-and-the-kid.jpg
+date: 2010-11-11 16:31:30 +0100
 categories:
   - Catégories
   - Artistes

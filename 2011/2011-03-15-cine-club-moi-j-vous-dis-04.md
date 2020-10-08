@@ -7,7 +7,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 798
-date: "2011-03-15 12:32:14 +0100"
+cover: the-king-speech.jpg
+date: 2011-03-15 12:32:14 +0100
 categories:
   - Catégories
 tags:
@@ -16,7 +17,7 @@ tags:
 comments:
   - author: Jo
     author_email: ""
-    date: "2011-03-15 14:02:28 +0100"
+    date: 2011-03-15 14:02:28 +0100
     title: "Ciné-Club moi j'vous dis #04"
     content:
       "Je confirme que : \"la symphonie numéro 7 en la majeur de Ludwig Von a un

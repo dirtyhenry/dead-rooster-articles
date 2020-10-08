@@ -4,7 +4,8 @@ title: Compile The 00's
 authors:
   - Dirty Henry
 wordpress_id: 751
-date: "2011-01-12 13:24:59 +0100"
+cover: top-of-00s.png
+date: 2011-01-12 13:24:59 +0100
 categories:
   - Catégories
   - Artistes

@@ -7,7 +7,8 @@ description:
 authors:
   - Joe Gantdelaine
 wordpress_id: 817
-date: "2011-04-25 11:48:59 +0200"
+cover: max-la-godasse.jpg
+date: 2011-04-25 11:48:59 +0200
 categories:
   - Catégories
 tags:

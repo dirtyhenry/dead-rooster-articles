@@ -8,7 +8,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 802
-date: "2011-03-22 09:31:07 +0100"
+cover: interpol-live-daniel-kessler.png
+date: 2011-03-22 09:31:07 +0100
 categories:
   - Catégories
   - Artistes

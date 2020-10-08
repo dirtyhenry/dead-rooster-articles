@@ -7,7 +7,8 @@ description:
 authors:
   - Joe Gantdelaine
 wordpress_id: 765
-date: "2011-03-19 10:23:43 +0100"
+cover: claude-francois-montage-kitsch.jpg
+date: 2011-03-19 10:23:43 +0100
 ---
 
 Tout comme Dalida, **Claude François**, de son vrai nom Clodiris Fransosiris est

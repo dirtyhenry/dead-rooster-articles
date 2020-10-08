@@ -8,7 +8,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 710
-date: "2010-10-05 12:09:58 +0200"
+cover: carl-barat-solo-album-cover.png
+date: 2010-10-05 12:09:58 +0200
 ---
 
 L'ex-Libertine et Dirty Pretty Things le clame haut et fort : ["non, la pochette

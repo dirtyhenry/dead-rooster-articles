@@ -11,7 +11,8 @@ description:
 authors:
   - Joe Gantdelaine
 wordpress_id: 699
-date: "2010-09-09 01:44:44 +0200"
+cover: sing-along-with-acid-house-kings.jpg
+date: 2010-09-09 01:44:44 +0200
 categories:
   - Catégories
   - Artistes
@@ -21,7 +22,7 @@ tags:
 comments:
   - author: Dirty Henry
     author_email: dirtyhenry@gmail.com
-    date: "2010-09-09 09:47:58 +0200"
+    date: 2010-09-09 09:47:58 +0200
     title: Parfois, on s'demande !
     content: Et les clips, ils sont bien bien n'impesque aussi !
 ---

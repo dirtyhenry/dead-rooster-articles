@@ -7,18 +7,19 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 761
-date: "2011-01-19 23:19:52 +0100"
+cover: k7-audio-compile.png
+date: 2011-01-19 23:19:52 +0100
 comments:
   - author: ""
     author_email: ""
-    date: "2011-01-20 19:38:36 +0100"
+    date: 2011-01-20 19:38:36 +0100
     title: La légende de la compile mystérieuse
     content:
       "Ah oui, c'est comme quand j'ai cru enfin aimer Ben Harper alors que
       c'était une compil des années 70's. \r\nquel talent d'écrivain ce Dirty!"
   - author: Dirty Henry
     author_email: dirtyhenry@gmail.com
-    date: "2011-01-23 15:51:45 +0100"
+    date: 2011-01-23 15:51:45 +0100
     title: La légende de la compile mystérieuse
     content:
       "Je paris que dans cette vidéo :

@@ -7,11 +7,12 @@ description:
 authors:
   - Joe Gantdelaine
 wordpress_id: 768
-date: "2011-02-19 10:47:29 +0100"
+cover: elvis-sosie.jpg
+date: 2011-02-19 10:47:29 +0100
 comments:
   - author: Dirty Henry
     author_email: dirtyhenry@gmail.com
-    date: "2011-02-19 11:20:13 +0100"
+    date: 2011-02-19 11:20:13 +0100
     title: Elvis Presley
     content:
       "Et il paraît qu'une fois il s'est arrêté à une station service avec une
@@ -21,7 +22,7 @@ comments:
       le pompiste lui a pété la gueule et 2 dents."
   - author: Elvis Patiné
     author_email: biboulos@yahoo.fr
-    date: "2011-02-24 17:20:21 +0100"
+    date: 2011-02-24 17:20:21 +0100
     title: Elvis Presley
     content:
       "Je viens souvent sur votre site sans réagir, mais là, c'est trop
