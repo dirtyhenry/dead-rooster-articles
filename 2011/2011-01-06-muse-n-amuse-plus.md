@@ -4,7 +4,8 @@ title: Muse n'amuse plus
 authors:
   - Dirty Henry
 wordpress_id: 745
-date: "2011-01-06 11:51:20 +0100"
+cover: freres-bogdanoff.jpg
+date: 2011-01-06 11:51:20 +0100
 categories:
   - Artistes
 tags:

@@ -4,7 +4,8 @@ title: Recrute footballeur professionnel, option BTP
 authors:
   - Joe Gantdelaine
 wordpress_id: 749
-date: "2011-01-11 22:25:57 +0100"
+cover: table-formica.jpg
+date: 2011-01-11 22:25:57 +0100
 ---
 
 D'après

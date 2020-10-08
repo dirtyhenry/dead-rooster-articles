@@ -4,7 +4,8 @@ title: La compile du lundi matin
 authors:
   - Joe Gantdelaine
 wordpress_id: 732
-date: "2008-08-23 21:40:00 +0200"
+cover: arche-defense.jpg
+date: 2008-08-23 21:40:00 +0200
 categories:
   - Catégories
   - Artistes

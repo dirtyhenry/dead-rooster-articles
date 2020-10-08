@@ -9,7 +9,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 729
-date: "2010-12-01 18:15:30 +0100"
+cover: the-walkmen-live.png
+date: 2010-12-01 18:15:30 +0100
 categories:
   - Catégories
 tags:

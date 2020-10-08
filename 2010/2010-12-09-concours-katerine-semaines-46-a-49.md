@@ -7,7 +7,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 727
-date: "2010-12-09 12:00:00 +0100"
+cover: diams-mitchell-goya-willem-katerine-montage.png
+date: 2010-12-09 12:00:00 +0100
 categories:
   - Catégories
   - Artistes

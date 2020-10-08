@@ -7,7 +7,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 728
-date: "2010-12-07 15:51:55 +0100"
+cover: reading-rainbow.png
+date: 2010-12-07 15:51:55 +0100
 categories:
   - Catégories
   - Artistes
@@ -19,7 +20,7 @@ tags:
 comments:
   - author: Dirty Henry
     author_email: dirtyhenry@gmail.com
-    date: "2010-12-07 17:23:34 +0100"
+    date: 2010-12-07 17:23:34 +0100
     title: Reading Rainbow
     content:
       "La review de leur disque sur Pitchfork :
