@@ -7,25 +7,26 @@ description:
 authors:
   - Joe Gantdelaine
 wordpress_id: 796
-date: "2011-03-12 09:18:45 +0100"
+cover: the-pixies.jpg
+date: 2011-03-12 09:18:45 +0100
 comments:
   - author: Dirty Henry
     author_email: dirtyhenry@gmail.com
-    date: "2011-03-12 15:26:45 +0100"
+    date: 2011-03-12 15:26:45 +0100
     title: The Pixies
     content:
       'Je crois que le vrai nom du guitariste est Santiano. Hugues Aufray lui a
       dédié une chanson : "Stewball". '
   - author: Joe Gantdelaine
     author_email: guiguilele@gmail.com
-    date: "2011-03-12 15:28:59 +0100"
+    date: 2011-03-12 15:28:59 +0100
     title: The Pixies
     content:
       Merci beaucoup pour ces précisions…il est un jour où nous reviendrons sur
       ce brave Hugues…
   - author: Dirty Henry
     author_email: dirtyhenry@gmail.com
-    date: "2011-03-12 20:58:40 +0100"
+    date: 2011-03-12 20:58:40 +0100
     title: The Pixies
     content:
       Et il paraît que Franck White est un pseudo choisi en hommage à Francis
@@ -33,21 +34,21 @@ comments:
       Jean Loubignac
   - author: Le comité du vocabulaire
     author_email: biboulos@yahoo.fr
-    date: "2011-03-14 11:53:25 +0100"
+    date: 2011-03-14 11:53:25 +0100
     title: The Pixies
     content:
       Attention, l'expression "les quatres bougres" a déjà été employée la
       semaine dernière, ainsi que le mot "et".
   - author: Joe Gantdelaine
     author_email: ""
-    date: "2011-03-14 16:36:53 +0100"
+    date: 2011-03-14 16:36:53 +0100
     title: The Pixies
     content:
       "Arf ! Désolé cher lecteur…\r\nPromis, la semaine prochaine, on parlera
       pas de \"quatre bougres\" (pour la bonne raison qu'il n'y en aura qu'un…)"
   - author: Julio, là
     author_email: ""
-    date: "2011-03-31 10:17:05 +0200"
+    date: 2011-03-31 10:17:05 +0200
     title: The Pixies
     content:
       Je note que le calembour "groupe de Baston" (dans la meme phrase que

@@ -5,7 +5,8 @@ description: Un mois de janvier 2011 à aller au ciné et mater des DVD…
 authors:
   - Dirty Henry
 wordpress_id: 784
-date: "2011-02-17 22:49:54 +0100"
+cover: fantomas.jpg
+date: 2011-02-17 22:49:54 +0100
 categories:
   - Catégories
 tags:

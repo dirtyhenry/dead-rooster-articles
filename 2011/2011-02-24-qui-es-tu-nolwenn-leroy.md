@@ -9,11 +9,12 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 789
-date: "2011-02-24 17:27:44 +0100"
+cover: amour-sur-formica.jpg
+date: 2011-02-24 17:27:44 +0100
 comments:
   - author: Dirty Henry
     author_email: dirtyhenry@gmail.com
-    date: "2011-02-24 17:34:00 +0100"
+    date: 2011-02-24 17:34:00 +0100
     title: Qui es-tu Nolwenn Leroy ?
     content:
       Gainsbourg se foutait déjà de la gueule de France Gall en lui faisant
@@ -22,18 +23,18 @@ comments:
       beaucoup trop loin !
   - author: Dirty Henry
     author_email: dirtyhenry@gmail.com
-    date: "2011-02-24 17:34:23 +0100"
+    date: 2011-02-24 17:34:23 +0100
     title: Qui es-tu Nolwenn Leroy ?
     content:
       "Pardon, j'ai oublié le lien : http://www.youtube.com/watch?v=f844q5FOflI"
   - author: Chrispit
     author_email: ""
-    date: "2011-02-25 16:18:34 +0100"
+    date: 2011-02-25 16:18:34 +0100
     title: Qui es-tu Nolwenn Leroy ?
     content: Article délicieux. Merci Dirty Henry
   - author: Lotuce
     author_email: lotuce@romandie.com
-    date: "2011-02-26 22:52:18 +0100"
+    date: 2011-02-26 22:52:18 +0100
     title: Qui es-tu Nolwenn Leroy ?
     content:
       "Qui es-tu Dirty Henry pour te permettre de tirer tes flèches si
@@ -43,7 +44,7 @@ comments:
       procédé un peu facile et vulgaire."
   - author: ""
     author_email: ""
-    date: "2011-02-27 00:29:53 +0100"
+    date: 2011-02-27 00:29:53 +0100
     title: Qui es-tu Nolwenn Leroy ?
     content:
       "Cet article est écrit avec de la merde . Il faut le mettre à la poubelle
@@ -52,7 +53,7 @@ comments:
       ……Bretons intégristes , vous resterez!!!"
   - author: Bruno
     author_email: strokkur@free.fr
-    date: "2011-02-27 09:40:46 +0100"
+    date: 2011-02-27 09:40:46 +0100
     title: Qui es-tu Nolwenn Leroy ?
     content:
       ":) :) :) De l'humour, toujours de l'humour !\r\n\r\nParce que si 300 000
@@ -63,7 +64,7 @@ comments:
       de réflexion qui est vôtre :) :) :)\r\n\r\nAllez ! Sans rancunes ! ;)"
   - author: ""
     author_email: ""
-    date: "2011-02-27 13:22:02 +0100"
+    date: 2011-02-27 13:22:02 +0100
     title: Qui es-tu Nolwenn Leroy ?
     content:
       1ère  chose, elle pousse rien du tout. et 2ème c'est Patrick Fiori qui a
@@ -71,12 +72,12 @@ comments:
       entendeur salut.
   - author: ""
     author_email: ""
-    date: "2011-02-27 13:29:34 +0100"
+    date: 2011-02-27 13:29:34 +0100
     title: Qui es-tu Nolwenn Leroy ?
     content: Je dirais plutôt article dégoutant.
   - author: ninja66
     author_email: herold.jeanine0hotmail.fr
-    date: "2011-02-27 23:01:08 +0100"
+    date: 2011-02-27 23:01:08 +0100
     title: Qui es-tu Nolwenn Leroy ?
     content:
       Qui etes vous Monsieur Dirty Henry pour lancer autant de méchancetés, et
@@ -85,7 +86,7 @@ comments:
       aller vomir ailleurs.
   - author: Julio, là
     author_email: ""
-    date: "2011-03-31 11:55:59 +0200"
+    date: 2011-03-31 11:55:59 +0200
     title: Qui es-tu Nolwenn Leroy ?
     content:
       "Tu t'es bien fait pourrir, Dirty Henry ! La rançon de la gloire
@@ -97,7 +98,7 @@ comments:
       quand même un peu la chaude chez Patrick! Des frissons, j'en ai."
   - author: Dirty Henry
     author_email: dirtyhenry@gmail.com
-    date: "2011-03-31 18:11:03 +0200"
+    date: 2011-03-31 18:11:03 +0200
     title: Qui es-tu Nolwenn Leroy ?
     content: Toi au moins tu me comprends. Merci ton pote.
 ---

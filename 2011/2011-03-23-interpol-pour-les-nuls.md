@@ -4,7 +4,8 @@ title: Interpol pour les Nuls
 authors:
   - Dirty Henry
 wordpress_id: 803
-date: "2011-03-23 17:31:33 +0100"
+cover: interpol-live-daniel-kessler.png
+date: 2011-03-23 17:31:33 +0100
 ---
 
 -# _Obstacle 1_ -# _Say Hello To The Angels_ -# _Stella was a diver and she was
