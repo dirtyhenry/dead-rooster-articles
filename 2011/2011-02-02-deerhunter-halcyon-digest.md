@@ -8,7 +8,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 770
-date: "2011-02-02 22:46:44 +0100"
+cover: deerhunter-halcyon-digest.jpg
+date: 2011-02-02 22:46:44 +0100
 categories:
   - Catégories
   - Artistes

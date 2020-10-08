@@ -7,7 +7,8 @@ description:
 authors:
   - Joe Gantdelaine
 wordpress_id: 756
-date: "2011-03-05 09:36:22 +0100"
+cover: samshing-pumpkins.png
+date: 2011-03-05 09:36:22 +0100
 ---
 
 C'est le groupe test par excellence ! Un peu comme **Pink Floyd**. Tandis que

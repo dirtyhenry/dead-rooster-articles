@@ -6,7 +6,8 @@ description:
   premier bulletin de ma toute nouvelle chronique.
 author: Marcello Marcellito
 wordpress_id: 752
-date: "2011-01-13 19:47:26 +0100"
+cover: zone-ecoute-prioritaire.png
+date: 2011-01-13 19:47:26 +0100
 ---
 
 Les acronymes c'est cool et ça permet de faire, genre, on est hyper occupé et

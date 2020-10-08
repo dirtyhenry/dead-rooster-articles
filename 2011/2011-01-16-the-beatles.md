@@ -10,11 +10,12 @@ description:
 authors:
   - Joe Gantdelaine
 wordpress_id: 759
-date: "2011-01-16 13:58:45 +0100"
+cover: the-kinks.jpg
+date: 2011-01-16 13:58:45 +0100
 comments:
   - author: Lola
     author_email: ""
-    date: "2011-01-28 08:40:02 +0100"
+    date: 2011-01-28 08:40:02 +0100
     title: The Beatles
     content:
       "Plan B: la

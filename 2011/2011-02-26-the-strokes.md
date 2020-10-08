@@ -6,7 +6,8 @@ description:
 authors:
   - Joe Gantdelaine
 wordpress_id: 767
-date: "2011-02-26 14:11:40 +0100"
+cover: pub-edf-strokes.png
+date: 2011-02-26 14:11:40 +0100
 ---
 
 Groupe de la pub EDF.

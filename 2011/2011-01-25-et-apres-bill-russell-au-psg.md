@@ -4,7 +4,8 @@ title: Et après, Bill Russell au PSG ?
 authors:
   - Dirty Henry
 wordpress_id: 766
-date: "2011-01-25 09:07:09 +0100"
+cover: wilt-chamberlain-lakers.jpg
+date: 2011-01-25 09:07:09 +0100
 ---
 
 [Arsenal envisage d'engager
