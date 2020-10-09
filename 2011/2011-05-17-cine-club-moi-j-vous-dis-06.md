@@ -7,7 +7,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 841
-date: "2011-05-17 14:26:34 +0200"
+cover: narco.jpg
+date: 2011-05-17 14:26:34 +0200
 categories:
   - Catégories
 tags:

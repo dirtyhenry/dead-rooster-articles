@@ -9,7 +9,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 857
-date: "2011-06-28 12:28:53 +0200"
+cover: fresh-and-onlys-play-it-strange.jpg
+date: 2011-06-28 12:28:53 +0200
 categories:
   - Catégories
 tags:
@@ -17,7 +18,7 @@ tags:
 comments:
   - author: Joe Gantdelaine
     author_email: ""
-    date: "2011-06-28 12:58:05 +0200"
+    date: 2011-06-28 12:58:05 +0200
     title: The Fresh & Onlys - Play It Strange
     content:
       "Je me permets d'ajouter ce [lien](http://www.deadrooster.org/Primavera),

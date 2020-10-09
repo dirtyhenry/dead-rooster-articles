@@ -7,11 +7,12 @@ description:
 authors:
   - Joe Gantdelaine
 wordpress_id: 820
-date: "2011-11-05 09:23:36 +0100"
+cover: sosies-rolling-stoness.jpg
+date: 2011-11-05 09:23:36 +0100
 comments:
   - author: J. Prince de S.
     author_email: joan.gexfabry@gmail.com
-    date: "2011-11-05 11:40:27 +0100"
+    date: 2011-11-05 11:40:27 +0100
     title: The Rolling Stones
     content:
       "Cher Joe,\r\n\r\nJe suis un fan inconditionnel de votre chronique, et
@@ -21,7 +22,7 @@ comments:
       soyez-en remercié.\r\n\r\nJ., Prince de S."
   - author: Dirty Henry
     author_email: dirtyhenry@gmail.com
-    date: "2011-11-05 18:11:29 +0100"
+    date: 2011-11-05 18:11:29 +0100
     title: The Rolling Stones
     content:
       'N''oublions pas qu''un ancien membre du groupe a crée une très fameuse

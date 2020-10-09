@@ -7,7 +7,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 866
-date: "2011-07-05 09:50:00 +0200"
+cover: cluny-brown.jpg
+date: 2011-07-05 09:50:00 +0200
 categories:
   - Catégories
 tags:

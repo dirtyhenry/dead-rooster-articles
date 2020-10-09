@@ -5,7 +5,8 @@ description: Cette semaine, l'Encyclopédie est approximativement punk.
 authors:
   - Joe Gantdelaine
 wordpress_id: 833
-date: "2011-05-21 10:37:19 +0200"
+cover: mary-poppins-ramoneurs.jpg
+date: 2011-05-21 10:37:19 +0200
 ---
 
 Anciens potes de classe et tous en cursus américain d'un équivalent BEP

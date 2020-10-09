@@ -7,7 +7,8 @@ description:
 authors:
   - Joe Gantdelaine
 wordpress_id: 860
-date: "2011-07-02 09:17:47 +0200"
+cover: the-libertines.jpg
+date: 2011-07-02 09:17:47 +0200
 ---
 
 Au début de l'aventure, Peter Doherty et Cärl Bàrât sont deux amis ayant une

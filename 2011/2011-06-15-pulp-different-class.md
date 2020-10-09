@@ -12,7 +12,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 852
-date: "2011-06-15 12:17:59 +0200"
+cover: pulp-different-class.jpg
+date: 2011-06-15 12:17:59 +0200
 categories:
   - Catégories
   - Artistes

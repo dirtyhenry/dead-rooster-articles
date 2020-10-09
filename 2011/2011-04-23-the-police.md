@@ -8,11 +8,12 @@ description:
 authors:
   - Joe Gantdelaine
 wordpress_id: 832
-date: "2011-04-23 09:42:32 +0200"
+cover: the-police.jpg
+date: 2011-04-23 09:42:32 +0200
 comments:
   - author: StingFan
     author_email: ""
-    date: "2011-04-23 14:54:51 +0200"
+    date: 2011-04-23 14:54:51 +0200
     title: The Police
     content:
       "Pardon, mais il semblerait qu'il y ait quelques erreurs dans votre

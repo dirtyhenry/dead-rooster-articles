@@ -9,7 +9,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 840
-date: "2011-05-10 11:00:13 +0200"
+cover: spelling-bee-banner.jpg
+date: 2011-05-10 11:00:13 +0200
 categories:
   - Catégories
   - Artistes

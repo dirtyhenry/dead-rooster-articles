@@ -7,7 +7,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 824
-date: "2011-04-12 12:25:15 +0200"
+cover: chez-gino.jpg
+date: 2011-04-12 12:25:15 +0200
 categories:
   - Catégories
 tags:

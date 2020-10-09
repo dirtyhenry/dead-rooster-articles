@@ -7,7 +7,8 @@ description:
 authors:
   - Joe Gantdelaine
 wordpress_id: 843
-date: "2011-06-18 10:05:11 +0200"
+cover: the-stooges-comedians.jpg
+date: 2011-06-18 10:05:11 +0200
 ---
 
 The Stooges, c'est avant tout le groupe d'Iggy Pop, surnommé le Roi Lézard.

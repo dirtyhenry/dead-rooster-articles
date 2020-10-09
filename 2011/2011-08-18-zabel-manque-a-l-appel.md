@@ -4,7 +4,8 @@ title: Zabel manque à l'appel
 authors:
   - Dirty Henry
 wordpress_id: 882
-date: "2011-08-18 23:43:24 +0200"
+cover: roger-zabel.jpg
+date: 2011-08-18 23:43:24 +0200
 categories:
   - Catégories
 tags:

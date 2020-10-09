@@ -9,7 +9,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 867
-date: "2011-07-04 19:51:41 +0200"
+cover: fresh-and-onlys-play-it-strange.jpg
+date: 2011-07-04 19:51:41 +0200
 categories:
   - Catégories
 tags:

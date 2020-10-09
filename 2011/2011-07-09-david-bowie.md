@@ -7,12 +7,12 @@ description:
 authors:
   - Joe Gantdelaine
 wordpress_id: 844
-date: "2011-07-09 09:43:05 +0200"
-cover: david-bowie.jpg
+cover: isabelle-adjani-ohio.jpg
+date: 2011-07-09 09:43:05 +0200
 comments:
   - author: Alexia
     author_email: alexia8963@msn.com
-    date: "2011-08-12 18:02:08 +0200"
+    date: 2011-08-12 18:02:08 +0200
     title: David Bowie
     content:
       Assez drôle votre article sur David Bowie mais il pourrait être mensonger
