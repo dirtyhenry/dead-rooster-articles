@@ -9,7 +9,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 966
-date: "2011-12-09 18:44:15 +0100"
+cover: john-sinclair.jpg
+date: 2011-12-09 18:44:15 +0100
 ---
 
 Quand dans _John Sinclair_, John Lennon fait «You gotta, gotta, gotta, gotta,

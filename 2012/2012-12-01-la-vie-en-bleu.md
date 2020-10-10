@@ -4,7 +4,8 @@ title: La vie en bleu
 authors:
   - Joe Gantdelaine
 wordpress_id: 1146
-date: "2012-12-01 22:20:00 +0100"
+cover: michou.jpg
+date: 2012-12-01 22:20:00 +0100
 ---
 
 Aujourd'hui, [Michu a réalisé le

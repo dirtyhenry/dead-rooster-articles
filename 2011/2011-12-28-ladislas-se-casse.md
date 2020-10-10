@@ -4,7 +4,8 @@ title: Ladislas se casse !
 authors:
   - Joe Gantdelaine
 wordpress_id: 977
-date: "2011-12-28 00:35:37 +0100"
+cover: ladilas-de-hoyos.jpg
+date: 2011-12-28 00:35:37 +0100
 ---
 
 Lasdislas de Hoyos s'en est allé début décembre. Personne n'en a parlé, même pas

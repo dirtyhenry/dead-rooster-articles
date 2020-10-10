@@ -7,7 +7,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 952
-date: "2011-11-17 18:06:42 +0100"
+cover: the-livingstones-i-presume-vinyl-ep.png
+date: 2011-11-17 18:06:42 +0100
 ---
 
 Il y a maintenant presque un an, les magnifiques [The Livingstones I

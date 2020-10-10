@@ -4,7 +4,8 @@ title: Fumée dans les oreilles
 authors:
   - Dirty Henry
 wordpress_id: 1096
-date: "2012-08-30 08:00:00 +0200"
+cover: flaming-lips-live.jpg
+date: 2012-08-30 08:00:00 +0200
 categories:
   - Catégories
 tags:

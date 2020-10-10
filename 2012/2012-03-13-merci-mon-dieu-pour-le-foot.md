@@ -4,7 +4,8 @@ title: Merci mon dieu pour le foot !
 authors:
   - Joe Gantdelaine
 wordpress_id: 1009
-date: "2012-03-13 20:07:22 +0100"
+cover: foot-i-belong-to-jesus.jpg
+date: 2012-03-13 20:07:22 +0100
 ---
 
 C'est avec tristesse que l'on apprend [les échauffourées ayant eu lieu au cours

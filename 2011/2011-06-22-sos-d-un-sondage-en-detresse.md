@@ -4,7 +4,8 @@ title: SOS d'un sondage en détresse
 authors:
   - Dirty Henry
 wordpress_id: 854
-date: "2011-06-22 12:00:00 +0200"
+cover: daniel-balavoine-starmania.jpg
+date: 2011-06-22 12:00:00 +0200
 ---
 
 Le NME réalise actuellement

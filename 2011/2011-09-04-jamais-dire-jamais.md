@@ -4,7 +4,8 @@ title: Jamais dire jamais !
 authors:
   - Joe Gantdelaine
 wordpress_id: 897
-date: "2011-09-04 21:50:02 +0200"
+cover: fievel.jpg
+date: 2011-09-04 21:50:02 +0200
 ---
 
 Carla Bruni-Sarkozy semble n'avoir

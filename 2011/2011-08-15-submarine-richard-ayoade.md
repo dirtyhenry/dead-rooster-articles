@@ -8,7 +8,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 879
-date: "2011-08-15 18:44:24 +0200"
+cover: submarine.jpg
+date: 2011-08-15 18:44:24 +0200
 categories:
   - Catégories
   - Artistes

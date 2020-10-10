@@ -8,7 +8,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 889
-date: "2011-08-24 20:52:14 +0200"
+cover: the-graduate-dustin-hoffman.jpg
+date: 2011-08-24 20:52:14 +0200
 categories:
   - Catégories
   - Artistes

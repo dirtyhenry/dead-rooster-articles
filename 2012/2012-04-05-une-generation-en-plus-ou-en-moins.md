@@ -4,7 +4,8 @@ title: Une génération en plus ou en moins…
 authors:
   - Dirty Henry
 wordpress_id: 1020
-date: "2012-04-05 12:10:47 +0200"
+cover: banc-personnes-agees.jpg
+date: 2012-04-05 12:10:47 +0200
 ---
 
 Alors que

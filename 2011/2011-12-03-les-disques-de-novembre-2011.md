@@ -7,7 +7,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 961
-date: "2011-12-03 18:45:04 +0100"
+cover: disques-novembre-2011.png
+date: 2011-12-03 18:45:04 +0100
 categories:
   - Catégories
 tags:

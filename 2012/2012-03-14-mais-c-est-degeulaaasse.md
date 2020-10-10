@@ -4,7 +4,8 @@ title: Mais c'est dégeulâââsse
 authors:
   - Dirty Henry
 wordpress_id: 1010
-date: "2012-03-14 23:49:26 +0100"
+cover: paire-de-ciseaux.jpg
+date: 2012-03-14 23:49:26 +0100
 ---
 
 Les [Scissor

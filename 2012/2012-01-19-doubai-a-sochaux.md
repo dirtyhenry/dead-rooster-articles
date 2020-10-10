@@ -4,7 +4,8 @@ title: Doubaï à Sochaux
 authors:
   - Dirty Henry
 wordpress_id: 986
-date: "2012-01-19 10:38:43 +0100"
+cover: dubai-sochaux.png
+date: 2012-01-19 10:38:43 +0100
 ---
 
 L'Equipe l'affirme : [«Doubaï à

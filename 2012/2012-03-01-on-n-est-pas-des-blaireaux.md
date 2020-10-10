@@ -4,7 +4,8 @@ title: On n'est pas des blaireaux !
 authors:
   - Joe Gantdelaine
 wordpress_id: 1004
-date: "2012-03-01 18:49:47 +0100"
+cover: jolie-moustache.jpg
+date: 2012-03-01 18:49:47 +0100
 ---
 
 Parce que y en a marre de raser gratis, les américains

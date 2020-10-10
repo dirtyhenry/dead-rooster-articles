@@ -4,7 +4,8 @@ title: Sans mon duvet, quel duvet !
 authors:
   - Dirty Henry
 wordpress_id: 997
-date: "2012-02-16 12:13:06 +0100"
+cover: christophe-lemaitre.jpg
+date: 2012-02-16 12:13:06 +0100
 categories:
   - Catégories
 tags:

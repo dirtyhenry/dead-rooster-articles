@@ -4,7 +4,8 @@ title: Up In The Beach
 authors:
   - Dirty Henry
 wordpress_id: 1121
-date: "2012-10-02 22:41:39 +0200"
+cover: stuart-pete-beatles-montage.png
+date: 2012-10-02 22:41:39 +0200
 ---
 
 [Mike Love a décidé de virer Brian Wilson des Beach

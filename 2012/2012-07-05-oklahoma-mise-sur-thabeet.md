@@ -4,7 +4,8 @@ title: Oklahoma mise sur Thabeet
 authors:
   - Joe Gantdelaine
 wordpress_id: 1070
-date: "2012-07-05 12:00:08 +0200"
+cover: interdit-moins-18.jpg
+date: 2012-07-05 12:00:08 +0200
 ---
 
 Ils misent sur

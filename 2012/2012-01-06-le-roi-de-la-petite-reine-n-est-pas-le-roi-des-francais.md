@@ -4,7 +4,8 @@ title: Le roi de la petite reine n'est pas le roi des Français
 authors:
   - Dirty Henry
 wordpress_id: 978
-date: "2012-01-06 17:37:44 +0100"
+cover: thomas-voeckler.jpg
+date: 2012-01-06 17:37:44 +0100
 categories:
   - Catégories
 tags:

@@ -4,7 +4,8 @@ title: Valence recrute Pabon
 authors:
   - Dirty Henry
 wordpress_id: 1260
-date: "2013-08-20 11:23:54 +0200"
+cover: les-nuls-l-edition.jpg
+date: 2013-08-20 11:23:54 +0200
 ---
 
 [Dorian Pabon va jouer à Valence](http://www.lequipe.fr/Football/Actualites/Valence-s-offre-pabon/394069).

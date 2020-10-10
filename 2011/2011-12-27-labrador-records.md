@@ -7,7 +7,8 @@ description:
 authors:
   - Joe Gantdelaine
 wordpress_id: 976
-date: "2011-12-27 13:26:09 +0100"
+cover: labrador-chiot.jpg
+date: 2011-12-27 13:26:09 +0100
 ---
 
 Car oui, en cette dernière quinzaine de l'année, tout est vraiment TTM : les

@@ -8,7 +8,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 849
-date: "2011-06-01 11:48:55 +0200"
+cover: disques-vinyles.png
+date: 2011-06-01 11:48:55 +0200
 ---
 
 Ma principale résolution pour 2011[[outre 1440x900 - élue meilleure blague de

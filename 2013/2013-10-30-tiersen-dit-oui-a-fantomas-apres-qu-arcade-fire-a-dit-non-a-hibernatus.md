@@ -4,7 +4,8 @@ title: Tiersen dit oui à Fantomas après qu'Arcade Fire a dit non à Hibernatus
 authors:
   - Dirty Henry
 wordpress_id: 1263
-date: "2013-10-30 12:43:22 +0100"
+cover: louis-de-funes-hibernatus.jpg
+date: 2013-10-30 12:43:22 +0100
 ---
 
 Alors que

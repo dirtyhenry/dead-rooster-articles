@@ -4,7 +4,8 @@ title: Poutre dans l'oeil vol. 2
 authors:
   - Dirty Henry
 wordpress_id: 1046
-date: "2012-05-30 09:20:49 +0200"
+cover: tony-parker-bug-lequipe.png
+date: 2012-05-30 09:20:49 +0200
 categories:
   - Catégories
 tags:

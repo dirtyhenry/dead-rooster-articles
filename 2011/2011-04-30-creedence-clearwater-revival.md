@@ -8,18 +8,19 @@ description:
 authors:
   - Joe Gantdelaine
 wordpress_id: 828
-date: "2011-04-30 10:41:36 +0200"
+cover: creedence-desencyclopedie.jpg
+date: 2011-04-30 10:41:36 +0200
 comments:
   - author: Dirty Henry
     author_email: dirtyhenry@gmail.com
-    date: "2011-04-30 11:26:42 +0200"
+    date: 2011-04-30 11:26:42 +0200
     title: Creedence Clearwater Revival
     content:
       C'est Gérard Rinaldi des Charlots à gauche sur la photo non ? (le mec de
       {Marc et Sophie} quoi…)
   - author: Julio
     author_email: ""
-    date: "2011-04-30 14:53:31 +0200"
+    date: 2011-04-30 14:53:31 +0200
     title: Creedence Clearwater Revival
     content:
       Biographie complete, mais omettant, et c est dommage, leur engagement en
@@ -27,7 +28,7 @@ comments:
       Crees fait renaitre l'eau claire - en est la marque la plus importante
   - author: Joe Gantdelaine
     author_email: guiguilele@gmail.com
-    date: "2011-04-30 15:26:50 +0200"
+    date: 2011-04-30 15:26:50 +0200
     title: Creedence Clearwater Revival
     content:
       "Merci beaucoup pour cette précision approximative. C'est vrai que

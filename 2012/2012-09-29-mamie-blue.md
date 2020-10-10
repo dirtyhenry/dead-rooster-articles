@@ -4,7 +4,8 @@ title: Mamie Blue
 authors:
   - Joe Gantdelaine
 wordpress_id: 1119
-date: "2012-09-29 09:33:34 +0200"
+cover: nicoletta.jpg
+date: 2012-09-29 09:33:34 +0200
 ---
 
 D'après une info de L'équipe,

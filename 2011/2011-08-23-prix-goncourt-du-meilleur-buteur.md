@@ -4,7 +4,8 @@ title: Prix Goncourt du meilleur buteur
 authors:
   - Dirty Henry
 wordpress_id: 887
-date: "2011-08-23 19:48:09 +0200"
+cover: christine-angot-arsenal.png
+date: 2011-08-23 19:48:09 +0200
 ---
 
 Hier,

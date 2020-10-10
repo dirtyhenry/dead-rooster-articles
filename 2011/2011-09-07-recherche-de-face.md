@@ -4,7 +4,8 @@ title: Recherche de face
 authors:
   - Dirty Henry
 wordpress_id: 902
-date: "2011-09-07 16:18:21 +0200"
+cover: les-inconnus-perdus-de-recherche.jpg
+date: 2011-09-07 16:18:21 +0200
 ---
 
 Patrick Sabatier est formel :

@@ -4,7 +4,8 @@ title: ABBA ça alors !
 authors:
   - Dirty Henry
 wordpress_id: 1234
-date: "2013-05-20 14:21:52 +0200"
+cover: abba.jpg
+date: 2013-05-20 14:21:52 +0200
 ---
 
 Le best-of d'ABBA

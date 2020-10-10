@@ -4,7 +4,8 @@ title: Casse-Noisettes
 authors:
   - Dirty Henry
 wordpress_id: 949
-date: "2011-11-17 00:27:45 +0100"
+cover: il-casse-des-noix-avec-ses-fesses.png
+date: 2011-11-17 00:27:45 +0100
 ---
 
 Voilà une capture d'écran de ce qu'on pouvait trouver aujourd'hui dans la

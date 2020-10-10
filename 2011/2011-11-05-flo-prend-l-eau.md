@@ -4,7 +4,8 @@ title: Flo prend l'eau
 authors:
   - Joe Gantdelaine
 wordpress_id: 945
-date: "2011-11-05 14:26:31 +0100"
+cover: pierre-bachelet-florence-arthaud-flo.jpg
+date: 2011-11-05 14:26:31 +0100
 ---
 
 Florence Arthaud a bien failli se noyer la semaine dernière, retrouvée dans la

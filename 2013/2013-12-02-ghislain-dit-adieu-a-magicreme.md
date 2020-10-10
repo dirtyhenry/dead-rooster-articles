@@ -4,7 +4,8 @@ title: Ghislain dit adieu à Magicrème
 authors:
   - Dirty Henry
 wordpress_id: 1265
-date: "2013-12-02 17:17:18 +0100"
+cover: ghislain-lambert-velos.jpg
+date: 2013-12-02 17:17:18 +0100
 ---
 
 Douze ans après le film, Ghislain Gimbert continue ses légendaires ascensions,

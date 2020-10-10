@@ -4,7 +4,8 @@ title: "C'est officiel : la mascotte de la Coupe du…"
 authors:
   - Dirty Henry
 wordpress_id: 1110
-date: "2012-09-15 08:00:00 +0200"
+cover: tatouage.jpg
+date: 2012-09-15 08:00:00 +0200
 ---
 
 C'est officiel :

@@ -8,7 +8,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 934
-date: "2011-10-20 17:24:42 +0200"
+cover: arrested-development.png
+date: 2011-10-20 17:24:42 +0200
 categories:
   - Catégories
 tags:

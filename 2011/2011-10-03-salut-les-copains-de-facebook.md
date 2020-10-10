@@ -4,7 +4,8 @@ title: Salut les Copains de Facebook
 authors:
   - Dirty Henry
 wordpress_id: 922
-date: "2011-10-03 00:14:13 +0200"
+cover: photo-de-classe-vintage.jpg
+date: 2011-10-03 00:14:13 +0200
 ---
 
 [Mick Jagger a déclaré : "Je passe trop de temps sur

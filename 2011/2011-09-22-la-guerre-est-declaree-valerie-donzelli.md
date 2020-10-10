@@ -8,7 +8,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 914
-date: "2011-09-22 16:01:59 +0200"
+cover: la-guerre-est-declaree.jpg
+date: 2011-09-22 16:01:59 +0200
 categories:
   - Catégories
   - Artistes

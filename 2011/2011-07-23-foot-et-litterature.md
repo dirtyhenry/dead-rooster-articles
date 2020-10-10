@@ -4,7 +4,8 @@ title: Foot et littérature
 authors:
   - Joe Gantdelaine
 wordpress_id: 877
-date: "2011-07-23 02:29:45 +0200"
+cover: victor-hugo.jpg
+date: 2011-07-23 02:29:45 +0200
 categories:
   - Catégories
 tags:

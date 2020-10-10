@@ -4,7 +4,8 @@ title: Poutre dans l'oeil
 authors:
   - Dirty Henry
 wordpress_id: 1035
-date: "2012-05-11 20:10:18 +0200"
+cover: bug-lequipe.png
+date: 2012-05-11 20:10:18 +0200
 ---
 
 [L'Équipe se moque d'une faute d'orthographe sur le maillot de

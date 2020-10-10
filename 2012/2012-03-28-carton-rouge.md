@@ -4,7 +4,8 @@ title: Carton rouge !
 authors:
   - Joe Gantdelaine
 wordpress_id: 1016
-date: "2012-03-28 13:36:14 +0200"
+cover: carton-rouge.jpg
+date: 2012-03-28 13:36:14 +0200
 ---
 
 Le foot, ça devient n'importe quoi : maintenant,

@@ -4,7 +4,8 @@ title: Perdu d'avance
 authors:
   - Dirty Henry
 wordpress_id: 958
-date: "2011-11-29 14:47:08 +0100"
+cover: eurovision-2012.png
+date: 2011-11-29 14:47:08 +0100
 ---
 
 [Anggun a été choisie pour représenter la France à l'Eurovision](http://www.emarketool.fr/eurovision-anggun/).

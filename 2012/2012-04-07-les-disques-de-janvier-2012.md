@@ -7,7 +7,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 1021
-date: "2012-04-07 17:24:28 +0200"
+cover: disques-janvier-2012.png
+date: 2012-04-07 17:24:28 +0200
 categories:
   - Catégories
 tags:

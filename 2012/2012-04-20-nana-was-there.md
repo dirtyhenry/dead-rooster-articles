@@ -4,7 +4,8 @@ title: Nana was there !
 authors:
   - Joe Gantdelaine
 wordpress_id: 1024
-date: "2012-04-20 20:09:00 +0200"
+cover: nana-mouskouri.jpg
+date: 2012-04-20 20:09:00 +0200
 ---
 
 [N'Arnold n'et Willy](http://www.youtube.com/watch?v=lRNCLUBJk08] n'ont rien

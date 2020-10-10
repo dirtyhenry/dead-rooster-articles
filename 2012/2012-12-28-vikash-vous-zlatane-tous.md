@@ -4,7 +4,8 @@ title: Vikash vous zlatane tous !
 authors:
   - Dirty Henry
 wordpress_id: 1153
-date: "2012-12-28 18:14:59 +0100"
+cover: galette-des-rois.jpg
+date: 2012-12-28 18:14:59 +0100
 categories:
   - Catégories
 tags:

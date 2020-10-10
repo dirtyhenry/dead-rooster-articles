@@ -4,7 +4,8 @@ title: Termerdator
 authors:
   - Dirty Henry
 wordpress_id: 942
-date: "2011-11-01 03:18:46 +0100"
+cover: terminator-2-drops.png
+date: 2011-11-01 03:18:46 +0100
 ---
 
 Damon Albarn a sorti un nouveau "super" groupe de son chapeau. Ça s'appelle

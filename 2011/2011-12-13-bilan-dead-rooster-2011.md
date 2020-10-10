@@ -7,7 +7,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 969
-date: "2011-12-13 18:51:40 +0100"
+cover: message-caractere-informatif-notes.png
+date: 2011-12-13 18:51:40 +0100
 ---
 
 C'est bientôt la fin de l'année, et c'est l'heure du bilan 2011 pour Dead

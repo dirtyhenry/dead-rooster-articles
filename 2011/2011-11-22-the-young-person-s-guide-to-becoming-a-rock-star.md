@@ -8,7 +8,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 955
-date: "2011-11-22 23:34:06 +0100"
+cover: jocks-wa-hey.jpg
+date: 2011-11-22 23:34:06 +0100
 categories:
   - Catégories
 tags:
@@ -16,7 +17,7 @@ tags:
 comments:
   - author: Jarko
     author_email: ""
-    date: "2011-12-13 00:18:28 +0100"
+    date: 2011-12-13 00:18:28 +0100
     title: The Young Person's Guide To Becoming A Rock Star
     content:
       "LA série sur l'univers de la musique…. combien de fou-rires j'ai pu avoir

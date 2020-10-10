@@ -4,7 +4,8 @@ title: Y'a pas de fumée sur l'eau sans feu
 authors:
   - Dirty Henry
 wordpress_id: 1075
-date: "2012-07-18 15:46:23 +0200"
+cover: jon-lord.jpg
+date: 2012-07-18 15:46:23 +0200
 ---
 
 Jon Lord est mort. Au paradis, les autoroutes de l'espace ont trouvé leur

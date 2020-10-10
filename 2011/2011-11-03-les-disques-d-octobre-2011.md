@@ -8,7 +8,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 943
-date: "2011-11-03 17:08:32 +0100"
+cover: disques-octobre-2011.png
+date: 2011-11-03 17:08:32 +0100
 categories:
   - Catégories
 tags:
@@ -16,7 +17,7 @@ tags:
 comments:
   - author: Joe Gantdelaine
     author_email: ""
-    date: "2011-11-04 17:49:21 +0100"
+    date: 2011-11-04 17:49:21 +0100
     title: Les disques d'octobre 2011
     content:
       "Male Bonding n'est pas trop skate punk.\r\nUn groupe qui est trop punk,

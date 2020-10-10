@@ -4,7 +4,8 @@ title: Football sauce moutarde
 authors:
   - Joe Gantdelaine
 wordpress_id: 875
-date: "2011-07-20 17:35:16 +0200"
+cover: moutarde.jpg
+date: 2011-07-20 17:35:16 +0200
 categories:
   - Catégories
 tags:

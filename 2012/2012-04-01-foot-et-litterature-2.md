@@ -4,7 +4,8 @@ title: Foot et littérature (2)
 authors:
   - Joe Gantdelaine
 wordpress_id: 1019
-date: "2012-04-01 23:08:00 +0200"
+cover: victor-hugo-2.jpg
+date: 2012-04-01 23:08:00 +0200
 ---
 
 [Lors d'un précédent article](http://www.deadrooster.org/Foot-et-litterature],

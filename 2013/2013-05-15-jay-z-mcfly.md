@@ -4,7 +4,8 @@ title: Jay-Z McFly
 authors:
   - Dirty Henry
 wordpress_id: 1231
-date: "2013-05-15 12:11:43 +0200"
+cover: jay-z-vintage-sosie.jpg
+date: 2013-05-15 12:11:43 +0200
 ---
 
 Le NME révèle enfin que [Jay-Z voyage dans le

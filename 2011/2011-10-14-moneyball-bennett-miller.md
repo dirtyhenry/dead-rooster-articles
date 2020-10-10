@@ -7,7 +7,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 932
-date: "2011-10-14 00:20:15 +0200"
+cover: moneyball-brad-pitt.png
+date: 2011-10-14 00:20:15 +0200
 categories:
   - Artistes
 tags:

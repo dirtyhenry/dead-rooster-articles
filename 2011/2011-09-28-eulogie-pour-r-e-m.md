@@ -8,7 +8,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 915
-date: "2011-09-28 02:25:53 +0200"
+cover: rem-shiny-happy-people.jpg
+date: 2011-09-28 02:25:53 +0200
 categories:
   - Artistes
 tags:
@@ -16,7 +17,7 @@ tags:
 comments:
   - author: Benji
     author_email: ""
-    date: "2011-09-29 18:21:20 +0200"
+    date: 2011-09-29 18:21:20 +0200
     title: Eulogie pour R.E.M.
     content:
       "N'ayant pas youtube au boulot, je ne vois pas les chansons

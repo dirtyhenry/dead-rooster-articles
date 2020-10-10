@@ -4,11 +4,12 @@ title: Hack-a-Shaq
 authors:
   - Joe Gantdelaine
 wordpress_id: 851
-date: "2011-06-02 09:20:13 +0200"
+cover: shaquille-o-neal-grimace.jpg
+date: 2011-06-02 09:20:13 +0200
 comments:
   - author: Dirty Henry
     author_email: dirtyhenry@gmail.com
-    date: "2011-06-02 13:30:52 +0200"
+    date: 2011-06-02 13:30:52 +0200
     title: Hack-a-Shaq
     content: Merde, ça veut dire qu'on n'est plus à l'abri dans Blue Chips 2 ?
 ---

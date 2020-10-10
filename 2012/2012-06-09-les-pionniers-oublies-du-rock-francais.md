@@ -10,7 +10,8 @@ description:
 authors:
   - Joe Gantdelaine
 wordpress_id: 1048
-date: "2012-06-09 10:00:00 +0200"
+cover: philippe-manoeuvre-2.jpg
+date: 2012-06-09 10:00:00 +0200
 ---
 
 Le rock français a toujours été le parent pauvre du Rock and Roll. Et pourtant !

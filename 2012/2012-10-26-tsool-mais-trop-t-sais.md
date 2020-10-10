@@ -7,7 +7,8 @@ description:
 authors:
   - Joe Gantdelaine
 wordpress_id: 1129
-date: "2012-10-26 01:25:26 +0200"
+cover: the-soundtrack-of-our-lives.jpg
+date: 2012-10-26 01:25:26 +0200
 categories:
   - Artistes
 tags:

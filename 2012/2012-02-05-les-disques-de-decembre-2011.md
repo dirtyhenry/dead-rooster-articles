@@ -8,7 +8,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 992
-date: "2012-02-05 15:31:15 +0100"
+cover: disques-decembre-2011.png
+date: 2012-02-05 15:31:15 +0100
 categories:
   - Catégories
   - Artistes

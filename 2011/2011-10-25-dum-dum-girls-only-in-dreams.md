@@ -8,7 +8,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 936
-date: "2011-10-25 04:07:00 +0200"
+cover: dum-dum-girls-only-in-dreams.png
+date: 2011-10-25 04:07:00 +0200
 categories:
   - Catégories
   - Artistes

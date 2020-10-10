@@ -10,7 +10,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 829
-date: "2011-04-21 17:15:42 +0200"
+cover: social-square.jpg
+date: 2011-04-21 17:15:42 +0200
 categories:
   - Catégories
 tags:

@@ -4,7 +4,8 @@ title: Help-me Gibler
 authors:
   - Dirty Henry
 wordpress_id: 1057
-date: "2012-06-21 12:22:48 +0200"
+cover: the-beach-boys-john-stamos.jpg
+date: 2012-06-21 12:22:48 +0200
 categories:
   - Catégories
   - Artistes

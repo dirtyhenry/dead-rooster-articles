@@ -4,11 +4,12 @@ title: Reprise hors cadre
 authors:
   - Dirty Henry
 wordpress_id: 878
-date: "2011-08-01 17:31:13 +0200"
+cover: synthetiseur.jpg
+date: 2011-08-01 17:31:13 +0200
 comments:
   - author: guiguilele
     author_email: ""
-    date: "2011-08-06 15:13:49 +0200"
+    date: 2011-08-06 15:13:49 +0200
     title: Reprise hors cadre
     content:
       Quand se décidera-t-on à pendre haut et court le créateur du vocodeur ?

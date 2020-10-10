@@ -4,7 +4,8 @@ title: Finies les carresses et bises à l'oeil…
 authors:
   - Dirty Henry
 wordpress_id: 890
-date: "2011-08-26 14:58:27 +0200"
+cover: bernard-lenoir.jpg
+date: 2011-08-26 14:58:27 +0200
 ---
 
 Par un gentil mail envoyé à ses auditeurs, Bernard Lenoir a annoncé qu'il
