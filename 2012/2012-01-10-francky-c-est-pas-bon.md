@@ -4,7 +4,8 @@ title: Francky, c'est pas bon !
 authors:
   - Joe Gantdelaine
 wordpress_id: 980
-date: "2012-01-10 21:30:55 +0100"
+cover: francky-vincent.jpg
+date: 2012-01-10 21:30:55 +0100
 ---
 
 Apparemment,

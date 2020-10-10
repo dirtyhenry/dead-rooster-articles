@@ -4,7 +4,8 @@ title: Merci le foot !
 authors:
   - Joe Gantdelaine
 wordpress_id: 983
-date: "2012-01-12 21:49:19 +0100"
+cover: merci-le-foot-ariel-wizman.png
+date: 2012-01-12 21:49:19 +0100
 ---
 
 Apparemment,

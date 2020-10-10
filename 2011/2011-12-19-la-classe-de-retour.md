@@ -4,7 +4,8 @@ title: La classe de retour !
 authors:
   - Dirty Henry
 wordpress_id: 974
-date: "2011-12-19 12:57:51 +0100"
+cover: fabrice-la-classe.jpg
+date: 2011-12-19 12:57:51 +0100
 ---
 
 [La

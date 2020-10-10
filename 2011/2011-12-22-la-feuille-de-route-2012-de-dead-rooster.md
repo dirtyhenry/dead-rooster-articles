@@ -7,7 +7,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 975
-date: "2011-12-22 12:33:54 +0100"
+cover: les-inconnus-reveillon.png
+date: 2011-12-22 12:33:54 +0100
 ---
 
 La semaine dernière, on a fait [le bilan 2011](969), il est temps de passer aux

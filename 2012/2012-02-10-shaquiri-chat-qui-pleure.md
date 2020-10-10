@@ -4,11 +4,12 @@ title: Shaquiri, chat qui pleure
 authors:
   - Dirty Henry
 wordpress_id: 994
-date: "2012-02-10 12:11:56 +0100"
+cover: bayern-munich-shakira-montage.png
+date: 2012-02-10 12:11:56 +0100
 comments:
   - author: guiguilele
     author_email: ""
-    date: "2012-02-10 12:43:55 +0100"
+    date: 2012-02-10 12:43:55 +0100
     title: Shaquiri, chat qui pleure
     content:
       Est-ce que Francis Cabrel va devenir une star à l'Allianz Arena ?
