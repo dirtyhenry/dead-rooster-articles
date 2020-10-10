@@ -4,7 +4,8 @@ title: Le Bien et Le Mal
 authors:
   - Dirty Henry
 wordpress_id: 904
-date: "2011-09-07 21:00:07 +0200"
+cover: homer-simpson-evil-angel.jpg
+date: 2011-09-07 21:00:07 +0200
 ---
 
 [Hanson critique l'attitude des Kings of

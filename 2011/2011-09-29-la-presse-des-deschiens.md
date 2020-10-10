@@ -4,7 +4,8 @@ title: La presse des Deschiens
 authors:
   - Joe Gantdelaine
 wordpress_id: 921
-date: "2011-09-29 19:26:43 +0200"
+cover: les-deschiens.jpg
+date: 2011-09-29 19:26:43 +0200
 ---
 
 Francis Morel prendrait la tête des

@@ -4,7 +4,8 @@ title: Il fait quoi Coco Martins ?
 authors:
   - Dirty Henry
 wordpress_id: 900
-date: "2011-09-06 18:00:00 +0200"
+cover: noix-de-coco.jpg
+date: 2011-09-06 18:00:00 +0200
 categories:
   - Catégories
 tags:

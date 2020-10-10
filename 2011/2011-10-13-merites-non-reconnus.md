@@ -4,7 +4,8 @@ title: Mérites non reconnus
 authors:
   - Dirty Henry
 wordpress_id: 931
-date: "2011-10-13 22:53:14 +0200"
+cover: david-et-jonathan.jpg
+date: 2011-10-13 22:53:14 +0200
 ---
 
 Le verdict est tombé : We Build This City, de Starship a été [élue pire chanson

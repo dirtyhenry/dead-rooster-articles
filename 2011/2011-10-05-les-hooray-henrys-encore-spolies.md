@@ -4,7 +4,8 @@ title: Les Hooray Henrys encore spoliés
 authors:
   - Dirty Henry
 wordpress_id: 923
-date: "2011-10-05 09:00:00 +0200"
+cover: queen.jpg
+date: 2011-10-05 09:00:00 +0200
 categories:
   - Artistes
 tags:

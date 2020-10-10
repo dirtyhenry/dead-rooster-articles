@@ -7,7 +7,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 905
-date: "2011-09-08 18:43:53 +0200"
+cover: bored-to-death-jason-schwartzman.jpg
+date: 2011-09-08 18:43:53 +0200
 categories:
   - Artistes
   - Catégories

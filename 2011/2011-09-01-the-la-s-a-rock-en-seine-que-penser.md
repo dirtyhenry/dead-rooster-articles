@@ -8,7 +8,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 894
-date: "2011-09-01 00:13:54 +0200"
+cover: the-las.jpg
+date: 2011-09-01 00:13:54 +0200
 categories:
   - Catégories
   - Artistes

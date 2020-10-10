@@ -4,7 +4,8 @@ title: Parker est un Spur
 authors:
   - Dirty Henry
 wordpress_id: 895
-date: "2011-09-01 15:24:24 +0200"
+cover: parker-lewis.jpg
+date: 2011-09-01 15:24:24 +0200
 ---
 
 L'Equipe l'annonce :

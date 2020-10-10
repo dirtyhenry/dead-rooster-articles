@@ -4,7 +4,8 @@ title: Jagger c'est presque reggae à l'envers
 authors:
   - Dirty Henry
 wordpress_id: 898
-date: "2011-09-05 23:11:14 +0200"
+cover: kayak.jpg
+date: 2011-09-05 23:11:14 +0200
 categories:
   - Catégories
 tags:
