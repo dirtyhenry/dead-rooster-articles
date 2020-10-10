@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Coldwave badante
+title: Interpol - Turn on the Bright Lights
 authors:
   - Dirty Henry
 wordpress_id: 316
