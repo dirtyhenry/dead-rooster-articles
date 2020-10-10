@@ -4,7 +4,8 @@ title: Même plus tranquille chez soi, vol. 2
 authors:
   - Dirty Henry
 wordpress_id: 1104
-date: "2012-09-05 08:00:00 +0200"
+cover: poele.jpg
+date: 2012-09-05 08:00:00 +0200
 ---
 
 [Bono avait déjà été emmerdé chez lui il y a 4 ans](457], maintenant voilà

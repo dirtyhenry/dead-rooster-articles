@@ -4,7 +4,8 @@ title: Le Poulpe des champs
 authors:
   - Dirty Henry
 wordpress_id: 1072
-date: "2012-07-09 11:56:43 +0200"
+cover: ssupporters-tristes.jpg
+date: 2012-07-09 11:56:43 +0200
 ---
 
 Le sélectionneur de l'équipe de France n'est toujours pas finistérien.

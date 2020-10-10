@@ -3,7 +3,8 @@ layout: post
 title: Une carte mystère…
 author: Le Prince de Savoie
 wordpress_id: 1022
-date: "2012-04-18 10:25:46 +0200"
+cover: les-aventuriers-du-rail.jpg
+date: 2012-04-18 10:25:46 +0200
 ---
 
 Dans [l'exposition consacrée à Bob

@@ -10,7 +10,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 1082
-date: "2012-07-27 11:01:53 +0200"
+cover: rock-en-seine.png
+date: 2012-07-27 11:01:53 +0200
 categories:
   - Catégories
 tags:

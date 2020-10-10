@@ -4,7 +4,8 @@ title: Comme sur un plateau !
 authors:
   - Joe Gantdelaine
 wordpress_id: 1023
-date: "2012-04-19 20:00:00 +0200"
+cover: plateau-fruits-de-mer.jpg
+date: 2012-04-19 20:00:00 +0200
 ---
 
 Dans le match contre Marseille, les Caennais ont marqué grâce à une incroyable

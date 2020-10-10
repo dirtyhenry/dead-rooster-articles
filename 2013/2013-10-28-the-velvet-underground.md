@@ -7,7 +7,8 @@ description:
 authors:
   - Joe Gantdelaine
 wordpress_id: 1262
-date: "2013-10-28 09:51:00 +0100"
+cover: the-velvet-underground-fake-pochette.jpg
+date: 2013-10-28 09:51:00 +0100
 ---
 
 Alors le Velvet Underground, c'est quoi, c'est qui ?

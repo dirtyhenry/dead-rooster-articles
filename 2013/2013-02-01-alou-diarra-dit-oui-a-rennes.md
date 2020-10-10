@@ -4,7 +4,8 @@ title: Alou Diarra dit oui à Rennes ?!
 authors:
   - Dirty Henry
 wordpress_id: 1167
-date: "2013-02-01 12:00:00 +0100"
+cover: montcuq-daniel-prevost.jpg
+date: 2013-02-01 12:00:00 +0100
 ---
 
 Dead Rooster soutient le mariage pour tous mais quel dommage que, comme le titre

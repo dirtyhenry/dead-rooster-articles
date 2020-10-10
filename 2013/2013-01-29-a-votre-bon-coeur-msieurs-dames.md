@@ -4,7 +4,8 @@ title: A votre bon cœur msieurs-dames !
 authors:
   - Joe Gantdelaine
 wordpress_id: 1165
-date: "2013-01-29 18:42:12 +0100"
+cover: tirelire-maigre.jpg
+date: 2013-01-29 18:42:12 +0100
 ---
 
 C'est moche à dire, mais si toutes les personnes ayant visité Dead Rooster l'an

@@ -4,7 +4,8 @@ title: Eudeline à Nantes
 authors:
   - Dirty Henry
 wordpress_id: 1083
-date: "2012-07-27 14:31:54 +0200"
+cover: eudeline-fc-nantes-montage.png
+date: 2012-07-27 14:31:54 +0200
 ---
 
 À défaut de canard,

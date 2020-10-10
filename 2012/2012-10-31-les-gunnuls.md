@@ -4,7 +4,8 @@ title: Les Gunnuls
 authors:
   - Joe Gantdelaine
 wordpress_id: 1132
-date: "2012-10-31 09:04:39 +0100"
+cover: arsene-wenger-grimace.jpg
+date: 2012-10-31 09:04:39 +0100
 ---
 
 Alors que Paul-Henri Mathieu n'a mis [qu'à peine plus de 90 minutes pour

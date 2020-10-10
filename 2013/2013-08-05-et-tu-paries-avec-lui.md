@@ -4,7 +4,8 @@ title: Et tu paries avec lui
 authors:
   - Joe Gantdelaine
 wordpress_id: 1259
-date: "2013-08-05 18:09:50 +0200"
+cover: c-jerome.jpg
+date: 2013-08-05 18:09:50 +0200
 ---
 
 Déjà condamné plusieurs fois (on se souvient tous du poignant aveu : "Oui,

@@ -4,7 +4,8 @@ title: Moeurs légères
 authors:
   - Dirty Henry
 wordpress_id: 1123
-date: "2012-10-09 19:12:37 +0200"
+cover: hamster-jovial-pipi-comic.png
+date: 2012-10-09 19:12:37 +0200
 ---
 
 Ke\$ha a fait [l'amour avec un fantôme](http://www.nme.com/news/keha/66332]

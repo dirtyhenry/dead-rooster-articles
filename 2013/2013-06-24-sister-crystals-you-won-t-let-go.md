@@ -4,7 +4,8 @@ title: Sister Crystals - You Won't Let Go
 authors:
   - Dirty Henry
 wordpress_id: 1251
-date: "2013-06-24 12:00:00 +0200"
+cover: sister-crystals.jpg
+date: 2013-06-24 12:00:00 +0200
 ---
 
 Après avoir partagé leur titre [_For So Long_](1193) il y a quelques semaines,

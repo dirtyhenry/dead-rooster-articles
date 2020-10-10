@@ -4,7 +4,8 @@ title: Plagiat éhonté outre-Manche
 authors:
   - Dirty Henry
 wordpress_id: 1047
-date: "2012-06-01 12:00:00 +0200"
+cover: union-jack.png
+date: 2012-06-01 12:00:00 +0200
 categories:
   - Catégories
 tags:
@@ -12,7 +13,7 @@ tags:
 comments:
   - author: HRH Elizabeth
     author_email: ""
-    date: "2012-06-01 12:23:08 +0200"
+    date: 2012-06-01 12:23:08 +0200
     title: Plagiat éhontée outre-Manche
     content: Shocking. Tout comme ton manque de credit, ca m'apprendra tiens.
 ---

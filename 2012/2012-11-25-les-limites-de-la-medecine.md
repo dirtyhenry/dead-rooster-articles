@@ -7,7 +7,8 @@ description:
 authors:
   - Joe Gantdelaine
 wordpress_id: 1143
-date: "2012-11-25 10:21:10 +0100"
+cover: vaccin-enfant.jpg
+date: 2012-11-25 10:21:10 +0100
 ---
 
 Avant d'écouter **The Vaccines**, j'avais un gros a priori négatif : j'entendais
