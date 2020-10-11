@@ -27,7 +27,7 @@ Beat Connection vient de diffuser un EP gratuit sur bandcamp.
 <img367|center>
 
 Les gens de I Guess I'm Floating sont d'accord sur la qualité de la pochette… et
-[partagent les doutes sur la musique](http://www.iguessimfloating.net/2010/08/mpfree-warm-waves-lifted-ep.html).
+partagent les doutes sur la musique.
 
 ## Pony Club
 

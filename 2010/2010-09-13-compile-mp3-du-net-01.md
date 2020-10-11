@@ -38,8 +38,8 @@ Maroquinerie, à Paris, le 4 octobre.
 </div></li>
 
 <li><div class="polaroid">
-[<img372> Family Trees
-*Dream Talkin*](http://iguessimfloating.blogspot.com/2010/07/mp3-family-trees-dream-talkin.html)
+<img372> Family Trees
+*Dream Talkin*
 </div></li>
 
 <li><div class="polaroid">
@@ -58,8 +58,8 @@ Maroquinerie, à Paris, le 4 octobre.
 </div></li>
 
 <li><div class="polaroid">
-[<img376> Levek
-*Second Second*](http://iguessimfloating.blogspot.com/2010/08/mp3-new-levek-second-second-viernes.html)
+<img376> Levek
+*Second Second*
 </div></li>
 
 <li><div class="polaroid">

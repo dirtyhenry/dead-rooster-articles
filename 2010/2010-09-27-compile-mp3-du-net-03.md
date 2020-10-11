@@ -25,8 +25,8 @@ particulièrement à découvrir les excellents **Guards** et **The Fresh & Onlys
 <ul class="polaroids">
 
 <li><div class="polaroid">
-[<img390>Guards
-*Long Time*](http://www.iguessimfloating.net/2010/07/mpfree-guards-st-debut-ep-feat-cults.html)
+<img390>Guards
+*Long Time*
 </div></li>
 
 <li><div class="polaroid">
@@ -40,8 +40,8 @@ particulièrement à découvrir les excellents **Guards** et **The Fresh & Onlys
 </div></li>
 
 <li><div class="polaroid">
-[<img393>Parenthetical Girls
-*Young Throats*](http://www.iguessimfloating.net/2010/08/mp3-new-parenthetical-girls-young-throats.html)
+<img393>Parenthetical Girls
+*Young Throats*
 </div></li>
 
 <li><div class="polaroid">
@@ -50,8 +50,8 @@ particulièrement à découvrir les excellents **Guards** et **The Fresh & Onlys
 </div></li>
 
 <li><div class="polaroid">
-[<img396>Telenovelas
-*One and Only*](http://www.iguessimfloating.net/2010/08/mp3-telenovelas-one-and-only.html)
+<img396>Telenovelas
+*One and Only*
 </div></li>
 
 <li><div class="polaroid">

@@ -37,8 +37,8 @@ Only Knows_, des Beach Boys.
 <li><div class="polaroid">[<img404>Shannon Wright
 *Commoner’s Saint*](http://www.popnews.com/news/6172/un-mp3-de-shannon-wright-en-exclusivite/)</div></li>
 
-<li><div class="polaroid">[<img401>Computer Magic
-*About You*](http://www.iguessimfloating.net/2010/09/mp3-new-computer-magic-about-you.html)</div></li>
+<li><div class="polaroid"><img401>Computer Magic
+*About You*</div></li>
 
 <li><div class="polaroid">[<img407>Cheyenne Marie Mize
 *Beautiful Dreamer*](http://www.bonpourlesoreilles.net/musique/2010/08/old-western.html)</div></li>

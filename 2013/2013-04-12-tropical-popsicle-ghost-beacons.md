@@ -7,11 +7,10 @@ wordpress_id: 1217
 date: "2013-04-12 10:00:00 +0200"
 ---
 
-{The Dawn Of Delight}, le 1er LP de Tropical Popsicle arrive. Ce groupe de San
+_The Dawn Of Delight_, le 1er LP de Tropical Popsicle arrive. Ce groupe de San
 Diego semble être l'oeuvre d'un dénommé Tim Hines, qui fait tout tout seul, de
 la musique à la pochette, à l'exception de ce titre, fait à plusieurs mains.
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F53075947"></iframe>
+{% soundcloud 53075947 %}
 
-via
-[IGIF](http://www.iguessimfloating.net/2013/03/listen-topical-popsicle-the-dawn-of-delight-lp.html)
+(via feu iguessimfloating.net)

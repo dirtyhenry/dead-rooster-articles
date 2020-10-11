@@ -24,14 +24,14 @@ et fermer la compile avec une reprise de Katy Perry.
 
 <ul class="polaroids">
 
-<li><div class=polaroid>[<img410>Foxes In Fiction
-*Bathurst*](http://www.iguessimfloating.net/2010/09/mp3-new-foxes-in-fiction-bathurst.html)</div></li>
-<li><div class=polaroid>[<img411>Mean Wind
-*Yr Swword*](http://www.iguessimfloating.net/2010/09/mpfree-mean-windss-what-happens-in-hingham-ep.html)</div></li>
+<li><div class=polaroid><img410>Foxes In Fiction
+*Bathurst*</div></li>
+<li><div class=polaroid><img411>Mean Wind
+*Yr Swword*</div></li>
 <li><div class=polaroid>[<img412>Lower Dens
 *Blue And Silver*](http://stereogum.com/522201/lower-dens-blue-and-silver/mp3s/)</div></li>
-<li><div class=polaroid>[<img413>Seamonster
-*Oh Appalachia*](http://www.iguessimfloating.net/2010/09/mpfree-seamonsters-two-birds-ep.html)</div></li>
+<li><div class=polaroid><img413>Seamonster
+*Oh Appalachia*</div></li>
 <li><div class=polaroid>[<img414>Sharon Van Etten
 *Don’t Do It*](http://stereogum.com/503982/sharon-van-etten-dont-do-it-stereogum-premiere/mp3s/)</div></li>
 <li><div class=polaroid>[<img415>Chapter
@@ -40,8 +40,8 @@ et fermer la compile avec une reprise de Katy Perry.
 *Hamilton Road*](http://stereogum.com/463342/ducktails-hamilton-road/mp3s/)</div></li>
 <li><div class=polaroid>[<img417>Reading Rainbow
 *Wasting Time*](http://stereogum.com/506002/reading-rainbow-wasting-time/mp3s/)</div></li>
-<li><div class=polaroid>[<img418>Foxes in Fiction & Weed
-*Teenage Dream (Katy Perry)*](http://www.iguessimfloating.net/2010/09/thursday-and-covers-2.html)</div></li>
+<li><div class=polaroid><img418>Foxes in Fiction & Weed
+*Teenage Dream (Katy Perry)*</div></li>
 
 </ul>
 

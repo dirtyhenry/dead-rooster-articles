@@ -15,10 +15,9 @@ tags:
   - Single
 ---
 
+{% youtube inp3Dh1zib8 %}
+
 Le groupe de Memphis **Magic Kids** nous invite à imaginer qu'on est en
 Californie dans les années 60.
 
-{% youtube inp3Dh1zib8 %}
-
-(via
-[iguessimfloating.net](http://www.iguessimfloating.net/2010/08/video-magic-kids-superball.html))
+(via feu iguessimfloating.net)
