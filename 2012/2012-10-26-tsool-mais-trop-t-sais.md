@@ -48,7 +48,7 @@ moustache…).
 
 {% youtube -2SRfj-l65o %}
 
-Ensuite, il y a eu [cet album](http://www.deezer.com/fr/album/1668777], sorti au
+Ensuite, il y a eu [cet album](http://www.deezer.com/fr/album/1668777), sorti au
 milieu de l'été et dont le groupe avait déjà joué pas mal de morceaux à Paris
 (au passage, c'est assez triste de voir que ni Allmusic, ni le Wikipédia
 français n'en parle…). Sans surprise, le disque est globalement formidable, avec

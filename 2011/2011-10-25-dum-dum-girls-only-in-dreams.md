@@ -33,7 +33,7 @@ La tournée française, elle, avait déçu. Conforme à ce qu'en disait la press
 prestation à la Route du Rock 2010 fut loin des sommets historiques du festival
 : la pose bas-résille-et-Ray-Ban des quatre filles du groupe n'est certes pas
 désagréable, mais derrière, pas grand chose. Les Inrocks avaient écrit
-[ici](http://www.lesinrocks.com/musique/musique-article/t/49359/date/2010-08-16/article/on-y-est-la-route-du-rock-jour-3/]
+[ici](http://www.lesinrocks.com/musique/musique-article/t/49359/date/2010-08-16/article/on-y-est-la-route-du-rock-jour-3/)
 la déception («les petits rollercoasters malins de l’album sont ici enchaînés
 sans grande vie, semblent presque interchangeables, les morceaux semblent cloués
 au sol») et se moquaient même d'un [camel
@@ -61,7 +61,7 @@ soupçonner le groupe capable (_In My Head_ ou _Hold Your Hand_).
 Derrière les Dum Dum Girls, il serait difficile de parler de groupe. Il s'agit
 plutôt de Dee Dee
 (ex-[Grand Ole Party](http://www.youtube.com/watch?v=Xziod5qt03k)) et [des
-Ringo-ettes](277]. Il a donc bien fallu que Dee Dee s'entoure d'un bon
+Ringo-ettes](277). Il a donc bien fallu que Dee Dee s'entoure d'un bon
 producteur aux manettes de l'album. Elle en a même pris deux. Le premier
 s'appelle Richard Gottehrer, qui n'a jamais écrit [*Le
 Youki*->http://www.youtube.com/watch?v=Wx7vKvQ4axQ] ou [*Poil Au

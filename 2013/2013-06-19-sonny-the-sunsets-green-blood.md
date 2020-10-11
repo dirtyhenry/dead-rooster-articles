@@ -12,7 +12,7 @@ remédions à ça !!!
 
 {% youtube 5i5zO7aXiFA %}
 
-Complète ta collection avec [_Palmreader_](1238), [*Dark Corners*](1205] ou le
+Complète ta collection avec [_Palmreader_](1238), [*Dark Corners*](1205) ou le
 plus ancien [*I Wanna Do It*->827] voire leur reprise d'[_Imagine_->1195).
 
 (via

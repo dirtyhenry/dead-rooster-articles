@@ -36,12 +36,12 @@ aujourd'hui.
 
 Déjà, il y a les tubes monstrueux du groupe : _Losing My Religion_, _Shiny Happy
 People_ et _Everybody Hurts_. Toutes ces chansons souffrent bien sûr du
-[syndrome de La Folie des Grandeurs](266], mais tels Les Inconnus ou Christian
+[syndrome de La Folie des Grandeurs](266), mais tels Les Inconnus ou Christian
 Clavier, il est nécessaire de se souvenir qu'avant d'être ce qu'ils sont devenus
 ([insipides](http://youtu.be/-qelka0YcsY) et
 [embarrassants)(http://youtu.be/QEKh_BCe190)), ils étaient d'un tout autre
 tonneau dans leurs beaux jours
-([inspirés](http://www.youtube.com/watch?v=-be65CIwE08] et
+([inspirés](http://www.youtube.com/watch?v=-be65CIwE08) et
 [géniaux->http://www.youtube.com/watch?v=4eEfDIRaR4c)). Comme disait Chamfort,
 «Quiconque a détruit un préjugé, un seul préjugé, est un bienfaiteur du genre
 humain». Alors merci de bien vouloir vous souvenir que ces chansons sont de

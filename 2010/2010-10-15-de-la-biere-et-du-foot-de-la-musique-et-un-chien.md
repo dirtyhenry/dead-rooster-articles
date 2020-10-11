@@ -69,7 +69,7 @@ et…
 Les [générateurs](http://www.nukekiller.net/cgi-bin/namer.cgi) de
 [nom](http://www.bandnamemaker.com/generator/) de
 [groupes](http://www.noiseaddicts.com/2009/03/random-band-name-cover-album/) (et
-de [boîtes à aimer](http://www.dotomator.com/web20.html]) ont fait légion ces
+de [boîtes à aimer](http://www.dotomator.com/web20.html)) ont fait légion ces
 dernières années,
 [ce dernier arrivé est pas mal non plus](http://chillwitchnamemagic.com/).
 
