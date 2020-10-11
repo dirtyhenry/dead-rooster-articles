@@ -6,12 +6,12 @@ authors:
 wordpress_id: 907
 date: "2011-09-12 23:34:44 +0200"
 categories:
-  - Artistes
+  - Chanson du jour
 tags:
   - Fountains of Wayne
 ---
 
-{% youtube PJ8tuVQKeto %}
+{% youtube R3Zt1lUEoE4 %}
 
 Vu que Joe Gantdelaine le fait pas mais que la chanson et le clip sont pas mal,
 je m'y colle.
