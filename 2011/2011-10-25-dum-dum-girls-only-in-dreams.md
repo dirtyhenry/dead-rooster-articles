@@ -37,7 +37,7 @@ désagréable, mais derrière, pas grand chose. Les Inrocks avaient écrit
 la déception («les petits rollercoasters malins de l’album sont ici enchaînés
 sans grande vie, semblent presque interchangeables, les morceaux semblent cloués
 au sol») et se moquaient même d'un [camel
-toe)(http://fr.wikipedia.org/wiki/Cameltoe), les fripons. On n'était pas loin de
+toe](http://fr.wikipedia.org/wiki/Cameltoe), les fripons. On n'était pas loin de
 tirer un trait sur les Dum Dum Girls : sans doute un groupe opportuniste se
 lançant dans la brèche créée par [Best Coast](657), et qu'on aurait vite oublié.
 

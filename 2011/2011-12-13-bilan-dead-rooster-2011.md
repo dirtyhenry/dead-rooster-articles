@@ -61,7 +61,7 @@ tous premiers posts du site) -# [Le nez de Dorothée sort de sa valise](553) -#
 
 Un constat s'impose, c'est bien marrant tout ça mais quid des vrais trésors de
 ce site ? Quid de [l'article de l'encyclopédie approximative de Jeff
-Buckley](831), de [la critique du second meilleur album de tous les temps)(852),
+Buckley](831), de [la critique du second meilleur album de tous les temps](852),
 ou du [psycho-couac provoqué par la mort de Lucien Freud](876) ? Voilà de vrais
 trésors qu'il va nous falloir déterrer ! Nous y reviendrons la semaine prochaine
 dans un autre post intitulé "Feuille de route 2012 Dead Rooster", ou comment
