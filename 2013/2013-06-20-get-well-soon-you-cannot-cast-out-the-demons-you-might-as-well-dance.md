@@ -12,7 +12,7 @@ d'_Oh Boy_, chanson de générique de fin de l'excellent film éponyme. Après u
 découverte tardive de _The Scarlet Beast O'Seven Heads_, sorti en août 2012,
 nous sommes ravis de partager avec vous son titre de clôture, épique :
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F44084332"></iframe>
+{% soundcloud 44084332 %}
 
 Souvenons-nous également de [leur prélude de 2008](601), ça ne nous rajeunit
 pas.

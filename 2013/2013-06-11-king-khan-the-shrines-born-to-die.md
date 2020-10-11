@@ -13,7 +13,7 @@ No More_.
 Ils seront de passage à Paris (au Trabendo) le 4 septembre et autant le dire
 tout de go King Khan en concert : c'est assez fun comme expérience.
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F95409544&secret_token=s-3O7hj"></iframe>
+{% soundcloud 95409544 %}
 
 [Réécouter _Bite My Tongue_](1058).
 

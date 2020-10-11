@@ -10,7 +10,7 @@ date: "2013-04-03 10:53:49 +0200"
 Après la sortie de _Yeah Right_, mes chouchous publient Oblivion, single extrait
 des sessions de l'album. Toujours aussi bon.
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F84847643"></iframe>
+{% soundcloud 84847643 %}
 
 Plein d'autres chansons du groupe sont à écouter (certaines sous leur ancien
 nom, [Reading Rainbow](728)) : [_Drift Away_](1133), [_Dead End_](910) ou
