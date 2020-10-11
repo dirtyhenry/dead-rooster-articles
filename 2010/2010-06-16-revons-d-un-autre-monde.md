@@ -15,7 +15,7 @@ tags:
   - Single
 ---
 
-{_Mystery Jets_} s'apprête à sortir son 3ème album, _Serotonin_, le 5 juillet
+**Mystery Jets** s'apprête à sortir son 3ème album, _Serotonin_, le 5 juillet
 prochain, et offre déjà un clip pour son 1er single _Dreaming Of Another World_
 à voir ci dessous, et
 [qui n'est pas une reprise de Telephone](http://www.youtube.com/watch?v=-mdyFdgUNfI).

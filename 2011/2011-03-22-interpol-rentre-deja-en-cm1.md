@@ -18,7 +18,7 @@ tags:
   - Interpol
 ---
 
-{_Mardi 15 mars 2011. Zénith de Paris._} C'est bientôt l'heure du concert
+**Mardi 15 mars 2011. Zénith de Paris.** C'est bientôt l'heure du concert
 d'Interpol, que Matthew Dear nous a convaincu d'attendre depuis le bar, une
 mauvaise bière à la main. Cinq types en costard s'avancent dans la nappe de
 fumée qui vient d'envahir la scène, un truc qu'ils ont dû apprendre en faisant

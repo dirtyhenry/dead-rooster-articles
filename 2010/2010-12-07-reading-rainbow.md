@@ -27,7 +27,7 @@ comments:
       http://pitchfork.com/reviews/albums/14905-prism-eyes/"
 ---
 
-{_Reading Rainbow_} a déjà été à l'honneur dans deux compiles du lundi et vient
+**Reading Rainbow** a déjà été à l'honneur dans deux compiles du lundi et vient
 de réaliser un clip. Allons-les voir de plus près.
 
 Reading Rainbow est un groupe basé à Philadelphia. Duo composé de Sarah Everton

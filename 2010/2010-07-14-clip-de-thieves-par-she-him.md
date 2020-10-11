@@ -19,7 +19,7 @@ tags:
   - She & Him
 ---
 
-{_She&Him_} vient de réaliser le clip de _Thieves_, extrait de son album _Volume
+**She&Him** vient de réaliser le clip de _Thieves_, extrait de son album _Volume
 Two_. Le résultat est sweet et ressemble à du
 lo-fi-late-1800's-avec-des-fausses-moustaches et des petites touches
 gondriesques.

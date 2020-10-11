@@ -14,7 +14,7 @@ tags:
   - The National
 ---
 
-{_The National_} est un groupe exceptionnel sur scène. Leur 5ème album _High
+**The National** est un groupe exceptionnel sur scène. Leur 5ème album _High
 Violet_ sortira en mai. Pas sûr qu'on se jette dessus vu que leurs disques
 atteignent rarement les sommets des prestations scéniques (même s'ils vont
 crescendo dans ce domaine : _Boxer_, le précédent album étant aussi leur
