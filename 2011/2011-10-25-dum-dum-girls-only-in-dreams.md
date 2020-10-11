@@ -36,10 +36,11 @@ désagréable, mais derrière, pas grand chose. Les Inrocks avaient écrit
 [ici](http://www.lesinrocks.com/musique/musique-article/t/49359/date/2010-08-16/article/on-y-est-la-route-du-rock-jour-3/)
 la déception («les petits rollercoasters malins de l’album sont ici enchaînés
 sans grande vie, semblent presque interchangeables, les morceaux semblent cloués
-au sol») et se moquaient même d'un [camel
-toe](http://fr.wikipedia.org/wiki/Cameltoe), les fripons. On n'était pas loin de
-tirer un trait sur les Dum Dum Girls : sans doute un groupe opportuniste se
-lançant dans la brèche créée par [Best Coast](657), et qu'on aurait vite oublié.
+au sol») et se moquaient même d'un
+[camel toe](http://fr.wikipedia.org/wiki/Cameltoe), les fripons. On n'était pas
+loin de tirer un trait sur les Dum Dum Girls : sans doute un groupe opportuniste
+se lançant dans la brèche créée par [Best Coast](657), et qu'on aurait vite
+oublié.
 
 <img491>
 
@@ -60,17 +61,17 @@ soupçonner le groupe capable (_In My Head_ ou _Hold Your Hand_).
 
 Derrière les Dum Dum Girls, il serait difficile de parler de groupe. Il s'agit
 plutôt de Dee Dee
-(ex-[Grand Ole Party](http://www.youtube.com/watch?v=Xziod5qt03k)) et [des
-Ringo-ettes](277). Il a donc bien fallu que Dee Dee s'entoure d'un bon
+(ex-[Grand Ole Party](http://www.youtube.com/watch?v=Xziod5qt03k)) et
+[des Ringo-ettes](277). Il a donc bien fallu que Dee Dee s'entoure d'un bon
 producteur aux manettes de l'album. Elle en a même pris deux. Le premier
-s'appelle Richard Gottehrer, qui n'a jamais écrit [*Le
-Youki*->http://www.youtube.com/watch?v=Wx7vKvQ4axQ] ou [*Poil Au
-Tableau*->http://youtu.be/SghaF3fcflE], mais qui reste un vieux de la vieille
-puisqu'il a produit Blondie entre autres. Le second s'appelle Sune Rose Wagner,
-la tête à chromosome Y des [Raveonettes](mot209) et on se dit en écoutant
-l'intro de _Heartbeat (Take It Away)_ que le monsieur a dû peser de tout son
-poids (qui n'est plus négligeable si l'on se fie à [cette
-photo->http://en.wikipedia.org/wiki/File:Sune_Rose_Wagner_-_The_Raveonettes_-_Roskilde_Festival_2011.jpg))
+s'appelle Richard Gottehrer, qui n'a jamais écrit
+[_Le Youki_](http://www.youtube.com/watch?v=Wx7vKvQ4axQ) ou
+[_Poil Au Tableau_](http://youtu.be/SghaF3fcflE), mais qui reste un vieux de la
+vieille puisqu'il a produit Blondie entre autres. Le second s'appelle Sune Rose
+Wagner, la tête à chromosome Y des [Raveonettes](mot209) et on se dit en
+écoutant l'intro de _Heartbeat (Take It Away)_ que le monsieur a dû peser de
+tout son poids (qui n'est plus négligeable si l'on se fie à
+[cette photo](http://en.wikipedia.org/wiki/File:Sune_Rose_Wagner_-_The_Raveonettes_-_Roskilde_Festival_2011.jpg))
 dans la production des Dum Dum.
 
 Pour conclure, pourquoi "Dum Dum Girls" ? À cause de

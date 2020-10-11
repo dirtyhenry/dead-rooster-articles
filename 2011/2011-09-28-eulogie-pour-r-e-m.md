@@ -42,7 +42,7 @@ Clavier, il est nécessaire de se souvenir qu'avant d'être ce qu'ils sont deven
 [embarrassants](http://youtu.be/QEKh_BCe190)), ils étaient d'un tout autre
 tonneau dans leurs beaux jours
 ([inspirés](http://www.youtube.com/watch?v=-be65CIwE08) et
-[géniaux->http://www.youtube.com/watch?v=4eEfDIRaR4c)). Comme disait Chamfort,
+[géniaux](http://www.youtube.com/watch?v=4eEfDIRaR4c)). Comme disait Chamfort,
 «Quiconque a détruit un préjugé, un seul préjugé, est un bienfaiteur du genre
 humain». Alors merci de bien vouloir vous souvenir que ces chansons sont de
 bonnes chansons pour que je puisse mettre ça sur mon CV.

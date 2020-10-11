@@ -80,9 +80,9 @@ _Le Lauréat_ séduit par sa bande-son, signée Simon & Garfunkel.
 
 La B.O. du film détrônera d'ailleurs le _White Album_ des Beatles du sommet des
 charts, porté par les trois titres devenus depuis des standards
-[_Mrs. Robinson_](http://www.youtube.com/watch?v=mDrTCqXZrTQ), [*The Sound of
-Silence*](http://www.youtube.com/watch?v=eZGWQauQOAQ) et [_Scarborough
-Fair_->http://www.youtube.com/watch?v=nWu6ney5hYQ).
+[_Mrs. Robinson_](http://www.youtube.com/watch?v=mDrTCqXZrTQ),
+[_The Sound of Silence_](http://www.youtube.com/watch?v=eZGWQauQOAQ) et
+[_Scarborough Fair_](http://www.youtube.com/watch?v=nWu6ney5hYQ).
 
 **{La suite ?**}
 
