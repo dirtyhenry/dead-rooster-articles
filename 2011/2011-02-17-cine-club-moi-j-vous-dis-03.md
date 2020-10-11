@@ -114,12 +114,10 @@ Fantomas, qu'on peut trouver
 ## Les autres
 
 - _L'année du dragon_ - Michael Cimino (1985) : remake du Parrain où on remplace
-  la Sicile par la Chine, le film prouve surtout que [Mickey Rourke et Bruce
-  Willis sont une seule et même
-  personne](http://cheezburger.com/jibe/lolz/View/1353215232], que certains
-  intérieurs new-yorkais ont vraiment la classe et que [certains looks des 80s
-  n'étaient ni faits ni à
-  faire->http://www.imdb.com/media/rm914397696/tt0090350)
+  la Sicile par la Chine, le film prouve surtout que
+  [Mickey Rourke et Bruce Willis sont une seule et même personne](http://cheezburger.com/jibe/lolz/View/1353215232),
+  que certains intérieurs new-yorkais ont vraiment la classe et que
+  [certains looks des 80s n'étaient ni faits ni à faire](http://www.imdb.com/media/rm914397696/tt0090350)
 - _Definitely Maybe_ - Adam Brooks (2008) : film qu'on regarde parce qu'on pense
   qu'il y aura un rapport avec Oasis mais en fait non, il s'agit d'une comédie
   romantique avec un scénario original (un père raconte sa vie amoureuse d'il y

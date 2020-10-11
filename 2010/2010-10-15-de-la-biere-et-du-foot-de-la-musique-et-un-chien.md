@@ -60,18 +60,18 @@ leurs propositions : _If You See Me Holding A Gun, Da Doo Ron Ron: The Story Of
 Phil Spector_.
 
 (via
-[Stereogum](http://stereogum.com/513961/sacha-baron-cohen-cast-as-freddie-mercury/casting-couch/]
+[Stereogum](http://stereogum.com/513961/sacha-baron-cohen-cast-as-freddie-mercury/casting-couch/)
 et…
-[Stereogum->http://stereogum.com/540682/name-the-phil-spector-biopic-starring-al-pacin/casting-couch/))
+[Stereogum](http://stereogum.com/540682/name-the-phil-spector-biopic-starring-al-pacin/casting-couch/))
 
 ## 3. Continuons à chercher des noms
 
-Les [générateurs](http://www.nukekiller.net/cgi-bin/namer.cgi] de
+Les [générateurs](http://www.nukekiller.net/cgi-bin/namer.cgi) de
 [nom](http://www.bandnamemaker.com/generator/) de
 [groupes](http://www.noiseaddicts.com/2009/03/random-band-name-cover-album/) (et
-de [boîtes à aimer->http://www.dotomator.com/web20.html]) ont fait légion ces
-dernières années, [ce dernier arrivé est pas mal non
-plus->http://chillwitchnamemagic.com/).
+de [boîtes à aimer](http://www.dotomator.com/web20.html)) ont fait légion ces
+dernières années,
+[ce dernier arrivé est pas mal non plus](http://chillwitchnamemagic.com/).
 
 ## 4. Causons foot
 

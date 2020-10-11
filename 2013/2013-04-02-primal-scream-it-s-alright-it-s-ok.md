@@ -17,6 +17,6 @@ mi-mai.
 {% youtube Ty-IJ3qz-GE %}
 
 (via
-[Telerama](http://www.telerama.fr/musique/it-s-alright-it-s-ok-un-nouveau-titre-de-primal-scream,95021.php]
+[Telerama](http://www.telerama.fr/musique/it-s-alright-it-s-ok-un-nouveau-titre-de-primal-scream,95021.php)
 et
-[Stereogum->http://stereogum.com/1309601/primal-scream-its-alright-its-ok-video/video/))
+[Stereogum](http://stereogum.com/1309601/primal-scream-its-alright-its-ok-video/video/))

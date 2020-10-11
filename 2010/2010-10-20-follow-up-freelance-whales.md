@@ -14,11 +14,11 @@ tags:
   - Vidéo Clip
 ---
 
-Je vous avais parlé des **Freelance Whales** [ici](594], ils nous offraient
+Je vous avais parlé des **Freelance Whales** [ici](594), ils nous offraient
 alors un titre génial, _Generator ^ Second Floor_. Depuis, un album complet est
 sorti : il s'appelle _Weathervanes_, est écoutable en intégralité sur
-[Spotify](http://open.spotify.com/album/4XYtSHEBqUnYbxJ5q3pCze) et [se fait
-défoncer sur Pitchfork->http://pitchfork.com/reviews/albums/13955-weathervanes/)
+[Spotify](http://open.spotify.com/album/4XYtSHEBqUnYbxJ5q3pCze) et
+[se fait défoncer sur Pitchfork](http://pitchfork.com/reviews/albums/13955-weathervanes/)
 (c'est pas forcément mauvais signe) qui accuse le groupe de "maniérisme cucul
 sans but réel".
 

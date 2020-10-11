@@ -22,7 +22,7 @@ Feast_ est sorti le mois dernier.
 
 {% youtube mmtQwtcaqLM %}
 
-Il y a 2 ans, on écoutait [*Berlin*](783]. Auparavant, on écoutait [leur reprise
-de _Dirty Old Town_->709).
+Il y a 2 ans, on écoutait [_Berlin_](783). Auparavant, on écoutait
+[leur reprise de _Dirty Old Town_](709).
 
 via [leur site officiel](http://blackrebelmotorcycleclub.com/)

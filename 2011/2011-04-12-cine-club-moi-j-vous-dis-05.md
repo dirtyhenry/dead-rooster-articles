@@ -81,24 +81,23 @@ s'assurer que Gino est un chef redouté avant de lui transmettre sa part
 d'héritage. Gino décide alors de tourner un documentaire sur sa fausse vie de
 parrain des pizzerias de Bruxelles.
 
-L'état d'esprit est ici très similaire à celui de [*J'ai toujours rêvé d'être un
-gangster*](http://www.allocine.fr/film/fichefilm_gen_cfilm=110966.html], le
-précédent film de Benchetrit, lui aussi très bon. C'est une sorte de [*Soyez
-sympas,
-rembobinez*->http://www.allocine.fr/film/fichefilm_gen_cfilm=110281.html]
-refaisant [*Le
-Parrain*->http://www.allocine.fr/film/fichefilm_gen_cfilm=1628.html] à la sauce
-[*C'est arrivé près de chez
-vous*->http://www.allocine.fr/film/fichefilm_gen_cfilm=7383.html] : le cadre et
-l'ambiance lose font très "cinéma belge" et rappellent également les passages
-plus potaches que glauques des films de
-[Delépine->http://www.allocine.fr/personne/fichepersonne_gen_cpersonne=2389.html]
+L'état d'esprit est ici très similaire à celui de
+[_J'ai toujours rêvé d'être un gangster_](http://www.allocine.fr/film/fichefilm_gen_cfilm=110966.html),
+le précédent film de Benchetrit, lui aussi très bon. C'est une sorte de
+[_Soyez sympas, rembobinez_](http://www.allocine.fr/film/fichefilm_gen_cfilm=110281.html)
+refaisant
+[_Le Parrain_](http://www.allocine.fr/film/fichefilm_gen_cfilm=1628.html) à la
+sauce
+[_C'est arrivé près de chez vous_](http://www.allocine.fr/film/fichefilm_gen_cfilm=7383.html)
+: le cadre et l'ambiance lose font très "cinéma belge" et rappellent également
+les passages plus potaches que glauques des films de
+[Delépine](http://www.allocine.fr/personne/fichepersonne_gen_cpersonne=2389.html)
 et
 [Kervern](http://www.allocine.fr/personne/fichepersonne_gen_cpersonne=97326.html).
 Malgré quelques lenteurs et quelques malaises dûs aux acteurs (Anna Mouglalis
 n'est pas au top dans des rôles comiques), le film reste très drôle. Benchetrit
 aime aussi beaucoup citer les petits copains et son film est en fait un chouette
-hommage au cinéma, façon [DIY->http://fr.wikipedia.org/wiki/Do_it_yourself).
+hommage au cinéma, façon [DIY](http://fr.wikipedia.org/wiki/Do_it_yourself).
 
 **<strike>La musique</strike> Le sketch qui va avec**
 

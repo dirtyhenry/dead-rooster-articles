@@ -16,16 +16,17 @@ tags:
   - Single
 ---
 
-{_Admiral Radley_} est le nouveau groupe de Jason Lytle, ex-Grandaddy, qui vient
+**Admiral Radley** est le nouveau groupe de Jason Lytle, ex-Grandaddy, qui vient
 de sortir son premier album, _I Heart California_, dont est extrait le single
-karaoke ci-dessous.
+karaoke ci-dessous (edit : la vidéo originale ayant disparu, on l'a remplacée
+par un live sur KEXP, où les meow ont disparu).
 
-Malgré de beaux efforts, Admiral Radley a encore un train de retard sur [Nada
-Surf](http://www.youtube.com/watch?v=_Lh8uysjKwg] et sur
+Malgré de beaux efforts, Admiral Radley a encore un train de retard sur
+[Nada Surf](http://www.youtube.com/watch?v=_Lh8uysjKwg) et sur
 [Eric](http://www.youtube.com/watch?v=VgxFt_zqvqg) en terme d'imitation de
-chats. [Le titre peut être téléchargé ici
-!->http://stereogum.com/366082/admiral-radley-i-heart-california-stereogum-premiere/mp3s/)
+chats.
+[Le titre peut être téléchargé ici !](http://stereogum.com/366082/admiral-radley-i-heart-california-stereogum-premiere/mp3s/)
 
 Pas encore de date en France, mais bon, on s'tient au jus !
 
-<object id="flashObj" width="480" height="270" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,47,0"><param name="movie" value="http://c.brightcove.com/services/viewer/federated_f9/88099121001?isVid=1&isUI=1" /><param name="bgcolor" value="#FFFFFF" /><param name="flashVars" value="videoId=110081082001&playerID=88099121001&domain=embed&dynamicStreaming=true" /><param name="base" value="http://admin.brightcove.com" /><param name="seamlesstabbing" value="false" /><param name="allowFullScreen" value="true" /><param name="swLiveConnect" value="true" /><param name="allowScriptAccess" value="always" /><embed src="http://c.brightcove.com/services/viewer/federated_f9/88099121001?isVid=1&isUI=1" bgcolor="#FFFFFF" flashVars="videoId=110081082001&playerID=88099121001&&domain=embed&dynamicStreaming=true" base="http://admin.brightcove.com" name="flashObj" width="480" height="270" seamlesstabbing="false" type="application/x-shockwave-flash" allowFullScreen="true" allowScriptAccess="always" swLiveConnect="true" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></embed></object>
+{% youtube wJWXGlaQUCw %}

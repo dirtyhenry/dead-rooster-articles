@@ -23,8 +23,9 @@ par un orchestre symphonique et qu'on habille le tout d'une chorégraphie
 lumineuse très classe ? Une vidéo qui donne des frissons.
 
 The Notwist est un groupe inégal mais parfois capable de coups de génies
-([on en parle ici](211]). Le titre _Gloomy Planets_ est l'un de ceux-ci. La
-vidéo est ci-dessous. Merci à [how to
-disappear->http://blog.howtodisappear.org/) de nous l'avoir fait remarquer.
+([on en parle ici](211)). Le titre _Gloomy Planets_ est l'un de ceux-ci. La
+vidéo est ci-dessous. Merci à
+[how to disappear](http://blog.howtodisappear.org/) de nous l'avoir fait
+remarquer.
 
 {% youtube x2qKfzIpoQg %}

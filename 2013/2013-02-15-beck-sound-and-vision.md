@@ -12,8 +12,8 @@ musiciens. Si les 3 premières minutes vous saoulent, c'est sans doute normal,
 mais celles qui suivent sont top !
 
 Si vous aimez les reprises de Beck, vous avez aussi celle de _Sunday Morning_
-[ici](1178]. Et si vous préférez les originales, _Where It's At_, une des
-chansons les plus cool de l'histoire, est [là->991).
+[ici](1178). Et si vous préférez les originales, _Where It's At_, une des
+chansons les plus cool de l'histoire, est [là](991).
 
 {% youtube QnOmrDzRrGQ %}
 

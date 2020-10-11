@@ -12,8 +12,8 @@ remédions à ça !!!
 
 {% youtube 5i5zO7aXiFA %}
 
-Complète ta collection avec [*Palmreader*](1238], [*Dark Corners*->1205] ou le
-plus ancien [*I Wanna Do It*->827] voire leur reprise d'[_Imagine_->1195).
+Complète ta collection avec [_Palmreader_](1238), [_Dark Corners_](1205) ou le
+plus ancien [_I Wanna Do It_](827) voire leur reprise d'[_Imagine_](1195).
 
 (via
 [Stereogum](http://www.stereogum.com/1384481/sonny-the-sunsets-green-blood-video/video/))

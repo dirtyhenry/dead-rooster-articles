@@ -43,9 +43,9 @@ gamin, il sniffait déjà les cendres de cigarettes de son père !
 
 Les deux compères ont accouché de formidables brûlots rock and roll, même si le
 duo est surtout connu pour ses "adaptations", qui en "empruntant"
-[*Roger*](http://www.youtube.com/watch?v=1a-EBGUapV8] aux **Rolling Bidochons**,
-qui en "rendant hommage" au **Eddy Mitchell** de [_Rien qu'un seul
-mot_->http://www.deezer.com/listen-1107661).
+[_Roger_](http://www.youtube.com/watch?v=1a-EBGUapV8) aux **Rolling Bidochons**,
+qui en "rendant hommage" au **Eddy Mitchell** de
+[_Rien qu'un seul mot_](http://www.deezer.com/listen-1107661).
 
 A côté de cette paire fantastique gravitent d'autres merveilleux individus : que
 ce soit Mick Jones, qui partit rapidement fonder le **Clash** ou Ron Wood,

@@ -8,9 +8,9 @@ date: "2013-03-21 11:15:28 +0100"
 ---
 
 On n'a pas beaucoup parlé de Django Django ici, mais les auteurs de
-[*Default*](http://open.spotify.com/track/1i3nx7UvC1dXiBRDFBORr4], titre le plus
+[_Default_](http://open.spotify.com/track/1i3nx7UvC1dXiBRDFBORr4), titre le plus
 "génial et insupportable" à la fois depuis le
-[_Conquest_->http://open.spotify.com/track/0LVRIyo9rj7oSrGu1z150w) des White
+[_Conquest_](http://open.spotify.com/track/0LVRIyo9rj7oSrGu1z150w) des White
 Stripes le mériteraient pourtant.
 
 Allez, mieux vaut tard que jamais :

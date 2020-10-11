@@ -61,14 +61,14 @@ La seconde, je vous la révélerai tout à l'heure.
 Pas de home-studio pour Social Square, les chansons sont donc travaillées live.
 Pour répéter, Social Square a trouvé un bon filon. Plutôt que disposer d'un
 créneau dans un studio qu'on loue à l'heure ou à la journée (type
-[Basement](http://www.basementprod.com/], [Luna
-Rossa->http://www.studiolunarossa.com/) ou autre), ils jouent dans un local loué
-en commun par plusieurs groupes à St-Ouen. Du coup, ça coûte a priori moins
-cher, mais ça a surtout l'avantage d'être plus facile pour avoir son créneau
-hebdomadaire (le lundi c'est la soirée Social Square pour chacun des membres du
-groupe) et plus pratique pour laisser son matériel. Soit, il reste toujours le
-problème du matos qu'on doit partager entre groupes (batterie et amplis) mais
-c'est un moindre mal.
+[Basement](http://www.basementprod.com/),
+[Luna Rossa](http://www.studiolunarossa.com/) ou autre), ils jouent dans un
+local loué en commun par plusieurs groupes à St-Ouen. Du coup, ça coûte a priori
+moins cher, mais ça a surtout l'avantage d'être plus facile pour avoir son
+créneau hebdomadaire (le lundi c'est la soirée Social Square pour chacun des
+membres du groupe) et plus pratique pour laisser son matériel. Soit, il reste
+toujours le problème du matos qu'on doit partager entre groupes (batterie et
+amplis) mais c'est un moindre mal.
 
 **{Les enregistrements**}
 
@@ -85,10 +85,9 @@ faits sans exploser le budget, en payant même moins cher qu'à Paris, via
 
 Ce sera rebelote en 2011. Toujours 3 titres, avec les mêmes personnes aux
 manettes, et pour financer le tout
-([parce que faire de la musique, ça coûte de l'argent](http://www.youtube.com/watch?v=XKnCGUV8ZZI#t=0m30s]),
-le groupe a eu la bonne idée d'utiliser la plateforme de collecte de fonds [Kiss
-Kiss Bank
-Bank->http://www.kisskissbankbank.com/projects/enregistrement-du-premier-album-de-social-square)
+([parce que faire de la musique, ça coûte de l'argent](http://www.youtube.com/watch?v=XKnCGUV8ZZI#t=0m30s)),
+le groupe a eu la bonne idée d'utiliser la plateforme de collecte de fonds
+[Kiss Kiss Bank Bank](http://www.kisskissbankbank.com/projects/enregistrement-du-premier-album-de-social-square)
 où tout le monde pouvait participer à l'effort en contrepartie de lots sympas :
 
 - pour une participation de 5€, un exemplaire signé et numéroté de l'album
@@ -114,14 +113,14 @@ Pour que sa musique se fasse connaître, là aussi, il faut y consacrer du temps
 et envoyer les liens et les MP3 aux webzines et blogs musicaux. Il y a plus de
 chances de réussites de ce côté-là que vers la presse traditionnelle ou les
 radios. Au final, Social Square se retrouve avec de jolies chroniques sur le web
-chez [La Magic
-Box](http://90plan.ovh.net/~lamagicb/visuArticles.php3?typeArticle=9#4180],
+chez
+[La Magic Box](http://90plan.ovh.net/~lamagicb/visuArticles.php3?typeArticle=9#4180),
 [Addictif Zine](http://www.addictif-zine.com/accueil/item/2148-social-square-it-vs-you)
-ou [Indessence->http://indessence.net/2010/07/social-square-it-vs-you.html).
+ou [Indessence]http://indessence.net/2010/07/social-square-it-vs-you.html).
 
-Le petit plus sympa vient du blog des Inrocks [Gimme Indie
-Rock](http://blogs.lesinrocks.com/gimmeindierock/] qui a diffusé [ce petit
-strip->http://blogs.lesinrocks.com/gimmeindierock/2010/09/13/wonderflusocial-square/)
+Le petit plus sympa vient du blog des Inrocks
+[Gimme Indie Rock](http://blogs.lesinrocks.com/gimmeindierock/) qui a diffusé
+[ce petit strip](http://blogs.lesinrocks.com/gimmeindierock/2010/09/13/wonderflusocial-square/)
 et a permis à Social Square de faire copain-copain avec Wonderflu, l'autre cité
 du post (et dont l'écoute est également recommandée).
 
