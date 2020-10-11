@@ -40,8 +40,8 @@ d'ouverture, _The Shakes_ est à la fois pop et sophistiqué, classe.
 
 ### Fleet Foxes - _Helplessness Blues_
 
-[Nos chouchous de 2008](222] sont revenus cette année avec un album dans la
-lignée directe de [son aîné->213). Du solide, donc, même si, l'effet de (bonne)
+[Nos chouchous de 2008](222) sont revenus cette année avec un album dans la
+lignée directe de [son aîné](213). Du solide, donc, même si, l'effet de (bonne)
 surprise n'étant plus là, l'enthousiasme n'est pas le même que pour le premier
 opus. Attendons le suivant pour voir ce que Robin Pecknold et ses sbires ont
 encore dans le ventre. Dommage que Willy DeVille soit mort (attention, blague
@@ -57,10 +57,10 @@ superbement exécuté.
 
 ### Bon Iver - _Bon Iver_
 
-Bon, c'est pas mal hein. D'ailleurs [tout le monde le dit](984]. N'empêche que
+Bon, c'est pas mal hein. D'ailleurs [tout le monde le dit](984). N'empêche que
 c'est trop travaillé, trop laborieux (au sens noble) pour s'y attacher
-complètement. Laurent Voulzy n'y verrait pas [un truc qui lui colle encore au
-coeur et au corps->http://www.youtube.com/watch?v=n9cOf8Qv8ts).
+complètement. Laurent Voulzy n'y verrait pas
+[un truc qui lui colle encore au coeur et au corps](http://www.youtube.com/watch?v=n9cOf8Qv8ts).
 
 ### Powersolo - _Buzz Human_
 
@@ -93,8 +93,8 @@ plaisir coupable à apprécier comme il se doit.
 ### The Mary Onettes - _Islands_
 
 On a dû écouter les Smiths par ici. Alors on tente de faire un peu les Smiths
-des années 2000. Sans avoir à en rougir. On en parle [ici](976] et on le fait
-écouter [là->972).
+des années 2000. Sans avoir à en rougir. On en parle [ici](976) et on le fait
+écouter [là](972).
 
 ### Grand Ole Party - _Under Our Skin_
 
@@ -146,9 +146,9 @@ tentez-l'écoute. Dans le cas contraire (le mien), laissez tomber.
 
 ### Esmerine - _La Lechuza_
 
-Le mec de [Bon pour les oreilles](http://www.bonpourlesoreilles.net/] me fait
+Le mec de [Bon pour les oreilles](http://www.bonpourlesoreilles.net/) me fait
 parfois découvrir de superbes groupes (le dernier récent étant Other Lives,
-diffusé depuis sur [le podcast #01->924)). D'autres fois, non. On est là dans la
+diffusé depuis sur [le podcast #01](924)). D'autres fois, non. On est là dans la
 2ème catégorie. Tant pis.
 
 ### Super Heavy - _Super Heavy_

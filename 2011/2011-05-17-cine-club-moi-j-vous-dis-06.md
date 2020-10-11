@@ -68,10 +68,10 @@ que le pauvre vieux, il fait ça en pensant leur faire plaisir.
 Ce film musical a été classé comme "culturally significant" aux États-Unis et
 figure régulièrement dans des listes des meilleurs films de l'histoire,
 notamment par le biais de ses nombreuses chansons, souvent interprétées par Judy
-Garland. Parmi ses titres : [*Meet Me in St.
-Louis*](http://www.youtube.com/watch?v=4JARDvdrAxk], _The Trolley Song_, _Have
-Yourself a Merry Little Christmas_ et [une chouette interprétation de _Skip to
-my Lou_->http://www.youtube.com/watch?v=jSY7jX28P48).
+Garland. Parmi ses titres :
+[_Meet Me in St. Louis_](http://www.youtube.com/watch?v=4JARDvdrAxk), _The
+Trolley Song_, _Have Yourself a Merry Little Christmas_ et
+[une chouette interprétation de _Skip to my Lou_](http://www.youtube.com/watch?v=jSY7jX28P48).
 
 Anecdote marrante, Judy Garland épousera Minnelli l'année suivante. Cette union
 donnera naissance à la Liza du même nom.

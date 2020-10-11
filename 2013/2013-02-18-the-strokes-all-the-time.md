@@ -16,6 +16,6 @@ de l'efficace.
 {% youtube TJC8zeu3MHk %}
 
 (via
-[Pitchfork](http://pitchfork.com/news/49544-listen-to-the-new-strokes-single-all-the-time/]
+[Pitchfork](http://pitchfork.com/news/49544-listen-to-the-new-strokes-single-all-the-time/)
 et
-[Stereogum->http://feedproxy.google.com/~r/stereogum/cBYa/~3/AXBHXtW-Gms/story01.htm))
+[Stereogum](http://feedproxy.google.com/~r/stereogum/cBYa/~3/AXBHXtW-Gms/story01.htm))

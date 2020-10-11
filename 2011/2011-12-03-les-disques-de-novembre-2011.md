@@ -133,8 +133,8 @@ meilleur morceau.
 ### Wonderflu - _Lota Schwager_
 
 J'avais entendu beaucoup de choses en bien sur les Parisiens de Wonderflu
-[ici](829] et
-[là->http://blogs.lesinrocks.com/gimmeindierock/2011/10/06/vote-for-wonderflu/).
+[ici](829) et
+[là](http://blogs.lesinrocks.com/gimmeindierock/2011/10/06/vote-for-wonderflu/).
 Je m'y suis enfin penché et ai été légèrement déçu. Déjà, le cover art est très
 moche (police rouge sur fond bleu ? merde les gars, vous êtes pas sérieux !). Du
 classique un peu trop classique. Pas de quoi les condamner complètement non

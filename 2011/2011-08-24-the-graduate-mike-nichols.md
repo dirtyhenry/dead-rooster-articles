@@ -25,15 +25,15 @@ tags:
 
 Benjamin Braddock vient d'être diplômé. Ses parents et leurs amis sont tous très
 contents et s'interrogent maintenant sur la suite : "tu es si brillant Benjamin,
-que veux-tu faire maintenant ? [Du plastique
-?](http://www.youtube.com/watch?v=PSxihhBzCjk]". Le problème de Benjamin, c'est
-qu'il n'en a aucune idée. Parmi les convives de la fête qui lui est consacrée se
-trouve Mrs. Robinson, la femme d'un ami proche de Papa Braddock, alcoolique et
-[cougar->http://fr.wikipedia.org/wiki/Cougar_(femme)) dans son temps-libre.
-Benjamin se laisse séduire par les avances de la dame et se met à glander
-sévère, au grand dam de ses parents qui, ne sachant rien de la relation liant
-leur fils et leur amie, insistent pour qu'il rencontre la fille de celle-ci,
-Elaine.
+que veux-tu faire maintenant ?
+[Du plastique ?](http://www.youtube.com/watch?v=PSxihhBzCjk)". Le problème de
+Benjamin, c'est qu'il n'en a aucune idée. Parmi les convives de la fête qui lui
+est consacrée se trouve Mrs. Robinson, la femme d'un ami proche de Papa
+Braddock, alcoolique et [cougar](<http://fr.wikipedia.org/wiki/Cougar_(femme)>)
+dans son temps-libre. Benjamin se laisse séduire par les avances de la dame et
+se met à glander sévère, au grand dam de ses parents qui, ne sachant rien de la
+relation liant leur fils et leur amie, insistent pour qu'il rencontre la fille
+de celle-ci, Elaine.
 
 {% youtube -3lKbMBab18 %}
 
@@ -79,9 +79,9 @@ cœur car on est devenus très copains avec Benjamin. Sur toute la durée du fil
 _Le Lauréat_ séduit par sa bande-son, signée Simon & Garfunkel.
 
 La B.O. du film détrônera d'ailleurs le _White Album_ des Beatles du sommet des
-charts, porté par les trois titres devenus depuis des standards [*Mrs.
-Robinson*](http://www.youtube.com/watch?v=mDrTCqXZrTQ], [*The Sound of
-Silence*->http://www.youtube.com/watch?v=eZGWQauQOAQ] et [_Scarborough
+charts, porté par les trois titres devenus depuis des standards
+[_Mrs. Robinson_](http://www.youtube.com/watch?v=mDrTCqXZrTQ), [*The Sound of
+Silence*](http://www.youtube.com/watch?v=eZGWQauQOAQ] et [_Scarborough
 Fair_->http://www.youtube.com/watch?v=nWu6ney5hYQ).
 
 **{La suite ?**}

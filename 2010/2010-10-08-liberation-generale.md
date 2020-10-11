@@ -27,13 +27,12 @@ La preuve :
 
 ## 2. La France est libérée
 
-[*Le Retour à la
-Terre*](http://fr.wikipedia.org/wiki/Le_Retour_%C3%A0_la_terre], c'est marrant.
-[*De Gaulle* par
-Ferri->http://www.amazon.fr/Gaulle-%C3%A0-plage-Jean-Yves-Ferri/dp/2205059661],
-c'est marrant. [Le mélange des
-deux->http://www.manularcenet.com/blog/articles/4016/piratage), c'est donc
-marrant aussi.
+[_Le Retour à la Terre_](http://fr.wikipedia.org/wiki/Le_Retour_%C3%A0_la_terre),
+c'est marrant.
+[_De Gaulle_ par Ferri](http://www.amazon.fr/Gaulle-%C3%A0-plage-Jean-Yves-Ferri/dp/2205059661),
+c'est marrant.
+[Le mélange des deux](http://www.manularcenet.com/blog/articles/4016/piratage),
+c'est donc marrant aussi.
 
 ## 3. Les urbanistes de Floride sont libérés
 

@@ -78,10 +78,10 @@ de drogues (autant dire qu'ils font du chiffre), les festivals qui finissent
 mal, ou les faits divers malheureux qui mettent du plomb dans l'aile de l'idéal
 communautaire hippie :
 
-- Les massacres de [Kent
-  State](http://en.wikipedia.org/wiki/Kent_State_shootings] (4 étudiants tués
-  par la garde nationale de l'Ohio lors d'un rassemblement pacifiste) et
-  [Jackson State->http://en.wikipedia.org/wiki/Jackson_State_killings)
+- Les massacres de
+  [Kent State](http://en.wikipedia.org/wiki/Kent_State_shootings) (4 étudiants
+  tués par la garde nationale de l'Ohio lors d'un rassemblement pacifiste) et
+  [Jackson State](http://en.wikipedia.org/wiki/Jackson_State_killings)
 - La [tuerie de Stonehead Manor][1] (un homme tua sa fille de 17 ans et 3 de ses
   amis car elle était hippie et vivait en communauté - l'homme en question fut
   condamné mais reçut des centaines de lettres de soutien)

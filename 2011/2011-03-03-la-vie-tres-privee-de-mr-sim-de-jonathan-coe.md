@@ -39,12 +39,11 @@ Avant de continuer, parlons un petit peu de l'auteur. **Jonathan Coe** est un
 auteur britannique de 50 ans, originaire de Birmingham, surtout connu pour trois
 ouvrages :
 
-- [*Testament à
-  l'anglaise*](http://fr.wikipedia.org/wiki/Testament_%C3%A0_l'anglaise] (_What
-  A Carve Up!_ en V.O.), satire policière pleine d'humour noir sur la société
-  anglaise des années 80 marquée par cette bonne vieille Maggie Thatcher (à ne
-  pas confondre avec [Maguy tout court, qui voit souvent
-  rouge->http://www.dailymotion.com/video/x383g_maguy_music)),
+- [_Testament à l'anglaise_](http://fr.wikipedia.org/wiki/Testament_%C3%A0_l'anglaise)
+  (_What A Carve Up!_ en V.O.), satire policière pleine d'humour noir sur la
+  société anglaise des années 80 marquée par cette bonne vieille Maggie Thatcher
+  (à ne pas confondre avec
+  [Maguy tout court, qui voit souvent rouge](http://www.dailymotion.com/video/x383g_maguy_music)),
 - le diptyque _Bienvenue au Club/Le Cercle Fermé_ (_The Rotters' Club/The Closed
   Circle_), au sommet de mon panthéon personnel et que je recommande tout
   particulièrement, qui traite de la petite histoire d'un groupe d'adolescents

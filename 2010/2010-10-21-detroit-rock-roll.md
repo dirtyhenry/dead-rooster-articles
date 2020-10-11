@@ -48,14 +48,14 @@ d’adoption. Même si j’y ai grandi 20 ans après que l’endroit ait (litté
 explosé, c’est la musique et l’environnement avec lesquels j’ai grandi. La
 Motown passe toujours sur presque toutes les stations de radio du Michigan, et
 les magasins de disques d’occasion sont remplis de vinyls de
-[Fortune](http://en.wikipedia.org/wiki/Fortune_Records] ou de copies bien usées
-de [*Kick Out The Jams*->http://fr.wikipedia.org/wiki/Kick_Out_the_Jams].
+[Fortune](http://en.wikipedia.org/wiki/Fortune_Records) ou de copies bien usées
+de [_Kick Out The Jams_](http://fr.wikipedia.org/wiki/Kick_Out_the_Jams).
 Detroit n’a jamais bénéficié de «renaissance» et les conséquences des émeutes
 n’ont jamais été aussi profondes. Mais il y a toujours cette sensation
 d’aventure urbaine que [John Sinclair][1] décrit dans le documentaire. Sinclair
 a toujours été un de mes héros : son parti des
 [White Panther](http://en.wikipedia.org/wiki/White_Panther_Party) a influencé
-mon groupe, les [Soledad Brothers->215), et il a écrit les notes de pochettes de
+mon groupe, les [Soledad Brothers](215), et il a écrit les notes de pochettes de
 mon premier album.
 
 Alors pourquoi Detroit continue de pondre le meilleur rock’n’roll ? A bien des

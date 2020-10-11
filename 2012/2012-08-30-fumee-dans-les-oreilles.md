@@ -12,7 +12,7 @@ tags:
   - Reprise
 ---
 
-Oubliez [*Last Nite* par les Morning Benders ou *Yesterday* en reggae](878], les
-Flaming Lips font encore plus fort et signent avec [_Smoke On The
-Water_->http://musique.premiere.fr/News-Musique/Les-Flaming-Lips-reprennent-Smoke-on-the-Water-de-Deep-Purple-3468346)
+Oubliez [_Last Nite_ par les Morning Benders ou _Yesterday_ en reggae](878), les
+Flaming Lips font encore plus fort et signent avec
+[_Smoke On The Water_](http://musique.premiere.fr/News-Musique/Les-Flaming-Lips-reprennent-Smoke-on-the-Water-de-Deep-Purple-3468346)
 la pire reprise de l'histoire. Le monde va mal !

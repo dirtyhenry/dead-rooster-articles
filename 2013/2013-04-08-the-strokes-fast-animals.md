@@ -19,7 +19,7 @@ publieront à l'occasion du Record Store Day le 20 avril.
 
 {% youtube zMHEvVyb2Pg %}
 
-N'hésitez pas à réécouter [*All The Time*](1179], qui sera la face A du même
-single, ou [la reprise de _Just What I Needed_ avec Jarvis Cocker->899).
+N'hésitez pas à réécouter [_All The Time_](1179), qui sera la face A du même
+single, ou [la reprise de _Just What I Needed_ avec Jarvis Cocker](899).
 
 (via [Stereogum](http://stereogum.com/1297372/the-strokes-fast-animals/mp3s/))

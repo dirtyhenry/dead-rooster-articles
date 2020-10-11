@@ -59,13 +59,12 @@ En ce qui concerne le style du film, Ayoade avait dû répondre lors du dernier
 Sundance Film Festival aux nombreuses comparaisons qu’on faisait entre son film
 et ceux de Wes Anderson. Il y a pire comme comparaisons. Dans une interview pour
 [Gordon and the Whale](http://gordonandthewhale.com/] relayée par
-[IndieWire](http://blogs.indiewire.com/theplaylist/archives/submarine_director_richard_ayoade_responds_to_wes_anderson_comparisons/),
+[IndieWire)(http://blogs.indiewire.com/theplaylist/archives/submarine_director_richard_ayoade_responds_to_wes_anderson_comparisons/),
 loin de nier l’influence d’Anderson sur son film - et d’admettre que _Rushmore_
 est un film «complètement parfait» -, Ayoade avait surtout dressé une liste
 d’autres influences plus secrètes mais selon lui tout aussi intéressantes. Voilà
-quelques items des influences, de quoi nourrir quelques futurs [ciné-club moi
-j’vous
-dis->http://www.deadrooster.org/spip.php?page=recherche&recherche=cin%C3%A9+club+dis)
+quelques items des influences, de quoi nourrir quelques futurs
+[ciné-club moi j’vous dis](http://www.deadrooster.org/spip.php?page=recherche&recherche=cin%C3%A9+club+dis)
 : -* [*The Ice Storm*](http://www.imdb.com/title/tt0119349/), d’Ang Lee
 (1997) -* [_Flirting_](http://www.imdb.com/title/tt0101898/), de John Duigan
 (1991) -* [*Show Me Love*](http://www.imdb.com/title/tt0150662/), de Lukas
@@ -82,13 +81,13 @@ d’écolier complètement intemporels qui participent à rendre le film diffici
 dater (les looks et les décos laissent penser que l’action se passe dans les 70s
 mais _Crocodile Dundee_, sorti en 1986, est mentionné). Je vous recommande
 d’ailleurs ce
-[post](http://redingote.fr/breves/les-costumes-des-films-de-wes-anderson/] sur
+[post](http://redingote.fr/breves/les-costumes-des-films-de-wes-anderson/) sur
 les costumes des films de Wes Anderson par le site
-[Redingote->http://redingote.fr/).
+[Redingote](http://redingote.fr/).
 
 Finissons en vrac : -\* _White Noise_, de Don DeLillo, est le livre préféré de
 Joe Dunthorne (source
 [ici](http://www.independent.co.uk/arts-entertainment/books/features/one-minute-with-joe-dunthorne-novelist-2331732.html))
--\* Wes Anderson fait tailler ses costards chez [Mr. Ned](http://mrnednyc.com/],
+-\* Wes Anderson fait tailler ses costards chez [Mr. Ned](http://mrnednyc.com/),
 à New York (source
-[ici->http://www.nytimes.com/2004/09/19/style/tmagazine/MAN12))
+[ici](http://www.nytimes.com/2004/09/19/style/tmagazine/MAN12))

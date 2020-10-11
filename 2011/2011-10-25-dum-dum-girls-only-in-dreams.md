@@ -36,33 +36,32 @@ désagréable, mais derrière, pas grand chose. Les Inrocks avaient écrit
 [ici](http://www.lesinrocks.com/musique/musique-article/t/49359/date/2010-08-16/article/on-y-est-la-route-du-rock-jour-3/]
 la déception («les petits rollercoasters malins de l’album sont ici enchaînés
 sans grande vie, semblent presque interchangeables, les morceaux semblent cloués
-au sol») et se moquaient même d'un
-[camel toe](http://fr.wikipedia.org/wiki/Cameltoe), les fripons. On n'était pas
-loin de tirer un trait sur les Dum Dum Girls : sans doute un groupe opportuniste
-se lançant dans la brèche créée par [Best Coast->657), et qu'on aurait vite
-oublié.
+au sol») et se moquaient même d'un [camel
+toe)(http://fr.wikipedia.org/wiki/Cameltoe), les fripons. On n'était pas loin de
+tirer un trait sur les Dum Dum Girls : sans doute un groupe opportuniste se
+lançant dans la brèche créée par [Best Coast](657), et qu'on aurait vite oublié.
 
 <img491>
 
 Sauf qu'il y a quelques semaines, le groupe a sorti son second album, _Only In
 Dreams_. Si les morceaux d'ouverture sont aussi immédiatement séduisants et
 laissent penser qu'on va avoir un dispensable copier-coller du premier opus
-(_Always Looking_, [_Bedroom Eyes_](918]), les titres suivants rendent
+(_Always Looking_, [_Bedroom Eyes_](918)), les titres suivants rendent
 l'ensemble plus subtil, donnent de l'épaisseur aux Dum Dum Girls qui se montrent
 bien plus ambitieuses et appliquées qu'on n'auraient pu le croire. Le morceau le
 plus bluffant est bien sûr _Coming Down_, chef d'oeuvre mélancolique au tempo
-d'une lenteur inédite pour le groupe (et que vous pouvez écouter sur [le premier
-épisode du podcast Dead Rooster->924)). Le titre équilibre l'album, sans trahir
-ses voisins et donne envie de réécouter l'ensemble, encore et encore. On se rend
-alors compte d'une variété de tons dont on n'aurait jamais soupçonner le groupe
-capable (_In My Head_ ou _Hold Your Hand_).
+d'une lenteur inédite pour le groupe (et que vous pouvez écouter sur
+[le premier épisode du podcast Dead Rooster](924)). Le titre équilibre l'album,
+sans trahir ses voisins et donne envie de réécouter l'ensemble, encore et
+encore. On se rend alors compte d'une variété de tons dont on n'aurait jamais
+soupçonner le groupe capable (_In My Head_ ou _Hold Your Hand_).
 
 <img492>
 
 Derrière les Dum Dum Girls, il serait difficile de parler de groupe. Il s'agit
 plutôt de Dee Dee
-(ex-[Grand Ole Party](http://www.youtube.com/watch?v=Xziod5qt03k]) et [des
-Ringo-ettes->277]. Il a donc bien fallu que Dee Dee s'entoure d'un bon
+(ex-[Grand Ole Party](http://www.youtube.com/watch?v=Xziod5qt03k)) et [des
+Ringo-ettes](277]. Il a donc bien fallu que Dee Dee s'entoure d'un bon
 producteur aux manettes de l'album. Elle en a même pris deux. Le premier
 s'appelle Richard Gottehrer, qui n'a jamais écrit [*Le
 Youki*->http://www.youtube.com/watch?v=Wx7vKvQ4axQ] ou [*Poil Au
@@ -75,8 +74,8 @@ photo->http://en.wikipedia.org/wiki/File:Sune_Rose_Wagner_-_The_Raveonettes_-_Ro
 dans la production des Dum Dum.
 
 Pour conclure, pourquoi "Dum Dum Girls" ? À cause de
-[ça](http://en.wikipedia.org/wiki/Dum-Dum_(album)] et de
-[ça->http://youtu.be/-ioRWlG9PBQ).
+[ça](<http://en.wikipedia.org/wiki/Dum-Dum_(album)>) et de
+[ça](http://youtu.be/-ioRWlG9PBQ).
 
 PS : en écrivant ce post, je suis donc tombé sur ce passage dans la critique des
 Inrocks susmentionnée : «contre toute logique physique, le groupe prend un peu

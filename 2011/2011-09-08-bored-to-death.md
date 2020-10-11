@@ -46,14 +46,13 @@ névroses enfantines et ses mésaventures diverses, notamment sexuelles. Le sexe
 semble d'ailleurs beaucoup intéresser Ames. Même s'il est cantonné à l'arrière
 plan dans la série, le personnage de Super-Ray ne peut pas être né dans l'esprit
 de quelqu'un qui se désintéresse de la chose. L'intérêt d'Ames semble donc même
-se consacrer principalement au zizi puisqu'il est à l'origine du [concours du
-bâtiment le plus
-phallique](http://en.wikipedia.org/wiki/Most_Phallic_Building_contest] (vous
-serez ravis d'apprendre que le vainqueur est [un château d'eau du
-Michigan->http://en.wikipedia.org/wiki/Ypsilanti_Water_Tower) surnommée "the
-brick dick" par les habitants du coin). Pour conclure sur la chose, Ames fait
-une apparition dans la saison 2 de la série et vous ne serez plus surpris
-d'apprendre qu'il y figure… les fesses à l'air, bien entendu.
+se consacrer principalement au zizi puisqu'il est à l'origine du
+[concours du bâtiment le plus phallique](http://en.wikipedia.org/wiki/Most_Phallic_Building_contest)
+(vous serez ravis d'apprendre que le vainqueur est
+[un château d'eau du Michigan](http://en.wikipedia.org/wiki/Ypsilanti_Water_Tower)
+surnommée "the brick dick" par les habitants du coin). Pour conclure sur la
+chose, Ames fait une apparition dans la saison 2 de la série et vous ne serez
+plus surpris d'apprendre qu'il y figure… les fesses à l'air, bien entendu.
 
 Mais ne vous y trompez pas, la série s'articule autour de noeuds situés
 au-dessus de la ceinture. En gros, chaque épisode est centré sur la résolution

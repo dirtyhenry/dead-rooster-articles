@@ -12,7 +12,7 @@ spectacle offert par Beach House à la mi-temps d'un match de… quidditch ?
 
 {% youtube OS6duOoxctw %}
 
-Revoir [*Wild*](1157], [*White Moon*->682], ou [réécouter leur session
+Revoir [_Wild_](1157), [*White Moon*](682], ou [réécouter leur session
 Daytrotter->br126) (où l'on peut entendre _Used To Be_, titre du groupe pour
 lequel on a un gros faible).
 

@@ -31,11 +31,11 @@ Adam Belinski, qu'elle a déjà croisé à Londres.
 {% youtube ebEe8i-4aus %}
 
 Certes, le couple est séduisant (Jennifer Jones pétillante et pleine de charme
-comme une [Punky
-Brewster](http://www.dailymotion.com/video/x8tgu7_punky-brewster-generique-de-la-seri_creation]
+comme une
+[Punky Brewster](http://www.dailymotion.com/video/x8tgu7_punky-brewster-generique-de-la-seri_creation)
 devenue adulte, Charles Boyer - acteur français ! - à l'accent continental ayant
-certainement inspiré le personnage de [Jean
-Girard->http://www.dailymotion.com/video/x3z07e_talladega-nights-ricky-meets-jean-g_shortfilms)),
+certainement inspiré le personnage de
+[Jean Girard](http://www.dailymotion.com/video/x3z07e_talladega-nights-ricky-meets-jean-g_shortfilms)),
 certes on rit de bien des choses (surtout de la famille du pharmacien, sosie
 avant l'heure d'Alain Chabat), mais le film reste moins brillant que d'autres
 œuvres de Lubitsch telles que _Jeux Dangereux/To Be or Not to Be_ (comédie au
@@ -43,16 +43,16 @@ scénario génial sur l'invasion nazie en Pologne, remaké avec Mel Brooks en 19
 ou _Rendez-Vous/The Shop Around The Corner_ (une des toutes premières comédies
 romantiques de l'histoire).
 
-Notons malgré tout que Cluny Brown rejoint [Rusty James dans le clan de ceux
-qu'on appelle tout le temps par le prénom et le nom de famille](824] (la classe)
-et que [le film est disponible en intégralité à cette
-adresse->http://video.google.com/videoplay?docid=-4912689158924394462).
+Notons malgré tout que Cluny Brown rejoint
+[Rusty James dans le clan de ceux qu'on appelle tout le temps par le prénom et le nom de famille](824)
+(la classe) et que
+[le film est disponible en intégralité à cette adresse](http://video.google.com/videoplay?docid=-4912689158924394462).
 
-La musique qui va avec : rien de bien folichon sinon [cette scène où le sosie
-d'Alain Chabat joue du piano](http://youtu.be/i7NVoM9pv94?t=2m38s]. Du coup, ça
-donne envie de regarder _La Carioca_, mais pour ça il faut [cliquer
-ici->http://www.youtube.com/watch?v=HCdCMo9cd5k), car il y a toujours des gens
-pour bloquer l'intégration des vidéos sur les pages web. Les ringards !
+La musique qui va avec : rien de bien folichon sinon
+[cette scène où le sosie d'Alain Chabat joue du piano](http://youtu.be/i7NVoM9pv94?t=2m38s).
+Du coup, ça donne envie de regarder _La Carioca_, mais pour ça il faut
+[cliquer ici](http://www.youtube.com/watch?v=HCdCMo9cd5k), car il y a toujours
+des gens pour bloquer l'intégration des vidéos sur les pages web. Les ringards !
 
 ---
 
@@ -77,8 +77,8 @@ rentrer dans l'histoire, bizarrement structurée : une intrigue préliminaire qu
 dure presque la moitié du film, pas de réel enjeu sinon effectuer le travail du
 deuil. Néanmoins, on trouve sur le net quelques lectures intéressantes du film,
 que ce soit
-[ici](http://www.cineclubdecaen.com/realisat/moretti/chambredufils.htm] ou
-[là->http://www.cinetic.be/spip.php?article80).
+[ici](http://www.cineclubdecaen.com/realisat/moretti/chambredufils.htm) ou
+[là](http://www.cinetic.be/spip.php?article80).
 
 La musique qui va avec : _By This River_ de Brian Eno
 

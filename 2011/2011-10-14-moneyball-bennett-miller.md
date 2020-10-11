@@ -43,19 +43,19 @@ Jonah Hill et lancer la saison des Athletics. La construction du film est très
 linéaire, basée sur le déroulement de la saison où se greffe une relation
 père-fille. Il séduit inévitablement même si on ne connaît que peu de choses au
 baseball. Cadeau pour les Français, on peut même regarder le film en se mettant
-en tête que finalement, Brad Pitt joue un peu [le rôle de Guy
-Roux](http://www.lemeilleurdupsg.com/images/news/image/Autres/Guy_Roux.jpg],
+en tête que finalement, Brad Pitt joue un peu
+[le rôle de Guy Roux](http://www.lemeilleurdupsg.com/images/news/image/Autres/Guy_Roux.jpg),
 chose cocasse s'il en est. La version française sort le 16 novembre, s'appelle
-_Le Stratège_ ([encore->http://www.deadrooster.org/Suceur-de-pouce-difficile-et)
+_Le Stratège_ ([encore](http://www.deadrooster.org/Suceur-de-pouce-difficile-et)
 une bonne idée non ?) et maintenant que j'habite à Boston, je ne me priverai pas
 de me la péter en parlant des films avant leur sortie en France.
 
 Côté bande-son, on est aussi assez gâté. La bande originale est signée Mychael
-Danna (le même que pour _Little Miss Sunshine_), la version light de [*The
-Show*](http://www.youtube.com/watch?v=elsh3J5lJ6g&ob=av2e] que joue la fille de
-Billy est bizarrement assez charmante et on a le droit aux Black Keys avec
-[_Howlin' For You_->http://www.youtube.com/watch?v=TLSpj7q6_mM), dont il existe
-un clip très marrant :
+Danna (le même que pour _Little Miss Sunshine_), la version light de
+[_The Show_](http://www.youtube.com/watch?v=elsh3J5lJ6g&ob=av2e) que joue la
+fille de Billy est bizarrement assez charmante et on a le droit aux Black Keys
+avec [_Howlin' For You_](http://www.youtube.com/watch?v=TLSpj7q6_mM), dont il
+existe un clip très marrant :
 
 {% youtube TLSpj7q6_mM %}
 
