@@ -47,7 +47,7 @@ Via ses mémoires posthumes, _The Mayor of MacDougal Street_, Llewyn Davis est
 librement inspiré de la vie de Dave Van Ronk. _Hang Me, Oh Hang Me_ fait par
 exemple partie commune du répertoire de Dave/Llewyn.
 
-<iframe src="https://embed.spotify.com/?uri=spotify:track:2f7J61lTrAUr9LwtzKRjUX" width="300" height="80" frameborder="0" allowtransparency="true"> </iframe>
+{% spotify_track 2f7J61lTrAUr9LwtzKRjUX %}
 
 Dans le film, Isaac chante les morceaux lui-même, et interprète ainsi plusieurs
 autres standards du folk : _The Death of Queen Jane_, _The Old Triangle_, _Fare
@@ -57,7 +57,7 @@ de la liste, la patte Mumford est définitivement bien là, de quoi redonner pas
 mal de crédit à un artiste à qui un rien de sobriété dans ses propres
 productions pourrait ainsi peut-être se révéler salvateur.
 
-<iframe src="https://embed.spotify.com/?uri=spotify:track:4uCdzs757AOdKFFiKg19gz" width="300" height="80" frameborder="0" allowtransparency="true"> </iframe>
+{% spotify_track 4uCdzs757AOdKFFiKg19gz %}
 
 Quant au premier nommé, il n'est pas inconnu niveau portage de folk au cinéma,
 puisqu'il est l'auteur de _The Weary Kind_, chantée par [The Dude][6] himself,

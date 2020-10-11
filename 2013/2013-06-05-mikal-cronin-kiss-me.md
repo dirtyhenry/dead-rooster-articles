@@ -8,14 +8,14 @@ date: "2013-06-05 14:24:08 +0200"
 ---
 
 Petite reprise charmante de
-[SIxpence None The Richer](http://youtu.be/8N-qO3sPMjc) par Mikal Cronin :
+[Sixpence None The Richer](http://youtu.be/8N-qO3sPMjc) par Mikal Cronin :
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F91286700&show_artwork=false"></iframe>
+{% youtube OwdW5Djn_K4 %}
 
 Dans sa série "reprises au ukulele", celle de _I'm Gonna Be (500 Miles)_ des
-[Proclaimers](http://youtu.be/tbNlMtqrYS0) n'est pas mal non plus :
+[Proclaimers](http://youtu.be/tbNlMtqrYS0) n'est pas mal non plus.
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F91286699&show_artwork=false"></iframe>
+(edit : celle-ci est désormais introuvable sur internet ☹️)
 
 N'oubliez pas d'écouter aussi les propres titres de Cronin : [_Change_](1233)
 notamment.

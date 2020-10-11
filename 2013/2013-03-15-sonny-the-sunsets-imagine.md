@@ -11,4 +11,4 @@ Après
 [3 albums avec des chansons de groupes imaginaires](http://www.polyvinylrecords.com/store/index.php?artistID=1022),
 Sonny Smith reprend avec son vrai groupe… _Imagine_… Vous suivez ?
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F81081230"></iframe>
+{% soundcloud 81081230 %}

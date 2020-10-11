@@ -12,7 +12,7 @@ le bassiste du Real Estate. Sinon, il est le leader d'un groupe qui s'appelle
 Alex Bleeker And The Freaks, qui va bientôt sortir un nouvel album qui va
 s'appeller _How Far Away_. En voici le single :
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F78418477"></iframe>
+{% soundcloud 78418477 %}
 
 Sinon, vous pouvez aussi réécouter [_Easy_](982) et [_It's Real_](944) du Real
 Estate.
