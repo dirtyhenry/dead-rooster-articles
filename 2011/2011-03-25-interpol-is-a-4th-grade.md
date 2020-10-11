@@ -12,7 +12,7 @@ cover: interpol-live-daniel-kessler.png
 date: 2011-03-25 17:38:16 +0100
 ---
 
-{_2011, March 15th. Zénith, Paris, France_} The concert is about to start.
+**2011, March 15th. Zénith, Paris, France** The concert is about to start.
 Matthew Dear convinced us to wait for it from the bar, drinking expensive cheap
 beer. Five suited-up guys enter a foggy stage, something they may have learned
 when they were opening for U2 a few months ago. Three founding members of the

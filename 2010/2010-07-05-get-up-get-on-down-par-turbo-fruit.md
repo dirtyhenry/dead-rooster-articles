@@ -15,7 +15,7 @@ tags:
   - Single
 ---
 
-{_Turbo Fruits_} est un groupe du Tennessee mené par Jonas Stein, un ancien de
+**Turbo Fruits** est un groupe du Tennessee mené par Jonas Stein, un ancien de
 Be Your Own Pet. Leur 1er LP, _Echo Kid_, est sorti en septembre de l'année
 dernière et voici le clip de _Get Up Get On Down_ qui en est extrait.
 

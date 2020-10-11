@@ -15,7 +15,7 @@ tags:
 cover: the-livingstones-i-presume-concert-chez-adel.png
 ---
 
-{_The Livingstones I Presume_} joueront leur premier concert le samedi 1er mai,
+**The Livingstones I Presume** joueront leur premier concert le samedi 1er mai,
 à Paris, à 14h au bar [Chez Adel](https://www.timeout.fr/paris/bar/chez-adel),
 dans le Xème arrondissement.
 
