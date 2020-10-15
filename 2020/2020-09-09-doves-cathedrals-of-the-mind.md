@@ -1,8 +1,12 @@
 ---
 layout: post
 title: Doves - Cathedrals of the Mind
-authors:
-  - Dirty Henry
+author: Dirty Henry
+category: Chanson du jour
+tags:
+  - Doves
+  - Michka Assayas
+  - Very Good Trip
 ---
 
 {% youtube MBWsg9MtQuM %}
@@ -22,9 +26,9 @@ Ouch, mais je suis d'accord sur la qualité de ce titre, à écouter au casque,
 hyper produit, à la densité épaisse sans être lourde.
 
 Je serais nettement plus indulgent qu'Assayas. J'avais pas mal saigné [_The Last
-Broadcast_][2] notamment par la qualité de l'enchaînement des trois derniers
-titres, et son single, _There Goes the Fear_, déjà vaguement évoqué [ici][i1] y
-a pas mal de temps.
+Broadcast_][2] notamment par la qualité de l'enchaînement de ses trois premiers
+titres, et de son single, _There Goes the Fear_, déjà vaguement évoqué [ici][i1]
+y a pas mal de temps.
 
 [1]:
   https://www.franceinter.fr/emissions/very-good-trip/very-good-trip-08-septembre-2020
