@@ -17,7 +17,7 @@ que cela provoquait sur moi était cette question : "Ok, mais pour quoi faire ?"
 Donc, histoire de ne pas en rester là, j'ai profité de la sortie de leur
 deuxième album _Come Of Age_ pour voir si mes craintes étaient fondées.
 
-<img519|center>
+{% asset the-vaccines-cover.jpg %}
 
 Bon, déjà, ça commence mal ! Avec _No Hope_, on est directement confronté à du
 sous Libertines. Comme si Carl Barât & ses (ex-)potes avaient bu du coke plutôt

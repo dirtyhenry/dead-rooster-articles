@@ -38,7 +38,7 @@ des 24 noms qui m'intéressent à Rock en Seine : le premier a 24 pts, le dernie
 a 1 pt), c'est donc le dimanche qui l'emporte et j'accompagnerai donc Joe
 Gantdelaine voir Grandaddy.
 
-<img516>
+{% asset rock-en-seine-lineup-infography.png %}
 
 Si vous aussi, vous voulez faire votre choix pour Rock en Seine, j'ai partagé
 [le fichier CSV nécessaire ici](http://cdn.deadrooster.org/rockenseine2012.csv)
