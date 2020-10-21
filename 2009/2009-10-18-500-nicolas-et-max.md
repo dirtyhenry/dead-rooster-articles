@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "(500) Nicolas et Max"
+title: (500) Nicolas et Max
 authors:
   - Dirty Henry
 wordpress_id: 538
-date: "2009-10-18 18:52:09 +0200"
+cover: 500-days-of-summer.jpg
+date: 2009-10-18 18:52:09 +0200
 categories:
   - Artistes
 tags:
@@ -16,15 +17,15 @@ tags:
 comments:
   - author: Dirty Henry
     author_email: dirtyhenry@gmail.com
-    date: "2009-10-18 19:37:36 +0200"
+    date: 2009-10-18 19:37:36 +0200
     title: Une autre vidéo tirée du film…
     content:
       "Trouvée via le blog :
       http://fansdechicklit.blogspot.com/2009/10/hot-guy-of-month-joseph-gordon-levitt.html\r\n\r\nhttp://www.youtube.com/watch?v=17KUOQOlt8E"
   - author: Adeline
     author_email: drown.soda@yahoo.fr
-    date: "2009-11-01 20:00:41 +0100"
-    title: "(500) Days of autumn"
+    date: 2009-11-01 20:00:41 +0100
+    title: (500) Days of autumn
     content:
       "J'ai adoré (500) Days of Summer, ce film est tellement rafraîchissant !
       Il faudra que j'aille le voir une seconde fois, pour vérifier ce que dit
@@ -37,19 +38,18 @@ comments:
       Summer au karaoké !\r\nBises"
   - author: Dirty Henry
     author_email: dirtyhenry@gmail.com
-    date: "2009-11-01 23:09:18 +0100"
-    title: "(500) Days of autumn"
+    date: 2009-11-01 23:09:18 +0100
+    title: (500) Days of autumn
     content:
       Excellent le truc sur la couleur bleue. Moi aussi, j'hésite à retourner
       voir le film :)
   - author: Adeline
     author_email: drown.soda@yahoo.fr
-    date: "2009-11-02 09:27:59 +0100"
+    date: 2009-11-02 09:27:59 +0100
     title: Bleu
     content:
       "Tu peux regarder cette interview sur Allociné :
       http://www.allocine.fr/film/fichefilm-128377/interviews/\r\n:-)"
-cover: 500-days-of-summer.jpg
 ---
 
 ## _(500) Days of Summer_ - Marc Webb
@@ -91,7 +91,7 @@ ce blog, de _Please, Please, Please, Let Me Get What I Want_, des Smiths.
 
 ---
 
-<img337>
+{% asset mary-and-max.jpg %}
 
 ## _Mary and Max_ - Adam Elliot
 

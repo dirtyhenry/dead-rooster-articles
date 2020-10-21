@@ -8,7 +8,8 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 540
-date: "2009-10-25 20:22:00 +0100"
+cover: noah-and-the-whale.jpg
+date: 2009-10-25 20:22:00 +0100
 categories:
   - Catégories
   - Artistes
@@ -19,13 +20,12 @@ tags:
 comments:
   - author: Dirty Henry
     author_email: dirtyhenry@gmail.com
-    date: "2009-10-26 19:10:52 +0100"
+    date: 2009-10-26 19:10:52 +0100
     title: Noah et la baleine
     content:
       La trackliste du concert au café de la danse est dispo
       [ici](http://meinzuhausemeinblog.blogspot.com/2009/09/noah-whale-paris-180909.html)
       !
-cover: noah-and-the-whale.jpg
 ---
 
 Il y a plusieurs mois, Noah and the Whale est arrivé un peu partout sur internet
@@ -65,7 +65,7 @@ wesandersonienne très marquée des deux joyaux mentionnés en cliquant
 [là](http://www.youtube.com/watch?v=T8YCSJpF4g4) puisque ces blaireaux de Noah
 and the Whale ont désactivé la version embed de leurs vidéos)
 
-<img339>
+{% asset noah-and-the-whale-flycasse.jpg %}
 
 Puis vient le concert au café de la danse à Paris le 18 septembre dernier. Là,
 on découvre que le groupe n'est pas américain mais londonien ("non ?"), que leur

@@ -25,7 +25,7 @@ chiens, Indiana Jones, James Mercer et des métalleux jouent au tir à la corde.
 
 ## Guide du grand-père
 
-<img388>
+{% asset venn-diagramm-grandfather.jpg %}
 
 (licence Creative Commons à
 [fixedgear](http://www.flickr.com/photos/fixedgear/4159465921/), via

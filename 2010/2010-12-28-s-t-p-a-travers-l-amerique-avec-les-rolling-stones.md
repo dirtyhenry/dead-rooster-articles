@@ -41,7 +41,7 @@ tellement musique mais davantage de l'organisation des concerts, des nuits qui
 les suivent et de toutes les personnes qui auront pris part à l'épopée de la
 tournée, pour un jour ou deux mois.
 
-<img457>
+{% asset keith-richards-cigarette.jpg %}
 
 Mick et Keith ont beau être les deux protagonistes principaux de la tournée, ils
 ne sont pourtant que des personnages secondaires dans le livre. La plupart du

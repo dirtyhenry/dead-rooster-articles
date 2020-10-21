@@ -4,7 +4,8 @@ title: Hand in hand through their (Hyde) Parklife
 authors:
   - Dirty Henry
 wordpress_id: 514
-date: "2009-07-26 20:19:15 +0200"
+cover: blur-hyde-park.jpg
+date: 2009-07-26 20:19:15 +0200
 categories:
   - Catégories
   - Artistes
@@ -12,7 +13,6 @@ tags:
   - Concert
   - Blur
   - Florence + The Machine
-cover: blur-hyde-park.jpg
 ---
 
 En décembre dernier, Damon Albarn lâchait une bombe : "**Blur** jouera à Hyde
@@ -28,7 +28,7 @@ blurienne, chant du cygne d'une inspiration déclinante depuis la fabuleuse
 trilogie _Parklife-The Great Escape-Blur_ et des titres comme _Girls & Boys,
 Parklife, Country House_ ou _Song 2_.
 
-<img327>
+{% asset blur-hyde-park-oriflamme.jpg %}
 
 Et enfin, nous voilà le 3 juillet 2009, à Londres, plusieurs dizaines de
 milliers de personne sur le pelouse de Hyde Park ont déjà vu passer Deerhof et

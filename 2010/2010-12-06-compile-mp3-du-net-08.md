@@ -26,7 +26,7 @@ vite : **Reading Rainbow**, **The Notes** et **Surfer Blood**.
 A noter qu'une reprise de **Pavement** est au programme.
 
 <ul class="polaroids">
-<li><div class=polaroid>[<img447>Warpaint
+<li><div class=polaroid>[{% asset warpaint-undertow.jpg %}Warpaint
 *Undertow*](http://stereogum.com/508242/warpaint-undertow/mp3s/)</div></li>
 <li><div class=polaroid>[<img448>Reading Rainbow
 *Always on my mind*](http://wvmusic.bandcamp.com/)</div></li>
