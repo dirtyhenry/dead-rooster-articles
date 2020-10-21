@@ -4,14 +4,14 @@ title: When I was in the sweet little 16 (2009 version)
 authors:
   - Joe Gantdelaine
 wordpress_id: 519
-date: "2009-08-07 18:15:32 +0200"
+cover: jim-jones-revue.jpg
+date: 2009-08-07 18:15:32 +0200
 categories:
   - Catégories
   - Artistes
 tags:
   - Concert
   - Franz Ferdinand
-cover: jim-jones-revue.jpg
 ---
 
 Comme les vaches en transhumance, comme les saumons pas d'élevage, comme les
@@ -67,7 +67,7 @@ confirmations, il faut bien avouer que :
   chose à répondre, c'est qu'un live, un bon live s'entend, doit transcender.
   Sinon, c'est du divertissement.
 
-<img332>
+{% asset franz-ferdinand-live.jpg %}
 
 Tout cela étant dit, reste à parler des surprises, bonnes et mauvaises. Les
 mauvaises d'abord : l'absence de **Santigold**, qui nous empêche de juger sur

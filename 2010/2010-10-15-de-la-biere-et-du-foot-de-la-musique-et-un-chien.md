@@ -40,7 +40,7 @@ Deux biopics musicaux sont en préparation.
 Le premier concerne Freddie Mercury, le chanteur de Queen, qui sera interprété
 par Sasha Baron Cohen, choix plutôt bien vu :
 
-<img419>
+{% asset freddie-mercury-borat.png %}
 
 Profitons-en pour nous souvenir de Freddie Mercure :
 

@@ -4,12 +4,12 @@ title: Good Evening Sir Paulo !
 authors:
   - Dirty Henry
 wordpress_id: 557
-date: "2009-12-22 16:55:55 +0100"
+cover: paul-mc-cartney.jpg
+date: 2009-12-22 16:55:55 +0100
 categories:
   - Artistes
 tags:
   - The Beatles
-cover: paul-mc-cartney.jpg
 ---
 
 2009 fut une année Beatles. Comme tous les ans depuis 1960, d'accord et merci
@@ -41,7 +41,7 @@ public du soir. Vite expédié, on enchaîne avec un _Drive My Car_ et on se dit
 qu'on va avoir du mal à reprendre sa respiration pendant les 2 heures qui
 viennent.
 
-<img344>
+{% asset paul-mc-cartney-bercy.jpg %}
 
 Erreur. Dès le 3ème titre, le set ralentit nettement la cadence et enchaîne
 titres solos ou wingsiens anecdotiques et morceaux des Beatles trop calmes (_The
@@ -69,7 +69,7 @@ de voir les coulisses d'une oeuvre marquante, surtout quand elles savent ne pas
 trop en dire (ici, par exemple, on profite juste des images, sans le son, et
 c'est parfait ainsi).
 
-<img345>
+{% asset paul-mc-cartney-bercy-2.jpg %}
 
 On parle, on parle, mais on en est déjà à une quinzaine de titres de joués et il
 serait temps de commencer à envoyer du bois là. Pas de panique, c'est prévu. A

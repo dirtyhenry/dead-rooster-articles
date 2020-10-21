@@ -25,7 +25,7 @@ chiens, Indiana Jones, James Mercer et des métalleux jouent au tir à la corde.
 
 ## Guide du grand-père
 
-<img388>
+{% asset venn-diagramm-grandfather.jpg %}
 
 (licence Creative Commons à
 [fixedgear](http://www.flickr.com/photos/fixedgear/4159465921/), via
@@ -61,6 +61,6 @@ Dommage pour Broken Bells, qui avait réalisé un site geek assez sympa en août
 mais que j'ai découvert après celui d'Arcade Fire qui, avouons-le, le bat à
 plate couture…
 
-[<img389>](http://www.brokenbells.com/october/)
+[{% asset extrait-clip.png %}](http://www.brokenbells.com/october/)
 
 [Le Fun Friday de la semaine dernière.](701)

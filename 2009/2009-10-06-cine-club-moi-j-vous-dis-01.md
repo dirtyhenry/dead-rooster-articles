@@ -4,12 +4,12 @@ title: "Ciné-Club moi j'vous dis #01"
 authors:
   - Dirty Henry
 wordpress_id: 534
-date: "2009-10-06 22:08:36 +0200"
+cover: pauline-a-la-plage.jpg
+date: 2009-10-06 22:08:36 +0200
 categories:
   - Catégories
 tags:
   - Cinéma
-cover: pauline-a-la-plage.jpg
 ---
 
 _Casablanca_, œuvre magistrale ! _Le Cuirassé Potemkine_, n'en parlons même pas
@@ -40,7 +40,7 @@ dis-je, ce chef d'œuvre : _Un été de porcelaine_, de Mort Schuman.
 
 ---
 
-<img335>
+{% asset all-about-eve.jpg %}
 
 ## _All about Eve_ - Joseph L. Mankiewicz (1950)
 
@@ -66,7 +66,7 @@ karaoke… Désolé…
 
 ---
 
-<img336>
+{% asset cat-people.jpg %}
 
 ## _Cat People_ - Jacques Tourneur (1942)
 

@@ -80,7 +80,7 @@ album de la discographie joué en intégralité. On aimerait y être, on aimerai
 
 Bon vent messieurs et merci pour tout !
 
-<img518|center>
+{% asset the-soundtrack-of-our-lives-3.jpg %}
 
 Jeu Bonus : sur la photo ci-dessus, où est Tonton Daniel ? (un indice : il vit
 pour toujours dans les 70s et aime donc le jaune, le orange et le marron)
