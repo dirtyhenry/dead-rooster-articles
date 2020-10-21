@@ -31,7 +31,7 @@ Noter aussi que l'EP de **Guards** est téléchargeable intégralement et
 gratuitement sur la formidable plateforme de téléchargement bandcamp.
 
 <ul class="polaroids">
-<li><div class=polaroid>[<img436>California Wives
+<li><div class=polaroid>[{% asset california-wivess.png %}California Wives
 *Blood Red Youth*](http://www.rubinrecommends.com/2010/10/california-wives/)</div></li>
 <li><div class=polaroid>[<img437>Guards
 *Crystal Truth*](http://guards.bandcamp.com/)</div></li>

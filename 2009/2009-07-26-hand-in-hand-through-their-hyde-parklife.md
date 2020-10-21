@@ -43,7 +43,7 @@ convaincante du single de leur premier disque… 18 ans déjà… Le point d'ent
 d'un set impeccable, faisant presque l'impasse sur _Think Tank_ : seul le
 faiblard _Out Of Time_ se fraye un chemin sur la tracklist.
 
-<img328>
+{% asset graham-coxon-hyde-park.jpg %}
 
 Alors on se rappelle les années collège, le premier clip de Blur, aperçu sur M6
 après une introduction d'Hervé Noël rappelant les influences beatlessiennes du

@@ -66,7 +66,7 @@ karaoke… Désolé…
 
 ---
 
-<img336>
+{% asset cat-people.jpg %}
 
 ## _Cat People_ - Jacques Tourneur (1942)
 

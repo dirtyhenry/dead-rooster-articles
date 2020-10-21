@@ -18,6 +18,7 @@ Alors, bam, j'ai pas peur de parler politique et je me lance dans une tentative
 d'explication vaseuse sur pourquoi les sondages sont si mouvants, pourquoi les
 gens changent de vote aussi souvent, pourquoi tout ça.
 
-{% asset le-parti-opportuniste-1.png %} <img510> <img512>
+{% asset le-parti-opportuniste-1.png %} {% asset le-parti-fataliste-2.png %}
+<img512>
 
 Et pendant qu'on y est, n'oublions pas non plus [le parti fataliste](390).

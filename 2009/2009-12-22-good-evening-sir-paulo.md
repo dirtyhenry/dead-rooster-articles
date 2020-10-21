@@ -69,7 +69,7 @@ de voir les coulisses d'une oeuvre marquante, surtout quand elles savent ne pas
 trop en dire (ici, par exemple, on profite juste des images, sans le son, et
 c'est parfait ainsi).
 
-<img345>
+{% asset paul-mc-cartney-bercy-2.jpg %}
 
 On parle, on parle, mais on en est déjà à une quinzaine de titres de joués et il
 serait temps de commencer à envoyer du bois là. Pas de panique, c'est prévu. A

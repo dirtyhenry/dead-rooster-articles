@@ -61,6 +61,6 @@ Dommage pour Broken Bells, qui avait réalisé un site geek assez sympa en août
 mais que j'ai découvert après celui d'Arcade Fire qui, avouons-le, le bat à
 plate couture…
 
-[<img389>](http://www.brokenbells.com/october/)
+[{% asset extrait-clip.png %}](http://www.brokenbells.com/october/)
 
 [Le Fun Friday de la semaine dernière.](701)

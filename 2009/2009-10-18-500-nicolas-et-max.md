@@ -121,7 +121,7 @@ retrouve pas mal de thèmes de *Mary & Max* :
 
 ---
 
-<img338>
+{% asset petit-nicolas-film.jpg %}
 
 ## _Le Petit Nicolas_ - Laurent Tirard
 
