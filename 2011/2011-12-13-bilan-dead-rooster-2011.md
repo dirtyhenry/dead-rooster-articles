@@ -23,7 +23,7 @@ là-dessus donc on va faire ça, ok ?
 
 ## Le bilan graphique des performances depuis 2009
 
-<img498>
+{% asset stats-dead-rooster-2011.png %}
 
 On est donc à +28% sur les visites, +14% sur les pages vues, des nombres à deux
 chiffres qui en feraient saliver d'envie certains (suivez-mon regard, à bon
@@ -31,7 +31,7 @@ entendeur, salut, je ne fais pas de politique).
 
 Mettons le en perspective avec les audiences de Facebook et Allociné.
 
-<img499>
+{% asset comparatif.png %}
 
 Oh, c'est pas mal, non ? Pardon ? L'échelle est logarithmique ? Ah, ok, bon,
 effectivement c'est pas brillant mais l'année n'est pas finie et on a bien

@@ -37,7 +37,7 @@ anniversary of their debut release pretty soon. We'll get back on this subject
 at the occasion of the celebration of the 10th anniversary of The Strokes' _Is
 This It_ this summer (can you believe it? ten years!).
 
-<img474>
+{% asset interpol-paul-banks-live.png %}
 
 During the last decade, Interpol became one of my top favorite bands. First, the
 New Yorkers made me open the door again to the "cold wave" of the late 70s and
@@ -70,7 +70,7 @@ cheerfully with a not-original but
 quite-reassuring-for-a-band-that-split-up-many-times-without-telling-anyone «See
 you next time».
 
-<img475>
+{% asset interpol-daniel-kessler-live.png %}
 
 If people among you don't know Interpol that well, this is a _Interpol for
 Dummies playlist_.

@@ -27,7 +27,7 @@ effets partout, les influences sont claires : du côté des Dum Dum Girls, on a 
 écouter les Ronettes, mais sans doute aussi The Jesus & Mary Chain. L'album
 n'avait donc pas déçu.
 
-<img493>
+{% asset dum-dum-girls-route-du-rock.jpg %}
 
 La tournée française, elle, avait déçu. Conforme à ce qu'en disait la presse, la
 prestation à la Route du Rock 2010 fut loin des sommets historiques du festival
@@ -42,7 +42,7 @@ loin de tirer un trait sur les Dum Dum Girls : sans doute un groupe opportuniste
 se lançant dans la brèche créée par [Best Coast](657), et qu'on aurait vite
 oublié.
 
-<img491>
+{% asset dum-dum-girls-studio-photo.png %}
 
 Sauf qu'il y a quelques semaines, le groupe a sorti son second album, _Only In
 Dreams_. Si les morceaux d'ouverture sont aussi immédiatement séduisants et
@@ -57,7 +57,7 @@ sans trahir ses voisins et donne envie de réécouter l'ensemble, encore et
 encore. On se rend alors compte d'une variété de tons dont on n'aurait jamais
 soupçonner le groupe capable (_In My Head_ ou _Hold Your Hand_).
 
-<img492>
+{% asset dee-dee.png %}
 
 Derrière les Dum Dum Girls, il serait difficile de parler de groupe. Il s'agit
 plutôt de Dee Dee
