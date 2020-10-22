@@ -57,7 +57,7 @@ sans trahir ses voisins et donne envie de réécouter l'ensemble, encore et
 encore. On se rend alors compte d'une variété de tons dont on n'aurait jamais
 soupçonner le groupe capable (_In My Head_ ou _Hold Your Hand_).
 
-<img492>
+{% asset dee-dee.png %}
 
 Derrière les Dum Dum Girls, il serait difficile de parler de groupe. Il s'agit
 plutôt de Dee Dee

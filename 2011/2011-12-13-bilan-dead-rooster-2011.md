@@ -31,7 +31,7 @@ entendeur, salut, je ne fais pas de politique).
 
 Mettons le en perspective avec les audiences de Facebook et Allociné.
 
-<img499>
+{% asset comparatif.png %}
 
 Oh, c'est pas mal, non ? Pardon ? L'échelle est logarithmique ? Ah, ok, bon,
 effectivement c'est pas brillant mais l'année n'est pas finie et on a bien

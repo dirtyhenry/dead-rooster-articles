@@ -65,7 +65,7 @@ Guards *Long Time*
 </div></li>
 
 <li><div class="polaroid">
-[{% asset felice-brothers.jpg.jpg %}The Felice Brothers
+[{% asset felice-brothers.jpg %}The Felice Brothers
 *All When We Were Young*](http://www.blogotheque.net/When-We-Were-Kings)
 </div></li>
 
