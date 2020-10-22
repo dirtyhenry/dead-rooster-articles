@@ -23,7 +23,7 @@ Maroquinerie, à Paris, le 4 octobre.
 <ul class="polaroids">
 
 <li><div class="polaroid">
-[<img369> Young Man
+[{% asset young-man-fate.jpg %} Young Man
 *Fate*](http://vimeo.com/39706493)
 </div></li>
 

@@ -24,7 +24,7 @@ The Outs** et de **Women** ainsi qu'une excellente reprise du _No Satisfaction_
 de **Black Mountain** par **The Black Angels**.
 
 <ul class="polaroids">
-<li><div class=polaroid>[<img421>Po Po
+<li><div class=polaroid>[{% asset popo-bummer-summer.png %}Po Po
 *Bummer Summer*](http://stereogum.com/447372/popo-bummer-summer/mp3s/)</div></li>
 <li><div class=polaroid>[<img431>Andrew Cedermark
 *Hard Livin'*](http://pitchfork.com/reviews/albums/14628-moon-deluxe/)</div></li>

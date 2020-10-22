@@ -17,7 +17,7 @@ décevant vis-à-vis de la pochette.
 
 ## Beat Connection
 
-<img366|center>
+{% asset surf-noir-beat-connection.png %}
 
 Beat Connection vient de diffuser un EP gratuit sur bandcamp.
 [A écouter ici](http://beatconnection.bandcamp.com/).

@@ -25,8 +25,8 @@ particulièrement à découvrir les excellents **Guards** et **The Fresh & Onlys
 <ul class="polaroids">
 
 <li><div class="polaroid">
-<img390>Guards
-*Long Time*
+{% asset guards-long-time.png %}
+Guards *Long Time*
 </div></li>
 
 <li><div class="polaroid">

@@ -20,7 +20,7 @@ de la course.
 
 <div style="clear: both"></div>
 
-<img362|left> ## 2. JOE PISTOL Meilleur temps : 0:29.068
+{% asset karting-pote-julio.jpg %} ## 2. JOE PISTOL Meilleur temps : 0:29.068
 
 <div style="clear: both"></div>
 

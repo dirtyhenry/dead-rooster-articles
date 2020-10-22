@@ -27,7 +27,7 @@ Au programme cette semaine, **The Shins** reprennent un titre du groupe Squeeze,
 </div></li>
 
 <li><div class="polaroid">
-<img379> Strange Shapes
+{% asset stange-shapes.png %} Strange Shapes
 *I Found A Rock*
 </div></li>
 

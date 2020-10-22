@@ -55,7 +55,7 @@ CollegeHumor nous présente
 [une nouvelle extension à Photoshop : le PhotoBomb Tool](http://www.collegehumor.com/video:1940686),
 qui permet de rendre fun ses photos chiantes.
 
-[<img400>](http://www.collegehumor.com/video:1940686)
+[{% asset terrible-photoshop-screenshot.png %}](http://www.collegehumor.com/video:1940686)
 
 (via [Ludo](http://www.geeek.org/post/photoshop-cs11-et-le-photobomb-tool-892))
 
