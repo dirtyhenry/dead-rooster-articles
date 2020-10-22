@@ -31,7 +31,7 @@ Only Knows_, des Beach Boys.
 <li><div class="polaroid">[{% asset british-sea-power-zeus-ep.jpg %}British Sea Power
 *Zeus*](http://stereogum.com/521722/british-sea-power-zeus/mp3s/)</div></li>
 
-<li><div class="polaroid">[<img406>Woven Bones
+<li><div class="polaroid">[{% asset wovenbones-ivegottaget.jpg %}Woven Bones
 *I’ve Gotta Get*](http://www.thefader.com/2010/08/13/hear-woven-bones-new-7/)</div></li>
 
 <li><div class="polaroid">[<img404>Shannon Wright

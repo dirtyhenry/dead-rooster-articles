@@ -29,7 +29,7 @@ retourne vers le fils cadet pour prendre les rênes de la Bluth Company.
 
 Voilà ce que donne l'arbre généalogique de la famille :
 
-<img490>
+{% asset arrested-development-family-tree.png %}
 
 Vous devriez y reconnaître des stars en devenir (Michael Cera), ainsi que des
 visages connus des amateurs, comme moi, de film à-la-con : Jason Bateman

@@ -40,7 +40,7 @@ Guards *Long Time*
 </div></li>
 
 <li><div class="polaroid">
-<img393>Parenthetical Girls
+{% asset parenthetical-girls-young-throats.jpg %}Parenthetical Girls
 *Young Throats*
 </div></li>
 

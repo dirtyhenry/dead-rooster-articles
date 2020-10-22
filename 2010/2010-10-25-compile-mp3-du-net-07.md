@@ -41,7 +41,7 @@ gratuitement sur la formidable plateforme de téléchargement bandcamp.
 *Sex With An X*](http://pitchfork.com/news/39629-new-vaselines-sex-with-an-x/)</div></li>
 <li><div class=polaroid>[{% asset mr-dream-learn-the-language.png %}Mr. Dream
 *Scarred For Life*](http://stereogum.com/540731/mr-dream-learn-the-language-stereogum-premiere/mp3s/)</div></li>
-<li><div class=polaroid>[<img441>Pixies
+<li><div class=polaroid>[{% asset pixies-la-la-love-you.png %}Pixies
 *La La Love You*](http://pixiesmusic.com/interpol.html)</div></li>
 <li><div class=polaroid>[<img442>Weezer
 *Getting Up And Leaving*](http://stereogum.com/550731/weezer-blowin-my-stack-getting-up-and-leaving/mp3s/)</div></li>

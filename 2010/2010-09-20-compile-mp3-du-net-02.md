@@ -32,7 +32,7 @@ Au programme cette semaine, **The Shins** reprennent un titre du groupe Squeeze,
 </div></li>
 
 <li><div class="polaroid">
-[{% asset to-rename.jpg %} Cloud Nothings
+[{% asset cloud-nothings-hey-cool-kid.jpg %} Cloud Nothings
 *Hey Cool Kid*](http://www.thetripwire.com/tripwiretvspotlight/2010/07/12/cloud-nothings-take-it-outside-play-acoustic-hey-cool-kid/)
 </div></li>
 
@@ -42,7 +42,7 @@ Au programme cette semaine, **The Shins** reprennent un titre du groupe Squeeze,
 </div></li>
 
 <li><div class="polaroid">
-<img380> Sri Aurobindo
+{% asset sri-aurobindo-soul-vibrations-of-man.png %} Sri Aurobindo
 *Soul Vibrations of Man*
 </div></li>
 

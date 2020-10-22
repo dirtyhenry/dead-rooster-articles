@@ -38,7 +38,7 @@ A noter qu'une reprise de **Pavement** est au programme.
 *La Chose*](http://soundcloud.com/humptydumptyrecords/miele-la-chose/comments)</div></li>
 <li><div class=polaroid>{% asset sweetlights-ballad.png %}Sweet Lights
 *Ballad of Kurt Vile #2*</div></li>
-<li><div class=polaroid>[<img453>Surfer Blood
+<li><div class=polaroid>[{% asset surfer-blood-boxelder.jpg %}Surfer Blood
 *Box Elder (Pavement)*](http://halfwayhousemusic.com/2010/10/11/halfway-house-sessions-surfer-blood/)</div></li>
 <li><div class=polaroid>[<img454>Phosphorescent
 *It’s Hard To Be Humble (When You’re From Alabama)*](http://stereogum.com/281942/phosphorescent-%E2%80%93-%E2%80%9Cit%E2%80%99s-hard-to-be-humble-when-you%E2%80%99re-from-alabama%E2%80%9D/mp3s/)</div></li>

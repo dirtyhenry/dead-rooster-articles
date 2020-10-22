@@ -32,7 +32,7 @@ de la course.
 
 <div style="clear: both"></div>
 
-<img357|left> ## 5. ALAIN Meilleur temps : 0:28.576
+{% asset karting-mick.jpg %} ## 5. ALAIN Meilleur temps : 0:28.576
 
 <div style="clear: both"></div>
 

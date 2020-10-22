@@ -38,7 +38,7 @@ Maroquinerie, à Paris, le 4 octobre.
 </div></li>
 
 <li><div class="polaroid">
-<img372> Family Trees
+{% asset family-trees-dream-talkin.jpg %} Family Trees
 *Dream Talkin*
 </div></li>
 
