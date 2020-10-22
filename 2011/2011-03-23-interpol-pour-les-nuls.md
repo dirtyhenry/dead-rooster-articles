@@ -8,8 +8,15 @@ cover: interpol-live-daniel-kessler.png
 date: 2011-03-23 17:31:33 +0100
 ---
 
--# _Obstacle 1_ -# _Say Hello To The Angels_ -# _Stella was a diver and she was
-always down_ -# _Evil_ -# _Slow Hands_ -# _Length Of Love_ -# _Pioneer to The
-Falls_ -# _The Lighthouse_ -# _Success_ -# _Lights_
+1. _Obstacle 1_
+1. _Say Hello To The Angels_
+1. _Stella was a diver and she was always down_
+1. _Evil_
+1. _Slow Hands_
+1. _Length Of Love_
+1. _Pioneer to The Falls_
+1. _The Lighthouse_
+1. _Success_
+1. _Lights_
 
-[<img src="/squelettes/images/spotify-button.png" />](http://open.spotify.com/user/dirtyhenry/playlist/7trDXQ940DYxcQDRIcjZwO)
+{% spotify 7trDXQ940DYxcQDRIcjZwO %}

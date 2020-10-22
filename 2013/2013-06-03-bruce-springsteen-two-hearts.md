@@ -16,7 +16,7 @@ top 14, on ne retrouve pas le stade toulousain mais _Two Hearts_ :
 
 La compile complète est en écoute ici :
 
-[<img alt="Écouter sur Spotify" src="/squelettes/images/spotify-button.png" />](http://open.spotify.com/user/dirtyhenry/playlist/1SmZPuNRAG0WIiThwKcB6F)
+{% spotify 1SmZPuNRAG0WIiThwKcB6F %}
 
 (via
 [Stereogum](http://www.stereogum.com/592652/win-butlers-14-favorite-springsteen-songs/list/))

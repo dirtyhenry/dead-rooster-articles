@@ -50,7 +50,7 @@ Guards *Long Time*
 </div></li>
 
 <li><div class="polaroid">
-{% asset to-rename.png %}Telenovelas
+{% asset telenovelas-one-and-only.png %}Telenovelas
 *One and Only*
 </div></li>
 

@@ -82,7 +82,7 @@ Liens :
 - Le [myspace][4] avec plein de morceaux bien !
 
 Photo : [Dena Flows][5],
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.0/deed.fr"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-nd/2.0/80x15.png" />
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.0/deed.fr">
 Certains droits réservés (licence Creative Commons)</a>
 
 [1]:

@@ -172,7 +172,7 @@ pour autant. Minus est plus pertinent.
 
 ## La synthèse
 
-<a href="http://open.spotify.com/user/dirtyhenry/playlist/3hsF2PdtSXdxKF92uWILeo"><img src="/squelettes/images/spotify-button.png" /></a>
+{% spotify 3hsF2PdtSXdxKF92uWILeo %}
 
 Réalisée avec [Sortmash](http://sortmash.com).
 
