@@ -28,7 +28,7 @@ Only Knows_, des Beach Boys.
 <li><div class="polaroid">[{% asset parlovr-hellheaven.png %}Parlovr
 *Hell, Heaven*](http://stereogum.com/516072/parlovr-hell-heaven/mp3s/)</div></li>
 
-<li><div class="polaroid">[<img405>British Sea Power
+<li><div class="polaroid">[{% asset british-sea-power-zeus-ep.jpg %}British Sea Power
 *Zeus*](http://stereogum.com/521722/british-sea-power-zeus/mp3s/)</div></li>
 
 <li><div class="polaroid">[<img406>Woven Bones

@@ -39,7 +39,7 @@ gratuitement sur la formidable plateforme de téléchargement bandcamp.
 *Wait For*](http://hellholeentrance.blogspot.com/2010/10/kid-trails.html)</div></li>
 <li><div class=polaroid>[{% asset the-vaselines.png %}The Vaselines
 *Sex With An X*](http://pitchfork.com/news/39629-new-vaselines-sex-with-an-x/)</div></li>
-<li><div class=polaroid>[<img440>Mr. Dream
+<li><div class=polaroid>[{% asset mr-dream-learn-the-language.png %}Mr. Dream
 *Scarred For Life*](http://stereogum.com/540731/mr-dream-learn-the-language-stereogum-premiere/mp3s/)</div></li>
 <li><div class=polaroid>[<img441>Pixies
 *La La Love You*](http://pixiesmusic.com/interpol.html)</div></li>

@@ -36,7 +36,7 @@ A noter qu'une reprise de **Pavement** est au programme.
 *Awake*](http://wearethenotes.bandcamp.com)</div></li>
 <li><div class=polaroid>[{% asset miele-la-chose.jpg %}Mièle
 *La Chose*](http://soundcloud.com/humptydumptyrecords/miele-la-chose/comments)</div></li>
-<li><div class=polaroid><img452>Sweet Lights
+<li><div class=polaroid>{% asset sweetlights-ballad.png %}Sweet Lights
 *Ballad of Kurt Vile #2*</div></li>
 <li><div class=polaroid>[<img453>Surfer Blood
 *Box Elder (Pavement)*](http://halfwayhousemusic.com/2010/10/11/halfway-house-sessions-surfer-blood/)</div></li>

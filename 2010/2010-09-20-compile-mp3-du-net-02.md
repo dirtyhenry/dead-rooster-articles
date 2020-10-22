@@ -37,7 +37,7 @@ Au programme cette semaine, **The Shins** reprennent un titre du groupe Squeeze,
 </div></li>
 
 <li><div class="polaroid">
-[<img384> Beach Fossils
+[{% asset beach-fossils-cover.jpg %} Beach Fossils
 *Vacation*](http://kmskma.free.fr/?p=3357)
 </div></li>
 

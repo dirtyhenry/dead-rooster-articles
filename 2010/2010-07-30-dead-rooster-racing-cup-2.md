@@ -28,7 +28,7 @@ de la course.
 
 <div style="clear: both"></div>
 
-<img356|left> ## 4. GAETAN Meilleur temps : 0:30.402
+{% asset karting-gaetan.jpg %} ## 4. GAETAN Meilleur temps : 0:30.402
 
 <div style="clear: both"></div>
 

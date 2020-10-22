@@ -32,7 +32,7 @@ et fermer la compile avec une reprise de Katy Perry.
 *Blue And Silver*](http://stereogum.com/522201/lower-dens-blue-and-silver/mp3s/)</div></li>
 <li><div class=polaroid>{% asset seamonster-oh-appalachia.png %}Seamonster
 *Oh Appalachia*</div></li>
-<li><div class=polaroid>[<img414>Sharon Van Etten
+<li><div class=polaroid>[{% asset sharon-van-etten-dont-do-it.jpg %}Sharon Van Etten
 *Don’t Do It*](http://stereogum.com/503982/sharon-van-etten-dont-do-it-stereogum-premiere/mp3s/)</div></li>
 <li><div class=polaroid>[<img415>Chapter
 *Tomcat*](http://www.bonpourlesoreilles.net/musique/2010/09/chapter-three-a-collection-of-monsters-four-whiter-heron-blues.html)</div></li>

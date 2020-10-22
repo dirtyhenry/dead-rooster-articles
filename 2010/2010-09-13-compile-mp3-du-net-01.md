@@ -33,7 +33,7 @@ Maroquinerie, à Paris, le 4 octobre.
 </div></li>
 
 <li><div class="polaroid">
-[<img371> Black Mountain
+[{% asset black-mountain-the-hair-song.jpg %} Black Mountain
 *The Hair Song*](http://pitchfork.com/news/39607-black-mountain-tour-with-black-angels/)
 </div></li>
 

@@ -31,7 +31,7 @@ partagent les doutes sur la musique.
 
 ## Pony Club
 
-<img368|center>
+{% asset pony-club-post-romantic.png %}
 
 Découvert via
 [howtodisappear](http://www.howtodisappear.org/2010/07/what-album-cover.html).

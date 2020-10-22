@@ -35,7 +35,7 @@ Guards *Long Time*
 </div></li>
 
 <li><div class="polaroid">
-[<img392>The Raveonettes
+[{% asset the-raveonettes-i-wanna-be-adored.png %}The Raveonettes
 *I Wanna Be Adored*](http://50.drmartens.com/free-mp3s/)
 </div></li>
 
