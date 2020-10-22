@@ -33,19 +33,19 @@ gratuitement sur la formidable plateforme de téléchargement bandcamp.
 <ul class="polaroids">
 <li><div class=polaroid>[{% asset california-wivess.png %}California Wives
 *Blood Red Youth*](http://www.rubinrecommends.com/2010/10/california-wives/)</div></li>
-<li><div class=polaroid>[<img437>Guards
+<li><div class=polaroid>[{% asset guards.png %}Guards
 *Crystal Truth*](http://guards.bandcamp.com/)</div></li>
-<li><div class=polaroid>[<img438>Kid Trails
+<li><div class=polaroid>[{% asset kidtrails.png %}Kid Trails
 *Wait For*](http://hellholeentrance.blogspot.com/2010/10/kid-trails.html)</div></li>
-<li><div class=polaroid>[<img439>The Vaselines
+<li><div class=polaroid>[{% asset the-vaselines.png %}The Vaselines
 *Sex With An X*](http://pitchfork.com/news/39629-new-vaselines-sex-with-an-x/)</div></li>
-<li><div class=polaroid>[<img440>Mr. Dream
+<li><div class=polaroid>[{% asset mr-dream-learn-the-language.png %}Mr. Dream
 *Scarred For Life*](http://stereogum.com/540731/mr-dream-learn-the-language-stereogum-premiere/mp3s/)</div></li>
-<li><div class=polaroid>[<img441>Pixies
+<li><div class=polaroid>[{% asset pixies-la-la-love-you.png %}Pixies
 *La La Love You*](http://pixiesmusic.com/interpol.html)</div></li>
-<li><div class=polaroid>[<img442>Weezer
+<li><div class=polaroid>[{% asset weezer.png.png %}Weezer
 *Getting Up And Leaving*](http://stereogum.com/550731/weezer-blowin-my-stack-getting-up-and-leaving/mp3s/)</div></li>
-<li><div class=polaroid>[<img443>The Beach Boys
+<li><div class=polaroid>[{% asset beach-boys.png.png %}The Beach Boys
 *Johnny B. Goode*](http://captainsdead.com/the-beach-boys-and-the-dead-live-at-the-fillmore-east-4.27.71.html)</div></li>
 <li><div class=polaroid>[<img444>Robin Pecknold
 *Blue Spotted Tail*](http://www.weallwantsomeone.org/2010/08/18/listen-robin-pecknold-live-bootlegs/)</div></li>

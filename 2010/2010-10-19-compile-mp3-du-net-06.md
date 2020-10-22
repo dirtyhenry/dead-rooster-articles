@@ -24,17 +24,17 @@ The Outs** et de **Women** ainsi qu'une excellente reprise du _No Satisfaction_
 de **Black Mountain** par **The Black Angels**.
 
 <ul class="polaroids">
-<li><div class=polaroid>[<img421>Po Po
+<li><div class=polaroid>[{% asset popo-bummer-summer.png %}Po Po
 *Bummer Summer*](http://stereogum.com/447372/popo-bummer-summer/mp3s/)</div></li>
-<li><div class=polaroid>[<img431>Andrew Cedermark
+<li><div class=polaroid>[{% asset andrew-cedermark-hard-livin.png %}Andrew Cedermark
 *Hard Livin'*](http://pitchfork.com/reviews/albums/14628-moon-deluxe/)</div></li>
-<li><div class=polaroid><img423>Dumbo Gets Mad
+<li><div class=polaroid>{% asset dumbo-gets-mad.jpg %}Dumbo Gets Mad
 *Plumy Tale*</div></li>
-<li><div class=polaroid>[<img424>Women
+<li><div class=polaroid>[{% asset women-narrow-in-the-hall.png %}Women
 *Narrow With The Hall*](http://pitchfork.com/forkcast/14793-narrow-with-the-hall/)</div></li>
-<li><div class=polaroid>[<img426>The Black Angels
+<li><div class=polaroid>[{% asset the-black-angels-no-satisfaction.png.png %}The Black Angels
 *No Satisfaction*](http://pitchfork.com/news/39607-black-mountain-tour-with-black-angels/)</div></li>
-<li><div class=polaroid>[<img427>Jesse Woods
+<li><div class=polaroid>[{% asset jesse-woods-ugly-dress.png.png %}Jesse Woods
 *Ugly Dress*](http://stereogum.com/448821/jesse-woods-mind-drips-neon-indian-cover/mp3s/)</div></li>
 <li><div class=polaroid>[<img428>Frankie Rose & The Outs
 *Candy*](http://stereogum.com/507962/frankie-rose-and-the-outs-candy-stereogum-premiere/mp3s/)</div></li>

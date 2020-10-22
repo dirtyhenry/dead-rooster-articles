@@ -17,21 +17,21 @@ décevant vis-à-vis de la pochette.
 
 ## Beat Connection
 
-<img366|center>
+{% asset surf-noir-beat-connection.png %}
 
 Beat Connection vient de diffuser un EP gratuit sur bandcamp.
 [A écouter ici](http://beatconnection.bandcamp.com/).
 
 ## Warm Waves
 
-<img367|center>
+{% asset warm-waves.png %}
 
 Les gens de I Guess I'm Floating sont d'accord sur la qualité de la pochette… et
 partagent les doutes sur la musique.
 
 ## Pony Club
 
-<img368|center>
+{% asset pony-club-post-romantic.png %}
 
 Découvert via
 [howtodisappear](http://www.howtodisappear.org/2010/07/what-album-cover.html).

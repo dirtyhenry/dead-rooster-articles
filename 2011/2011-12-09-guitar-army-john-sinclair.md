@@ -143,6 +143,6 @@ Guitar Army finit par une liste sans fin de disques de rock & roll, de rhythm &
 blues et de livres. Voici une compile Spotify de quelques artistes recommandés
 pour se mettre dans l'ambiance :
 
-<a href="http://open.spotify.com/user/dirtyhenry/playlist/55rWJyJXPRlsRRyPKxxdyy"><img src="/squelettes/images/spotify-button.png" /></a>
+{% spotify 55rWJyJXPRlsRRyPKxxdyy %}
 
 [1]: https://en.wikipedia.org/wiki/Joe_(1970_film)#Real-life_parallel

@@ -25,32 +25,32 @@ particulièrement à découvrir les excellents **Guards** et **The Fresh & Onlys
 <ul class="polaroids">
 
 <li><div class="polaroid">
-<img390>Guards
-*Long Time*
+{% asset guards-long-time.png %}
+Guards *Long Time*
 </div></li>
 
 <li><div class="polaroid">
-[<img391>Women
+[{% asset women-public-strain.jpg %}Women
 *Eyesore*](http://www.thefader.com/2010/07/15/listen-women-eyesore/)
 </div></li>
 
 <li><div class="polaroid">
-[<img392>The Raveonettes
+[{% asset the-raveonettes-i-wanna-be-adored.png %}The Raveonettes
 *I Wanna Be Adored*](http://50.drmartens.com/free-mp3s/)
 </div></li>
 
 <li><div class="polaroid">
-<img393>Parenthetical Girls
+{% asset parenthetical-girls-young-throats.jpg %}Parenthetical Girls
 *Young Throats*
 </div></li>
 
 <li><div class="polaroid">
-[<img395>Magic Kids
+[{% asset magic-kids-memphis.png %}Magic Kids
 *Superball*](http://stereogum.com/458381/magic-kids-superball/mp3s/)
 </div></li>
 
 <li><div class="polaroid">
-<img396>Telenovelas
+{% asset telenovelas-one-and-only.png %}Telenovelas
 *One and Only*
 </div></li>
 

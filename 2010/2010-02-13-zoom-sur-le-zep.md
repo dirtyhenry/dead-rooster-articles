@@ -106,5 +106,4 @@ se marrer des anecdotes de Bonzo et cie.
 
 ---
 
-<img src="/IMG/arton219.jpg" alt="Bob Dylan, une biographie" width="100px" />
 [Relire le post consacré à l'ouvrage de François Bon sur Bob Dylan](219)

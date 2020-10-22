@@ -16,12 +16,18 @@ tags:
   - The Notwist
 ---
 
--# Grandaddy - _He's Simple, He's Dumb, He's the Pilot_ -# The Velvet
-Underground - _Sunday Morning_ -# Lady and Bird - _Stephanie Says_ -# Beck -
-_Everybody's Gotta Learn Sometime_ -# The Notwist - _Consequence_ -# Elliott
-Smith - _Between the Bars_ -# Yo La Tengo - _Center of Gravity_ -# Sigur Ros -
-_Svefn-g-englar_ -# Josh Rouse - _Love Vibration_ -# Adam Green - _Friends of
-Mine_ -# Herman Düne - _This Will Never Happen_ -# Sufjan Stevens - _Chicago_ -#
-Nada Surf - _80 Windows_
+1. Grandaddy - _He's Simple, He's Dumb, He's the Pilot_
+1. The Velvet Underground - _Sunday Morning_
+1. Lady and Bird - _Stephanie Says_
+1. Beck - _Everybody's Gotta Learn Sometime_
+1. The Notwist - _Consequence_
+1. Elliott Smith - _Between the Bars_
+1. Yo La Tengo - _Center of Gravity_
+1. Sigur Ros - _Svefn-g-englar_
+1. Josh Rouse - _Love Vibration_
+1. Adam Green - _Friends of Mine_
+1. Herman Düne - _This Will Never Happen_
+1. Sufjan Stevens - _Chicago_
+1. Nada Surf - _80 Windows_
 
-[<img src="/squelettes/images/spotify-button.png" />](http://open.spotify.com/user/guiguilele/playlist/0GkIj6KquwqO8rFFso5rBA)
+{% spotify 0GkIj6KquwqO8rFFso5rBA %}

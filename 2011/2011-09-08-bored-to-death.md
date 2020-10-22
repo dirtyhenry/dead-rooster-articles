@@ -75,25 +75,41 @@ Family Of The Year.
 
 {% youtube uPSb8yFGZ-E %}
 
-<a href="http://open.spotify.com/user/dirtyhenry/playlist/16Zh0sLmbLicvPdelYm7uD"><img src="/squelettes/images/spotify-button.png" /></a>
+{% spotify 16Zh0sLmbLicvPdelYm7uD %}
 
--# Alexander McCabe - *Tip Toe\*\* -# It Hugs Back - *Look Out* -# The Explorers
-Club - *Do You Love Me?* -# Princeton - *Sadie & Andy* -# Mean See Level - *Keep
-Anything** -# Helado Negro - \*Venceremos** -# They Might Be Giants - _Birdhouse
-In Your Soul_ -# Tommy Guerrero - *Knives Fighting Guns\*\* -# Josh Ritter -
-*Long Shadows* -# John Coltrane - *By The Numbers* -# Princeton - *Clamoring For
-Your Heart* -# Christopher Denny - *Heart's On Fire* -# Isaac Hayes - *The End
-Theme (Three Tough Guys)* -# Isaac Hayes - *Pursuit of the Pimpmobile* -# Isaac
-Hayes - *We Need Each Other Girl* -# Isaac Hayes - *End Theme (Truck Turner)* -#
-The Ides Of March - *Vehicle* -# 11 Acorn Lane - *The Fox* -# Family Of The
-Year - *Charlie Song* -# Monsters of Folk - *Losin' Yo' Head* -# DeWolfe Music -
-*Written In My Heart** -# Undersea Poem - _Theme Song_ -# El Gato - _The
-Frustrated Cowboy_ -# Eagle and the Worm - \*All I Know** -# Sean Bones -
-_Visions_ -# Titus Andronicus - _Titus Andronicus Forever_ -# Katie Herzig -
-_How The West Was Won_ -# Geraint Watkins - *My Happy Day\*\* -# The Tremolo
-Beer Gut - *Chinese Spy* -# Tito Puente - *Ran Kan Kan (Thunderball vs The Fort
-Knox Remix)* -# Melpo Mene - *The Sun* -# Geraint Watkins - *My Happy day
-(reprise)* -# Sinead O'Connor - *I Wanna Be Loved By You* -# Super Melody - *I
-Want Your Blood* -# Yo La Tengo - *Mr. Tough\*
+1. Alexander McCabe - *Tip Toe*🔇
+1. It Hugs Back - _Look Out_
+1. The Explorers Club - _Do You Love Me?_
+1. Princeton - _Sadie & Andy_
+1. Mean See Level - *Keep Anything*🔇
+1. Helado Negro - *Venceremos*🔇
+1. They Might Be Giants - _Birdhouse In Your Soul_
+1. Tommy Guerrero - *Knives Fighting Guns*🔇
+1. Josh Ritter - _Long Shadows_
+1. John Coltrane - _By The Numbers_
+1. Princeton - _Clamoring For Your Heart_
+1. Christopher Denny - _Heart's On Fire_
+1. Isaac Hayes - _The End Theme (Three Tough Guys)_
+1. Isaac Hayes - _Pursuit of the Pimpmobile_
+1. Isaac Hayes - _We Need Each Other Girl_
+1. Isaac Hayes - _End Theme (Truck Turner)_ -# The Ides Of March - _Vehicle_
+1. 11 Acorn Lane - _The Fox_
+1. Family Of The Year - _Charlie Song_
+1. Monsters of Folk - _Losin' Yo' Head_
+1. DeWolfe Music - *Written In My Heart*🔇
+1. Undersea Poem - _Theme Song_
+1. El Gato - _The Frustrated Cowboy_
+1. Eagle and the Worm - *All I Know*🔇
+1. Sean Bones - _Visions_
+1. Titus Andronicus - _Titus Andronicus Forever_
+1. Katie Herzig - _How The West Was Won_
+1. Geraint Watkins - *My Happy Day*🔇
+1. The Tremolo Beer Gut - _Chinese Spy_
+1. Tito Puente - _Ran Kan Kan (Thunderball vs The Fort Knox Remix)_
+1. Melpo Mene - _The Sun_
+1. Geraint Watkins - _My Happy day (reprise)_
+1. Sinead O'Connor - _I Wanna Be Loved By You_
+1. Super Melody - _I Want Your Blood_
+1. Yo La Tengo - _Mr. Tough_
 
-Les titres avec \* ne sont pas disponibles sur Spotify.
+_NB : les titres avec 🔇 sont indisponibles._

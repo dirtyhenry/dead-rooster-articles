@@ -16,31 +16,31 @@ La 2nde édition de la Dead Rooster Racing Cup, compétition de karting de
 renommée au moins mondiale, s'est tenue le 23 juillet 2010. Voici les résultats
 de la course.
 
-<img361|left> ## 1. JULIO Meilleur temps : 0:29.062
+{% asset karting-julio.jpg %} ## 1. JULIO Meilleur temps : 0:29.062
 
 <div style="clear: both"></div>
 
-<img362|left> ## 2. JOE PISTOL Meilleur temps : 0:29.068
+{% asset karting-pote-julio.jpg %} ## 2. JOE PISTOL Meilleur temps : 0:29.068
 
 <div style="clear: both"></div>
 
-<img355|left> ## 3. BENJI Meilleur temps : 0:30.329
+{% asset karting-benji.jpg %} ## 3. BENJI Meilleur temps : 0:30.329
 
 <div style="clear: both"></div>
 
-<img356|left> ## 4. GAETAN Meilleur temps : 0:30.402
+{% asset karting-gaetan.jpg %} ## 4. GAETAN Meilleur temps : 0:30.402
 
 <div style="clear: both"></div>
 
-<img357|left> ## 5. ALAIN Meilleur temps : 0:28.576
+{% asset karting-mick.jpg %} ## 5. ALAIN Meilleur temps : 0:28.576
 
 <div style="clear: both"></div>
 
-<img358|left> ## 6. JULIEN Meilleur temps : 0:30.258
+{% asset karting-guez.jpg %} ## 6. JULIEN Meilleur temps : 0:30.258
 
 <div style="clear: both"></div>
 
-<img360|left> ## 7. THE GREEK GODDESS Meilleur temps : 0.31.969
+{% asset karting-alki.jpg %} ## 7. THE GREEK GODDESS Meilleur temps : 0.31.969
 
 <div style="clear: both"></div>
 

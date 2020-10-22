@@ -157,7 +157,7 @@ Mick Jagger a créé ce "super"-groupe. Une question : "pourquoi ?". Horrible.
 
 ## La synthèse
 
-<a href="http://open.spotify.com/user/dirtyhenry/playlist/6XJB9SVjFgrjra8hnKreaY"><img src="/squelettes/images/spotify-button.png" /></a>
+{% spotify 6XJB9SVjFgrjra8hnKreaY %}
 
 Réalisée avec [Sortmash](http://sortmash.com).
 

@@ -23,32 +23,32 @@ Maroquinerie, à Paris, le 4 octobre.
 <ul class="polaroids">
 
 <li><div class="polaroid">
-[<img369> Young Man
+[{% asset young-man-fate.jpg %} Young Man
 *Fate*](http://vimeo.com/39706493)
 </div></li>
 
 <li><div class="polaroid">
-[<img370> Corin Tucker
+[{% asset corin-tucker-band-doubt.jpg %} Corin Tucker
 *Doubt*](http://pitchfork.com/news/39605-new-corin-tucker-riley/)
 </div></li>
 
 <li><div class="polaroid">
-[<img371> Black Mountain
+[{% asset black-mountain-the-hair-song.jpg %} Black Mountain
 *The Hair Song*](http://pitchfork.com/news/39607-black-mountain-tour-with-black-angels/)
 </div></li>
 
 <li><div class="polaroid">
-<img372> Family Trees
+{% asset family-trees-dream-talkin.jpg %} Family Trees
 *Dream Talkin*
 </div></li>
 
 <li><div class="polaroid">
-[<img373> Kelley Stoltz
+[{% asset kelley-stoltz-i-dont-get-that.jpg %} Kelley Stoltz
 *I Don't Get That*](http://www.thetripwire.com/listen/2010/08/03/premiere-kelley-stoltz-i-dont-get-that/)
 </div></li>
 
 <li><div class="polaroid">
-[<img374> The Lonely Forest
+[{% asset the-lonely-forest-live-there.jpg %} The Lonely Forest
 *Live There*](http://stereogum.com/459281/the-lonely-forest-i-dont-want-to-live-there-stereogum-premiere/mp3s/)
 </div></li>
 

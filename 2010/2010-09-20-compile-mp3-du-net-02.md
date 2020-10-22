@@ -22,37 +22,37 @@ Au programme cette semaine, **The Shins** reprennent un titre du groupe Squeeze,
 <ul class="polaroids">
 
 <li><div class="polaroid">
-[<img378> The Shins
+[{% asset levis-pioneer-sessions-cover.png %} The Shins
 *Goodbye Girl*](http://www.levispioneersessions.com/artists/the-shins)
 </div></li>
 
 <li><div class="polaroid">
-<img379> Strange Shapes
+{% asset stange-shapes.png %} Strange Shapes
 *I Found A Rock*
 </div></li>
 
 <li><div class="polaroid">
-[<img383> Cloud Nothings
+[{% asset cloud-nothings-hey-cool-kid.jpg %} Cloud Nothings
 *Hey Cool Kid*](http://www.thetripwire.com/tripwiretvspotlight/2010/07/12/cloud-nothings-take-it-outside-play-acoustic-hey-cool-kid/)
 </div></li>
 
 <li><div class="polaroid">
-[<img384> Beach Fossils
+[{% asset beach-fossils-cover.jpg %} Beach Fossils
 *Vacation*](http://kmskma.free.fr/?p=3357)
 </div></li>
 
 <li><div class="polaroid">
-<img380> Sri Aurobindo
+{% asset sri-aurobindo-soul-vibrations-of-man.png %} Sri Aurobindo
 *Soul Vibrations of Man*
 </div></li>
 
 <li><div class="polaroid">
-[<img381> The Walkmen
+[{% asset the-walkmen.png %} The Walkmen
 *Stranded*](http://www.blogotheque.net/You-don-t-want-me)
 </div></li>
 
 <li><div class="polaroid">
-<img382> Foxes In Fiction
+{% asset foxes-in-fiction.jpg %} Foxes In Fiction
 *Flashing Lights Have Ended Now*
 </div></li>
 

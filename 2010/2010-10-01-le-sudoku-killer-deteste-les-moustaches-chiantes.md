@@ -41,7 +41,7 @@ verticalement.
 
 Le webcomic [XKCD](http://xkcd.com/780/) nous donne une piste pour cela.
 
-<img399>
+{% asset how-to-become-the-most-hated-band-in-the-world-xkcd.png %}
 
 Katerine applique la consigne et part bien pour devenir l'artiste le plus
 détesté du monde grâce à son titre
@@ -55,7 +55,7 @@ CollegeHumor nous présente
 [une nouvelle extension à Photoshop : le PhotoBomb Tool](http://www.collegehumor.com/video:1940686),
 qui permet de rendre fun ses photos chiantes.
 
-[<img400>](http://www.collegehumor.com/video:1940686)
+[{% asset terrible-photoshop-screenshot.png %}](http://www.collegehumor.com/video:1940686)
 
 (via [Ludo](http://www.geeek.org/post/photoshop-cs11-et-le-photobomb-tool-892))
 

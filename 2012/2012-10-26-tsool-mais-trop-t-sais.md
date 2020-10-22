@@ -88,12 +88,20 @@ pour toujours dans les 70s et aime donc le jaune, le orange et le marron)
 PS : suite à une demande explicite, voici une playlist Spotify : TSOOL pour les
 Nuls
 
-[<img src="/squelettes/images/spotify-button.png" />](http://open.spotify.com/user/guiguilele/playlist/5LsxyQ5T9nuSeLFHvh55Op)
+{% spotify 5LsxyQ5T9nuSeLFHvh55Op %}
 
 Voici les 12 pépites mes chers amis (6 albums, 2 titres par album, 48 minutes de
 beautés cachées) :
 
--# _Grand Canaria_ -# _Instant Repeater '99_ -# _Century Child_ -# _Jehovah
-Sunrise_ -# _21st Century Rip Off_ -# _Sister Surround_ -# _Transcendental
-Suicide_ -# _Believe I've Fond_ -# _Lost Prophets In Vain_ -# _Second Life
-Replay_ -# _Throw It To The Universe_ -# _Where's The Rock ?_
+1. _Grand Canaria_
+1. _Instant Repeater '99_
+1. _Century Child_
+1. _Jehovah Sunrise_
+1. _21st Century Rip Off_
+1. _Sister Surround_
+1. _Transcendental Suicide_
+1. _Believe I've Fond_
+1. _Lost Prophets In Vain_
+1. _Second Life Replay_
+1. _Throw It To The Universe_
+1. _Where's The Rock ?_

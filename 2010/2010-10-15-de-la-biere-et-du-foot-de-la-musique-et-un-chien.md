@@ -52,7 +52,7 @@ par Al Pacino, que j'aurais plutôt vu dans le rôle de Leonard Cohen
 ([comme bien d'autres](http://i2.pinger.pl/pgr390/ea0abce00029a3bd4a147b97/al-pacino-totally-looks-like-leonard-cohen.jpg))
 :
 
-<img420>
+{% asset phil-spector-al-pacino.png %}
 
 Aucun titre n'est encore prévu pour le film mais Stereogum propose un concours
 pour trouver le meilleur. Si j'étais producteur du film, je choisirais l'une de

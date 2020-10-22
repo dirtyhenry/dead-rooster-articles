@@ -26,19 +26,19 @@ et fermer la compile avec une reprise de Katy Perry.
 
 <li><div class=polaroid>{% asset foxes-in-fiction-bathhurst.png %}Foxes In Fiction
 *Bathurst*</div></li>
-<li><div class=polaroid><img411>Mean Wind
+<li><div class=polaroid>{% asset mean-wind-yr-swword.png %}Mean Wind
 *Yr Swword*</div></li>
-<li><div class=polaroid>[<img412>Lower Dens
+<li><div class=polaroid>[{% asset lower-dens-blue-and-silver.png %}Lower Dens
 *Blue And Silver*](http://stereogum.com/522201/lower-dens-blue-and-silver/mp3s/)</div></li>
-<li><div class=polaroid><img413>Seamonster
+<li><div class=polaroid>{% asset seamonster-oh-appalachia.png %}Seamonster
 *Oh Appalachia*</div></li>
-<li><div class=polaroid>[<img414>Sharon Van Etten
+<li><div class=polaroid>[{% asset sharon-van-etten-dont-do-it.jpg %}Sharon Van Etten
 *Don’t Do It*](http://stereogum.com/503982/sharon-van-etten-dont-do-it-stereogum-premiere/mp3s/)</div></li>
-<li><div class=polaroid>[<img415>Chapter
+<li><div class=polaroid>[{% asset chapter.jpg %}Chapter
 *Tomcat*](http://www.bonpourlesoreilles.net/musique/2010/09/chapter-three-a-collection-of-monsters-four-whiter-heron-blues.html)</div></li>
-<li><div class=polaroid>[<img416>Ducktails
+<li><div class=polaroid>[{% asset ducktails-hamilton-road.jpg.jpg %}Ducktails
 *Hamilton Road*](http://stereogum.com/463342/ducktails-hamilton-road/mp3s/)</div></li>
-<li><div class=polaroid>[<img417>Reading Rainbow
+<li><div class=polaroid>[{% asset reading-rainbow-wasting-time.jpg.jpg %}Reading Rainbow
 *Wasting Time*](http://stereogum.com/506002/reading-rainbow-wasting-time/mp3s/)</div></li>
 <li><div class=polaroid><img418>Foxes in Fiction & Weed
 *Teenage Dream (Katy Perry)*</div></li>
