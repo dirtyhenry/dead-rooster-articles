@@ -22,7 +22,7 @@ Au programme cette semaine, **The Shins** reprennent un titre du groupe Squeeze,
 <ul class="polaroids">
 
 <li><div class="polaroid">
-[<img378> The Shins
+[{% asset levis-pioneer-sessions-cover.png %} The Shins
 *Goodbye Girl*](http://www.levispioneersessions.com/artists/the-shins)
 </div></li>
 

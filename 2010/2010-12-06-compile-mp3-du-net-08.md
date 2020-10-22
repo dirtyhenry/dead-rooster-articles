@@ -30,7 +30,7 @@ A noter qu'une reprise de **Pavement** est au programme.
 *Undertow*](http://stereogum.com/508242/warpaint-undertow/mp3s/)</div></li>
 <li><div class=polaroid>[{% asset bleeding-rainbows.jpg %}Reading Rainbow
 *Always on my mind*](http://wvmusic.bandcamp.com/)</div></li>
-<li><div class=polaroid>[<img449>NYC UFOs
+<li><div class=polaroid>[{% asset nycufos-another-time.png %}NYC UFOs
 *Any Other Time*](http://nycufos.bandcamp.com/)</div></li>
 <li><div class=polaroid>[<img450>The Notes
 *Awake*](http://wearethenotes.bandcamp.com)</div></li>

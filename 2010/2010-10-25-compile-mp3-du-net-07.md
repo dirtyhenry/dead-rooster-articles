@@ -33,7 +33,7 @@ gratuitement sur la formidable plateforme de téléchargement bandcamp.
 <ul class="polaroids">
 <li><div class=polaroid>[{% asset california-wivess.png %}California Wives
 *Blood Red Youth*](http://www.rubinrecommends.com/2010/10/california-wives/)</div></li>
-<li><div class=polaroid>[<img437>Guards
+<li><div class=polaroid>[{% asset guards.png %}Guards
 *Crystal Truth*](http://guards.bandcamp.com/)</div></li>
 <li><div class=polaroid>[<img438>Kid Trails
 *Wait For*](http://hellholeentrance.blogspot.com/2010/10/kid-trails.html)</div></li>

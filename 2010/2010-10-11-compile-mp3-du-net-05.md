@@ -26,7 +26,7 @@ et fermer la compile avec une reprise de Katy Perry.
 
 <li><div class=polaroid>{% asset foxes-in-fiction-bathhurst.png %}Foxes In Fiction
 *Bathurst*</div></li>
-<li><div class=polaroid><img411>Mean Wind
+<li><div class=polaroid>{% asset mean-wind-yr-swword.png %}Mean Wind
 *Yr Swword*</div></li>
 <li><div class=polaroid>[<img412>Lower Dens
 *Blue And Silver*](http://stereogum.com/522201/lower-dens-blue-and-silver/mp3s/)</div></li>
