@@ -34,7 +34,7 @@ A noter qu'une reprise de **Pavement** est au programme.
 *Any Other Time*](http://nycufos.bandcamp.com/)</div></li>
 <li><div class=polaroid>[{% asset the-notes-wishing-well.jpg %}The Notes
 *Awake*](http://wearethenotes.bandcamp.com)</div></li>
-<li><div class=polaroid>[<img451>Mièle
+<li><div class=polaroid>[{% asset miele-la-chose.jpg %}Mièle
 *La Chose*](http://soundcloud.com/humptydumptyrecords/miele-la-chose/comments)</div></li>
 <li><div class=polaroid><img452>Sweet Lights
 *Ballad of Kurt Vile #2*</div></li>

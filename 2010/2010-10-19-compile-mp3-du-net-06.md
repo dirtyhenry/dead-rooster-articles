@@ -26,7 +26,7 @@ de **Black Mountain** par **The Black Angels**.
 <ul class="polaroids">
 <li><div class=polaroid>[{% asset popo-bummer-summer.png %}Po Po
 *Bummer Summer*](http://stereogum.com/447372/popo-bummer-summer/mp3s/)</div></li>
-<li><div class=polaroid>[<img431>Andrew Cedermark
+<li><div class=polaroid>[{% asset andrew-cedermark-hard-livin.png %}Andrew Cedermark
 *Hard Livin'*](http://pitchfork.com/reviews/albums/14628-moon-deluxe/)</div></li>
 <li><div class=polaroid><img423>Dumbo Gets Mad
 *Plumy Tale*</div></li>

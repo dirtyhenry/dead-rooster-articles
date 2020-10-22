@@ -37,7 +37,7 @@ gratuitement sur la formidable plateforme de téléchargement bandcamp.
 *Crystal Truth*](http://guards.bandcamp.com/)</div></li>
 <li><div class=polaroid>[{% asset kidtrails.png %}Kid Trails
 *Wait For*](http://hellholeentrance.blogspot.com/2010/10/kid-trails.html)</div></li>
-<li><div class=polaroid>[<img439>The Vaselines
+<li><div class=polaroid>[{% asset the-vaselines.png %}The Vaselines
 *Sex With An X*](http://pitchfork.com/news/39629-new-vaselines-sex-with-an-x/)</div></li>
 <li><div class=polaroid>[<img440>Mr. Dream
 *Scarred For Life*](http://stereogum.com/540731/mr-dream-learn-the-language-stereogum-premiere/mp3s/)</div></li>

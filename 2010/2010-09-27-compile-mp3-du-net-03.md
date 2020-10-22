@@ -30,7 +30,7 @@ Guards *Long Time*
 </div></li>
 
 <li><div class="polaroid">
-[<img391>Women
+[{% asset women-public-strain.jpg %}Women
 *Eyesore*](http://www.thefader.com/2010/07/15/listen-women-eyesore/)
 </div></li>
 

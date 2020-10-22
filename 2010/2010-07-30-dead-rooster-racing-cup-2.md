@@ -24,7 +24,7 @@ de la course.
 
 <div style="clear: both"></div>
 
-<img355|left> ## 3. BENJI Meilleur temps : 0:30.329
+{% asset karting-benji.jpg %} ## 3. BENJI Meilleur temps : 0:30.329
 
 <div style="clear: both"></div>
 

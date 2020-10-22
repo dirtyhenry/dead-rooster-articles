@@ -24,7 +24,7 @@ Beat Connection vient de diffuser un EP gratuit sur bandcamp.
 
 ## Warm Waves
 
-<img367|center>
+{% asset warm-waves.png %}
 
 Les gens de I Guess I'm Floating sont d'accord sur la qualité de la pochette… et
 partagent les doutes sur la musique.

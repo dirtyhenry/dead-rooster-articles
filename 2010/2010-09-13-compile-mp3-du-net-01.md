@@ -28,7 +28,7 @@ Maroquinerie, à Paris, le 4 octobre.
 </div></li>
 
 <li><div class="polaroid">
-[<img370> Corin Tucker
+[{% asset corin-tucker-band-doubt.jpg %} Corin Tucker
 *Doubt*](http://pitchfork.com/news/39605-new-corin-tucker-riley/)
 </div></li>
 

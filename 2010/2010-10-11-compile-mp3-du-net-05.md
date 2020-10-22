@@ -30,7 +30,7 @@ et fermer la compile avec une reprise de Katy Perry.
 *Yr Swword*</div></li>
 <li><div class=polaroid>[{% asset lower-dens-blue-and-silver.png %}Lower Dens
 *Blue And Silver*](http://stereogum.com/522201/lower-dens-blue-and-silver/mp3s/)</div></li>
-<li><div class=polaroid><img413>Seamonster
+<li><div class=polaroid>{% asset seamonster-oh-appalachia.png %}Seamonster
 *Oh Appalachia*</div></li>
 <li><div class=polaroid>[<img414>Sharon Van Etten
 *Don’t Do It*](http://stereogum.com/503982/sharon-van-etten-dont-do-it-stereogum-premiere/mp3s/)</div></li>

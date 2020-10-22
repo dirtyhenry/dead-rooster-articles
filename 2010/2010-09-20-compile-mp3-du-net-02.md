@@ -32,7 +32,7 @@ Au programme cette semaine, **The Shins** reprennent un titre du groupe Squeeze,
 </div></li>
 
 <li><div class="polaroid">
-[<img383> Cloud Nothings
+[{% asset to-rename.jpg %} Cloud Nothings
 *Hey Cool Kid*](http://www.thetripwire.com/tripwiretvspotlight/2010/07/12/cloud-nothings-take-it-outside-play-acoustic-hey-cool-kid/)
 </div></li>
 
