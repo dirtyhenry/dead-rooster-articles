@@ -36,7 +36,7 @@ de la course.
 
 <div style="clear: both"></div>
 
-<img358|left> ## 6. JULIEN Meilleur temps : 0:30.258
+{% asset karting-guez.jpg %} ## 6. JULIEN Meilleur temps : 0:30.258
 
 <div style="clear: both"></div>
 

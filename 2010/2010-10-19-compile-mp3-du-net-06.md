@@ -32,7 +32,7 @@ de **Black Mountain** par **The Black Angels**.
 *Plumy Tale*</div></li>
 <li><div class=polaroid>[{% asset women-narrow-in-the-hall.png %}Women
 *Narrow With The Hall*](http://pitchfork.com/forkcast/14793-narrow-with-the-hall/)</div></li>
-<li><div class=polaroid>[<img426>The Black Angels
+<li><div class=polaroid>[{% asset the-black-angels-no-satisfaction.png.png %}The Black Angels
 *No Satisfaction*](http://pitchfork.com/news/39607-black-mountain-tour-with-black-angels/)</div></li>
 <li><div class=polaroid>[<img427>Jesse Woods
 *Ugly Dress*](http://stereogum.com/448821/jesse-woods-mind-drips-neon-indian-cover/mp3s/)</div></li>

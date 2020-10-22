@@ -45,7 +45,7 @@ Guards *Long Time*
 </div></li>
 
 <li><div class="polaroid">
-[<img395>Magic Kids
+[{% asset magic-kids-memphis.png %}Magic Kids
 *Superball*](http://stereogum.com/458381/magic-kids-superball/mp3s/)
 </div></li>
 

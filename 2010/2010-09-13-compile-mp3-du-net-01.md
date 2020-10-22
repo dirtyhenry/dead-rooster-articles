@@ -43,7 +43,7 @@ Maroquinerie, à Paris, le 4 octobre.
 </div></li>
 
 <li><div class="polaroid">
-[<img373> Kelley Stoltz
+[{% asset kelley-stoltz-i-dont-get-that.jpg %} Kelley Stoltz
 *I Don't Get That*](http://www.thetripwire.com/listen/2010/08/03/premiere-kelley-stoltz-i-dont-get-that/)
 </div></li>
 

@@ -36,7 +36,7 @@ et fermer la compile avec une reprise de Katy Perry.
 *Don’t Do It*](http://stereogum.com/503982/sharon-van-etten-dont-do-it-stereogum-premiere/mp3s/)</div></li>
 <li><div class=polaroid>[{% asset chapter.jpg %}Chapter
 *Tomcat*](http://www.bonpourlesoreilles.net/musique/2010/09/chapter-three-a-collection-of-monsters-four-whiter-heron-blues.html)</div></li>
-<li><div class=polaroid>[<img416>Ducktails
+<li><div class=polaroid>[{% asset ducktails-hamilton-road.jpg.jpg %}Ducktails
 *Hamilton Road*](http://stereogum.com/463342/ducktails-hamilton-road/mp3s/)</div></li>
 <li><div class=polaroid>[<img417>Reading Rainbow
 *Wasting Time*](http://stereogum.com/506002/reading-rainbow-wasting-time/mp3s/)</div></li>

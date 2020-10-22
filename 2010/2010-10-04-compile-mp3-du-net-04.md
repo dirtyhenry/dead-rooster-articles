@@ -34,7 +34,7 @@ Only Knows_, des Beach Boys.
 <li><div class="polaroid">[{% asset wovenbones-ivegottaget.jpg %}Woven Bones
 *I’ve Gotta Get*](http://www.thefader.com/2010/08/13/hear-woven-bones-new-7/)</div></li>
 
-<li><div class="polaroid">[<img404>Shannon Wright
+<li><div class="polaroid">[{% asset shannon-wright-commoners-saint.png %}Shannon Wright
 *Commoner’s Saint*](http://www.popnews.com/news/6172/un-mp3-de-shannon-wright-en-exclusivite/)</div></li>
 
 <li><div class="polaroid"><img401>Computer Magic

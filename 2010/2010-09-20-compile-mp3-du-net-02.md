@@ -47,7 +47,7 @@ Au programme cette semaine, **The Shins** reprennent un titre du groupe Squeeze,
 </div></li>
 
 <li><div class="polaroid">
-[<img381> The Walkmen
+[{% asset the-walkmen.png %} The Walkmen
 *Stranded*](http://www.blogotheque.net/You-don-t-want-me)
 </div></li>
 
