@@ -23,7 +23,7 @@ là-dessus donc on va faire ça, ok ?
 
 ## Le bilan graphique des performances depuis 2009
 
-<img498>
+{% asset stats-dead-rooster-2011.png %}
 
 On est donc à +28% sur les visites, +14% sur les pages vues, des nombres à deux
 chiffres qui en feraient saliver d'envie certains (suivez-mon regard, à bon

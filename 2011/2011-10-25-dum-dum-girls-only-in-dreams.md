@@ -42,7 +42,7 @@ loin de tirer un trait sur les Dum Dum Girls : sans doute un groupe opportuniste
 se lançant dans la brèche créée par [Best Coast](657), et qu'on aurait vite
 oublié.
 
-<img491>
+{% asset dum-dum-girls-studio-photo.png %}
 
 Sauf qu'il y a quelques semaines, le groupe a sorti son second album, _Only In
 Dreams_. Si les morceaux d'ouverture sont aussi immédiatement séduisants et

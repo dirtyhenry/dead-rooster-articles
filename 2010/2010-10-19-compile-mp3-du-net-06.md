@@ -40,7 +40,7 @@ de **Black Mountain** par **The Black Angels**.
 *Candy*](http://stereogum.com/507962/frankie-rose-and-the-outs-candy-stereogum-premiere/mp3s/)</div></li>
 <li><div class=polaroid>[{% asset fujiya-miyagi-16-shades.png.png %}Fujiya & Miyagi
 *Sixteen Shades of Black & Blue*](http://pitchfork.com/news/40056-fujiya-miyagi-share-mp3-ready-new-album/)</div></li>
-<li><div class=polaroid>[<img430>The Radio Dept.
+<li><div class=polaroid>[{% asset the-radio-dept-improvised-hypocrisy.png.png %}The Radio Dept.
 *The New Improved Hypocrisy*](http://pitchfork.com/news/40064-radio-dept-smash-the-government-on-new-song/)</div></li>
 </ul>
 

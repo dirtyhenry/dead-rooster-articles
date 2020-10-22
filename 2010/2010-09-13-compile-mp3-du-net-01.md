@@ -63,7 +63,7 @@ Maroquinerie, à Paris, le 4 octobre.
 </div></li>
 
 <li><div class="polaroid">
-[<img377>Heavy Cream
+[{% asset heavy-cream-meow-meow.jpg %}Heavy Cream
 *Meow Meow*](http://www.thetripwire.com/listen/2010/08/09/listen-heavy-cream-meow-meow/)
 </div></li>
 

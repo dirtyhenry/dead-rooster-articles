@@ -46,7 +46,7 @@ Only Knows_, des Beach Boys.
 <li><div class="polaroid">[{% asset brmc-dirtyoldtown.png.png %}Black Rebel Motorcycle Club
 *Dirty Old Town*](http://vimeo.com/20800975)</div></li>
 
-<li><div class="polaroid">[<img409>Laura Veirs
+<li><div class="polaroid">[{% asset lauraveirs-theocean.jpg.jpg %}Laura Veirs
 *The Ocean*](http://stereogum.com/520112/laura-veirs-the-ocean-led-zeppelin-cover/mp3s/)</div></li>
 
 <li><div class="polaroid">[<img402>Dale Earnhardt Jr. Jr.

@@ -60,12 +60,12 @@ Guards *Long Time*
 </div></li>
 
 <li><div class="polaroid">
-[{% asset to-rename.jpg %}Frankie Rose and the Outs
+[{% asset frankie-rose-and-the-outs-little-brown-haired-girls.jpg %}Frankie Rose and the Outs
 *Little Brown Haired Girls*](http://stereogum.com/491131/frankie-rose-the-outs-youre-no-good/mp3s/)
 </div></li>
 
 <li><div class="polaroid">
-[<img394>The Felice Brothers
+[{% asset felice-brothers.jpg.jpg %}The Felice Brothers
 *All When We Were Young*](http://www.blogotheque.net/When-We-Were-Kings)
 </div></li>
 

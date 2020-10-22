@@ -79,7 +79,7 @@ de nous lâcher un «See you next time», certes peu original mais toujours
 rassurant venant d'un groupe qui
 [aura splitté à de nombreuses reprises sans nous mettre au courant](329).
 
-<img475>
+{% asset interpol-daniel-kessler-live.png %}
 
 Finissons par un _Interpol pour les Nuls_ afin de mettre le pied à l'étrier à
 ceux qui connaissent encore mal le groupe.
