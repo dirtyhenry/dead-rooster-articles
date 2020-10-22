@@ -40,10 +40,10 @@ Only Knows_, des Beach Boys.
 <li><div class="polaroid">{% asset computermagic-aboutyou.png.png %}Computer Magic
 *About You*</div></li>
 
-<li><div class="polaroid">[<img407>Cheyenne Marie Mize
+<li><div class="polaroid">[{% asset cheyennemariemize-beautifuldreamer.jpg.jpg %}Cheyenne Marie Mize
 *Beautiful Dreamer*](http://www.bonpourlesoreilles.net/musique/2010/08/old-western.html)</div></li>
 
-<li><div class="polaroid">[<img408>Black Rebel Motorcycle Club
+<li><div class="polaroid">[{% asset brmc-dirtyoldtown.png.png %}Black Rebel Motorcycle Club
 *Dirty Old Town*](http://vimeo.com/20800975)</div></li>
 
 <li><div class="polaroid">[<img409>Laura Veirs

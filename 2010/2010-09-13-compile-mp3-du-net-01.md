@@ -53,12 +53,12 @@ Maroquinerie, à Paris, le 4 octobre.
 </div></li>
 
 <li><div class="polaroid">
-[<img375> The Extra Lens
+[{% asset the-extra-lens-only-existing-footage.jpg %} The Extra Lens
 *Only Existing Footage*](http://pitchfork.com/news/39663-john-darnielles-mountain-goats-and-extra-lens-sign-to-merge-records/)
 </div></li>
 
 <li><div class="polaroid">
-<img376> Levek
+{% asset levek-second-second.jpg %} Levek
 *Second Second*
 </div></li>
 

@@ -45,7 +45,7 @@ Franz Ferdinand ne sont plus de jeunes groupes et vont tour à tour bientôt fê
 leur première décade. On reviendra sur le sujet bientôt, pourquoi pas à
 l'occasion des dix ans d'_Is This It_ cet été (putain, dix ans !).
 
-<img474>
+{% asset interpol-paul-banks-live.png %}
 
 Durant cette décennie, Interpol s'est créé une place à part dans mon panthéon
 personnel. D'abord, les New-Yorkais m'ont rouvert la porte vers la "cold wave"

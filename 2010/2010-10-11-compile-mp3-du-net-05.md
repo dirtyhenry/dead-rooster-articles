@@ -40,7 +40,7 @@ et fermer la compile avec une reprise de Katy Perry.
 *Hamilton Road*](http://stereogum.com/463342/ducktails-hamilton-road/mp3s/)</div></li>
 <li><div class=polaroid>[{% asset reading-rainbow-wasting-time.jpg.jpg %}Reading Rainbow
 *Wasting Time*](http://stereogum.com/506002/reading-rainbow-wasting-time/mp3s/)</div></li>
-<li><div class=polaroid><img418>Foxes in Fiction & Weed
+<li><div class=polaroid>{% asset foxes-in-fiction-weed-teenage-dream.png.png %}Foxes in Fiction & Weed
 *Teenage Dream (Katy Perry)*</div></li>
 
 </ul>

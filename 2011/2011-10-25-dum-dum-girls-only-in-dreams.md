@@ -27,7 +27,7 @@ effets partout, les influences sont claires : du côté des Dum Dum Girls, on a 
 écouter les Ronettes, mais sans doute aussi The Jesus & Mary Chain. L'album
 n'avait donc pas déçu.
 
-<img493>
+{% asset dum-dum-girls-route-du-rock.jpg %}
 
 La tournée française, elle, avait déçu. Conforme à ce qu'en disait la presse, la
 prestation à la Route du Rock 2010 fut loin des sommets historiques du festival

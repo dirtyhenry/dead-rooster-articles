@@ -57,12 +57,12 @@ Au programme cette semaine, **The Shins** reprennent un titre du groupe Squeeze,
 </div></li>
 
 <li><div class="polaroid">
-[<img385>Sleeping Bags
+[{% asset sleeping-bags-cantaloupe.jpg %}Sleeping Bags
 *Cantaloupe*](http://www.thefader.com/2010/08/02/listen-sleeping-bags-cantaloupe/)
 </div></li>
 
 <li><div class="polaroid">
-<img386>Pepper Rabbit
+{% asset pepper-rabbit.png %}Pepper Rabbit
 *Older Brother*
 </div></li>
 
