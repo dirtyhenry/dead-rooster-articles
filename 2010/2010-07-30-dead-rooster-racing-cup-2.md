@@ -40,7 +40,7 @@ de la course.
 
 <div style="clear: both"></div>
 
-<img360|left> ## 7. THE GREEK GODDESS Meilleur temps : 0.31.969
+{% asset karting-alki.jpg %} ## 7. THE GREEK GODDESS Meilleur temps : 0.31.969
 
 <div style="clear: both"></div>
 

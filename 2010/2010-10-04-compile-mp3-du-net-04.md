@@ -37,7 +37,7 @@ Only Knows_, des Beach Boys.
 <li><div class="polaroid">[{% asset shannon-wright-commoners-saint.png %}Shannon Wright
 *Commoner’s Saint*](http://www.popnews.com/news/6172/un-mp3-de-shannon-wright-en-exclusivite/)</div></li>
 
-<li><div class="polaroid"><img401>Computer Magic
+<li><div class="polaroid">{% asset computermagic-aboutyou.png.png %}Computer Magic
 *About You*</div></li>
 
 <li><div class="polaroid">[<img407>Cheyenne Marie Mize

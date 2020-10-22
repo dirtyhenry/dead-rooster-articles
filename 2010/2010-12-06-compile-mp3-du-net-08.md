@@ -42,7 +42,7 @@ A noter qu'une reprise de **Pavement** est au programme.
 *Box Elder (Pavement)*](http://halfwayhousemusic.com/2010/10/11/halfway-house-sessions-surfer-blood/)</div></li>
 <li><div class=polaroid>[{% asset phosphorescent-alabama.jpg.jpg %}Phosphorescent
 *It’s Hard To Be Humble (When You’re From Alabama)*](http://stereogum.com/281942/phosphorescent-%E2%80%93-%E2%80%9Cit%E2%80%99s-hard-to-be-humble-when-you%E2%80%99re-from-alabama%E2%80%9D/mp3s/)</div></li>
-<li><div class=polaroid>[<img455>Kid Trails
+<li><div class=polaroid>[{% asset kidtrails-snowfallsdown.jpg.jpg %}Kid Trails
 *Snow Falls Down*](http://hellholeentrance.blogspot.com/2010/10/kid-trails.html)</div></li>
 </ul>
 

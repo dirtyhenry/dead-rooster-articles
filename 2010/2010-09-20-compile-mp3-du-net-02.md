@@ -52,7 +52,7 @@ Au programme cette semaine, **The Shins** reprennent un titre du groupe Squeeze,
 </div></li>
 
 <li><div class="polaroid">
-<img382> Foxes In Fiction
+{% asset foxes-in-fiction.jpg %} Foxes In Fiction
 *Flashing Lights Have Ended Now*
 </div></li>
 

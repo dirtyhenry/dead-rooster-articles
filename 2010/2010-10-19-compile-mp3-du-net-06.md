@@ -34,7 +34,7 @@ de **Black Mountain** par **The Black Angels**.
 *Narrow With The Hall*](http://pitchfork.com/forkcast/14793-narrow-with-the-hall/)</div></li>
 <li><div class=polaroid>[{% asset the-black-angels-no-satisfaction.png.png %}The Black Angels
 *No Satisfaction*](http://pitchfork.com/news/39607-black-mountain-tour-with-black-angels/)</div></li>
-<li><div class=polaroid>[<img427>Jesse Woods
+<li><div class=polaroid>[{% asset jesse-woods-ugly-dress.png.png %}Jesse Woods
 *Ugly Dress*](http://stereogum.com/448821/jesse-woods-mind-drips-neon-indian-cover/mp3s/)</div></li>
 <li><div class=polaroid>[<img428>Frankie Rose & The Outs
 *Candy*](http://stereogum.com/507962/frankie-rose-and-the-outs-candy-stereogum-premiere/mp3s/)</div></li>

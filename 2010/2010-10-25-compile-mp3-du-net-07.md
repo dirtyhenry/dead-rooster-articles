@@ -45,7 +45,7 @@ gratuitement sur la formidable plateforme de téléchargement bandcamp.
 *La La Love You*](http://pixiesmusic.com/interpol.html)</div></li>
 <li><div class=polaroid>[{% asset weezer.png.png %}Weezer
 *Getting Up And Leaving*](http://stereogum.com/550731/weezer-blowin-my-stack-getting-up-and-leaving/mp3s/)</div></li>
-<li><div class=polaroid>[<img443>The Beach Boys
+<li><div class=polaroid>[{% asset beach-boys.png.png %}The Beach Boys
 *Johnny B. Goode*](http://captainsdead.com/the-beach-boys-and-the-dead-live-at-the-fillmore-east-4.27.71.html)</div></li>
 <li><div class=polaroid>[<img444>Robin Pecknold
 *Blue Spotted Tail*](http://www.weallwantsomeone.org/2010/08/18/listen-robin-pecknold-live-bootlegs/)</div></li>

@@ -48,7 +48,7 @@ Maroquinerie, à Paris, le 4 octobre.
 </div></li>
 
 <li><div class="polaroid">
-[<img374> The Lonely Forest
+[{% asset the-lonely-forest-live-there.jpg %} The Lonely Forest
 *Live There*](http://stereogum.com/459281/the-lonely-forest-i-dont-want-to-live-there-stereogum-premiere/mp3s/)
 </div></li>
 
