@@ -27,7 +27,7 @@ Alors le groupe a cherché à produire une petite série, mais on s'est vite ren
 compte que ça coûtait le même prix qu'une série de 250 exemplaires. La
 quasi-unanimité fut donc "la merde, on le fait !".
 
-<img496>
+{% asset the-stanley-ep-cover-art.png %}
 
 Voilà, 250 disques vinyls de _The Stanley EP_ sont en cours de commande et
 devraient arriver le mois prochain entre nos mains. Et on veut en faire profiter
