@@ -8,15 +8,12 @@ wordpress_id: 784
 cover: fantomas.jpg
 date: 2011-02-17 22:49:54 +0100
 categories:
-  - Catégories
-tags:
-  - Cinéma
   - Ciné-Club moi j’vous dis
 ---
 
-{**Catégorie "Vieux Films à voir en DVD"**}
+## Catégorie "Vieux Films à voir en DVD"
 
-## _The Wizard Of Oz_ - Victor Fleming (1939)
+### _The Wizard Of Oz_ - Victor Fleming (1939)
 
 Il était grand temps pour moi de me pencher sur ce fameux magicien d'Oz. A force
 de références dans des films et séries, il est tout de même bon de jeter un oeil
@@ -50,7 +47,7 @@ partie de _The Dark Side Of The Moon_, des Pink Floyd, se superpose parfaitement
 à la séquence d'ouverture du film. Les fans ont baptisé ça _Dark Site Of The
 Rainbow_ ([voir sur YouTube](http://www.youtube.com/embed/3ng74hxX61E)).
 
-## _Ghost World_ - Terry Zwigoff (2001)
+### _Ghost World_ - Terry Zwigoff (2001)
 
 Enid et Rebecca sont deux copines qui ressemblent beaucoup à Daria et Jeanne, de
 _Daria_. Elles viennent de finir le lycée et prévoient d'emménager ensemble à la
@@ -79,7 +76,7 @@ l'[on pourra voir sur YouTube](http://www.youtube.com/watch?v=VB4q9rcfvvE) (ils
 sont vraiment débiles les utilisateurs de YouTube qui désactivent l'intégration
 des vidéos sur des sites web).
 
-## _Fantomas_ - André Hunebelle (1964)
+### _Fantomas_ - André Hunebelle (1964)
 
 Croyez-le ou pas, je n'ai vu Fantomas pour la 1ère fois de ma vie qu'en 2011.
 Bien sûr, j'en connaissais des bouts de ci de là, mais jamais je n'avais vu le
@@ -97,9 +94,9 @@ spoiler à suivre) car j'étais persuadé que Fantomas et le journaliste n'étai
 qu'une seule et même personne dans le film alors qu'ils sont simplement
 interprétés par un seul et même acteur. Nuance importante !
 
-<strike>Pour décider du caractère opportun de visionner le film, si vous ne riez
-pas à la séquence suivante, inutile de s'y attarder. Mais moi, j'aime beaucoup
-!</strike> EDIT : la vidéo a été supprimée de YouTube.
+~~Pour décider du caractère opportun de visionner le film, si vous ne riez pas à
+la séquence suivante, inutile de s'y attarder. Mais moi, j'aime beaucoup !~~
+EDIT : la vidéo a été supprimée de YouTube.
 
 Côté musique, le thème de Fantomas est très bon ! Pour l'anecdote, je me
 souviens même qu'il a été utilisé sur scène par Dionysos, en intro de _Song For
@@ -111,7 +108,7 @@ N.B. : le vendeur de BD des Simpsons s'intéressera aussi aux remixes de
 Fantomas, qu'on peut trouver
 [sur YouTube](http://www.youtube.com/watch?v=4AqOg_cF1IU) (le monde va mal !).
 
-## Les autres
+### Les autres
 
 - _L'année du dragon_ - Michael Cimino (1985) : remake du Parrain où on remplace
   la Sicile par la Chine, le film prouve surtout que
@@ -124,9 +121,9 @@ Fantomas, qu'on peut trouver
   a 10 ans à sa jeune fille, en changeant le nom de ses prétendantes, parmi
   laquelle se cache sa future mère)
 
-**{Catégorie "à voir au ciné mais faut se dépêcher"**}
+## Catégorie "à voir au ciné mais faut se dépêcher"s
 
-## _Somewhere_ - Sofia Coppola
+### _Somewhere_ - Sofia Coppola
 
 Pas de révolution dans le cinéma de la fille Coppola. On se retrouve toujours
 passioné par des gens en train de s'ennuyer. En plus, y'a une chanson des
@@ -134,22 +131,22 @@ Strokes…
 
 {% youtube vvSspY7WU10 %}
 
-## _Le nom des gens_ - Michel Leclerc
+### _Le nom des gens_ - Michel Leclerc
 
 Une jeune fille décide de coucher avec ceux qu'elles considèrent "fachos" pour
 les convertir à sa cause : le PS. C'est drôle et plutôt intelligent et élégant.
 
-## _The Green Hornet_ - Michel Gondry
+### _The Green Hornet_ - Michel Gondry
 
 Parfois marrant, la première heure est tout de même longuette. Le final
 récompensera les plus patients.
 
-## _Hereafter_ - Clint Eastwood
+### _Hereafter_ - Clint Eastwood
 
 Une scène de tsunami complètement incroyable et très spectaculaire (au bon sens
 du terme), après on s'ennuie ferme et on tend des mouchoirs à ses voisines…
 
-## Les autres
+### Les autres
 
 - _Harry Potter and the Deathly Hallows - Part 1_ - David Yates : bon ben on a
   commencé la série alors on va aller au bout hein !
