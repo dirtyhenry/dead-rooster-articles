@@ -22,7 +22,8 @@ tags:
 1. The Mamas & The Papas - _California Dreamin'_
 1. Mychael Danna - *The Winner Is*🔇
 1. Claude François - _Le Lundi au Soleil_
-1. Benjamin Biolay - _La Monotonie_ -# The Kinks - _Mr. Pleasant_
+1. Benjamin Biolay - _La Monotonie_
+1. The Kinks - _Mr. Pleasant_
 1. I'm From Barcelona - _We're From Barcelona_
 1. The Beatles - *Eleanor Rigby*🔇
 1. The Datsuns - _Stuck Here for Days_
