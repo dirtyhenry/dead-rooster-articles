@@ -23,7 +23,10 @@ Vous pouvez l'écouter et le télécharger gratuitement sur
 
 Il contient 4 titres :
 
--# _In The Park_ -# _Tell Me_ -# _Lazy_ -# _The Runaway Secret_
+1. _In The Park_
+1. _Tell Me_
+1. _Lazy_
+1. _The Runaway Secret_
 
 <object data="http://bandcamp.com/EmbeddedPlayer/album=3803626780/size=venti/bgcol=FFFFFF/linkcol=4285BB//" type="text/html" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="400" height="100"><param name="movie" value="http://bandcamp.com/EmbeddedPlayer/album=3803626780/size=venti/bgcol=FFFFFF/linkcol=4285BB//"><param name="quality" value="high"><param name="allowNetworking" value="always"><param name="wmode" value="transparent"><param name="bgcolor" value="#FFFFFF"><param name="allowScriptAccess" value="never"><object data="http://bandcamp.com/EmbeddedPlayer/album=3803626780/size=venti/bgcol=FFFFFF/linkcol=4285BB//" type="text/html" width="400" height="100"></object></object>
 

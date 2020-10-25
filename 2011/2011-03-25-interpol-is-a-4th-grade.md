@@ -84,17 +84,44 @@ Dummies playlist_.
 <param name="flashvars" value="hostname=cowbell.grooveshark.com&widgetID=25023333&style=metal&bbg=ffffff&bfg=333333&bt=cccccc&bth=ffffff&pbg=cccccc&pbgh=333333&pfg=ffffff&pfgh=cccccc&si=cccccc&lbg=cccccc&lbgh=333333&lfg=ffffff&lfgh=cccccc&sb=cccccc&sbh=333333&p=0" />
 <embed src="http://listen.grooveshark.com/widget.swf" type="application/x-shockwave-flash" width="500" height="400" flashvars="hostname=cowbell.grooveshark.com&widgetID=25023333&style=metal&bbg=ffffff&bfg=333333&bt=cccccc&bth=ffffff&pbg=cccccc&pbgh=333333&pfg=ffffff&pfgh=cccccc&si=cccccc&lbg=cccccc&lbgh=333333&lfg=ffffff&lfgh=cccccc&sb=cccccc&sbh=333333&p=0" allowScriptAccess="always" wmode="window" /></object>
 
-Short 2-songs version : -# _Say Hello To The Angels_ -# _Slow Hands_
+Short 2-songs version :
 
-Deluxe 10-songs version : -# _Obstacle 1_ -# _Say Hello To The Angels_ -#
-_Stella was a diver and she was always down_ -# _Evil_ -# _Slow Hands_ -#
-_Length Of Love_ -# _Pioneer to The Falls_ -# _The Lighthouse_ -# _Success_ -#
-_Lights_
+1. _Say Hello To The Angels_
+1. _Slow Hands_
 
-**The gig setlist : ** -# _Success_ -# _Say Hello To The Angels_ -# _Narc_ -#
-_Hands Away_ -# _Barricade_ -# _Rest My Chemistry_ -# _Evil_ -# _Length of Love_
--# _Lights_ -# _C'mere_ -# _Summer Well_ -# _NYC_ -# _The Heinrich Maneuver_ -#
-_Memory Serves_ -# _Not Even Jail_ -- -# _Untitled_ -# _The New_ -# _Slow Hands_
--# _Obstacle 1_
+Deluxe 10-songs version :
+
+1. _Obstacle 1_
+1. _Say Hello To The Angels_
+1. _Stella was a diver and she was always down_
+1. _Evil_
+1. _Slow Hands_
+1. _Length Of Love_
+1. _Pioneer to The Falls_
+1. _The Lighthouse_
+1. _Success_
+1. _Lights_
+
+**The gig setlist : **
+
+1. _Success_
+1. _Say Hello To The Angels_
+1. _Narc_
+1. _Hands Away_
+1. _Barricade_
+1. _Rest My Chemistry_
+1. _Evil_
+1. _Length of Love_
+1. _Lights_
+1. _C'mere_
+1. _Summer Well_
+1. _NYC_
+1. _The Heinrich Maneuver_
+1. _Memory Serves_
+1. _Not Even Jail_ --
+1. _Untitled_
+1. _The New_
+1. _Slow Hands_
+1. _Obstacle 1_
 
 Pictures : [(c) Isatagada](http://isatagada.blog.com)

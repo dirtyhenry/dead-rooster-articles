@@ -44,21 +44,26 @@ lance un appel à la population blanche ? Bien, John Sinclair crée alors le Whi
 Panther Party, un collectif anti-raciste assez radical dont le programme se
 résume en 10 points :
 
--# Soutien sans condition au programme / plateforme en dix points du Black
-Panther Party -# Prise d'assaut de la culture par tous les moyens nécessaires,
-incluant le rock & roll, la dope et l'amour libre -# Libre-échange des énergies
-et des biens matériels : nous exigeons la fin de l'argent ! -# Nourriture,
-habits, logement, dope, musique, corps, soins médicaux : tout cela doit être
-gratuit. Pour tout le monde ! -# Accès libre aux médias d'information : libérons
-la technologie de l'avidité de tous les salopards cupides ! -# Libération du
-temps et de l'espace pour tous les être humains : supprimons toutes les limites
-artificielles -# Libération de toutes les écoles et de toutes les structures de
-pouvoir : débarrassons-nous des règles corporatistes et rendons les bâtiments au
-peuple une bonne fois pour toutes ! -# Libération de tous les prisonniers,
-partout : ce sont nos camarades ! -# Libération inconditionnelle de tous les
-soldats : plus jamais d'armées de conscrits ! -# Débarrassons le peuple de ses
-leaders bidons : tout le monde est un leader. La liberté signifie que tout le
-monde est libre ! Tout le pouvoir au peuple !
+1. Soutien sans condition au programme / plateforme en dix points du Black
+   Panther Party
+1. Prise d'assaut de la culture par tous les moyens nécessaires, incluant le
+   rock & roll, la dope et l'amour libre
+1. Libre-échange des énergies et des biens matériels : nous exigeons la fin de
+   l'argent !
+1. Nourriture, habits, logement, dope, musique, corps, soins médicaux : tout
+   cela doit être gratuit. Pour tout le monde !
+1. Accès libre aux médias d'information : libérons la technologie de l'avidité
+   de tous les salopards cupides !
+1. Libération du temps et de l'espace pour tous les être humains : supprimons
+   toutes les limites artificielles
+1. Libération de toutes les écoles et de toutes les structures de pouvoir :
+   débarrassons-nous des règles corporatistes et rendons les bâtiments au peuple
+   une bonne fois pour toutes !
+1. Libération de tous les prisonniers, partout : ce sont nos camarades !
+1. Libération inconditionnelle de tous les soldats : plus jamais d'armées de
+   conscrits !
+1. Débarrassons le peuple de ses leaders bidons : tout le monde est un leader.
+   La liberté signifie que tout le monde est libre ! Tout le pouvoir au peuple !
 
 Concrètement, Sinclair met en place une communauté à Ann Arbor, dans la banlieue
 de Detroit, organise des festivals, manage des groupes, etc. Surtout, il écrit
