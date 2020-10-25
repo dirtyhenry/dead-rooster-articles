@@ -45,19 +45,22 @@ rigoler mais on a sa fierté)
 Par ailleurs, regardons quel est le top 10 des pages les plus visitées du site
 cette année ?
 
--# [Concombre tueur](850) : Dead Rooster a fait du chiffre sur la peur des
-Français et n'en est pas fier… -# [Qui es-tu Nolwenn Leroy ?](789) : qui est
-aussi notre article le plus commenté et aura attiré des âmes sensibles à la
-facétie et au second degré : «Avant de critiquer, il faudrait se renseigner»,
-«allez vomir ailleurs», «article dégoûtant», «procédé un peu facile et
-vulgaire», «écrit avec de la merde», «fait honte à la presse française» (putain,
-Dead Rooster fait partie de la presse française ? Champagne les potes !) -#
-[Keren Ann - _101_](814) (bien derrière au niveau des chiffres) -#
-[Top Musique 2010](747) -# [Yes](884) -# [Keren Ann au Havre](235) (l'un des
-tous premiers posts du site) -# [Le nez de Dorothée sort de sa valise](553) -#
-[Concours Katerine, Francis et ses peintres](569) -#
-[The Doors, c'est trop bien, si, si, c'est vrai](774) -#
-[Hawaï mon cul ouais](497)
+1. [Concombre tueur](850) : Dead Rooster a fait du chiffre sur la peur des
+   Français et n'en est pas fier…
+1. [Qui es-tu Nolwenn Leroy ?](789) : qui est aussi notre article le plus
+   commenté et aura attiré des âmes sensibles à la facétie et au second degré :
+   «Avant de critiquer, il faudrait se renseigner», «allez vomir ailleurs»,
+   «article dégoûtant», «procédé un peu facile et vulgaire», «écrit avec de la
+   merde», «fait honte à la presse française» (putain, Dead Rooster fait partie
+   de la presse française ? Champagne les potes !)
+1. [Keren Ann - _101_](814) (bien derrière au niveau des chiffres)
+1. [Top Musique 2010](747)
+1. [Yes](884)
+1. [Keren Ann au Havre](235) (l'un des tous premiers posts du site)
+1. [Le nez de Dorothée sort de sa valise](553)
+1. [Concours Katerine, Francis et ses peintres](569)
+1. [The Doors, c'est trop bien, si, si, c'est vrai](774)
+1. [Hawaï mon cul ouais](497)
 
 Un constat s'impose, c'est bien marrant tout ça mais quid des vrais trésors de
 ce site ? Quid de

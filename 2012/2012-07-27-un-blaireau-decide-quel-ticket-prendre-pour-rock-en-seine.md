@@ -1,12 +1,6 @@
 ---
 layout: post
 title: Un blaireau décide quel ticket prendre pour Rock en Seine
-description:
-  "Il serait temps de faire un post sur ce blog, ne serait-ce que pour prouver
-  qu'on existe toujours.\r\n\r\nCe post a donc un triple objectif : \r\n-# Avoir
-  un nouveau post car y'en a marre d'avoir la même image en page de garde depuis
-  avril\r\n-# Discuter de la programmation de {{Rock en Seine}}\r\n-# Montrer
-  que {{Sortmash}} peut-être une appli utile aux blaireaux dans mon genre"
 authors:
   - Dirty Henry
 wordpress_id: 1082
@@ -21,10 +15,15 @@ tags:
 Il serait temps de faire un post sur ce blog, ne serait-ce que pour prouver
 qu'on existe toujours.
 
-Ce post a donc un triple objectif : -# Avoir un nouveau post car y'en a marre
-d'avoir la même image en page de garde depuis avril -# Discuter de la
-programmation de **Rock en Seine** -# Montrer que **Sortmash** peut-être une
-appli utile aux blaireaux dans mon genre
+Ce post a donc un triple objectif :
+
+1. Avoir un nouveau post car y'en a marre d'avoir la même image en page de garde
+   depuis avril
+
+1. Discuter de la programmation de **Rock en Seine**
+
+1. Montrer que **Sortmash** peut-être une appli utile aux blaireaux dans mon
+   genre
 
 Je vais donc vous raconter ma problématique : quel billet choisir pour l'édition
 2012 de Rock en Seine ? Les têtes d'affiche sont assez bien distribuées entre

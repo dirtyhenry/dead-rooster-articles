@@ -92,7 +92,8 @@ Family Of The Year.
 1. Isaac Hayes - _The End Theme (Three Tough Guys)_
 1. Isaac Hayes - _Pursuit of the Pimpmobile_
 1. Isaac Hayes - _We Need Each Other Girl_
-1. Isaac Hayes - _End Theme (Truck Turner)_ -# The Ides Of March - _Vehicle_
+1. Isaac Hayes - _End Theme (Truck Turner)_
+1. The Ides Of March - _Vehicle_
 1. 11 Acorn Lane - _The Fox_
 1. Family Of The Year - _Charlie Song_
 1. Monsters of Folk - _Losin' Yo' Head_

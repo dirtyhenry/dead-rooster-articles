@@ -107,11 +107,13 @@ La version 10 titres :
 **La setliste du concert : **
 
 1. _Success_
-1. _Say Hello To The Angels_ -# _Narc_
+1. _Say Hello To The Angels_
+1. _Narc_
 1. _Hands Away_
 1. _Barricade_
 1. _Rest My Chemistry_
-1. _Evil_ -# _Length of Love_
+1. _Evil_
+1. _Length of Love_
 1. _Lights_
 1. _C'mere_
 1. _Summer Well_
@@ -119,6 +121,7 @@ La version 10 titres :
 1. _The Heinrich Maneuver_
 1. _Memory Serves_
 1. _Not Even Jail_ --
-1. _Untitled_ -# _The New_
+1. _Untitled_
+1. _The New_
 1. _Slow Hands_
 1. _Obstacle 1_
