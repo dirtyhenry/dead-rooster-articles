@@ -14,24 +14,6 @@ categories:
   - Catégories
 tags:
   - Single
-comments:
-  - author: Dirty Henry
-    author_email: dirtyhenry@gmail.com
-    date: 2010-07-29 11:58:28 +0200
-    title: Leçon de Tennis !
-    content:
-      "Une autre vidéo :\r\n\r\n<object width=\"400\" height=\"265\"><param
-      name=\"allowfullscreen\" value=\"true\" /><param
-      name=\"allowscriptaccess\" value=\"always\" /><param name=\"movie\"
-      value=\"http://vimeo.com/moogaloop.swf?clip_id=13658706&server=vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=&fullscreen=1\"
-      /><embed
-      src=\"http://vimeo.com/moogaloop.swf?clip_id=13658706&server=vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=&fullscreen=1\"
-      type=\"application/x-shockwave-flash\" allowfullscreen=\"true\"
-      allowscriptaccess=\"always\" width=\"400\"
-      height=\"265\"></embed></object><p><a
-      href=\"http://vimeo.com/13658706\">Tennis - Cape Dory (Underwater Peoples
-      Records)</a> from <a href=\"http://vimeo.com/user3354544\">RichsLaw</a> on
-      <a href=\"http://vimeo.com\">Vimeo</a>.</p>"
 ---
 
 Après les [Dum Dum Girls](588) ou [Best Coast](657), entre autres, la mode est
@@ -44,6 +26,8 @@ nord atlantique. Vu qu'ils devaient s'ennuyer sévère, ils ont décidé de comp
 de la musique et aujourd'hui, on leur dit merci bien.
 
 - [Deux titres, _Baltimore_ et _Marathon_ sont à télécharger sur Stereogum](http://stereogum.com/446402/tennis-baltimore/mp3s/)
-- Plus, une vidéo :
+- Plus, deux vidéo, de _South California_ et _Cape Dory_ :
 
-<object width="500" height="375"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=13010675&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=ff0179&amp;fullscreen=1" /><embed src="http://vimeo.com/moogaloop.swf?clip_id=13010675&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=ff0179&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="500" height="375"></embed></object>
+{% vimeo 13010675 %}
+
+{% vimeo 13658706 %}

@@ -24,6 +24,4 @@ Two_. Le résultat est sweet et ressemble à du
 lo-fi-late-1800's-avec-des-fausses-moustaches et des petites touches
 gondriesques.
 
-<object width="500" height="300"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=12831262&server=vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=&fullscreen=1" /><embed src="http://vimeo.com/moogaloop.swf?clip_id=12831262&server=vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=&fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="500" height="300"></embed></object><p><a href="http://vimeo.com/12831262">She
-& Him - Thieves</a> from <a href="http://vimeo.com/mergerecords">Merge
-Records</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+{% youtube SeAgLIaHj0M %}

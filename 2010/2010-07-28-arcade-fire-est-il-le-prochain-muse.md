@@ -60,9 +60,7 @@ pas nécessaire de présenter
 ([si ?](http://www.allocine.fr/personne/fichepersonne_gen_cpersonne=543.html)).
 En voici la bande d'annonce :
 
-<object width="500" height="320"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=13497165&server=vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=&fullscreen=1" /><embed src="http://vimeo.com/moogaloop.swf?clip_id=13497165&server=vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=&fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="500" height="320"></embed></object><p><a href="http://vimeo.com/13497165">Untitled</a>
-from <a href="http://vimeo.com/user4312586">Arcade Fire</a> on
-<a href="http://vimeo.com">Vimeo</a>.</p>
+{% vimeo 13497165 %}
 
 Pourrons-nous voir ce stream ? Pas en France ! En effet, Arcade Fire semble
 avoir confié la gestion de ses vidéos à Vevo, une compagnie familiale détenue

@@ -16,9 +16,8 @@ tags:
   - Trucs marrants
 ---
 
-Pour fêter son premier anniversaire, le site très fun
-[Learn Something Every Day](http://cargocollective.com/learnsomethingeveryday)
-vient de publier une vidéo.
+Pour fêter son premier anniversaire, le site très fun [Learn Something Every
+Day][1] vient de publier une vidéo.
 
 On y apprend (ou on s'y souvient) que :
 
@@ -29,4 +28,6 @@ On y apprend (ou on s'y souvient) que :
 Pour ne rien gâcher, le design du site est très sympa et si un fact nous plaît
 particulièrement, on peut se le faire imprimer sur tee-shirt !
 
-<object width="500" height="281"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=13800968&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=ff0179&amp;fullscreen=1" /><embed src="http://vimeo.com/moogaloop.swf?clip_id=13800968&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=ff0179&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="500" height="281"></embed></object>
+{% youtube 3i6IVWK2jsw %}
+
+[1]: https://cargocollective.com/learnsomethingeveryday
