@@ -20,6 +20,6 @@ nouveau, _The Crash Years_, est même encore mieux et dispose d'un clip très
 sympa à base de parapluie qui rappelle à la fois je ne sais plus quel film
 coréen de ces dernières années et la fin du générique de _Juliette, je t'aime_.
 
-<object width="430" height="275" id="delve_playerf41db15d64b449eaa0064d5529d83f23334260o" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"><param name="movie" value="http://assets.delvenetworks.com/player/loader.swf"/><param name="wmode" value="window"/><param name="allowScriptAccess" value="always"/><param name="allowFullScreen" value="true"/><param name="flashvars" value="mediaId=d32da8fa8c9741108d611e0e700594b6&playerForm=88a26316a62d4655a806dda0da4e95ca&autoplayNextClip=true"/><embed src="http://assets.delvenetworks.com/player/loader.swf" name="delve_playerf41db15d64b449eaa0064d5529d83f23334260e" wmode="window" width="430" height="275" allowScriptAccess="always" allowFullScreen="true" type="application/x-shockwave-flash" pluginspage="http://www.adobe.com/go/getflashplayer" flashvars="mediaId=d32da8fa8c9741108d611e0e700594b6&playerForm=88a26316a62d4655a806dda0da4e95ca&autoplayNextClip=true"></embed></object>
+{% youtube _KZANuDcRO4 %}
 
 [Photo sous licence Creative Commons Paternité 2.0 Générique par **alterna2**](http://www.flickr.com/photos/alterna2/2086706849/)

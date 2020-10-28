@@ -78,11 +78,8 @@ chef d'œuvre, alternative positive au dépriment _Revolutionary Road_).
 
 En prime, une vidéo fun, tournée en sus du film, faisant référence à l'une de
 ses scènes :
-<object classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' id='gg7klr1v' width='432' height='415'><param name='movie' value='http://images.video.msn.com/flash/customplayer/1_0/customplayer.swf' /><param name='bgcolor' value='#ffffff' /><param name='wmode' value='transparent' /><param name='base' value='.' /><param name='flashvars' value='configCsid=msnvideo&mkt=en-US&player.v=5db01b36-af64-41f0-91b8-ef86e818f69b&fg=MsnEntertainment_idseeitif_top2&brand=&from=sp&configName=syndicationplayer&' /><param name='allowFullScreen' value='true' /><param name='allowScriptAccess' value='always' /><embed src="http://images.video.msn.com/flash/customplayer/1_0/customplayer.swf" width="432" height="415" id="gg7klr1v" type="application/x-shockwave-flash" allowFullScreen="true" allowScriptAccess="always" bgColor="#ffffff" wmode="transparent" pluginspage="http://macromedia.com/go/getflashplayer" base="." flashvars="configCsid=msnvideo&mkt=en-US&player.v=5db01b36-af64-41f0-91b8-ef86e818f69b&fg=MsnEntertainment_idseeitif_top2&brand=&from=sp&configName=syndicationplayer&"></embed><noembed><a
-href="http://video.msn.com/?mkt=en-US&from=sp&fg=MsnEntertainment_idseeitif_top2&vid=5db01b36-af64-41f0-91b8-ef86e818f69b"
-target="\_new" title="Zooey Deschanel and Joseph Gordon-Levitt Cinemash "Sid and
-Nancy"">Video: Zooey Deschanel and Joseph Gordon-Levitt Cinemash "Sid and
-Nancy"</a></noembed></object>
+
+{% youtube 9myqfWSyoPo %}
 
 **La chanson qui va avec** : à l'exception de Carla Bruni et Patrick Swayze, la
 B.O. du film est impeccable : Smiths, Pixies, Doves, Black Kids, etc. Pourtant
@@ -99,7 +96,7 @@ Mary est une petite fille australienne avec une tâche de naissance couleur caca
 sur le front. Max est un homme new-yorkais un peu marginal. Comment peut bien
 naître et se développer une correspondance entre ces deux personnages ?
 
-<div id='allocine_blog' style='width:420px; height:335px'><object width='100%' height='100%'><param name='movie' value='http://www.allocine.fr/blogvision/18893735'></param><param name='allowFullScreen' value='true'></param><param name='allowScriptAccess' value='always'></param><embed src='http://www.allocine.fr/blogvision/18893735' type='application/x-shockwave-flash' width='100%' height='100%' allowFullScreen='true' allowScriptAccess='always'/></object></div>
+{% youtube eVdivjF-9nw %}
 
 Savant mélange entre les films des frères Farrelly (les marginaux, rien ne vaut
 un bon copain, le petit côté scato aussi), de Wallace & Gromit, de Jean-Pierre
@@ -111,11 +108,11 @@ correspondance entre des personnages qui ne se voient jamais sans provoquer
 l'ennui n'est pas un mince exploit et on se demande ce que ça pourrait donner
 avec des contraintes plus limitées.
 
-Afin de se familiariser avec l'univers d'Elliot, voici son court-métrage _Harvey
+Afin de se familiariser avec l'univers d'Elliot, voici son court-métrage _Harvie
 Krumpet_, oscar du meilleur court métrage d'animation en 2003, dans lequel on
 retrouve pas mal de thèmes de *Mary & Max* :
 
-{% youtube ouyVS6HOFeo %}
+{% vimeo 130556509 %}
 
 **La chanson qui va avec** : _Avoir un bon copain_ bien sûr !
 
@@ -142,7 +139,7 @@ vraiment mort. Big up également à Rémi Bezançon, qui s'était occupé de la
 légende du permis raté à cause du chien qui traverse la route dans _Le Premier
 jour du reste de ta vie_.
 
-{% youtube SCcnQqtOSvg %}
+{% youtube oJ77y9xGgRU %}
 
 **La chanson qui va avec** : symptôme du mal, la chanson du générique de fin est
 chantée par Renan Luce ou l'un de ses clônes alors que plusieurs chansons
