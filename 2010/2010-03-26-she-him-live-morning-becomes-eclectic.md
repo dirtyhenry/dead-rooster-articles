@@ -6,7 +6,7 @@ authors:
 wordpress_id: 580
 date: "2010-03-26 20:15:39 +0100"
 categories:
-  - Artistes
+  - Chanson du jour
 tags:
   - She & Him
 ---
