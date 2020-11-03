@@ -26,9 +26,9 @@ comments:
       première catégorie).\r\n\r\n"
 ---
 
-{**Catégorie "à voir au ciné mais faut se dépêcher"**}
+## Catégorie "à voir au ciné mais faut se dépêcher"
 
-## _The King's Speech/Le Discours d'un Roi_ - Tom Hooper / _Black Swan_ - Darren Aronofsky</h2>
+### _The King's Speech/Le Discours d'un Roi_ - Tom Hooper / _Black Swan_ - Darren Aronofsky
 
 Voilà bien les deux blockbusters du mois de février !
 
@@ -78,7 +78,7 @@ sera fâchés pour la vie… Pour fêter ça, allez, un peu de ska !
 
 {% youtube -utkYnIV1_k %}
 
-## _Incendies_ - Denis Villeneuve
+### _Incendies_ - Denis Villeneuve
 
 Au Québec, tout commence par un frère et une soeur, Jeanne et Simon, qui
 découvrent à la lecture du testament de leur mère qu'ils ont un frère dont ils
@@ -87,7 +87,7 @@ Leur défunte mère leur confie même la mission de remettre à chacun une lettr
 Pour mener à bien cette quête, Jeanne se rend dans un pays imaginé du Moyen
 Orient, dont la mère est originaire.
 
-<div id="allocine_blog" style="width:450px; height:280px"><object height="280px" width="100%"><param name="movie" value="http://www.allocine.fr/blogvision/19183990"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.allocine.fr/blogvision/19183990" type="application/x-shockwave-flash" width="100%" height="100%" allowFullScreen="true" allowScriptAccess="always"></embed></object></div>
+{% youtube 0nycksytL1A %}
 
 Le film, adapté d'une pièce de théâtre de Wajdi Mouawad, un auteur canadien né
 au Liban, se construit alors dans un va-et-vient entre le temps de la narration
@@ -112,7 +112,7 @@ n'y est pour rien mais c'est lui le responsable aux yeux de la loi. En gros,
 c'est la grosse remise en question pour les deux personnages, et il va leur
 falloir revoir leurs priorités.
 
-<div id="allocine_blog" style="width:450px; height:280px"><object height="280px" width="100%"><param name="movie" value="http://www.allocine.fr/blogvision/19176771"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.allocine.fr/blogvision/19176771" type="application/x-shockwave-flash" width="100%" height="100%" allowFullScreen="true" allowScriptAccess="always"></embed></object></div>
+{% youtube bS7CmZdhwmQ %}
 
 Ah, quand même un peu de légèreté pour essayer de se marrer en février.
 Convaincu d'aller voir ce film pour le casting plutôt que le scénario (pourquoi
@@ -146,8 +146,8 @@ _La Tour Montparnasse Infernale_ et c'est aussi moins réussi que _Seuls Two_. O
 rigole même davantage quand Ramzy parle de son amour pour Patrick Sébastien à la
 télé :
 
-{% youtube Tl1ufE80DDM %}
+{% youtube -BNIzcX9Bzk %}
 
-**{Catégorie "Vieux Films à voir en DVD"**}
+## Catégorie "Vieux Films à voir en DVD"
 
 Pas de candidat ce mois-ci.

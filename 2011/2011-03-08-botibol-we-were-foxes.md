@@ -9,4 +9,4 @@ date: "2011-03-08 08:56:41 +0100"
 
 Pas de vidéo cette fois… Désolé !
 
-{% bandcamp_track 1009091689 3357689144 %} s
+{% bandcamp_track 1009091689 3357689144 %}

@@ -104,7 +104,7 @@ La version 10 titres :
 1. _Success_
 1. _Lights_
 
-**La setliste du concert : **
+**La setliste du concert :**
 
 1. _Success_
 1. _Say Hello To The Angels_

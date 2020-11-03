@@ -75,14 +75,7 @@ you next time».
 If people among you don't know Interpol that well, this is a _Interpol for
 Dummies playlist_.
 
-[**Listen to the {Interpol for Dummies} on Spotify !**](http://open.spotify.com/user/dirtyhenry/playlist/7trDXQ940DYxcQDRIcjZwO)
-
-<object width="500" height="400">
-<param name="movie" value="http://listen.grooveshark.com/widget.swf" />
-<param name="wmode" value="window" />
-<param name="allowScriptAccess" value="always" />
-<param name="flashvars" value="hostname=cowbell.grooveshark.com&widgetID=25023333&style=metal&bbg=ffffff&bfg=333333&bt=cccccc&bth=ffffff&pbg=cccccc&pbgh=333333&pfg=ffffff&pfgh=cccccc&si=cccccc&lbg=cccccc&lbgh=333333&lfg=ffffff&lfgh=cccccc&sb=cccccc&sbh=333333&p=0" />
-<embed src="http://listen.grooveshark.com/widget.swf" type="application/x-shockwave-flash" width="500" height="400" flashvars="hostname=cowbell.grooveshark.com&widgetID=25023333&style=metal&bbg=ffffff&bfg=333333&bt=cccccc&bth=ffffff&pbg=cccccc&pbgh=333333&pfg=ffffff&pfgh=cccccc&si=cccccc&lbg=cccccc&lbgh=333333&lfg=ffffff&lfgh=cccccc&sb=cccccc&sbh=333333&p=0" allowScriptAccess="always" wmode="window" /></object>
+{% spotify 7trDXQ940DYxcQDRIcjZwO %}
 
 Short 2-songs version :
 
@@ -102,7 +95,7 @@ Deluxe 10-songs version :
 1. _Success_
 1. _Lights_
 
-**The gig setlist : **
+**The gig setlist:**
 
 1. _Success_
 1. _Say Hello To The Angels_
@@ -124,4 +117,4 @@ Deluxe 10-songs version :
 1. _Slow Hands_
 1. _Obstacle 1_
 
-Pictures : [(c) Isatagada](http://isatagada.blog.com)
+Pictures : (c) Isatagada

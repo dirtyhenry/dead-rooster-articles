@@ -44,14 +44,7 @@ End Of Time_, _Red Light, Green Light_), same mix of perfect pop songs
 (_Waterfall_ for sure, but _Be My Hooker_ and _Plague Of Frogs_ as well) and
 epic titles (_Tropical Island Suite_).
 
-<object height="81" width="100%">
-<param name="movie" value="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F14414392"></param>
-<param name="allowscriptaccess" value="always"></param>
-<embed allowscriptaccess="always" height="81" src="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F14414392" type="application/x-shockwave-flash" width="100%"></embed>
-</object>
-<span><a href="http://soundcloud.com/deadsoundie/04-tropical-island-suite">The
-Fresh & Onlys, Tropical Island Suite</a> by
-<a href="http://soundcloud.com/deadsoundie">deadsoundie</a></span>
+{% soundcloud 14414392 %}
 
 It may sound too wise to be a great record, but Fresh & Onlys can also be weird
 and crazy as in _Who Needs A Man_, which does make _Play It Strange_ the best

@@ -36,8 +36,7 @@ Diffusée sur HBO, il existe déjà 2 saisons de 8 épisodes de la série. Le ry
 n'est donc pas hyper intensif, ce qui est une grande qualité selon moi. Le début
 de la diffusion de la saison 3 est prévu pour le mois prochain :
 
-<object width="512" height="288"><param name="movie" value="http://www.hbo.com/bin/hboPlayerV2.swf?vid=1201344"></param><param name="FlashVars" value="domain=http://www.hbo.com&videoTitle=Season 3 Trailer&copyShareURL=http%3A//www.hbo.com/video/video.html/%3Fautoplay%3Dtrue%26vid%3D1201344%26filter%3Dbored-to-death%26view%3Dnull"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.hbo.com/bin/hboPlayerV2.swf?vid=1201344" FlashVars="domain=http://www.hbo.com&videoTitle=Season 3 Trailer&copyShareURL=http%3A//www.hbo.com/video/video.html/%3Fautoplay%3Dtrue%26vid%3D1201344%26filter%3Dbored-to-death%26view%3Dnull" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true"  width="512" height="288"></embed></object><div><a title="Season 3 Trailer" href="http://www.hbo.com/video/video.html/?autoplay=true&vid=1201344&filter=bored-to-death&view=null">Season
-3 Trailer</a></div>
+{% youtube 7Lm-C32MLcI %}
 
 Le créateur de la série s'appelle Jonathan Ames, qui a donc donné son vrai nom à
 son héros. Une autre façon pour Ames de se mettre en scène puisqu'il s'était
