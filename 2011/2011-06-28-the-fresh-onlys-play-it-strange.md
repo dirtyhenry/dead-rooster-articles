@@ -55,14 +55,7 @@ End Of Time_, _Red Light, Green Light_), même alternance de pop songs parfaites
 (_Waterfall_ donc, mais aussi _Be My Hooker_ ou _Plague Of Frogs_) et de morceau
 de bravoure (_Tropical Island Suite_).
 
-<object height="81" width="100%">
-<param name="movie" value="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F14414392"></param>
-<param name="allowscriptaccess" value="always"></param>
-<embed allowscriptaccess="always" height="81" src="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F14414392" type="application/x-shockwave-flash" width="100%"></embed>
-</object>
-<span><a href="http://soundcloud.com/deadsoundie/04-tropical-island-suite">The
-Fresh & Onlys, Tropical Island Suite</a> by
-<a href="http://soundcloud.com/deadsoundie">deadsoundie</a></span>
+{% soundcloud 14414392 %}
 
 Quand on ajoute à ça un morceau assez audacieux par sa bizarrerie mais
 finalement très réussi, _Who Needs A Man_, on obtient un grand disque. Le

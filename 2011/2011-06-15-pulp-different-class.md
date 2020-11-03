@@ -88,6 +88,6 @@ Class_ en quelque sorte.
 Quittons-nous malgré tout avec la version française de _Common People_, (update)
 ainsi que la fantastique reprise de Mis-Shapes par The Livingstones I Presume !
 
-<div><object width="480" height="270" id="wat_1072999"><param name="movie" value="http://www.wat.tv/swf2/310384nIc0K111072999"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.wat.tv/swf2/310384nIc0K111072999" type="application/x-shockwave-flash"  allowscriptaccess="always" allowfullscreen="true" width="480" height="270"></embed></object></div><div class="watlinks" style="width:480px;font-size:11px; background:#CCCCCC; padding:2px 0 4px 0; text-align: center;"><a target="_blank" class="waturl" href="http://www.wat.tv/video/renaud-adieu-minette-mzxj_2ey2h_.html" title="Vidéo Renaud - Adieu minette sur wat.tv"><strong>Renaud - Adieu minette</strong></a> Vidéo <a class="waturl altuser" href="http://www.wat.tv/gotti57" title="Retrouvez toutes les vidéos gotti57 sur wat.tv">gotti57</a> sélectionnée dans <a href="http://www.wat.tv/guide/musique" class="waturl alttheme" title="Toutes les vidéos Musique sont sur wat.tv">Musique</a> </div>
+{% spotify_track 4qwNXTywDMge32JmboD0rY %}
 
 {% vimeo 13019120 %}

@@ -16,9 +16,9 @@ tags:
   - Ciné-Club moi j’vous dis
 ---
 
-{**Catégorie "Vieux Films à voir en DVD"**}
+## Catégorie "Vieux Films à voir en DVD"
 
-## _Narco_ - Gilles Lellouche et Tristan Aurouet
+### _Narco_ - Gilles Lellouche et Tristan Aurouet
 
 Gus Klopp est narcoleptique. Ça lui pose pas mal de problèmes dans sa vie privée
 et professionnelle. Mais quand il s'écroule et dort, il fait des rêves
@@ -27,7 +27,7 @@ femme, ni son pote Lenny Bar, karatéka-fan de Van Damme, ne l'encouragent
 vraiment à en faire un métier. Jusqu'à ce que son thérapeute découvre son
 travail…
 
-<div id="allocine_blog" style="width:450px; height:350px"><object width="100%" height="350px"><param name="movie" value="http://www.allocine.fr/blogvision/18370737"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.allocine.fr/blogvision/18370737" type="application/x-shockwave-flash" width="100%" height="100%" allowFullScreen="true" allowScriptAccess="always"></embed></object></div>
+{% youtube CPe-jpZnNqc %}
 
 Rythmé, drôle, stylé, avec des acteurs cabotins (Poelvoorde au sommet de son
 art) ou juste bons (Guillaume Gallienne), ce film est un des meilleurs films
@@ -53,7 +53,7 @@ La musique qui va avec : _La Ritournelle_ de Sébastien Tellier
 
 ---
 
-## _Le Chant du Missouri/Meet Me in St. Louis_ - Vincente Minnelli
+### _Le Chant du Missouri/Meet Me in St. Louis_ - Vincente Minnelli
 
 Saint-Louis prépare l'exposition universelle de 1904. La famille Smith coule des
 jours paisibles durant lesquels les histoires sentimentales de leurs 2 filles
@@ -80,7 +80,7 @@ La musique qui va avec : à peu près tout le film.
 
 ---
 
-## _L'Aile ou la Cuisse_ - Claude Zidi
+### _L'Aile ou la Cuisse_ - Claude Zidi
 
 Charles Duchemin est le directeur d'un guide gastronomique très renommé faisant
 honneur à la gastronomie française de qualité. Son fils Gérard n'est pas très
@@ -106,9 +106,9 @@ Attention, version symphonique :
 
 ---
 
-**{Catégorie "à voir au ciné mais faut se dépêcher"**}
+## Catégorie "à voir au ciné mais faut se dépêcher"
 
-## _Minuit à Paris/Midnight in Paris_ - Woody Allen
+### _Minuit à Paris/Midnight in Paris_ - Woody Allen
 
 Woody et moi, c'est [a bit complicated](554). Mais je le disais déjà à l'époque,
 j'aime bien _The Purple Rose of Cairo_ par exemple et _Midnight in Paris_ est
@@ -130,7 +130,7 @@ mais on préférera les Inconnus chantent les chansons d'antan
 
 ---
 
-## _Hall Pass/Bon à tirer (B.A.T.)_ - Peter et Bobby Farrelly
+### _Hall Pass/Bon à tirer (B.A.T.)_ - Peter et Bobby Farrelly
 
 Rick et Fred sont mariés mais regrettent parfois leur célibat, persuadés qu'ils
 sont qu'ils pourraient pécho tout ce qui bouge. Lasses du comportement de leurs

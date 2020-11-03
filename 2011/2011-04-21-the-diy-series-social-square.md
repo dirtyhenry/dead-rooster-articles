@@ -30,22 +30,9 @@ années 90. Pavement, Sebadoh ou Sonic Youth sont leurs influences les plus
 évidentes. Plus que de longs discours, écoutez donc _Walk In Your Shoes_ et _It
 vs You_ :
 
-<object height="81" width="100%">
-<param name="movie" value="https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F16583964"></param>
-<param name="allowscriptaccess" value="always"></param>
-<embed allowscriptaccess="always" height="81" src="https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F16583964" type="application/x-shockwave-flash" width="100%"></embed>
-</object>
-<span><a href="http://soundcloud.com/social-square/walk-in-your-shoes">Walk In
-Your Shoes</a> by <a href="http://soundcloud.com/social-square">Social
-Square</a></span>
+{% soundcloud 16583964 %}
 
-<object height="81" width="100%">
-<param name="movie" value="https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F16583960"></param>
-<param name="allowscriptaccess" value="always"></param>
-<embed allowscriptaccess="always" height="81" src="https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F16583960" type="application/x-shockwave-flash" width="100%"></embed>
-</object> <span><a href="http://soundcloud.com/social-square/it-vs-you">It vs
-You</a> by <a href="http://soundcloud.com/social-square">Social
-Square</a></span>
+{% soundcloud 16583960 %}
 
 La phrase "c'est marrant, vous sonnez pas du tout comme un groupe français" est
 un cliché un peu pénible à penser (et encore davantage à prononcer) mais c'est
@@ -56,7 +43,7 @@ dit, c'est pas non plus complètement idiot pour deux raisons. La première est
 que Patrick est franco-américain, ce qui le dispense d'avoir un accent à la con.
 La seconde, je vous la révélerai tout à l'heure.
 
-**{Les lieux de création**}
+## Les lieux de création
 
 Pas de home-studio pour Social Square, les chansons sont donc travaillées live.
 Pour répéter, Social Square a trouvé un bon filon. Plutôt que disposer d'un
@@ -70,7 +57,7 @@ membres du groupe) et plus pratique pour laisser son matériel. Soit, il reste
 toujours le problème du matos qu'on doit partager entre groupes (batterie et
 amplis) mais c'est un moindre mal.
 
-**{Les enregistrements**}
+## Les enregistrements
 
 Le groupe a enregistré 3 titres en 2010. Le travail a commencé dans un studio
 d'Alfortville : trois jours de location avec un ingénieur du son de leur
@@ -94,7 +81,7 @@ où tout le monde pouvait participer à l'effort en contrepartie de lots sympas 
 - pour 15€, ajoutez-y stickers et badges
 - pour 30€, un tee-shirt en sus, etc.
 
-**{Les concerts**}
+## Les concerts
 
 Patrick a une stratégie pour trouver les concerts du groupe : bassiner les
 responsables de bars jusqu'à ce qu'ils acceptent. Ou alors profiter des
@@ -107,7 +94,7 @@ payer les frais de transports, trouver un logement sur place et on a le boulot
 qui fixe des contraintes de planning. Les cachets sont loin de couvrir toutes
 les dépenses.
 
-**{Se faire connaître**}
+## Se faire connaître
 
 Pour que sa musique se fasse connaître, là aussi, il faut y consacrer du temps
 et envoyer les liens et les MP3 aux webzines et blogs musicaux. Il y a plus de
@@ -124,11 +111,12 @@ Le petit plus sympa vient du blog des Inrocks
 et a permis à Social Square de faire copain-copain avec Wonderflu, l'autre cité
 du post (et dont l'écoute est également recommandée).
 
-**{Les autoroutes de l'information à la rescousse**}
+## Les autoroutes de l'information à la rescousse
 
-<quote>
-Si les gens n’achètent plus de disques, c’est parce qu’ils sont trop occupés à en faire eux-même. (Andrew Loog Oldham, 2007)
-</quote>
+> Si les gens n’achètent plus de disques, c’est parce qu’ils sont trop occupés à
+> en faire eux-même.
+>
+> — Andrew Loog Oldham, 2007
 
 Après la rencontre avec Patrick, un acteur semble incontournable dans la vie du
 groupe, j'ai nommé Internet. Du mailing aux webzines et aux patrons de café, du
@@ -144,7 +132,7 @@ le web vient aussi à la rescousse, outre les incontournables MySpace, Bandcamp
 ou Inrocks Lab, même aussi [Noomiz](http://www.noomiz.com/), une autre
 plateforme française, dont Patrick m'apprend l'existence.
 
-**{Des recommandations ?**}
+## Des recommandations ?
 
 Au final, voici les recommandations de Social Square :
 

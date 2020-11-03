@@ -1,9 +1,6 @@
 ---
 layout: post
-title: Epilogue du concours Katerine
-description:
-  C'est bien triste mais voici l'épilogue du concours Katerine, qui nous aura
-  tenu en haleine toute l'année 2010.
+title: Épilogue du concours Katerine
 authors:
   - Dirty Henry
 wordpress_id: 744
@@ -42,7 +39,7 @@ en haleine toute l'année 2010.
 Katerine reprend le plus grand tube de l'ex-Stinky Toys, décédé l'année
 dernière, et qui avait servi à une pub Nesquik. L'originale :
 
-{% vimeo x33sv7 %}
+{% spotify_track 3lKnLyDegMu1dxcSsFfeR5 %}
 
 ### 51. _Noël Blanc_ d'Irving Berlin
 
@@ -55,7 +52,7 @@ du King :
 
 Katerine conclut 2010 par une reprise chorale du titre de Raphaël. L'originale :
 
-{% vimeo x3rbw8 %}
+{% spotify_track 73O15OI7KZXrLdsjCbY9aq %}
 
 ## Le classement
 
