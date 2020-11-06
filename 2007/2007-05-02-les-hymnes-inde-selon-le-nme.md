@@ -12,6 +12,7 @@ tags:
   - Blur
   - Pulp
   - The La's
+  - Arcade Fire
 cover: podium.jpg
 ---
 

@@ -5,6 +5,7 @@ authors:
   - Dirty Henry
 tags:
   - compile
+  - Arcade Fire
 ---
 
 {% spotify 3DIwE7aLIaURvceNnXCHL4 %}
