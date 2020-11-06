@@ -3,6 +3,8 @@ layout: post
 title: Le best-of "C'est Lenoir" 2005
 authors:
   - Dirty Henry
+tags:
+  - Arcade Fire
 ---
 
 {% asset lenoir.jpg %}

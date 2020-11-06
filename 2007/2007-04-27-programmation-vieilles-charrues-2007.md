@@ -8,6 +8,7 @@ categories:
   - Artistes
 tags:
   - Herman Düne
+  - Arcade Fire
 cover: vieilles-charrues-2007.png
 ---
 

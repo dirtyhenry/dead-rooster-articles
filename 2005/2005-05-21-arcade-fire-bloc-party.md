@@ -5,6 +5,7 @@ authors:
   - Dirty Henry
 tags:
   - concert
+  - Arcade Fire
 ---
 
 Avant le concert, l'heure d'un bilan dans la course de meilleur groupe 2005 : à
