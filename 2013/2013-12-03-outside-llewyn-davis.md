@@ -25,11 +25,12 @@ la grosse artillerie, on a le droit à la version de trois ados américaines qu'
 dirait en train de chanter dans le salon devant leur famille pour le réveillon
 de Noël.
 
-{% youtube ua8_Xq8HASE %}
+{% youtube Tg1CyWSJ7E4 %}
 
 Ces jeunes filles sont donc The Peasall Sisters, un groupe qui n'a pas de page
-Wikipedia et dont le [site officiel][1] s'est fait bouffer par GoDaddy. Les Coen
-sont quand même forts pour trouver des trucs de niche.
+Wikipedia et dont feu le site officiel (thepeasallsisters.com) s'est fait
+bouffer par GoDaddy. Les Coen sont quand même forts pour trouver des trucs de
+niche.
 
 Les Peasall Sisters ne sont cependant pas connues que pour _Where No One Stands
 Alone_, elles le sont aussi pour _In The Highways_ qu'elles avaient interprété à
@@ -65,7 +66,7 @@ dégueulasse de l'histoire. Là, coup de génie, un truc qui n'arrive qu'une foi
 par décennie, mettre les Gipsy Kings et leur reprise de _Hotel California_ en
 bande son du strike le plus célèbre du cinéma.
 
-{% youtube GZR58d77a4A %}
+{% youtube MoU2XwXLFrA %}
 
 Je vous recommande à ce propos l'interview de Turturro parlant du film. Il
 raconte notamment comment après avoir proposé des idées qui lui semblaient
@@ -91,9 +92,8 @@ l'auteur d'une anthologie.
 
 - _Where No One Stands Alone_ (_True Grit_)
 
-{% soundcloud 122921425 %}
+{% soundcloud 34815931 %}
 
-[1]: http://thepeasallsisters.com
 [2]: http://www.allocine.fr/article/dossiers/cinema/dossier-18591309/
 [4]: https://www.youtube.com/watch?v=978uQUK231M
 
