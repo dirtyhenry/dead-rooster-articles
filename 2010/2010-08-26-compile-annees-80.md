@@ -1,4 +1,5 @@
 ---
+layout: post
 published: false
 title: Compile années 80
 authors:

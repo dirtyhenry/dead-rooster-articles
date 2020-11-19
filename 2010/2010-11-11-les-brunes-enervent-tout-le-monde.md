@@ -58,4 +58,6 @@ Personne ne marque de point.
 - 5. Marion, David, Loïc et kr, 4pts
 - 9. Le reste du monde à 0 pt
 
-Il est encore temps de participer en [cliquant ici](569) !
+Il est encore temps de participer en [cliquant ici][i569] !
+
+[i569]: {% post_url 2010/2010-02-09-concours-katerine-francis-et-ses-peintres %}

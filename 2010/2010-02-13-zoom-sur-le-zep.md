@@ -7,14 +7,14 @@ description:
   s'était penché sur Led Zeppelin en septembre 2008 dans {Rock'n Roll}.
 author: Dirty Henry
 wordpress_id: 571
-date: "2010-02-13 13:50:05 +0100"
+cover: john-bonham-bonzo.jpg
+date: 2010-02-13 13:50:05 +0100
 categories:
   - Catégories
   - Artistes
 tags:
   - Livre
   - Led Zeppelin
-cover: john-bonham-bonzo.jpg
 ---
 
 **Led Zeppelin**, avec deux 'p' et un 'l', est un groupe de rock'n'roll, fondé
@@ -28,7 +28,7 @@ qui débutent sur scène sous le nom de New Yardbirds. Led Zep est né.
 Le livre commence quand la vie du groupe se termine, en septembre 1980, à la
 mort de Bonham, le batteur, dit Bonzo, lorsqu'une énième cuite se finit dans le
 style le plus glorieux du rock'n'roll : l'étouffement dans le vomi. Malgré
-plusieurs éphémères reformations depuis, [la dernière en 2007](402), le groupe
+plusieurs éphémères reformations depuis, [la dernière en 2007][i402], le groupe
 ne survivra pas à cet événement tragique. François Bon repart alors à la genèse
 du groupe.
 
@@ -106,4 +106,8 @@ se marrer des anecdotes de Bonzo et cie.
 
 ---
 
-[Relire le post consacré à l'ouvrage de François Bon sur Bob Dylan](219)
+[Relire le post consacré à l'ouvrage de François Bon sur Bob Dylan][i219]
+
+[i402]: {% post_url 2007/2007-09-03-led-zeppelin-s-back %}
+
+[i219]: {% post_url 2008/2008-10-27-zoom-sur-le-zim %}

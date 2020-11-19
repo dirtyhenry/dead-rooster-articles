@@ -65,12 +65,11 @@ dépressif mais sans jamais plomber et ça rend les losers sympas et attachants.
 Pour ne rien gâcher, la B.O. est excellente : un mix de nouveautés indés
 complètement inconnus, de classiques des 70's et de reprises bien vues. Bref, du
 bon vieux snobisme qui nous fait devenir copains. Comme je suis sympa, après le
-générique de la série signé Coconut Records (aka Jason Schwartzman,
-[vous vous souvenez ?](201)), vous trouverez la liste de toutes les chansons
-utilisées dans la saison 2, que j'ai tenté de compiler via Spotify. Là, vous
-admettrez que je ne me fous pas de votre gueule (y'a même Yo La Tengo pour Joe
-Gantdelaine) et je recommande particulièrement Katie Herzig, Josh Ritter et
-Family Of The Year.
+générique de la série signé Coconut Records (aka Jason Schwartzman, [vous vous
+souvenez ?][i201]), vous trouverez la liste de toutes les chansons utilisées
+dans la saison 2, que j'ai tenté de compiler via Spotify. Là, vous admettrez que
+je ne me fous pas de votre gueule (y'a même Yo La Tengo pour Joe Gantdelaine) et
+je recommande particulièrement Katie Herzig, Josh Ritter et Family Of The Year.
 
 {% youtube uPSb8yFGZ-E %}
 
@@ -113,3 +112,5 @@ Family Of The Year.
 1. Yo La Tengo - _Mr. Tough_
 
 _NB : les titres avec 🔇 sont indisponibles._
+
+[i201]: {% post_url 2008/2008-04-02-wes-anderson-schwartzman-deschanel %}

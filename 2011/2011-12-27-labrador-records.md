@@ -32,7 +32,7 @@ rien de tel que [Labrador Records](http://www.labrador.se/indexn.php3) ! (ah bah
 quand même ! 3 paragraphes pour arriver au sujet de l'article…)
 
 Et sur Labrador Records, label de pop suédois donc, il y a plein de groupes TTM
-de haute volée. Outre Acid House Kings [déjà évoqué sur ce blog](699), je me
+de haute volée. Outre Acid House Kings [déjà évoqué sur ce blog][i699], je me
 suis penché principalement sur 3 autres formations du label : **The Radio
 Dept.**, **Club 8** et **The Mary Onettes**.
 
@@ -72,3 +72,5 @@ les quelques groupes évoqués plus haut ainsi que plein d'autres à découvrir.
 Écoutez-la en suivant [ce lien](http://www.labrador.se/stockholm/).
 
 Rendez-vous en 2012 les amis et profitez des derniers moments TTM de 2011 !
+
+[i699]: {% post_url 2010/2010-09-09-parfois-on-s-demande %}

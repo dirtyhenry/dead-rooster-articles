@@ -19,13 +19,13 @@ tags:
 ---
 
 Quand les Dum Dum Girls sont apparues sur les radars de Dead Rooster, c'était
-avec [_Jail La La_](588), [très bon morceau](750) et parfait symbole du premier
-album du groupe, _I Will Be_, courte mais énergique collection de 11 titres qui
-faisaient tous environ 2:30 et qui a dû rendre fou Phil Spector, dans sa cellule
-californienne. Du ta-pa-poum, de la guitare basique, une voix féminine avec des
-effets partout, les influences sont claires : du côté des Dum Dum Girls, on a dû
-écouter les Ronettes, mais sans doute aussi The Jesus & Mary Chain. L'album
-n'avait donc pas déçu.
+avec [_Jail La La_][i588], [très bon morceau][i750] et parfait symbole du
+premier album du groupe, _I Will Be_, courte mais énergique collection de 11
+titres qui faisaient tous environ 2:30 et qui a dû rendre fou Phil Spector, dans
+sa cellule californienne. Du ta-pa-poum, de la guitare basique, une voix
+féminine avec des effets partout, les influences sont claires : du côté des Dum
+Dum Girls, on a dû écouter les Ronettes, mais sans doute aussi The Jesus & Mary
+Chain. L'album n'avait donc pas déçu.
 
 {% asset dum-dum-girls-route-du-rock.jpg %}
 
@@ -39,7 +39,7 @@ sans grande vie, semblent presque interchangeables, les morceaux semblent cloué
 au sol») et se moquaient même d'un
 [camel toe](http://fr.wikipedia.org/wiki/Cameltoe), les fripons. On n'était pas
 loin de tirer un trait sur les Dum Dum Girls : sans doute un groupe opportuniste
-se lançant dans la brèche créée par [Best Coast](657), et qu'on aurait vite
+se lançant dans la brèche créée par [Best Coast][i657], et qu'on aurait vite
 oublié.
 
 {% asset dum-dum-girls-studio-photo.png %}
@@ -47,12 +47,12 @@ oublié.
 Sauf qu'il y a quelques semaines, le groupe a sorti son second album, _Only In
 Dreams_. Si les morceaux d'ouverture sont aussi immédiatement séduisants et
 laissent penser qu'on va avoir un dispensable copier-coller du premier opus
-(_Always Looking_, [_Bedroom Eyes_](918)), les titres suivants rendent
+(_Always Looking_, [_Bedroom Eyes_][i918]), les titres suivants rendent
 l'ensemble plus subtil, donnent de l'épaisseur aux Dum Dum Girls qui se montrent
 bien plus ambitieuses et appliquées qu'on n'auraient pu le croire. Le morceau le
 plus bluffant est bien sûr _Coming Down_, chef d'oeuvre mélancolique au tempo
 d'une lenteur inédite pour le groupe (et que vous pouvez écouter sur
-[le premier épisode du podcast Dead Rooster](924)). Le titre équilibre l'album,
+[le premier épisode du podcast Dead Rooster](XXX)). Le titre équilibre l'album,
 sans trahir ses voisins et donne envie de réécouter l'ensemble, encore et
 encore. On se rend alors compte d'une variété de tons dont on n'aurait jamais
 soupçonner le groupe capable (_In My Head_ ou _Hold Your Hand_).
@@ -62,7 +62,7 @@ soupçonner le groupe capable (_In My Head_ ou _Hold Your Hand_).
 Derrière les Dum Dum Girls, il serait difficile de parler de groupe. Il s'agit
 plutôt de Dee Dee
 (ex-[Grand Ole Party](http://www.youtube.com/watch?v=Xziod5qt03k)) et
-[des Ringo-ettes](277). Il a donc bien fallu que Dee Dee s'entoure d'un bon
+[des Ringo-ettes](XXX). Il a donc bien fallu que Dee Dee s'entoure d'un bon
 producteur aux manettes de l'album. Elle en a même pris deux. Le premier
 s'appelle Richard Gottehrer, qui n'a jamais écrit
 [_Le Youki_](http://www.youtube.com/watch?v=Wx7vKvQ4axQ) ou
@@ -81,3 +81,11 @@ Pour conclure, pourquoi "Dum Dum Girls" ? À cause de
 PS : en écrivant ce post, je suis donc tombé sur ce passage dans la critique des
 Inrocks susmentionnée : «contre toute logique physique, le groupe prend un peu
 de hauteur quand il baisse le rythme». C'était finement observé.
+
+[i588]: {% post_url 2010/2010-04-05-prison-la-la %}
+
+[i750]: {% post_url 2011/2011-01-12-compile-2010 %}
+
+[i657]: {% post_url 2010/2010-07-21-best-coast-when-i-m-with-you %}
+
+[i918]: {% post_url 2011/2011-10-03-dum-dum-girls-bedroom-eyes %}

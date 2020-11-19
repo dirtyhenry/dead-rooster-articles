@@ -44,4 +44,6 @@ de **Black Mountain** par **The Black Angels**.
 *The New Improved Hypocrisy*](http://pitchfork.com/news/40064-radio-dept-smash-the-government-on-new-song/)</div></li>
 </ul>
 
-[Réécouter la compile #05](712)
+[Réécouter la compile #05][i712]
+
+[i712]: {% post_url 2010/2010-10-11-compile-mp3-du-net-05 %}

@@ -16,9 +16,9 @@ tags:
   - MP3
 ---
 
-Au programme cette semaine, le retour aux affaires de Corin Tucker
-(ex-[Sleater Kinney](314)) et de Black Mountain, qui sera de passage à la
-Maroquinerie, à Paris, le 4 octobre.
+Au programme cette semaine, le retour aux affaires de Corin Tucker (ex-[Sleater
+Kinney][i314]) et de Black Mountain, qui sera de passage à la Maroquinerie, à
+Paris, le 4 octobre.
 
 <ul class="polaroids">
 
@@ -68,3 +68,5 @@ Maroquinerie, à Paris, le 4 octobre.
 </div></li>
 
 </ul>
+
+[i314]: {% post_url 2006/2006-05-23-sleater-kinney-nouveau-casino %}

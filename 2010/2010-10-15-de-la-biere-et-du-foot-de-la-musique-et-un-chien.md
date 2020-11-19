@@ -93,4 +93,6 @@ Preuve n°2 (via
 (via
 [Ludo](http://www.geeek.org/post/jesse-:-mon-nouvel-assistant-personnel-930))
 
-[Le Fun Friday de la semaine dernière](711)
+[Le Fun Friday de la semaine dernière][i711]
+
+[i711]: {% post_url 2010/2010-10-08-liberation-generale %}

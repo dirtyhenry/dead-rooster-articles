@@ -68,4 +68,6 @@ Au programme cette semaine, **The Shins** reprennent un titre du groupe Squeeze,
 
 </ul>
 
-[Réécouter la compile #01](700)
+[Réécouter la compile #01][i700]
+
+[i700]: {% post_url 2010/2010-09-13-compile-mp3-du-net-01 %}

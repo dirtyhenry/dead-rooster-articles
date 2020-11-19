@@ -28,8 +28,11 @@ Il contient 4 titres :
 
 La pochette de l'EP est adaptée d'une photo de [Cary Ann Wayman][2].
 
-Si vous êtes intéressé par une version physique de l'EP, visitez
-[cette page](952).
+Si vous êtes intéressé par une version physique de l'EP, visitez [cette
+page][i952].
 
 [1]: https://thelivingstonesipresume.bandcamp.com
 [2]: https://www.flickr.com/photos/yyellowbird/
+
+[i952]:
+{% post_url 2011/2011-11-17-the-livingstones-i-presume-the-stanley-ep-en-vinyl %}

@@ -71,4 +71,6 @@ Guards *Long Time*
 
 </ul>
 
-[Réécouter la compile #02](702)
+[Réécouter la compile #02][i702]
+
+[i702]: {% post_url 2010/2010-09-20-compile-mp3-du-net-02 %}

@@ -110,12 +110,12 @@ Attention, version symphonique :
 
 ### _Minuit à Paris/Midnight in Paris_ - Woody Allen
 
-Woody et moi, c'est [a bit complicated](554). Mais je le disais déjà à l'époque,
-j'aime bien _The Purple Rose of Cairo_ par exemple et _Midnight in Paris_ est
-définitivement davantage ancré dans cette veine "fantaisiste et poétique" (A)
-que dans la veine "la vie, ça se joue à rien quand même" (B, exemple : _You Will
-Meet a Tall Dark Stranger_) ou la veine "on cause, on cause, mais on s'fait
-chier" (C, exemple : _Whatever Works_).
+Woody et moi, c'est [a bit complicated][i554]. Mais je le disais déjà à
+l'époque, j'aime bien _The Purple Rose of Cairo_ par exemple et _Midnight in
+Paris_ est définitivement davantage ancré dans cette veine "fantaisiste et
+poétique" (A) que dans la veine "la vie, ça se joue à rien quand même" (B,
+exemple : _You Will Meet a Tall Dark Stranger_) ou la veine "on cause, on cause,
+mais on s'fait chier" (C, exemple : _Whatever Works_).
 
 Aussi merci Woody, j'ai compris ta logique interne, et je continuerai donc à
 voir avec plaisir tes films des catégories A et B et à éviter agilement ceux de
@@ -137,11 +137,11 @@ sont qu'ils pourraient pécho tout ce qui bouge. Lasses du comportement de leurs
 époux, Maggie et Grace leur accordent une semaine de hors-mariage pour qu'ils se
 défoulent un petit peu et arrêtent de les faire chier.
 
-[On nous avait déjà fait le coup avec _Thumbsucker/A.D.O. (Âge Difficile Obscur)_](333),
-et rebelote, encore une traduction complètement nulle, qui joue en défaveur d'un
-film. Pour information, un _hall pass_ est un billet justifiant de pouvoir se
-balader tout seul dans les couloirs de son bahut quand on est écolier aux
-États-Unis. Donc, pas grand chose à voir avec un bon à tirer.
+[On nous avait déjà fait le coup avec _Thumbsucker/A.D.O. (Âge Difficile
+Obscur)_][i333], et rebelote, encore une traduction complètement nulle, qui joue
+en défaveur d'un film. Pour information, un _hall pass_ est un billet justifiant
+de pouvoir se balader tout seul dans les couloirs de son bahut quand on est
+écolier aux États-Unis. Donc, pas grand chose à voir avec un bon à tirer.
 
 Sinon, avec ce film :
 
@@ -154,3 +154,7 @@ Sinon, avec ce film :
   voit plus nulle part
 - que [Cap Cod](http://fr.wikipedia.org/wiki/Cap_Cod) ça a l'air chouette comme
   endroit
+
+[i554]: {% post_url 2009/2009-12-09-cine-club-moi-j-vous-dis-02 %}
+
+[i333]: {% post_url 2006/2006-09-18-thumbsucker-mike-mills %}

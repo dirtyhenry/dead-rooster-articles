@@ -30,7 +30,7 @@ Pour fêter cela, Katerine fait très fort avec :
 
 L'actualité People de Katerine est elle aussi chargée, puisque la Reine
 d'Angleterre lui chie à la raie (ce qui n'est pas sans rappeler
-[le dernier titre de Jean-Pierre Caca](675)) :
+[le dernier titre de Jean-Pierre Caca](XXX)) :
 
 {% youtube O8bOFR0Jycs %}
 
@@ -65,6 +65,8 @@ Je le disais, pas de changement au classement :
 - 5. Marion, David et Loïc, 4pts
 - 8. Le reste du monde à 0 pt
 
-~~Il est encore temps de participer en [cliquant ici](569) !~~
+~~Il est encore temps de participer en [cliquant ici][i569] !~~
 
 **Edit** : 2010, c'est fini, le concours est terminé !
+
+[i569]: {% post_url 2010/2010-02-09-concours-katerine-francis-et-ses-peintres %}

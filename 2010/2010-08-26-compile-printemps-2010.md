@@ -1,4 +1,5 @@
 ---
+layout: post
 published: false
 title: Compile printemps 2010
 authors:

@@ -8,14 +8,14 @@ authors:
   - Dirty Henry
 wordpress_id: 625
 cover: the-beatles-hairy.jpg
-date: "2010-06-07 14:46:25 +0200"
+date: 2010-06-07 14:46:25 +0200
 categories:
   - Artistes
 tags:
   - The Beatles
 ---
 
-Que [ce vil coquin de Sean Lennon se rassure](574), les Beatles ne sont pas
+Que [ce vil coquin de Sean Lennon se rassure][i574], les Beatles ne sont pas
 encore prêts de quitter la scène publique !
 
 ## McCartney et Barack
@@ -35,3 +35,5 @@ Stockton et pleins d'autres à trouver qui raviront les nostalgiques de la NBA d
 siècle précédent, le tout sur le _All Together Now_ du duo Lennon/McCartney.
 
 {% youtube BgqO06FG_5w %}
+
+[i574]: {% post_url 2010/2010-03-04-oh-no-ono %}

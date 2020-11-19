@@ -7,14 +7,14 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 583
-date: "2010-03-30 11:40:15 +0200"
+cover: playmobil-queue-leu-leu.jpg
+date: 2010-03-30 11:40:15 +0200
 categories:
   - Catégories
   - Artistes
 tags:
   - Concours Katerine
   - Katerine
-cover: playmobil-queue-leu-leu.jpg
 ---
 
 Cette semaine, la reprise de **Katerine, Francis et ses peintres** est _La
@@ -26,6 +26,8 @@ Bravo à Rodrigue dont c'était le 1er choix et qui marque 5 points.
 - 2. Rodrigue, 5pts
 - 3. Le reste du monde à 0 pt
 
-Il est encore temps de participer en [cliquant ici](569) !
+Il est encore temps de participer en [cliquant ici][i569] !
 
 <div xmlns:cc="http://creativecommons.org/ns#" about="http://www.flickr.com/photos/st3f4n/4269790436/">Photo : <a rel="cc:attributionURL" href="http://www.flickr.com/photos/st3f4n/">http://www.flickr.com/photos/st3f4n/</a> / <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.0/">CC BY-NC-SA 2.0</a></div>
+
+[i569]: {% post_url 2010/2010-02-09-concours-katerine-francis-et-ses-peintres %}

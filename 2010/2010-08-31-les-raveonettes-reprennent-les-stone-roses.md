@@ -18,13 +18,13 @@ tags:
   - The Raveonettes
 ---
 
-Les reprises sont à la mode ! Après Levis et ses [Pioneer Sessions](623), Beck
-et son [record club](br26), le AV Club et son [Undercover](680), c'est au tour
+Les reprises sont à la mode ! Après Levis et ses [Pioneer Sessions][i623], Beck
+et son [record club](br26), le AV Club et son [Undercover][i680], c'est au tour
 de Doc Martens de créer sa collec' de reprises pour fêter ses 50 ans.
 
 Duke Spirit, Black Rebel Motorcycle Club sont au programme, ainsi que les
-Raveonettes qui reprennent ici le _I Wanna Be Adored_ des Stone Roses
-([dont c'est la seconde reprise mentionnée sur ce site](598)).
+Raveonettes qui reprennent ici le _I Wanna Be Adored_ des Stone Roses ([dont
+c'est la seconde reprise mentionnée sur ce site][i598]).
 
 {% youtube 6zbdrabfQc0 %}
 
@@ -33,3 +33,10 @@ Les MP3 qui vont avec peuvent être téléchargés
 
 (via
 [howtodisappear.org](http://www.howtodisappear.org/2010/08/raveonettes-cover-stone-roses-i-wanna.html))
+
+[i623]: {% post_url 2010/2010-06-04-les-levi-s-pioneer-sessions %}
+
+[i680]:
+{% post_url 2010/2010-08-12-the-swell-season-two-headed-boy-neutral-milk-hotel %}
+
+[i598]: {% post_url 2010/2010-04-22-le-2nd-titre-du-printemps %}

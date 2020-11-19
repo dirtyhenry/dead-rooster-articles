@@ -23,7 +23,7 @@ tags:
   - Justice
 ---
 
-La semaine dernière, [Yann Tiersen était à l'honneur ici-même](837). Le titre
+La semaine dernière, [Yann Tiersen était à l'honneur ici-même][i837]. Le titre
 _Palestine_ était évoqué mais tout n'a pas été dit sur ce titre. Ceux qui l'ont
 écouté le savent, son titre aurait dû être _P.A.L.E.S.T.I.N.E._ et ainsi
 rejoindre… "La Grande Tradition des Titres Épelés".
@@ -43,7 +43,7 @@ parlons plus.
 
 La plus tripante - et la meilleure à mes yeux - est ce <strike>_Feeling Called
 Love_</strike> _F.E.E.L.I.N.G.C.A.L.L.E.D.L.O.V.E._ de Pulp. Présent sur leur
-chef d'oeuvre, [_Different Class_](852), c'est un morceau idéal pour triper un
+chef d'oeuvre, [_Different Class_][i852], c'est un morceau idéal pour triper un
 max sur son lit d'adolescent.
 
 {% youtube 1Qxn7DLcNwQ %}
@@ -62,7 +62,7 @@ _F.E.E.L.I.N.G.C.A.L.L.E.D.L.O.V.E._).
 ## Le tube qui ne le mérite pas : _L.I.F.E.G.O.E.S.O.N._ de Noah & The Whale
 
 Sur son dernier album, Noah And The Whale part complètement en sucette et
-[grille les jokers qu'on lui avait bien gentiment accordés](540). Au premier
+[grille les jokers qu'on lui avait bien gentiment accordés][i540]. Au premier
 rang de ces ratages, <strike>_Life Goes On_</strike> _L.I.F.E.G.O.E.S.O.N._
 figure en bonne position mais a complètement cartonné en Angleterre. C'est pas
 comme ça qu'on va les aider à se remettre en question…
@@ -83,3 +83,9 @@ et
 [c'est toujours le vainqueur d'un concours de sosie qui se fait passer pour Paul McCartney](http://en.wikipedia.org/wiki/Paul_is_dead).
 
 {% youtube sy1dYFGkPUE %}
+
+[i837]: {% post_url 2011/2011-05-05-yann-tiersen-dust-lane %}
+
+[i852]: {% post_url 2011/2011-06-15-pulp-different-class %}
+
+[i540]: {% post_url 2009/2009-10-25-noah-et-la-baleine %}

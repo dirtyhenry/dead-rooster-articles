@@ -19,7 +19,7 @@ tags:
   - R.E.M.
 ---
 
-Je sais désormais que faire [le top 2010](747) n'aura pas été vain : il m'a
+Je sais désormais que faire [le top 2010][i747] n'aura pas été vain : il m'a
 incité à réécouter _Halcyon Digest_, le 4ème album de **Deerhunter**, sorti
 cette année.
 
@@ -38,7 +38,7 @@ Entre ces pépites immédiates, d'autres morceaux se chargent de baisser le temp
 comme _Sailing_ (qui porte bien son nom : on a l'impression de faire la sieste
 sur un bateau dérivant sur une mer d'huile), _Basement Scene_ ou _Helicopter_ (à
 ne pas confondre avec le titre de Bloc Party, jadis
-[merveilleusement repris par les Hooray Henrys](237), il est toujours bon de le
+[merveilleusement repris par les Hooray Henrys](XXX), il est toujours bon de le
 rappeler).
 
 {% youtube 1mBSOtdOjoc %}
@@ -97,3 +97,5 @@ _Resigned_ par Blur :
 _Mine's Not A High Horse_ des Shins :
 
 {% youtube CyqFhKpdNs0 %}
+
+[i747]: {% post_url 2011/2011-01-11-top-musique-2010 %}

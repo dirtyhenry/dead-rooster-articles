@@ -4,10 +4,12 @@ title: The Fresh & Onlys - Presence Of Mind
 authors:
   - Dirty Henry
 wordpress_id: 1089
-date: "2012-08-10 08:00:00 +0200"
+date: 2012-08-10 08:00:00 +0200
 ---
 
 {% youtube 9YzkHYZyErA %}
 
 Second extrait de leur _Long Slow Dance_ (à paraître le mois prochain), après
-[_Yes Or No_](1050).
+[_Yes Or No_][i1050].
+
+[i1050]: {% post_url 2012/2012-06-13-the-fresh-onlys-yes-or-no %}

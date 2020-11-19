@@ -43,7 +43,7 @@ de _Smile_).
 
 Une identité certaine (le groupe adore la reverb). De très bons titres. Allez-y.
 Ma préférée est _Younger than Yesterday_. Vous pouvez écouter _It's Real_
-[ici](944).
+[ici][i944].
 
 ### British Sea Power - _Valhalla Dancehall_
 
@@ -133,7 +133,7 @@ meilleur morceau.
 ### Wonderflu - _Lota Schwager_
 
 J'avais entendu beaucoup de choses en bien sur les Parisiens de Wonderflu
-[ici](829) et
+[ici][i829] et
 [là](http://blogs.lesinrocks.com/gimmeindierock/2011/10/06/vote-for-wonderflu/).
 Je m'y suis enfin penché et ai été légèrement déçu. Déjà, le cover art est très
 moche (police rouge sur fond bleu ? merde les gars, vous êtes pas sérieux !). Du
@@ -204,3 +204,7 @@ Réalisée avec [Sortmash](http://sortmash.com).
 <li style="height: 70px;margin-left: 160px;">## Minus The Bear### Omni</li>
 </ul>
 </div>
+
+[i944]: {% post_url 2011/2011-11-05-real-estate-it-s-real %}
+
+[i829]: {% post_url 2011/2011-04-21-the-diy-series-social-square %}

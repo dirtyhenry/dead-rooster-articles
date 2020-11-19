@@ -18,7 +18,7 @@ tags:
 ---
 
 "The National est un groupe qui ne m'a jamais vraiment convaincu sur disque mais
-que je sais briller sur scène." [C'est ce que je pouvais dire](581) jusqu'à la
+que je sais briller sur scène." [C'est ce que je pouvais dire][i581] jusqu'à la
 sortie d'_High Violet_.
 
 Peu avant la sortie du disque, leur 5ème, en mai, les vidéos live de _Terrible
@@ -99,3 +99,5 @@ même si globalement, l'édition fut de bonne qualité :
   (3)
 - The National : brillant et intense (5)
 - The Flaming Lips : spectaculaire et original… mais bien peu de musique (2)
+
+[i581]: {% post_url 2010/2010-03-29-the-national-en-visuel %}
