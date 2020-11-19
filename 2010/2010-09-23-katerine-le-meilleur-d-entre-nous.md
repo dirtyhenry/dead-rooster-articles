@@ -29,8 +29,8 @@ Pour fêter cela, Katerine fait très fort avec :
 (edit : ces deux liens ont été retirés par Universal)
 
 L'actualité People de Katerine est elle aussi chargée, puisque la Reine
-d'Angleterre lui chie à la raie (ce qui n'est pas sans rappeler
-[le dernier titre de Jean-Pierre Caca](XXX)) :
+d'Angleterre lui chie à la raie (ce qui n'est pas sans rappeler [le dernier
+titre de Jean-Pierre Caca][1]) :
 
 {% youtube O8bOFR0Jycs %}
 
@@ -68,5 +68,7 @@ Je le disais, pas de changement au classement :
 ~~Il est encore temps de participer en [cliquant ici][i569] !~~
 
 **Edit** : 2010, c'est fini, le concours est terminé !
+
+[1]: https://jeanpierrecaca.bandcamp.com/track/la-main-nest-pas
 
 [i569]: {% post_url 2010/2010-02-09-concours-katerine-francis-et-ses-peintres %}
