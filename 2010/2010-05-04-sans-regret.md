@@ -7,12 +7,12 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 609
-date: "2010-05-04 12:34:35 +0200"
+cover: regrets-vinyl-cover.jpg
+date: 2010-05-04 12:34:35 +0200
 categories:
   - Catégories
 tags:
   - Concours Katerine
-cover: regrets-vinyl-cover.jpg
 ---
 
 Cette semaine, la reprise de **Katerine, Francis et ses peintres** est _Je ne
@@ -29,4 +29,6 @@ Bien heureusement, personne ne l'a trouvé. Classement inchangé :
 - 4. Marion et David, 4pts
 - 6. Le reste du monde à 0 pt
 
-Il est encore temps de participer en [cliquant ici](569) !
+Il est encore temps de participer en [cliquant ici][i569] !
+
+[i569]: {% post_url 2010/2010-02-09-concours-katerine-francis-et-ses-peintres %}

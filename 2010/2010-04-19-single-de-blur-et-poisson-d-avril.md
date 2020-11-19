@@ -8,15 +8,15 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 595
-date: "2010-04-19 14:47:16 +0200"
+cover: blur-vinyl.png
+date: 2010-04-19 14:47:16 +0200
 categories:
   - Artistes
 tags:
   - Blur
-cover: blur-vinyl.png
 ---
 
-Bientôt [un an après leur reformation pour une courte tournée festivale](514),
+Bientôt [un an après leur reformation pour une courte tournée festivale][i514],
 **Blur** a enregistré un single à l'occasion du
 [Record Store Day](http://www.recordstoreday.com).
 
@@ -30,3 +30,5 @@ album de Blur il doit y avoir, autant éviter d'avoir un _Think Tank 2_ mais, ô
 bonheur, sans atteindre des sommets, _Fool's Day_ repositionne Blur là où ils
 sont les meilleurs, c'est à dire loin de tout ce qui ressemble de près ou de
 loin au dub et à Gorillaz. A suivre donc…
+
+[i514]: {% post_url 2009/2009-07-26-hand-in-hand-through-their-hyde-parklife %}

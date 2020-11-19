@@ -14,7 +14,7 @@ tags:
   - Vidéo Clip
 ---
 
-Je vous avais parlé des **Freelance Whales** [ici](594), ils nous offraient
+Je vous avais parlé des **Freelance Whales** [ici][i594], ils nous offraient
 alors un titre génial, _Generator ^ Second Floor_. Depuis, un album complet est
 sorti : il s'appelle _Weathervanes_, est écoutable en intégralité sur
 [Spotify](http://open.spotify.com/album/4XYtSHEBqUnYbxJ5q3pCze) et
@@ -28,3 +28,5 @@ n'a peut-être pas le même impact qu'être musique d'une pub Levi's mais quand
 même, ça doit aider à se faire connaître :
 
 {% youtube rIpD7hfffQo %}
+
+[i594]: {% post_url 2010/2010-04-13-le-1er-titre-du-printemps %}

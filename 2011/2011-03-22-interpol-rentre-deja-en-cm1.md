@@ -76,8 +76,8 @@ Banks et Kessler sont souriants au moment de quitter la scène : une première
 selon mon expérience. Les concerts d'Interpol sont généralement froids, au bon
 sens du terme. Mieux, ils saluent même presque chaleureusement le public avant
 de nous lâcher un «See you next time», certes peu original mais toujours
-rassurant venant d'un groupe qui
-[aura splitté à de nombreuses reprises sans nous mettre au courant](329).
+rassurant venant d'un groupe qui [aura splitté à de nombreuses reprises sans
+nous mettre au courant][i329].
 
 {% asset interpol-daniel-kessler-live.png %}
 
@@ -125,3 +125,5 @@ La version 10 titres :
 1. _The New_
 1. _Slow Hands_
 1. _Obstacle 1_
+
+[i329]: {% post_url 2006/2006-08-16-quadruple-split-pour-interpol %}

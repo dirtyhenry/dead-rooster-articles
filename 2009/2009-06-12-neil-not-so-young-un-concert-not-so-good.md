@@ -36,10 +36,10 @@ avec sa choriste de femme. Non ! Plutôt perplexe par rapport à ses choix
 artistiques. Comment a-t-on pu ainsi autoriser cette batterie pachydermique sur
 _Hey Hey, My My_ ? Comment a-t-on pu un jour se dire : "Tiens, j'ai une
 excellente idée : on va faire descendre un clavier engoncé dans un coffrage en
-pierre en forme d'oiseau, et cela ne fera absolument pas penser à _Stonehenge_
-dans _Spinal Tap_ !" ? Comment, enfin, peut-on imaginer que rallonger toutes ses
-chansons électriques de 3 minutes avec des solos interchangeables tout en
-distorsion est une bonne idée ?
+pierre en forme d'oiseau, et cela ne fera absolument pas penser à
+[_Stonehenge_][1] dans _Spinal Tap_ !" ? Comment, enfin, peut-on imaginer que
+rallonger toutes ses chansons électriques de 3 minutes avec des solos
+interchangeables tout en distorsion est une bonne idée ?
 
 Enfin, avouons-le, la critique est un peu dure. Et on ne peut pas rester
 insensible à la voix toujours juvénile de Neil, lorsqu'il entonne le _Old Man_
@@ -50,9 +50,4 @@ cachons pas plus longtemps que nous avons passé un bon moment et que si le
 bougre venait à repointer le bout de ses rouflaquettes sous nos contrées, une
 nouvelle visite de la capitale s'imposerait à nous !
 
-<ul>
-        <li><a href="http://www.myspace.com/neilyoung" target="_blank">MySpace Neil Young </a></li>
-	<li><a href="http://www.youtube.com/watch?v=co5V6CSihVk" target="_blank">Rockin' In The Free World</a></li>
-	<li><a href="http://www.youtube.com/watch?v=9oDP5uSIfCo" target="_blank">Heart Of Gold</a></li>
-	<li><a href="http://www.youtube.com/watch?v=T7wcyLrPqC4" target="_blank">Stonehenge par Spinal Tap</a></li>
-</ul>
+[1]: https://www.youtube.com/watch?v=qAXzzHM8zLw

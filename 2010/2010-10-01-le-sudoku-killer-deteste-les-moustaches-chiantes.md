@@ -26,7 +26,7 @@ détesté, entouré de photos chiantes, et on attend l'arrivée du sudoku-killer
 ## 1. Comment rendre une pub marrante ?
 
 En engageant Jason Schwartzman comme acteur et Roman Coppola comme réalisateur
-([tiens, tiens, encore ces deux-là !](201)).
+([tiens, tiens, encore ces deux-là !][i201]).
 
 On y apprend que la moustache, c'est la classe, que plonger hors de l'eau avec
 son iPad c'est la classe et que le whisky c'est la classe, horizontalement ou
@@ -85,4 +85,9 @@ clavier ! Merci aussi de faire attention au sudoku-killer.
 
 (par [The Onion](http://www.theonion.com/) via Julian)
 
-[Le Fun Friday de la semaine dernière.](705)
+[Le Fun Friday de la semaine dernière.][i705]
+
+[i201]: {% post_url 2008/2008-04-02-wes-anderson-schwartzman-deschanel %}
+
+[i705]:
+{% post_url 2010/2010-09-24-ton-grand-pere-et-ses-chiens-indiana-jones-james-mercer-et-des-metalleux-jouent-au-tir-a-la-corde %}

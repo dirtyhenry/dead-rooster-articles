@@ -26,8 +26,8 @@ comments:
 
 ## Les 5 étoiles
 
-On en a déjà parlé [ici](936), Dum Dum Girls est incontestablement le disque du
-mois. Quant à Neutral Milk Hotel (évoqué [ici](680) et [ici](687)), ils sont
+On en a déjà parlé [ici][i936], Dum Dum Girls est incontestablement le disque du
+mois. Quant à Neutral Milk Hotel (évoqué [ici][i680] et [ici][i687]), ils sont
 sous les feux de la rampe puisqu'annonces de reformation et rééditions déboulent
 un peu partout. Si vous voulez investir dans les disques de Jeff Mangum et ses
 sbires, _In the Aeroplane, Over the Sea_ est à se procurer en priorité. Deux
@@ -96,3 +96,11 @@ Réalisée avec [Sortmash](http://sortmash.com).
 
 </ul>
 </div>
+
+[i936]: {% post_url 2011/2011-10-25-dum-dum-girls-only-in-dreams %}
+
+[i680]:
+{% post_url 2010/2010-08-12-the-swell-season-two-headed-boy-neutral-milk-hotel %}
+
+[i687]:
+{% post_url 2010/2010-08-27-neutral-uke-hotel-in-the-aeroplane-over-the-sea-neutral-milk-hotel %}

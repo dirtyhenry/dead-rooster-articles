@@ -1,4 +1,5 @@
 ---
+layout: post
 published: false
 title: Okkervil River - It Was My Season
 authors:

@@ -3,7 +3,9 @@ layout: post
 title: "La Playlist du Top Musique 2014"
 authors:
   - Dirty Henry
-tags: musique top
+tags:
+  - musique
+  - top
 cover: top-musique-2014.png
 cover_alt: Le podium, celui des champions
 description: >

@@ -55,8 +55,8 @@ n’ont jamais été aussi profondes. Mais il y a toujours cette sensation
 d’aventure urbaine que [John Sinclair][1] décrit dans le documentaire. Sinclair
 a toujours été un de mes héros : son parti des
 [White Panther](http://en.wikipedia.org/wiki/White_Panther_Party) a influencé
-mon groupe, les [Soledad Brothers](215), et il a écrit les notes de pochettes de
-mon premier album.
+mon groupe, les [Soledad Brothers][i215], et il a écrit les notes de pochettes
+de mon premier album.
 
 Alors pourquoi Detroit continue de pondre le meilleur rock’n’roll ? A bien des
 égards, la ville s’est arrêtée après les émeutes, il n’y a donc pas de
@@ -86,3 +86,5 @@ En bonus, quelques liens, dont une compile Spotify :
 - [Compile Detroit sur Spotify](http://open.spotify.com/user/dirtyhenry/playlist/1RLY05XUpE2GH92qaol6X6)
 
 [1]: https://fr.wikipedia.org/wiki/John_Sinclair_(poète)
+
+[i215]: {% post_url 2008/2008-08-29-soleded-brothers-next %}

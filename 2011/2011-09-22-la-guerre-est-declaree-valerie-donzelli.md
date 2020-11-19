@@ -30,7 +30,7 @@ après le léger mais charmant _La Reine des Pommes_, Donzelli réalise là un f
 bien plus ambitieux, parfois sombre mais ne tournant jamais le dos au comique ou
 au burlesque quand une fenêtre s'ouvre pour y jeter un oeil. Cela commence
 d'ailleurs par le choix des prénoms du couple, Roméo et Juliette
-([le genre de fantaisie qui me plaît à tous les coups](268)), qui rappelle celui
+([le genre de fantaisie qui me plaît à tous les coups](XXX)), qui rappelle celui
 des prétendants de l'héroïne de son film précédent : Pierre, Paul et Jacques.
 
 Le ton du film est donc attachant et unique. Par exemple, la plupart des scènes
@@ -78,7 +78,7 @@ pour trouver trace des 5 Gentlemen, visiblement inspiration non négligeable de
 ## _The Bells Tolls Five_ - Peter von Poehl
 
 Avec ce titre de Von Poehl
-(qu'[on avait ici même appelé von proote il y a quelques années](235), nous lui
+(qu'[on avait ici même appelé von proote il y a quelques années](XXX), nous lui
 présentons nos plus plates excuses à ce sujet), on rentre un peu plus dans
 l'atmosphère du film. Très beau titre.
 

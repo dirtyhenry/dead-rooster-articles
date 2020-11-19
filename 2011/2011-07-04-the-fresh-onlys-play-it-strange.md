@@ -31,8 +31,8 @@ guitars and heavy reverb for the lead singing voice makes it an easy and
 seducing introduction, in an atmosphere caribbeanized by organs, xylophones and
 bongas. The second track is a different gear: high-pitched vocals, the bass
 leads the way while the guitar keeps playing this simple but terrific riff that
-concludes the best song of the album, _Waterfall_,
-[that you might have already seen here](706).
+concludes the best song of the album, _Waterfall_, [that you might have already
+seen here][i706].
 
 {% youtube Q2G4ETZvJjU %}
 
@@ -53,10 +53,15 @@ release a lot of stuff : _Play It Strange_ is already the third album of the
 band. We should try to get _The Fresh & Onlys_ and _Grey-Eyed Girls_, the two
 previous albums, as fast as we can.
 
-Let me conclude by this nice anecdote about the fact that
-[people should buy vinyle records again](849). Plus it proves the band is really
-cool. A few minutes after the concert ended, i went close to the stage to ask
-the band if they could sell me their record. The guitarist nodded and gave me
-the 12" record saying: "we sell these 20 euros at the festival but right now,
-just name your price and it will be fine". The deal was set for 12 euros,
-MP3-download-coupon and hand-shake included.
+Let me conclude by this nice anecdote about the fact that [people should buy
+vinyle records again][i849]. Plus it proves the band is really cool. A few
+minutes after the concert ended, i went close to the stage to ask the band if
+they could sell me their record. The guitarist nodded and gave me the 12" record
+saying: "we sell these 20 euros at the festival but right now, just name your
+price and it will be fine". The deal was set for 12 euros, MP3-download-coupon
+and hand-shake included.
+
+[i706]: {% post_url 2010/2010-09-27-compile-mp3-du-net-03 %}
+
+[i849]:
+{% post_url 2011/2011-06-01-plaidoyer-en-faveur-du-retour-du-disque-vinyle %}

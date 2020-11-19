@@ -54,4 +54,7 @@ Colette Renard est décédée cette semaine. Hommage en chanson fun…
 
 {% youtube n3gwyPxS7Yc %}
 
-[Le Fun Friday de la semaine dernière](708)
+[Le Fun Friday de la semaine dernière][i708]
+
+[i708]:
+{% post_url 2010/2010-10-01-le-sudoku-killer-deteste-les-moustaches-chiantes %}

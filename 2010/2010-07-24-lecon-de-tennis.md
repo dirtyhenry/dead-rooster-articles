@@ -16,7 +16,7 @@ tags:
   - Single
 ---
 
-Après les [Dum Dum Girls](588) ou [Best Coast](657), entre autres, la mode est
+Après les [Dum Dum Girls][i588] ou [Best Coast][i657], entre autres, la mode est
 décidément à la girl-pop-lo-fi. Nouveau groupe à compter dans ce genre :
 **Tennis** !
 
@@ -31,3 +31,7 @@ de la musique et aujourd'hui, on leur dit merci bien.
 {% vimeo 13010675 %}
 
 {% vimeo 13658706 %}
+
+[i588]: {% post_url 2010/2010-04-05-prison-la-la %}
+
+[i657]: {% post_url 2010/2010-07-21-best-coast-when-i-m-with-you %}

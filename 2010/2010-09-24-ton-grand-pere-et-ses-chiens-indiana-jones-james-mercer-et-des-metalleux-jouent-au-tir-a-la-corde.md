@@ -63,4 +63,7 @@ plate couture…
 
 [{% asset extrait-clip.png %}](http://www.brokenbells.com/october/)
 
-[Le Fun Friday de la semaine dernière.](701)
+[Le Fun Friday de la semaine dernière.][i701]
+
+[i701]:
+{% post_url 2010/2010-09-17-sociologie-de-la-crise-psychedelique-du-quarantenaire-cynique %}

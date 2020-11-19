@@ -54,7 +54,7 @@ ouvrages :
 Jonathan Coe était jusqu'à présent un auteur qui parle (au sens fort du terme)
 tout en restant très drôle et assez lucide sur le monde qui l'entoure. Depuis
 son dernier ouvrage, Coe a dû découvrir Facebook, le GPS et a probablement relu
-Houellebecq, son partenaire de label (cf. [cet article](223)) pour apporter une
+Houellebecq, son partenaire de label (cf. [cet article][i223]) pour apporter une
 touche de glauque à son portrait de Sim («comme le comique» dit l'ouvrage : je
 suis donc curieux de savoir ce que dit la V.O. à ce sujet, feu Simon Berryer
 serait-il une vedette internationale ?). Mais encore une fois, et malgré une fin
@@ -88,3 +88,5 @@ bizarrement, ne fait que grandir). Je vous quitte avec la bande annonce de _Deep
 Water_ :
 
 {% youtube ePAfjxI4rws %}
+
+[i223]: {% post_url 2009/2009-02-10-bertrand-burgalat-april-march %}

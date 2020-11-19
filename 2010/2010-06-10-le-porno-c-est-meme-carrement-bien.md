@@ -8,14 +8,14 @@ authors:
   - Dirty Henry
 wordpress_id: 627
 cover: the-new-pornographers-live.jpg
-date: "2010-06-10 12:06:42 +0200"
+date: 2010-06-10 12:06:42 +0200
 categories:
   - Catégories
 tags:
   - Single
 ---
 
-[Le précédent single des **New Pornographers** était déjà très bien](611), le
+[Le précédent single des **New Pornographers** était déjà très bien][i611], le
 nouveau, _The Crash Years_, est même encore mieux et dispose d'un clip très
 sympa à base de parapluie qui rappelle à la fois je ne sais plus quel film
 coréen de ces dernières années et la fin du générique de _Juliette, je t'aime_.
@@ -23,3 +23,5 @@ coréen de ces dernières années et la fin du générique de _Juliette, je t'ai
 {% youtube _KZANuDcRO4 %}
 
 [Photo sous licence Creative Commons Paternité 2.0 Générique par **alterna2**](http://www.flickr.com/photos/alterna2/2086706849/)
+
+[i611]: {% post_url 2010/2010-05-06-le-porno-c-est-pas-si-mal-apres-tout %}

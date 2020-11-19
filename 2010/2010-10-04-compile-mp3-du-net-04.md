@@ -54,4 +54,6 @@ Only Knows_, des Beach Boys.
 
 </ul>
 
-[Réécouter la compile #03](706)
+[Réécouter la compile #03][i706]
+
+[i706]: {% post_url 2010/2010-09-27-compile-mp3-du-net-03 %}

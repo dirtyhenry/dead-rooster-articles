@@ -65,4 +65,6 @@ Personne ne marque de point.
 - 9. Le reste du monde à 0 pt
 
 Il est encore temps de participer - mais faut quand même se dêpécher et faire
-une croix sur la 1ère place - en [cliquant ici](569) !
+une croix sur la 1ère place - en [cliquant ici][i569] !
+
+[i569]: {% post_url 2010/2010-02-09-concours-katerine-francis-et-ses-peintres %}

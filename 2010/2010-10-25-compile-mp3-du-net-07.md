@@ -22,7 +22,7 @@ tags:
 Une sélection des meilleurs MP3 légalement disponibles au téléchargement des
 dernières semaines. Au programme cette semaine, beaucoup de VIP : **Pixies**,
 **Weezer** et **Beach Boys**. Pour les distraits, Robin Peckhold est le chanteur
-des [Fleet Foxes](213).
+des [Fleet Foxes][i213].
 
 A noter que sur le lien des Beach Boys, vous trouverez un LP pirate complet :
 _The Beach Boys meets Grateful Dead_. Assez cool.
@@ -51,4 +51,8 @@ gratuitement sur la formidable plateforme de téléchargement bandcamp.
 *Blue Spotted Tail*](http://www.weallwantsomeone.org/2010/08/18/listen-robin-pecknold-live-bootlegs/)</div></li>
 </ul>
 
-[Réécouter la compile #06](715)
+[Réécouter la compile #06][i715]
+
+[i213]: {% post_url 2008/2008-07-29-fleet-foxes %}
+
+[i715]: {% post_url 2010/2010-10-19-compile-mp3-du-net-06 %}

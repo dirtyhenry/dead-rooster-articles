@@ -43,9 +43,9 @@ scénario génial sur l'invasion nazie en Pologne, remaké avec Mel Brooks en 19
 ou _Rendez-Vous/The Shop Around The Corner_ (une des toutes premières comédies
 romantiques de l'histoire).
 
-Notons malgré tout que Cluny Brown rejoint
-[Rusty James dans le clan de ceux qu'on appelle tout le temps par le prénom et le nom de famille](824)
-(la classe) et que
+Notons malgré tout que Cluny Brown rejoint [Rusty James dans le clan de ceux
+qu'on appelle tout le temps par le prénom et le nom de famille][i824] (la
+classe) et que
 [le film est disponible en intégralité à cette adresse](http://video.google.com/videoplay?docid=-4912689158924394462).
 
 La musique qui va avec : rien de bien folichon sinon
@@ -99,8 +99,8 @@ l'occasion d'utiliser.
 Le cinéma à pas cher, des fois c'est bien, parce que ça permet de découvrir des
 pépites qu'on allait voir sur le bout des pieds. En l'occurrence, avant que je
 ne me rende compte que ce film était du même auteur que _Les Petits Ruisseaux_
-(charmante surprise de [2010](769)), je n'allais pas voir ce film d'une complète
-gaieté de coeur.
+(charmante surprise de [2010][i769]), je n'allais pas voir ce film d'une
+complète gaieté de coeur.
 
 Et pourtant, c'est drôle et mimi comme tout, à la croisée des chemins des
 Deschiens (on y croise François Morel mais aussi le plus méconnu Jean-Marc
@@ -136,9 +136,15 @@ Et sinon, par ordre de recommandation :
   valeur artistique du film laissent perplexes.
 - _Very Bad Trip/The Hangover 2_ - Todd Phillips : on rigole gentiment pendant
   98% du film, on rit franchement dans les 2% finaux
-- _Beginners_ - Mike Mills : la sensibilité de Mills est prometteuse,
-  [comme on l'avait déjà dit il y a 5 ans](333), mais il tarde à confirmer dans
-  ce film assez ennuyeux
+- _Beginners_ - Mike Mills : la sensibilité de Mills est prometteuse, [comme on
+  l'avait déjà dit il y a 5 ans][i333], mais il tarde à confirmer dans ce film
+  assez ennuyeux
 - _Animal Kingdom_ - David Michôd : si l'ambiance arrive parfois à être
   prenante, le scénario est bancal et le jeune héros nous convainct que confier
   un premier rôle à Zinédine Zidane ne serait pas une riche idée
+
+[i824]: {% post_url 2011/2011-04-12-cine-club-moi-j-vous-dis-05 %}
+
+[i769]: {% post_url 2011/2011-01-27-top-cine-2010 %}
+
+[i333]: {% post_url 2006/2006-09-18-thumbsucker-mike-mills %}

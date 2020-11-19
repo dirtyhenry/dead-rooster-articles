@@ -11,7 +11,7 @@ cover: les-inconnus-reveillon.png
 date: 2011-12-22 12:33:54 +0100
 ---
 
-La semaine dernière, on a fait [le bilan 2011](969), il est temps de passer aux
+La semaine dernière, on a fait [le bilan 2011][i969], il est temps de passer aux
 résolutions pour 2012.
 
 En 2011, on a essayé de faire un post au moins par semaine. C'est bien mais ça
@@ -59,3 +59,5 @@ Pour ne rien rater de l'actualité du site, trois moyens sont disponibles :
   ces deux canaux y sont agrégées et là aussi, on peut y causer ensemble !
 
 On se revoit en 2012 !
+
+[i969]: {% post_url 2011/2011-12-13-bilan-dead-rooster-2011 %}

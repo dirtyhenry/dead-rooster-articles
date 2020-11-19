@@ -8,7 +8,7 @@ authors:
   - Dirty Henry
 wordpress_id: 631
 cover: nadiya.jpg
-date: "2010-06-17 11:57:21 +0200"
+date: 2010-06-17 11:57:21 +0200
 categories:
   - Catégories
   - Artistes
@@ -32,4 +32,6 @@ Merci bien, personne n'avait osé pronostiqué ça et donc, classement inchangé
 - 4. Marion, David et Loïc, 4pts
 - 7. Le reste du monde à 0 pt
 
-Il est encore temps de participer en [cliquant ici](569) !
+Il est encore temps de participer en [cliquant ici][i569] !
+
+[i569]: {% post_url 2010/2010-02-09-concours-katerine-francis-et-ses-peintres %}

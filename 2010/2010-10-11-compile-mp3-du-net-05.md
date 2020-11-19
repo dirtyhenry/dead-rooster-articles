@@ -45,4 +45,6 @@ et fermer la compile avec une reprise de Katy Perry.
 
 </ul>
 
-[Réécouter la compile #04](709)
+[Réécouter la compile #04][i709]
+
+[i709]: {% post_url 2010/2010-10-04-compile-mp3-du-net-04 %}

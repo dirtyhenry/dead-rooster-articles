@@ -15,7 +15,7 @@ Il y a maintenant presque un an, les magnifiques [The Livingstones I
 Presume][1], dont votre serviteur est le guitariste, sortaient _The Stanley EP_,
 au format numérique seulement, via [le site Bandcamp][1].
 
-Depuis, [j'ai crié ma passion aux disques vinyls](849) et les autres membres du
+Depuis, [j'ai crié ma passion aux disques vinyls][i849] et les autres membres du
 groupe - un certain batteur en tête - m'ont offert un magnifique cadeau : un
 exemplaire d'une série ultra-limitée (2 exemplaires) d'une version 10 pouces de
 _The Stanley EP_. Je les en remercie encore au passage. Mais à l'heure de la
@@ -56,3 +56,6 @@ page Bandcamp][1].
 Tout cela, bien sûr, en attendant, peut-être, un second EP…
 
 [1]: https://thelivingstonesipresume.bandcamp.com
+
+[i849]:
+{% post_url 2011/2011-06-01-plaidoyer-en-faveur-du-retour-du-disque-vinyle %}

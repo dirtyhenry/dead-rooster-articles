@@ -29,4 +29,6 @@ Toujours pas de changement au classement :
 - 4. Marion, David et Loïc, 4pts
 - 7. Le reste du monde à 0 pt
 
-Il est encore temps de participer en [cliquant ici](569) !
+Il est encore temps de participer en [cliquant ici][i569] !
+
+[i569]: {% post_url 2010/2010-02-09-concours-katerine-francis-et-ses-peintres %}

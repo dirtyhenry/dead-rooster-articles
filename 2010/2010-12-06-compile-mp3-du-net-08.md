@@ -46,4 +46,6 @@ A noter qu'une reprise de **Pavement** est au programme.
 *Snow Falls Down*](http://hellholeentrance.blogspot.com/2010/10/kid-trails.html)</div></li>
 </ul>
 
-[Réécouter la compile #07](719)
+[Réécouter la compile #07][i719]
+
+[i719]: {% post_url 2010/2010-10-25-compile-mp3-du-net-07 %}

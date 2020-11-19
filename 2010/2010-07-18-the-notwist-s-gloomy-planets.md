@@ -22,10 +22,11 @@ Que se passe-t-il lorsqu'on prend une chanson géniale, qu'on se fait accompagne
 par un orchestre symphonique et qu'on habille le tout d'une chorégraphie
 lumineuse très classe ? Une vidéo qui donne des frissons.
 
-The Notwist est un groupe inégal mais parfois capable de coups de génies
-([on en parle ici](211)). Le titre _Gloomy Planets_ est l'un de ceux-ci. La
-vidéo est ci-dessous. Merci à
-[how to disappear](http://blog.howtodisappear.org/) de nous l'avoir fait
-remarquer.
+The Notwist est un groupe inégal mais parfois capable de coups de génies ([on en
+parle ici][i211]). Le titre _Gloomy Planets_ est l'un de ceux-ci. La vidéo est
+ci-dessous. Merci à [how to disappear](http://blog.howtodisappear.org/) de nous
+l'avoir fait remarquer.
 
 {% youtube x2qKfzIpoQg %}
+
+[i211]: {% post_url 2008/2008-07-08-the-notwist-devil-you-plus-me %}

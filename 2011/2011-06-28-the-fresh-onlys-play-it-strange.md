@@ -41,8 +41,8 @@ voix sont discrètement épaulées par orgue, xylophone et bongas, histoire de
 caraïber l'ambiance. Le second titre passe la vitesse supérieure, on ajoute des
 choeurs haut perchés, la basse se met à emmener tout son petit monde derrière
 elle tandis que la guitare se cale dans un riff aussi simple que génial qui
-conclut le meilleur titre de l'album, _Waterfall_,
-[déjà référencé dans nos pages dans une compile](706).
+conclut le meilleur titre de l'album, _Waterfall_, [déjà référencé dans nos
+pages dans une compile][i706].
 
 {% youtube Q2G4ETZvJjU %}
 
@@ -64,11 +64,16 @@ contrairement aux La's, The Fresh & Onlys font plein de disques : _Play It
 Strange_ est déjà le troisième LP du groupe. Il va falloir se procurer de toute
 urgence _The Fresh & Onlys_ et _Grey-Eyed Girls_, les albums précédents.
 
-Laissez-moi conclure par une petite anecdote authentique relative au
-[plaidoyer du retour des disques vinyles](849) et prouvant en outre que le
-groupe est très sympa. Quelques instants après leur concert barcelonais, je suis
-allé voir les voir pour savoir s'ils avaient avec eux des exemplaires de leurs
-disques à vendre. Le guitariste acquiesça, et me tendit le précieux 33 tours :
-"on les vend 20 euros sur le site mais bon, donne ce que tu peux ou ce que tu
-veux, et ça ira". La vente se conclut sur 12 euros, coupon de téléchargement des
-MP3 et poignée de main inclus.
+Laissez-moi conclure par une petite anecdote authentique relative au [plaidoyer
+du retour des disques vinyles][i849] et prouvant en outre que le groupe est très
+sympa. Quelques instants après leur concert barcelonais, je suis allé voir les
+voir pour savoir s'ils avaient avec eux des exemplaires de leurs disques à
+vendre. Le guitariste acquiesça, et me tendit le précieux 33 tours : "on les
+vend 20 euros sur le site mais bon, donne ce que tu peux ou ce que tu veux, et
+ça ira". La vente se conclut sur 12 euros, coupon de téléchargement des MP3 et
+poignée de main inclus.
+
+[i706]: {% post_url 2010/2010-09-27-compile-mp3-du-net-03 %}
+
+[i849]:
+{% post_url 2011/2011-06-01-plaidoyer-en-faveur-du-retour-du-disque-vinyle %}

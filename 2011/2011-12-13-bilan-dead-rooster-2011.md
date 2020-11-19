@@ -45,31 +45,31 @@ rigoler mais on a sa fierté)
 Par ailleurs, regardons quel est le top 10 des pages les plus visitées du site
 cette année ?
 
-1. [Concombre tueur](850) : Dead Rooster a fait du chiffre sur la peur des
+1. [Concombre tueur][i850] : Dead Rooster a fait du chiffre sur la peur des
    Français et n'en est pas fier…
-1. [Qui es-tu Nolwenn Leroy ?](789) : qui est aussi notre article le plus
+1. [Qui es-tu Nolwenn Leroy ?][i789] : qui est aussi notre article le plus
    commenté et aura attiré des âmes sensibles à la facétie et au second degré :
    «Avant de critiquer, il faudrait se renseigner», «allez vomir ailleurs»,
    «article dégoûtant», «procédé un peu facile et vulgaire», «écrit avec de la
    merde», «fait honte à la presse française» (putain, Dead Rooster fait partie
    de la presse française ? Champagne les potes !)
-1. [Keren Ann - _101_](814) (bien derrière au niveau des chiffres)
-1. [Top Musique 2010](747)
-1. [Yes](884)
-1. [Keren Ann au Havre](235) (l'un des tous premiers posts du site)
-1. [Le nez de Dorothée sort de sa valise](553)
-1. [Concours Katerine, Francis et ses peintres](569)
-1. [The Doors, c'est trop bien, si, si, c'est vrai](774)
-1. [Hawaï mon cul ouais](497)
+1. [Keren Ann - _101_][i814] (bien derrière au niveau des chiffres)
+1. [Top Musique 2010][i747]
+1. [Yes][i884]
+1. [Keren Ann au Havre][i235] (l'un des tous premiers posts du site)
+1. [Le nez de Dorothée sort de sa valise][i553]
+1. [Concours Katerine, Francis et ses peintres][i569]
+1. [The Doors, c'est trop bien, si, si, c'est vrai][i774]
+1. [Hawaï mon cul ouais][i497]
 
 Un constat s'impose, c'est bien marrant tout ça mais quid des vrais trésors de
-ce site ? Quid de
-[l'article de l'encyclopédie approximative de Jeff Buckley](831), de
-[la critique du second meilleur album de tous les temps](852), ou du
-[psycho-couac provoqué par la mort de Lucien Freud](876) ? Voilà de vrais
-trésors qu'il va nous falloir déterrer ! Nous y reviendrons la semaine prochaine
-dans un autre post intitulé "Feuille de route 2012 Dead Rooster", ou comment
-redonner le moral aux Français pour nous sortir de cette crise !
+ce site ? Quid de [l'article de l'encyclopédie approximative de Jeff
+Buckley][i831], de [la critique du second meilleur album de tous les
+temps][i852], ou du [psycho-couac provoqué par la mort de Lucien Freud][i876] ?
+Voilà de vrais trésors qu'il va nous falloir déterrer ! Nous y reviendrons la
+semaine prochaine dans un autre post intitulé "Feuille de route 2012 Dead
+Rooster", ou comment redonner le moral aux Français pour nous sortir de cette
+crise !
 
 ## Comment devenir un Ninja gratuitement ?
 
@@ -82,12 +82,12 @@ les plus farfelues
 
 **Catégorie "on se sent moins seul"**
 
-- beaucoup de monde parle de [guiguite le hamster](444) et veut des nouvelles
-- beaucoup de monde s'indigne de
-  [la censure de la scène avec "petite vieille" dans _Dumb & Dumber_](576)
-- beaucoup de monde s'interroge sur
-  [la légende urbaine du sanglier qu'on croyait mort et qu'on a enfermé dans le coffre de la voiture](538)
-- beaucoup de monde [n'aime pas les Doors](774) (exemple : the doors c'est d'la
+- beaucoup de monde parle de [guiguite le hamster][i444] et veut des nouvelles
+- beaucoup de monde s'indigne de [la censure de la scène avec "petite vieille"
+  dans _Dumb & Dumber_][i576]
+- beaucoup de monde s'interroge sur [la légende urbaine du sanglier qu'on
+  croyait mort et qu'on a enfermé dans le coffre de la voiture][i538]
+- beaucoup de monde [n'aime pas les Doors][i774] (exemple : the doors c'est d'la
   merde)
 
 **Catégorie "on veut voir des gens tous nus"**
@@ -136,3 +136,37 @@ niveau moyen des Français en orthographe"**
 - sens symbolique du bébé de nirvana
 
 À la semaine prochaine pour les projets de 2012 !
+
+[i850]: {% post_url 2011/2011-06-01-concombre-tueur %}
+
+[i789]: {% post_url 2011/2011-02-24-qui-es-tu-nolwenn-leroy %}
+
+[i814]: {% post_url 2011/2011-04-05-keren-ann-101 %}
+
+[i747]: {% post_url 2011/2011-01-11-top-musique-2010 %}
+
+[i884]: {% post_url 2011/2011-08-20-yes %}
+
+[i235]: {% post_url 2005/2005-05-01-keren-ann-au-havre %}
+
+[i553]: {% post_url 2009/2009-12-09-le-nez-de-dorothee-sort-de-sa-valise %}
+
+[i569]: {% post_url 2010/2010-02-09-concours-katerine-francis-et-ses-peintres %}
+
+[i774]: {% post_url 2011/2011-02-08-the-doors-c-est-trop-bien-si-si-allez %}
+
+[i497]: {% post_url 2009/2009-04-16-hawai-mon-cul-ouais %}
+
+[i831]: {% post_url 2011/2011-05-07-jeff-buckley %}
+
+[i852]: {% post_url 2011/2011-06-15-pulp-different-class %}
+
+[i876]: {% post_url 2011/2011-07-22-psycho-couac %}
+
+[i444]: {% post_url 2008/2008-04-17-histoire-de-la-tele-censuree %}
+
+[i576]: {% post_url 2010/2010-03-08-petite-vieille %}
+
+[i538]: {% post_url 2009/2009-10-18-500-nicolas-et-max %}
+
+[i774]: {% post_url 2011/2011-02-08-the-doors-c-est-trop-bien-si-si-allez %}

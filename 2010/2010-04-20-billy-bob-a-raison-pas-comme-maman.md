@@ -7,12 +7,12 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 596
-date: "2010-04-20 08:57:14 +0200"
+cover: mylene-farmer-maman-a-tort.jpg
+date: 2010-04-20 08:57:14 +0200
 categories:
   - Catégories
 tags:
   - Concours Katerine
-cover: mylene-farmer-maman-a-tort.jpg
 ---
 
 Cette semaine, la reprise de **Katerine, Francis et ses peintres** est _Maman a
@@ -33,4 +33,6 @@ points chacun :
 - 4. Marion, 4pts
 - 5. Le reste du monde à 0 pt
 
-Il est encore temps de participer en [cliquant ici](569) !
+Il est encore temps de participer en [cliquant ici][i569] !
+
+[i569]: {% post_url 2010/2010-02-09-concours-katerine-francis-et-ses-peintres %}
