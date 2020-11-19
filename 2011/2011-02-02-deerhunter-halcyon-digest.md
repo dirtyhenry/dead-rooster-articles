@@ -37,9 +37,8 @@ prouve que Deerhunter devrait avoir sa place sur toute radio qui se respecte.
 Entre ces pépites immédiates, d'autres morceaux se chargent de baisser le tempo
 comme _Sailing_ (qui porte bien son nom : on a l'impression de faire la sieste
 sur un bateau dérivant sur une mer d'huile), _Basement Scene_ ou _Helicopter_ (à
-ne pas confondre avec le titre de Bloc Party, jadis
-[merveilleusement repris par les Hooray Henrys](XXX), il est toujours bon de le
-rappeler).
+ne pas confondre avec le titre de Bloc Party, jadis [merveilleusement repris par
+les Hooray Henrys][1], il est toujours bon de le rappeler).
 
 {% youtube 1mBSOtdOjoc %}
 
@@ -98,4 +97,5 @@ _Mine's Not A High Horse_ des Shins :
 
 {% youtube CyqFhKpdNs0 %}
 
-[i747]: {% post_url 2011/2011-01-11-top-musique-2010 %}
+[i747]: {% post_url 2011/2011-01-11-top-musique-2010 %} [1]:
+https://soundcloud.com/hooray-henrys/helicopter-bloc-party-cover

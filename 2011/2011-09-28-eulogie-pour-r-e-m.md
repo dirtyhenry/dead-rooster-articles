@@ -36,7 +36,7 @@ aujourd'hui.
 
 Déjà, il y a les tubes monstrueux du groupe : _Losing My Religion_, _Shiny Happy
 People_ et _Everybody Hurts_. Toutes ces chansons souffrent bien sûr du
-[syndrome de La Folie des Grandeurs](XXX), mais tels Les Inconnus ou Christian
+[syndrome de La Folie des Grandeurs][i266], mais tels Les Inconnus ou Christian
 Clavier, il est nécessaire de se souvenir qu'avant d'être ce qu'ils sont devenus
 ([insipides](http://youtu.be/-qelka0YcsY) et
 [embarrassants](http://youtu.be/QEKh_BCe190)), ils étaient d'un tout autre
@@ -82,3 +82,5 @@ en a point pour le coeur».
 Et une chanson bonus.
 
 {% youtube nn6nC8U_TFQ %}
+
+[i266]: {% post_url 2005/2005-12-16-le-cdv-en-dvd-les-copains %}
