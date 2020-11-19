@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Zoom sur le Zim
+wordpress_id: 219
 authors:
   - Dirty Henry
 cover: zoom-zim.jpg
