@@ -51,18 +51,17 @@ laissent penser qu'on va avoir un dispensable copier-coller du premier opus
 l'ensemble plus subtil, donnent de l'épaisseur aux Dum Dum Girls qui se montrent
 bien plus ambitieuses et appliquées qu'on n'auraient pu le croire. Le morceau le
 plus bluffant est bien sûr _Coming Down_, chef d'oeuvre mélancolique au tempo
-d'une lenteur inédite pour le groupe (et que vous pouvez écouter sur
-[le premier épisode du podcast Dead Rooster](XXX)). Le titre équilibre l'album,
-sans trahir ses voisins et donne envie de réécouter l'ensemble, encore et
-encore. On se rend alors compte d'une variété de tons dont on n'aurait jamais
-soupçonner le groupe capable (_In My Head_ ou _Hold Your Hand_).
+d'une lenteur inédite pour le groupe. Le titre équilibre l'album, sans trahir
+ses voisins et donne envie de réécouter l'ensemble, encore et encore. On se rend
+alors compte d'une variété de tons dont on n'aurait jamais soupçonner le groupe
+capable (_In My Head_ ou _Hold Your Hand_).
 
 {% asset dee-dee.png %}
 
 Derrière les Dum Dum Girls, il serait difficile de parler de groupe. Il s'agit
 plutôt de Dee Dee
-(ex-[Grand Ole Party](http://www.youtube.com/watch?v=Xziod5qt03k)) et
-[des Ringo-ettes](XXX). Il a donc bien fallu que Dee Dee s'entoure d'un bon
+(ex-[Grand Ole Party](http://www.youtube.com/watch?v=Xziod5qt03k)) et [des
+Ringo-ettes][i277]. Il a donc bien fallu que Dee Dee s'entoure d'un bon
 producteur aux manettes de l'album. Elle en a même pris deux. Le premier
 s'appelle Richard Gottehrer, qui n'a jamais écrit
 [_Le Youki_](http://www.youtube.com/watch?v=Wx7vKvQ4axQ) ou
@@ -81,6 +80,8 @@ Pour conclure, pourquoi "Dum Dum Girls" ? À cause de
 PS : en écrivant ce post, je suis donc tombé sur ce passage dans la critique des
 Inrocks susmentionnée : «contre toute logique physique, le groupe prend un peu
 de hauteur quand il baisse le rythme». C'était finement observé.
+
+[i277]: {% post_url 2006/2006-01-21-ringos %}
 
 [i588]: {% post_url 2010/2010-04-05-prison-la-la %}
 
