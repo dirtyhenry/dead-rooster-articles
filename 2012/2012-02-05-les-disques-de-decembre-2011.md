@@ -146,9 +146,8 @@ tentez-l'écoute. Dans le cas contraire (le mien), laissez tomber.
 ### Esmerine - _La Lechuza_
 
 Le mec de [Bon pour les oreilles](http://www.bonpourlesoreilles.net/) me fait
-parfois découvrir de superbes groupes (le dernier récent étant Other Lives,
-diffusé depuis sur [le podcast #01](XXX)). D'autres fois, non. On est là dans la
-2ème catégorie. Tant pis.
+parfois découvrir de superbes groupes (le dernier récent étant Other Lives).
+D'autres fois, non. On est là dans la 2ème catégorie. Tant pis.
 
 ### Super Heavy - _Super Heavy_
 
