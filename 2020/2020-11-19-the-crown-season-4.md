@@ -1,9 +1,11 @@
 ---
 layout: post
-title: The Crown
+title: "The Crown, Season 4: Politics, Lust, and Loathing"
 author: Alkidel
 lang: en
 ---
+
+{% OiXEpminPms %}
 
 I’m one of those people.
 
