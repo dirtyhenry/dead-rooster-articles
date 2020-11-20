@@ -12,7 +12,7 @@ tags:
 cover: lille-manchester-united.png
 ---
 
-## À l'attention de M. Eric BRAAMHAAR,
+## À l'attention de M. Eric Braamhaar
 
 Cher monsieur, je ne vous aime pas. Hier devant des milliers de spectateurs et
 quelques millions de téléspectateurs, vous avez orchestré la victoire du pot de
@@ -20,7 +20,7 @@ fer contre le pot de terre, baissant votre culotte, sans rougir, devant le
 duelliste le plus puissant. Vous avez apparemment sans doute respecté la loi,
 mais vous n'en avez pas respecté l'esprit.
 
-## À l'attention de M. Ryan GIGGS,
+## À l'attention de M. Ryan Giggs
 
 Cher monsieur, je ne vous aime plus. Un jour, Jean-Michel Larqué, en parlant de
 votre coéquipier Christiano Ronaldo, a dit : "Quand on ne respecte pas le jeu,

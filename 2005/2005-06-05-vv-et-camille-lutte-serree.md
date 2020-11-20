@@ -7,7 +7,7 @@ tags:
   - concert
 ---
 
-## Mercredi 1er juin, café de la danse, concert de Nouvelle Vague.
+## Mercredi 1er juin, café de la danse, concert de Nouvelle Vague
 
 {% asset camille-nouvelle-vague.jpg %}
 
@@ -20,7 +20,7 @@ grandement affaibli le concert. Fantaisie, maîtrise incroyable de la voix, bonn
 humeur… Je pense que tout ceux qui étaient en concert sont tombés amoureux de
 Camille et risquent de le rester assez longtemps.
 
-## Vendredi 3 juin, La Cigale, concert de The Kills.
+## Vendredi 3 juin, La Cigale, concert de The Kills
 
 {% asset the-kills.jpg %}
 

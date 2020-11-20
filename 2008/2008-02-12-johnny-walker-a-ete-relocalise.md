@@ -17,11 +17,11 @@ Les Soledad Brothers étaient déjà le secret le mieux gardé des années 2000.
 Depuis [leur séparation en 2006][i318], je traquais sur internet la moindre
 réapparition de Johnny Walker, Ben Swank ou d'Oliver Henry.
 
-C'est chose faite : Cut In The Hill Gang a publié son MySpace !
+C'est chose faite : Cut In The Hill Gang a publié son [MySpace][1] !
 
 Par pitié, venez vite à Paris !!!
 
-<a href="http://www.myspace.com/cutinthehillgang">http://www.myspace.com/cutinthehillgang</a>
+[1]: https://myspace.com/cutinthehillgang
 
 [i318]:
 {% post_url 2006/2006-06-07-les-soledad-brothers-sont-morts-vivent-les-bellrays %}

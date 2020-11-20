@@ -66,7 +66,7 @@ SM pas bio.
 
 Après toutes ces réjouissances et la découverte d’un site ma foi fort propice
 aux siestes à l’abri du cagnard, place à la musique ! (je ne compte pas B.B.
-Brunes dans cette catégorie). Début timide, avec** Alela Diane**, ou comment
+Brunes dans cette catégorie). Début timide, avec **Alela Diane**, ou comment
 recycler la recette du folk au féminin, déjà suffisamment et plus que
 convenablement exploitée par Cat Power et conso(eu)rs. Certes, c’est pas mal,
 musique parfaite pour cette heure de la journée, mais la frêle Alela ne casse
