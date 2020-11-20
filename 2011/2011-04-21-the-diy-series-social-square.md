@@ -103,7 +103,7 @@ radios. Au final, Social Square se retrouve avec de jolies chroniques sur le web
 chez
 [La Magic Box](http://90plan.ovh.net/~lamagicb/visuArticles.php3?typeArticle=9#4180),
 [Addictif Zine](http://www.addictif-zine.com/accueil/item/2148-social-square-it-vs-you)
-ou [Indessence]http://indessence.net/2010/07/social-square-it-vs-you.html).
+ou [Indessence](http://indessence.net/2010/07/social-square-it-vs-you.html).
 
 Le petit plus sympa vient du blog des Inrocks
 [Gimme Indie Rock](http://blogs.lesinrocks.com/gimmeindierock/) qui a diffusé

@@ -51,7 +51,7 @@ la tournée des stades.
 D'autre part, alors que les groupes de la même époque s'engageaient
 politiquement en faveur de l'arrêt de la guerre du Vietnam, eux s'en
 désintéressaient, et avaient des considérations beaucoup plus écolo, se souciant
-beaucoup du climat (_Have you ever seen the rain ?_, _Who'll stop the rain _) et
+beaucoup du climat (_Have you ever seen the rain ?_, _Who'll stop the rain_) et
 de la nature (_Bad Moon Rising_, _Cotton Fields_).
 
 [i765]: {% post_url 2011/2011-03-19-claude-francois %}

@@ -89,8 +89,8 @@ même si comme dirait mon oncle, ça en touche une sans faire bouger l'autre.
 Attardons nous par contre sur le parcours de **Graham Coxon**. Le guitariste
 avait commencé sa carrière solo bien avant le split avec Blur par trois albums,
 obscurs, sans singles mais vrais joyaux. Puis Blur s'éloigne et le registre solo
-de Graham devient nettement plus pop : la trilogie* The Kiss Of Morning,
-Happiness in Magazines* et _Love Travels at Illegal Speed_ fourmille de singles
+de Graham devient nettement plus pop : la trilogie _The Kiss Of Morning_,
+_Happiness in Magazines_ et _Love Travels at Illegal Speed_ fourmille de singles
 imparables à la hauteur de ses compositions pour Blur (_You're So Great_ et
 _Coffee and TV_) : la candeur pop de _Bittersweet Bundle of Misery_,
 l'immédiateté punk/pop/garage de _Freakin' Out_, _People of The Earth_, _You &

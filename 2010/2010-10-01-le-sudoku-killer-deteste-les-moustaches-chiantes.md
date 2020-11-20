@@ -32,7 +32,7 @@ On y apprend que la moustache, c'est la classe, que plonger hors de l'eau avec
 son iPad c'est la classe et que le whisky c'est la classe, horizontalement ou
 verticalement.
 
-<embed src="http://c.brightcove.com/services/viewer/federated_f8/1827871374" bgcolor="#FFFFFF" flashVars="videoId=617212348001&linkBaseURL=http%3A%2F%2Fwww.newyorker.com%2Fonline%2Fblogs%2Fnewsdesk%2F2010%2F09%2Fjason-schwartzman-ipad-video.html&playerId=1827871374&viewerSecureGatewayURL=https://console.brightcove.com/services/amfgateway&servicesURL=http://services.brightcove.com/services&cdnURL=http://admin.brightcove.com&domain=embed&autoStart=false&" base="http://admin.brightcove.com" name="flashObj" width="466" height="395" seamlesstabbing="false" type="application/x-shockwave-flash" swLiveConnect="true" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></embed>
+{% youtube 7SbXYaP3g4Q %}
 
 (via
 [NewYorker.com](http://www.newyorker.com/online/blogs/newsdesk/2010/09/jason-schwartzman-ipad-video.html))

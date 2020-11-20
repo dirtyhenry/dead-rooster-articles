@@ -38,19 +38,17 @@ probable. Ce titre, c'est le premier de l'album,
 [_Mis-Shapes_](http://www.youtube.com/watch?v=PUqg5DLReJA). Il commence
 mielleusement mais le rythme martial derrière la voix de crooner de M. Cocker
 (qui n'a aucun lien avec l'autre Cocker de Sheffield, Joe, malgré la rumeur)
-annonce un refrain d'un tout autre engagement, l'appel à la résistance que voilà
-:
+annonce un refrain d'un tout autre engagement, l'appel à la résistance que
+voilà :
 
-<quote>
-We're making a move, we're making it now, 
-_ We're coming out of the sidelines
-_ Just put your hands up, it's a raid
-_ We want your homes, we want your lives, 
-_ We want the things you won't allow us
-_ We won't use guns, we won't use bombs,
-_ We'll use the one thing we've got more of
-_ That's our minds
-</quote>
+> We're making a move, we're making it now,  
+> We're coming out of the sidelines  
+> Just put your hands up, it's a raid  
+> We want your homes, we want your lives,  
+> We want the things you won't allow us  
+> We won't use guns, we won't use bombs,  
+> We'll use the one thing we've got more of  
+> That's our minds
 
 Quelques années après sa parution l'album est ressorti avec un CD bonus qui
 s'appelait _Second Class_. C'eut été un autre excellent nom pour cet album tant

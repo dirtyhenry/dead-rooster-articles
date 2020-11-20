@@ -22,14 +22,12 @@ Parmi elles, ce titre : _Europe'N'Roll_.
 
 Extrait des paroles :
 
-<quote>
-Un Arabe dans votre couscous,
-_ Un Allemand dans votre choucroute,
-_ Un Espagnol dans votre paëlla, 
-_ Un Italien dans vos pâtes, 
-_ Ca c'est l'Europe
-_ L'Europe'nRoll !
-</quote>
+> Un Arabe dans votre couscous  
+> Un Allemand dans votre choucroute  
+> Un Espagnol dans votre paëlla  
+> Un Italien dans vos pâtes  
+> Ça c'est l'Europe  
+> L'Europe'N'Roll !
 
 En matière de patriotisme européen, on préférera l'oeuvre de notre voisin Arno
 et son _Putain, Putain_ :
