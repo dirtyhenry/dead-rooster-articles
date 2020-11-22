@@ -11,7 +11,7 @@ description: >
   la face B.
 ---
 
-## Soyons précis !
+## Soyons précis !
 
 Voyez, moi, j'ai toujours été très compile. Les compiles et moi, c'est une
 vieille histoire, commencée tout gosse. Alors quand on parle de compile, faut
@@ -24,7 +24,7 @@ compile Dead Rooster depuis… pfiou, tout ça au moins. Ça nous rajeunit pas. 
 donc, pour fêter ce retour, on vous offre aujourd'hui 20 titres de plus, gratos,
 cadeau, bonus !
 
-## Mais, pourquoi ?
+## Mais, pourquoi ?
 
 Alors là, vous êtes bien indiscrets. Mais comme vous m'êtes sympathiques, je
 m'en vais vous révéler quelques secrets de fabrication d'[_Un Automne
@@ -41,7 +41,7 @@ dans les choix de l'autre pour en tirer la substantifique moelle et vous
 l'offrir sur un plateau d'argent. [_Un Automne 2016_][facea], c'est ça : 10
 titres choisis par Dirty dans les morceaux de Joe et vice-versa.
 
-## Et ça se dit explorateur des temps modernes ?
+## Et ça se dit explorateur des temps modernes ?
 
 "Eh, les gars, 10 titres écoutés en 3 mois, vous tournez en rond hé ! Pis ce
 morceau-là, c'est pas comme si je le connaissais depuis 15 ans !". Bon, alors,
@@ -56,7 +56,7 @@ que Dirty et Joe ont été quand même un peu frustrés de voir que l'autre ~~co
 compère n'avait pas choisi le morceau de pop folk trop bien et hyper cool là !
 Du coup, paf ! Face B !
 
-## Mais c'est moins bien que la face A, non ?
+## Mais c'est moins bien que la face A, non ?
 
 Mieux ou moins bien, on ne sait pas, et de toute façon, on n'est pas là pour
 faire un Top des compiles. Pour concevoir la face B, Dirty et Joe ont dû

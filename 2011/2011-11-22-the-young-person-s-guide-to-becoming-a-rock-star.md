@@ -42,9 +42,9 @@ inscrites à mon agenda, et décidé d'aller m'asseoir sur le canap' du salon à
 place. Canal Jimmy et Comédie! furent les chaînes les plus regardées, car je
 devenais fan de beaucoup trop de séries. Certaines ont eu leur petit moment de
 gloire (genre, _Friends_, si ça vous dit quelque chose, ou _That '70s Show_)
-mais d'autres sont injustement restées méconnus. La première au programme : **
-{The Young Person's Guide To Becoming A Rock Star} ** (_Comment devenir une rock
-star_ en V.F.).
+mais d'autres sont injustement restées méconnus. La première au programme :
+**_The Young Person's Guide To Becoming A Rock Star_** (_Comment devenir une
+rock star_ en V.F.).
 
 La série est née en 1998, c'est-à-dire à peine 3 ans après _(What's the Story)
 Morning Glory?/The Great Escape_ et l'énorme vague britpop d'alors. On y suit

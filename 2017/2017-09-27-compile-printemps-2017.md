@@ -75,7 +75,7 @@ réussi à s'arracher pour aller aider la jeune fille. Le truculent s'invite ici
 lorsque le héros parvient à "remettre sa capote", clin d'œil de Dassin à
 l'affirmation de sa post-puberté.
 
-# Conclusion
+## Conclusion
 
 Notre héros, d'abord passif face aux obstacles de ses vies personnelle et
 professionnelle, va se révéler à lui-même et devenir maître de son destin et de

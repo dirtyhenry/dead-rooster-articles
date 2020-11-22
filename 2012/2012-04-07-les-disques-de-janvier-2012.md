@@ -43,8 +43,13 @@ La mise à jour restera mensuelle ou presque, et on continuera d'alerter ici sur
 la parution des nouveaux contenus.
 
 Bref, ce qu'il faut retenir des disques écoutés en janvier 2012, c'est que les
-meilleurs furent : -_ Girls -_ Pepper Rabbit -_ Brando -_ Nada Surf -\* le
-détail est à lire [à cette adresse](http://app.deadrooster.org/).
+meilleurs furent :
+
+- Girls
+- Pepper Rabbit
+- Brando
+- Nada Surf
+- le détail est à lire [à cette adresse](http://app.deadrooster.org/).
 
 On retiendra aussi que même si Benjamin Biolay produit les disques d'Isabelle
 Boulay, il ne vaut mieux pas les écouter.

@@ -111,7 +111,7 @@ sous tout rapport. Ah oui, vraiment ?
 Sauf si vous n'allumez jamais votre poste de télévision, vous n'êtes pas sans
 savoir que Mlle Leroy a récemment sorti un album de reprises de chansons
 bretonnes qu'elle a finement intitulé _Bretonne_. Quand un artiste de même pas
-30 ans sort un album de reprises, contenant par exemple* Tri Martolod* et _La
+30 ans sort un album de reprises, contenant par exemple _Tri Martolod_ et _La
 Jument de Michao_, on se dit que sa carrière commence certainement à sentir le
 sapin et qu'elle essaie de faire les fonds de poches de fans irréductibles avant
 de se retirer de la vie musicale. Mais la cupidité est-elle sa seule et unique

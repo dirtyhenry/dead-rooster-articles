@@ -91,7 +91,7 @@ communautaire hippie :
   amis car elle était hippie et vivait en communauté - l'homme en question fut
   condamné mais reçut des centaines de lettres de soutien)
 
-## L'herbe et le LSD, oui ! L'alcool et l'héroïne, non !
+## L'herbe et le LSD, oui ! L'alcool et l'héroïne, non !
 
 Pour Sinclair, la jeunesse américaine doit prendre le pouvoir. Il prône un
 message pacifiste, dénigre

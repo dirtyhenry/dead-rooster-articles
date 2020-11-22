@@ -36,13 +36,13 @@ titres du disque est d'avoir un côté davantage "chanson" que d'habitude tout e
 passages instrumentaux richement orchestrés qui nous emportent dans des
 ambiances très différentes d'un morceau à l'autre, voire au sein d'un même
 morceau, tout en préservant l'unité de l'album. Jolie recette, exécutée avec
-maestria, qui aura fait de ce disque [l'un de mes préférés de 2010][5].
+maestria, qui aura fait de ce disque [l'un de mes préférés de 2010][i747].
 
 Parenthèse sur le dernier titre _Fuck Me_, que je trouve très drôle en plus
 d'être très bon : un homme ou une femme, sous l'air de se conter fleurette,
-débitent [des insanités à la Nolwenn Leroy][6] («fuck me, fuck me, make me come
-again») mais finissent la chanson en laissant parler leur cœur («love me, love
-me, make me love again»). TM "trop mimi" voire TTM "trop trop mimi".
+débitent [des insanités à la Nolwenn Leroy][i789] («fuck me, fuck me, make me
+come again») mais finissent la chanson en laissant parler leur cœur («love me,
+love me, make me love again»). TM "trop mimi" voire TTM "trop trop mimi".
 
 ## Le concert
 
@@ -79,7 +79,9 @@ yeux.][4]
 [3]: http://www.youtube.com/watch?v=o8Pu08769NQ
 [4]:
   http://www.dailymotion.com/video/x8v3sm_francis-cabrel-les-murs-de-poussier_music
-[5]: https://deadrooster.org/top-musique-2010/
-[6]: https://deadrooster.org/qui-es-tu-nolwenn-leroy/
 
 [1]: {% post_url 2010/2010-09-02-high-violet-haute-voltige %}
+
+[i747]: {% post_url 2011/2011-01-11-top-musique-2010 %}
+
+[i789]: {% post_url 2011/2011-02-24-qui-es-tu-nolwenn-leroy %}

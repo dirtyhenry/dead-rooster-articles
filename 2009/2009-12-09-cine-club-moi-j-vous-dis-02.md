@@ -89,7 +89,7 @@ que [reprennent de nombreux membres de Youtube][1].
 
 - l'excellent site The Tripwire ne s'y trompe pas et réclame une suite en
   [diffusant cette vidéo][2], où Jason Segel rejoint The Swell Season sur scène
-  (groupe présent sur [la compile ci-présente][3])
+  (groupe présent sur [la compile ci-présente][i546])
 - rendons hommage à la musique des Caraïbes et à un épisode de Madame est Servie
   avec _Kokomo_, des Beach Boys
 
@@ -136,7 +136,7 @@ persister à le découvrir…
 {% spotify 5AyE5iUPNWudqeWZz8rkbU %}
 
 [1]:
-  http://www.youtube.com/results?search_query=forgetting+sarah+marshall+dracula&search_type=&aq=f
-[2]:
-  http://www.thetripwire.com/news/2009/11/20/jason-segel-joins-swell-season-on-stage-does-that-creepy-thing-we-love
-[3]: https://deadrooster.org/compile-printemps-2008/
+  https://www.youtube.com/results?search_query=forgetting+sarah+marshall+dracula&search_type=&aq=f
+[2]: https://youtu.be/qGH8G9STtG0
+
+[i546]: {% post_url 2008/2008-06-30-compile-printemps-2008 %}
