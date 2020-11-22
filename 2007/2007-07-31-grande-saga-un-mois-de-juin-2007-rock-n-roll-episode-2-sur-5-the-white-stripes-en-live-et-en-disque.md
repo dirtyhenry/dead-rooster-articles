@@ -22,7 +22,7 @@ avant-première de la sortie de leur album _Icky Thump_. Le rouge, le noir et le
 blanc sont de mise pour un show certes sans surprise - il ressemble à s'y
 méprendre à leur DVD live sorti il y a quelque temps à l'exception des 3 titres
 du nouvel album - mais d'une efficacité redoutable ! Le nouveau single s'impose
-déjà comme un classique, tandis que* Seven Nation Army*, _Hotel Yorba_
+déjà comme un classique, tandis que _Seven Nation Army_, _Hotel Yorba_
 électrisent la foule conquise d'avance.
 
 ## Les White Stripes en disque, c'est très très fort

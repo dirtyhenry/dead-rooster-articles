@@ -102,8 +102,8 @@ on se tait ! Tout émoustillé, le public se dirige alors vers la petite scène,
 pour assister à LA révélation du festival : **Heavy Trash**. Emmené par ce bon
 vieux Jon Spencer, qui s’est entouré des bons vieux scandinaves de Powersolo
 (quel flair !), ce bon vieux groupe distille du bon vieux wock’n''woll, tout en
-bonne vieille banane et bonne vieille contrebasse ! *Ohhhh, fuckin’ good old
-tune ! *Les titres, impossibles à dater, semblent tous provenir du coffret
+bonne vieille banane et bonne vieille contrebasse ! _Ohhhh, fuckin’ good old
+tune !_ Les titres, impossibles à dater, semblent tous provenir du coffret
 _Rockin’ bones_ de Rhino. Mais peu importe s’ils sont d’hier ou d’aujourd’hui,
 tout cela fonctionne, on voudrait crier “ouh yeahhhh !” toutes les dix secondes,
 mais nos pas de danse fifties demandent trop de concentration pour cela. Après
