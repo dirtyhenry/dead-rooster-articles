@@ -18,7 +18,7 @@ de se révéler décisif pour les 2 coureurs, Arcade Fire s'élance le premier.
 
 {% asset arcade-fire.jpg %}
 
-## Lundi 16 mai 2005, Elysée Montmartre, concert d'Arcade Fire.
+## Lundi 16 mai 2005, Elysée Montmartre, concert d'Arcade Fire
 
 Les barjots arrivent sur scène, après une première partie assurée avec un brio
 relatif par un violoniste du groupe s'autosamplant jusqu'à plus soif (on a
@@ -37,7 +37,7 @@ Bourges un mois plus tôt aura fort à faire pour rattraper le retard.
 
 {% asset bloc-party.jpg %}
 
-## Mercredi 18 mai, La Cigale, concert de Bloc Party.
+## Mercredi 18 mai, La Cigale, concert de Bloc Party
 
 **The Rakes** ouvre pour "la fête de quartier". Le buzz qui entoure le groupe
 semble un peu surfait et, quoiqu'agréable, le concert laisse sur notre faim.
@@ -54,7 +54,7 @@ bien. 2 rappels (une première dixit Kele), un slam de tous les membres du group
 dans la fosse (apparemment non prémédité, voire inédit lui aussi ?) et Bloc
 Party refait encore une fois son retard sur Arcade Fire.
 
-## Le bilan.
+## Le bilan
 
 Nous ne sommes qu'en mai, mais Bloc Party et Arcade Fire sont bien partis pour
 terminer sur le podium en fin de course. Les outsiders Hot Hot Heat et The Kills

@@ -64,14 +64,16 @@ loin de nier l’influence d’Anderson sur son film - et d’admettre que _Rush
 est un film «complètement parfait» -, Ayoade avait surtout dressé une liste
 d’autres influences plus secrètes mais selon lui tout aussi intéressantes. Voilà
 quelques items des influences, de quoi nourrir quelques futurs
-[ciné-club moi j’vous dis](http://www.deadrooster.org/spip.php?page=recherche&recherche=cin%C3%A9+club+dis)
-: -* [*The Ice Storm*](http://www.imdb.com/title/tt0119349/), d’Ang Lee
-(1997) -* [_Flirting_](http://www.imdb.com/title/tt0101898/), de John Duigan
-(1991) -* [*Show Me Love*](http://www.imdb.com/title/tt0150662/), de Lukas
-Moodysson (1998) -*
-[_The Heartbreak Kid_](http://www.imdb.com/title/tt0068687/), d’Elaine May
-(1972) -* [*Billy Liar\*](http://www.imdb.com/title/tt0056868/), de John
-Schlesinger (1963)
+[ciné-club moi j’vous dis](http://www.deadrooster.org/spip.php?page=recherche&recherche=cin%C3%A9+club+dis) :
+
+- [_The Ice Storm_](http://www.imdb.com/title/tt0119349/), d’Ang Lee (1997)
+- [_Flirting_](http://www.imdb.com/title/tt0101898/), de John Duigan (1991)
+- [_Show Me Love_](http://www.imdb.com/title/tt0150662/), de Lukas Moodysson
+  (1998)
+- [_The Heartbreak Kid_](http://www.imdb.com/title/tt0068687/), d’Elaine May
+  (1972)
+- [_Billy Liar_](http://www.imdb.com/title/tt0056868/), de John Schlesinger
+  (1963)
 
 Une des ressemblances les plus marquantes entre _Submarine_ et les films
 d’Anderson est dans l’usage de l’uniforme. Oliver et Jordana, les deux héros de
@@ -85,9 +87,10 @@ d’ailleurs ce
 les costumes des films de Wes Anderson par le site
 [Redingote](http://redingote.fr/).
 
-Finissons en vrac : -\* _White Noise_, de Don DeLillo, est le livre préféré de
-Joe Dunthorne (source
-[ici](http://www.independent.co.uk/arts-entertainment/books/features/one-minute-with-joe-dunthorne-novelist-2331732.html))
--\* Wes Anderson fait tailler ses costards chez [Mr. Ned](http://mrnednyc.com/),
-à New York (source
-[ici](http://www.nytimes.com/2004/09/19/style/tmagazine/MAN12))
+Finissons en vrac :
+
+- _White Noise_, de Don DeLillo, est le livre préféré de Joe Dunthorne (source
+  [ici](http://www.independent.co.uk/arts-entertainment/books/features/one-minute-with-joe-dunthorne-novelist-2331732.html))
+- Wes Anderson fait tailler ses costards chez [Mr. Ned](http://mrnednyc.com/), à
+  New York (source
+  [ici](http://www.nytimes.com/2004/09/19/style/tmagazine/MAN12))

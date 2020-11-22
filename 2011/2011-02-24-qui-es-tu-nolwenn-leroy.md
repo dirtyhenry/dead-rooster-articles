@@ -126,22 +126,20 @@ par Alan Stivell :
 Bon, bien sûr, vous n'avez rien compris, vu que les paroles sont en breton… Mais
 voici une traduction des paroles :
 
-<quote>
-Au pardon de Spezet, Je suis allé 
-_ J'y ai trouvé une jeune fille
-_ Nous avons couché dans un grand champ
-_ J'ai attrapé la vérole
-_ 
-_ A l'hôpital, on m'a envoyé
-_ J'ai été mis sur une grande table
-_ Et ma grosse queue on a coupée
-_ Par la fenêtre on l'a jetée
-_ 
-_ Un gros chien-loup est passé
-_ Et ma grosse queue il a mangé
-_ Et ma grosse queue il a mangé
-_ Et le chien-loup, il est mort
-</quote>
+> Au pardon de Spezet, Je suis allé  
+> J'y ai trouvé une jeune fille  
+> Nous avons couché dans un grand champ  
+> J'ai attrapé la vérole
+>
+> A l'hôpital, on m'a envoyé  
+> J'ai été mis sur une grande table  
+> Et ma grosse queue on a coupée  
+> Par la fenêtre on l'a jetée
+>
+> Un gros chien-loup est passé  
+> Et ma grosse queue il a mangé  
+> Et ma grosse queue il a mangé  
+> Et le chien-loup, il est mort
 
 Vous l'aurez compris, Nolwenn se fait là la porte-parole de moeurs plus que
 douteuses, et essaie de souffler à l'oreille de son public les dégueulasseries

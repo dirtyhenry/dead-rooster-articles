@@ -114,15 +114,11 @@ de souvenirs pour être évoqués : **Izia** et **Papier Tigre**, trop tôt,
 sandwiches au foie gras, **Vitalic**, trop loin de la scène où se préparait le
 couple Spencer…
 
-- Jim Jones Revue : http://www.myspace.com/thejimjonesrevue
-
-- Franz Ferdinand : http://www.myspace.com/franzferdinand
-
-- Gossip : http://www.myspace.com/gossipband
-
-- Sleepy Sun : http://www.myspace.com/sleepysun
-
-- Zone Libre : http://www.myspace.com/librezone
+- [Jim Jones Revue](http://www.myspace.com/thejimjonesrevue)
+- [Franz Ferdinand](http://www.myspace.com/franzferdinand)
+- [Gossip](http://www.myspace.com/gossipband)
+- [Sleepy Sun](http://www.myspace.com/sleepysun)
+- [Zone Libre](http://www.myspace.com/librezone)
 
 Et en bonus :
 

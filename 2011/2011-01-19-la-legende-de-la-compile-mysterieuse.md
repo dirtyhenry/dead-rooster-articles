@@ -3,7 +3,7 @@ layout: post
 title: La légende de la compile mystérieuse
 description:
   "Voici un conte inspiré de faits réels : la légende de la compile mystérieuse
-  ! "
+  !"
 authors:
   - Dirty Henry
 wordpress_id: 761
@@ -55,7 +55,7 @@ faire défiler les plus grandes figures de la musique tout en prenant le soin
 maniaque de ne jamais choisir l'un des tubes majeurs du groupe, leur préférant
 des titres plus méconnus mais tout aussi délicieux. Ainsi le Jefferson Airplane
 jouait _White Rabbit_ et pas _Somebody To Love_, The Clash jouait _Lost In The
-Supermarket_ et pas* Should I Stay Or Should I Go* et les Ramones jouaient
+Supermarket_ et pas _Should I Stay Or Should I Go_ et les Ramones jouaient
 _Rockaway Beach_ et pas _Blitzkrieg Bop_.
 
 Bien sûr, il y avait des tâches d'ombre sur cette compile. Le titre _Brazil_ de

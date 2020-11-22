@@ -108,7 +108,7 @@ N.B. : le vendeur de BD des Simpsons s'intéressera aussi aux remixes de
 Fantomas, qu'on peut trouver
 [sur YouTube](http://www.youtube.com/watch?v=4AqOg_cF1IU) (le monde va mal !).
 
-### Les autres
+### Les autres films à voir en DVD
 
 - _L'année du dragon_ - Michael Cimino (1985) : remake du Parrain où on remplace
   la Sicile par la Chine, le film prouve surtout que
@@ -146,7 +146,7 @@ récompensera les plus patients.
 Une scène de tsunami complètement incroyable et très spectaculaire (au bon sens
 du terme), après on s'ennuie ferme et on tend des mouchoirs à ses voisines…
 
-### Les autres
+### Les autres films à voir au ciné
 
 - _Harry Potter and the Deathly Hallows - Part 1_ - David Yates : bon ben on a
   commencé la série alors on va aller au bout hein !

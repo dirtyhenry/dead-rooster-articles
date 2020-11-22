@@ -61,7 +61,7 @@ Sinon, le concert de Dionysos était bien.
 
 ## Chapitre 2. Les Eurockéennes
 
-### Vendredi.
+### Vendredi
 
 La voiture a une batterie neuve. On part de Paris à 10 heures, pour un trajet
 que Mappy estime à 5 heures et on arrive pour les 2 dernières secondes du
@@ -77,7 +77,7 @@ voiture-courses au Carrefour à Dijon sont sûrement responsables.
 Enfin les concerts de Dionysos (encore eux !!!) et des Strokes étaient très
 bien.
 
-### Samedi.
+### Samedi
 
 La journée commence par un diagnostic automobile déplaisant : la voiture ne
 pourra pas repartir à Paris sans réparation le lundi. Il faudra repasser au
@@ -93,21 +93,21 @@ d'un écran géant, avec un petit Portugal-Angleterre en apéritif.
 Retour sur le site du festival pour le concert de Katerine ! Excellent tes
 potes ! Mais on n'ira pas plus loin, on commence à être salement rôtis.
 
-### Dimanche.
+### Dimanche
 
 Enfin… Une journée 100% ! On a pu faire l'ouverture des portes, et je suis resté
 jusqu'à la fin ! Programme copieux avec : Duchesse says, My baby wants to eat
 your pussy (!), Islands, Art Brut, Aberfelby, We are wolves, Archive, Muse. Pas
 mal, pas mal… mais un peu tard…
 
-### Lundi.
+### Lundi
 
 Comme on aurait pu s'en douter, le garage n'a pas les pièces. Il va falloir
 abandonner la 205 sur place le temps de la réparation et rentrer à Paris en
 train. C'est pas grave, l'assurance rapatriera la voiture plus tard. Que nenni
 me répond-elle ! Il faut que j'aille la chercher moi-même.
 
-## Epilogue.
+## Épilogue
 
 Nous somme le 8 juillet 2006. J'écris ce petit mot de Vesoul. Je suis dans le
 train qui me conduit à Belfort pour récupérer ma voiture. Il est 10h29.

@@ -53,11 +53,10 @@ musique du film. Nous y revenons très vite.
 Mrs. Robinson, c'est fait, maintenant, qui pour Benjamin ? Robert Redford est
 pressenti mais ne convainc pas Nichols qui s'en explique ainsi à l'acteur :
 
-<quote>
-Nichols : « Well, let's put it this way, have you ever struck out with a girl?" 
-_ Redford : — What do you mean?
-_ Nichols : — That's precisely my point. »
-</quote>
+> Nichols : « Well, let's put it this way, have you ever struck out with a
+> girl?"  
+> Redford : — What do you mean?  
+> Nichols : — That's precisely my point. »
 
 Pendant ce temps-là, Dustin Hoffman, un jeune acteur au profil plus adapté
 s'apprête à jouer dans le film _The Producers_ de Mel Brooks (un film

@@ -97,5 +97,6 @@ _Mine's Not A High Horse_ des Shins :
 
 {% youtube CyqFhKpdNs0 %}
 
-[i747]: {% post_url 2011/2011-01-11-top-musique-2010 %} [1]:
-https://soundcloud.com/hooray-henrys/helicopter-bloc-party-cover
+[1]: https://soundcloud.com/hooray-henrys/helicopter-bloc-party-cover
+
+[i747]: {% post_url 2011/2011-01-11-top-musique-2010 %}

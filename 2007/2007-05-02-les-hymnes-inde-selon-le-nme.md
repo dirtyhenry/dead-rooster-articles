@@ -32,7 +32,7 @@ penser que Vertigo est et demeurera le meilleur titre des Libertines ?!)
 7. The Smiths - _How Soon Is Now?_
 8. The Stone Roses - _I Am The Resurrection_
 9. The Strokes - _Last Nite_
-10. Arctic Monkeys - _I Bet You Look Good On The Dancefloor' _
+10. Arctic Monkeys - _I Bet You Look Good On The Dancefloor_
 11. The Smiths - _This Charming Man_
 12. The Stone Roses - _She Bangs The Drums_
 13. The Libertines - _Can't Stand Me Now_

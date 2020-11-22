@@ -27,8 +27,7 @@ Jarry**.
 Ils ont d'ailleurs publié un album, _Udolpho_, disponible en écoute intégrale
 sur Spotify.
 
--* [*3 Guys Never In* sur
-Spotify](http://open.spotify.com/album/05A5G9yZfz3fO4KyjAwj1q)… *From Love To
-Despair*, *Some girls say I'm bigger than others* et *Sinking in 'avril'_ sont
-mes favorites -_
-[_Udolpho_ sur Spotify](http://open.spotify.com/album/6vT1mHQFVKQHPGgqHYOMeY)
+- [_3 Guys Never In_ sur Spotify](http://open.spotify.com/album/05A5G9yZfz3fO4KyjAwj1q)…
+  _From Love To Despair_, _Some girls say I'm bigger than others_ et _Sinking in
+  'avril'_ sont mes favorites
+- [_Udolpho_ sur Spotify](http://open.spotify.com/album/6vT1mHQFVKQHPGgqHYOMeY)
