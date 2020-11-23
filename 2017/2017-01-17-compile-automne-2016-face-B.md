@@ -11,7 +11,7 @@ description: >
   la face B.
 ---
 
-## Soyons précis !
+## Soyons précis
 
 Voyez, moi, j'ai toujours été très compile. Les compiles et moi, c'est une
 vieille histoire, commencée tout gosse. Alors quand on parle de compile, faut
