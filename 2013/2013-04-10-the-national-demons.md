@@ -12,7 +12,7 @@ premier titre du successeur de [_High Violet_][i696] est en écoute ici :
 
 {% youtube N527oBKIPMc %}
 
-Réécouter [_Exile, Velify_][i901] et une version live de [_Terrible Love_][i788]
+Réécouter [_Exile, Velify_][i901].
 
 via
 [Pitchfork](http://pitchfork.com/news/50230-listen-to-the-nationals-new-single-demons/)
@@ -20,5 +20,3 @@ via
 [i696]: {% post_url 2010/2010-09-02-high-violet-haute-voltige %}
 
 [i901]: {% post_url 2011/2011-09-06-the-national-exile-vilify %}
-
-[i788]: {% post_url 2011/2011-02-25-the-national-terrible-love-live %}
