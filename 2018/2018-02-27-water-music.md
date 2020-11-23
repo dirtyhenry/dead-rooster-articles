@@ -15,7 +15,7 @@ Faut-il parler compile quand on fait un article sur une compile ? Ne se
 suffit-elle pas à elle-même ? En l'occurrence, pour la face A de l’Automne 2017
 selon Dead Rooster, j’avais le choix.
 
-## Ciao les artistes !
+## Ciao les artistes
 
 J'aurais d'abord pu évoquer les quelques disparus mis à l'honneur ici. Pas mal
 de matière s'offrait à moi. Et déjà, le débat : "pour ou contre Johnny ?". Trop
@@ -37,7 +37,7 @@ d'auto-congratulation !
 
 {% asset simpsons-rock.png %}
 
-## Paf le chien !
+## Paf le chien
 
 Sinon, j'aurais pu faire un article désopilant, évoquant les morceaux funs de la
 compile. Mener une enquête de fond sur Marie Möör : qui est-elle ? Quelle est la
@@ -74,7 +74,7 @@ two, excusez du peu.
 
 {% youtube JxCg_ROKfcU %}
 
-## Le bouquin ?
+## Le bouquin ?
 
 Non, c'est décidé, je ne parlerai pas de musique, mais plutôt d'un excellent
 roman : _Water Music_, de T.C. Boyle. Alors, bien sûr, je vous vois venir, tous
