@@ -12,8 +12,8 @@ _Lysandre_, son premier album solo.
 
 {% youtube QWba2_HxpjQ %}
 
-Les nostalgiques de Girls peuvent toujours
-[réécouter _Honey Bunny_](http://www.deadrooster.org/Girls-Honey-Bunny).
+Les nostalgiques de Girls peuvent toujours [réécouter _Honey Bunny_][i919]).
 
-(via
-[Pitchfork](http://pitchfork.com/news/49888-watch-christopher-owens-here-we-go-video/))
+(via Pitchfork)
+
+[i919]: {% post_url 2011/2011-10-04-girls-honey-bunny.md %}

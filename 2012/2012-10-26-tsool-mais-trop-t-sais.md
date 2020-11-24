@@ -18,10 +18,9 @@ tags:
 
 Hé les copains, vous vous souvenez ? Y a 2 ans là ! Mais si ! Je vous parlais de
 mon groupe suédois inconnu (ou pas assez connu) du moment là ! **The Soundtrack
-Of Our Lives** ! Non ? Pfff… Bon,
-[rattrapage pour tout le monde](http://www.deadrooster.org/TSOOL-Nan-toi-tu-soules)
-! Après cette lecture fort instructive, j'en suis sûr, vous vous dites : "oui,
-et alors, quoi maintenant ?" Eh bien, plein de nouveautés concernant la bande à
+Of Our Lives** ! Non ? Pfff… Bon, [rattrapage pour tout le monde][itsool] !
+Après cette lecture fort instructive, j'en suis sûr, vous vous dites : "oui, et
+alors, quoi maintenant ?" Eh bien, plein de nouveautés concernant la bande à
 Lars, Niels ou un truc du genre (après vérification, y a un Kalle, un Fredrik,
 un Björn, j'y étais presque).
 
@@ -71,12 +70,10 @@ j'ai réalisé que ce n'était pas si grave. Que j'avais finalement assez de
 chansons du groupe pour passer plusieurs hivers au chaud, et que si un jour je
 me lasse, je pourrai aussi réécouter les intégrales de **Love** qui n'existe
 plus non plus, des **Who** (enfin, jusqu'à la période "salopette de garagiste")
-ou des **Rolling Stones** qui,
-[hélas](http://www.deadrooster.org/The-Rolling-Stones-Doom-And-Gloom), existent
-encore. Cela dit, la séparation n'est pas encore totalement consommée et le
-groupe s'offrira au public suédois 6 soirs de suite en décembre. Chaque soir, un
-album de la discographie joué en intégralité. On aimerait y être, on aimerait
-être suédois.
+ou des **Rolling Stones** qui, [hélas][i1126], existent encore. Cela dit, la
+séparation n'est pas encore totalement consommée et le groupe s'offrira au
+public suédois 6 soirs de suite en décembre. Chaque soir, un album de la
+discographie joué en intégralité. On aimerait y être, on aimerait être suédois.
 
 Bon vent messieurs et merci pour tout !
 
@@ -105,3 +102,7 @@ beautés cachées) :
 1. _Second Life Replay_
 1. _Throw It To The Universe_
 1. _Where's The Rock ?_
+
+[itsool]: {% post_url 2010/2010-05-12-tsool-nan-toi-tu-soules.md %}
+
+[i1126]: {% post_url 2012/2012-10-22-the-rolling-stones-doom-and-gloom.md %}

@@ -77,23 +77,21 @@ cover: william-faulkner.png
 
 En ces temps de "best of", de "meilleur de 2009", de "top five" et autre "top of
 the pops", il serait superflu de proposer notre bilan de l'année (de toute
-façon, c'est simple, le disque de l'année, c'est
-_[La Superbe](http://www.deadrooster.org/Du-beau-du-bon-du-Biolay)_ de Benjamin
-Biolay et la chanson de l'année, c'est _Brandt Rhapsodie_ de Benjamin Biolay).
-Il faut donc trouver un autre sujet de discussion musicale. Et pourquoi ne
-parlerait-on pas de **Jason Falkner** ? Oui, pourquoi pas, hein ?
+façon, c'est simple, le disque de l'année, c'est _[La Superbe][i542]_ de
+Benjamin Biolay et la chanson de l'année, c'est _Brandt Rhapsodie_ de Benjamin
+Biolay). Il faut donc trouver un autre sujet de discussion musicale. Et pourquoi
+ne parlerait-on pas de **Jason Falkner** ? Oui, pourquoi pas, hein ?
 
-Alors contrairement à
-_[certains](http://www.deadrooster.org/Good-Evening-Sir-Paulo)_, et même s'il a
-bossé avec, il n'est ni inutile, ni insultant de présenter Jason Falkner. Avant
-tout, on a envie de dire que Jason, c'est un mec sympa ! Y a qu'à voir la liste
-des gens avec qui il a collaboré au cours de ces dernières années : Paulo donc,
-mais aussi Beck, Air, Daniel Johnston, Brendan Benson. Il semblerait qu'il
-suffit de l'appeler pour que, tout de suite, le brave Jason rapplique. En même
-temps, vu qu'il fait tout sur ses propres albums (Qui écrit les chansons ? C'est
-lui ! Qui joue de tous les instruments ? C'est lui ! La production ? C'est lui !
-Je vous laisse deviner qui est derrière la table de mixage…), on comprend qu'il
-doit avoir envie de voir du monde de temps en temps.
+Alors contrairement à _[certains][i557]_, et même s'il a bossé avec, il n'est ni
+inutile, ni insultant de présenter Jason Falkner. Avant tout, on a envie de dire
+que Jason, c'est un mec sympa ! Y a qu'à voir la liste des gens avec qui il a
+collaboré au cours de ces dernières années : Paulo donc, mais aussi Beck, Air,
+Daniel Johnston, Brendan Benson. Il semblerait qu'il suffit de l'appeler pour
+que, tout de suite, le brave Jason rapplique. En même temps, vu qu'il fait tout
+sur ses propres albums (Qui écrit les chansons ? C'est lui ! Qui joue de tous
+les instruments ? C'est lui ! La production ? C'est lui ! Je vous laisse deviner
+qui est derrière la table de mixage…), on comprend qu'il doit avoir envie de
+voir du monde de temps en temps.
 
 Mais surtout, Jason, c'est un peu notre ami imaginaire qui existerait vraiment
 mais qui ne saurait pas que c'est notre ami (oui, donc, finalement, "un ami
@@ -147,3 +145,7 @@ Liens :
   (_Miss Understanding_ à écouter en priorité)
 - le [site officiel](http://www.jasonfalkner.net)
 - le [myspace](http://www.myspace.com/jasonfalkner)
+
+[i542]: {% post_url 2009/2009-11-05-du-beau-du-bon-du-biolay.md %}
+
+[i557]: {% post_url 2009/2009-12-22-good-evening-sir-paulo.md %}

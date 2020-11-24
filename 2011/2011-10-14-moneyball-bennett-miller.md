@@ -46,9 +46,9 @@ baseball. Cadeau pour les Français, on peut même regarder le film en se mettan
 en tête que finalement, Brad Pitt joue un peu
 [le rôle de Guy Roux](http://www.lemeilleurdupsg.com/images/news/image/Autres/Guy_Roux.jpg),
 chose cocasse s'il en est. La version française sort le 16 novembre, s'appelle
-_Le Stratège_ ([encore](http://www.deadrooster.org/Suceur-de-pouce-difficile-et)
-une bonne idée non ?) et maintenant que j'habite à Boston, je ne me priverai pas
-de me la péter en parlant des films avant leur sortie en France.
+_Le Stratège_ ([encore][i333] une bonne idée non ?) et maintenant que j'habite à
+Boston, je ne me priverai pas de me la péter en parlant des films avant leur
+sortie en France.
 
 Côté bande-son, on est aussi assez gâté. La bande originale est signée Mychael
 Danna (le même que pour _Little Miss Sunshine_), la version light de
@@ -76,3 +76,5 @@ _Dirty Water_, des Standells, l'un des meilleurs tubes de garage de tous les
 temps.
 
 {% youtube 5apEctKwiD8 %}
+
+[i333]: {% post_url 2006/2006-09-18-thumbsucker-mike-mills.md %}

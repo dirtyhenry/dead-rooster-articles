@@ -15,7 +15,7 @@ lead-paragraph: true
 
 C’est janvier, ça fait longtemps qu’on ne l’a pas fait mais ne serait-ce pas le
 temps de faire un petit Top musical de l'année passée, [comme au bon vieux
-temps][top-2011] ?
+temps][i984] ?
 
 ## Le Top
 
@@ -113,7 +113,6 @@ Interpol a sorti un album de très honorable facture, les autres aussi. Ce ne
 sont plus les artistes et groupes excitants de leur début, mais ils déçoivent
 peu. C'est tout à leur honneur.
 
-[top-2011]: http://www.deadrooster.org/Top-Musique-2011
 [magicrpm]: http://www.magicrpm.com
 [labelpop-podcast]: https://www.francemusique.fr/emission/label-pop
 [bravo-maestro-classe-americaine]: http://youtu.be/RQeLeRMRrTM
@@ -127,3 +126,5 @@ peu. C'est tout à leur honneur.
   https://www.youtube.com/watch?v=n8x1T_-XfMY
 
 [1]: {% post_url 2015/2015-02-26-neutral-milk-hotel %}
+
+[i984]: {% post_url 2012/2012-01-18-top-musique-2011.md %}

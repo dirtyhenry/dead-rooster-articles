@@ -10,8 +10,9 @@ category: Le monde va mal
 ---
 
 [Les émissions musicales de France Inter sont désormais disponibles en
-podcasts…][1] 8 mois après [l'arrêt de C'est Lenoir][2]. Le monde va mal !
+podcasts…][1] 8 mois après [l'arrêt de C'est Lenoir][i890]. Le monde va mal !
 
 [1]:
   http://www.franceinter.fr/evenement-toutes-les-musiques-sont-podcastables-sur-france-inter
-[2]: https://deadrooster.org/finies-les-carresses-et-bises-a-l-oeil/
+
+[i890]: {% post_url 2011/2011-08-26-finies-les-carresses-et-bises-a-l-oeil.md %}

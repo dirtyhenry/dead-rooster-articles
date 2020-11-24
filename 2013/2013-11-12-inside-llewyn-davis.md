@@ -18,10 +18,10 @@ frères Coen aiment le folk.
 d'un chanteur de folk dans Greenwich Village à un moment clé de l'histoire du
 folk : l'hiver 61, quand un certain Robert Zimmerman, en provenance du
 Minnesota, pose ses valises dans le froid de New York (si tu sais pas qui c'est
-Robert Zimmerman, faut que tu lises [ça][2]). De plan lose en plan lose, on va
-suivre le quotidien de Llewyn (trouver un endroit où dormir ce soir, s'engueuler
-avec sa soeur, sa copine illégitime ou les parents de son ancien partenaire de
-duo, retrouver un chat) et aussi l'entendre chanter.
+Robert Zimmerman, faut que tu lises [ça][i219]). De plan lose en plan lose, on
+va suivre le quotidien de Llewyn (trouver un endroit où dormir ce soir,
+s'engueuler avec sa soeur, sa copine illégitime ou les parents de son ancien
+partenaire de duo, retrouver un chat) et aussi l'entendre chanter.
 
 Les frères Coen et moi, c'est une histoire compliquée : j'adore la moitié de
 leurs films, l'autre m'ennuie terriblement. Ce coup-ci, _Inside Llewyn Davis_
@@ -66,7 +66,7 @@ vainqueur de l'oscar de la meilleure chanson originale en 2010.
 
 {% youtube z8monRJzzvU %}
 
-[On parle de la suite très vite][7]…
+[On parle de la suite très vite][ioutll]…
 
 ## Bonus
 
@@ -77,10 +77,12 @@ les couleurs… et un magicien pour transformer une fille en chat) ?
 {% asset llewyn-dylan.png %}
 
 [1]: http://www.allocine.fr/film/fichefilm_gen_cfilm=195051.html
-[2]: https://deadrooster.org/zoom-sur-le-zim/
 [3]: http://en.wikipedia.org/wiki/Jake_Johnson
 [4]:
   http://www.crushable.com/2013/07/02/entertainment/inside-llewyn-davis-movie-trailer-justin-timberlake/
 [5]: http://en.wikipedia.org/wiki/Mumford_%26_Sons
 [6]: http://en.wikipedia.org/wiki/The_Big_Lebowski
-[7]: https://deadrooster.org/outside-llewyn-davis/
+
+[i219]: {% post_url 2008/2008-10-27-zoom-sur-le-zim.md %}
+
+[ioutll]: {% post_url 2013/2013-12-03-outside-llewyn-davis.md %}
