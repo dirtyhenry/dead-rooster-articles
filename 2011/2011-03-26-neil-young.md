@@ -38,8 +38,8 @@ Et même double _lose_ lorsqu'on prête l'oreille à la production d'alors
 (_Re-ac-tor_ ou _Trans_ par exemple) : Neil Young a choisi, avec cette décennie
 naissante, de tourner le dos aux grosses guitares et aux saturations des débuts
 pour composer des choses beaucoup plus folk et acoustiques (comme tous les
-grunges, [Nirvana](http://www.deadrooster.org/Nirvana) en tête d'ailleurs…). En
-pleine vague post-punk, on ne pouvait pas faire plus à côté de la plaque !
+grunges, [Nirvana][i757] en tête d'ailleurs…). En pleine vague post-punk, on ne
+pouvait pas faire plus à côté de la plaque !
 
 Pour finir, citons quelques titres emblématiques du rock chargé de testostérone
 dont nous dispense régulièrement ce bon _vieux_ Neil : au hasard _Tell Me Why_,
@@ -50,3 +50,5 @@ telles que _Hey Hey, My My_ et autre _Rockin' In The Free World_.
 
 N.B. : contrairement à ce que laisserait croire le subtil photo-montage
 illustrant cet article, Neil Young n'a JAMAIS joué à Manchester City, non !
+
+[i757]: {% post_url 2011/2011-02-05-nirvana.md %}

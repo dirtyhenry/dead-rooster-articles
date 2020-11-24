@@ -24,10 +24,10 @@ groupe…).
 
 Niveau musical, les 4 bougres de la _Motor City_ ont toujours rendu leurs
 lettres de noblesse au _Detroit Sound_, comme les Stooges ou Sonic Youth avant
-eux. A savoir : un rock lourd, loin des mièvreries de
-[Nirvana](http://www.deadrooster.org/Nirvana) et de ses guitares acoustiques.
-Mais à côté des gros mastodontes sonores (_Stumbleine_ pour n'en citer qu'une),
-les _Citrouilles_ sont aussi capables de délicatesse (_X.Y.U._ ou _I Am One_).
+eux. A savoir : un rock lourd, loin des mièvreries de [Nirvana][i757] et de ses
+guitares acoustiques. Mais à côté des gros mastodontes sonores (_Stumbleine_
+pour n'en citer qu'une), les _Citrouilles_ sont aussi capables de délicatesse
+(_X.Y.U._ ou _I Am One_).
 
 Les membres du groupe ont toujours salué la volonté de partage de Billy Corgan,
 leader ultra-charismatique et cependant jamais démagogue. En effet, celui-ci
@@ -36,3 +36,5 @@ ses chansons de côté si celles des autres étaient meilleures. Malheureusement
 l'âge d'or est de courte durée puisqu'on raconte qu'après les succès
 incontestables de _Today_ et _Tonight, Tonight_, Billy est tombé en dépression
 quand on lui a appris que _Yesterday_ avait déjà été chanté…
+
+[i757]: {% post_url 2011/2011-02-05-nirvana.md %}

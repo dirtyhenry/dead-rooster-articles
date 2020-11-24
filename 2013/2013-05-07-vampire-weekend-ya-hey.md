@@ -13,7 +13,8 @@ La compétition entre ce titre et le [_Default_][1] de Django Django est ouverte
 {% youtube i-BznQE6B8U %}
 
 _Modern Vampires of the City_ sort la semaine prochaine. Préparez-vous en
-réécoutant [_Step_][2], qui en est aussi extrait.
+réécoutant [_Step_][i1212], qui en est aussi extrait.
 
 [1]: https://youtu.be/DDjpOrlfh0Y
-[2]: https://deadrooster.org/vampire-weekend-step/
+
+[i1212]: {% post_url 2013/2013-04-05-vampire-weekend-step.md %}

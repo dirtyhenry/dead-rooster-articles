@@ -24,12 +24,12 @@ Reatard et son néo-punk-rock de drogués, à bas Ty Segall, Thee Oh Sees et tou
 les néo-babas psychés de la côte ouest ! Nous, ce qu'on veut, c'est de la pop
 sucrée, du Real Estate, du Youth Lagoon, tout ça ! (bon, on en reparlera).
 
-Mais surtout, ce que j'aime en ce moment (en fait, non, ça fait
-[quelques temps que ça dure](http://www.deadrooster.org/Parfois-on-s-demande)…),
-ce sont les groupes de pop suédois, mais pas genre ABBA ou Ace of Base ! Non !!!
-Moi, je fais dans le TTM version 2000/2010, messieurs-dames. Et pour ce faire,
-rien de tel que [Labrador Records](http://www.labrador.se/indexn.php3) ! (ah bah
-quand même ! 3 paragraphes pour arriver au sujet de l'article…)
+Mais surtout, ce que j'aime en ce moment (en fait, non, ça fait [quelques temps
+que ça dure][i699]…), ce sont les groupes de pop suédois, mais pas genre ABBA ou
+Ace of Base ! Non !!! Moi, je fais dans le TTM version 2000/2010,
+messieurs-dames. Et pour ce faire, rien de tel que
+[Labrador Records](http://www.labrador.se/indexn.php3) ! (ah bah quand même ! 3
+paragraphes pour arriver au sujet de l'article…)
 
 Et sur Labrador Records, label de pop suédois donc, il y a plein de groupes TTM
 de haute volée. Outre Acid House Kings [déjà évoqué sur ce blog][i699], je me

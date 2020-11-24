@@ -101,12 +101,11 @@ une chanteuse qui n'en fait pas trop finalement (on avait peur de la voir se
 trémousser à moitié à poil dès le 2ème titre…il n'en fut rien !). Et, last but
 not least, **The Jim Jones Revue**, élu meilleur concert du festival et tout
 simplement meilleur concert de l'année pour l'instant (un imprévu nous ayant
-contraint à ne pas accompagner le reste de l'équipe à
-[Hyde Park](http://deadrooster.org/Hand-in-hand-through-their-Hyde)). Dans un
-style proche du rock'n'roll à banane d'Heavy Trash, JJR pour les intimes a donné
-un show tout en piano bastringue, en guitare approximative, d'aucuns diront pour
-résumer en énergie proto-punk (et ils ont raison même s'ils sont un peu
-gonflants avec leur termes cryptiques…).
+contraint à ne pas accompagner le reste de l'équipe à [Hyde Park][i514]). Dans
+un style proche du rock'n'roll à banane d'Heavy Trash, JJR pour les intimes a
+donné un show tout en piano bastringue, en guitare approximative, d'aucuns
+diront pour résumer en énergie proto-punk (et ils ont raison même s'ils sont un
+peu gonflants avec leur termes cryptiques…).
 
 A noter que certains groupes ne nous ont malheureusement pas laissé suffisamment
 de souvenirs pour être évoqués : **Izia** et **Papier Tigre**, trop tôt,
@@ -129,3 +128,6 @@ Et en bonus :
   [lisamorgan](http://www.flickr.com/photos/lisamorgan/)
 - Photo Franz Ferdinand : (c)
   [elmagicdice](http://www.flickr.com/photos/elmagicdice/)
+
+[i514]:
+{% post_url 2009/2009-07-26-hand-in-hand-through-their-hyde-parklife.md %}

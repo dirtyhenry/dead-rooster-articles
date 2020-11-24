@@ -41,9 +41,9 @@ chanson "aqueuse", comme semble l'attester le clip officiel :
 
 Puis tranquillement, _Faking Jazz Together_ nous fait quitter l'eau, pour
 rejoindre un lit moelleux où notre esprit vagabonde dans des rêves indistincts
-(sorte de chanson parfaite pour le début
-d'[une compile du dimanche matin](http://www.deadrooster.org/La-compile-du-dimanche-matin)).
-En tout cas, ça me fait faire des vachement jolies phrases, vous avez vu ?
+(sorte de chanson parfaite pour le début d'[une compile du dimanche
+matin][i733]). En tout cas, ça me fait faire des vachement jolies phrases, vous
+avez vu ?
 
 Avec _Quadropuss Island_, on se retrouve certes sur une île, avec plage de sable
 fin et mer paisible, sauf qu'il serait 6h du mat, qu'il y aurait une brume
@@ -77,3 +77,5 @@ melodynelsonnesque par-là, le tout dans un monde brouillardeux et difforme.
 Le voyage s'arrête là, sauf qu'on n'a qu'une envie : tout recommencer depuis le
 début ! Attachez votre ceinture. Mettez vos baskets, chouette, c'est sympa, tu
 verras ! Hop ! (Re)Play !
+
+[i733]: {% post_url 2008/2008-08-23-la-compile-du-dimanche-matin-volume-1.md %}

@@ -63,8 +63,8 @@ et ceux de Wes Anderson. Il y a pire comme comparaisons. Dans une interview pour
 loin de nier l’influence d’Anderson sur son film - et d’admettre que _Rushmore_
 est un film «complètement parfait» -, Ayoade avait surtout dressé une liste
 d’autres influences plus secrètes mais selon lui tout aussi intéressantes. Voilà
-quelques items des influences, de quoi nourrir quelques futurs
-[ciné-club moi j’vous dis](http://www.deadrooster.org/spip.php?page=recherche&recherche=cin%C3%A9+club+dis) :
+quelques items des influences, de quoi nourrir quelques futurs [ciné-club moi
+j’vous dis][ic] :
 
 - [_The Ice Storm_](http://www.imdb.com/title/tt0119349/), d’Ang Lee (1997)
 - [_Flirting_](http://www.imdb.com/title/tt0101898/), de John Duigan (1991)
@@ -94,3 +94,5 @@ Finissons en vrac :
 - Wes Anderson fait tailler ses costards chez [Mr. Ned](http://mrnednyc.com/), à
   New York (source
   [ici](http://www.nytimes.com/2004/09/19/style/tmagazine/MAN12))
+
+[ic]: https://deadrooster.org/categories/cine-club-moi-jvous-dis/

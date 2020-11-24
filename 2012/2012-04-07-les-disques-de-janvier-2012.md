@@ -19,20 +19,18 @@ C'est déjà le week-end de Pâques et il est donc plus que temps de présenter 
 disques écoutés en janvier 2012, non ? Alors oui, plus de 2 mois de retard. Mais
 pas pour rien…
 
-Si vous vous référez
-[au point n°2 de notre feuille de route 2012](http://www.deadrooster.org/La-feuille-de-route-2012-de-Dead),
-vous lirez :
+Si vous vous référez [au point n°2 de notre feuille de route 2012][i975], vous
+lirez :
 
-<quote>entamer la sortie du pur mode blog pour avoir des formats plus adaptés à
-ce qu’on veut faire, pour les critiques de disque notamment.</quote>
+> entamer la sortie du pur mode blog pour avoir des formats plus adaptés à ce
+> qu’on veut faire, pour les critiques de disque notamment.
 
 C'est désormais chose faite, puisque nous inaugurons aujourd'hui
 [app.deadrooster.org](http://app.deadrooster.org/), qui présentera des critiques
 de disque de façon plus adaptée qu'auparavant.
 
-Le principe sera le même que celui introduit depuis
-[octobre](http://www.deadrooster.org/Les-disques-d-octobre-2011) : des paquets
-de 20 disques, avec une critique à l'emporte pièce, et avec une **note
+Le principe sera le même que celui introduit depuis [octobre][i943] : des
+paquets de 20 disques, avec une critique à l'emporte pièce, et avec une **note
 discriminatoire** : 4 disques dans chacune des 5 catégories d'étoiles.
 
 Comment est réalisé la répartition des disques pour chaque paquet ? Grâce à
@@ -53,3 +51,8 @@ meilleurs furent :
 
 On retiendra aussi que même si Benjamin Biolay produit les disques d'Isabelle
 Boulay, il ne vaut mieux pas les écouter.
+
+[i943]: {% post_url 2011/2011-11-03-les-disques-d-octobre-2011.md %}
+
+[i975]:
+{% post_url 2011/2011-12-22-la-feuille-de-route-2012-de-dead-rooster.md %}
