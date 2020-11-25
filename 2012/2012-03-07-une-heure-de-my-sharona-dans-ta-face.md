@@ -20,6 +20,6 @@ Prends-en de la graine [Michael Youn][4]. Comme le fait remarquer
 [5]:
   https://stereogum.com/969681/bradford-cox-covers-my-sharona-for-an-hour-in-concert/video/
 
-[i992]: {% post_url 2012/2012-02-05-les-disques-de-decembre-2011.md %}
+[i992]: {% post_url 2012/2012-02-05-les-disques-de-decembre-2011 %}
 
-[i770]: {% post_url 2011/2011-02-02-deerhunter-halcyon-digest.md %}
+[i770]: {% post_url 2011/2011-02-02-deerhunter-halcyon-digest %}

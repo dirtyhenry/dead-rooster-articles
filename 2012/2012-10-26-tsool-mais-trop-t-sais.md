@@ -103,6 +103,6 @@ beautés cachées) :
 1. _Throw It To The Universe_
 1. _Where's The Rock ?_
 
-[itsool]: {% post_url 2010/2010-05-12-tsool-nan-toi-tu-soules.md %}
+[itsool]: {% post_url 2010/2010-05-12-tsool-nan-toi-tu-soules %}
 
-[i1126]: {% post_url 2012/2012-10-22-the-rolling-stones-doom-and-gloom.md %}
+[i1126]: {% post_url 2012/2012-10-22-the-rolling-stones-doom-and-gloom %}

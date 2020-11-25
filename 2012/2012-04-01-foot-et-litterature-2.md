@@ -14,4 +14,4 @@ footballistique de Victor Hugo. Eh bien, soyons rassurés, [il joue à Rennes][1
 
 [1]: https://www.lequipe.fr/Football/FootballFicheJoueur20726.html
 
-[i877]: {% post_url 2011/2011-07-23-foot-et-litterature.md %}
+[i877]: {% post_url 2011/2011-07-23-foot-et-litterature %}

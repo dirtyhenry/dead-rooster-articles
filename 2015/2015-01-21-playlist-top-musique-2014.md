@@ -127,4 +127,4 @@ peu. C'est tout à leur honneur.
 
 [1]: {% post_url 2015/2015-02-26-neutral-milk-hotel %}
 
-[i984]: {% post_url 2012/2012-01-18-top-musique-2011.md %}
+[i984]: {% post_url 2012/2012-01-18-top-musique-2011 %}

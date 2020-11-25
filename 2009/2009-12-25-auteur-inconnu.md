@@ -146,6 +146,6 @@ Liens :
 - le [site officiel](http://www.jasonfalkner.net)
 - le [myspace](http://www.myspace.com/jasonfalkner)
 
-[i542]: {% post_url 2009/2009-11-05-du-beau-du-bon-du-biolay.md %}
+[i542]: {% post_url 2009/2009-11-05-du-beau-du-bon-du-biolay %}
 
-[i557]: {% post_url 2009/2009-12-22-good-evening-sir-paulo.md %}
+[i557]: {% post_url 2009/2009-12-22-good-evening-sir-paulo %}

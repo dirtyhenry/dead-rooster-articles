@@ -78,4 +78,4 @@ Le voyage s'arrête là, sauf qu'on n'a qu'une envie : tout recommencer depuis l
 début ! Attachez votre ceinture. Mettez vos baskets, chouette, c'est sympa, tu
 verras ! Hop ! (Re)Play !
 
-[i733]: {% post_url 2008/2008-08-23-la-compile-du-dimanche-matin-volume-1.md %}
+[i733]: {% post_url 2008/2008-08-23-la-compile-du-dimanche-matin-volume-1 %}

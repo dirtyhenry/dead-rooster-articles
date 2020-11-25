@@ -17,4 +17,4 @@ réécoutant [_Step_][i1212], qui en est aussi extrait.
 
 [1]: https://youtu.be/DDjpOrlfh0Y
 
-[i1212]: {% post_url 2013/2013-04-05-vampire-weekend-step.md %}
+[i1212]: {% post_url 2013/2013-04-05-vampire-weekend-step %}
