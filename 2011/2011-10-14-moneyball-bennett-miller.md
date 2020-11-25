@@ -77,4 +77,4 @@ temps.
 
 {% youtube 5apEctKwiD8 %}
 
-[i333]: {% post_url 2006/2006-09-18-thumbsucker-mike-mills.md %}
+[i333]: {% post_url 2006/2006-09-18-thumbsucker-mike-mills %}
