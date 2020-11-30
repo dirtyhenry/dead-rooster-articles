@@ -5,6 +5,8 @@ authors:
   - Dirty Henry
 wordpress_id: 1224
 date: "2013-04-30 12:00:00 +0200"
+tags:
+  - Liam Gallagher
 ---
 
 **Beady Eye** revient avec un second album, _BE_, produit par le TV On The Radio
