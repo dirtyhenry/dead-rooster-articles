@@ -23,7 +23,7 @@ d'Interpol, que Matthew Dear nous a convaincu d'attendre depuis le bar, une
 mauvaise bière à la main. Cinq types en costard s'avancent dans la nappe de
 fumée qui vient d'envahir la scène, un truc qu'ils ont dû apprendre en faisant
 la première partie de U2 il y a quelques mois. Parmi eux, trois membres
-d'origine du groupe : Paul Banks aka-Julian Plenti, chanteur, Daniel Kessler,
+d'origine du groupe : Paul Banks aka-Julian Plenti, chanteur, Daniel Kessler,
 guitariste et Sam Fogarino, batteur[[bon, ok, le vrai premier batteur du groupe
 s'appelait Greg Drudy mais bon, je simplifie un peu]]. Adios donc Carlos D.,
 bassiste et
@@ -43,7 +43,7 @@ désormais un vétéran de la fameuse scène de revival rock du début des
 années 2000. The Strokes, Interpol, The Libertines, The Kings Of Leon voire
 Franz Ferdinand ne sont plus de jeunes groupes et vont tour à tour bientôt fêter
 leur première décade. On reviendra sur le sujet bientôt, pourquoi pas à
-l'occasion des dix ans d'_Is This It_ cet été (putain, dix ans !).
+l'occasion des dix ans d'_Is This It_ cet été (putain, dix ans !).
 
 {% asset interpol-paul-banks-live.png %}
 
@@ -72,7 +72,7 @@ A peine le temps de parier que _Obstacle 1_ et _Slow Hands_ seront du rappel, et
 voilà qu'on remporte la mise et qu'on a _Untitled_ en rab. On est tout de même
 privés du très intense _Pioneer to The Falls_ mais on va s'en remettre.
 
-Banks et Kessler sont souriants au moment de quitter la scène : une première
+Banks et Kessler sont souriants au moment de quitter la scène : une première
 selon mon expérience. Les concerts d'Interpol sont généralement froids, au bon
 sens du terme. Mieux, ils saluent même presque chaleureusement le public avant
 de nous lâcher un «See you next time», certes peu original mais toujours
@@ -86,12 +86,12 @@ ceux qui connaissent encore mal le groupe.
 
 {% spotify 7trDXQ940DYxcQDRIcjZwO %}
 
-La version 2 titres :
+La version 2 titres :
 
 1. _Say Hello To The Angels_
 1. _Slow Hands_
 
-La version 10 titres :
+La version 10 titres :
 
 1. _Obstacle 1_
 1. _Say Hello To The Angels_
@@ -104,7 +104,7 @@ La version 10 titres :
 1. _Success_
 1. _Lights_
 
-**La setliste du concert :**
+**La setliste du concert :**
 
 1. _Success_
 1. _Say Hello To The Angels_

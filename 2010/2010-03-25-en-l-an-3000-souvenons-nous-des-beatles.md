@@ -8,7 +8,7 @@ date: "2010-03-25 10:36:53 +0100"
 ---
 
 Vous vous souvenez de ce groupe composé de John Lennon, Paul McKenzie, Greg
-Hutchinson and Scottie Pippen ? Ouais, c'était les Beatles !
+Hutchinson and Scottie Pippen ? Ouais, c'était les Beatles !
 
 {% youtube 3Z2vU8M6CYI %}
 

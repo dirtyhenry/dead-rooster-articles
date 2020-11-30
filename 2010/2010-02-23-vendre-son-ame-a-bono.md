@@ -13,4 +13,4 @@ cover: stade-de-france.jpg
 ---
 
 Interpol va tourner avec U2 cet été. Espérons que les Strokes ne tourneront pas
-avec Mylène Farmer. Le monde va mal !
+avec Mylène Farmer. Le monde va mal !

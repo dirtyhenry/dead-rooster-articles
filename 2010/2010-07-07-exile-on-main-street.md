@@ -22,4 +22,4 @@ Main Street_, album mythique de 1972.
 [un excellent article à lire ici](http://kmskma.free.fr/?p=2988), où on parle
 aussi de Keith et les jeans, de _Cocksucker Blues_ et de maillot de bain rouge.
 
-[Photo : Scarlatti2004 sous licence CC BY//NC//NA](http://www.flickr.com/photos/scarlatti2004_images/1453308181/)
+[Photo : Scarlatti2004 sous licence CC BY//NC//NA](http://www.flickr.com/photos/scarlatti2004_images/1453308181/)

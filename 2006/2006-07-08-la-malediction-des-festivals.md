@@ -15,9 +15,9 @@ comments:
     date: "2006-08-23 12:54:20 +0200"
     title: La Malédiction des Festivals
     content:
-      Salut    Ben sympa ton blog ! que j'ai découvert au travers des surf sur
+      Salut    Ben sympa ton blog ! que j'ai découvert au travers des surf sur
       page route du rock…   On peut dire que tu as la poisse! euh, tu as pas
-      décider de changer de voiture depuis le temps ? ;) Bonne continuation sur
+      décider de changer de voiture depuis le temps ? ;) Bonne continuation sur
       la route des festivals et concerts
 cover: gontran-bonheur.jpg
 ---
@@ -105,7 +105,7 @@ mal, pas mal… mais un peu tard…
 Comme on aurait pu s'en douter, le garage n'a pas les pièces. Il va falloir
 abandonner la 205 sur place le temps de la réparation et rentrer à Paris en
 train. C'est pas grave, l'assurance rapatriera la voiture plus tard. Que nenni
-me répond-elle ! Il faut que j'aille la chercher moi-même.
+me répond-elle ! Il faut que j'aille la chercher moi-même.
 
 ## Épilogue
 

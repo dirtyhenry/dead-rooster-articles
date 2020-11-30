@@ -24,9 +24,9 @@ Quant à Blackmore, c'est le compositeur de _High Starway To Hell_ et de _Smoke
 On The Water_. Les historiens du rock racontent que cette dernière serait née
 après que Ritchie eut fait une visite à l'aquarium de Monterey, en Californie et
 qu'il fut ébloui par le jet brumeux produit par les baleines à bosses montrées
-au public. Quant aux vendeurs de guitares, ils la détestent !
+au public. Quant aux vendeurs de guitares, ils la détestent !
 
-Dernier fait marquant : malgré l'échec de 1996, Deep Purple a finalement battu
+Dernier fait marquant : malgré l'échec de 1996, Deep Purple a finalement battu
 Garry Kasparov l'année suivante, alors champion du monde.
 
 [sironimo]: https://www.youtube.com/watch?v=hYWrobj7Rws

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sleater-Kinney yeah !
+title: Sleater-Kinney yeah !
 authors:
   - Dirty Henry
 wordpress_id: 314
@@ -15,7 +15,7 @@ comments:
   - author: Audioslave
     author_email: ""
     date: "2006-05-23 22:52:16 +0200"
-    title: Sleater-Kinney yeah !
+    title: Sleater-Kinney yeah !
     content:
       Je te trouve effectivement un peu sévère. À leur décharge, le son était
       vraiment pourri mais pas assez pour ne pas se rendre compte de la voix
@@ -27,10 +27,10 @@ comments:
   - author: Dirty Henry
     author_email: ""
     date: "2006-05-24 10:02:28 +0200"
-    title: Sleater-Kinney yeah !
+    title: Sleater-Kinney yeah !
     content:
       "Mentionné dans le lien de Julia (voir plus bas), voici un site où trouver
-      des photos du concert :
+      des photos du concert :
       http://www.photosconcerts.com/index.php?action_index=affichage_concert_groupe&action_index_menu_left=affichage_concert_groupe&concertid=834&alpha=P-S&photo_nom=2006-05-22-0047&stat=1"
 cover: sleater-kinney.jpg
 ---

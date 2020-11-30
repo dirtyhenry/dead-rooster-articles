@@ -8,4 +8,4 @@ cover: ike-turner.jpg
 ---
 
 Ike Turner est mort. Plus personne ne sera donc en mesure de faire revenir Tina
-sur le chemin de le bonne soul à coups de lattes… Le monde va mal !
+sur le chemin de le bonne soul à coups de lattes… Le monde va mal !

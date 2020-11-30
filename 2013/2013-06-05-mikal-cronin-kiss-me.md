@@ -8,16 +8,16 @@ date: 2013-06-05 14:24:08 +0200
 ---
 
 Petite reprise charmante de
-[Sixpence None The Richer](http://youtu.be/8N-qO3sPMjc) par Mikal Cronin :
+[Sixpence None The Richer](http://youtu.be/8N-qO3sPMjc) par Mikal Cronin :
 
 {% youtube OwdW5Djn_K4 %}
 
 Dans sa série "reprises au ukulele", celle de _I'm Gonna Be (500 Miles)_ des
 [Proclaimers](http://youtu.be/tbNlMtqrYS0) n'est pas mal non plus.
 
-(edit : celle-ci est désormais introuvable sur internet ☹️)
+(edit : celle-ci est désormais introuvable sur internet ☹️)
 
-N'oubliez pas d'écouter aussi les propres titres de Cronin : [_Change_][i1233]
+N'oubliez pas d'écouter aussi les propres titres de Cronin : [_Change_][i1233]
 notamment.
 
 (via

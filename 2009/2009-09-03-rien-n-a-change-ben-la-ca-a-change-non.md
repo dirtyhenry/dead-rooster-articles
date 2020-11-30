@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '"Rien n''a changé" ? Ben là, ça a changé non ?'
+title: '"Rien n''a changé" ? Ben là, ça a changé non ?'
 authors:
   - Dirty Henry
 wordpress_id: 526

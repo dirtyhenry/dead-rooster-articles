@@ -12,7 +12,7 @@ cover: eugene-saccomano.jpg
 ---
 
 La ligue 1 a repris et Saccomano et ses sbires aussi. Je parle bien entendu du
-meilleur show radio des dernières années : _On refait le match_.
+meilleur show radio des dernières années : _On refait le match_.
 
 Les perles de la semaine :
 
@@ -25,6 +25,6 @@ Et plus tard :
 > Johann Audel a marqué 3 buts cette journée, il sera sûrement encore en tête du
 > classement des buteurs en novembre
 
-~~Abonnez-vous sans attendre au Podcast On refait le match~~. (**edit** : après
+~~Abonnez-vous sans attendre au Podcast On refait le match~~. (**edit** : après
 les départs successifs de Saccomano et Praud, le podcast n'est plus vraiment
 recommandé)

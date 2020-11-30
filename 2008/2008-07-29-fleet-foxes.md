@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Escadron de renards en vue !
+title: Escadron de renards en vue !
 authors:
   - Dirty Henry
 wordpress_id: 213

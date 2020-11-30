@@ -8,4 +8,4 @@ date: "2010-03-31 22:24:38 +0200"
 cover: grey-oceans-cocorosie.jpg
 ---
 
-Voici la pochette du nouvel album de Cocorosie… Le monde va mal !
+Voici la pochette du nouvel album de Cocorosie… Le monde va mal !

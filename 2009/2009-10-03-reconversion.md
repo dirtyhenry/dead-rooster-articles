@@ -10,4 +10,4 @@ cover: prince-albert-bobsleigh.jpg
 
 Alors qu'Eunice Barber se tourne vers le bobsleigh, on parle de plus en plus
 d'une possible réorientation du Prince Albert vers le saut en longueur… Le monde
-va mal !
+va mal !

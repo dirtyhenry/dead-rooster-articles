@@ -13,7 +13,7 @@ On n'a pas beaucoup parlé de Django Django ici, mais les auteurs de
 [_Conquest_](http://open.spotify.com/track/0LVRIyo9rj7oSrGu1z150w) des White
 Stripes le mériteraient pourtant.
 
-Allez, mieux vaut tard que jamais :
+Allez, mieux vaut tard que jamais :
 
 {% youtube ojVsXB12zC8 %}
 

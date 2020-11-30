@@ -2,7 +2,7 @@
 layout: post
 title: Deerhunter - Halcyon Digest
 description:
-  "Je sais désormais que faire [le top 2010](747) n'aura pas été vain : il m'a
+  "Je sais désormais que faire [le top 2010](747) n'aura pas été vain : il m'a
   incité à réécouter {Halcyon Digest}, le 4ème album de {{Deerhunter}}, sorti
   cette année."
 authors:
@@ -19,7 +19,7 @@ tags:
   - R.E.M.
 ---
 
-Je sais désormais que faire [le top 2010][i747] n'aura pas été vain : il m'a
+Je sais désormais que faire [le top 2010][i747] n'aura pas été vain : il m'a
 incité à réécouter _Halcyon Digest_, le 4ème album de **Deerhunter**, sorti
 cette année.
 
@@ -31,11 +31,11 @@ compliment venant de ma part - et est un peu longuet. Le reste est d'un tout
 autre acabit.
 
 Après de l'électro planeuse, Deerhunter nous montre que le format single pop
-leur va bien également : la trilogie _Don't Cry_, _Revival_ et _Memory Boy_
+leur va bien également : la trilogie _Don't Cry_, _Revival_ et _Memory Boy_
 prouve que Deerhunter devrait avoir sa place sur toute radio qui se respecte.
 
 Entre ces pépites immédiates, d'autres morceaux se chargent de baisser le tempo
-comme _Sailing_ (qui porte bien son nom : on a l'impression de faire la sieste
+comme _Sailing_ (qui porte bien son nom : on a l'impression de faire la sieste
 sur un bateau dérivant sur une mer d'huile), _Basement Scene_ ou _Helicopter_ (à
 ne pas confondre avec le titre de Bloc Party, jadis [merveilleusement repris par
 les Hooray Henrys][1], il est toujours bon de le rappeler).
@@ -81,19 +81,19 @@ longues heures alors vous pouvez me faire confiance.
 
 ## Bonus
 
-_Near Wild Heaven_ par R.E.M. :
+_Near Wild Heaven_ par R.E.M. :
 
 {% youtube DBK_B6m0_tY %}
 
-_Oily Water_ par Blur :
+_Oily Water_ par Blur :
 
 {% spotify_track 4tRXWl0OES4ZwHAvyiCqOX %}
 
-_Resigned_ par Blur :
+_Resigned_ par Blur :
 
 {% youtube sEolFeMAalY %}
 
-_Mine's Not A High Horse_ des Shins :
+_Mine's Not A High Horse_ des Shins :
 
 {% youtube CyqFhKpdNs0 %}
 

@@ -8,4 +8,4 @@ date: "2007-10-07 11:53:00 +0200"
 cover: chantal-goya.jpg
 ---
 
-Chantal Goya a été condamnée à 18 mois de prison avec sursis. Le monde va mal !
+Chantal Goya a été condamnée à 18 mois de prison avec sursis. Le monde va mal !

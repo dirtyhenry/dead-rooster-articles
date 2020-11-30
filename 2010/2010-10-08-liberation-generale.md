@@ -2,7 +2,7 @@
 layout: post
 title: Libération générale
 description:
-  "Le vendredi, le fun est de bon aloi. Cette semaine : tout le monde se libère
+  "Le vendredi, le fun est de bon aloi. Cette semaine : tout le monde se libère
   !"
 authors:
   - Dirty Henry
@@ -18,7 +18,7 @@ tags:
 
 ## 1. Les légumes sont libérés
 
-La preuve :
+La preuve :
 
 {% youtube 1gD8nV8RlPU %}
 

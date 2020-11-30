@@ -13,6 +13,6 @@ moults extraits du _Sasha Show_.
 
 De nos jours, ça se fait plus rare mais heureusement, quelques exceptions
 existent parmi lesquelles cette vidéo où une **Feist** moustachue joue un rôle
-incroyable : El Bandido.
+incroyable : El Bandido.
 
 {% youtube fyzArrSxr_Q %}

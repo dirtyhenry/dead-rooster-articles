@@ -12,4 +12,4 @@ tags:
   - Foot
 ---
 
-Est-il nécessaire d'en rajouter ? Le monde va mal !
+Est-il nécessaire d'en rajouter ? Le monde va mal !

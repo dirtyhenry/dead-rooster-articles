@@ -14,4 +14,4 @@ de qualification pour le mondial 2010. Et toute la presse lui tombe dessus pour
 l'équipe, que tout le monde n'attend qu'une chose, c'est le virer, etc, etc… Ben
 moi, je sens surtout qu'une défaite c'est pas bien grave, et que vu l'ambiance
 de merde de la semaine et le manque de soutien à l'équipe, ça m'étonnerait pas
-qu'on perde à nouveau mercredi. Tas de cons ! Le monde va mal !
+qu'on perde à nouveau mercredi. Tas de cons ! Le monde va mal !

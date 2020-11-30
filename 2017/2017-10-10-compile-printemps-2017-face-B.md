@@ -17,28 +17,28 @@ que mal, à en capturer quelques morceaux. Mais à peine en a-t-il fini avec les
 éléments hivernaux qu'il doit déjà remettre ses oreilles à l'ouvrage, pour
 tenter de mettre en cage quelques-uns des plus beaux représentants printaniers.
 
-En ce n'est pas tout ! Sitôt les composants décidés, le compileur doit encore en
+En ce n'est pas tout ! Sitôt les composants décidés, le compileur doit encore en
 trouver l'agencement. Il se retrouve à devoir décortiquer chaque morceau,
 essayant de le combiner avec d'autres, voyant si la fin de l'un s'emboite bien
 avec le début du suivant. Et petit à petit se dessine une sorte de schéma,
 semblable à un blueprint ACME envoyé au Coyote avec les pièces détachées de la
 fusée sur rail.
 
-Et si Wile E. Coyote n'agissait pas seul ? On imagine bien les collisions truffe
+Et si Wile E. Coyote n'agissait pas seul ? On imagine bien les collisions truffe
 contre truffe au milieu d'un grand virage en épingle et les écrasements façon
 sandwich double-deck entre trois rochers de l'Arizona. Eh bien, comme un seul
 compileur n'est pas suffisant, voila qu'il fait équipe avec un deuxième amateur
 de chasse aux chansons (rien à voir avec P. Sevran). Apparaissent alors les
-difficultés du travail d'équipe : "mais, pourquoi tu l'as laissé passer
-celui-là, il était bien !", "T'es sûr pour celle-là ? Le saxo, là, t'es sûr ? On
-la prend quand même ? Bon…" Heureusement, chaque compileur a son petit pré
+difficultés du travail d'équipe : "mais, pourquoi tu l'as laissé passer
+celui-là, il était bien !", "T'es sûr pour celle-là ? Le saxo, là, t'es sûr ? On
+la prend quand même ? Bon…" Heureusement, chaque compileur a son petit pré
 carré, sa moitié de face B, où il peut, seul dans son coin, se créer son petit
 piège à titres rien qu'à lui. Il en est fier, c'est lui qui a écouté, collecté
 et assemblé tous les morceaux.
 
 Vous voici donc devant un superbe écrin de deux machin(e)s savamment pensé(e)s
 par vos serviteurs. Mesurez votre chance, c'est pas dans les dessins animés que
-vous verrez Wile E. profitez d'un tel festin !
+vous verrez Wile E. profitez d'un tel festin !
 
 Au prochain "bip-bip", il sera exactement l'heure de l'Eté 2017.
 

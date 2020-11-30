@@ -2,7 +2,7 @@
 layout: post
 title: Célébration de butruite
 description:
-  "On ne l'avait pas mise du premier coup, mais maintenant, c'est réparé : voici
+  "On ne l'avait pas mise du premier coup, mais maintenant, c'est réparé : voici
   la vidéo de 22 secondes la plus drôle des 20 dernières années."
 authors:
   - Dirty Henry
@@ -15,10 +15,10 @@ tags:
   - Trucs marrants
 ---
 
-On ne l'avait pas mise du premier coup, mais maintenant, c'est réparé : voici la
+On ne l'avait pas mise du premier coup, mais maintenant, c'est réparé : voici la
 vidéo de 22 secondes la plus drôle des 20 dernières années.
 
 {% youtube IZHyUaJy_RI %}
 
-ps : et c'est encore plus drôle
+ps : et c'est encore plus drôle
 [quand Larcenet en fait le commentaire](http://www.manularcenet.com/blog/articles/3791/point-trop-nen-faut)…

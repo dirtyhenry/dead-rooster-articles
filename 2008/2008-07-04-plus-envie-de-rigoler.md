@@ -8,5 +8,5 @@ date: "2008-07-04 16:18:00 +0200"
 cover: joy-division-ian-curtis.jpg
 ---
 
-La pierre tombale de Ian Curtis a été volée. Ils ne respectent donc rien ? Le
-monde va mal !
+La pierre tombale de Ian Curtis a été volée. Ils ne respectent donc rien ? Le
+monde va mal !

@@ -9,4 +9,4 @@ cover: enrico-macias.jpg
 ---
 
 La crise n'épargne rien ni personne. Enrico, ce bon vieil Enrico, est désormais
-au bord de la faillite, suite à des placements hasardeux. Le monde va mal !
+au bord de la faillite, suite à des placements hasardeux. Le monde va mal !

@@ -14,7 +14,7 @@ tags:
 Dommage que ce soit une pub…
 
 Dommage que le mot "Coke" apparaisse dans les paroles parce que sinon, ce serait
-la chanson de Noël parfaite :
+la chanson de Noël parfaite :
 
 > I'd like to buy the world a home and furnish it with love,  
 > Grow apple trees and honey bees, and snow white turtle doves.  

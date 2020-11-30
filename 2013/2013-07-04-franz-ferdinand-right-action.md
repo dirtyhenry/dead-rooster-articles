@@ -11,7 +11,7 @@ tags:
 {% youtube qZa-FHRmoGg %}
 
 Après le [_Love Illumination_][i1257] du mercredi, voici le _Right Action_ du
-jeudi :
+jeudi :
 
 À croire que les Franz Ferdinand aiment les rimes en cheune, il n'y a qu'un pas.
 

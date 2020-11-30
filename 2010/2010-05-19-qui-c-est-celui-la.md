@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Qui c'est celui là ?
+title: Qui c'est celui là ?
 description:
   La reprise de la semaine de {{Katerine, Francis et ses peintres}} est {Qui
-  c'est celui là ?}, de Pierre Vassiliu.
+  c'est celui là ?}, de Pierre Vassiliu.
 authors:
   - Dirty Henry
 wordpress_id: 618
@@ -16,13 +16,13 @@ tags:
 ---
 
 Cette semaine, la reprise de **Katerine, Francis et ses peintres** est _Qui
-c'est celui là ?_, de Pierre Vassiliu.
+c'est celui là ?_, de Pierre Vassiliu.
 
-L'originale est ici :
+L'originale est ici :
 
 {% dailymotion xdi2a %}
 
-Et s'il vous plaît, respect au grand Pierre :
+Et s'il vous plaît, respect au grand Pierre :
 [c'est pas tout le monde qui ouvre pour les Beatles à l'Olympia](http://fr.wikipedia.org/wiki/Pierre_Vassiliu)
 !
 
@@ -35,6 +35,6 @@ une nouvelle fois, qu'Hervé doit être dans la sphère du projet de Katerine.
 - 4. Marion, David et Loïc, 4pts
 - 7. Le reste du monde à 0 pt
 
-Il est encore temps de participer en [cliquant ici][i569] !
+Il est encore temps de participer en [cliquant ici][i569] !
 
 [i569]: {% post_url 2010/2010-02-09-concours-katerine-francis-et-ses-peintres %}

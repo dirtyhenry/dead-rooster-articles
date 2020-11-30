@@ -10,7 +10,7 @@ date: 2012-02-23 23:15:00 +0100
 
 En attendant les premiers épisodes de _La Visite du Louvre_, [promis il y a déjà
 quelques temps][i975], voici un coup d'essai de BD inspiré d'un billet de
-François Morel sur France Inter :
+François Morel sur France Inter :
 
 {% youtube PBoZBS4t9ks %}
 

@@ -9,6 +9,6 @@ cover: johnny-hallyday.png
 ---
 
 Hier, pendant le Grand Journal, on a pu entendre Angelina Jolie dire dans la
-langue de Shakespeare : "Je ne connais pas Johnny Hallyday". Comment peut-on
-laisser des hommes et des femmes vivre sans connaître l'idole ? Le monde va mal
+langue de Shakespeare : "Je ne connais pas Johnny Hallyday". Comment peut-on
+laisser des hommes et des femmes vivre sans connaître l'idole ? Le monde va mal
 !

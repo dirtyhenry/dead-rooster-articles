@@ -13,7 +13,7 @@ comments:
     content:
       "C'est pas les mêmes qu'avaient sévi dans le passé, avec notamment [Live
       it up](http://allmusic.com/cg/amg.dll?p=amg&sql=10:diftxqe5ldfe) de
-      Crosby, Stills & Nash ?\r\n\r\nTrès bon complément d'information
+      Crosby, Stills & Nash ?\r\n\r\nTrès bon complément d'information
       [ici](http://musique.photos.fluctuat.net/Les-100-pochettes-les-plus-moches-alb83-1.html)."
   - author: Dirty Henry
     author_email: dirtyhenry@gmail.com
@@ -26,4 +26,4 @@ cover: prince-lotus-flower.jpg
 ---
 
 Des gens ont conçu cette pochette d'album. D'autres ont accepté de l'imprimer.
-D'autres de la distribuer. Le monde va mal !
+D'autres de la distribuer. Le monde va mal !

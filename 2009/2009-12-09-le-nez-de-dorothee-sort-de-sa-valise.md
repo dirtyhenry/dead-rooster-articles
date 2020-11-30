@@ -9,4 +9,4 @@ cover: club-dorothee.jpg
 ---
 
 Dorothée va faire son retour sur scène en 2010. Pendant ce temps là, les
-programmateurs continuent de boycotter Patrick Simpson-Jones. Le monde va mal !
+programmateurs continuent de boycotter Patrick Simpson-Jones. Le monde va mal !

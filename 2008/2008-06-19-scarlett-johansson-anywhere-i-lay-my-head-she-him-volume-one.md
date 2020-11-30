@@ -30,7 +30,7 @@ le fort de Mr Sitek mais c'est pourtant lorsqu'il s'y essaie que les morceaux
 convainquent par leur mélancolie froide. On conseille à Scarlett de mieux
 s'entourer la prochaine fois.
 
-Niveau du disque : **Ramoneur/tapissier**
+Niveau du disque : **Ramoneur/tapissier**
 
 {% asset zooey-deschanel-2.jpg %}
 
@@ -48,7 +48,7 @@ attention, on a aussi de sérieuses références en pop, en jazz et en folk. Le
 classicisme oui, la superficialité non ! Merci Zooey, merci Matt, vivement le
 volume deux.
 
-Niveau du disque : **Maçon**
+Niveau du disque : **Maçon**
 
 - [MySpace de Scarlett Johansson](http://www.myspace.com/scarlettalbum)
 - [MySpace de She & Him](http://www.myspace.com/sheandhim)

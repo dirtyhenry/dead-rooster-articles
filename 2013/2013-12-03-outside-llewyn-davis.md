@@ -41,14 +41,14 @@ Elles n'ont pas de site web mais elles auront gagné un Grammy Award. C'est déj
 ## _O'Brother_, une anthologie
 
 Dans _O'Brother_, les frères Coen ont fait mieux que de choisir des musiques
-sympas, ils ont carrément créé un groupe : **The Soggy Bottom Boys** (ou Les
+sympas, ils ont carrément créé un groupe : **The Soggy Bottom Boys** (ou Les
 Culs Trempés en V.F.). Le groupe mené par George Clooney a alors rejoint Spinal
 Tap, The Rutles et Gangrène Plastic au panthéon des groupes fictifs créés pour
 le cinéma (dont voici [une jolie compilation signée Allociné][2]).
 
 À la production des titres des Soggy Bottom Boys, on retrouve T-Bone Burnett
-(voir [chapitre précédent][3]) notamment pour le tube du film, _I Am A Man Of
-Constant Sorrow_ :
+(voir [chapitre précédent][3]) notamment pour le tube du film, *I Am A Man Of
+Constant Sorrow* :
 
 {% youtube 08e9k-c91E8 %}
 

@@ -24,9 +24,9 @@ tags:
 ## _Le Lauréat_ (_The Graduate_), de Mike Nichols (1967)
 
 Benjamin Braddock vient d'être diplômé. Ses parents et leurs amis sont tous très
-contents et s'interrogent maintenant sur la suite : "tu es si brillant Benjamin,
-que veux-tu faire maintenant ?
-[Du plastique ?](http://www.youtube.com/watch?v=PSxihhBzCjk)". Le problème de
+contents et s'interrogent maintenant sur la suite : "tu es si brillant Benjamin,
+que veux-tu faire maintenant ?
+[Du plastique ?](http://www.youtube.com/watch?v=PSxihhBzCjk)". Le problème de
 Benjamin, c'est qu'il n'en a aucune idée. Parmi les convives de la fête qui lui
 est consacrée se trouve Mrs. Robinson, la femme d'un ami proche de Papa
 Braddock, alcoolique et [cougar](<http://fr.wikipedia.org/wiki/Cougar_(femme)>)
@@ -40,23 +40,23 @@ de celle-ci, Elaine.
 **Mrs. Robinson, you're trying to seduce me. Aren't you?**
 
 Nous sommes en plein milieu des années 60, Mike Nichols sort du triomphe de son
-premier film, _Qui a peur de Virginia Woolf ?_, lauréat de 5 oscars. Pour son
+premier film, _Qui a peur de Virginia Woolf ?_, lauréat de 5 oscars. Pour son
 second long-métrage, il adapte le roman de Charles Webb _The Graduate_. Les deux
 rôles clé sont ceux de Benjamin et de Mrs. Robinson.
 
 Pour ce dernier, Nichols veut Jeanne Moreau car il est persuadé que le
 cougarisme a été inventé par les Français. Ses producteurs lui disent qu'il en
 est hors de question. Finalement, Anne Bancroft jouera Mrs. Robinson, et Nichols
-en profite pour imposer ses autres choix : il veut quelqu'un de précis pour la
+en profite pour imposer ses autres choix : il veut quelqu'un de précis pour la
 musique du film. Nous y revenons très vite.
 
-Mrs. Robinson, c'est fait, maintenant, qui pour Benjamin ? Robert Redford est
-pressenti mais ne convainc pas Nichols qui s'en explique ainsi à l'acteur :
+Mrs. Robinson, c'est fait, maintenant, qui pour Benjamin ? Robert Redford est
+pressenti mais ne convainc pas Nichols qui s'en explique ainsi à l'acteur :
 
-> Nichols : « Well, let's put it this way, have you ever struck out with a
+> Nichols : « Well, let's put it this way, have you ever struck out with a
 > girl?"  
-> Redford : — What do you mean?  
-> Nichols : — That's precisely my point. »
+> Redford : — What do you mean?  
+> Nichols : — That's precisely my point. »
 
 Pendant ce temps-là, Dustin Hoffman, un jeune acteur au profil plus adapté
 s'apprête à jouer dans le film _The Producers_ de Mel Brooks (un film
@@ -83,15 +83,15 @@ charts, porté par les trois titres devenus depuis des standards
 [_The Sound of Silence_](http://www.youtube.com/watch?v=eZGWQauQOAQ) et
 [_Scarborough Fair_](http://www.youtube.com/watch?v=nWu6ney5hYQ).
 
-**{La suite ?**}
+**{La suite ?**}
 
 - Mike Nichols a mis la tête dans le seau et a eu du mal à faire aussi bien,
-- Charles Webb a publié la suite de ce premier roman en 2007 : ça s'appelle
+- Charles Webb a publié la suite de ce premier roman en 2007 : ça s'appelle
   _Home School_, et il paraît que c'est un peu nul
 - [The Lemonheads ont repris _Mrs. Robinson_](http://www.youtube.com/watch?v=4DvK6VTG67U)
   dans les années 90
 - Dustin Hoffman et Robert Redford ont fini copains comme cochons,
   [finissent ensemble sur des tee-shirts](http://www.comboutique.com/shop/t_shirt_impression-tee_peter__steven-2620-47423.html)
-  et tournent des films ensemble :
+  et tournent des films ensemble :
 
 {% youtube hVytko7quO4 %}

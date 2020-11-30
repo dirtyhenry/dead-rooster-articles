@@ -1,9 +1,9 @@
 ---
 layout: post
-title: The La's à Rock en Seine, que penser ?
+title: The La's à Rock en Seine, que penser ?
 description:
   Lorsque les La's ont été annoncés à Rock en Seine cette année, ni une, ni
-  deux, ma place était réservée dans les deux minutes. Qui ? Les La's ! Petit
+  deux, ma place était réservée dans les deux minutes. Qui ? Les La's ! Petit
   rappel…
 authors:
   - Dirty Henry
@@ -19,9 +19,9 @@ tags:
 ---
 
 Lorsque les La's ont été annoncés à Rock en Seine cette année, ni une, ni deux,
-ma place était réservée dans les deux minutes. Qui ? Les La's ! Petit rappel…
+ma place était réservée dans les deux minutes. Qui ? Les La's ! Petit rappel…
 
-L'histoire des La's commence à Liverpool en 1984 : quelques mois après leur
+L'histoire des La's commence à Liverpool en 1984 : quelques mois après leur
 création, Lee Mavers est embauché à la guitare et devient vite le leader du
 groupe. Deux ans plus tard, John Power arrive à la basse. Leurs premiers singles
 commencent à sortir et à défaut d'être des succès, _Way Out_ (1987) mais surtout
@@ -30,7 +30,7 @@ presse.
 
 {% youtube 966GxzNRxaQ %}
 
-L'heure sonne donc pour les La's de sortir un premier album : ils rentrent en
+L'heure sonne donc pour les La's de sortir un premier album : ils rentrent en
 studio avec un premier producteur. Le courant ne passe pas et Mavers n'est pas
 content du son. Alors leur label, Go! Discs, va leur en trouver un autre. Le
 courant ne passe pas et Mavers n'est pas content du son. Alors leur label, Go!
@@ -47,9 +47,9 @@ en Angleterre.
 
 {% youtube CZXLLMbJdZ4 %}
 
-Les interviews de Mavers ressemblent alors à ça :
+Les interviews de Mavers ressemblent alors à ça :
 
-« Bon alors, Lee Mavers, votre premier disque est super, non ? \_ - Non, c'est
+« Bon alors, Lee Mavers, votre premier disque est super, non ? \_ - Non, c'est
 de la merde, je le déteste, Lillywhite a rien compris. »
 
 L'année suivante, The La's enchaîne avec une tournée mondiale mais Power claque
@@ -63,7 +63,7 @@ ben non.
 Qu'à cela ne tienne, nous voici donc en cet après-midi du 28 août, sur la
 pelouse du parc de Saint-Cloud pour le concert annoncé sans fanfares ni
 trompettes de The La's. Avant de parler du concert, voici quelques extraits des
-reviews qui en ont été faites :
+reviews qui en ont été faites :
 
 [JD Beauvallet pour Les Inrocks](http://www.lesinrocks.com/musique/musique-article/t/69409/date/2011-08-28/article/on-y-est-rock-en-seine-jour-1/)
 : «[Mavers offre] de ses joyaux de chansons des versions d'ivrognes de pub des
@@ -94,7 +94,7 @@ Mavers et son acolyte (Gary Murphy selon
 nous lâchent un instru batterie/basse <strike>grotesque</strike> superflu. C'est
 vrai enfin que Mavers aurait pu être plus classe que torse poil sous une veste
 Adidas dézippée. Mais, merde, ce show était beau, courageux, plein de panache.
-Un moment qu'on ne voit d'habitude que dans les films : le héros, défait,
+Un moment qu'on ne voit d'habitude que dans les films : le héros, défait,
 humilié, relève la tête et laisse le coeur parler.
 
 Beaucoup des chroniques de ce concert que j'ai lues doutent de l'honnêteté de

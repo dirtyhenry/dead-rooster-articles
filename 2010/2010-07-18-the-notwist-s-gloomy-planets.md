@@ -4,7 +4,7 @@ title: The Notwist's Gloomy Planets
 description:
   Que se passe-t-il lorsqu'on prend une chanson géniale, qu'on se fait
   accompagner par un orchestre symphonique et qu'on habille le tout d'une
-  chorégraphie lumineuse très classe ? Une vidéo qui donne des frissons.
+  chorégraphie lumineuse très classe ? Une vidéo qui donne des frissons.
 authors:
   - Dirty Henry
 wordpress_id: 652
@@ -20,7 +20,7 @@ tags:
 
 Que se passe-t-il lorsqu'on prend une chanson géniale, qu'on se fait accompagner
 par un orchestre symphonique et qu'on habille le tout d'une chorégraphie
-lumineuse très classe ? Une vidéo qui donne des frissons.
+lumineuse très classe ? Une vidéo qui donne des frissons.
 
 The Notwist est un groupe inégal mais parfois capable de coups de génies ([on en
 parle ici][i211]). Le titre _Gloomy Planets_ est l'un de ceux-ci. La vidéo est

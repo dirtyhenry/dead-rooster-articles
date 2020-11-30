@@ -4,7 +4,7 @@ title:
   Ton grand-père et ses chiens, Indiana Jones, James Mercer et des métalleux
   jouent au tir à la corde.
 description:
-  "Le vendredi, le fun est de bon aloi. Cette semaine : ton grand-père et ses
+  "Le vendredi, le fun est de bon aloi. Cette semaine : ton grand-père et ses
   chiens, Indiana Jones, James Mercer et des métalleux jouent au tir à la corde."
 authors:
   - Dirty Henry
@@ -20,7 +20,7 @@ tags:
   - Fun Friday
 ---
 
-Le vendredi, le fun est de bon aloi. Cette semaine : ton grand-père et ses
+Le vendredi, le fun est de bon aloi. Cette semaine : ton grand-père et ses
 chiens, Indiana Jones, James Mercer et des métalleux jouent au tir à la corde.
 
 ## Guide du grand-père

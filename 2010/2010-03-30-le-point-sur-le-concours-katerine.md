@@ -2,8 +2,8 @@
 layout: post
 title: Le point sur le concours Katerine
 description:
-  "Le titre de la semaine est {La Queuleuleu} : Hervé n'est plus le seul à avoir
-  des points au concours !"
+  "Le titre de la semaine est {La Queuleuleu} : Hervé n'est plus le seul à avoir
+  des points au concours !"
 authors:
   - Dirty Henry
 wordpress_id: 583
@@ -26,8 +26,8 @@ Bravo à Rodrigue dont c'était le 1er choix et qui marque 5 points.
 - 2. Rodrigue, 5pts
 - 3. Le reste du monde à 0 pt
 
-Il est encore temps de participer en [cliquant ici][i569] !
+Il est encore temps de participer en [cliquant ici][i569] !
 
-<div xmlns:cc="http://creativecommons.org/ns#" about="http://www.flickr.com/photos/st3f4n/4269790436/">Photo : <a rel="cc:attributionURL" href="http://www.flickr.com/photos/st3f4n/">http://www.flickr.com/photos/st3f4n/</a> / <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.0/">CC BY-NC-SA 2.0</a></div>
+<div xmlns:cc="http://creativecommons.org/ns#" about="http://www.flickr.com/photos/st3f4n/4269790436/">Photo : <a rel="cc:attributionURL" href="http://www.flickr.com/photos/st3f4n/">http://www.flickr.com/photos/st3f4n/</a> / <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.0/">CC BY-NC-SA 2.0</a></div>
 
 [i569]: {% post_url 2010/2010-02-09-concours-katerine-francis-et-ses-peintres %}

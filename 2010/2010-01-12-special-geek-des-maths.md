@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spécial geek des maths !
+title: Spécial geek des maths !
 authors:
   - Dirty Henry
 wordpress_id: 563
@@ -13,6 +13,6 @@ cover: ron-wood.jpg
 ---
 
 Ron Wood, 62 ans, vient de pécho un mannequin de 26 ans. C'est donc comme ça que
-ça marche : 62 et 26 !? Quand on a 28 ans, il ne faut donc pas pécho avant ses
+ça marche : 62 et 26 !? Quand on a 28 ans, il ne faut donc pas pécho avant ses
 32 ans, sous peine d'avoir de gros problèmes avec la brigade des mœurs. Le monde
-va mal !
+va mal !

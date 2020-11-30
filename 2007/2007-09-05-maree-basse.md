@@ -14,7 +14,7 @@ cover: nouvelle-vague-bande-a-part.jpg
 
 Ne tournons pas autour du pot, le second album de Nouvelle Vague est abominable.
 
-Tout d'abord, rappelons le concept du groupe : reprendre des titres _new wave_
+Tout d'abord, rappelons le concept du groupe : reprendre des titres _new wave_
 (_nouvelle vague_ en anglais) en _bossa nova_ (_nouvelle vague_ en portugais).
 En 2005, le premier opus m'avait fait son petit effet. L'album était frais,
 réjouissant, sans prétention. Bref, c'était une très bonne surprise.

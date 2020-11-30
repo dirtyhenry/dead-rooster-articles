@@ -10,7 +10,7 @@ cover: djibrill-cisse-swag.jpg
 
 Cissé affirmait depuis quelques temps qu'il souhaitait quitter l'OM, qualifié
 pour la Ligue des Champions, pour retourner dans un club anglais. Mais alors
-lequel ? Manchester United ? Arsenal ? Liverpool ? Chelsea ?
+lequel ? Manchester United ? Arsenal ? Liverpool ? Chelsea ?
 
 Finalement, il va à Sunderland, 15ème de Premier League l'année dernière et qui
-espère ne pas rater la relégation cette saison. Le monde va mal !
+espère ne pas rater la relégation cette saison. Le monde va mal !

@@ -28,13 +28,13 @@ Jonathan a deux très bons potes. Il y a d'abord Ray (Zach Galifianakis), son
 copain dessinateur de BD dont le héros est une version super héros de lui-même
 dont l'arme de prédilection est un sexe géant. Bref, Ray est un peu bizarre et
 émotionnellement instable. L'autre pote de Jonathan est son mentor. Il s'appelle
-George (Ted Danton) : un grand bellâtre sexagénaire, à la crinière blanche
+George (Ted Danton) : un grand bellâtre sexagénaire, à la crinière blanche
 jarmuschienne, rédacteur en chef d'un grand magazine new-yorkais et plein aux
 as.
 
 Diffusée sur HBO, il existe déjà 2 saisons de 8 épisodes de la série. Le rythme
 n'est donc pas hyper intensif, ce qui est une grande qualité selon moi. Le début
-de la diffusion de la saison 3 est prévu pour le mois prochain :
+de la diffusion de la saison 3 est prévu pour le mois prochain :
 
 {% youtube 7Lm-C32MLcI %}
 
@@ -62,11 +62,11 @@ et Danson ne soient pas trop susceptibles aux sujets de leur gros nez, leur
 embonpoint ou leur coupe de cheveux, respectivement), ça jongle avec l'humour de
 dépressif mais sans jamais plomber et ça rend les losers sympas et attachants.
 
-Pour ne rien gâcher, la B.O. est excellente : un mix de nouveautés indés
+Pour ne rien gâcher, la B.O. est excellente : un mix de nouveautés indés
 complètement inconnus, de classiques des 70's et de reprises bien vues. Bref, du
 bon vieux snobisme qui nous fait devenir copains. Comme je suis sympa, après le
 générique de la série signé Coconut Records (aka Jason Schwartzman, [vous vous
-souvenez ?][i201]), vous trouverez la liste de toutes les chansons utilisées
+souvenez ?][i201]), vous trouverez la liste de toutes les chansons utilisées
 dans la saison 2, que j'ai tenté de compiler via Spotify. Là, vous admettrez que
 je ne me fous pas de votre gueule (y'a même Yo La Tengo pour Joe Gantdelaine) et
 je recommande particulièrement Katie Herzig, Josh Ritter et Family Of The Year.

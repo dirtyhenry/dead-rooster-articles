@@ -12,11 +12,11 @@ tags:
   - Cinéma
 ---
 
-_Casablanca_, œuvre magistrale ! _Le Cuirassé Potemkine_, n'en parlons même pas
-! Quant à _Citizen Kane_, le meilleur de tous ! Ok, mais comment faire pour voir
-ces films anciens, boudés par la télé et trop peu repris par les cinémas ? Pour
+_Casablanca_, œuvre magistrale ! _Le Cuirassé Potemkine_, n'en parlons même pas
+! Quant à _Citizen Kane_, le meilleur de tous ! Ok, mais comment faire pour voir
+ces films anciens, boudés par la télé et trop peu repris par les cinémas ? Pour
 ma part, la solution a été un abonnement à un service de location de DVD en
-ligne : Glowria. Trois DVD par mois dont voici détaillée la livrée de septembre…
+ligne : Glowria. Trois DVD par mois dont voici détaillée la livrée de septembre…
 
 ## _Pauline à la plage_ - Eric Rohmer (1983)
 
@@ -34,9 +34,9 @@ trop parloit, il se mesfait"), que
 Rien n'est accessoire, tout se fait sans manière, du décor, simple comme un mur
 blanc, aux dialogues, où rien ne reste non dit.
 
-**La chanson qui va avec** : difficile pour moi de penser à une chanson et à un
+**La chanson qui va avec** : difficile pour moi de penser à une chanson et à un
 film où il y a "plage" dans le titre sans penser à ce titre, magnifique, que
-dis-je, ce chef d'œuvre : _Un été de porcelaine_, de Mort Schuman.
+dis-je, ce chef d'œuvre : _Un été de porcelaine_, de Mort Schuman.
 
 ---
 
@@ -47,7 +47,7 @@ dis-je, ce chef d'œuvre : _Un été de porcelaine_, de Mort Schuman.
 Eve est une fan groupiesque de la star du théâtre Margo qui, flattée par tant
 d'admiration, la prend sous son aile et lui confie un rôle d'assistante à tout
 faire. Peu à peu, pourtant, Eve scrute et apprend tout de Margo et essaie de
-tout lui ravir : hommes, gloire et célébrité.
+tout lui ravir : hommes, gloire et célébrité.
 
 {% youtube Eg-ckMup6SI %}
 
@@ -58,10 +58,10 @@ Malgré son pitch qui laisse penser à un film limite flippant, le film sait
 rester léger par de très bons moments de comédie (où figure une très jeune
 Marylin Monroe).
 
-**La chanson qui va avec** : ça aurait pu être Naznavour qui se voyait déjà, ou
+**La chanson qui va avec** : ça aurait pu être Naznavour qui se voyait déjà, ou
 Starmania qu'a perdu l'humour depuis qu'il a le sens des affaires, mais y'a
 quand même mieux en matière de chanson qui parle du rêve de l'ascension au
-sommet : _Rock & Roll Star_, by Oasis, dont Spotify n'offre qu'une version
+sommet : _Rock & Roll Star_, by Oasis, dont Spotify n'offre qu'une version
 karaoke… Désolé…
 
 ---
@@ -71,7 +71,7 @@ karaoke… Désolé…
 ## _Cat People_ - Jacques Tourneur (1942)
 
 Irena est une femme un peu bizarre. Bien que séduisant Oliver d'un coup de cil,
-elle est un peu flippante : c'est pas tout le monde qui provoque une hystérie
+elle est un peu flippante : c'est pas tout le monde qui provoque une hystérie
 animale en rentrant dans un pet store. Pourtant, ni ça, ni le chambre à part
 imposée par Irena, qui croît son âme capable de la transformer en panthère si
 elle aime ou jalouse, n'empêche Oliver de l'épouser. On s'empêchera pas de
@@ -86,10 +86,10 @@ pas moins efficace. On flippe un peu, et encore une fois, c'est sur
 [les recommandations de Serge Kaganski](http://blogs.lesinrocks.com/s-kaganski/?p=206)
 !
 
-**La chanson qui va avec** : fastoche, la chanson éponyme (et pas la meileure)
-de David Bowie !
+**La chanson qui va avec** : fastoche, la chanson éponyme (et pas la meileure)
+de David Bowie !
 
 ---
 
-**La playlist sur Spotify** :
+**La playlist sur Spotify** :
 [http://open.spotify.com/user/dirtyhenry/playlist/5AyE5iUPNWudqeWZz8rkbU](http://open.spotify.com/user/dirtyhenry/playlist/5AyE5iUPNWudqeWZz8rkbU)

@@ -8,5 +8,5 @@ date: "2008-09-08 22:25:00 +0200"
 cover: la-bagarre.jpg
 ---
 
-Noel Gallagher est attaqué par un spectateur ivre en plein concert à Vancouver ?
-Le monde va mal !
+Noel Gallagher est attaqué par un spectateur ivre en plein concert à Vancouver ?
+Le monde va mal !

@@ -49,7 +49,7 @@ epic titles (_Tropical Island Suite_).
 It may sound too wise to be a great record, but Fresh & Onlys can also be weird
 and crazy as in _Who Needs A Man_, which does make _Play It Strange_ the best
 record we've listened to for a while. And, unlike The La's, The Fresh & Onlys
-release a lot of stuff : _Play It Strange_ is already the third album of the
+release a lot of stuff : _Play It Strange_ is already the third album of the
 band. We should try to get _The Fresh & Onlys_ and _Grey-Eyed Girls_, the two
 previous albums, as fast as we can.
 

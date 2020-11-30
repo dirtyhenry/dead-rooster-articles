@@ -12,4 +12,4 @@ tags:
 cover: oss-117.jpg
 ---
 
-Mmmh ma biche, prenez mon Mojo, nous allons chercher le Grall !
+Mmmh ma biche, prenez mon Mojo, nous allons chercher le Grall !

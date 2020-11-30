@@ -13,19 +13,19 @@ date: 2011-07-02 09:17:47 +0200
 ---
 
 Au début de l'aventure, Peter Doherty et Cärl Bàrât sont deux amis ayant une
-passion commune : le rock and roll. Enfin ça, c'est la passion avouable !
+passion commune : le rock and roll. Enfin ça, c'est la passion avouable !
 
 En secret, les deux potes sont fans inconditionnels de la chanson française. Et
-pas des trucs de ringards, genre Brassens ou Piaf. Non, non ! La vraie chanson
-française, celle des années 80 : Marc Lavoine, Félix Gray et Didier Barbelivien,
+pas des trucs de ringards, genre Brassens ou Piaf. Non, non ! La vraie chanson
+française, celle des années 80 : Marc Lavoine, Félix Gray et Didier Barbelivien,
 François Feldman ils adorent.
 
 Mais par dessus tout, celle qu'ils aiment c'est Mylène. Mylène Farmer. Grâce à
 elle, ils trouvent leur pseudonyme. Désormais, il faudra les appeler **The
-Libertines**. Leurs costumes ? Les mêmes que Mymy et sa garde rapprochée dans le
+Libertines**. Leurs costumes ? Les mêmes que Mymy et sa garde rapprochée dans le
 [clip](http://youtu.be/LOvshC3M44o?t=3m14s).
 
-Malheureusement, tout ira à vau-l'eau pour eux : au moment de choisir un
+Malheureusement, tout ira à vau-l'eau pour eux : au moment de choisir un
 batteur, ils voulaient rendre hommage à Mylène en prenant quelqu'un à la
 crinière rousse flamboyante. Axelle Red ne savait cependant pas taper en rythme
 sur des fûts. Ils ont dû revoir leurs exigences, et prendre ce qui restait.
@@ -44,5 +44,5 @@ bien un comeback avec les **Pretty Things**, mais enfin, ces derniers avaient
 déjà atteint le [sommet](http://www.youtube.com/watch?v=XrFUT1YFfH0) de leur
 carrière dès les sixties.
 
-Allez les gars, ne soyez pas _désenchantés_ ! Un jour, ça marchera, _pourvu que
-vous soyez doux_ !
+Allez les gars, ne soyez pas *désenchantés* ! Un jour, ça marchera, *pourvu que
+vous soyez doux* !

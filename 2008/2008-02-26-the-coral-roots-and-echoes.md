@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Le corail ou la chorale ?
+title: Le corail ou la chorale ?
 authors:
   - Dirty Henry
 wordpress_id: 203

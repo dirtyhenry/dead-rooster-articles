@@ -44,5 +44,5 @@ bravoure.
 
 Merci pour tout, pour ce festin dont je ne peux décrire tous les ingrédients (je
 ne parlerai pas des concerts d'Islands, Grizzly Bear, You say Party! We say die!
-ou de Band of Horses et c'est une vraie injustice !) mais qui m'a bien repu… Au
+ou de Band of Horses et c'est une vraie injustice !) mais qui m'a bien repu… Au
 moins de quoi tenir jusqu'à la collection d'hiver.

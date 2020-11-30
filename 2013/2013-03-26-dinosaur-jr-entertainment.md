@@ -7,7 +7,7 @@ wordpress_id: 1203
 date: "2013-03-26 13:40:03 +0100"
 ---
 
-Dinosaur Jr. reprend le dernier single de Phoenix. Vous avez dit contre-emploi ?
+Dinosaur Jr. reprend le dernier single de Phoenix. Vous avez dit contre-emploi ?
 
 {% soundcloud 83226180 %}
 

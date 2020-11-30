@@ -13,7 +13,7 @@ comments:
   - author: Dirty Henry
     author_email: ""
     date: "2007-05-29 16:21:40 +0200"
-    title: Tu vis qu'une fois !
+    title: Tu vis qu'une fois !
     content: Quant à moi, j'aurais plutôt dit "iser du monde".
 ---
 

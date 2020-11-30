@@ -1,6 +1,6 @@
 ---
 layout: post
-title: T'étais Beau Derrick !
+title: T'étais Beau Derrick !
 authors:
   - Joe Gantdelaine
 wordpress_id: 482
@@ -9,4 +9,4 @@ cover: horst-tappert-derrick.jpg
 ---
 
 Horst Tappert tire sa révérence. Tandis que chez nous, Roger Hanin semble
-toujours vaillant. Mais pour combien de temps encore ? Le monde va mal !
+toujours vaillant. Mais pour combien de temps encore ? Le monde va mal !

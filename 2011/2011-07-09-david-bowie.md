@@ -4,7 +4,7 @@ title: David Bowie
 category: Encyclopédie approximative du Rock and Roll
 description:
   Cette semaine, l'Encyclopédie développe quelques approximations sur "Un mâle
-  au féminin/Légèrement fêlé/Un peu trop félin" (merci Serge !).
+  au féminin/Légèrement fêlé/Un peu trop félin" (merci Serge !).
 authors:
   - Joe Gantdelaine
 wordpress_id: 844

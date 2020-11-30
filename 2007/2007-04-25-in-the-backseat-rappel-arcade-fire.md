@@ -12,7 +12,7 @@ tags:
 ---
 
 Lors de leur 1er soir à l'Olympia, cette année, les chanceux ont pu avoir un
-rappel intimiste que n'ont pas eu ceux du lendemain… Pour se rattraper _In The
-Backseat_ :
+rappel intimiste que n'ont pas eu ceux du lendemain… Pour se rattraper *In The
+Backseat* :
 
 {% dailymotion x1hxg0 %}

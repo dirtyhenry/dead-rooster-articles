@@ -16,7 +16,7 @@ Presume][1], dont votre serviteur est le guitariste, sortaient _The Stanley EP_,
 au format numérique seulement, via [le site Bandcamp][1].
 
 Depuis, [j'ai crié ma passion aux disques vinyls][i849] et les autres membres du
-groupe - un certain batteur en tête - m'ont offert un magnifique cadeau : un
+groupe - un certain batteur en tête - m'ont offert un magnifique cadeau : un
 exemplaire d'une série ultra-limitée (2 exemplaires) d'une version 10 pouces de
 _The Stanley EP_. Je les en remercie encore au passage. Mais à l'heure de la
 remise du disque, alors que ma joie et mon émotion débordaient, je gardais
@@ -25,7 +25,7 @@ mes comparses. Ils en voulaient un exemplaire eux aussi, c'était bien légitime
 
 Alors le groupe a cherché à produire une petite série, mais on s'est vite rendu
 compte que ça coûtait le même prix qu'une série de 250 exemplaires. La
-quasi-unanimité fut donc "la merde, on le fait !".
+quasi-unanimité fut donc "la merde, on le fait !".
 
 {% asset the-stanley-ep-cover-art.png %}
 
@@ -34,7 +34,7 @@ devraient arriver le mois prochain entre nos mains. Et on veut en faire profiter
 tout le monde, et vous devriez vous montrer intéressés pour plein de bonnes
 raisons :
 
-- on va le vendre le moins cher possible : 6€ seulement
+- on va le vendre le moins cher possible : 6€ seulement
 - on peut le fournir par la Poste en passant par Bandcamp, mais ça augmentera le
   prix à cause des frais de ports alors envoyez-nous un message pour voir si une
   remise en main propre est possible (à Paris sans aucun doute, mais aussi à

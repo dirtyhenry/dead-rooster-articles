@@ -9,4 +9,4 @@ cover: bouche-fermeture-eclair.jpg
 ---
 
 Le clip de la campagne municipale de Gilbert Collard, où celui-ci déclarait sa
-flamme à Vichy est désormais introuvable sur la toile. Le monde va mal !
+flamme à Vichy est désormais introuvable sur la toile. Le monde va mal !

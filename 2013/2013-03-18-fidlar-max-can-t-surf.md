@@ -8,7 +8,7 @@ date: "2013-03-18 10:31:23 +0100"
 ---
 
 Quand on se ballade sur le site du label des Smith Westerns, on peut tomber par
-hasard sur de superbes joyeusetés comme ce titre de Fidlar :
+hasard sur de superbes joyeusetés comme ce titre de Fidlar :
 
 {% youtube PXQ3_BWCe3w %}
 

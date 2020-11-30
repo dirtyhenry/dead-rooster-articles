@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Montreal, parce qu'on le vaut bien !
+title: Montreal, parce qu'on le vaut bien !
 author: Joe Gantdelaine
 wordpress_id: 385
 date: "2007-05-28 11:06:00 +0200"

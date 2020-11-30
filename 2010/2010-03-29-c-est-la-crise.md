@@ -1,6 +1,6 @@
 ---
 layout: post
-title: C'est la crise !
+title: C'est la crise !
 authors:
   - Joe Gantdelaine
 wordpress_id: 582

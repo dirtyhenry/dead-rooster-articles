@@ -9,4 +9,4 @@ cover: she-and-him.jpg
 ---
 
 She & Him a décommandé. Le groupe ne sera pas de la partie au festival des
-Inrocks le 12 novembre. Le monde va mal !
+Inrocks le 12 novembre. Le monde va mal !

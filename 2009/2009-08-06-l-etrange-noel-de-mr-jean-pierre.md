@@ -9,4 +9,4 @@ cover: jpp-ballon-or.jpg
 ---
 
 Le film _Numéro 9_ est produit par Tim Burton. On pense à Johnny Depp pour le
-rôle de Jean-Pierre Papin. Le monde va mal !
+rôle de Jean-Pierre Papin. Le monde va mal !

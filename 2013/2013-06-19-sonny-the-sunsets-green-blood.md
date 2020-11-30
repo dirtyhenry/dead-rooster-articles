@@ -7,8 +7,8 @@ wordpress_id: 1246
 date: 2013-06-19 12:00:00 +0200
 ---
 
-Déjà 3 semaines qu'on n'a pas posté de chanson de Sonny & The Sunsets ? Vite,
-remédions à ça !!!
+Déjà 3 semaines qu'on n'a pas posté de chanson de Sonny & The Sunsets ? Vite,
+remédions à ça !!!
 
 {% youtube 5i5zO7aXiFA %}
 

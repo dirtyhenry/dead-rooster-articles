@@ -9,6 +9,6 @@ date: 2011-11-09 23:35:33 +0100
 ---
 
 Vivant à Boston, j'apprends seulement la mort de Robert Lamoureux. Sa mort n'a
-pas ému internationalement. Le monde va mal !
+pas ému internationalement. Le monde va mal !
 
 {% youtube s1JtweRfweg %}

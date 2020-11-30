@@ -9,4 +9,4 @@ cover: electric-soft-parade.jpg
 ---
 
 Ce soir, la soirée de rock'n'roll de la Maroquinerie a commencé à l'heure dite.
-Seul le contraire aurait pu être pire. Le monde va mal !
+Seul le contraire aurait pu être pire. Le monde va mal !

@@ -22,7 +22,7 @@ manque déjà à peine sorti du court").
 Je ne l'avais pas vu venir, mais aux côtés de Bloc Party, The Bravery, Arcade
 Fire et les autres, pour la plupart auteurs d'un seul disque et pourtant placés
 en têtes de série par la presse (car peut-être vainqueurs aux récents tournois
-de Monte-Carlo ou de l'Open d'Australie ?), un groupe de vieux vient de pointer
+de Monte-Carlo ou de l'Open d'Australie ?), un groupe de vieux vient de pointer
 son nez dans la lutte serrée des groupes qui vont compter en 2005.
 
 Et oui, Oasis et les bons vieux Union Jacks sont de retour, font sonner un vent
@@ -35,4 +35,4 @@ Enfin, remarquons encore une fois l'absence de succésseur potentiel à Yannick
 Noah en tant que futur vainqueur français du tournoi… L'espoir de s'enorgueillir
 des victoires espagnoles sur terre battue et se réapproprier les lauriers du
 rock anglais, voilà d'ailleurs, pour ceux qui la cherchent encore, la bonne
-raison de voter oui au référendum, isn't it ?
+raison de voter oui au référendum, isn't it ?

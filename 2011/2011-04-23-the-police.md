@@ -4,7 +4,7 @@ title: The Police
 category: Encyclopédie approximative du Rock and Roll
 description:
   Cette semaine, l'encyclopédie se refuse à faire des jeux de mots pourris à
-  base de "Lieutenant Sting" ou "les pères spirituels d'Interpol". Non ! Elle
+  base de "Lieutenant Sting" ou "les pères spirituels d'Interpol". Non ! Elle
   fait pire…
 authors:
   - Joe Gantdelaine
@@ -26,11 +26,11 @@ The Police est un groupe d'_hommes anglais de New York_, formé à la fin des
 années 70 et proposant une musique influencée à la fois par le reggae, le jazz
 voire même, parfois, le rock.
 
-The Police est un power-trio de gens réunis par une seule et même passion : la
+The Police est un power-trio de gens réunis par une seule et même passion : la
 typographie. Ainsi trouve-t-on Comic Sting au chant/basse, Arial Bold Summers à
 la guitare et Stewart Verdana derrière les fûts.
 
-De leur amour pour les belles lettres bien imprimées naîtront de grands succès :
+De leur amour pour les belles lettres bien imprimées naîtront de grands succès :
 _Courier in a Bottle_, _Walking on a Balloon_ ou encore _Every Time New Roman
 You Take_.
 

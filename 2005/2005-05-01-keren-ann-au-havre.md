@@ -16,7 +16,7 @@ Les lumières du théâtre de l'hôtel de ville s'éteignent et la première par
 commence. Deux gaillards trentenaires arrivent sur scène. Le premier, sosie
 vague d'Edouard Baer s'appelle **Doriand**. C'est lui le chanteur et ce sont ses
 chansons que nous allons entendre. Le second, guitariste, s'appelle Peter van
-Proote (ou quelque chose de ressemblant) (edit : il s'agissait en fait de Peter
+Proote (ou quelque chose de ressemblant) (edit : il s'agissait en fait de Peter
 von Poehl). Il n'est plutôt pas français (vaguement suèdois, danois ou quelque
 autre pays peu chaud) mais je le connais déjà pour l'avoir vu, seul, chanter ses
 chansons à lui, en première partie d'Autour de Lucie, il y a quelques semaines,
@@ -29,7 +29,7 @@ convaincre, les textes de Doriand, plutôt naïfs, commencent à me plaire, et j
 sors du concert complètement fan. Minimaliste, l'environnement musical se limite
 à Peter à la guitare, Doriand au clavier et aux samples et la courte apparition
 d'une violoniste. A noter la chanson finale, dont le titre doit être
-_L'imposteur_ ou quelque chose de ressemblant. Le thème est plutôt banal :
+_L'imposteur_ ou quelque chose de ressemblant. Le thème est plutôt banal :
 l'amoureux secret qui joue le rôle de bon copain/confident auprès des femmes
 qu'il aime. Mais le traitement est plutôt original, voyez plutôt.
 

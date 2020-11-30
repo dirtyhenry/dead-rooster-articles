@@ -20,4 +20,4 @@ comments:
       musique si tu veux mon avis…
 ---
 
-Voici la pochette du prochain album des Strokes. Le monde va mal !
+Voici la pochette du prochain album des Strokes. Le monde va mal !

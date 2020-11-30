@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pas de moquette murale dans la loge !
+title: Pas de moquette murale dans la loge !
 authors:
   - Joe Gantdelaine
 wordpress_id: 575
@@ -12,7 +12,7 @@ cover: prout.jpg
 Tout juste arrivée dans le show-biz, et déjà nouvelle coqueluche pour un public
 de connaisseurs. Les sponsors se pressent au portillon : William Saurin, Le Chou
 du Limousin, etc… Tout de suite, [l'interview exclusive de Kirsten Prout][1].
-Par contre, lâcher un vent toutes les 2 répliques… mais que fait Deflatil ? Le
+Par contre, lâcher un vent toutes les 2 répliques… mais que fait Deflatil ? Le
 monde va mal !
 
 [1]: http://www.thestarscoop.com/archives/kirsten-prout.php

@@ -3,7 +3,7 @@ layout: post
 title: Prison la la
 description:
   Trois chansons à écouter ou à télécharger sur le net, avec au programme, Dum
-  Dum Girls, Titus Andronicus et Josh Rouse !
+  Dum Girls, Titus Andronicus et Josh Rouse !
 authors:
   - Dirty Henry
 wordpress_id: 588

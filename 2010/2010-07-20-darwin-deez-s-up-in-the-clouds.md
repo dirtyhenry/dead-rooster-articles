@@ -20,7 +20,7 @@ tags:
 Très chouette chanson de **Darwin Deez**, un new-yorkais qui a sorti son premier
 album en avril dernier. Le clip n'est pas en reste.
 
-Pour info :
+Pour info :
 
 1. il sera en concert à Paris le 4 novembre à la Boule Noire
 1. sur ce single, il est accompagné par un duo français, The Shoes, à suivre car

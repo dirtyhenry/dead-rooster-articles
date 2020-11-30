@@ -9,4 +9,4 @@ date: "2012-01-11 21:00:00 +0100"
 
 {% youtube -oUZLV_GdZw %}
 
-Et ouais ! Ça a gagné l'Eurovision ça alors on ne se moque pas !
+Et ouais ! Ça a gagné l'Eurovision ça alors on ne se moque pas !

@@ -25,7 +25,7 @@ _Motor City's Burning: Detroit From Motown To The Stooges_.
 {% youtube Et8VXb9pv1c %}
 
 [L'article original est ici](http://www.guardian.co.uk/music/2008/mar/01/popandrock.features16),
-en voici une traduction faite maison :
+en voici une traduction faite maison :
 
 > Le 23 juillet 1967,
 > [la plus grande émeute de l’histoire des Etats-Unis a éclaté dans les rues de Detroit](http://en.wikipedia.org/wiki/1967_Detroit_riot).
@@ -62,12 +62,12 @@ en voici une traduction faite maison :
 > n’a jamais bénéficié de «renaissance» et les conséquences des émeutes n’ont
 > jamais été aussi profondes. Mais il y a toujours cette sensation d’aventure
 > urbaine que [John Sinclair][1] décrit dans le documentaire. Sinclair a
-> toujours été un de mes héros : son parti des
+> toujours été un de mes héros : son parti des
 > [White Panther](http://en.wikipedia.org/wiki/White_Panther_Party) a influencé
 > mon groupe, les [Soledad Brothers][i215], et il a écrit les notes de pochettes
 > de mon premier album.
 >
-> Alors pourquoi Detroit continue de pondre le meilleur rock’n’roll ? A bien des
+> Alors pourquoi Detroit continue de pondre le meilleur rock’n’roll ? A bien des
 > égards, la ville s’est arrêtée après les émeutes, il n’y a donc pas de
 > séparation entre ce qui est vieux et ce qui est nouveau. C’est la clé du génie
 > des White Stripes, la raison pour laquelle les Stooges étaient le meilleur
@@ -81,14 +81,14 @@ en voici une traduction faite maison :
 >
 > Le documentaire se termine avec l’ode à la détresse de la ville post-émeute,
 > _Living For The City_, dont les Dirtbombs ont fait une reprise poignante sur
-> leur album de 2001, _Ultraglide in Black_. […] Comme Sinclair le dit : «c’est
+> leur album de 2001, _Ultraglide in Black_. […] Comme Sinclair le dit : «c’est
 > comme la Nouvelle-Orléans après les inondations, sauf qu’il n’y a pas eu de
 > catastrophe naturelle. L’Amérique a déferlé sur Detroit…»
 
 Je souhaitais tout simplement faire partager cet article, et puisqu'il y manque
 quelques liens pour tout comprendre, les y ajouter.
 
-En bonus, quelques liens, dont une compile Spotify :
+En bonus, quelques liens, dont une compile Spotify :
 
 - [MC5 _Kick Out The Jams_](http://www.youtube.com/watch?v=iM6nasmkg7A)
 - [The Dirtbombs _Livin' for the City_](http://www.deezer.com/listen-2068265)

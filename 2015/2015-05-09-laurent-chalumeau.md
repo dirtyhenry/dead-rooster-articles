@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Faut-il Sauver Michel Sardou ?"
+title: "Faut-il Sauver Michel Sardou ?"
 authors:
   - Dirty Henry
 tags:
@@ -10,7 +10,7 @@ tags:
 cover: sardou-chalumeau.jpg
 description: >
   Quelles conclusions tirer de la lecture de Kif, de Laurent Chalumeau, sur
-  notre relation à Michel Sardou ? Dead Rooster a mené l'enquête, bancale et
+  notre relation à Michel Sardou ? Dead Rooster a mené l'enquête, bancale et
   musicale, comme d'habitude.
 lead-paragraph: true
 ---
@@ -25,7 +25,7 @@ le doute… Faut-il sauver Michel Sardou ?
 Ça commence par le conseil d'un copain qui me recommande _La Famille Bélier_,
 l'histoire d'une famille où les parents sont sourd-muets et la fille chanteuse.
 Ouais, OK, y'a François Damiens, Karin Viard et Eric Elmosnino qui jouent dedans
-? Allez ! Pourquoi pas.
+? Allez ! Pourquoi pas.
 
 {% asset famille_belier.jpg alt='Avec le recul, je me dis que chanter, ça doit marcher mieux que la guitare' %}
 
@@ -37,22 +37,22 @@ là ou quoi ?][4]
 ## Le Kif de Chalumeau
 
 Quelques semaines passent et j'attaque la lecture de _Kif_, de Laurent
-Chalumeau. Le titre est assez nul, mais purée, le roman est bon. Très bon !
+Chalumeau. Le titre est assez nul, mais purée, le roman est bon. Très bon !
 
 Déjà pour remettre dans le contexte, Laurent Chalumeau c'est un ancien de _Rock
-& Folk_, co-auteur des sketches de De Caunes à la grande époque Canal : [Gérard
+& Folk_, co-auteur des sketches de De Caunes à la grande époque Canal : [Gérard
 Langue de Pute][5] ou [Didier l'Embrouille][6], c'est signé Chalumeau.
 
 Dans _Kif_, il raconte l'histoire de Georges Clounet (à ne pas confondre avec
 son homonyme [Georges Clooney][7]), un ancien CRS à la retraite qui se retrouve
 malgré lui propriétaire d'une boîte de nuit, le Kif, et ça se complique pour
-lui. Dur de mieux résumer le bouquin que par sa 4è de couverture :
+lui. Dur de mieux résumer le bouquin que par sa 4è de couverture :
 
 > Plutôt incorruptible dans son genre, Georges entend bien faire le ménage dans
 > sa petite entreprise totalement vérolée. Mais en ce début d’automne 2011 au
 > climat déjà bien alourdi par les querelles truquées sur la “filière halal”,
 > les prières dans la rue et le débat sur l’“identité nationale”, ils sont en
-> prime nombreux à lui compliquer la tâche : un ex-acteur porno recyclé dans le
+> prime nombreux à lui compliquer la tâche : un ex-acteur porno recyclé dans le
 > proxénétisme mondain ; un milliardaire saoudien autoproclamé “DSK de la
 > Riviera” ; un converti à l’islam radical qui se voit déjà calife ; une élue du
 > FN qui croit son heure venue… Un million d’euros cash rangé dans une mallette
@@ -69,11 +69,11 @@ l'intelligence du lecteur".
 
 ## C'est pas du Brahms
 
-Et c'est quoi le rapport avec Michel Sardou ? Le rapport c'est qu'en 2009,
+Et c'est quoi le rapport avec Michel Sardou ? Le rapport c'est qu'en 2009,
 [j'écrivais ça][i225] sur Chalumeau :
 
 > Quand on gratte un peu plus loin, on trouve quand même quelques casseroles
-> dans le passé du bonhomme : parolier pour Michel Sardou et G-Squad… Hum… Lire
+> dans le passé du bonhomme : parolier pour Michel Sardou et G-Squad… Hum… Lire
 > un second livre pour préciser son jugement sur Lolo me semble donc à la fois
 > nécessaire et risqué. Nous vous tiendrons informé.
 
@@ -85,7 +85,7 @@ Au sujet de Michel, avec qui il a co-écrit les paroles de _C'est pas du Brahms_
 > J'ai passé 2 ans épatants avec Michel Sardou. Après avoir cessé d'écrire les
 > sketches d'Antoine de Caunes à Canal, je me retrouve à adapter une pièce de
 > Noël Coward pour servir de prétexte aux débuts sur les planches de Michel
-> Sardou, comédien de théâtre. Et c'était extra !
+> Sardou, comédien de théâtre. Et c'était extra !
 
 Quand la journaliste lui demande s'il n'y a pas eu d'opposition de style entre
 les 2 personnages, Lolo reprend :
@@ -97,10 +97,10 @@ les 2 personnages, Lolo reprend :
 > et je lui ai rendu la pareille. En précisant qu'il a quand même des heures de
 > vol et il en a vu des gens. Même la posture que j'aurais pu adopter du mec
 > plus jeune, plus branchouille, plus rock'n'roll, plus ceci, plus cela.
-> Rock'n'roll mon cul ! Si le rock'n'roll s'évalue en drogues prises, en
+> Rock'n'roll mon cul ! Si le rock'n'roll s'évalue en drogues prises, en
 > beuveries, en rails de coke sniffés sur des culs de négresses (sic), Sardou
-> est 15 fois plus rock'n'roll que moi ! Il en a plus oublié que je ne saurai
-> jamais sur le mode de vie rock'n'roll. C'est une vedette ! C'est les Caves du
+> est 15 fois plus rock'n'roll que moi ! Il en a plus oublié que je ne saurai
+> jamais sur le mode de vie rock'n'roll. C'est une vedette ! C'est les Caves du
 > Roy à St-Tropez, ça doit être Carlos qui se jette tout nu dans la piscine. Sur
 > le rock, je peux rien lui raconter.
 
@@ -113,7 +113,7 @@ Avant de conclure sur la fin de leurs 2 ans d'intimité :
 ## Pour conclure
 
 Une dernière [citation de Chalumeau sur les disques][10], opinion sur la magie
-des faces que je partage à 100% :
+des faces que je partage à 100% :
 
 > On ne fait plus d'albums. Avec les baladeurs et la programmation aléatoire,
 > l'album en tant que forme narrative, en tant que construction a reçu le coup
@@ -136,7 +136,7 @@ me concentrer sur ses bouquins.
 ## La Playlist
 
 L'occasion est donc idéale pour fournir une compile spéciale morceaux de fin
-d'albums :
+d'albums :
 
 1. Arctic Monkeys - _From the Ritz to the Rubble_
 2. Bloc Party - _She's Hearing Voices_

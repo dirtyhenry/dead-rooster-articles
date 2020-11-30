@@ -14,7 +14,7 @@ cover: love-travels-at-illegal-speed-graham-coxon.jpg
 
 A l’occasion de la sortie de son album _Love travels at illegal speed_, Graham
 Coxon a donné une liste d'influences sur lesquelles, je pense, il doit valoir le
-coup de se pencher :
+coup de se pencher :
 
 - the Creation,
 - the Electric Prunes,
@@ -23,4 +23,4 @@ coup de se pencher :
 - the Chocolate Watchband
 - the Magic Mushrooms
 
-Le lien de l'interview. [Edit : le lien est cassé désormais]
+Le lien de l'interview. [Edit : le lien est cassé désormais]

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Bande annonce : The Other Guys"
-description: Ce qui manquait aux films de Will Ferrell ? Eva Mendes !
+title: "Bande annonce : The Other Guys"
+description: Ce qui manquait aux films de Will Ferrell ? Eva Mendes !
 authors:
   - Dirty Henry
 wordpress_id: 676
@@ -13,7 +13,7 @@ tags:
   - Cinéma
 ---
 
-Ce qui manquait aux films de Will Ferrell ? Eva Mendes !
+Ce qui manquait aux films de Will Ferrell ? Eva Mendes !
 
 Vivement le 27 octobre.
 

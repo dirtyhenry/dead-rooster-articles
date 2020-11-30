@@ -4,7 +4,7 @@ title: British Sea Power
 description: >
   Dans la série *Les Losers Magnifiques* vus par Dead Rooster (on a déjà parlé
   de The Soundtrack of Our Lives, et de The Thrills), aujourd'hui, un bon groupe
-  bien poissard : **British Sea Power**.
+  bien poissard : **British Sea Power**.
 authors:
   - Joe Gantdelaine
 wordpress_id: 928
@@ -35,13 +35,13 @@ responsable de plusieurs petites merveilles directement envoyées dans les
 oubliettes du rock. Sur leur premier album _The Decline of British Sea Power_
 (titre _a posteriori_ significatif de la lose ambiante…), ces types nous
 pondaient déjà des choses magistrales comme ce _Remember Me_ ("Do you remember
-me?" Oui, mais on est pas nombreux !).
+me?" Oui, mais on est pas nombreux !).
 
 {% youtube ua4BiBV6i6o %}
 
 Tout le reste de l'album est assez génial mais à l'époque, il n'intéresse
 personne, en pleine vague des groupes en "The" (_The_ British Sea Power, ça
-aurait déjà plus marché les gars !). Bref, un mauvais timing pour des mecs qui
+aurait déjà plus marché les gars !). Bref, un mauvais timing pour des mecs qui
 sonnent comme du Arcade Fire en moins grandiloquent, avec un chanteur parfois au
 faux air de Bowie mais qui arrive 40 ans après la bataille.
 
@@ -51,7 +51,7 @@ cartons de l'Histoire.
 
 {% youtube YYJKtC2cMoo %}
 
-En 2008, _Do You Like Rock Music ?_ ("Oui, merci, et vous ?") sort dans
+En 2008, _Do You Like Rock Music ?_ ("Oui, merci, et vous ?") sort dans
 l'indifférence générale tandis que BSP atteint encore des sommets de
 composition, avec un album plus varié que les deux précédents. Mais voilà, les
 fans d'Arcade Fire se contrefichent de _No Lucifer_, ceux de Clap Your Hands Say
@@ -69,9 +69,9 @@ l'année.
 {% youtube CNOrK_T4UOI %}
 
 Enfin, tant pis. Tant pis pour eux, tant pis pour nous. British Sea Power ne
-mérite pas son sort. A l'image de leur pauvre roadie : un type méga-classieux,
+mérite pas son sort. A l'image de leur pauvre roadie : un type méga-classieux,
 banane impeccable, bottes en cuir parfaites, capable de décapsuler des bières
 avec une bouteille d'eau et qui pourtant passe le concert dans l'ombre.
 
-Voilà, British Sea Power, c'est ça : de la classe, de la musique parfaite mais à
+Voilà, British Sea Power, c'est ça : de la classe, de la musique parfaite mais à
 jamais dans l'ombre.

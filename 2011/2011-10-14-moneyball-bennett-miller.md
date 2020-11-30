@@ -22,7 +22,7 @@ fait des miracles pour se qualifier pour les playoffs en dépit de son petit
 budget, ils se sont encore fait éliminés par les richissimes Yankees. Pour
 couronner le tout, trois de ses meilleurs joueurs quittent le club.
 [La vie n'fait pas d'cadeau](http://youtu.be/qPIiKF2I4YM?t=46s). Du coup, Billy
-décide de changer de stratégie : plutôt que recruter de façon traditionnelle en
+décide de changer de stratégie : plutôt que recruter de façon traditionnelle en
 écoutant les conseils d'un clan de vieux sages chiqueurs de tabac, on va tout
 baser sur les stats, sans se laisser distraire par des ressentis ou des
 impressions car les chiffres, eux, ne mentent pas.
@@ -32,8 +32,8 @@ impressions car les chiffres, eux, ne mentent pas.
 _Moneyball_ est l'adaptation d'un livre de Michael Lewis, s'inspirant d'une
 histoire vraie. Lorsque Columbia Pictures acheta les droits du livre en 2004,
 [Lewis pensa que ça allait forcément faire de la merde](http://www.thedailyshow.com/watch/tue-october-4-2011/michael-lewis).
-On sait aujourd'hui qu'il a eu tort : le film est très bon. Les doutes de Lewis
-étaient pourtant légitimes puisque l'accouchement fut difficile : il aura fallu
+On sait aujourd'hui qu'il a eu tort : le film est très bon. Les doutes de Lewis
+étaient pourtant légitimes puisque l'accouchement fut difficile : il aura fallu
 trois versions du scénario et quatre réalisateurs se succédant aux manettes du
 projet. C'est finalement Bennett Miller qui s'y est collé, 6 ans après _Capote_.
 
@@ -46,7 +46,7 @@ baseball. Cadeau pour les Français, on peut même regarder le film en se mettan
 en tête que finalement, Brad Pitt joue un peu
 [le rôle de Guy Roux](http://www.lemeilleurdupsg.com/images/news/image/Autres/Guy_Roux.jpg),
 chose cocasse s'il en est. La version française sort le 16 novembre, s'appelle
-_Le Stratège_ ([encore][i333] une bonne idée non ?) et maintenant que j'habite à
+_Le Stratège_ ([encore][i333] une bonne idée non ?) et maintenant que j'habite à
 Boston, je ne me priverai pas de me la péter en parlant des films avant leur
 sortie en France.
 
@@ -55,7 +55,7 @@ Danna (le même que pour _Little Miss Sunshine_), la version light de
 [_The Show_](http://www.youtube.com/watch?v=elsh3J5lJ6g&ob=av2e) que joue la
 fille de Billy est bizarrement assez charmante et on a le droit aux Black Keys
 avec [_Howlin' For You_](http://www.youtube.com/watch?v=TLSpj7q6_mM), dont il
-existe un clip très marrant :
+existe un clip très marrant :
 
 {% youtube TLSpj7q6_mM %}
 

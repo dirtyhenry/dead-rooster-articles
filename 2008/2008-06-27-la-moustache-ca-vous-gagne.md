@@ -1,6 +1,6 @@
 ---
 layout: post
-title: La moustache, ça vous gagne !
+title: La moustache, ça vous gagne !
 authors:
   - Joe Gantdelaine
 wordpress_id: 451
@@ -9,4 +9,4 @@ cover: mannschaft.jpg
 ---
 
 Il est fort probable que les vainqueurs de l'Euro 2008 aient été élevés au pays
-où l'on porte la moustache avec fierté. Le monde va mal !
+où l'on porte la moustache avec fierté. Le monde va mal !

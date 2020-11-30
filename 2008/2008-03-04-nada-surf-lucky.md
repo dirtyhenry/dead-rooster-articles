@@ -54,7 +54,7 @@ bougé. Leur show est impressionant de constance dans l'enchaînement de perles
 rock ou pop. Ils viennent ici défendre _Lucky_ mais n'oublient pas les albums
 précédents. Le concert commence par _Hi-Speed Soul_, bombe rock au rythme disco
 de leur chef d'oeuvre _Let Go_ et s'enchaîne sur la plupart des singles du
-groupe : _Always Love_, _Inside of Love_, _Blonde on Blonde_, _80 Windows_ et un
+groupe : _Always Love_, _Inside of Love_, _Blonde on Blonde_, _80 Windows_ et un
 medley _Stalemate/Love Will Tear Us Apart_ qu'ils jouent régulièrement depuis
 plusieurs années. Seul _Popular_ manque à l'appel. Surprenant ? Pas tellement
 tant ce single originel aura pu amener le public et les maisons de disque à se

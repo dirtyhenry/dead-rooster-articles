@@ -14,4 +14,4 @@ défend de la manière suivante :
 > Est-ce que je serais à ce point stupide de prendre de la Cera un an après
 > qu'on l'ait découverte sur Ricco, Sella, Rebellin, et en plus au Giro ?
 
-Visiblement, la réponse est… oui ! Le monde va mal !
+Visiblement, la réponse est… oui ! Le monde va mal !

@@ -19,7 +19,7 @@ comments:
     date: "2010-08-27 12:28:02 +0200"
     title: Introduction aux vvagues
     content:
-      "La chanson a désormais un clip :
+      "La chanson a désormais un clip :
       [http://pitchfork.com/news/39867-video-wavves-post-acid/](http://pitchfork.com/news/39867-video-wavves-post-acid/)"
 ---
 

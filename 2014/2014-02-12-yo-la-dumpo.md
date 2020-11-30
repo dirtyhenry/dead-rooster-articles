@@ -25,7 +25,7 @@ albums, je préfère toujours deux autres longs formats : _A Grown-Ass Man_ (sa
 doute le côté "album de cœur car album de la découverte") avec des chansons
 lo-fi extrêmement accrocheuses (_I Wish/You Wish_, _I'm On Your Side_ ou encore
 _Cowboy Song_, originellement de **Thin Lizzy**). Et surtout _That Skinny
-Motherfucker With The High Voice ?_, album de reprises de **Prince**, qui, à mon
+Motherfucker With The High Voice ?_, album de reprises de **Prince**, qui, à mon
 humble avis, a l'incroyable pouvoir de transcender toutes les versions
 originales, pour quiconque préfère le dépouillement aux arrangements lourdauds
 des 80s. S'il ne fallait en retenir qu'une, ce serait _Pop Life_.
@@ -41,7 +41,7 @@ que ce sont à peu près les seuls groupes auxquels je pense à avoir une œuvre
 je trouve globalement excellente, mais où figurent des chansons trop pénibles
 pour mes délicates oreilles. Pour Sonic Youth, _Goo_ est un [chef-d'œuvre][2].
 Là, tout le monde est d'accord. Mais, nom de Dieu ! Qui peut endurer avec
-plaisir _Scooter + Jinx_ ? Alors, certes, c'est certainement une pièce
+plaisir *Scooter + Jinx* ? Alors, certes, c'est certainement une pièce
 "intéressante" musicalement. M'enfin… Son seul avantage est de ne durer qu'une
 minute (et si sa grande force était de distordre le temps, en faisant passer une
 minute pour un quart d'heure ?). Pour Yo La Tengo, même constat : _Popular

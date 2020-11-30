@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Oh ! Les yeux de chacun Chéri !
+title: Oh ! Les yeux de chacun Chéri !
 description:
   Déjà trois semaines depuis la dernière mise à jour du concours Katerine.
   Allez, un petit peu de son actu marrante d'abord, et on parle du concours
@@ -38,32 +38,32 @@ et en live et en kilt ça donne…
 ### 39. _Les yeux de ma mère_ d'Arno
 
 Une version live d'Arno, qui fait pleurer les copains, Dechavanne, Arditi et Eve
-Angeli :
+Angeli :
 
 {% youtube 2rrYrTQUlY0 %}
 
 ### 40. _Chacun fait (c'qui lui plaît)_ de Chagrun d'Amour
 
-L'originale :
+L'originale :
 
 {% youtube lQ1aSVPuAug %}
 
 ### 41. _Oh Oh Chéri_ de Françoise Hary
 
-L'originale :
+L'originale :
 
 {% youtube Sy7QglZfKHo %}
 
 ### Le classement
 
 Pour la première fois depuis piouf, on a un changement au classement. kr avait
-choisi "Chacun fait …" en deuz et marque donc 4 points :
+choisi "Chacun fait …" en deuz et marque donc 4 points :
 
 - 1. Hervé, 15pts
 - 2. Benji, Rodrigue et Joe, 5pts
 - 5. Marion, David, Loïc et kr, 4pts
 - 9. Le reste du monde à 0 pt
 
-<strike>Il est encore temps de participer en [cliquant ici][i569] !</strike>
+<strike>Il est encore temps de participer en [cliquant ici][i569] !</strike>
 
 [i569]: {% post_url 2010/2010-02-09-concours-katerine-francis-et-ses-peintres %}

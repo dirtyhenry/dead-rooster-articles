@@ -9,6 +9,6 @@ category: Le monde va mal
 ---
 
 [Dorian Pabon va jouer à Valence][1]. Rappelons simplement que Valentin Patéripe
-et Aymeric Nulachié recherchent des clubs pour les accueillir. Le monde va mal !
+et Aymeric Nulachié recherchent des clubs pour les accueillir. Le monde va mal !
 
 [1]: https://www.lequipe.fr/Football/Actualites/Valence-s-offre-pabon/394069

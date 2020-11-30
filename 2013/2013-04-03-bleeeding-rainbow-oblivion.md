@@ -13,7 +13,7 @@ des sessions de l'album. Toujours aussi bon.
 {% soundcloud 84847643 %}
 
 Plein d'autres chansons du groupe sont à écouter (certaines sous leur ancien
-nom, [Reading Rainbow][i728]) : [_Drift Away_][i1133], [_Dead End_][i910] ou
+nom, [Reading Rainbow][i728]) : [_Drift Away_][i1133], [_Dead End_][i910] ou
 [_Wasting Time_][i712].
 
 (via [Stereogum](http://stereogum.com/1300722/bleeding-rainbow-oblivion/mp3s/))

@@ -5,7 +5,7 @@ title: Ami des stars
 
 {% asset valerie-leulliot.jpg %}
 
-Autour de Lucie est (était ?) un groupe formidable. Après l'avoir vu 3 fois en
+Autour de Lucie est (était ?) un groupe formidable. Après l'avoir vu 3 fois en
 concert et être tombé inévitablement plus ou moins amoureux de **Valérie
 Leulliot**, la chanteuse du groupe, je me suis donc précipité au [Truskel][1]
 quand j'ai su que la dame y aller être DJ d'un soir.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vikash vous zlatane tous !
+title: Vikash vous zlatane tous !
 authors:
   - Dirty Henry
 wordpress_id: 1153
@@ -20,9 +20,9 @@ footballeurs ont donné leur nom à des mots.
 Avec la bonne mine de Vikash Dhorasoo lorsqu'il était remplaçant lors de la
 coupe du monde 2010 sous le beau soleil d'Allemagne, on disait de quelqu'un qui
 avait joliment bronzé qu'il avait _dhorasooé_. Le langage SMS l'a transformé en
-"dorer à souhait" et on ne l'utilise guère plus qu'en cuisine. Le monde va mal !
+"dorer à souhait" et on ne l'utilise guère plus qu'en cuisine. Le monde va mal !
 
-ps : on pensera aussi à [llacerer](http://fr.wikipedia.org/wiki/Francis_Llacer)
+ps : on pensera aussi à [llacerer](http://fr.wikipedia.org/wiki/Francis_Llacer)
 (dont on a enlevé le premier 'l' pour des raisons évidentes) dont le sens a
 évolué de "rentrer en seconde mi-temps pour découper les jambes du meilleur
 jouer adverse par un tacle assassin" en

@@ -19,9 +19,9 @@ tags:
 
 ### Phil Spector - _Presents the Philles Album Collection_
 
-7 CD pour synthétiser une large partie de la carrière du producteur génial :
+7 CD pour synthétiser une large partie de la carrière du producteur génial :
 Crystals, Ronettes, Bob B. Soxx and the Blue Jeans sont au programme. Du grand
-art : _Another Country - Another World_, _Be My Baby_ et leurs petites soeurs
+art : _Another Country - Another World_, _Be My Baby_ et leurs petites soeurs
 sont de la partie. Seul le dernier CD, signé The Phil Spector Wall Of Sound
 Orchestra, un rien jazzy, peut faire bailler. Le reste est de la balle.
 
@@ -47,7 +47,7 @@ Ma préférée est _Younger than Yesterday_. Vous pouvez écouter _It's Real_
 
 ### British Sea Power - _Valhalla Dancehall_
 
-Les chouchous de Joe Gantdelaine régalent. Seul reproche à faire au groupe : un
+Les chouchous de Joe Gantdelaine régalent. Seul reproche à faire au groupe : un
 certain manque d'identité qui font penser que certains titres sont des
 imitations (_Thin Black Sail_ pourrait être une parodie des Arctic Monkeys).
 _Living Is So Easy_ est recommandée.
@@ -63,17 +63,17 @@ Have Been_), mi pop-orfèvre à la Guillemots (_Toi_).
 
 Bert Jansch est mort en octobre et c'est l'occasion de découvrir son oeuvre.
 C'est moche mais c'est comme ça. Si Pentangle est complètement indigeste, le
-premier album de Bert est carrément cool : de la guitare en picking et une voix,
+premier album de Bert est carrément cool : de la guitare en picking et une voix,
 point barre. La légende dit même qu'il a été enregistré dans une cuisine. La
 classe. L'album a sûrement influencé Nick Drake et Jimmy Page. Y'a pire. _Needle
-Of Death_ (<strike>_Do You Hear Me Now_</strike> : apparemment le nommage sur
+Of Death_ (<strike>_Do You Hear Me Now_</strike> : apparemment le nommage sur
 Spotify est un peu bugué, au temps pour moi) est ma préférée.
 
 ### Maison Neuve - _Joan_
 
 Un groupe français qui fait du rock cool, voilà quelque chose qu'on ne rencontre
 pas tous les jours. Voix d'influence Phoenixienne, des compos en anglais et des
-compos en français nettement plus awkward : _Under Skies of Fire_ est à écouter
+compos en français nettement plus awkward : _Under Skies of Fire_ est à écouter
 en priorité.
 
 ### The King Khan Experience - _Scion A/V Presents The King Khan Experience_
@@ -99,7 +99,7 @@ parti pour truster les meilleures places des tops de fin d'année un peu partout
 ### Foster The People - _Torches_
 
 _Pumped Up Kids_ est un tube incontournable et donne une popularité méritée au
-groupe. Attention cependant au syndromes MGMT et White Town : ne pas devenir
+groupe. Attention cependant au syndromes MGMT et White Town : ne pas devenir
 trop bizarre ou se faire tuer par un trop gros tube.
 
 ### Loney Dear - _Hall Music_
@@ -113,7 +113,7 @@ Supertramp, ce qui est cool et ringard à la fois. J'aime bien.
 
 ### Herman Düne - _Strange Moosic_
 
-Loin d'être le meilleur de la fratrie. Mais pas déplaisant : _The Rock_, _Lay
+Loin d'être le meilleur de la fratrie. Mais pas déplaisant : _The Rock_, _Lay
 Your Head On My Chest_, _Tell Me Something I Don't Know_ sont de bonne facture.
 
 ### Yann Tiersen - _Skyline_
@@ -136,7 +136,7 @@ J'avais entendu beaucoup de choses en bien sur les Parisiens de Wonderflu
 [ici][i829] et
 [là](http://blogs.lesinrocks.com/gimmeindierock/2011/10/06/vote-for-wonderflu/).
 Je m'y suis enfin penché et ai été légèrement déçu. Déjà, le cover art est très
-moche (police rouge sur fond bleu ? merde les gars, vous êtes pas sérieux !). Du
+moche (police rouge sur fond bleu ? merde les gars, vous êtes pas sérieux !). Du
 classique un peu trop classique. Pas de quoi les condamner complètement non
 plus, juste le syndrome _Les Visiteurs_ du truc que quand vous l'écoutez après
 tout le monde, vous ne voyez pas pourquoi les gens en font tout un foin. J'aime
@@ -167,7 +167,7 @@ l'album reste trop atmosphérique pour qu'on s'y plonge.
 ### Minus The Bear - _Omni_
 
 Juste un peu nul. Ça ressemble à ce que Kaiser Chiefs pourrait faire de pire. Ce
-groupe est un faux-ami : il a "Bear" dans son nom mais n'est pas vraiment cool
+groupe est un faux-ami : il a "Bear" dans son nom mais n'est pas vraiment cool
 pour autant. Minus est plus pertinent.
 
 ## La synthèse

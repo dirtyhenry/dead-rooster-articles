@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Triste marquise des anges !
+title: Triste marquise des anges !
 authors:
   - Joe Gantdelaine
 wordpress_id: 415
@@ -10,4 +10,4 @@ cover: michele-mercier.jpg
 
 Il y a 40 ans cette année, l'annonce du divorce entre Michèle Mercier et André
 Samagghe déchirait les coeurs de tout un peuple. Cette information n'émeut plus
-personne aujourd'hui. Le monde va mal !
+personne aujourd'hui. Le monde va mal !

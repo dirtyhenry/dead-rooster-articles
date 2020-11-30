@@ -2,7 +2,7 @@
 layout: post
 title: The DIY Series - Social Square
 description:
-  Les DIY Series sont une nouvelle saga de votre site préféré. Le concept ?
+  Les DIY Series sont une nouvelle saga de votre site préféré. Le concept ?
   Aller à la rencontre de créateurs amateurs et indépendants pour les interroger
   sur leur motivation, leur mode de fonctionnement. Bref, connaître et faire
   connaître des techniques de Do It Yourself. Première rencontre avec {{Social
@@ -18,7 +18,7 @@ tags:
   - The DIY Series
 ---
 
-Les DIY Series sont une nouvelle saga de votre site préféré. Le concept ? Aller
+Les DIY Series sont une nouvelle saga de votre site préféré. Le concept ? Aller
 à la rencontre de créateurs amateurs et indépendants pour les interroger sur
 leur motivation, leur mode de fonctionnement. Bref, connaître et faire connaître
 des techniques de [Do It Yourself](http://fr.wikipedia.org/wiki/Do_it_yourself).
@@ -27,8 +27,8 @@ Première rencontre avec **Social Square**.
 Social Square est un trio parisien fondé en 2005, qui joue du rock à guitares et
 revendique haut et (très) fort l'influence du rock alternatif américain des
 années 90. Pavement, Sebadoh ou Sonic Youth sont leurs influences les plus
-évidentes. Plus que de longs discours, écoutez donc _Walk In Your Shoes_ et _It
-vs You_ :
+évidentes. Plus que de longs discours, écoutez donc _Walk In Your Shoes_ et *It
+vs You* :
 
 {% soundcloud 16583964 %}
 
@@ -60,10 +60,10 @@ amplis) mais c'est un moindre mal.
 ## Les enregistrements
 
 Le groupe a enregistré 3 titres en 2010. Le travail a commencé dans un studio
-d'Alfortville : trois jours de location avec un ingénieur du son de leur
+d'Alfortville : trois jours de location avec un ingénieur du son de leur
 connaissance - James van Leuven. Une fois les titres enregistrés et mixés, on
-leur a tuyauté une idée pour le mastering : plutôt que le faire à Paris,
-pourquoi pas le faire faire par des Américains biberonnés aux mêmes influences ?
+leur a tuyauté une idée pour le mastering : plutôt que le faire à Paris,
+pourquoi pas le faire faire par des Américains biberonnés aux mêmes influences ?
 En l'occurrence, le mastering a été fait par
 [Master Works](http://www.master-works.com/), à Seattle (c'est donc là que se
 cache la seconde raison du son si-peu-français du groupe). Les échanges se sont
@@ -75,7 +75,7 @@ manettes, et pour financer le tout
 ([parce que faire de la musique, ça coûte de l'argent](http://www.youtube.com/watch?v=XKnCGUV8ZZI#t=0m30s)),
 le groupe a eu la bonne idée d'utiliser la plateforme de collecte de fonds
 [Kiss Kiss Bank Bank](http://www.kisskissbankbank.com/projects/enregistrement-du-premier-album-de-social-square)
-où tout le monde pouvait participer à l'effort en contrepartie de lots sympas :
+où tout le monde pouvait participer à l'effort en contrepartie de lots sympas :
 
 - pour une participation de 5€, un exemplaire signé et numéroté de l'album
 - pour 15€, ajoutez-y stickers et badges
@@ -83,13 +83,13 @@ où tout le monde pouvait participer à l'effort en contrepartie de lots sympas 
 
 ## Les concerts
 
-Patrick a une stratégie pour trouver les concerts du groupe : bassiner les
+Patrick a une stratégie pour trouver les concerts du groupe : bassiner les
 responsables de bars jusqu'à ce qu'ils acceptent. Ou alors profiter des
 connexions avec les potes des autres groupes pour jouer les mêmes soirs qu'eux.
 Au final, le groupe joue un concert tous les mois ou deux, surtout en région
-parisienne. Pourquoi pas ailleurs ? Les villes de province proches de Paris sont
+parisienne. Pourquoi pas ailleurs ? Les villes de province proches de Paris sont
 jouables (Lille ou Reims par exemple), mais quand il faut aller plus loin, la
-logistique devient compliquée : il faut louer la camionnette pour le matos,
+logistique devient compliquée : il faut louer la camionnette pour le matos,
 payer les frais de transports, trouver un logement sur place et on a le boulot
 qui fixe des contraintes de planning. Les cachets sont loin de couvrir toutes
 les dépenses.
@@ -127,14 +127,14 @@ un groupe et le faire vivre à moindre frais, sans producteur et en toute
 indépendance, à condition d'y passer du temps, du temps et encore du temps.
 
 Au risque de voir une multiplication du nombre de groupes jusqu'au seuil
-critique où ils n'arriveront plus à trouver leur public ? Pas vraiment puisque
+critique où ils n'arriveront plus à trouver leur public ? Pas vraiment puisque
 le web vient aussi à la rescousse, outre les incontournables MySpace, Bandcamp
 ou Inrocks Lab, même aussi [Noomiz](http://www.noomiz.com/), une autre
 plateforme française, dont Patrick m'apprend l'existence.
 
-## Des recommandations ?
+## Des recommandations ?
 
-Au final, voici les recommandations de Social Square :
+Au final, voici les recommandations de Social Square :
 
 - [Dead Pop Club](http://deadpopclub.free.fr/)
 - [Yuck](http://www.myspace.com/yuckband)
@@ -146,4 +146,4 @@ nouveau club rock parisien Les Combustibles, 14 rue Abel, avec The Bree Van De
 Kamp's et Bloodthirsty Hippies, 5€.**
 
 Créateurs amateurs et indépendants, n'hésitez pas à vous manifester dans les
-commentaires !
+commentaires !

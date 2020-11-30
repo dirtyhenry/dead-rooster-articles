@@ -4,7 +4,7 @@ title: Mardi investigation
 description:
   Et si la façon la plus simple de perdre encore plus de temps qu'en regardant
   simplement des clips sur internet était de chercher à tout prix à créer un
-  lien entre ces vidéos ?
+  lien entre ces vidéos ?
 authors:
   - Joe Gantdelaine
 wordpress_id: 723
@@ -22,23 +22,23 @@ comments:
     author_email: guiguilele@gmail.com
     date: 2010-11-17 11:33:48 +0100
     title: Mardi investigation
-    content: Rha ouais, t'sais c'est quoi l'pire ?!? C'est que t'as raison mec !
+    content: Rha ouais, t'sais c'est quoi l'pire ?!? C'est que t'as raison mec !
   - author: Dirty Henry
     author_email: dirtyhenry@gmail.com
     date: 2010-11-17 16:12:46 +0100
     title: Mardi investigation
     content:
-      On peut aussi se demander si Sim n'est pas le père de Pete Doherty !
+      On peut aussi se demander si Sim n'est pas le père de Pete Doherty !
 ---
 
 La musique a ceci d'insurpassable qu'elle acquiert la cohérence qu'on lui
 trouve. Je sais pas si c'est très compréhensible comme phrase, mais par exemple,
-aujourd'hui, j'écoutais ça :
+aujourd'hui, j'écoutais ça :
 
 {% youtube 0eDOEgdyN5U %}
 
-Quand, au milieu de la chanson, il y a eu ces paroles : "With two years to
-wait/For the sound of Jilted John". Alors, du coup, j'ai regardé ça :
+Quand, au milieu de la chanson, il y a eu ces paroles : "With two years to
+wait/For the sound of Jilted John". Alors, du coup, j'ai regardé ça :
 
 {% youtube iN45OjB-cCU %}
 
@@ -50,9 +50,9 @@ sur le podium des "chansons sur la frustration adolescente", pas loin de Teenage
 Kicks, je lus sur la page wikipédia sus-nommée que le morceau était
 "régulièrement diffusé par John Peel sur l'antenne de la BBC".
 
-Ce même John Peel qui n'avait qu'un souhait : être enterré au son de la chanson
+Ce même John Peel qui n'avait qu'un souhait : être enterré au son de la chanson
 des Undertones.
 
 {% youtube oskM5XD_Yc4 %}
 
-Bref, tout est cohérent quoi !
+Bref, tout est cohérent quoi !

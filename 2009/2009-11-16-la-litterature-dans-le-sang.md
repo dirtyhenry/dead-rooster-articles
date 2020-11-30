@@ -11,4 +11,4 @@ cover: dracula.jpg
 Dacre Stoker, ancien coach de l'équipe du Canada de Pentathlon, a donné une
 suite à l'ouvrage culte de Bram Stocker, _Dracula_. On attend désormais _Les 5
 Mousquetaires_ par Franck Dumas, l'entraîneur de Caen, et la prochaine pièce des
-Deschiens, mise en scène par Didier Deschamps. Le monde va mal !
+Deschiens, mise en scène par Didier Deschamps. Le monde va mal !

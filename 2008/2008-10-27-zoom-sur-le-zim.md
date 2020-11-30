@@ -19,7 +19,7 @@ duquel rien n'est gagné d'avance, les premiers succès, etc. Si Dylan a eu un
 succès et un destin aussi exceptionnels, on pourra lui concéder qu'il n'y est
 pas étranger. La persévérance ne semble pas être la moindre de ses qualités.
 
-Mais revenons sur les points essentiels qu'on retient de l'ouvrage :
+Mais revenons sur les points essentiels qu'on retient de l'ouvrage :
 
 - Dylan a commencé à vraiment gagner sa vie en composant pour Peter, Paul & Mary
 - on n'enregistre qu'en une prise, deux maximum
@@ -31,7 +31,7 @@ Mais revenons sur les points essentiels qu'on retient de l'ouvrage :
   qu'on enregistre un morceau comme ça, un peu à l'arrache, ça peut faire de
   belles introductions d'album (cf. _Blonde on Blonde_)
 
-Pour finir voici une liste sélective du monde de Dylan, à goûter sur le net :
+Pour finir voici une liste sélective du monde de Dylan, à goûter sur le net :
 
 - [Woody Guthrie - _This land is your land_](http://www.deezer.com/track/115477)
 - [Hank Williams - _Honky Tonk Blues_](http://www.deezer.com/track/2148549)

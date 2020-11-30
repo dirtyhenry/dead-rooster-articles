@@ -10,4 +10,4 @@ cover: sondage-equipe-chavanel.png
 
 Aujourd'hui sur le site de l'Equipe, on a pu voir un sondage au résultat aussi
 prévisible que cinglant. Détruire Aimé Jacquet et Santoro ne leur suffit donc
-pas ? Ils veulent donc tous en faire des trophées de chasse ? Le monde va mal !
+pas ? Ils veulent donc tous en faire des trophées de chasse ? Le monde va mal !

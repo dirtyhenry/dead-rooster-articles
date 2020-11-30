@@ -16,7 +16,7 @@ Après plusieurs semaines d'attente, nous ne sommes plus qu'à quelques jours de
 la sortie de _Crazy For You_, le 1er album de **Best Coast**.
 
 Best Coast est un duo de Los Angeles dont la chanteuse, Bethany Cosentino,
-résume les ambitions par la formule suivante : de la batterie à la Beatles, des
+résume les ambitions par la formule suivante : de la batterie à la Beatles, des
 guitares à la Ramones et des voix à la Phil Spector. Chouette programme.
 
 Quelques liens :

@@ -36,4 +36,4 @@ cover: compile-automne-2008.jpg
 
 _NB : les titres avec 🔇 sont indisponibles._
 
-<div xmlns:cc="http://creativecommons.org/ns#" about="http://www.flickr.com/photos/jyromanetti/1617556219/">Photo : <a rel="cc:attributionURL" href="http://www.flickr.com/photos/jyromanetti/">http://www.flickr.com/photos/jyromanetti/</a> / <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.0/">CC BY-NC-ND 2.0</a></div>
+<div xmlns:cc="http://creativecommons.org/ns#" about="http://www.flickr.com/photos/jyromanetti/1617556219/">Photo : <a rel="cc:attributionURL" href="http://www.flickr.com/photos/jyromanetti/">http://www.flickr.com/photos/jyromanetti/</a> / <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.0/">CC BY-NC-ND 2.0</a></div>

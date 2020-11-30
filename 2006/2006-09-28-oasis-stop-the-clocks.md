@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Arrêtez les horloges !
+title: Arrêtez les horloges !
 authors:
   - Joe Gantdelaine
 wordpress_id: 334
@@ -25,7 +25,7 @@ Noel y voit un manifeste pour les générations futures :
 
 Que penser de la sortie d'un best-of de Oasis alors que Noel Gallagher avait
 toujours clamé haut et fort qu'il n'en voulait pas tant que le groupe n'aurait
-pas splitté ? Apparemment pas grand chose, le mancunien ayant déclaré que leur
+pas splitté ? Apparemment pas grand chose, le mancunien ayant déclaré que leur
 contrat avec Sony étant fini, ils n'avaient actuellement ni prévu de faire
 quelque chose dans le futur, ni prévu de ne rien faire pour le futur.
 Apparemment, le groupe serait en congé forcé jusqu'en juin 2007, date à laquelle

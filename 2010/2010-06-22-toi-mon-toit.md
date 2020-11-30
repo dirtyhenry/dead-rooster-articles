@@ -4,7 +4,7 @@ title: Toi mon toit
 description:
   La reprise de {{Katerine, Francis et ses peintres}} de la semaine est {Toi mon
   toit} de Elli Medeiros. Mais cette semaine, Katerine nous offre aussi un
-  nouveau titre bien à lui !
+  nouveau titre bien à lui !
 authors:
   - Dirty Henry
 wordpress_id: 634
@@ -22,11 +22,11 @@ toit_, de Elli Medeiros.
 
 L'originale suit, comme d'habitude, mais d'abord, profitons également du nouveau
 titre du prochain album de Katerine, _Bla Bla Bla_, diffusé cette semaine
-également :
+également :
 
 {% youtube cYfNDHSqrEA %}
 
-Quant à l'originale d'Elli Medeiros, là voilà :
+Quant à l'originale d'Elli Medeiros, là voilà :
 
 {% youtube mKsEBJdVvgI %}
 
@@ -38,6 +38,6 @@ Encore une fois, personne ne l'avait pronostiqué et le classement reste inchang
 - 4. Marion, David et Loïc, 4pts
 - 7. Le reste du monde à 0 pt
 
-Il est encore temps de participer en [cliquant ici][i569] !
+Il est encore temps de participer en [cliquant ici][i569] !
 
 [i569]: {% post_url 2010/2010-02-09-concours-katerine-francis-et-ses-peintres %}

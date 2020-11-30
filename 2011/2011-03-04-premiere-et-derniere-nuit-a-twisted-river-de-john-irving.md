@@ -63,7 +63,7 @@ pages et le premier est toujours un peu rébarbatif) je trouve qu'en général l
 passage pénible est de courte durée et qu'une fois à l'intérieur, il devient
 impossible d'en ressortir. Cependant, cette fois-ci, je dois reconnaître que je
 me suis demandé, lors de la lecture des cent premières pages si je ne tenais pas
-un exemplaire de la collection _Que Sais-je ?_ sur l'Histoire et l'Evolution du
+un exemplaire de la collection _Que Sais-je ?_ sur l'Histoire et l'Evolution du
 transport fluvial de bois et des bûcherons qui le découpent. Certes il s'agit là
 du contexte dans lequel on veut nous faire rencontrer les personnages et une
 description précise de ce contexte aide à la compréhension de ces personnages.

@@ -3,8 +3,8 @@ layout: post
 title: Noah et la baleine
 description:
   Noah & the Whale a sorti son second album, {The Fist Days of Spring} et était
-  de passage à Paris, au café de danse, en septembre. Que penser de ce groupe ?
-  A écouter au casque ? A voir en live ? Les deux ?
+  de passage à Paris, au café de danse, en septembre. Que penser de ce groupe ?
+  A écouter au casque ? A voir en live ? Les deux ?
 authors:
   - Dirty Henry
 wordpress_id: 540
@@ -30,19 +30,19 @@ comments:
 
 Il y a plusieurs mois, Noah and the Whale est arrivé un peu partout sur internet
 et sans même lire les articles ou écouter les chansons qui allaient avec, le
-groupe m'a séduit immédiatement :
+groupe m'a séduit immédiatement :
 
 - une pochette de disque - leur premier, _Peaceful, The World Lays Me Down_ -
   qui reprend la ligne graphique de
   [_The Life Aquatic_, le film de Wes Anderson](http://www.youtube.com/watch?v=gbPUiaRnQkU)
-  (_ndlr_ : si vous cliquez sur ce lien, vous aurez, entre autres, _Ceremony_ de
+  (*ndlr* : si vous cliquez sur ce lien, vous aurez, entre autres, _Ceremony_ de
   Joy Division/New Order en fond sonore)
-- un nom qui me rappelle vaguement quelque chose… "Yannick le tennisman ?" Oui
-  mais aussi autre chose. "Joakim le basketteur ?" Aussi mais tu commences à
+- un nom qui me rappelle vaguement quelque chose… "Yannick le tennisman ?" Oui
+  mais aussi autre chose. "Joakim le basketteur ?" Aussi mais tu commences à
   devenir lourd là. Bon sang mais c'est bien sûr, il est inspiré du film _The
   Squid and the Whale_ de Noah Baumbach (co-scénariste de _The Life Aquatic_)
 
-On a donc affaire à des cinéphiles éclairés… Intéressant !
+On a donc affaire à des cinéphiles éclairés… Intéressant !
 
 C'est bien joli tout ça mais ce n'est pas suffisant. Sans quoi,
 [The Levinsons in the Trees](http://www.myspace.com/levinsonsinthetrees)
@@ -54,7 +54,7 @@ les refrains pour fabriquer une musique mexicaine et bucolique, fraîche comme u
 verre de tropico au mois d'août. Pour la seconde, sifflets, glockenspiel et
 ukulélés entrent en sus, on dit "love" à chaque fin de phrase et on ajoute un
 son très rigolo qui rappelle les moments où Yoshi se fait dégommer sur Super
-Mario World (à 3:13). Et moi, excusez-moi mais merde, j'adore ça ! Pour le reste
+Mario World (à 3:13). Et moi, excusez-moi mais merde, j'adore ça ! Pour le reste
 quelques chansons honorables et plusieurs titres anecdotiques mais jamais
 repoussants. Mais que cachent ces titres "anecdotiques mais jamais repoussants"
 ?
@@ -68,7 +68,7 @@ and the Whale ont désactivé la version embed de leurs vidéos)
 {% asset noah-and-the-whale-flycasse.jpg %}
 
 Puis vient le concert au café de la danse à Paris le 18 septembre dernier. Là,
-on découvre que le groupe n'est pas américain mais londonien ("non ?"), que leur
+on découvre que le groupe n'est pas américain mais londonien ("non ?"), que leur
 physique n'est pas du tout ce qu'on imaginait (le batteur est un bûcheron
 almodovarien, le chanteur ressemble à ce qui devrait être le frère de Hermione
 Granger, le bassiste à Philip Seymour Hoffman qui ne se serait pas douché depuis
@@ -87,7 +87,7 @@ mais jamais repoussants" qui deviennent sur scène "anecdotiques et clairement
 soporifiques". On atteint là la limite du groupe. Car bon, l'amour et la rupture
 ont toujours été la base élémentaire des chansons de blues et du rock'n'roll,
 [c'est pas Laurent Voulzy et Véronique Jeannot qui diront le contraire](http://www.youtube.com/watch?v=6LgYEz0Td1k),
-mais dans des limites arithmétiques que je formulerais ainsi : une chanson pour
+mais dans des limites arithmétiques que je formulerais ainsi : une chanson pour
 la rencontre (mon premier c'est désir), une chanson pour l'amour trop mimi (mon
 deuxième c'est plaisir), une chanson pour la rupture (mon troisième c'est
 souffrir ouh ouh) et on double le tout si vraiment mon tout fait des souvenirs.
@@ -99,7 +99,7 @@ pas l'air de lui réussir plus que ça, soit il a trouvé une recette qu'il
 applique méthodiquement mais sans y mettre cœur ou sincérité. Bref, à la sortie
 de salle, et malgré la très chouette première partie de
 [Blue Roses](http://www.myspace.com/musicofblueroses), on ressort de la salle
-complètement endormi et déçu. Pourtant, une idée reste en tête : "il faudra voir
+complètement endormi et déçu. Pourtant, une idée reste en tête : "il faudra voir
 ce que donnent les titres du 2nd album sur disque"…
 
 (2ème entracte, allez, on peut regarder
@@ -108,13 +108,13 @@ pendant ce temps-là)
 
 {% dailymotion x5baf2 %}
 
-La déception est digérée : on a réécouté le premier album (_Shape Of My Heart_
+La déception est digérée : on a réécouté le premier album (_Shape Of My Heart_
 et _5 Years Time_ sont toujours aussi bien) et revu des vidéos (où le groupe a
 l'air cool et sympa)… Il est temps de glisser _The First Days Of Spring_ sur la
 platine pour décider de l'attention qu'on apportera au groupe à l'avenir. Tout
-de suite, les conclusions s'imposent : si j'avais écouté ce deuxième album avant
+de suite, les conclusions s'imposent : si j'avais écouté ce deuxième album avant
 le concert, j'aurais échangé ma place contre ce deuxième album. Noah and the
-Whale est clairement - et définitivement ? - un groupe dont il faut écouter les
+Whale est clairement - et définitivement ? - un groupe dont il faut écouter les
 disques et fuir les concerts. La richesse des arrangements - ne serait-ce qu'au
 niveau quantitatif des instruments utilisés - ne peut être restituée sur scène
 que par une myriade de musiciens qui prendrait trop de place dans le coffre d'un
@@ -131,8 +131,8 @@ passage sur scène.
 
 (bientôt, l'épilogue…)
 
-En conclusion, la morale de l'histoire est claire : sur scène, maîtriser temps
-forts et temps faibles, maîtriser le rythme !
+En conclusion, la morale de l'histoire est claire : sur scène, maîtriser temps
+forts et temps faibles, maîtriser le rythme !
 [C'est pas Yannick qui dira le contraire](http://www.youtube.com/watch?v=gvjAxFQlv1U).
 
-<div xmlns:cc="http://creativecommons.org/ns#" about="http://www.flickr.com/photos/hanneskoch/3928735406/">Photos : <a rel="cc:attributionURL" href="http://www.flickr.com/photos/hanneskoch/">http://www.flickr.com/photos/hanneskoch/</a> / <a rel="license" href="http://creativecommons.org/licenses/by-nc/2.0/">CC BY-NC 2.0</a></div>
+<div xmlns:cc="http://creativecommons.org/ns#" about="http://www.flickr.com/photos/hanneskoch/3928735406/">Photos : <a rel="cc:attributionURL" href="http://www.flickr.com/photos/hanneskoch/">http://www.flickr.com/photos/hanneskoch/</a> / <a rel="license" href="http://creativecommons.org/licenses/by-nc/2.0/">CC BY-NC 2.0</a></div>

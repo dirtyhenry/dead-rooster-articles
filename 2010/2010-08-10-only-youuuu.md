@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Only youuuu !
-description: Un titre de {{Jason Falkner}}, ça ne se refuse pas !
+title: Only youuuu !
+description: Un titre de {{Jason Falkner}}, ça ne se refuse pas !
 authors:
   - Joe Gantdelaine
 wordpress_id: 679
@@ -11,13 +11,13 @@ date: 2010-08-10 13:55:08 +0200
 
 {% youtube CeRzjsWneG8 %}
 
-Rien à voir avec [la version][1] des **Platters** !
+Rien à voir avec [la version][1] des **Platters** !
 
 Extraite de la B.O. du film _The Informers_, cette chanson de **Jason Falkner**,
-un artiste qu'on aime bien [ici][i1], a bien failli nous échapper !
+un artiste qu'on aime bien [ici][i1], a bien failli nous échapper !
 
 Fort heureusement, et malgré 6 mois de décalage, elle nous parvient enfin aux
-oreilles ! Joie !
+oreilles ! Joie !
 
 [1]: https://www.youtube.com/watch?v=9r2pEdc1_lI
 

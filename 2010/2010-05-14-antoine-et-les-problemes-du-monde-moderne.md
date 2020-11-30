@@ -11,7 +11,7 @@ cover: antoine-le-match-de-football.jpg
 Voici le seul [document][1] accessible gratuitement et légalement du merveilleux
 _Match de Football_ chanté par Antoine. Vous en conviendrez, c'est un brin
 frustrant… Comme dirait d'ailleurs presque l'intéressé dans les [paroles][2] de
-sa chanson : Le monde va mal !
+sa chanson : Le monde va mal !
 
 [1]: https://www.ina.fr/video/I00014921/antoine-le-match-de-football-video.html
 [2]:

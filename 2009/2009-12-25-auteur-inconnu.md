@@ -5,8 +5,8 @@ description:
   Plutôt que de succomber à l'éternel classement de l'année (on aura
   suffisamment le temps l'année prochaine de trier les disques de cette année…),
   parlons d'un artiste trop méconnu, Jason Falkner (rien à voir avec le William
-  Faulkner de la photo !), coupable du très bon {All Quiet on the Noise Floor}
-  cette année (dans le top 5 de 2009 ?).
+  Faulkner de la photo !), coupable du très bon {All Quiet on the Noise Floor}
+  cette année (dans le top 5 de 2009 ?).
 authors:
   - Joe Gantdelaine
 wordpress_id: 558
@@ -23,7 +23,7 @@ comments:
     date: "2009-12-26 16:13:09 +0100"
     title: Auteur inconnu
     content:
-      Et pourquoi qu'il dit qu'il faut pas acheter ses disques en import ? C'est
+      Et pourquoi qu'il dit qu'il faut pas acheter ses disques en import ? C'est
       pas banal ça un mec qui peut pas vendre ses disques… Déjà qu'il a l'air
       d'en chier pour pouvoir les faire…
   - author: guiguilele
@@ -31,7 +31,7 @@ comments:
     date: "2009-12-26 16:18:29 +0100"
     title: Auteur inconnu
     content:
-      "Pour pouvoir tourner ailleurs qu'au Japon justement :\r\n\r\nJason is
+      "Pour pouvoir tourner ailleurs qu'au Japon justement :\r\n\r\nJason is
       asking his American fans to kindly wait until the domestic release of the
       album and sends this message to all his wonderful U.S. fans: \"Hello all!
       Some of you might have heard about my new record coming out in Japan last
@@ -57,16 +57,16 @@ comments:
     date: "2013-01-08 11:35:48 +0100"
     title: Producteur inconnu
     content:
-      "Haaaa j'oubliais le 1er Anne Soldaat très très bon aussi !\r\nProduit
+      "Haaaa j'oubliais le 1er Anne Soldaat très très bon aussi !\r\nProduit
       également par Jason ;)\r\nhttp://www.deezer.com/fr/#/album/1014523"
   - author: Joe Gantdelaine
     author_email: ""
     date: "2013-01-15 00:08:58 +0100"
     title: Producteur inconnu
     content:
-      Merci Myrna pour ces 2 liens. Je vais écouter ça très vite ! (vous avez un
-      lien quelconque avec l'un de ces groupes ? Membre ? Président du fan club
-      ? :) )
+      Merci Myrna pour ces 2 liens. Je vais écouter ça très vite ! (vous avez un
+      lien quelconque avec l'un de ces groupes ? Membre ? Président du fan club
+      ? :) )
   - author: "Myrna "
     author_email: minkoff.m@gmail.com
     date: "2013-02-12 11:41:57 +0100"
@@ -80,16 +80,16 @@ the pops", il serait superflu de proposer notre bilan de l'année (de toute
 façon, c'est simple, le disque de l'année, c'est _[La Superbe][i542]_ de
 Benjamin Biolay et la chanson de l'année, c'est _Brandt Rhapsodie_ de Benjamin
 Biolay). Il faut donc trouver un autre sujet de discussion musicale. Et pourquoi
-ne parlerait-on pas de **Jason Falkner** ? Oui, pourquoi pas, hein ?
+ne parlerait-on pas de **Jason Falkner** ? Oui, pourquoi pas, hein ?
 
 Alors contrairement à _[certains][i557]_, et même s'il a bossé avec, il n'est ni
 inutile, ni insultant de présenter Jason Falkner. Avant tout, on a envie de dire
-que Jason, c'est un mec sympa ! Y a qu'à voir la liste des gens avec qui il a
-collaboré au cours de ces dernières années : Paulo donc, mais aussi Beck, Air,
+que Jason, c'est un mec sympa ! Y a qu'à voir la liste des gens avec qui il a
+collaboré au cours de ces dernières années : Paulo donc, mais aussi Beck, Air,
 Daniel Johnston, Brendan Benson. Il semblerait qu'il suffit de l'appeler pour
 que, tout de suite, le brave Jason rapplique. En même temps, vu qu'il fait tout
-sur ses propres albums (Qui écrit les chansons ? C'est lui ! Qui joue de tous
-les instruments ? C'est lui ! La production ? C'est lui ! Je vous laisse deviner
+sur ses propres albums (Qui écrit les chansons ? C'est lui ! Qui joue de tous
+les instruments ? C'est lui ! La production ? C'est lui ! Je vous laisse deviner
 qui est derrière la table de mixage…), on comprend qu'il doit avoir envie de
 voir du monde de temps en temps.
 
@@ -107,7 +107,7 @@ récemment _remaîtrisés_ commencent à se multiplier dans cet article. Ce n'es
 pas uniquement dû au hasard. La route de Jason est, elle aussi, _longue et
 venteuse_, parsemée d'embûches et de zigzags. D'ailleurs, suivre la discographie
 de ce type est un boulot à temps plein. Pour résumer, disons qu'à l'heure
-actuelle, il existe 4 vrais albums (_Author Unknown_, _Can You Still Feel ?_,_
+actuelle, il existe 4 vrais albums (_Author Unknown_, _Can You Still Feel ?_,_
 I'm Ok…You're Ok_ et le petit dernier de 2009 _All Quiet on the Noise Floor_),
 un maxi (_Bliss Descending_), une compile de démos (_Necessity_) et un double
 album de raretés (_Everyone Says It's on_). Ainsi que 2 albums de … reprises des
@@ -118,17 +118,17 @@ Japon. Et même si Jason lui-même supplie les amateurs de sa musique de ne pas
 acheter ses disques en import, le fan de base pourra contenter son appétit
 relativement facilement sur la toile et ses multiples sites marchands.
 
-Car oui, je l'avoue, je suis "fan de base" : si j'ai investi dans le dernier
+Car oui, je l'avoue, je suis "fan de base" : si j'ai investi dans le dernier
 Daniel Johnston (très bon au demeurant) les yeux fermés, c'est principalement
 pour la collaboration avec mon ami imaginaire. Et si j'hésite environ 3 secondes
 avant de faire chauffer la carte bleue sur internet à chaque nouvelle sortie,
-c'est qu'au final, je connais le résultat à l'avance : une bonne dose de
+c'est qu'au final, je connais le résultat à l'avance : une bonne dose de
 beatleseries modernes, de la pop accrocheuse et solide. Alors, certes, Jason est
-prévisible ! Certes, il fait toujours à peu près le même disque ! Mais c'est
+prévisible ! Certes, il fait toujours à peu près le même disque ! Mais c'est
 souvent tellement réussi qu'on ne peut pas lui jeter la pierre. Bon d'accord, le
 3ème album était en deçà, même s'il contenait de bons moments (_This Time_ ou
 _Komplicated Man_ notamment). Cela ne m'a pourtant pas empêcher de me jeter
-virtuellement sur _All Quiet on the Noise Floor_. Et je ne le regrette pas ! Un
+virtuellement sur _All Quiet on the Noise Floor_. Et je ne le regrette pas ! Un
 disque de très bonne facture, avec des morceaux parfaits (_Princessa_, _My Home
 Is Not a House_), des mélodies entêtantes (_Counting Sheep_) et une reprise
 (_Jet Silver and the Dolls of Venus_) d'un obscur groupe de prog-rock, qui
@@ -137,9 +137,9 @@ donnerait presque envie de s'intéresser aux mecs qui ont pondu l'original.
 Pour finir, signalons à ceux qui n'en ont pas encore assez, que Jason a eu une
 vie artistique avant sa carrière solo (au sein de Jellyfish notamment), et qu'il
 a aussi un side project (TV Eyes) qui fait une sorte d'électro-pop plutôt pas
-mal (enfin, pour le fan de base j'imagine !).
+mal (enfin, pour le fan de base j'imagine !).
 
-Liens :
+Liens :
 
 - [5 titres](http://www.deezer.com/listen-3915256) tirés des 2 premiers albums
   (_Miss Understanding_ à écouter en priorité)

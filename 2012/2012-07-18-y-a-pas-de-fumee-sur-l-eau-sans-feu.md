@@ -9,4 +9,4 @@ date: 2012-07-18 15:46:23 +0200
 ---
 
 Jon Lord est mort. Au paradis, les autoroutes de l'espace ont trouvé leur
-nouvelle star. Et elle conduit un camion. Le monde va mal !
+nouvelle star. Et elle conduit un camion. Le monde va mal !

@@ -44,14 +44,14 @@ semble un peu surfait et, quoiqu'agréable, le concert laisse sur notre faim.
 
 Bloc Party arrive sur scène en rappelant que leur passage dans cette même salle
 en novembre dernier pour le festival des Inrocks est leur meilleur concert de
-leur histoire : public dans la poche. Pendant un peu plus d'une heure, les
+leur histoire : public dans la poche. Pendant un peu plus d'une heure, les
 titres de _Silent Alarm_ s'enchaînent avec une énergie rassurrante après
 Bourges, une mécanique moins bien huilée qu'alors mais bien plus généreuse et le
 parquet de la cigale, qui mérite son nom de flottant, fait bondir toute la fosse
-au son des riffs assassins des Anglais. Opposition de style avec Arcade Fire :
+au son des riffs assassins des Anglais. Opposition de style avec Arcade Fire :
 tous les musiciens gardent leurs intrusments respectifs et les maîtrisent plutôt
 bien. 2 rappels (une première dixit Kele), un slam de tous les membres du groupe
-dans la fosse (apparemment non prémédité, voire inédit lui aussi ?) et Bloc
+dans la fosse (apparemment non prémédité, voire inédit lui aussi ?) et Bloc
 Party refait encore une fois son retard sur Arcade Fire.
 
 ## Le bilan
@@ -59,7 +59,7 @@ Party refait encore une fois son retard sur Arcade Fire.
 Nous ne sommes qu'en mai, mais Bloc Party et Arcade Fire sont bien partis pour
 terminer sur le podium en fin de course. Les outsiders Hot Hot Heat et The Kills
 n'ont pas semblé pouvoir confirmer les dispositions des années précédentes, mais
-il restera beaucoup d'adversaires pour la fin de course : les White Stripes à la
+il restera beaucoup d'adversaires pour la fin de course : les White Stripes à la
 casaque rouge et blanche, Oasis, dopés à la bière, Franz Ferdinand, qui ne sera
 plus gêné pour voir la route avec une mèche en moins et peut-être d'autres qui
 pointent le bout de leur nez mais encore trop inconnu des commentateurs (je le

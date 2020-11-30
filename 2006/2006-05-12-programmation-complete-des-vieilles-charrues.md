@@ -12,6 +12,6 @@ tags:
 cover: vieilles-charrues-2006.jpg
 ---
 
-- **Vendredi** : Rhésus, Deus, Yann Tiersen, Shout Out Louds, !!!
+- **Vendredi** : Rhésus, Deus, Yann Tiersen, Shout Out Louds, !!!
 - **Samedi** : Madness, Jamel, Editors, Hushpuppies, Cali
 - **Dimanche** : Pixies, Dionysos, Infadels, Soulwax/2 Many DJ's, Julien Clerc

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Où manger après le spectacle ?
+title: Où manger après le spectacle ?
 authors:
   - Dirty Henry
 wordpress_id: 322
@@ -12,7 +12,7 @@ tags:
 cover: rhesus.jpg
 ---
 
-La **fête de la musique** approche mais que faire pour cette soirée ?
+La **fête de la musique** approche mais que faire pour cette soirée ?
 
 Malheureusement pour les fans, les [Hooray Henrys][1] ne joueront toujours pas
 cette année et maintenant que le 1er choix est passé, que préférer dans le

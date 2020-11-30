@@ -8,4 +8,4 @@ date: "2008-10-01 08:32:00 +0200"
 cover: scarlett-johansson-2.jpg
 ---
 
-Scarlett Johansson s'est mariée avec un autre que moi. Le monde va mal !
+Scarlett Johansson s'est mariée avec un autre que moi. Le monde va mal !

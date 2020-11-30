@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Go Johnny Moustache !
+title: Go Johnny Moustache !
 authors:
   - Dirty Henry
 wordpress_id: 305

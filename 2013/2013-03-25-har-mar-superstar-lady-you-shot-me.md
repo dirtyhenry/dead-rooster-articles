@@ -10,7 +10,7 @@ date: "2013-03-25 10:00:00 +0100"
 {% youtube ouuqJ0pkWvU %}
 
 L'écoute du titre était plutôt sympa, mais chercher des infos sur son interprète
-m'a définitivement convaincu de le featurer. Le [Katerine américain][1] ?
+m'a définitivement convaincu de le featurer. Le [Katerine américain][1] ?
 
 Et oui, c'est bien lui qui fait un disco duel avec Ben Stiller dans Starsky et
 Hutch.

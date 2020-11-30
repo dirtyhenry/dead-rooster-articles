@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Twang ? Qu'est ce c'est ?
+title: The Twang ? Qu'est ce c'est ?
 authors:
   - Dirty Henry
 wordpress_id: 357

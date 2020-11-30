@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Alou Diarra dit oui à Rennes ?!
+title: Alou Diarra dit oui à Rennes ?!
 authors:
   - Dirty Henry
 wordpress_id: 1167
@@ -13,4 +13,4 @@ l'Equipe,
 [Alou Diarra ait pu dire oui à Rennes](http://www.lequipe.fr/Football/Actualites/A-diarra-a-dit-oui-a-rennes/346698#xtor=RSS-1)
 alors qu'en son temps,
 [Daniel Prévost n'avait pu dire oui à Montcuq](http://youtu.be/iX9SPTSY1iU). Le
-monde va mal !
+monde va mal !

@@ -8,7 +8,7 @@ date: 2013-03-11 10:00:00 +0100
 ---
 
 Un chanteur issu de _Twin Peaks_ + un feu d'artifice + un cheval blanc. C'est le
-spectacle offert par Beach House à la mi-temps d'un match de… quidditch ?
+spectacle offert par Beach House à la mi-temps d'un match de… quidditch ?
 
 {% youtube OS6duOoxctw %}
 

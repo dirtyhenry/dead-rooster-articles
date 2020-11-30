@@ -17,4 +17,4 @@ cover: madonna.jpg
 
 Madonna et Guy Ritchie divorcent. Outre la tristesse intrinsèque de cette
 nouvelle, Madonna célibataire, ça veut surtout dire que les petites culottes
-vont se remettre à pleuvoir. Le monde va mal !
+vont se remettre à pleuvoir. Le monde va mal !

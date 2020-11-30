@@ -13,4 +13,4 @@ tags:
 ---
 
 [Personne avant Ferri n'avait pensé à cette blague](http://www.manularcenet.com/blog/articles/3615/le-gag-du-siecle).
-Heureusement, elle a fini par arriver mais quand même… Le monde va mal !
+Heureusement, elle a fini par arriver mais quand même… Le monde va mal !

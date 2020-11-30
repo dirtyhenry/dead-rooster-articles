@@ -19,7 +19,7 @@ réapparition de Johnny Walker, Ben Swank ou d'Oliver Henry.
 
 C'est chose faite : Cut In The Hill Gang a publié son [MySpace][1] !
 
-Par pitié, venez vite à Paris !!!
+Par pitié, venez vite à Paris !!!
 
 [1]: https://myspace.com/cutinthehillgang
 

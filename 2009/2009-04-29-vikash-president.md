@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vikash président !
+title: Vikash président !
 authors:
   - Joe Gantdelaine
 wordpress_id: 501
@@ -9,5 +9,5 @@ cover: vikash-dhorasoo.jpg
 ---
 
 Vikash Dorhasoo a dit vouloir prendre les rênes du HAC, son club formateur. Et
-Louvel, l'actuel président rétrograde et rétrogradé en L2, s'y oppose ! Le monde
-va mal !
+Louvel, l'actuel président rétrograde et rétrogradé en L2, s'y oppose ! Le monde
+va mal !

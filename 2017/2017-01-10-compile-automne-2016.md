@@ -29,7 +29,7 @@ vestiges d'un temps jadis, ont commencé à laisser place aux playlists. Quelle
 différence ? Elles n'ont strictement rien à voir et, putain, il faut donc tout
 expliquer.
 
-## Playlist et compile : sémantique comparée
+## Playlist et compile : sémantique comparée
 
 Une **playlist**, c'est un flux. Elle peut durer 10 heures, 3 chansons, être
 jouée en aléatoire. Elle peut être générée par un robot. Elle tourne en boucle à
@@ -48,7 +48,7 @@ chagrinait. Il fallait agir.
 ## Découverte, prospection et patrimoine
 
 En octobre 2016, un extrait du pitch de la compile des 30 ans des Inrocks, nous
-piquait au cœur :
+piquait au cœur :
 
 > En 1988, Les Inrockuptibles sortaient leur première compilation, Un
 > Automne 88. Son but était de mélanger des coups de cœur de la rédaction, des

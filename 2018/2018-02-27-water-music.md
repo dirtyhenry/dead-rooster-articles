@@ -31,7 +31,7 @@ pour torcher un bête article nécrologique. Mais non, l'heure n'est plus à ça
 J'aurais enfin pu remercier Dirty Henry et avouer mon inculture : je ne
 connaissais rien de Tom Petty. Le seul truc qui me lie un peu à lui, c'est
 [l'épisode du Rock Camp des Simpsons][simpsons]. J'ai jamais écouté quoi que ce
-soit des Heartbreakers. "Merci Dirty !"… bon hé, ça va, on a dit : pas
+soit des Heartbreakers. "Merci Dirty !"… bon hé, ça va, on a dit : pas
 d'auto-congratulation !
 
 {% asset simpsons-rock.png %}
@@ -59,11 +59,11 @@ kébab.
 
 ## Tourne, tourne petit moulin
 
-Dernière idée basique : écrire un méta-article commentant mes précédents. Et
+Dernière idée basique : écrire un méta-article commentant mes précédents. Et
 constater qu'une notion revient souvent : l'éternel recommencement. On fait,
 défait, refait. Ce méta-article en aurait été une preuve. Et la brave araignée
 qui vient clore l'heure et quelque de musique aurait parfaitement illustré mon
-propos : Gypsie/Sisyphe, même combat ! De la philosophie pour les 2-6 ans.
+propos : Gypsie/Sisyphe, même combat ! De la philosophie pour les 2-6 ans.
 Génial !
 
 Mais allez, non, cessons de tourner en rond. Et si des enfants en bas âge me
@@ -76,8 +76,8 @@ two, excusez du peu.
 ## Le bouquin ?
 
 Non, c'est décidé, je ne parlerai pas de musique, mais plutôt d'un excellent
-roman : _Water Music_, de T.C. Boyle. Alors, bien sûr, je vous vois venir, tous
-autant que vous êtes. Vous allez me demander, l'air circonspect : "pourquoi ?".
+roman : _Water Music_, de T.C. Boyle. Alors, bien sûr, je vous vois venir, tous
+autant que vous êtes. Vous allez me demander, l'air circonspect : "pourquoi ?".
 La réponse est très simple, mathématique. Voyez plutôt :
 
 - Johnny vs. Gypsie = roue qui tourne, temps qui passe
@@ -91,7 +91,7 @@ CQFD
 Ainsi donc, _Water Music_. Comme son titre ne l'indique pas, ce bouquin ne parle
 pas du tout de musique. Il raconte la vie de Mungo Park, l'explorateur écossais
 parti à la recherche des sources du Niger. Si vous avez aimé _Lost City of Z._,
-lisez ce livre ! C'est un peu la même histoire, mais en mieux construit, avec
+lisez ce livre ! C'est un peu la même histoire, mais en mieux construit, avec
 une intrigue plus immersive, pleine de détails et de subtilités.
 
 Un roman-chorale comme on aime désormais appeler ce genre, où des destins a
@@ -99,7 +99,7 @@ priori sans rapport, finissent par se croiser, se séparer, se retrouver. Comme
 les différents bras du fleuve dont le héros cherche la source.
 
 Chaque destin est l'occasion pour T.C. Boyle de s'essayer à des styles
-d'écriture différents : roman d'aventures bien sûr pour décrire les péripéties
+d'écriture différents : roman d'aventures bien sûr pour décrire les péripéties
 de l'explorateur, mais aussi roman social lorsque l'écrivain détaille la vie de
 la société anglaise au tournant de la fin du 18è siècle, ou roman à suspense
 quand on suit le parcours chaotique d'un petit malfrat increvable.

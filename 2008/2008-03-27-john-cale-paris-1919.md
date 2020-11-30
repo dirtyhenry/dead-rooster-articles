@@ -37,7 +37,7 @@ peine. Déjà, ça, ça me plaît. Je ne suis pas du genre à réclamer aux arti
 des galettes trop remplies qui me filent de parfaites indigestions. L'album
 commence par un _Child's Christmas in Wales_ qui nous présente en parfaite
 introduction toute la palette sonore qui va nous accompagner pendant la grosse
-demie-heure qui vient : piano, basse, orgue, batterie et guitare steel sont à
+demie-heure qui vient : piano, basse, orgue, batterie et guitare steel sont à
 l'appel. Avec tout ça, John Cale nous concocte un peu de tout, de morceaux
 mélancoliques louchant parfois vers du Neil Young/Nick Drake (_The Endless Plain
 Of Fortune_) aux bons vieux rocks qui tâchent (hallucinant _Macbeth_, blues rock

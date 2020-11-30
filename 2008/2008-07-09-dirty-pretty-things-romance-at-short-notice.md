@@ -56,7 +56,7 @@ termine en un refrain plutôt entêtant. La seconde _Truth begins_, parce qu'on 
 grand coeur et que c'est une chanson parfaite pour chanter au pub bras dessus,
 bras dessous, pourvu que l'on zappe une nouvelle fois le début de la chanson… ou
 plutôt toute la première moitié, en ne gardant que la partie où les cuivres sont
-présents… en fait, non, il ne faut conserver que la dernière minute !
+présents… en fait, non, il ne faut conserver que la dernière minute !
 
 En revanche, sans plus nous apesantir, jetons toute la fin du disque, que ce
 soit _Chinese Dogs_, qui tente, sans émouvoir, de retrouver le côté cradingue de
@@ -74,4 +74,4 @@ qu'il ne nous en veuille pas si on n'écoute son disque pas plus de 3 fois : la
 première pour faire l'affreux constat, la deuxième pour être sûr de ce qu'on
 vient d'entendre et la troisième pour écrire cette critique.
 
-Niveau du disque : **Zéro travaux**
+Niveau du disque : **Zéro travaux**

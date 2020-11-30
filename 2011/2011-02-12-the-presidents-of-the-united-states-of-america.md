@@ -15,7 +15,7 @@ Power trio par excellence (américain évidemment), formé après la seconde gue
 mondiale. Ses membres originels sont Richard Nixon à la basse, Ronald Reagan à
 la guitare et Franklin D. Roosevelt au chant.
 
-Leur premier album cartonne, avec deux tubes, certifiés "platine" : _Lump_ et
+Leur premier album cartonne, avec deux tubes, certifiés "platine" : _Lump_ et
 _Peaches_. Ce succès est indéniablement lié aux clips réalisés par Francis Ford
 Coppola, dans lesquels on voit notamment les membres du groupe aux prises avec
 des ninjas, scène à la fois comique et engagée, puisque tournée en pleine guerre

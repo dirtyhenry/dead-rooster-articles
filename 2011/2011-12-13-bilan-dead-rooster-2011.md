@@ -19,7 +19,7 @@ Rooster.
 Mine de rien, cette année, le site a fêté ses 6 ans. C'est pas rien et ça file
 un coup de vieux. Début 2009, on avait installé Google Analytics, un machin pour
 mesurer l'audience des sites internet, et y'a plein de trucs marrants à dire
-là-dessus donc on va faire ça, ok ?
+là-dessus donc on va faire ça, ok ?
 
 ## Le bilan graphique des performances depuis 2009
 
@@ -33,7 +33,7 @@ Mettons le en perspective avec les audiences de Facebook et Allociné.
 
 {% asset comparatif.png %}
 
-Oh, c'est pas mal, non ? Pardon ? L'échelle est logarithmique ? Ah, ok, bon,
+Oh, c'est pas mal, non ? Pardon ? L'échelle est logarithmique ? Ah, ok, bon,
 effectivement c'est pas brillant mais l'année n'est pas finie et on a bien
 l'intention de donner un coup de collier.
 
@@ -43,16 +43,16 @@ rigoler mais on a sa fierté)
 ## Le top 10 des pages vues en 2011
 
 Par ailleurs, regardons quel est le top 10 des pages les plus visitées du site
-cette année ?
+cette année ?
 
-1. [Concombre tueur][i850] : Dead Rooster a fait du chiffre sur la peur des
+1. [Concombre tueur][i850] : Dead Rooster a fait du chiffre sur la peur des
    Français et n'en est pas fier…
-1. [Qui es-tu Nolwenn Leroy ?][i789] : qui est aussi notre article le plus
-   commenté et aura attiré des âmes sensibles à la facétie et au second degré :
+1. [Qui es-tu Nolwenn Leroy ?][i789] : qui est aussi notre article le plus
+   commenté et aura attiré des âmes sensibles à la facétie et au second degré :
    «Avant de critiquer, il faudrait se renseigner», «allez vomir ailleurs»,
    «article dégoûtant», «procédé un peu facile et vulgaire», «écrit avec de la
    merde», «fait honte à la presse française» (putain, Dead Rooster fait partie
-   de la presse française ? Champagne les potes !)
+   de la presse française ? Champagne les potes !)
 1. [Keren Ann - _101_][i814] (bien derrière au niveau des chiffres)
 1. [Top Musique 2010][i747]
 1. [Yes][i884]
@@ -63,21 +63,21 @@ cette année ?
 1. [Hawaï mon cul ouais][i497]
 
 Un constat s'impose, c'est bien marrant tout ça mais quid des vrais trésors de
-ce site ? Quid de [l'article de l'encyclopédie approximative de Jeff
+ce site ? Quid de [l'article de l'encyclopédie approximative de Jeff
 Buckley][i831], de [la critique du second meilleur album de tous les
-temps][i852], ou du [psycho-couac provoqué par la mort de Lucien Freud][i876] ?
-Voilà de vrais trésors qu'il va nous falloir déterrer ! Nous y reviendrons la
+temps][i852], ou du [psycho-couac provoqué par la mort de Lucien Freud][i876] ?
+Voilà de vrais trésors qu'il va nous falloir déterrer ! Nous y reviendrons la
 semaine prochaine dans un autre post intitulé "Feuille de route 2012 Dead
 Rooster", ou comment redonner le moral aux Français pour nous sortir de cette
-crise !
+crise !
 
-## Comment devenir un Ninja gratuitement ?
+## Comment devenir un Ninja gratuitement ?
 
 Enfin, rigolons un peu. En s'inspirant de l'ouvrage
 [_Comment devenir un Ninja gratuitement_](http://www.amazon.fr/Comment-Devenir-Gratuitement-Josselin-Bordat/dp/2954063904/)
 et de
 [l'article que ça a inspiré aux Inrocks](http://www.lesinrocks.com/medias/numerique-article/t/72016/date/2011-10-24/article/coment-devenir-un-ninja-gratuitement/),
-allons-y à notre tour : palmarès des recherches Google ayant fini sur notre site
+allons-y à notre tour : palmarès des recherches Google ayant fini sur notre site
 les plus farfelues
 
 **Catégorie "on se sent moins seul"**
@@ -87,7 +87,7 @@ les plus farfelues
   dans _Dumb & Dumber_][i576]
 - beaucoup de monde s'interroge sur [la légende urbaine du sanglier qu'on
   croyait mort et qu'on a enfermé dans le coffre de la voiture][i538]
-- beaucoup de monde [n'aime pas les Doors][i774] (exemple : the doors c'est d'la
+- beaucoup de monde [n'aime pas les Doors][i774] (exemple : the doors c'est d'la
   merde)
 
 **Catégorie "on veut voir des gens tous nus"**
@@ -96,7 +96,7 @@ les plus farfelues
 - on a des recherches pour "leslie nu", soit, on pense à la chanteuse mais on a
   aussi beaucoup de "leslie nielsen nu" et là, ça devient bizarre
 - "dhorasoo nu" est aussi demandé régulièrement
-- des plus classiques "nénés de Katie Perry", "le porno c'est bien ?", etc.
+- des plus classiques "nénés de Katie Perry", "le porno c'est bien ?", etc.
 
 **Catégorie "on est dépressifs"**
 
@@ -135,7 +135,7 @@ niveau moyen des Français en orthographe"**
 
 - sens symbolique du bébé de nirvana
 
-À la semaine prochaine pour les projets de 2012 !
+À la semaine prochaine pour les projets de 2012 !
 
 [i850]: {% post_url 2011/2011-06-01-concombre-tueur %}
 

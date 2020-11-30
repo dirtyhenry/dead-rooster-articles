@@ -15,4 +15,4 @@ Ouais, ouais, t'es pas trop mauvais, ça passe…
 
 {% youtube MCpWY20I6jk %}
 
-~~Toi aussi, ça passe :~~ [edit : vidéo supprimée par l'utilisateur]
+~~Toi aussi, ça passe :~~ [edit : vidéo supprimée par l'utilisateur]

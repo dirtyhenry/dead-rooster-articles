@@ -9,7 +9,7 @@ date: 2013-04-08 10:49:21 +0200
 
 Aujourd'hui, j'avais prévu une version acoustique de _Song 2_
 ([un titre qui fête aujourd'hui ses 16 ans](http://officialblur.tumblr.com/post/47376848847/song-2-16-today),
-le bad intégral !) mais le compte YouTube qui jouait la vidéo a été fermé depuis
+le bad intégral !) mais le compte YouTube qui jouait la vidéo a été fermé depuis
 hier.
 
 Du coup, je vais [faire chier Joe Gantdelaine pour la 2ème fois en moins d'une

@@ -2,8 +2,8 @@
 layout: post
 title: Creedence Clearwater Revival
 description:
-  Aujourd'hui, direction le Mississippi ! Creedence Clearwater Revival, c'est
-  l'Amérique, le symbole de la liberté ! (pour peu qu'on approxime un peu leur
+  Aujourd'hui, direction le Mississippi ! Creedence Clearwater Revival, c'est
+  l'Amérique, le symbole de la liberté ! (pour peu qu'on approxime un peu leur
   biographie…)
 authors:
   - Joe Gantdelaine
@@ -16,7 +16,7 @@ comments:
     date: 2011-04-30 11:26:42 +0200
     title: Creedence Clearwater Revival
     content:
-      C'est Gérard Rinaldi des Charlots à gauche sur la photo non ? (le mec de
+      C'est Gérard Rinaldi des Charlots à gauche sur la photo non ? (le mec de
       {Marc et Sophie} quoi…)
   - author: Julio
     author_email: ""
@@ -35,7 +35,7 @@ comments:
       parfois, malgré tout le soin apporté à la rédaction de mes articles, je
       laisse passer certains des détails qui permettent de mieux comprendre un
       groupe.\r\nJe compte alors sur les lecteurs méticuleux pour rectifier le
-      tir !"
+      tir !"
 ---
 
 Véritables enfants du bayou, les frères Fogerty ont parfaitement su restituer
@@ -51,7 +51,7 @@ la tournée des stades.
 D'autre part, alors que les groupes de la même époque s'engageaient
 politiquement en faveur de l'arrêt de la guerre du Vietnam, eux s'en
 désintéressaient, et avaient des considérations beaucoup plus écolo, se souciant
-beaucoup du climat (_Have you ever seen the rain ?_, _Who'll stop the rain_) et
+beaucoup du climat (_Have you ever seen the rain ?_, _Who'll stop the rain_) et
 de la nature (_Bad Moon Rising_, _Cotton Fields_).
 
 [i765]: {% post_url 2011/2011-03-19-claude-francois %}

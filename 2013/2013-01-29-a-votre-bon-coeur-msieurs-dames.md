@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A votre bon cœur msieurs-dames !
+title: A votre bon cœur msieurs-dames !
 authors:
   - Joe Gantdelaine
 wordpress_id: 1165
@@ -12,4 +12,4 @@ C'est moche à dire, mais si toutes les personnes ayant visité Dead Rooster l'a
 dernier nous avaient donné un euro par visite, on aurait quasiment pu s'offrir
 le
 [Zimbabwe](http://www.lemonde.fr/afrique/article/2013/01/29/il-reste-217-dollars-dans-les-caisses-de-l-etat-zimbabween_1824141_3212.html).
-Le monde va mal !
+Le monde va mal !

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: C'est vrai qu'on s'en fout !
+title: C'est vrai qu'on s'en fout !
 authors:
   - Joe Gantdelaine
 wordpress_id: 396
@@ -9,7 +9,7 @@ comments:
   - author: Dirty Henry
     author_email: ""
     date: "2007-07-27 13:44:09 +0200"
-    title: C'est vrai qu'on s'en fout !
+    title: C'est vrai qu'on s'en fout !
     content:
       Elle est marrante la chanson mais tout de même, la photo fait un tout
       petit peu peur.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: De Montréal et pas d'ailleurs !
+title: De Montréal et pas d'ailleurs !
 authors:
   - Joe Gantdelaine
 wordpress_id: 414
@@ -9,5 +9,5 @@ cover: of-montreal-3.jpg
 ---
 
 Grosse tournée mondiale pour les créateurs du formidable _Hissing fauna, are you
-the destroyer ?_ Avec, évidemment, une seule et unique date française, le 14
-décembre à Paris. Le monde va mal !
+the destroyer ?_ Avec, évidemment, une seule et unique date française, le 14
+décembre à Paris. Le monde va mal !

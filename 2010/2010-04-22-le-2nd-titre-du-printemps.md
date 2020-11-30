@@ -4,7 +4,7 @@ title: Le 2nd titre du printemps
 description:
   Le titre est ancien mais avec leur reprise de {I Am The Resurrection} des
   Stone Roses, le groupe écossais {{Codeine Velvet Club}} offre le second grand
-  titre du printemps !
+  titre du printemps !
 authors:
   - Dirty Henry
 wordpress_id: 598
@@ -24,10 +24,10 @@ Stone Roses _I Am The Resurrection_ dans une version très Lee & Nancy.
 
 {% youtube IKyBm43uO_E %}
 
-Et l'originale des Stone Roses :
+Et l'originale des Stone Roses :
 
 {% youtube e6QnK0yql8s %}
 
-Et pour le plaisir, Lee & Nancy :
+Et pour le plaisir, Lee & Nancy :
 
 {% youtube iHtPvUHjZfU %}

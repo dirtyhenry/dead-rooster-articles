@@ -8,6 +8,6 @@ cover: franck-sauzee.jpg
 ---
 
 Le gouvernement français ignore la foule qui s'émeut et ne propose aucun
-référendum pour que les Français choisissent leur avenir : TF1 devra-t-il
-diffuser France-Angleterre en rugby ou Îles Féroé-France samedi soir prochain ?
-Le monde va mal !
+référendum pour que les Français choisissent leur avenir : TF1 devra-t-il
+diffuser France-Angleterre en rugby ou Îles Féroé-France samedi soir prochain ?
+Le monde va mal !

@@ -3,7 +3,7 @@ layout: post
 title: La vie très privée de Mr Sim de Jonathan Coe
 description:
   "[Marcello Proust](auteur5) m'a dit que Dead Rooster ne parlait pas assez de
-  bouquins. Dont acte !"
+  bouquins. Dont acte !"
 authors:
   - Dirty Henry
 wordpress_id: 793
@@ -17,11 +17,11 @@ tags:
   - Jonathan Coe
 ---
 
-Comment parler d'un livre sans trop en dire ? Au sujet de _La vie très privée de
+Comment parler d'un livre sans trop en dire ? Au sujet de _La vie très privée de
 Mr Sim_ de Jonathan Coe, je vous déconseille déjà de lire la 4ème de couverture,
 qui en dit beaucoup trop.
 
-Commençons plutôt par préciser comment l'ouvrage débute : une dépêche de presse
+Commençons plutôt par préciser comment l'ouvrage débute : une dépêche de presse
 indique qu'un VRP de 48 ans a été retrouvé nu dans sa voiture au pied d'une
 station de ski écossaise, des bouteilles de whisky vides dans la bagnole, le
 coffre rempli par un carton de brosses à dent et un sac poubelle rempli de
@@ -37,7 +37,7 @@ de route.
 
 Avant de continuer, parlons un petit peu de l'auteur. **Jonathan Coe** est un
 auteur britannique de 50 ans, originaire de Birmingham, surtout connu pour trois
-ouvrages :
+ouvrages :
 
 - [_Testament à l'anglaise_](http://fr.wikipedia.org/wiki/Testament_%C3%A0_l'anglaise)
   (_What A Carve Up!_ en V.O.), satire policière pleine d'humour noir sur la
@@ -55,12 +55,12 @@ Jonathan Coe était jusqu'à présent un auteur qui parle (au sens fort du terme
 tout en restant très drôle et assez lucide sur le monde qui l'entoure. Depuis
 son dernier ouvrage, Coe a dû découvrir Facebook, le GPS et a probablement relu
 Houellebecq, son partenaire de label (cf. [cet article][i223]) pour apporter une
-touche de glauque à son portrait de Sim («comme le comique» dit l'ouvrage : je
+touche de glauque à son portrait de Sim («comme le comique» dit l'ouvrage : je
 suis donc curieux de savoir ce que dit la V.O. à ce sujet, feu Simon Berryer
-serait-il une vedette internationale ?). Mais encore une fois, et malgré une fin
+serait-il une vedette internationale ?). Mais encore une fois, et malgré une fin
 que j'ai trouvé légèrement faiblarde, son livre est une réussite et Coe reste le
 seul auteur dont j'ai lu la quasi-totalité des livres sans avoir jamais été déçu
-(c'est à toi que je m'adresse Nick Hornby !).
+(c'est à toi que je m'adresse Nick Hornby !).
 
 Un intérêt tout particulier de ce livre réside dans la découverte du personnage
 de **Donald Crowhurst**. Le Golden Globe Challenge fut un défi de voile adressé
@@ -72,20 +72,20 @@ dans l'aventure. Rapidement en difficulté, Crowhurst ne fit pas demi-tour et se
 planqua quelque part dans l'océan transmettant de fausses positions et attendant
 le retour des autres concurrents pour reprendre la course.
 
-Il tint deux journaux de bord : l'un avec ses fausses positions en prévision de
+Il tint deux journaux de bord : l'un avec ses fausses positions en prévision de
 son retour sur terre, et l'autre, authentique, où il racontait sa vie à bord. La
 lecture du deuxième indiqua qu'il avait fini par devenir fou, se lançant dans
 des recherches permanentes pour trouver la racine carrée de -1, et s'était
 probablement suicidé. Deux items sont indiqués dans le livre et traite de cette
-histoire :
+histoire :
 
 - le livre _L'étrange voyage de Donald Crowhurst_, de Nicholas Tomalin et Ron
   Hall
 - le documentaire _Deep Water_, de Louise Osmond et Jerry Rothwell
 
 Les voilà désormais ajoutés à ma liste de trucs à lire et à voir (qui
-bizarrement, ne fait que grandir). Je vous quitte avec la bande annonce de _Deep
-Water_ :
+bizarrement, ne fait que grandir). Je vous quitte avec la bande annonce de *Deep
+Water* :
 
 {% youtube ePAfjxI4rws %}
 

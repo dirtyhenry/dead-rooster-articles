@@ -11,7 +11,7 @@ Le 5 septembre, les Hooray Henrys ont participé à la journée d'animation de
 l'association le Souffle9
 ([http://www.lesouffle9.info/](http://www.lesouffle9.info/)).
 
-Au programme, 2 sets courts :
+Au programme, 2 sets courts :
 
 - No, Not Now
 - Riot Boogie
@@ -20,7 +20,7 @@ Au programme, 2 sets courts :
 - Will You Starry Me
 - Hotel Yorba
 
-puis :
+puis :
 
 - Helicopter
 - Bitch
@@ -30,4 +30,4 @@ puis :
 - I heard it through the grapevine
 
 Merci aux enfants - le meilleur public des Hooray Henrys jusqu'à maintenant - et
-à l'association de nous y avoir invité !
+à l'association de nous y avoir invité !

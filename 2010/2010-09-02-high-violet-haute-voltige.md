@@ -23,7 +23,7 @@ sortie d'_High Violet_.
 
 Peu avant la sortie du disque, leur 5ème, en mai, les vidéos live de _Terrible
 Love_ m'avaient emballé. C'est ce morceau qu'on retrouve en ouverture du disque.
-Qu'est-ce qui fait le charme de ce morceau ? Bien sûr, il y a le lent crescendo.
+Qu'est-ce qui fait le charme de ce morceau ? Bien sûr, il y a le lent crescendo.
 On part d'une intro minimaliste et vaporeuse et on termine sur une envolée
 diablement électrique et incroyablement dense. Ça marche à tous les coups ou
 presque. Mais il n'y a pas que ça. Dans _Terrible Love_, il y a Bryan Devendorf,
@@ -79,25 +79,25 @@ anticipation.
 {% youtube 3uMA2muKFGM %}
 
 Quant au reste de la programmation de la Route du Rock, peu de bonnes surprises,
-même si globalement, l'édition fut de bonne qualité :
+même si globalement, l'édition fut de bonne qualité :
 
 - **Vendredi**
-- Dum Dum Girls : perd un peu de son charme (musical) sur scène (3)
-- Owen Pallett : intéressant 3 minutes puis pénible jusqu'à devenir chiant (1)
-- Yann Tiersen : première moitié assez moyenne puis le niveau augmente d'un coup
+- Dum Dum Girls : perd un peu de son charme (musical) sur scène (3)
+- Owen Pallett : intéressant 3 minutes puis pénible jusqu'à devenir chiant (1)
+- Yann Tiersen : première moitié assez moyenne puis le niveau augmente d'un coup
   et le final est très convaincant (4)
-- The Black Angels : assez bonne surprise, confirme les bons disques du groupe
+- The Black Angels : assez bonne surprise, confirme les bons disques du groupe
   (3)
 - **Samedi**
-- Massive Attack & Martina Topley Bird : pas du tout ma tasse de thé (1)
-- Foals et Two Door Cinema Club : rien de nouveau sous le soleil et un brin
+- Massive Attack & Martina Topley Bird : pas du tout ma tasse de thé (1)
+- Foals et Two Door Cinema Club : rien de nouveau sous le soleil et un brin
   répétitif, mais diablement efficaces pour remuer son popotin (4)
 - **Dimanche**
-- Thus:Owls : aucun souvenir (?)
-- Serena Maneesh : brouillon et ça se la raconte (1)
-- Archie Bronson Outfit : bien meilleur que la 1ère fois que je les avais vus
+- Thus:Owls : aucun souvenir (?)
+- Serena Maneesh : brouillon et ça se la raconte (1)
+- Archie Bronson Outfit : bien meilleur que la 1ère fois que je les avais vus
   (3)
-- The National : brillant et intense (5)
-- The Flaming Lips : spectaculaire et original… mais bien peu de musique (2)
+- The National : brillant et intense (5)
+- The Flaming Lips : spectaculaire et original… mais bien peu de musique (2)
 
 [i581]: {% post_url 2010/2010-03-29-the-national-en-visuel %}

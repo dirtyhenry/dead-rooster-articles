@@ -11,4 +11,4 @@ cover: bob-dylan.jpg
 Tu m'as juste fait perdre le temps si précieux qui est le mien \_ Mais n'y pense
 plus, tout va bien…
 
-Le monde va mal !
+Le monde va mal !

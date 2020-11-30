@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vive le Britpunk !!!
+title: Vive le Britpunk !!!
 authors:
   - Dirty Henry
 wordpress_id: 301
