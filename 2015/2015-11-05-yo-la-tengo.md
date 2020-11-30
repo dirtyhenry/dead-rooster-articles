@@ -9,13 +9,12 @@ description: >
   Récit du concert depuis un fauteuil ultra confortable
 ---
 
-Un peu plus d'un an après avoir vanté les mérites du
-[bassiste à lunettes](http://www.deadrooster.org/Yo-La-Dumpo), il est temps de
-faire le point sur le côté live de Yo La Tengo. Fin octobre, ils avaient prévu
-un passage à la Cigale, pour soutenir la sortie de leur dernier album (de
-reprises) : _Stuff Like That There_. Un album très cool, parfait pour faire la
-sieste un après-midi d'automne ensoleillé (rien de péjoratif là-dedans, j'aime
-bien faire la sieste !).
+Un peu plus d'un an après avoir vanté les mérites du [bassiste à lunettes][i1],
+il est temps de faire le point sur le côté live de Yo La Tengo. Fin octobre, ils
+avaient prévu un passage à la Cigale, pour soutenir la sortie de leur dernier
+album (de reprises) : _Stuff Like That There_. Un album très cool, parfait pour
+faire la sieste un après-midi d'automne ensoleillé (rien de péjoratif là-dedans,
+j'aime bien faire la sieste !).
 
 {% youtube jJwTSTlpsak %}
 
@@ -78,3 +77,5 @@ camarades en New Balance. Moelleux !
 
 [1]:
   http://www.setlist.fm/setlist/yo-la-tengo/2015/la-cigale-paris-france-bf58142.html
+
+[i1]: {% post_url 2014/2014-02-12-yo-la-dumpo %}

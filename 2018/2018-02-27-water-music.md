@@ -20,14 +20,13 @@ selon Dead Rooster, j’avais le choix.
 J'aurais d'abord pu évoquer les quelques disparus mis à l'honneur ici. Pas mal
 de matière s'offrait à moi. Et déjà, le débat : "pour ou contre Johnny ?". Trop
 attendu, trop compliqué et trop polémique. On s'en est déjà pris [plein les
-dents avec Nolwenn Leroy][nolwenn]. Donc, non merci !
+dents avec Nolwenn Leroy][i789]. Donc, non merci !
 
 J'aurais aussi pu faire de l'auto-congratulation, en rappelant que
 l'_Encyclopédie Approximative du Rock and Roll_ avait préféré célébrer Fats
 Domino et quelques autres pionniers (ou du moins [leurs homologues
-franchouillards][pionniers]) de leur vivant plutôt que d'attendre leur
-disparition pour torcher un bête article nécrologique. Mais non, l'heure n'est
-plus à ça !
+franchouillards][i1048]) de leur vivant plutôt que d'attendre leur disparition
+pour torcher un bête article nécrologique. Mais non, l'heure n'est plus à ça !
 
 J'aurais enfin pu remercier Dirty Henry et avouer mon inculture : je ne
 connaissais rien de Tom Petty. Le seul truc qui me lie un peu à lui, c'est
@@ -136,6 +135,8 @@ Un peu comme la vie. Un peu comme une compile !
 1. Graham Coxon - _Falling_
 1. Clipounets - _L'araignée Gypsie_
 
-[pionniers]: http://www.deadrooster.org/Les-pionniers-oublies-du-rock
-[nolwenn]: http://www.deadrooster.org/Qui-es-tu-Nolwenn-Leroy
 [simpsons]: https://fr.wikipedia.org/wiki/Homer_Like_a_Rolling_Stone
+
+[i789]: {% post_url 2011/2011-02-24-qui-es-tu-nolwenn-leroy %}
+
+[i1048]: {% post_url 2012/2012-06-09-les-pionniers-oublies-du-rock-francais %}

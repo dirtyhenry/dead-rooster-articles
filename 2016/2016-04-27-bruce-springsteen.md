@@ -3,8 +3,7 @@ layout: post
 title: "Bruce Springsteen"
 authors:
   - Joe Gantdelaine
-tags:
-  - encyclopédie approximative
+category: Encyclopédie approximative du Rock and Roll
 cover: bruce.jpg
 cover_alt: Brousse lit
 description: >

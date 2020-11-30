@@ -72,8 +72,8 @@ Une découverte sympa et j'attends la suite car, pour l'instant, seulement trois
 titres sont disponibles sur les autoroutes de l'information. Programmés aux
 Trans 2014, je les ai découverts via [le widget de recommandation de
 Deezer][deezer-lineup-recommender], la voix du mec m'a vaguement rappelé celle
-de 3 Guys Never In, un [autre coup de cœur][three-guys-never-in] maintenant
-vieux d'une décennie.
+de 3 Guys Never In, un [autre coup de cœur][i721] maintenant vieux d'une
+décennie.
 
 Ils promettent un EP pour bientôt, financé en crowdfunding. À surveiller.
 
@@ -118,7 +118,6 @@ peu. C'est tout à leur honneur.
 [bravo-maestro-classe-americaine]: http://youtu.be/RQeLeRMRrTM
 [deezer-lineup-recommender]:
   https://www.facebook.com/deezerfr/app_1491856657769251
-[three-guys-never-in]: http://www.deadrooster.org/Que-devient-3-Guys-Never-In
 [clip-un-jour-en-france]: http://youtu.be/J8Z549GKkeM?t=3m29s
 [merci-le-foot-a-bon-entendeur]:
   http://www.dailymotion.com/video/x6gron_merci-le-foot-part-1_fun?start=577
@@ -126,5 +125,7 @@ peu. C'est tout à leur honneur.
   https://www.youtube.com/watch?v=n8x1T_-XfMY
 
 [1]: {% post_url 2015/2015-02-26-neutral-milk-hotel %}
+
+[i721]: {% post_url 2010/2010-11-10-que-devient-3-guys-never-in %}
 
 [i984]: {% post_url 2012/2012-01-18-top-musique-2011 %}

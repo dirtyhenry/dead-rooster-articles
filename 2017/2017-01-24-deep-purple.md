@@ -3,8 +3,7 @@ layout: post
 title: "Deep Purple"
 authors:
   - Joe Gantdelaine
-tags:
-  - encyclopédie approximative
+category: Encyclopédie approximative du Rock and Roll
 cover: deep-purple-smoke-water.jpg
 description: >
   Pouin-pouin-pouin Pouin-pouin'pouin-pouin Pouin-pouin-pouin Pouin-pouiiiiin
@@ -15,7 +14,7 @@ importe. Deep Purple peut s'enorgueillir d'être considéré, au même titre que
 Metallica, comme des précurseurs du hard rock. Et, en tout cas, Deep Purple est
 une source d'inspiration pour bon nombre d'artistes. Ainsi de Motörhead dont le
 nom fait directement référence au titre d'un album de 1972. Ainsi de
-[Prince][prince] qui décida de refaire toute sa garde robe après un concert du
+[Prince][i906] qui décida de refaire toute sa garde robe après un concert du
 groupe à Minneapolis.
 
 Parmi ses membres marquants, Dany Glover, Joe Satriani et Ritchie Blackmore se
@@ -30,5 +29,6 @@ au public. Quant aux vendeurs de guitares, ils la détestent !
 Dernier fait marquant : malgré l'échec de 1996, Deep Purple a finalement battu
 Garry Kasparov l'année suivante, alors champion du monde.
 
-[prince]: http://www.deadrooster.org/Prince
 [sironimo]: https://www.youtube.com/watch?v=hYWrobj7Rws
+
+[i906]: {% post_url 2011/2011-09-10-prince %}

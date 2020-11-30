@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Stooges
+category: Encyclopédie approximative du Rock and Roll
 description:
   Après 2 semaines d'absence, rassurez-vous messieurs-dames, l'approximatif est
   de nouveau au menu du jour !

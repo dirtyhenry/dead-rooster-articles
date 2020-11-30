@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Strokes
+category: Encyclopédie approximative du Rock and Roll
 description:
   L'encyclopédie approximative vous offre aujourd'hui son plus mauvais article.
 authors:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Claude François
+category: Encyclopédie approximative du Rock and Roll
 description:
   "L'article de cette semaine inaugure un nouveau concept : l'artiste
   approximativement rock and roll."

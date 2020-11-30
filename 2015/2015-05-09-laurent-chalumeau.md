@@ -70,7 +70,7 @@ l'intelligence du lecteur".
 ## C'est pas du Brahms
 
 Et c'est quoi le rapport avec Michel Sardou ? Le rapport c'est qu'en 2009,
-[j'écrivais ça][8] sur Chalumeau :
+[j'écrivais ça][i225] sur Chalumeau :
 
 > Quand on gratte un peu plus loin, on trouve quand même quelques casseroles
 > dans le passé du bonhomme : parolier pour Michel Sardou et G-Squad… Hum… Lire
@@ -157,6 +157,7 @@ d'albums :
 [5]: https://youtu.be/YL-tKWyrzuk
 [6]: https://youtu.be/5iSeilVIvXU
 [7]: http://georgesclooney.blogspot.fr
-[8]: http://www.deadrooster.org/Chalumeau-est-il-un-mec-sympa,225
 [9]: https://youtu.be/4OWp0nT9P0Y
 [10]: https://youtu.be/Etu2yx_oEsg
+
+[i225]: {% post_url 2009/2009-05-03-laurent-chalumeau-un-mec-sympa %}

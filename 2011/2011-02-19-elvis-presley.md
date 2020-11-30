@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Elvis Presley
+category: Encyclopédie approximative du Rock and Roll
 description:
   Cette semaine, dans l'Encyclopédie Approximative du Rock and Roll, du lourd,
   du très lourd (du trop lourd ?). Messieurs-dames, Elvis !!!

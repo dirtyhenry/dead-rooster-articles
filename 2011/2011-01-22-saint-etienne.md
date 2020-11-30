@@ -5,6 +5,7 @@ description:
   "Deuxième épisode de notre Encyclopédie Approximative du Rock and Roll. Pour
   continuer avec les monstres sacrés, après les Beatles, voici une grosse
   pointure, celle-ci des seventies : Saint Etienne !"
+category: Encyclopédie approximative du Rock and Roll
 authors:
   - Joe Gantdelaine
 wordpress_id: 758
