@@ -9,6 +9,7 @@ categories:
   - Artistes
 tags:
   - Oasis
+  - Liam Gallagher
 cover: noel-gallagher.jpg
 ---
 

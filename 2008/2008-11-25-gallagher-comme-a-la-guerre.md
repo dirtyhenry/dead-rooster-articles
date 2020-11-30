@@ -12,6 +12,7 @@ tags:
   - Concert
   - Albums
   - Oasis
+  - Liam Gallagher
 cover: oasis.jpg
 ---
 
