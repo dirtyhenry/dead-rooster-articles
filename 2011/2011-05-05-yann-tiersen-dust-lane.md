@@ -18,7 +18,7 @@ depuis déjà un bon bout de temps avec au passage quelques succès un rien
 empoisonnés comme la B.O. d'Amélie Poulain qui commence à lui sortir par les
 trous de nez. A cause de ce succès inattendu, Yann Tiersen s'est créé en France
 une base de fans un peu chiants. Du coup, il s'est mis à penser que la France
-était un pays de blaireaux et a commencé à regarder davantage à l'étranger :
+était un pays de blaireaux et a commencé à regarder davantage à l'étranger :
 pour trouver un nouveau label, pour tourner, pour un peu tout. L'été dernier, il
 présentait _Dust Lane_ à la Route du Rock ([on y était et on avait aimé][1]).
 Depuis, _Dust Lane_ est sorti en disque et il était de passage à la Carène, à
@@ -30,7 +30,7 @@ _Dust Lane_ est différent du reste de la discographie de Tiersen. Sa musique y
 est plus directe, pas aussi froidement élégante que jadis. Sans renier son passé
 discographique, il est probable qu'Arcade Fire (_Ashes_), Lady & Bird (_Chapter
 19_) voire les Strokes ([le riff de _Palestine_ ressemble vaguement à celui de
-_Ize Of The World_ non ?][2]) soient passés par sa platine. Le paradoxe des huit
+_Ize Of The World_ non ?][2]) soient passés par sa platine. Le paradoxe des huit
 titres du disque est d'avoir un côté davantage "chanson" que d'habitude tout en
 étant tous assez longs (pas un morceau sous les 4:30), à contenir de longs
 passages instrumentaux richement orchestrés qui nous emportent dans des

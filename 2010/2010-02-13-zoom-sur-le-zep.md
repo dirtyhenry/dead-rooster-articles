@@ -27,20 +27,20 @@ qui débutent sur scène sous le nom de New Yardbirds. Led Zep est né.
 
 Le livre commence quand la vie du groupe se termine, en septembre 1980, à la
 mort de Bonham, le batteur, dit Bonzo, lorsqu'une énième cuite se finit dans le
-style le plus glorieux du rock'n'roll : l'étouffement dans le vomi. Malgré
+style le plus glorieux du rock'n'roll : l'étouffement dans le vomi. Malgré
 plusieurs éphémères reformations depuis, [la dernière en 2007][i402], le groupe
 ne survivra pas à cet événement tragique. François Bon repart alors à la genèse
 du groupe.
 
 Si Led Zep est composé de 4 musiciens, l'auteur a clairement ses chouchous. Ce
-qui donne par ordre croissant d'intérêt :
+qui donne par ordre croissant d'intérêt :
 
 - **John Paul Jones**, le musicien de studio londonien talentueux, bon père de
   famille, qui fait hôtel à part lors des tournées et vient au concert comme un
   ouvrier pointe à l'usine, Bon s'en contrefout.
 - **Robert Plant**, le cantonnier à la beauté divine, est le chanteur et est
   plus exposé sur la scène médiatique du Zep. En plus, à un moment, il a un
-  accident grave, perd un enfant : c'est intéressant d'un point de vue
+  accident grave, perd un enfant : c'est intéressant d'un point de vue
   dramaturgique.
 - **Jimmy Page** est le fondateur et le leader du groupe, guitariste de génie.
   Avec ses problèmes de drogues et sa passion pour Aleister Crowley et
@@ -49,7 +49,7 @@ qui donne par ordre croissant d'intérêt :
   dans l'alcool quand il s'éloigne de sa vie de famille. Impliqué dans les
   anecdotes de tournée les plus croustillantes, pathétiques ou légendaires du
   groupe, il est le garant de l'esprit du rock'n'roll au sein du groupe et, là,
-  ça cause sérieux, et Bon adore !
+  ça cause sérieux, et Bon adore !
 
 {% dailymotion x1unb2 %}
 
@@ -81,20 +81,20 @@ _Moby Dick_). Lorsque le groupe rentre à l'hôtel, Jones n'est plus là, Plant 
 Page choisissent les groupies avec lesquelles ils veulent passer la nuit. Bonham
 et son acolyte **Richard Cole**, le tour manager du groupe, vont alors
 s'évertuer à trouver les pires trucs à faire et dont les journaux des 70s se
-repaîtront : destruction de chambres d'hôtels, pratique de la moto dans leurs
+repaîtront : destruction de chambres d'hôtels, pratique de la moto dans leurs
 couloirs ou le fameux
 [épisode du requin](http://en.wikipedia.org/wiki/Shark_episode).
 
 Tous les débordements du groupe, mais aussi ceux de Cole et de **Peter Grant**,
 le manager, leur vaudront de nombreux procès et interdictions de séjour dans
 divers hôtels ou pays. Et quand Cole règle la note aux hôtels qui consentent
-encore à les accueillir et que l'un de ses directeurs lui glisse : "Oh vous
+encore à les accueillir et que l'un de ses directeurs lui glisse : "Oh vous
 savez, je vous comprends un peu. Moi aussi j'aimerais pouvoir jeter une télé par
 les fenêtres de temps en temps", alors Cole règle 500 dollars supplémentaires et
 répond "Allez-y, on vous l'offre".
 
 Bon s'intéresse donc surtout aux "épisodes" du groupe mais évoque également bien
-sûr sa musique : les sommets atteints par les 4 premiers albums du groupe, ainsi
+sûr sa musique : les sommets atteints par les 4 premiers albums du groupe, ainsi
 que les 5 suivants, qu'il défend mais sur lesquels on restera plus sceptique
 (Page est alors trop dépendant à la drogue et c'est Jones qui prend en charge la
 majeure partie du travail de composition). On sent pourtant qu'il le fait

@@ -24,7 +24,7 @@ l'avant-dernière fois que la chanteuse de Stereolab ouvre pour la tête d'affic
 de la soirée, **Neutral Milk Hotel**. Il ne reste plus que quelques minutes
 avant que Jeff Mangum n'entre en scène.
 
-## Neutral Milk Quoi ? Jeff Qui ?
+## Neutral Milk Quoi ? Jeff Qui ?
 
 Nous sommes à la fin des années 90. Jeff Mangum a grandi à Ruston, Louisiane, et
 la vie locale et ses _bullies_ le convainquent qu'il n'est pas à sa place et
@@ -45,7 +45,7 @@ stabilise. Julian Koster (qui joue un peu de tout mais notamment du banjo et de
 la scie musicale), Scott Spillane (cuivres) et Jeremy Barnes (batterie) sont
 désormais des membres à part entière.
 
-{% asset neutral-milk-hotel-lineup-90s.jpg alt='Jeff, Scott, Julian et Jeremy : le lineup de Neutral Milk Hotel' %}
+{% asset neutral-milk-hotel-lineup-90s.jpg alt='Jeff, Scott, Julian et Jeremy : le lineup de Neutral Milk Hotel' %}
 
 En 1998, le second _In An Aeroplane Over The Sea_, avec Schneider à la
 production, est un chef-d'œuvre. À sa sortie, les critiques sont emballés et si
@@ -111,8 +111,8 @@ s'agitent aux premiers rangs du balcon. Magique.
 
 Une anecdote relatée par [Diffuser.fm][3] :
 
-> Dans la foule, un mec cria : “Joues-en une nouvelle !”. Mangum répondit :
-> “Vous n'entendrez jamais ces chansons.” La salle devint silencieuse. “Quoi ?”
+> Dans la foule, un mec cria : “Joues-en une nouvelle !”. Mangum répondit :
+> “Vous n'entendrez jamais ces chansons.” La salle devint silencieuse. “Quoi ?”
 > souria-t-il. “C'est pas qu'elles n'existent pas…” avant de poursuivre le
 > concert sans qu'un seul nouveau titre ne soit joué.
 

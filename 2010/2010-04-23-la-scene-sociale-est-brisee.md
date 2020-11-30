@@ -1,7 +1,7 @@
 ---
 layout: post
-title: La scène sociale est brisée !
-description: Le nouvel album de Broken Social Scene est trèèèèès prometteur !
+title: La scène sociale est brisée !
+description: Le nouvel album de Broken Social Scene est trèèèèès prometteur !
 authors:
   - Joe Gantdelaine
 wordpress_id: 600

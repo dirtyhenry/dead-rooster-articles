@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Patrick Sébastien : prochain président, poil au gl…"
+title: "Patrick Sébastien : prochain président, poil au gl…"
 authors:
   - Joe Gantdelaine
 wordpress_id: 550
@@ -9,7 +9,7 @@ comments:
   - author: Dirty Henry
     author_email: dirtyhenry@gmail.com
     date: "2009-11-23 21:32:49 +0100"
-    title: "Patrick Sébastien : prochain président, poil au gl…"
+    title: "Patrick Sébastien : prochain président, poil au gl…"
     content:
       Jean-Pierre Caca prend acte de ces déclarations et prépare d'ores-et-déjà
       une réplique…
@@ -24,4 +24,4 @@ semaine dernière du même chanteur masqué :
 > je veux créer un rassemblement pour devenir un contrepoids à tous les partis
 > politiques.
 
-Comment dire ? Le monde va mal !
+Comment dire ? Le monde va mal !

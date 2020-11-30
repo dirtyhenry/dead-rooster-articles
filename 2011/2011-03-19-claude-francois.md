@@ -3,7 +3,7 @@ layout: post
 title: Claude François
 category: Encyclopédie approximative du Rock and Roll
 description:
-  "L'article de cette semaine inaugure un nouveau concept : l'artiste
+  "L'article de cette semaine inaugure un nouveau concept : l'artiste
   approximativement rock and roll."
 authors:
   - Joe Gantdelaine
@@ -15,17 +15,17 @@ date: 2011-03-19 10:23:43 +0100
 Tout comme Dalida, **Claude François**, de son vrai nom Clodiris Fransosiris est
 né au Caire. Très bon batteur et danseur, il pense depuis la plus tendre enfance
 à une carrière artistique. Pour son arrivée en France, il change de nom, trouve
-3-4 filles sexys qu'il habille de tenues pailletées, et hop, c'est parti !
+3-4 filles sexys qu'il habille de tenues pailletées, et hop, c'est parti !
 
-Cloclo enchaine succès sur succès : _Belles, belles, belles_, _Le lundi au
-soleil_, _Ces soirées-là_… on pourrait continuer, mais la liste est longue !
+Cloclo enchaine succès sur succès : _Belles, belles, belles_, _Le lundi au
+soleil_, _Ces soirées-là_… on pourrait continuer, mais la liste est longue !
 
 Fort de sa notoriété grandissante, il fonde un magazine (Ok! Podium), une maison
-d'éditions (Arc) et participe régulièrement à l'émission pour jeunes : _Coucou
-les aminches !_. C'est aussi un découvreur de talents, révélant à la face du
+d'éditions (Arc) et participe régulièrement à l'émission pour jeunes : _Coucou
+les aminches !_. C'est aussi un découvreur de talents, révélant à la face du
 monde Pascal Krug, dit Le Petit Prince et son tube, _C'est bien joli d'être
 copains_. Mais leur relation est ambiguë, un peu à l'instar de celle entre Serge
-Gainsbourg et France Gall (_Les sucettes à l'anis_ quand même !).
+Gainsbourg et France Gall (_Les sucettes à l'anis_ quand même !).
 
 C'est d'ailleurs pour France Gall que Claude chante _Comme d'habitude_,
 adaptation de _My Way_, standard américain immortalisé par Frank Sinatra.
@@ -40,7 +40,7 @@ des années encore après sa disparition, les malchanceux perdants aux concours 
 sosies d'Elvis Presley tentent souvent leur chance à ceux consacrés à Claude
 François (pour l'anecdote, il se raconte que Cloclo en personne, malheureux
 finaliste à un concours de sosies d'Elvis a fini 5ème à un concours de sosie de…
-Claude François !).
+Claude François !).
 
 On conclura cette article en parlant de la malheureuse car trop précoce mort de
 Claude François, tué par un coup de crosse de hockey sur la tempe, ce qui est

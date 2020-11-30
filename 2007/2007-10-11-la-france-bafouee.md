@@ -9,4 +9,4 @@ cover: charles-de-gaulle.jpg
 ---
 
 Hier soir, sur France 2, des mecs cherchaient des poux au Général. Le monde va
-mal !
+mal !

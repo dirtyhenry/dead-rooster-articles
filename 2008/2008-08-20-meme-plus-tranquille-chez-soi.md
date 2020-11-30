@@ -11,4 +11,4 @@ cover: magnetophone.jpg
 Alors que Bono écoutait tranquillement les nouveaux titres de U2 chez lui, un
 "espion" hollandais en a profité pour enregistrer le son qui arrivait à sortir
 de la piaule pour diffuser tout ça sur internet. On peut même plus écouter de la
-musique peinard chez soi sans se faire emmerder. Le monde va mal !
+musique peinard chez soi sans se faire emmerder. Le monde va mal !

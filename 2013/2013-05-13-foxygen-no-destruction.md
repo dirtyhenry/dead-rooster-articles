@@ -11,7 +11,7 @@ tags:
 
 {% youtube 87jIdvGPDj4 %}
 
-Groupe cool, clip cool !
+Groupe cool, clip cool !
 
 (via
 [Pitchfork](http://pitchfork.com/news/50541-watch-foxygen-compile-footage-from-their-high-school-and-college-films-for-no-destruction/))

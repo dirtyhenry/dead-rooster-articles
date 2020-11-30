@@ -26,11 +26,11 @@ les noms des chansons qui ne seraient pas retenus, je vous connais, c'est tout
 le temps la même chose).
 
 - La 2, _Juicebox_, est sur [YouTube][2]
-- La 3, _Heart in a Cage_ :
+- La 3, *Heart in a Cage* :
 
 {% youtube 0Lg1W_Y72xE %}
 
-- La 12, _Ize of the World_ :
+- La 12, *Ize of the World* :
 
 {% youtube Bh1YGr5g_Es %}
 

@@ -14,4 +14,4 @@ annoncent
 [un nouvel album](http://pitchfork.com/news/45742-scissor-sisters-announce-new-album/).
 Toujours aucune nouvelle de
 [Dirty Sanchez](http://www.urbandictionary.com/define.php?term=dirty+sanchez).
-Le monde va mal !
+Le monde va mal !

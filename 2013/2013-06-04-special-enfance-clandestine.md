@@ -10,13 +10,13 @@ date: "2013-06-04 11:30:00 +0200"
 Petit tour du côté du ciné aujourd'hui avec 2 titres extraits du recommandé film
 [_Enfance Clandestine_][1].
 
-D'abord un titre pour les garçons, à jouer aux feux de camp cet été en colo :
+D'abord un titre pour les garçons, à jouer aux feux de camp cet été en colo :
 _No Veo_, écrite pour le film avec paroles signées du réalisateur Benjamin Ávila
 et musique de Pedro Onetto.
 
 {% soundcloud 61894158 %}
 
-Et maintenant un morceau pour les filles : version acoustique de _Sueños de
+Et maintenant un morceau pour les filles : version acoustique de _Sueños de
 Juventud_ de Enrique Santos Discépolo, interprété par l'actrice du film Natalia
 Oreiro et jouée par Ricardo Mollo.
 

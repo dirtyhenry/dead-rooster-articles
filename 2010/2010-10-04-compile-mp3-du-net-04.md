@@ -6,7 +6,7 @@ description:
   dernières semaines. Au programme cette semaine, quelques stars ({{Black Rebel
   Motorcycle Club}}, {{British Sea Power}} et {{Shannon Wright}}) et trois
   reprises pour conclure dont une du plus grand titre pop de tous les temps
-  selon Paul McCartney : {God Only Knows}, des Beach Boys."
+  selon Paul McCartney : {God Only Knows}, des Beach Boys."
 authors:
   - Dirty Henry
 wordpress_id: 709
@@ -20,7 +20,7 @@ tags:
 
 Au programme cette semaine, quelques stars (**Black Rebel Motorcycle Club**,
 **British Sea Power** et **Shannon Wright**) et trois reprises pour conclure
-dont une du plus grand titre pop de tous les temps selon Paul McCartney : _God
+dont une du plus grand titre pop de tous les temps selon Paul McCartney : _God
 Only Knows_, des Beach Boys.
 
 <ul class="polaroids">

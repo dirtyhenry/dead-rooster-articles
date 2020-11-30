@@ -9,5 +9,5 @@ cover: kyo-2.jpg
 ---
 
 Une hydre rock apocalyptique vient de se former. Un mélange merdeux de 2/5 de
-Kyo + 1/5 de Pleymo + 1/5 de Watcha + 1/5 de Vegastar. Ames sensibles, fuyez !
-Le monde va mal !
+Kyo + 1/5 de Pleymo + 1/5 de Watcha + 1/5 de Vegastar. Ames sensibles, fuyez !
+Le monde va mal !

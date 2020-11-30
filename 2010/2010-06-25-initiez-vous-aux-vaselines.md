@@ -11,7 +11,7 @@ cover: the-vaselines.jpg
 date: 2010-06-25 16:55:29 +0200
 ---
 
-**The Vaselines** est un groupe mythique et inconnu. Pourquoi mythique ? Parce
+**The Vaselines** est un groupe mythique et inconnu. Pourquoi mythique ? Parce
 que Nirvana en a fait 3 reprises sans que le mérite en revienne sur ce groupe
 obscur. Si vous vous êtes un minimum intéressé à Nirvana dans votre vie, vous
 connaissez peut-être sans le savoir des titres des Vaselines, que ce soit
@@ -24,6 +24,6 @@ En tout et pour tout, The Vaselines ont publié… 1 album… en 1989.
 qui sortira en septembre et ils en offrent un premier extrait _I Hate The 80's_
 ci-dessous.
 
-De quoi espérer un nouvel album des La's pour bientôt ?
+De quoi espérer un nouvel album des La's pour bientôt ?
 
 {% youtube i1zMx4Eltbo %}

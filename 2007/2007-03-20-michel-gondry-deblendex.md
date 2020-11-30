@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Top actu : Michel Gondry présente le de-blendex"
+title: "Top actu : Michel Gondry présente le de-blendex"
 authors:
   - Joe Gantdelaine
 wordpress_id: 369

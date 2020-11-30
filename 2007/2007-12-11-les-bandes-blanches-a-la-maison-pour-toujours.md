@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Les bandes blanches à la maison pour toujours ?
+title: Les bandes blanches à la maison pour toujours ?
 authors:
   - Dirty Henry
 wordpress_id: 429
@@ -9,4 +9,4 @@ cover: meg-white.jpg
 ---
 
 Suite aux problèmes de crises d'angoisse aigues de Meg, les White Stripes ont
-annoncé qu'ils risquaient de ne plus jamais faire de tournée. Le monde va mal !
+annoncé qu'ils risquaient de ne plus jamais faire de tournée. Le monde va mal !

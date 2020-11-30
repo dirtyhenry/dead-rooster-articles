@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Et c'est perdu !
+title: Et c'est perdu !
 authors:
   - Joe Gantdelaine
 wordpress_id: 503
@@ -9,4 +9,4 @@ cover: philippe-risoli.jpg
 ---
 
 Plus de 6 mois que c'est sorti, et il n'y a toujours aucun buzz autour du second
-album de Philippe Risoli. Le monde va mal !
+album de Philippe Risoli. Le monde va mal !

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Incroyable mépris !
+title: Incroyable mépris !
 authors:
   - Joe Gantdelaine
 wordpress_id: 475
@@ -9,4 +9,4 @@ cover: compagnie-creole.jpg
 ---
 
 Lors du dernier épisode d'Incroyable Talent, l'Homme le plus Fort de France a
-fait son numéro sans même saluer La Compagnie Créole. Le monde va mal !
+fait son numéro sans même saluer La Compagnie Créole. Le monde va mal !

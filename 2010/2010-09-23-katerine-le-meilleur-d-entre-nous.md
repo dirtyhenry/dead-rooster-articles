@@ -21,16 +21,16 @@ faire le point.
 Vous le savez sans doute, Katerine sortira lundi prochain son nouvel album
 éponyme (déjà disponible en version digitale).
 
-Pour fêter cela, Katerine fait très fort avec :
+Pour fêter cela, Katerine fait très fort avec :
 
 - ~~un jeu vidéo où il faut le laisser manger sa banane~~
 - ~~un site internet qui permet d'avoir Windows 95 sur l'iPad~~
 
-(edit : ces deux liens ont été retirés par Universal)
+(edit : ces deux liens ont été retirés par Universal)
 
 L'actualité People de Katerine est elle aussi chargée, puisque la Reine
 d'Angleterre lui chie à la raie (ce qui n'est pas sans rappeler [le dernier
-titre de Jean-Pierre Caca][1]) :
+titre de Jean-Pierre Caca][1]) :
 
 {% youtube O8bOFR0Jycs %}
 
@@ -52,22 +52,22 @@ losers.
 
 Je ne sais pas vraiment si cette chanson a un auteur officiel, mais en tout cas,
 cette version live à _40° à l'ombre_ par un groupe baptisé Phenomenal Club est
-de toute beauté :
+de toute beauté :
 
 {% youtube X4cD1w10x_M %}
 
 ### Le classement
 
-Je le disais, pas de changement au classement :
+Je le disais, pas de changement au classement :
 
 - 1. Hervé, 15pts
 - 2. Benji, Rodrigue et Joe, 5pts
 - 5. Marion, David et Loïc, 4pts
 - 8. Le reste du monde à 0 pt
 
-~~Il est encore temps de participer en [cliquant ici][i569] !~~
+~~Il est encore temps de participer en [cliquant ici][i569] !~~
 
-**Edit** : 2010, c'est fini, le concours est terminé !
+**Edit** : 2010, c'est fini, le concours est terminé !
 
 [1]: https://jeanpierrecaca.bandcamp.com/track/la-main-nest-pas
 

@@ -23,7 +23,7 @@ mais vous n'en avez pas respecté l'esprit.
 ## À l'attention de M. Ryan Giggs
 
 Cher monsieur, je ne vous aime plus. Un jour, Jean-Michel Larqué, en parlant de
-votre coéquipier Christiano Ronaldo, a dit : "Quand on ne respecte pas le jeu,
+votre coéquipier Christiano Ronaldo, a dit : "Quand on ne respecte pas le jeu,
 on peut être un bon joueur mais on n'est pas encore un grand joueur". Vous
 n'êtes donc pas un grand joueur, et Manchester Utd n'est plus la grande équipe
 au milieu de terrain Beckham/Keane/Scholes/Giggs dont vous faisiez partie il y a

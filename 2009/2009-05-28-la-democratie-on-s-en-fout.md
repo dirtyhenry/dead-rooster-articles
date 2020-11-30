@@ -1,6 +1,6 @@
 ---
 layout: post
-title: La démocratie ? On s'en fout !
+title: La démocratie ? On s'en fout !
 authors:
   - Dirty Henry
 wordpress_id: 505

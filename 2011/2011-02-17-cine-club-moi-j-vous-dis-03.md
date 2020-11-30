@@ -23,22 +23,22 @@ Oscars, le film fut un échec au box-office. Depuis, le film s'est bien rattrap�
 puisqu'il est considéré comme le film le plus vu de l'histoire du cinéma.
 
 A noter que le film est porteur d'une légende urbaine bien morbide mais
-complètement erronée : on verrait un acteur se pendre en arrière plan d'une
+complètement erronée : on verrait un acteur se pendre en arrière plan d'une
 scène alors qu'il ne s'agit que d'un oiseau.
 
-Les deux références les plus marquantes sont :
+Les deux références les plus marquantes sont :
 
-- la "yellow brick road" : c'est la voie que doit suivre Dorothy, l'héroïne du
+- la "yellow brick road" : c'est la voie que doit suivre Dorothy, l'héroïne du
   film, pour mener à bien sa quête (il ne m'a fallu qu'une semaine pour en
   tomber sur une, dans le livre _The Gun Seller_ de Hugh Laurie)
 - le fait de taper 3 fois ses souliers de rubis en disant "There's no place like
-  home" : si jamais vous vous paumez dans monde parallèle, c'est un bon truc
+  home" : si jamais vous vous paumez dans monde parallèle, c'est un bon truc
   pour pouvoir rentrer chez soi.
 
 Musicalement, le film a laissé aussi son héritage puisque le célèbre titre _Over
 The Rainbow_ a été écrit pour le film (l'écouter sur
 [YouTube](http://www.youtube.com/watch?v=QhzbzwPNgXA)). Le film a aussi d'autres
-musiques assez catchy dont celle-ci est ma préférée :
+musiques assez catchy dont celle-ci est ma préférée :
 
 {% youtube z6NsvJSGMVk %}
 
@@ -56,16 +56,16 @@ d'art.
 
 {% youtube rq6AOc0ATnU %}
 
-Le générique du film annonce la couleur : ce film est excellent. On y découvre
+Le générique du film annonce la couleur : ce film est excellent. On y découvre
 qu'on aurait pu découvrir Scarlett Johansson avant _Lost In Translation_, on
 comprend enfin pourquoi Steve Buscemi est considéré comme un acteur génial, et
 on est déçu de ne plus avoir vraiment revu l'héroïne, Thora Birch, depuis. Ca
 ressemble à ce que les frères Coen pourraient faire de meilleur s'ils
-s'intéressaient au sujet du film : la sortie de l'adolescence. Notons qu'il
+s'intéressaient au sujet du film : la sortie de l'adolescence. Notons qu'il
 s'agit d'une adaptation d'un comic américain du même nom, signé Daniel Clowes,
 dont le récent ouvrage _Wilson_ est également à recommander.
 
-Musicalement, on y trouve le _What Do I Get_ des Buzzcocks :
+Musicalement, on y trouve le _What Do I Get_ des Buzzcocks :
 
 {% youtube -EEPvXlTUnU %}
 
@@ -80,7 +80,7 @@ des vidéos sur des sites web).
 
 Croyez-le ou pas, je n'ai vu Fantomas pour la 1ère fois de ma vie qu'en 2011.
 Bien sûr, j'en connaissais des bouts de ci de là, mais jamais je n'avais vu le
-film en intégralité, de A jusqu'à Z. L'histoire : un mystérieux criminel sème le
+film en intégralité, de A jusqu'à Z. L'histoire : un mystérieux criminel sème le
 trouble dans Paris. Le commissaire Juve et le journaliste Fandor (dont on
 connaît le nom grâce aux romans puisqu'il n'est pas cité dans le film)
 s'intéressent de près au personnage, respectivement pour l'arrêter et obtenir un
@@ -92,30 +92,30 @@ surtout hyper marrant comme film. En plus - et j'ai découvert ne pas être le
 seul dans ce cas-là - je me suis fait surprendre par le scénario (attention,
 spoiler à suivre) car j'étais persuadé que Fantomas et le journaliste n'étaient
 qu'une seule et même personne dans le film alors qu'ils sont simplement
-interprétés par un seul et même acteur. Nuance importante !
+interprétés par un seul et même acteur. Nuance importante !
 
 ~~Pour décider du caractère opportun de visionner le film, si vous ne riez pas à
-la séquence suivante, inutile de s'y attarder. Mais moi, j'aime beaucoup !~~
-EDIT : la vidéo a été supprimée de YouTube.
+la séquence suivante, inutile de s'y attarder. Mais moi, j'aime beaucoup !~~
+EDIT : la vidéo a été supprimée de YouTube.
 
-Côté musique, le thème de Fantomas est très bon ! Pour l'anecdote, je me
+Côté musique, le thème de Fantomas est très bon ! Pour l'anecdote, je me
 souviens même qu'il a été utilisé sur scène par Dionysos, en intro de _Song For
 Jedi_. Il est signé Michel Magne.
 
 {% youtube Itmkhlwb5oU %}
 
-N.B. : le vendeur de BD des Simpsons s'intéressera aussi aux remixes de
+N.B. : le vendeur de BD des Simpsons s'intéressera aussi aux remixes de
 Fantomas, qu'on peut trouver
-[sur YouTube](http://www.youtube.com/watch?v=4AqOg_cF1IU) (le monde va mal !).
+[sur YouTube](http://www.youtube.com/watch?v=4AqOg_cF1IU) (le monde va mal !).
 
 ### Les autres films à voir en DVD
 
-- _L'année du dragon_ - Michael Cimino (1985) : remake du Parrain où on remplace
+- _L'année du dragon_ - Michael Cimino (1985) : remake du Parrain où on remplace
   la Sicile par la Chine, le film prouve surtout que
   [Mickey Rourke et Bruce Willis sont une seule et même personne](http://cheezburger.com/jibe/lolz/View/1353215232),
   que certains intérieurs new-yorkais ont vraiment la classe et que
   [certains looks des 80s n'étaient ni faits ni à faire](http://www.imdb.com/media/rm914397696/tt0090350)
-- _Definitely Maybe_ - Adam Brooks (2008) : film qu'on regarde parce qu'on pense
+- _Definitely Maybe_ - Adam Brooks (2008) : film qu'on regarde parce qu'on pense
   qu'il y aura un rapport avec Oasis mais en fait non, il s'agit d'une comédie
   romantique avec un scénario original (un père raconte sa vie amoureuse d'il y
   a 10 ans à sa jeune fille, en changeant le nom de ses prétendantes, parmi
@@ -134,7 +134,7 @@ Strokes…
 ### _Le nom des gens_ - Michel Leclerc
 
 Une jeune fille décide de coucher avec ceux qu'elles considèrent "fachos" pour
-les convertir à sa cause : le PS. C'est drôle et plutôt intelligent et élégant.
+les convertir à sa cause : le PS. C'est drôle et plutôt intelligent et élégant.
 
 ### _The Green Hornet_ - Michel Gondry
 
@@ -148,9 +148,9 @@ du terme), après on s'ennuie ferme et on tend des mouchoirs à ses voisines…
 
 ### Les autres films à voir au ciné
 
-- _Harry Potter and the Deathly Hallows - Part 1_ - David Yates : bon ben on a
-  commencé la série alors on va aller au bout hein !
-- _Love and other drugs_ - Edward Zwick : ça fout les jetons vu que le monde du
+- _Harry Potter and the Deathly Hallows - Part 1_ - David Yates : bon ben on a
+  commencé la série alors on va aller au bout hein !
+- _Love and other drugs_ - Edward Zwick : ça fout les jetons vu que le monde du
   commerce pharmaceutique doit un peu ressembler à ça, mais pour le reste, le
   film n'a pas beaucoup d'intérêt… En fait le seul intérêt, c'est comment dire…
   pour les gars de voir les… de… et pour les filles de voir les… de… mmm…

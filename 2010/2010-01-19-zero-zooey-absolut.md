@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Zéro Zooey Absolut !
+title: Zéro Zooey Absolut !
 authors:
   - Dirty Henry
 wordpress_id: 564
@@ -12,5 +12,5 @@ tags:
 cover: zooey-deschanel-blonde.jpg
 ---
 
-La blonde sur la photo là, voyez ? Il paraît que c'est
-[Zooey Deschanel](http://facebook.com/absolut) ! Le monde va mal !
+La blonde sur la photo là, voyez ? Il paraît que c'est
+[Zooey Deschanel](http://facebook.com/absolut) ! Le monde va mal !

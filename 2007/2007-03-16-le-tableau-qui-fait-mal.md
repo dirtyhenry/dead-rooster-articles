@@ -12,4 +12,4 @@ tags:
 cover: clubs-francais-coupe-europe.png
 ---
 
-Les clubs français sont nuls. Le monde va mal !
+Les clubs français sont nuls. Le monde va mal !

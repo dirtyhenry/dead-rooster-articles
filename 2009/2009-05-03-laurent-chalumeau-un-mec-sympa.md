@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chalumeau est-il un mec sympa ?
+title: Chalumeau est-il un mec sympa ?
 authors:
   - Dirty Henry
 wordpress_id: 225
@@ -55,7 +55,7 @@ bon et le très mauvais - est le sommet de sa carrière, ~~surveillons égalemen
 leur prochaine collaboration pour _Le Montespan_, prochain film d'Antoine,
 scénarisé par Laurent~~ (edit : le projet semble avoir été annulé).
 
-Photo : [©scottnj](http://www.flickr.com/photos/scottod/)
+Photo : [©scottnj](http://www.flickr.com/photos/scottod/)
 
 [1]: http://simon200.vip-blog.com/medias/0506/59971ouinouin01.jpg
 [2]: http://www.youtube.com/watch?v=tQZTa15sp0M

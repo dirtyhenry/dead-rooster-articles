@@ -9,4 +9,4 @@ cover: pinte-de-biere.jpg
 ---
 
 Le gouvernement travaillerait à interdire les happy hours dans les bars. Le
-monde va mal !
+monde va mal !

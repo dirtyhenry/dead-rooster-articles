@@ -10,4 +10,4 @@ cover: bo-diddley.jpg
 
 L'homme sans qui les Rolling Stones ne se seraient jamais appelés les Rolling
 Stones est mort. On espère que Chuck Berry et B.B. King vont encore tenir le
-coup quelques temps mais… Le monde va mal !
+coup quelques temps mais… Le monde va mal !

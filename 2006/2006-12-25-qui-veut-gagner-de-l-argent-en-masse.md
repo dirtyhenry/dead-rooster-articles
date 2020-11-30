@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Qui veut gagner de l'argent en masse ?
+title: Qui veut gagner de l'argent en masse ?
 authors:
   - Dirty Henry
 wordpress_id: 1042

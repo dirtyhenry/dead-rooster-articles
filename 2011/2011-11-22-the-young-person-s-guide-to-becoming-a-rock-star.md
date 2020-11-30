@@ -21,7 +21,7 @@ comments:
     title: The Young Person's Guide To Becoming A Rock Star
     content:
       "LA série sur l'univers de la musique…. combien de fou-rires j'ai pu avoir
-      avec elle : La séquence de l'agence pour l'emploi du premier épisode, les
+      avec elle : La séquence de l'agence pour l'emploi du premier épisode, les
       délires mégalomanes du \"lead singer\" d'un boyz band pourri (interpréter
       par Gerard Butler!!) dans le bureau de son manager; l'épisode entier sur
       l'enregistrement de l'album dans le manoir du producteur( fou rire de 30
@@ -42,22 +42,22 @@ inscrites à mon agenda, et décidé d'aller m'asseoir sur le canap' du salon à
 place. Canal Jimmy et Comédie! furent les chaînes les plus regardées, car je
 devenais fan de beaucoup trop de séries. Certaines ont eu leur petit moment de
 gloire (genre, _Friends_, si ça vous dit quelque chose, ou _That '70s Show_)
-mais d'autres sont injustement restées méconnus. La première au programme :
+mais d'autres sont injustement restées méconnus. La première au programme :
 **_The Young Person's Guide To Becoming A Rock Star_** (_Comment devenir une
 rock star_ en V.F.).
 
 La série est née en 1998, c'est-à-dire à peine 3 ans après _(What's the Story)
 Morning Glory?/The Great Escape_ et l'énorme vague britpop d'alors. On y suit
 l'évolution d'un groupe de Glasgow, Jocks Wa Hey, dans toutes les étapes
-imposées d'un groupe à la recherche du succès : former le groupe, trouver les
+imposées d'un groupe à la recherche du succès : former le groupe, trouver les
 concerts, trouver une maison de disques, produire un disque, etc. La série est
 courte, 6 épisodes seulement, et on y voit énormément de guest-stars et pas les
-moindres : Noel Gallagher, Jay Kay (le mec de Jamiroquai quoi) ou Chrissie Hynde
+moindres : Noel Gallagher, Jay Kay (le mec de Jamiroquai quoi) ou Chrissie Hynde
 (la chanteuse des Pretenders).
 
 {% youtube 03ZZSsxnEh8 %}
 
-En gros, on s'y moque beaucoup de tous les poncifs du genre : le groupe qui pète
+En gros, on s'y moque beaucoup de tous les poncifs du genre : le groupe qui pète
 un câble dès que le succès pointe le bout de son nez, le producteur ermite reclu
 et cocaïné, la maison de disque hypocrite où on trouve tous les futurs
 mannequins des environs, etc. mais on reste dans l'idée que putain, ouais, c'est

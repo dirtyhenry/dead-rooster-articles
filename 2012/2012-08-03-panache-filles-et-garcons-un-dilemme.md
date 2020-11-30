@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Panache - Filles et garçons : un dilemme"
+title: "Panache - Filles et garçons : un dilemme"
 authors:
   - Dirty Henry
 wordpress_id: 1084

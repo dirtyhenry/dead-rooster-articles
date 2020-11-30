@@ -4,7 +4,7 @@ title: The Pixies
 category: Encyclopédie approximative du Rock and Roll
 description:
   Cette semaine, l'Encyclopédie Approximative vous propose THE article
-  approximatif !
+  approximatif !
 authors:
   - Joe Gantdelaine
 wordpress_id: 796
@@ -17,7 +17,7 @@ comments:
     title: The Pixies
     content:
       'Je crois que le vrai nom du guitariste est Santiano. Hugues Aufray lui a
-      dédié une chanson : "Stewball". '
+      dédié une chanson : "Stewball". '
   - author: Joe Gantdelaine
     author_email: guiguilele@gmail.com
     date: 2011-03-12 15:28:59 +0100
@@ -31,7 +31,7 @@ comments:
     title: The Pixies
     content:
       Et il paraît que Franck White est un pseudo choisi en hommage à Francis
-      Blanche et de sa prestation admirable dans "Ah ! les belles bacchantes" de
+      Blanche et de sa prestation admirable dans "Ah ! les belles bacchantes" de
       Jean Loubignac
   - author: Le comité du vocabulaire
     author_email: biboulos@yahoo.fr
@@ -45,7 +45,7 @@ comments:
     date: 2011-03-14 16:36:53 +0100
     title: The Pixies
     content:
-      "Arf ! Désolé cher lecteur…\r\nPromis, la semaine prochaine, on parlera
+      "Arf ! Désolé cher lecteur…\r\nPromis, la semaine prochaine, on parlera
       pas de \"quatre bougres\" (pour la bonne raison qu'il n'y en aura qu'un…)"
   - author: Julio, là
     author_email: ""
@@ -60,7 +60,7 @@ Grâce à cet article, faisons en sorte de ne pas oublier que plus d'une décenn
 avant The Strokes, The White Stripes et ce qu'on a appelé les groupes en "The",
 dès les années 80, une première vague de ce type a déferlé sur le monde musical
 : The R.E.M., The U2 ou encore The Radiohead. Et donc, dans le cas qui nous
-intéresse aujourd'hui : **The Pixies**.
+intéresse aujourd'hui : **The Pixies**.
 
 The Pixies est un groupe de Boston surtout connu du grand public pour avoir
 composé la BO de Fight Club. Il est constitué de Frank White au chant/guitare,

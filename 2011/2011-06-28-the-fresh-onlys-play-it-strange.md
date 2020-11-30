@@ -49,7 +49,7 @@ pages dans une compile][i706].
 Si Lee Mavers avait vingt ans de moins, prenait des anti-dépresseurs et des
 Frosties au petit déjeuner, était né à San Francisco et passait plus de temps à
 la plage, The La's s'appelleraient The Fresh & Onlys. La comparaison est
-audacieuse, voire complètement conne, mais beaucoup de similitudes existent :
+audacieuse, voire complètement conne, mais beaucoup de similitudes existent :
 même goût prononcé pour le folk, dans tout ce qu'il a de plus cool (_Until The
 End Of Time_, _Red Light, Green Light_), même alternance de pop songs parfaites
 (_Waterfall_ donc, mais aussi _Be My Hooker_ ou _Plague Of Frogs_) et de morceau
@@ -60,7 +60,7 @@ de bravoure (_Tropical Island Suite_).
 Quand on ajoute à ça un morceau assez audacieux par sa bizarrerie mais
 finalement très réussi, _Who Needs A Man_, on obtient un grand disque. Le
 meilleur depuis un bout de temps en fait. Ce qui est chouette, c'est que
-contrairement aux La's, The Fresh & Onlys font plein de disques : _Play It
+contrairement aux La's, The Fresh & Onlys font plein de disques : _Play It
 Strange_ est déjà le troisième LP du groupe. Il va falloir se procurer de toute
 urgence _The Fresh & Onlys_ et _Grey-Eyed Girls_, les albums précédents.
 
@@ -68,7 +68,7 @@ Laissez-moi conclure par une petite anecdote authentique relative au [plaidoyer
 du retour des disques vinyles][i849] et prouvant en outre que le groupe est très
 sympa. Quelques instants après leur concert barcelonais, je suis allé voir les
 voir pour savoir s'ils avaient avec eux des exemplaires de leurs disques à
-vendre. Le guitariste acquiesça, et me tendit le précieux 33 tours : "on les
+vendre. Le guitariste acquiesça, et me tendit le précieux 33 tours : "on les
 vend 20 euros sur le site mais bon, donne ce que tu peux ou ce que tu veux, et
 ça ira". La vente se conclut sur 12 euros, coupon de téléchargement des MP3 et
 poignée de main inclus.

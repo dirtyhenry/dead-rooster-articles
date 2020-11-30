@@ -10,7 +10,7 @@ comments:
     author_email: dirtyhenry@gmail.com
     date: "2011-04-11 10:32:18 +0200"
     title: J Mascis - Not Enough
-    content: Incroyable ! J'aime bien !
+    content: Incroyable ! J'aime bien !
 ---
 
 {% youtube aqqH16oePQg %}

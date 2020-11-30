@@ -11,4 +11,4 @@ cover: pile-journaux.jpg
 Hortefeu et les blagues douteuses… Le PS et le bourrage d'urne… Lombard et la
 pêche aux moules… Polanski et la justice américaine… Mitterrand et le tourisme
 sexuel… Vivement la qualification de l'équipe de France pour le mondial parce
-que là, franchement… Le monde va mal !
+que là, franchement… Le monde va mal !

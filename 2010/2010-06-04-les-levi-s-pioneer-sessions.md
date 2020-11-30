@@ -19,7 +19,7 @@ tags:
 ---
 
 Levi's a récemment ouvert un site,
-[http://www.levispioneersessions.com/](http://www.levispioneersessions.com/) :
+[http://www.levispioneersessions.com/](http://www.levispioneersessions.com/) :
 deux fois par semaine, un artiste contemporain y offre une reprise d'un titre
 qui l'a inspiré au téléchargement.
 
@@ -32,6 +32,6 @@ et les prochaines semaines annoncent entre autres The Shins, Passion Pit ou The
 Kills.
 
 Photos et vidéos accompagnent chaque morceau, comme ici, avec celle de She & Him
-(tiens donc !) :
+(tiens donc !) :
 
 {% youtube tWDjDL2NAQM %}

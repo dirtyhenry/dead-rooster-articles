@@ -22,7 +22,7 @@ tags:
 Oliver Tate est un lycéen probablement intelligent mais un peu loser. Alors que
 les bookmakers ne lui donnaient qu’une petite cote, il parvient à pécho sa
 camarade de classe Jordana. Mais très vite, à son labeur intensif pour devenir
-le-meilleur-petit-ami-possible s’ajoute une autre mission : sauver le mariage de
+le-meilleur-petit-ami-possible s’ajoute une autre mission : sauver le mariage de
 ses parents, menacé par l’emménagement du premier amour de sa maman dans la
 maison d’en face.
 
@@ -52,7 +52,7 @@ leader des susmentionnés Arctic Monkeys et Last Shadow Puppets signe la B.O. du
 film, recommandée
 (_[Piledriver Waltz](http://www.youtube.com/watch?v=Bwhm3HrGA68)_ en tête) et
 composée de six titres originaux qui offrent à Turner la possibilité de
-s'exprimer dans un registre assez différent de celui de ses groupes : la balade
+s'exprimer dans un registre assez différent de celui de ses groupes : la balade
 acoustique et mélancolique.
 
 En ce qui concerne le style du film, Ayoade avait dû répondre lors du dernier
@@ -77,7 +77,7 @@ j’vous dis][ic] :
 
 Une des ressemblances les plus marquantes entre _Submarine_ et les films
 d’Anderson est dans l’usage de l’uniforme. Oliver et Jordana, les deux héros de
-Submarine, sont toujours habillés de la même manière : le duffel-coat bleu pour
+Submarine, sont toujours habillés de la même manière : le duffel-coat bleu pour
 le garçon et le manteau rouge avec doublure moumoute pour la fille. Des costumes
 d’écolier complètement intemporels qui participent à rendre le film difficile à
 dater (les looks et les décos laissent penser que l’action se passe dans les 70s
@@ -87,7 +87,7 @@ d’ailleurs ce
 les costumes des films de Wes Anderson par le site
 [Redingote](http://redingote.fr/).
 
-Finissons en vrac :
+Finissons en vrac :
 
 - _White Noise_, de Don DeLillo, est le livre préféré de Joe Dunthorne (source
   [ici](http://www.independent.co.uk/arts-entertainment/books/features/one-minute-with-joe-dunthorne-novelist-2331732.html))

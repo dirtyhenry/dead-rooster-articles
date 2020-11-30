@@ -9,4 +9,4 @@ date: "2011-09-07 19:58:15 +0200"
 
 {% youtube V3PRmu0tr6k %}
 
-Où l'on s'aperçoit que ce mec est drôlement marrant en fait !
+Où l'on s'aperçoit que ce mec est drôlement marrant en fait !

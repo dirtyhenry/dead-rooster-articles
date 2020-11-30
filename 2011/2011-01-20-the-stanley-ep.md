@@ -17,7 +17,7 @@ tags:
 Vous pouvez l'écouter et le télécharger gratuitement sur [la page Bandcamp du
 groupe][1].
 
-Il contient 4 titres :
+Il contient 4 titres :
 
 1. _In The Park_
 1. _Tell Me_

@@ -9,4 +9,4 @@ cover: lucky-luke.jpg
 ---
 
 Je viens d'apprendre que le successeur actuel de Goscinny au poste de scénariste
-de Lucky Luke est… Laurent Gerra ! Le monde va mal !
+de Lucky Luke est… Laurent Gerra ! Le monde va mal !

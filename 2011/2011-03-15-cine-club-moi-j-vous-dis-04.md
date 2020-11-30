@@ -2,7 +2,7 @@
 layout: post
 title: "Ciné-Club moi j'vous dis #04"
 description:
-  "Au sommaire du mois : {The King's Speech}, {Black Swan}, {Incendies}, {How Do
+  "Au sommaire du mois : {The King's Speech}, {Black Swan}, {Incendies}, {How Do
   You Know} et {Halal, Police d'Etat}"
 authors:
   - Dirty Henry
@@ -20,7 +20,7 @@ comments:
     date: 2011-03-15 14:02:28 +0100
     title: "Ciné-Club moi j'vous dis #04"
     content:
-      "Je confirme que : \"la symphonie numéro 7 en la majeur de Ludwig Von a un
+      "Je confirme que : \"la symphonie numéro 7 en la majeur de Ludwig Von a un
       riff du tonnerre\". Elle est présente tout au long du film
       \"Predictions\", film que l'on aime ou que l'on DETESTE (je suis dans la
       première catégorie).\r\n\r\n"
@@ -30,11 +30,11 @@ comments:
 
 ### _The King's Speech/Le Discours d'un Roi_ - Tom Hooper / _Black Swan_ - Darren Aronofsky
 
-Voilà bien les deux blockbusters du mois de février !
+Voilà bien les deux blockbusters du mois de février !
 
 Pour le premier, meilleur film, meilleur acteur, meilleur réalisateur, meilleur
 scénario original. Le teaser annonçait la couleur, il s'agissait d'un film à
-oscar, au sens neutre ou vaguement négatif du terme : performance d'acteur,
+oscar, au sens neutre ou vaguement négatif du terme : performance d'acteur,
 costumes, scénario grandiloquent et tout le tintouin. J'ai néanmoins été
 agréablement surpris par le contenu du film qui dévoile une histoire méconnue -
 même s'il la romance sans vergogne, ce qui ne pose aucun problème en ce qui me
@@ -47,15 +47,15 @@ plus planplan).
 Pour le second, meilleure actrice et 4 autres nominations. Là, c'est le
 contraire intégral. La bande d'annonce était alléchante, mais le contenu du film
 était désagréable au plus haut point. Si la fable est intéressante (comment le
-cygne blanc peut-il empêcher de se faire avoir par cet enfoiré de cygne noir ?),
-le style est d'un lourdingue incroyable : on a les sempiternels bruits à
+cygne blanc peut-il empêcher de se faire avoir par cet enfoiré de cygne noir ?),
+le style est d'un lourdingue incroyable : on a les sempiternels bruits à
 l'envers (celui qui a inventé ça mérite un procès en bonne et due forme), les
 cris et les ombres dans les coins de chambre, les bruits de plumes à chaque fois
 que Natalie Portman se retourne, etc. Darren Aronofsky ressemble ici d'avantage
 à un adolescent attardé (encore une fois, la figure du vendeur de BD des
 Simpsons me vient en tête) qu'au génie pétri de talent annoncé dans la presse
 par les critiques. Quand, en outre, je me retourne sur nos rencontres
-précédentes, je suis tenté de faire en sorte de ne plus croiser son chemin :
+précédentes, je suis tenté de faire en sorte de ne plus croiser son chemin :
 _The Wrestler_ était pas mal sans plus mais _The Fountain_ était un sommet de
 prétention et l'un des films les plus ennuyeux qu'il m'ait été donné de voir ces
 dernières années.
@@ -66,7 +66,7 @@ Plus je vieillis, plus j'aime quand un film me permet de glisser une oreille
 vers la musique classique, un domaine où je rougis de ma méconnaissance. C'est
 le cas avec _The King's Speech_ qui me fait aimer Beethoven autrement que sous
 la forme d'un Saint-Bernard. Qu'on se le dise, la symphonie numéro 7 en la
-majeur de Ludwig Von a un riff du tonnerre !
+majeur de Ludwig Von a un riff du tonnerre !
 
 {% youtube Y7F4z8FV6ME %}
 
@@ -74,7 +74,7 @@ Même sur le domaine de la B.O., _Black Swan_ ne se montre pas hyper intéressan
 : du classique connu de tous (le motif principal du lac des cygnes, tout le
 monde connaît quand même, faut pas déconner) et The Chemical Brothers. La
 prochaine fois, Aronofsky n'aura qu'à blinder sa B.O. de Massive Attack et on
-sera fâchés pour la vie… Pour fêter ça, allez, un peu de ska !
+sera fâchés pour la vie… Pour fêter ça, allez, un peu de ska !
 
 {% youtube -utkYnIV1_k %}
 
@@ -99,7 +99,7 @@ trop lyrique (de jeunes gens se font raser la tête au ralenti avec Radiohead en
 fond sonore), la suite du récit est bien emmenée et alors que le scénario est
 larmoyant, la mise en scène reste plutôt élégante.
 
-La musique qui va avec : _You And Who's Army?_ - Radiohead
+La musique qui va avec : _You And Who's Army?_ - Radiohead
 
 {% youtube gAUMgureA6o %}
 
@@ -116,23 +116,23 @@ falloir revoir leurs priorités.
 
 Ah, quand même un peu de légèreté pour essayer de se marrer en février.
 Convaincu d'aller voir ce film pour le casting plutôt que le scénario (pourquoi
-rater un film avec Owen Wilson et Paul Rudd ?), on ne s'attend pas à un grand
+rater un film avec Owen Wilson et Paul Rudd ?), on ne s'attend pas à un grand
 film en allant le voir. Et même si on n'atteint pas là les sommets imprévisibles
 d'un film comme _Marley et Moi_ (et en disant ça, oui, je suis sérieux à 100%
 voire plus), il y a beaucoup de bonnes choses ici aussi, malgré un manque de
 rythme qui fait tomber certaines situations à plat. On retrouve les acteurs dans
-leur registre le plus courant : Matty, le personnage d'Owen Wilson, est hyper
+leur registre le plus courant : Matty, le personnage d'Owen Wilson, est hyper
 drôle en vedette de baseball collectionnant les conquêtes mais tâchant de
 devenir monogame et Paul Rudd joue un peu trop le cocker triste mais sans être
 rédhibitoire.
 
 Aussi, si le récit met beaucoup de temps à se construire, la question finale est
 assez sympa. Attention, je vais dévoiler un peu du film mais en gros un choix
-cornélien s'impose à George : condamner son père à mourir en prison ou consentir
+cornélien s'impose à George : condamner son père à mourir en prison ou consentir
 à prendre trois ans pour sa pomme, et renoncer ainsi à la femme qu'il aime, le
 tout se jouant lors d'une ultime tentative de piquer Lisa à Matty.
 
-La musique qui va avec : _What's Under The House_ - Goldspot
+La musique qui va avec : _What's Under The House_ - Goldspot
 
 La B.O. est globalement très mièvre, mais ce titre est à sauver…
 
@@ -144,7 +144,7 @@ Ce qu'il y a de bien avec Eric & Ramzy, c'est qu'on sait à qui s'attendre et
 qu'on est rarement déçu. Là encore, on rigole mais tout de même moins qu'avec
 _La Tour Montparnasse Infernale_ et c'est aussi moins réussi que _Seuls Two_. On
 rigole même davantage quand Ramzy parle de son amour pour Patrick Sébastien à la
-télé :
+télé :
 
 {% youtube -BNIzcX9Bzk %}
 

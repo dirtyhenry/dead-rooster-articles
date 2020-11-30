@@ -16,7 +16,7 @@ comments:
     author_email: frederic@gaunard.com
     date: 2011-01-13 10:04:48 +0100
     title: Findlay Brown - Promised Land
-    content: Son album {Separated by the sea} est très très bon !
+    content: Son album {Separated by the sea} est très très bon !
 ---
 
 {% vimeo 17600023 %}

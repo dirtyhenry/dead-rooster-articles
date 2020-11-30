@@ -22,7 +22,7 @@ tags:
 1. Arctic Monkeys - _I Bet You Look Good on The Dancefloor_
 1. The Spinto Band - _Oh Mandy_
 1. The Outsiders - *Happyville*🔇
-1. Serge Gainsbourg - _Qui est in ? Qui est out ?_
+1. Serge Gainsbourg - _Qui est in ? Qui est out ?_
 1. The Rolling Stones - _Paint it Black_
 1. The Vaselines - *Son Of A Gun*🔇
 1. Dirty Pretty Things - _Deadwood_

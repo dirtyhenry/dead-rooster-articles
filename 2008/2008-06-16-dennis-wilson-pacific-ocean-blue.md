@@ -35,4 +35,4 @@ instant. Mais jamais le tonnerre ne se fait entendre. En cela, le malicieux
 Dennis a réussi à magnifier ses tensions intérieures pour en faire des vignettes
 au pouvoir d'attraction inouï.
 
-Niveau du disque : **Tapissier**
+Niveau du disque : **Tapissier**

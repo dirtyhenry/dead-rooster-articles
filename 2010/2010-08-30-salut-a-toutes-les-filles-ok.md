@@ -22,7 +22,7 @@ Les 3 dernières furent donc…
 
 ## 1. _A toutes les filles_ de Didier Barbelivien & Félix Gray
 
-L'originale :
+L'originale :
 
 {% youtube hZKyxmSrUug %}
 
@@ -33,19 +33,19 @@ Le clip de l'originale ne peut pas être embarquée sur le site mais est visible
 
 ## 3. _Salut à toi_ de Bérurier Noir
 
-L'originale (et un bout d'interview) :
+L'originale (et un bout d'interview) :
 
 {% youtube 5lTFu-VpPho %}
 
 ## Le classement
 
-Pas de changement au classement :
+Pas de changement au classement :
 
 - 1. Hervé, 15pts
 - 2. Benji, Rodrigue et Joe, 5pts
 - 5. Marion, David et Loïc, 4pts
 - 8. Le reste du monde à 0 pt
 
-Il est encore temps de participer en [cliquant ici][i569] !
+Il est encore temps de participer en [cliquant ici][i569] !
 
 [i569]: {% post_url 2010/2010-02-09-concours-katerine-francis-et-ses-peintres %}

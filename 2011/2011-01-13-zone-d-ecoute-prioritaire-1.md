@@ -12,9 +12,9 @@ date: 2011-01-13 19:47:26 +0100
 
 Les acronymes c'est cool et ça permet de faire, genre, on est hyper occupé et
 hyper tendance. Souvenez-vous, lorsque vous avez téléphoné à votre amis
-Jean-Louis, enseignant :
+Jean-Louis, enseignant :
 
-> - Salut Jean-Louis, ça roule ?
+> - Salut Jean-Louis, ça roule ?
 > - Ah salut mec, ouais ça va mais depuis que je suis TZR dans la région PACA
 >   j'arrête pas! D'ailleurs je dois te laisser, on se rappelle ASAP !
 

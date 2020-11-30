@@ -16,7 +16,7 @@ tags:
 cover: faux-raccord.png
 ---
 
-Depuis une dizaine de semaines, Allociné propose une émission bien marrante :
+Depuis une dizaine de semaines, Allociné propose une émission bien marrante :
 [**Faux Raccord**](http://www.allocine.fr/video/faux-raccords/).
 
 Chaque samedi, cette émission met en lumière les faux raccords de films célèbres

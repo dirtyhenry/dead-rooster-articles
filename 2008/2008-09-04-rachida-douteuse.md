@@ -8,4 +8,4 @@ cover: rachida-dati.jpg
 ---
 
 La garde des sceaux (d'eau) va bientôt les perdre (les eaux). Ca fait l'occasion
-d'un reportage au journal de 13h. Le monde va mal !
+d'un reportage au journal de 13h. Le monde va mal !

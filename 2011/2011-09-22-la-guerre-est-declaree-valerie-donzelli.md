@@ -19,7 +19,7 @@ tags:
 ---
 
 Juliette rencontre Roméo. Une histoire d'amour commence. Bientôt, un enfant va
-naître. Mais le destin tragique de leurs aînés shakespeariens va les rattraper :
+naître. Mais le destin tragique de leurs aînés shakespeariens va les rattraper :
 leur fils Adam développe une tumeur au cerveau.
 
 {% youtube VAOxTMZtiWM %}
@@ -31,13 +31,13 @@ bien plus ambitieux, parfois sombre mais ne tournant jamais le dos au comique ou
 au burlesque quand une fenêtre s'ouvre pour y jeter un oeil. Cela commence
 d'ailleurs par le choix des prénoms du couple, Roméo et Juliette ([le genre de
 fantaisie qui me plaît à tous les coups][i268]), qui rappelle celui des
-prétendants de l'héroïne de son film précédent : Pierre, Paul et Jacques.
+prétendants de l'héroïne de son film précédent : Pierre, Paul et Jacques.
 
 Le ton du film est donc attachant et unique. Par exemple, la plupart des scènes
 ont été tournées avec un appareil photo numérique et éclairage naturel, même si
 pour le coup, on a du mal à s'en convaincre en voyant le film. Néanmoins,
 Donzelli cite pas mal de références. J'ai lu Truffaut dans la presse (je cite le
-dossier de presse : "voix off, fermeture à l’iris, désir de filmer la jeunesse
+dossier de presse : "voix off, fermeture à l’iris, désir de filmer la jeunesse
 d’aujourd’hui, Vivaldi") mais j'ai aussi trouvé quelques inspirations venant de
 Christophe Honoré (lui-même citant également beaucoup), dans les scènes de
 comédies musicales (héritage de _Les Chansons d'Amour_) ou la scène de chope
@@ -45,8 +45,8 @@ dans un bar (qui rappelle
 [la scène inverse de chope à la campagne sur fond de _Flavor_ par Girls In Hawaï de _Dans Paris_](http://www.youtube.com/watch?v=yeXKQUSk0Ck)).
 
 La transition est toute faite pour en venir au sujet qui intéressera toujours
-Dead Rooster quand il va au cinéma : la bande-son ! Et que de petits trésors,
-déterrés à l'occasion du film ! Outre les morceaux de musique classique, tous
+Dead Rooster quand il va au cinéma : la bande-son ! Et que de petits trésors,
+déterrés à l'occasion du film ! Outre les morceaux de musique classique, tous
 très beaux, 6 morceaux se distinguent aux oreilles de l'amateur de musique un
 peu plus contemporaine.
 

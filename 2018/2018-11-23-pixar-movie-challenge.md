@@ -33,7 +33,7 @@ parent responsable, de me cantonner à la section _Sky Kids_[^spykids], j'optai
 pour le cocktail suivant :
 
 1. _Inside Out_. Déjà vu à sa sortie[^dejavu], bons souvenirs, estimation du
-   plaisir à le revoir : B+;
+   plaisir à le revoir : B+;
 2. _Coco_. Vu assez récemment, mais très joli, coloré donc estimation du plaisir
    à le revoir estimé à B;
 3. _Daddy's Home 2_. Peu de souvenirs du premier opus mais Will Ferrell est

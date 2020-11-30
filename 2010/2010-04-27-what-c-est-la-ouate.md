@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What ?! C'est la ouate ?
+title: What ?! C'est la ouate ?
 description:
   Le titre de la semaine de {{Katerine, Francis et ses peintres}} est {C'est La
   Ouate}, de Caroline Loeb. David l'avait.
@@ -26,15 +26,15 @@ même :
 Efficace et pas chère, Caroline Loeb a une actualité débordante et reprend _Like
 A Virgin_ dans une version bien pire que l'originale (l'exploit n'est pas mince)
 sur [sa page MySpace](http://www.myspace.com/carolineloeb), qui ne précise pas
-si [elle est abonnée à la MAAF](http://www.kewego.fr/video/iLyROoafYWPh.html) !
+si [elle est abonnée à la MAAF](http://www.kewego.fr/video/iLyROoafYWPh.html) !
 
-David l'avait trouvé en deuz et marque 4 points :
+David l'avait trouvé en deuz et marque 4 points :
 
 - 1. Hervé, 11pts
 - 2. Rodrigue et Joe, 5pts
 - 4. Marion et David, 4pts
 - 6. Le reste du monde à 0 pt
 
-<strike>Il est encore temps de participer en [cliquant ici][i569] !</strike>
+<strike>Il est encore temps de participer en [cliquant ici][i569] !</strike>
 
 [i569]: {% post_url 2010/2010-02-09-concours-katerine-francis-et-ses-peintres %}

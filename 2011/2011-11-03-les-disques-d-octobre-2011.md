@@ -21,7 +21,7 @@ comments:
     title: Les disques d'octobre 2011
     content:
       "Male Bonding n'est pas trop skate punk.\r\nUn groupe qui est trop punk,
-      c'est les Hooray Henrys par exemple !"
+      c'est les Hooray Henrys par exemple !"
 ---
 
 ## Les 5 étoiles
@@ -31,7 +31,7 @@ mois. Quant à Neutral Milk Hotel (évoqué [ici][i680] et [ici][i687]), ils son
 sous les feux de la rampe puisqu'annonces de reformation et rééditions déboulent
 un peu partout. Si vous voulez investir dans les disques de Jeff Mangum et ses
 sbires, _In the Aeroplane, Over the Sea_ est à se procurer en priorité. Deux
-belles découvertes complètent la liste des meilleurs disques du mois : Veronica
+belles découvertes complètent la liste des meilleurs disques du mois : Veronica
 Falls et Hanni El Khatib dont on reparlera très bientôt.
 
 ## Les 4 étoiles

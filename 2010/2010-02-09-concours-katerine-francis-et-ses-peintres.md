@@ -4,7 +4,7 @@ title: Concours Katerine, Francis et ses peintres
 description:
   Après {C'est lundi}, {Une chanson douce}, {La boîte de jazz}, {Belle Île en
   Mer}, {Coup de folie} et {Papayou}, quelle seront les prochaines reprises de
-  Katerine, Francis et ses peintres ?
+  Katerine, Francis et ses peintres ?
 authors:
   - Dirty Henry
 wordpress_id: 569
@@ -18,42 +18,42 @@ tags:
 cover: 52-reprises-dans-espace-katerine.jpg
 ---
 
-**Edit** : 2010, c'est fini, le concours est terminé !
+**Edit** : 2010, c'est fini, le concours est terminé !
 
 ## Concours permanent
 
-<span style="color:#009;">**Edit** : on me glisse à l'oreille (merci à Damien et
+<span style="color:#009;">**Edit** : on me glisse à l'oreille (merci à Damien et
 Guillaume) que c'est plus marrant de laisser le concours ouvert jusqu'à la fin
 de l'année, dont acte. En plus, plus on joue tard, moins on a de chances de
-gagner donc ça vaut. Mieux, pourquoi ne pourrait-on pas jouer plusieurs fois ?
-Dont acte également ! Mais par contre **il est interdit de jouer une chanson
+gagner donc ça vaut. Mieux, pourquoi ne pourrait-on pas jouer plusieurs fois ?
+Dont acte également ! Mais par contre **il est interdit de jouer une chanson
 déjà jouée par soi-même ou un autre concurrent** (cf. chansons jouées en bas de
 page)</span>
 
 Le site www.katerinefrancisetsespeintres.com (edit : le site n'existe plus ☹️)
-sera notre calendrier de l'avent 2010 : chaque lundi, on y découvre une nouvelle
+sera notre calendrier de l'avent 2010 : chaque lundi, on y découvre une nouvelle
 pépite de la chanson française, reprise par **Philippe Katerine** et le groupe
 **Francis et ses peintres**.
 
 Les 6 premières semaines de l'année furent lourdes de bonnes surprises avec des
 reprises de _C'est lundi_, _Une chanson douce_, _La boîte de jazz_, _Belle Île
 en Mer_, _Coup de folie_ et _Papayou_. Mais que nous réservent les prochaines
-semaines ?
+semaines ?
 
 Jouons ensemble en proposant 5 chansons. Si une des chansons pronostiquées est
-reprise par Katerine, on marque des points : 5 pts pour la chanson n°1, 4 pts
+reprise par Katerine, on marque des points : 5 pts pour la chanson n°1, 4 pts
 pour la chanson n°2, etc… <strike>Les pronostics sont ouverts jusqu'à dimanche,
-où les pronostics seront publiés sur ce site !</strike> Le vainqueur du
+où les pronostics seront publiés sur ce site !</strike> Le vainqueur du
 pronostic gagnera **une photo dédicacée de [Jean-Pierre Caca](rubrique 5)**.
 
-Rendez-vous en 2011 pour le verdict !
+Rendez-vous en 2011 pour le verdict !
 
 L'adresse mail est utilisée pour pouvoir retrouver le vainqueur et communiquer
-le résultat final uniquement : pas d'inscription à une mailing-liste, pas de
+le résultat final uniquement : pas d'inscription à une mailing-liste, pas de
 mémorisation, pas de transmission à des tiers ou quoi que ce soit, ce n'est pas
 le genre de la maison.
 
-**Les chansons jouées au 11/11/2010 :**
+**Les chansons jouées au 11/11/2010 :**
 
 - 1990 (Jean Leloup) **x2**
 - A bicyclette (Yves Montand)
@@ -180,7 +180,7 @@ le genre de la maison.
 - Mamy Blue (Nicoletta)
 - Marianne (Michel Delpech)
 - Les marionnettes (Christophe)
-- Marjolaine (Dalida ?)
+- Marjolaine (Dalida ?)
 - Mélissa (Julien Clerc)
 - Menthe à l'eau (Eddy Mitchell)
 - Mobilis in Mobile (L'Affaire Louis Trio)
@@ -215,7 +215,7 @@ le genre de la maison.
 - Quand je vois tes yeux (Dani Brillant)
 - <strike>Quand un vicomte (Maurice Chevalier)</strike>
 - <strike>La queue leu leu (Bézu)</strike>
-- <strike>Qui c'est celui-là ? (Pierre Vassiliu)</strike>
+- <strike>Qui c'est celui-là ? (Pierre Vassiliu)</strike>
 - Qu'on est bien (Guy Béart)
 - Requiem pour un con (Serge Gainsbourg)
 - Résiste (France Gall)
@@ -251,7 +251,7 @@ le genre de la maison.
 - Vivre ou survivre (Daniel Balavoine)
 - Volet fermé (Dick Annegarn)
 - Le Youki (Richard Gotainer)
-- Voulez-vous du chewing-gum ? (Roger Manson)
+- Voulez-vous du chewing-gum ? (Roger Manson)
 - Vous les femmes (Julio Iglesias)
 - Voyage, voyage (Desireless) **x3**
 - Les Zazous (Andrex, puis Brigitte Fontaine et -M-)

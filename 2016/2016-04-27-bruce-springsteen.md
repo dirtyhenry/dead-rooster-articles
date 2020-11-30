@@ -8,8 +8,8 @@ cover: bruce.jpg
 cover_alt: Brousse lit
 description: >
   Il aura fallu du temps pour ce nouvel article de l'Encyclopédie Approximative
-  du Rock and Roll. La faute à l'illustration : un lion dans son milieu naturel
-  ? Trop facile ! Un gros plan d'un fromage frais de Provence ? Bof ! Après des
+  du Rock and Roll. La faute à l'illustration : un lion dans son milieu naturel
+  ? Trop facile ! Un gros plan d'un fromage frais de Provence ? Bof ! Après des
   mois de labeur,  la voila, la seule, l'unique photo où Bruce lit.
 ---
 
@@ -26,7 +26,7 @@ pas avec le E-Backstreet Boys Band, il débouche les éviers mieux que les
 plombiers, il répare les joints de culasse mieux que n'importe quel garagiste.
 Dans la musique, il est l'inventeur des chansons avec "Born" dedans. Patrick
 Hernandez, John Fogerty et autre Loup des steppes, vous n'êtes que des suiveurs
-! Brousse est né pour courir en Amérique lui ! Et puis, il a aussi bourlingué au
+! Brousse est né pour courir en Amérique lui ! Et puis, il a aussi bourlingué au
 cinéma. Moi, j'ai jamais vu Tom Hanks se faire licencier parce qu'il avait chopé
 un bon gros virus dégueu. Par contre, les rues de Philadelphie, on les connait
 tous par cœur grâce à Brousse.

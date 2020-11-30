@@ -2,7 +2,7 @@
 layout: post
 title: "Ciné-Club moi j’vous dis #07"
 description:
-  "Au sommaire du mois : {La Folle Ingénue}, {La Chambre du Fils}, {Ni à vendre,
+  "Au sommaire du mois : {La Folle Ingénue}, {La Chambre du Fils}, {Ni à vendre,
   ni à louer}."
 authors:
   - Dirty Henry
@@ -33,7 +33,7 @@ Adam Belinski, qu'elle a déjà croisé à Londres.
 Certes, le couple est séduisant (Jennifer Jones pétillante et pleine de charme
 comme une
 [Punky Brewster](http://www.dailymotion.com/video/x8tgu7_punky-brewster-generique-de-la-seri_creation)
-devenue adulte, Charles Boyer - acteur français ! - à l'accent continental ayant
+devenue adulte, Charles Boyer - acteur français ! - à l'accent continental ayant
 certainement inspiré le personnage de
 [Jean Girard](http://www.dailymotion.com/video/x3z07e_talladega-nights-ricky-meets-jean-g_shortfilms)),
 certes on rit de bien des choses (surtout de la famille du pharmacien, sosie
@@ -48,11 +48,11 @@ qu'on appelle tout le temps par le prénom et le nom de famille][i824] (la
 classe) et que
 [le film est disponible en intégralité à cette adresse](http://video.google.com/videoplay?docid=-4912689158924394462).
 
-La musique qui va avec : rien de bien folichon sinon
+La musique qui va avec : rien de bien folichon sinon
 [cette scène où le sosie d'Alain Chabat joue du piano](http://youtu.be/i7NVoM9pv94?t=2m38s).
 Du coup, ça donne envie de regarder _La Carioca_, mais pour ça il faut
 [cliquer ici](http://www.youtube.com/watch?v=HCdCMo9cd5k), car il y a toujours
-des gens pour bloquer l'intégration des vidéos sur les pages web. Les ringards !
+des gens pour bloquer l'intégration des vidéos sur les pages web. Les ringards !
 
 ---
 
@@ -73,14 +73,14 @@ la soeur ne dit plus un mot et devient un
 [Joey Barton](http://www.youtube.com/watch?v=_ASkfY-1gjM) du basket féminin.
 
 Si la menace de l'ennui plane tout au long du film, on finit néanmoins par
-rentrer dans l'histoire, bizarrement structurée : une intrigue préliminaire qui
+rentrer dans l'histoire, bizarrement structurée : une intrigue préliminaire qui
 dure presque la moitié du film, pas de réel enjeu sinon effectuer le travail du
 deuil. Néanmoins, on trouve sur le net quelques lectures intéressantes du film,
 que ce soit
 [ici](http://www.cineclubdecaen.com/realisat/moretti/chambredufils.htm) ou
 [là](http://www.cinetic.be/spip.php?article80).
 
-La musique qui va avec : _By This River_ de Brian Eno
+La musique qui va avec : _By This River_ de Brian Eno
 
 {% youtube i0mGxbf4yTU %}
 
@@ -108,38 +108,38 @@ Bihour), de Groland (Gus Kervern) et de l'héritage glorieux des comédies
 franchouillardes (Chantal Neuwirth sert de lien avec _P.R.O.F.S._, le Belge
 François Damiens et le côté choral rappelle le fabuleux _L'Hôtel de la Plage_).
 
-Dans ce film, quand on dort : on ronfle, quand on est saoul : on conduit de
-travers, les moustiques : ça fait bzzz, on boit le café en lisant le journal
+Dans ce film, quand on dort : on ronfle, quand on est saoul : on conduit de
+travers, les moustiques : ça fait bzzz, on boit le café en lisant le journal
 devant la caravane au petit déjeuner. Une vision beaucoup plus drôle et beaucoup
 plus attachante des vacances à la plage que _Camping_ par exemple. Le film est
 donc recommandé.
 
-La musique qui va avec : _Les vacances à la mer_, de Mike Brank
+La musique qui va avec : _Les vacances à la mer_, de Mike Brank
 
 {% youtube d2tRDxgzupU %}
 
 ---
 
-Et sinon, par ordre de recommandation :
+Et sinon, par ordre de recommandation :
 
-- _Une Séparation_ - Asghar Farhadi : Ours d'or du meilleur film en 2011, un
+- _Une Séparation_ - Asghar Farhadi : Ours d'or du meilleur film en 2011, un
   très beau film iranien sur la justice et la fierté, qui finit par forcer les
   gens aux meilleures intentions et à la meilleure volonté possibles à ne plus
   se regarder dans les yeux.
-- _Pater_ - Alain Cavalier : un film qui sort de l'ordinaire, imaginatif, simple
+- _Pater_ - Alain Cavalier : un film qui sort de l'ordinaire, imaginatif, simple
   et prenant… Ce qui fout les jetons, c'est qu'après deux heures de film, on se
   dit que Cavalier et Lindon feraient de bien meilleurs présidents que tous les
   présidentiables réels actuels.
-- _La Conquête_ - Xavier Durringer : syndrome _The Social Network_ du film
+- _La Conquête_ - Xavier Durringer : syndrome _The Social Network_ du film
   intéressant pour raconter une chronologie d'événements réels. Après, la
   scénarisation, les qualités et défauts prêtés aux différents personnages et la
   valeur artistique du film laissent perplexes.
-- _Very Bad Trip/The Hangover 2_ - Todd Phillips : on rigole gentiment pendant
+- _Very Bad Trip/The Hangover 2_ - Todd Phillips : on rigole gentiment pendant
   98% du film, on rit franchement dans les 2% finaux
-- _Beginners_ - Mike Mills : la sensibilité de Mills est prometteuse, [comme on
+- _Beginners_ - Mike Mills : la sensibilité de Mills est prometteuse, [comme on
   l'avait déjà dit il y a 5 ans][i333], mais il tarde à confirmer dans ce film
   assez ennuyeux
-- _Animal Kingdom_ - David Michôd : si l'ambiance arrive parfois à être
+- _Animal Kingdom_ - David Michôd : si l'ambiance arrive parfois à être
   prenante, le scénario est bancal et le jeune héros nous convainct que confier
   un premier rôle à Zinédine Zidane ne serait pas une riche idée
 

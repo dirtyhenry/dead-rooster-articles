@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Du bling bling beau et précieux !
+title: Du bling bling beau et précieux !
 authors:
   - Dirty Henry
 wordpress_id: 204
@@ -55,9 +55,9 @@ n'avoir jamais déçu étaient les Kinks et les Beatles. Je suis assez d'accord
 avec ça mais, à cette liste, je pense qu'il est largement temps d'ajouter
 Supergrass.
 
-Sinon, [Gaz (et d'autres) fait de la cuisine][1] :
+Sinon, [Gaz (et d'autres) fait de la cuisine][1] :
 
-Niveau du disque : **Tapissier/Maçon**
+Niveau du disque : **Tapissier/Maçon**
 
 [1]:
   https://web.archive.org/web/20110814000103/http://cookingwithrockstars.com/artist/supergrass-gaz-coombes

@@ -41,4 +41,4 @@ rafraichissantes en un mot, ou disons deux : très plaisantes. Alors, bien sûr
 les esprits chagrins reprocheront au groupe le fait de nous resservir le même
 album à chaque fois, le fait que ces mecs ont trouvé une formule et nous font le
 même tour à chaque sortie, ou que le chanteur a une fâcheuse tendance à vouloir
-faire de sa voix une sorte de "Label thrills"… Moui, et alors ?
+faire de sa voix une sorte de "Label thrills"… Moui, et alors ?

@@ -55,4 +55,4 @@ le pavé de la place de la Bastille.
 [2]: http://www.dailymotion.com/video/x8923a_falaise-sans-piles-session_music
 [3]: http://youtu.be/Gv4CX5XLdLU
 
-[i1]: :{% post_url 2007/2007-03-30-fountains-of-wayne-traffic-and-weather %}
+[i1]: :{% post_url 2007/2007-03-30-fountains-of-wayne-traffic-and-weather %}

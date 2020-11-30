@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Les clés noires en imposent !
+title: Les clés noires en imposent !
 authors:
   - Dirty Henry
 wordpress_id: 206
@@ -16,7 +16,7 @@ Mardi 27 mai 2008. Bataclan. En avant pour le concert des **Black Keys**,
 précédé de 2 premières parties.
 
 Pendant le concert de **Don Cavalli**, on pense malgré soi à Peter McGray, le
-chanteur country de _Qui a tué Pamela Rose ?_ interprété par Chabat. On ne sait
+chanteur country de _Qui a tué Pamela Rose ?_ interprété par Chabat. On ne sait
 pas trop si on a affaire à une parodie ou à une déclaration d'amour sincère d'un
 parisien au blues sudiste. Le concert est "sympathique", assez lourdaud mais
 sans être plombant. Non recommandé après un plat trop lourd, anecdotique sinon.

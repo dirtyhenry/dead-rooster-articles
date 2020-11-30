@@ -12,11 +12,11 @@ comments:
     title: Barack casse la barraque de Fab' Fab
     content:
       "C'est surtout que tout le monde a oublié que c'était ma fête aujourd'hui
-      !! Le monde va mal !! "
+      !! Le monde va mal !! "
 cover: fabrice-santoro-2.jpg
 ---
 
-Aujourd'hui c'est Santoro Day : Santoro a gagné en grand chelem à 36 ans.
+Aujourd'hui c'est Santoro Day : Santoro a gagné en grand chelem à 36 ans.
 Pourtant, toute la presse ne parle aujourd'hui que d'un certain Obama qui, après
-vérifications, n'a jamais gagné le moindre match sur le tournoi ATP ! De qui se
-moque-t-on ? Le monde va mal !
+vérifications, n'a jamais gagné le moindre match sur le tournoi ATP ! De qui se
+moque-t-on ? Le monde va mal !

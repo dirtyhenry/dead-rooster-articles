@@ -19,11 +19,11 @@ prend du temps. Du coup, en 2012, on va essayer de se focaliser davantage sur
 pourquoi Dead Rooster à été créé, c'est-à-dire partager des découvertes et des
 opinions musique et ciné mais aussi diffuser des créations.
 
-Concrètement, voici le programme en 10 points de Dead Rooster en 2012 :
+Concrètement, voici le programme en 10 points de Dead Rooster en 2012 :
 
 1. consolidation du design introduit en 2011, en particulier, apparition de la
    barre de navigation prévue dans la barre noire située au sommet de cette
-   page. Ça devrait ressembler à ça : {% asset navigation-deadrooster.png %}
+   page. Ça devrait ressembler à ça : {% asset navigation-deadrooster.png %}
 
 1. entamer la sortie du pur mode blog pour avoir des formats plus adaptés à ce
    qu'on veut faire, pour les critiques de disque notamment
@@ -32,11 +32,11 @@ Concrètement, voici le programme en 10 points de Dead Rooster en 2012 :
    par la barre de navigation ou la page d'accueil (on réparera aussi les
    contenus du genre news obsolètes, liens cassés, etc)
 
-1. une création sera lancée en cours d'année (rapidement si tout va bien) : _La
-   visite du Louvre_, une BD-web en mode expérimental : une planche toutes les 2
+1. une création sera lancée en cours d'année (rapidement si tout va bien) : _La
+   visite du Louvre_, une BD-web en mode expérimental : une planche toutes les 2
    semaines environ pour accompagner toute l'année 2012. J'ai jamais fait ça
    mais le scénario est prêt depuis plusieurs années désormais donc il est temps
-   de passer à l'action en mode DIY !
+   de passer à l'action en mode DIY !
 
 1. et toujours des posts de blog, des «Le monde va mal» et des «Chansons du
    jour» de façon épisodique
@@ -46,18 +46,18 @@ Concrètement, voici le programme en 10 points de Dead Rooster en 2012 :
 Toutes ces nouveautés seront introduites plus en détail au fur et à mesure, lors
 des semaines à venir.
 
-Pour ne rien rater de l'actualité du site, trois moyens sont disponibles :
+Pour ne rien rater de l'actualité du site, trois moyens sont disponibles :
 
-- s'abonner au [flux RSS du site](http://feeds.feedburner.com/deadroosterorg) :
+- s'abonner au [flux RSS du site](http://feeds.feedburner.com/deadroosterorg) :
   le meilleur moyen d'être informé de tout ce qui est publié sur ce site
-- suivre le [twitter](http://twitter.com/dead__rooster) : c'est là qu'on poste
+- suivre le [twitter](http://twitter.com/dead__rooster) : c'est là qu'on poste
   des liens de trucs sympas à découvrir sur le web, quelques brèves ne pouvant
   faire l'objet d'un post et puis on peut y causer ensemble
 - s'inscrire sur la [page Facebook](http://www.facebook.com/DeadRoosterBlog),
   sans doute la meilleure option si vous n'êtes pas familier avec les flux RSS
-  ou si vous n'avez pas de compte Twitter : toutes les informations relayées par
-  ces deux canaux y sont agrégées et là aussi, on peut y causer ensemble !
+  ou si vous n'avez pas de compte Twitter : toutes les informations relayées par
+  ces deux canaux y sont agrégées et là aussi, on peut y causer ensemble !
 
-On se revoit en 2012 !
+On se revoit en 2012 !
 
 [i969]: {% post_url 2011/2011-12-13-bilan-dead-rooster-2011 %}

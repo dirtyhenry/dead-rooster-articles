@@ -8,7 +8,7 @@ date: "2013-06-27 12:00:00 +0200"
 ---
 
 Clip gavé psyché pour cet extrait de _Ride Your Heart_, premier album de
-Bleached :
+Bleached :
 
 {% youtube uCN9FCQ_P84 %}
 

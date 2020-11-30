@@ -23,7 +23,7 @@ qui depuis inonde les clubs indé, les bandes son de publicités et même certai
 sonneries de portable. Ce titre a pourtant déjà 15 ans et date de l'époque à
 laquelle la californienne pour le moins francophile s'était laissée aller à
 reprendre de nombreux titres du répertoire français, pour la plupart signés
-Gainsbourg : _Laisse tomber les filles_ (donc), _Caribou_, _La Chanson de
+Gainsbourg : _Laisse tomber les filles_ (donc), _Caribou_, _La Chanson de
 Prévert_, _Cet air-là_, etc…
 
 Rien d'anormal donc à ce qu'elle finisse par rencontrer **Bertrand Burgalat**,
@@ -36,7 +36,7 @@ de Jonathan Coe. Lui-même est d'ailleurs musicien et propose ces semaines-ci un
 tournée d'adieu (à prendre au sérieux ?) en compagnie de sa muse April March
 pour lequel il a écrit deux disques de très haut niveau (quoiqu'assez
 radicalement différent de son _Chick Habit_ ou de ses fulgurances garage
-fabriquées avec The Makers) : _Chrominance Decoder_ et _Triggers_.
+fabriquées avec The Makers) : _Chrominance Decoder_ et _Triggers_.
 
 Pas de première partie ce mercredi 28 janvier, à l'Elysée Montmartre. Quelques
 figures notables ont pris place autour de la scène (Michka Assayas et Héléna
@@ -61,9 +61,9 @@ Decoder/Triggers_ ainsi que _Caribou_ en ouverture et le désormais tube _Chick
 Habit_ en fin de set. Quoiqu'honorable, le show laisse sur sa faim, on aurait
 aimé que ça dure plus longtemps. Burgalat le sent bien et rappelle ses sbires
 pour un rappel généreux mais évitable : ils vont rejouer un titre du concert.
-Pour la prochaine tournée d'adieu, il faudra bosser plus de morceaux les mecs !
+Pour la prochaine tournée d'adieu, il faudra bosser plus de morceaux les mecs !
 
-Photo : [©*Le seb*](http://flickr.com/photos/seblascaux/)
+Photo : [©*Le seb*](http://flickr.com/photos/seblascaux/)
 
 [1]: http://www.allocine.fr/film/fichefilm_gen_cfilm=108247.html
 [2]: http://fr.wikipedia.org/wiki/Tricatel

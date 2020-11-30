@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Public bling bling ?
+title: Public bling bling ?
 authors:
   - Dirty Henry
 wordpress_id: 494
@@ -9,5 +9,5 @@ cover: public-hac.jpg
 ---
 
 Le PSG vient de diffuser une offre de réduction de 30% sur les places pour aller
-voir la réception du HAC. Le HAC ne fait pas se déplacer les foules ?! Le monde
-va mal !
+voir la réception du HAC. Le HAC ne fait pas se déplacer les foules ?! Le monde
+va mal !

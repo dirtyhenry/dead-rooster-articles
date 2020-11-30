@@ -15,7 +15,7 @@ comments:
     date: "2006-10-01 15:45:43 +0200"
     title: Chronique morgueuse du 3ème album de Vincent Delerm
     content:
-      'A noter dans les Inrocks : "les textes de Delerm continuent d''évoquer
+      'A noter dans les Inrocks : "les textes de Delerm continuent d''évoquer
       Nick Hornby, mais un Nick Hornby jouant à Taboo contre Ray Davies, avec
       l''interdiction de citer noms propres, de rues ou de sportifs."'
 cover: vincent-delerm.jpg
@@ -56,11 +56,11 @@ bourgeoisie docile […] la Seine en contrebas/Dans la nuit les usines", la vill
 de ses années lycée/fac.
 
 Mais encore une fois, il transcende ses histoires individuelles, et parvient à
-les rendre évocatrices pour tous : qui n'a jamais fantasmer sur _Les jambes de
-Steffi Graf_ ? ("Anna Kournikova", c'était trop long…) Qui n'a jamais décortiqué
+les rendre évocatrices pour tous : qui n'a jamais fantasmer sur *Les jambes de
+Steffi Graf* ? ("Anna Kournikova", c'était trop long…) Qui n'a jamais décortiqué
 en quête de sens le livret de son disque préféré quand passe sa chanson favorite
 ? C'est ici le thème de _Favorite song_, ma chanson préférée de l'album (ça
-tombe bien !) où le duo Delerm/Hannon est parfait, l'un qui dit avoir été fan et
+tombe bien !) où le duo Delerm/Hannon est parfait, l'un qui dit avoir été fan et
 l'être encore de la Comédie Divine, chanter sa chanson préférée sans en
 comprendre un mot; l'autre se questionnant sur la signification de "javanaise",
 "poinçonneur des lilas", "poupée de cire"…
@@ -80,7 +80,7 @@ journalistes et d'artistes tout aussi bobos que celui qu'ils stigmatisent…
 
 Laissons les derniers mots à l'artiste, avec sans doute des paroles qui
 s'inscriront dans les prochains manuels scolaires d'Histoire-Géo (dans la
-partie, La France de l'entre 2 guerres) :
+partie, La France de l'entre 2 guerres) :
 
 > Les chansons d'avant-guerre  
 > Ça, on savait les faire  

@@ -14,7 +14,7 @@ cover: pippo-inzaghi.jpg
 
 Lettre à Filippo Inzaghi.
 
-Pourquoi ? Pourquoi tu t'acharnes à me faire chier ? Tu commences à… à… Ne me
-laisseras-tu donc jamais en paix ???
+Pourquoi ? Pourquoi tu t'acharnes à me faire chier ? Tu commences à… à… Ne me
+laisseras-tu donc jamais en paix ???
 
 _(pleurs)_

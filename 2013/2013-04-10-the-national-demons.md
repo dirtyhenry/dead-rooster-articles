@@ -8,7 +8,7 @@ date: 2013-04-10 10:00:00 +0200
 ---
 
 The National revient bientôt avec un 6ème album _Trouble Will Find Me_. Un
-premier titre du successeur de [_High Violet_][i696] est en écoute ici :
+premier titre du successeur de [_High Violet_][i696] est en écoute ici :
 
 {% youtube N527oBKIPMc %}
 

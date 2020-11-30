@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Good Evening Sir Paulo !
+title: Good Evening Sir Paulo !
 authors:
   - Dirty Henry
 wordpress_id: 557
@@ -24,13 +24,13 @@ Palais Omnisports de Bercy. J'y allai.
 à 7 euros, d'admirer le diaporama en fond de scène (Paulo et Linda, Paulo et les
 Beatles, Paulo tout seul, Paulo et Linda, etc.) et de se lasser des dispensables
 reprises des Beatles sensées nous faire patienter (encore une fois et jusqu'à
-preuve du contraire, il y a 2 bonnes reprises des Beatles : Joe Cocker, Stevie
+preuve du contraire, il y a 2 bonnes reprises des Beatles : Joe Cocker, Stevie
 Wonder et point barre), que Paulo rentre sur scène avec ses musiciens, les
 guitaristes Brian Ray (dit le blond) et Rusty Anderson (dit le brun), le clavier
 Paul Wickens (dit l'aut') et le batteur Abe Laboriel, Jr. (dit le vieux bon gros
 Abe).
 
-Macca a fière allure : cheveux teints impeccables, veste bleu foncé qu'a la
+Macca a fière allure : cheveux teints impeccables, veste bleu foncé qu'a la
 classe, bretelles qu'ont encore plus la classe sur une chemise blanche immaculée
 et silhouette svelte qui ne trahit pas ses 67 ans et qui doit même rendre jaloux
 plusieurs trentenaires de la salle. Pas le temps de se calmer un peu (c'est
@@ -59,7 +59,7 @@ coiffures et vêtements de 1960 à 1969 donne toujours envie d'être né 30 ans 
 tôt). D'un point de vue éthique, je suis peut-être naïf, passif ou un peu con,
 mais je n'ai pas trouvé de message commercial agressif.
 
-Autre extrait vidéo qui m'a laissé beaucoup plus circonspect : la diffusion du
+Autre extrait vidéo qui m'a laissé beaucoup plus circonspect : la diffusion du
 trailer de _Everybody's fine_, film pour lequel Macca a écrit un titre. La vidéo
 est moche, larmoyante et n'a rien à faire là. Par contre, la diffusion des
 rushes de la séance photo de la légendaire pochette des Wings pour _Band On The
@@ -79,7 +79,7 @@ version originale (sauf _Something_ et _A Day In The Life_, enchaîné avec _Giv
 Peace A Chance_, de Lennon) et ceux de son après-Beatles (les excellents _Band
 On The Run_ et _Live And Let Die_).
 
-Tout est presque parfait : à part quelques fautes de goût du blond et du brun,
+Tout est presque parfait : à part quelques fautes de goût du blond et du brun,
 qui jouent leurs solos comme dans un jeu vidéo de bagnoles, même sur _Let It
 Be_, les musiciens sont à la hauteur des morceaux. Le vieux bon gros Abe, lui,
 joue comme Ringo (merci à lui) et la voix de Paul est encore parfaite, précise
@@ -94,14 +94,14 @@ et même si la soi-disante customisation du spectacle pour la France est
 maladroite (on joue _Michelle_ mais pas _All You Need Is Love_, et on se prive
 d'inviter Gérard Klein pour _Magical Mystery Tour_, Johnny Hallyday pour _Got To
 Get You Into My Life_ ou Tino Rossi pour _Yesterday_), mon petit chou sort de la
-salle en criant :
+salle en criant :
 
 > We definitely enjoyed the show  
 > We're sorry that it's time to go  
 > We'd like to thank you once again…  
 > Good Evening Sir Paul McCartney
 
-Photos : (c) [Arnaud Compagne](www.arnaudcompagne.com)
+Photos : (c) [Arnaud Compagne](www.arnaudcompagne.com)
 
 [1]:
   http://www.soul-kitchen.fr/9156-photos-concert-paul-mc-cartney-enflamme-bercy/

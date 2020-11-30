@@ -9,4 +9,4 @@ cover: sold-out.jpg
 ---
 
 Merde, la FNAC ne m'a même pas gardé une place pour le concert de Franz
-Ferdinand à la Cigale en novembre… Le monde va mal !
+Ferdinand à la Cigale en novembre… Le monde va mal !

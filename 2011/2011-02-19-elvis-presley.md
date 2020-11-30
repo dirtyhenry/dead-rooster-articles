@@ -4,7 +4,7 @@ title: Elvis Presley
 category: Encyclopédie approximative du Rock and Roll
 description:
   Cette semaine, dans l'Encyclopédie Approximative du Rock and Roll, du lourd,
-  du très lourd (du trop lourd ?). Messieurs-dames, Elvis !!!
+  du très lourd (du trop lourd ?). Messieurs-dames, Elvis !!!
 authors:
   - Joe Gantdelaine
 wordpress_id: 768
@@ -17,8 +17,8 @@ comments:
     title: Elvis Presley
     content:
       "Et il paraît qu'une fois il s'est arrêté à une station service avec une
-      Cadillac rose. Le pompiste s'approche et lui demande : \"ils font les
-      mêmes pour homme ?\"\r\n\r\nPiqué dans son orgueil, Elvis sort de sa
+      Cadillac rose. Le pompiste s'approche et lui demande : \"ils font les
+      mêmes pour homme ?\"\r\n\r\nPiqué dans son orgueil, Elvis sort de sa
       voiture et s'approche du pompiste l'air menaçant.\r\n\r\nMais finalement
       le pompiste lui a pété la gueule et 2 dents."
   - author: Elvis Patiné
@@ -31,7 +31,7 @@ comments:
       structurant de la carrière du roi de la pop.\r\n\r\nPour rappel, il a
       obtenu la médaille de bronze au concours de baby-sumo en Caroline du Nord
       en 46 (ça fait des grands pieds).  Échouer ainsi à un pas de la plus haute
-      marche (il pouvait monter deux marches en un pas !) \ l'a beaucoup affecté
+      marche (il pouvait monter deux marches en un pas !) \ l'a beaucoup affecté
       mais il s'est juré que ça n'arriverait plus.\r\n\r\nC'est du ressentiment
       né de ce classement honteux que lui sont venues sa propension à
       l'embonpoint et sa soif inextinguible de succès. Le talent a fait le
@@ -59,12 +59,12 @@ militaire de Johnny Hallyday en 1964.
 
 Après plusieurs tentatives infructueuses à Hollywood, il se tourne vers le
 stand-up. Dans un souci d'exhaustivité, citons ici sa blague favorite qui
-consistait à demander à une complice dissimulée dans le public : "Salut ma belle
-! Comment je m'appelle ?", la jeune fille de répondre : "Presley !", et lui de
-conclure d'un simple "Pouet ! Pouet !" accompagné d'un geste libidineux sur la
+consistait à demander à une complice dissimulée dans le public : "Salut ma belle
+! Comment je m'appelle ?", la jeune fille de répondre : "Presley !", et lui de
+conclure d'un simple "Pouet ! Pouet !" accompagné d'un geste libidineux sur la
 poitrine de son assistante… … … Humoriste visionnaire, trop en avance sur son
 temps et sur les mœurs d'une société américaine ultra-conservatrice, sa
-reconversion comique est un échec !
+reconversion comique est un échec !
 
 En désespoir de cause, il revient à la chanson, avec son fameux _Aloha From
 Haïti_. C'est un retour en grâce, caractérisé par un Elvis en forme olympique et
@@ -76,4 +76,4 @@ musique. Les fans les plus extrêmes n'ont cependant jamais accepté cette annon
 et pensent encore que leur héros n'est pas mort, et que, parmi les sosies qui
 participent à la multitude de concours organisés à travers le monde, se cache le
 vrai Elvis (d'ailleurs, pour l'anecdote, au début de sa carrière, Elvis a fini
-3ème à un concours d'imitation…d'Elvis !).
+3ème à un concours d'imitation…d'Elvis !).

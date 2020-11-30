@@ -9,4 +9,4 @@ date: "2013-01-31 10:00:00 +0100"
 
 {% youtube KJyjzHIgqr4 %}
 
-En attendant le concert imminent à Paris, Yo La Tengo nous sert sa tortilla !
+En attendant le concert imminent à Paris, Yo La Tengo nous sert sa tortilla !

@@ -10,4 +10,4 @@ cover: christian-jeanpierre.jpg
 
 Christian Jeanpierre, le batteur du groupe Rockaway (véridique), a apparemment
 reçu le prix "Le Monde" du meilleur commentateur lors de la coupe du monde de
-football 2006. Le monde va mal !
+football 2006. Le monde va mal !

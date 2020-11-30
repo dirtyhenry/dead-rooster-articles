@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Led Zeppelin's back !
+title: Led Zeppelin's back !
 author: Dirty Henry
 wordpress_id: 402
 date: "2007-09-03 16:29:00 +0200"
@@ -21,7 +21,7 @@ les tarifs seront bien sûr exorbitants.
 Pour fêter ça et montrer aux plus jeunes à quoi ça ressemblait le rock'n'roll de
 la fin des années 60, le NME a identifié 5 vidéos du groupe sur Youtube que le
 site considère comme étant les meilleures. Ca ne regarde que lui, mais le petit
-_Rock&Roll_ de derrière les fagots n'est pas pour me déplaire et le voici :
+_Rock&Roll_ de derrière les fagots n'est pas pour me déplaire et le voici :
 
 {% youtube FfgjJhh3U3A %}
 

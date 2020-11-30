@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Interdisons le cyclisme !
+title: Interdisons le cyclisme !
 authors:
   - Joe Gantdelaine
 wordpress_id: 462
@@ -9,5 +9,5 @@ cover: velo-casse.jpg
 ---
 
 Déjà au niveau zéro de la crédibilité pour cause de dopage généralisé, les
-cyclistes viennent faire chier les rockers ! Pour preuve, la tournée française
-de Wolf Parade se résume à deux dates : Paris et Roubaix. Le monde va mal !
+cyclistes viennent faire chier les rockers ! Pour preuve, la tournée française
+de Wolf Parade se résume à deux dates : Paris et Roubaix. Le monde va mal !

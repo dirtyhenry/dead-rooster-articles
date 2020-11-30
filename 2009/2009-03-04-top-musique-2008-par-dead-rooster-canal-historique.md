@@ -45,20 +45,20 @@ accompagnée le plus souvent d'une basse omniprésente, d'une batterie
 assourdissante, voire d'un orgue virevoltant. Bref, le **rock garage**. Le genre
 qui préfigurait pléthore d'autres genres à venir (du hard au punk, en passant
 par le prog). Mais chez les groupes de l'époque, point de rythmique
-pachydermique, pas plus que de nappes de claviers surnuméraires. Non ! En ce
+pachydermique, pas plus que de nappes de claviers surnuméraires. Non ! En ce
 temps-là, tout était à l'économie, et fait dans l'urgence. Et donc, les 3
 groupes qui auront retenu l'attention cette année sont **The Shadows of
 Knight**, **The Remains** et **We the People**. N'ayant ni l'envie, ni l'espace
 de faire la biographie de ces groupes ([allmusic][1] fait ça très bien…),
 intéressons-nous plutôt à leurs traces discographiques laissées à la postérité.
-Et tout d'abord : **The Shadows of Knight**, ou comment faire pour métamorphoser
+Et tout d'abord : **The Shadows of Knight**, ou comment faire pour métamorphoser
 le pillage de tombes en œuvre personnelle. En effet, à première ouïe, on
 pourrait être rebuté par la 5032ème version de _Hey Joe_ ou par la 127ème
 version de _Gloria_ (il faudra d'ailleurs attendre la 128ème pour qu'un faux
 sosie moustachu de Jane Birkin en fasse un succès sur son cultissime _Horses_).
-Cependant, ces gens parviennent à ne pas rester dans le pur exercice de style !
+Cependant, ces gens parviennent à ne pas rester dans le pur exercice de style !
 On sent en effet une réelle implication dans ces covers, le solo sur _Hey Joe_
-est relativement oufesque, le _Gloria_ sauvage à l'extrême ! Et que dire de la
+est relativement oufesque, le _Gloria_ sauvage à l'extrême ! Et que dire de la
 demie douzaine de reprises de titres de Willie Dixon qui émaillent leurs deux
 premiers albums (_Gloria_ et _Back Door Men_), si ce n'est qu'elle donne
 indéniablement l'envie de se pencher sur la carrière du bluesman. Et lorsque les
@@ -73,39 +73,39 @@ Look Back_, comment ne pas avoir envie de chevaucher une grosse cylindrée, les
 cheveux au vent, un après-midi de juillet, sur la route de Nashville (ou au
 pire, de se trémousser comme un forcené sur le dancefloor de n'importe quel bar
 rock). Idem pour _Say You're Sorry_ ou encore _All Good Things_ (ça devait
-remuer du popotin en 1966 !). Et puis, il y a les chansons des rockers au grand
-coeur : _Ain't That Her_ ou _Baby I Believe In You_. Dans toutes ces chansons en
+remuer du popotin en 1966 !). Et puis, il y a les chansons des rockers au grand
+coeur : _Ain't That Her_ ou _Baby I Believe In You_. Dans toutes ces chansons en
 tout cas, c'est de la guitare tranchante à qui mieux mieux ou de l'orgue placé
-comme on l'aime (c'est-à-dire présent et non pas omniprésent !). Alors certes,
+comme on l'aime (c'est-à-dire présent et non pas omniprésent !). Alors certes,
 parfois, on se dit qu'on écoute des Rolling Stones de seconde zone, mais bon,
 des copistes des Stones, cela ne vaut-il pas mieux que n'importe quel suiveur
-new wave actuel ? (c'était le passage vieux con de l'article…)
+new wave actuel ? (c'était le passage vieux con de l'article…)
 
 Pour clore ce volet du top, **We The People**, groupe totalement inconnu mais
-totalement génial ! On ne saura que trop recommander le double album _Mirror of
+totalement génial ! On ne saura que trop recommander le double album _Mirror of
 Our Mind_, paru en 1998, et qui donne un aperçu quasi intégral des talents de ce
 groupe. Capable du parfait hymne garage _Drivin' Me Out of My Mind_, tout en
 batterie galopante, en éructements et en guitare incisive, d'un titre psyché
 parfait _My Brother The Man_ avec son orgue au poil et ses bruits plein de
-reverb, ce groupe peut aussi explorer des territoires sonores insoupçonnés :
+reverb, ce groupe peut aussi explorer des territoires sonores insoupçonnés :
 _There's Gonna Be A Storm_ ou _Ain't Gonna Find Nobody_ et leurs cuivres
 semblant venir de la Nouvelle Orléans. Peu importe le genre abordé, tout ou
-presque ici frôle la perfection ! J'incite toute personne sensée qui n'a pas
+presque ici frôle la perfection ! J'incite toute personne sensée qui n'a pas
 envie de tout démolir chez elle à l'écoute de _Double Trouble_ ou de _I Wanna Do
 It_ à m'écrire. De même, celui qui ne se marre pas aux premières secondes de _He
 Doesn't Go About It Right_ ou qui ne pleure pas sur _St John's shop_ peut lever
-fièrement le bras et dire : "Moi m'sieur ! Moi !". Non, défitivement, c'est
-impossible ! Quant au riff de _Too much noise_, a-t-on fait un jour plus
-efficace que ce "pada pada BAM, pada pada BOM" ? (et je n'évoque même pas le
+fièrement le bras et dire : "Moi m'sieur ! Moi !". Non, défitivement, c'est
+impossible ! Quant au riff de _Too much noise_, a-t-on fait un jour plus
+efficace que ce "pada pada BAM, pada pada BOM" ? (et je n'évoque même pas le
 refrain qui aurait dû être l'hymne officiel de toute baston entre loulous à
-bananes qui se respectent !)
+bananes qui se respectent !)
 
 ## 2. La musique _calme_
 
 Ayant sué sang et eau sur la piste de danse, il est désormais temps de rentrer
 chez soi et d'écouter de la musique plus calme. Je ne m'appesantirai pas sur
 **Dennis Wilson** et son _Pacific Ocean Blue_, puisqu'il a déjà fait l'objet
-d'un post ici ! N'en disons pas trop non plus sur **Neil Young** et son _Sugar
+d'un post ici ! N'en disons pas trop non plus sur **Neil Young** et son _Sugar
 Moutain_, live de 1968, puisqu'on espère en reparler plus longuement pour la
 sortie du premier volume des _Neil Young Archives_, sortie qui se veut imminente
 (après une bonne dizaine d'années de tergiversations administratives et
@@ -120,12 +120,12 @@ Something New_ en 2008. Tout n'est certes pas du niveau de l'autre indispensable
 coffret _…MGM recordings_, mais quand même, il y a ici quelques très bons
 moments (_Sally Was a Good Old Girl_, _Rainbow Woman_, _Houston_, qui n'a rien à
 voir avec le morceau de Johnny Cash…). On découvre en plus, à la fin du second
-disque, que Lee avait un talent de producteur non négligeable : on en était déjà
+disque, que Lee avait un talent de producteur non négligeable : on en était déjà
 conscient lorsqu'il s'agissait de faire chanter Nancy, la fille de Frank, on le
 retrouve ici dans cette même posture de défricheur de jeunes talents, avec par
 exemple, les obscurs mais attachants Wildcats, de même que les tout aussi
 obscurs mais plus trippants Whisk kids. Bref, un coffret indispensable pour tout
-aspirant moustachu !
+aspirant moustachu !
 
 Autre mort qui a refait surface en 2008, **Nick Drake**, dont la musique n'a
 jamais été aussi présente (dans les pubs, dans des films, dans des séries) qu'au
@@ -142,7 +142,7 @@ musique est plus enjouée et plus orchestrée (ici, moults cuivres quand là bas
 ce n'était que guitare rachitique et cordes glaciales). Il faut un certain temps
 pour admettre que Nick Drake n'était pas uniquement un génie de la ballade
 mortifère, mais pouvait très bien enfiler le costume de dandy sur le retour (car
-il faut tout de même être conscient qu'on reste très loin de la gaudriole !).
+il faut tout de même être conscient qu'on reste très loin de la gaudriole !).
 Ainsi _Hazey Jane II_ ou _At The Chime of A City Clock_ prouvent qu'un écrin
 foisonnant d'instruments pouvait aussi convenir au fil de voix fluet de M.
 Drake.
@@ -173,12 +173,12 @@ qui les frères Gallagher ne sont que des Beatles des temps modernes (ok pour
 _I'm Outta Time_, mais pour _Ain't Got Nothin_ ou _Falling Down_ je vois pas).
 
 Ainsi se termine ce top, totalement bancal, totalement incomplet (quid de la
-réédition du _Live in Santa Monica_ de **David Bowie** ? Quid de **Jay
-Reatard**, **Islands** ou des **Magnetic Fields** ?). En tout cas, vivement
+réédition du _Live in Santa Monica_ de **David Bowie** ? Quid de **Jay
+Reatard**, **Islands** ou des **Magnetic Fields** ?). En tout cas, vivement
 2009, et un fossé toujours plus grand entre des vieux encore plus vieux et des
-jeunes encore plus jeunes !
+jeunes encore plus jeunes !
 
-Quelques liens utiles :
+Quelques liens utiles :
 
 - [Un mec qu'a tout compris](http://www.youtube.com/watch?v=qdYf3de-nHY)
 - [Le _Gospel Zone_ des Shadows of Knight](http://www.deezer.com/track/760963)

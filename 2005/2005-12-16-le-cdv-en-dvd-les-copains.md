@@ -8,9 +8,9 @@ wordpress_id: 266
 
 {% asset u2.jpg %}
 
-~~Et oui, on ne l'attendait plus mais je viens d'avoir l'info : les _Centres de
+~~Et oui, on ne l'attendait plus mais je viens d'avoir l'info : les _Centres de
 Visionnage_ d'**Edouard Baer** vont sortir en DVD lors du premier
-semestre 2006.~~ (edit : en fait c'était un fake)
+semestre 2006.~~ (edit : en fait c'était un fake)
 
 Autre chose, je suis en train de regarder un documentaire sur **U2** et plus
 particulièrement sur leur album _The Joshua Tree_ et je dois dire que même si

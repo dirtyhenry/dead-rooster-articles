@@ -21,6 +21,6 @@ comments:
 Un blog anglophone
 ([Some Kind of Explanation](http://somekindofexplanation.blogspot.co.uk/))
 reprendrait un peu le principe de l'Encyclopédie approximative du rock, mais
-pour tout. Il serait presque aussi drôle. Le monde va mal !
+pour tout. Il serait presque aussi drôle. Le monde va mal !
 
 (merci Lola)

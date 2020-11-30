@@ -1,6 +1,6 @@
 ---
 layout: post
-title: C'est comme ça !
+title: C'est comme ça !
 authors:
   - Dirty Henry
 wordpress_id: 390

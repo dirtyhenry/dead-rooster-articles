@@ -38,16 +38,16 @@ peut-être de la belge-touch - est là.
 Deux biopics musicaux sont en préparation.
 
 Le premier concerne Freddie Mercury, le chanteur de Queen, qui sera interprété
-par Sasha Baron Cohen, choix plutôt bien vu :
+par Sasha Baron Cohen, choix plutôt bien vu :
 
 {% asset freddie-mercury-borat.png %}
 
-Profitons-en pour nous souvenir de Freddie Mercure :
+Profitons-en pour nous souvenir de Freddie Mercure :
 
 {% youtube iTq0jtCoPGo %}
 
 Par ailleurs, en ce qui concerne le biopic de Phil Spector (producteur génial
-des 60s, ayant plutôt mal vieilli : perruques et meurtre), le rôle serait tenu
+des 60s, ayant plutôt mal vieilli : perruques et meurtre), le rôle serait tenu
 par Al Pacino, que j'aurais plutôt vu dans le rôle de Leonard Cohen
 ([comme bien d'autres](http://i2.pinger.pl/pgr390/ea0abce00029a3bd4a147b97/al-pacino-totally-looks-like-leonard-cohen.jpg))
 :
@@ -56,7 +56,7 @@ par Al Pacino, que j'aurais plutôt vu dans le rôle de Leonard Cohen
 
 Aucun titre n'est encore prévu pour le film mais Stereogum propose un concours
 pour trouver le meilleur. Si j'étais producteur du film, je choisirais l'une de
-leurs propositions : _If You See Me Holding A Gun, Da Doo Ron Ron: The Story Of
+leurs propositions : _If You See Me Holding A Gun, Da Doo Ron Ron: The Story Of
 Phil Spector_.
 
 (via
@@ -77,7 +77,7 @@ dernières années,
 
 Le foot est toujours source de fun.
 
-Preuve n°1 (via guiguilele) :
+Preuve n°1 (via guiguilele) :
 
 {% youtube 1T62VafD6a4 %}
 

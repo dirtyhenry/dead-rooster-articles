@@ -27,6 +27,6 @@ procurer le maillot à 2 étoiles de l'équipe de France de football.
 En attendant la sortie de l'album, la chanson titre _Butterfly House_ est
 téléchargeable sur leur site officiel et le clip du 1er single _1000 Years_ peut
 être visionné ci-dessous. The Coral semble y adopter une politique de débuts
-laborieux enchaînés sur des solos de guitare psychés en diable. Pas mal !
+laborieux enchaînés sur des solos de guitare psychés en diable. Pas mal !
 
 {% youtube baH0SWCFVzo %}

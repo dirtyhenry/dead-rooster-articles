@@ -21,7 +21,7 @@ durable, inaltérable malgré ce que les gens de l'extérieur en disent ou ce qu
 les concernés de l'intérieur font.
 
 Je passerai trèèèès rapidement sur les amours de jeunesse hein (non, je n'ai
-jamais donné d'argent à 2 Unlimited ou à Ménélik ! Non, c'était des cadeaux…),
+jamais donné d'argent à 2 Unlimited ou à Ménélik ! Non, c'était des cadeaux…),
 pour évoquer directement la case adolescence.
 
 À ce moment de la vie, on se fait ses premiers vrais copains. Des potes à la vie
@@ -37,10 +37,10 @@ dire, que nos parents sont [pas si cons que ça][souchon].
 
 Progressivement, on a de plus en plus d'[amis dont on est fier][grandaddy]. On
 côtoie toujours notre famille bien sûr. Mais comme dans toutes les familles, on
-sait bien que les relations évoluent : [le cousin un peu débile][oasis] qui nous
+sait bien que les relations évoluent : [le cousin un peu débile][oasis] qui nous
 faisait marrer quand on était jeune, on continue à bien l'aimer, là n'est pas la
 question. Mais quand même, petit à petit, on s'en éloigne, on évite d'en parler
-en société. Pareil pour [le frère de maman][renaud] : on en est fan quand on
+en société. Pareil pour [le frère de maman][renaud] : on en est fan quand on
 avait 15 ans, il est quasiment un dieu vivant mais, les années passant, on
 aimera toujours le voir, mais on le trouvera au plus attachant.
 
@@ -65,7 +65,7 @@ instants d'égarements][eels].
 
 Les seuls moments où tout est un peu remis en cause, c'est quand il faut
 assister à un enterrement. Mais, comme on a la trentaine, ce ne sont pas encore
-des figures trop proches : [le lointain tonton][bashung] qu'on voyait rarement
+des figures trop proches : [le lointain tonton][bashung] qu'on voyait rarement
 ou [l'ami d'enfance de papa][lou-reed]. Malgré tout, on a quand même perdu
 [quelques proches][elliott-smith]. On se dit que la vie est moche, qu'ils
 étaient formidables. Mais finalement, quand on voit ce que certaines [personnes
@@ -80,7 +80,7 @@ est pas encore au stade de mamie qui confond [Stéphane][grizzly-bear] et
 ressentir [un air de déjà vu][real-estate].
 
 Et vient alors ce sentiment étrange qu'on prend de la bouteille. Des choses nous
-rassurent : on peut trouver qu'on vieillit mieux que [nos amis][strokes] ou que
+rassurent : on peut trouver qu'on vieillit mieux que [nos amis][strokes] ou que
 notre petite amie nous offre une seconde jeunesse en nous présentant [tous ses
 potes][television-personalities]. Mais le constat est là. De plus en plus, on
 pense qu'on aurait voulu vivre à l'époque où notre père et ses potes avaient la
@@ -88,9 +88,9 @@ vingtaine. Pour voir ces potes autrement que comme [des bedonnants sympas mais
 grisonnants][neil-young]. Ou pour connaître [le grand-père][brassens] qui est
 mort avant notre naissance.
 
-Mais allez, cessons l'apitoiement ! Nous avons encore [plein de
-projets][thrills] ! Et qui sait si prochainement, un retour de jeunesse ne nous
-donnera pas envie de [redevenir les explorateurs que nous avons été][labelpop] ?
+Mais allez, cessons l'apitoiement ! Nous avons encore [plein de
+projets][thrills] ! Et qui sait si prochainement, un retour de jeunesse ne nous
+donnera pas envie de [redevenir les explorateurs que nous avons été][labelpop] ?
 
 ## La Playlist
 

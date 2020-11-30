@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Election du meilleur nom de groupe 2010 !
+title: Election du meilleur nom de groupe 2010 !
 description:
   Avec The Phoenix Fundation, lancement officiel de la sélection des nommés pour
-  le Band Naming Award 2010 !
+  le Band Naming Award 2010 !
 authors:
   - Dirty Henry
 wordpress_id: 663
@@ -17,10 +17,10 @@ tags:
 
 Je m'aperçois qu'il manque une récompense dans le monde de la musique. Toutes
 ces cérémonies négligent un art subtil, qui préfigure l'avenir d'un groupe, même
-avant son premier concert, sa première répétition ou quoi que ce soit d'autre :
-l'art du **band-naming** !
+avant son premier concert, sa première répétition ou quoi que ce soit d'autre :
+l'art du **band-naming** !
 
-Je lance donc le processus de sélection des nommés pour l'édition 2010 :
+Je lance donc le processus de sélection des nommés pour l'édition 2010 :
 
 - [The Phoenix Fundation][1]
 - [Com Truise][2]

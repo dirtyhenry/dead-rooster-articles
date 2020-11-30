@@ -24,11 +24,11 @@ volant de son automobile et découvre que le rythme effréné de la vie parisien
 ainsi que le dérèglement climatique, peuvent être des obstacles au bon
 développement de sa vie amoureuse et de son ambition professionnelle.
 
-## 7h30 ou 19h30 ?
+## 7h30 ou 19h30 ?
 
 Joe nous dit qu'il est "sept heures et demi", mais prend soin de semer le doute.
-S'agit-il de 7h30 du matin ou de 19h30 ? Dans son "Encore un rendez-vous de
-râté", faut-il entendre rendez-vous professionnel ? Auquel cas, dans un registre
+S'agit-il de 7h30 du matin ou de 19h30 ? Dans son "Encore un rendez-vous de
+râté", faut-il entendre rendez-vous professionnel ? Auquel cas, dans un registre
 classique d'horaires d'employé du tertiaire, on serait plutôt le matin.
 
 Pourtant, il parle d'un "rendez-vous ce soir avec la fille de mon patron", pour
@@ -40,7 +40,7 @@ lequel il n'est "vraiment pas pressé" (sic) :
   sans doute la destination de notre héros
 
 Enfin, le titre se conclut sur un "au revoir et à demain". Si on était le matin,
-n'aurait-il pas été plus pertinent de conclure sur un "à ce soir" ?
+n'aurait-il pas été plus pertinent de conclure sur un "à ce soir" ?
 
 L'auteur s'amuse donc à semer le doute dans l'esprit de l'auditeur, à rejeter
 les règles entendues d'un rythme quotidien partagé et lui préférer l'écoute
@@ -66,10 +66,10 @@ ainsi les traits du héros romantique cher à la tradition littéraire français
 Clairement, Dassin rend ici hommage à Hugo et Chateaubriand.
 
 Enfin, une figure maternelle est évoquée de façon très ambiguë. "La" mère
-exaspérée ou "sa" mère exaspérée ? On n'est pas bien sûr et [les
+exaspérée ou "sa" mère exaspérée ? On n'est pas bien sûr et [les
 versions][lyrics-ma] [divergent][lyrics-la]. Se rend-il à son rendez-vous
-arrangé accompagné de sa mère ? Évoque-t-il la mère de la jeune fille ? Une
-autre femme qui serait, à ses yeux, évidemment, une maman ? Dans tous les cas,
+arrangé accompagné de sa mère ? Évoque-t-il la mère de la jeune fille ? Une
+autre femme qui serait, à ses yeux, évidemment, une maman ? Dans tous les cas,
 on a ici une figure castratrice, dévorante et envahissante auquel le héros a
 réussi à s'arracher pour aller aider la jeune fille. Le truculent s'invite ici
 lorsque le héros parvient à "remettre sa capote", clin d'œil de Dassin à
@@ -82,7 +82,7 @@ professionnelle, va se révéler à lui-même et devenir maître de son destin e
 son désir. Dassin rend ici hommage à plusieurs courants de la littérature et
 signe un chef d'œuvre en à peine deux minutes.
 
-Prends ça dans ta gueule Marcel Proust !
+Prends ça dans ta gueule Marcel Proust !
 
 {% spotify 2DhVzuXuNBehDVdfdeTtO5 guiguilele %}
 

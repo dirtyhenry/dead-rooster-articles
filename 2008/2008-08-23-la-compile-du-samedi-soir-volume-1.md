@@ -17,7 +17,7 @@ tags:
 1. Hot Hot Heat - *Talk to Me, Dance with Me*🔇
 1. Bob Dylan - *I Want You*🔇
 1. T-Rex - _Bang a Gong (Get It On)_
-1. Outkast - _Hey ya !_
+1. Outkast - _Hey ya !_
 1. The Libertines - _Don't Look Back Into The Sun_
 1. Stereo Total - _Nationale 7_
 1. Kings of Leon - _Joe's Head_

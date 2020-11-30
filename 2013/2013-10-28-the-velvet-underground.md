@@ -12,9 +12,9 @@ cover: the-velvet-underground-fake-pochette.jpg
 date: 2013-10-28 09:51:00 +0100
 ---
 
-Alors le Velvet Underground, c'est quoi, c'est qui ?
+Alors le Velvet Underground, c'est quoi, c'est qui ?
 
-Alors évidemment, Lou Reed oui. Mais pas seulement ! Il y avait aussi John Cage,
+Alors évidemment, Lou Reed oui. Mais pas seulement ! Il y avait aussi John Cage,
 plus tard chantre de la musique concrète, avec son célèbre
 [4'33"](https://www.youtube.com/watch?v=JTEFKFiXSx4), belle composition où
 l'interprète joue en silence pendant, donc, 4 minutes 33.
@@ -34,13 +34,13 @@ C'est encore Roy Lichtenstein, le grand artiste pop art qui dessina la pochette
 du fameux album à l'ananas.
 
 C'est donc, enfin, le grand Lou, qui nous a quittés trop tôt. Lou, artiste
-protéiforme, qui composa quelques très belles ballades : _Perfect Weather_,
+protéiforme, qui composa quelques très belles ballades : _Perfect Weather_,
 _Walk On The Wide Slide_, etc. Il était également capable de sortir de
-merveilleux concept-albums : _Hamburg_, qui raconte la vie d'un couple allemand
+merveilleux concept-albums : _Hamburg_, qui raconte la vie d'un couple allemand
 parfait, élevant dans la joie leurs enfants
 ([_The Kids_](https://www.youtube.com/watch?v=YY_i-R2ldyA) et la merveilleuse
 chorale finale) et s'éteignant heureux, à un âge vénérable, dans leur lit (_The
-Bed_). Il est enfin responsable d'expérimentations très exigeantes : Mental
+Bed_). Il est enfin responsable d'expérimentations très exigeantes : Mental
 Machine Music, où Lou imagine 1 heure de "bruits de cerveau".
 
-Bref, bye bye Lou et merci pour tout !
+Bref, bye bye Lou et merci pour tout !

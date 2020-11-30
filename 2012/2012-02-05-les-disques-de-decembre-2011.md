@@ -3,7 +3,7 @@ layout: post
 title: Les disques de décembre 2011
 description:
   OK, on est déjà en février, mais pourquoi serait-il trop tard pour parler des
-  disques écoutés en décembre ? Classement discriminant, à l'emporte-pièce, dont
+  disques écoutés en décembre ? Classement discriminant, à l'emporte-pièce, dont
   The Black Keys, Atlas Sound, Fleet Foxes et Kurt Vile sortent vainqueurs.
 authors:
   - Dirty Henry
@@ -71,7 +71,7 @@ reste accroché sur toute la durée du disque. Bien cool malgré tout.
 ### Beat Mark - _Howls of Joy_
 
 La bonne surprise française du mois. Une variété de tons toujours convaincants
-et quelques tubes en puissance. Écouter [_Breeezing !_][i979] pour s'en
+et quelques tubes en puissance. Écouter [_Breeezing !_][i979] pour s'en
 convaincre.
 
 ### Surfer Blood - _Tarot Classics EP_
@@ -134,11 +134,11 @@ attacher vraiment.
 
 Quelques bons trucs mais bien trop sirupeux de manière générale, la voix toute
 en murmures saoule assez rapidement. Se souvenir du conseil que Radiohead a
-donné dans _Pablo Honey_ : [Stop Whispering](http://youtu.be/k2WG_0-CgYA).
+donné dans *Pablo Honey* : [Stop Whispering](http://youtu.be/k2WG_0-CgYA).
 
 ### MANSFIELD. TYA - _Nyx_
 
-Difficilement supportable : trop ambitieux, trop de voix/percu, pas assez
+Difficilement supportable : trop ambitieux, trop de voix/percu, pas assez
 d'instruments. Si des paroles comme "Et le bronzage de tes fesses dessine un
 coeur vulgaire mais beau (comme notre amour)" ne vous rebutent pas,
 tentez-l'écoute. Dans le cas contraire (le mien), laissez tomber.
@@ -151,7 +151,7 @@ D'autres fois, non. On est là dans la 2ème catégorie. Tant pis.
 
 ### Super Heavy - _Super Heavy_
 
-Mick Jagger a créé ce "super"-groupe. Une question : "pourquoi ?". Horrible.
+Mick Jagger a créé ce "super"-groupe. Une question : "pourquoi ?". Horrible.
 
 ## La synthèse
 

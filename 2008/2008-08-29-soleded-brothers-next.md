@@ -52,7 +52,7 @@ Les Soledad Brothers sont morts, vivent les Soledad Brothers !
 - [Soledad Brothers](http://www.myspace.com/soledadbrothers)
 - [Cut In The Hill Gang](http://www.myspace.com/cutinthehillgang)
 
-Photo : [Lex In The City](http://flickr.com/photos/toronto_lex/) —
+Photo : [Lex In The City](http://flickr.com/photos/toronto_lex/) —
 [CC-by-nc-sa](http://creativecommons.org/licenses/by-nc-sa/2.0)
 
 [2]: http://www.guardian.co.uk/music/2006/mar/03/popandrock1

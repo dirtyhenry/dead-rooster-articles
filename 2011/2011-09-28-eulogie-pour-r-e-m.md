@@ -3,7 +3,7 @@ layout: post
 title: Eulogie pour R.E.M.
 description:
   R.E.M. vient d'annoncer sa séparation. Vous allez me dire "On s'en fout un
-  peu, non ?", je vais vous répondre "Ah oui, oui, oui, complètement !". Mais
+  peu, non ?", je vais vous répondre "Ah oui, oui, oui, complètement !". Mais
   pas que.
 authors:
   - Dirty Henry
@@ -27,14 +27,14 @@ comments:
 ---
 
 R.E.M. vient d'annoncer sa séparation. Vous allez me dire "On s'en fout un peu,
-non ?", je vais vous répondre "Ah oui, oui, oui, complètement !". Mais comme
+non ?", je vais vous répondre "Ah oui, oui, oui, complètement !". Mais comme
 disait Chamfort, «on ne peut être et avoir été» et, pour le coup, R.E.M. n'a pas
 toujours fait semblant d'être puisqu'au gré de plus de 30 années de carrière,
 ils ont accumulé quelques pépites qui, même si la dernière ne doit plus être
 toute jeune, méritent d'y rejeter une oreille de temps à autre. Ce sera
 aujourd'hui.
 
-Déjà, il y a les tubes monstrueux du groupe : _Losing My Religion_, _Shiny Happy
+Déjà, il y a les tubes monstrueux du groupe : _Losing My Religion_, _Shiny Happy
 People_ et _Everybody Hurts_. Toutes ces chansons souffrent bien sûr du
 [syndrome de La Folie des Grandeurs][i266], mais tels Les Inconnus ou Christian
 Clavier, il est nécessaire de se souvenir qu'avant d'être ce qu'ils sont devenus
@@ -58,7 +58,7 @@ on peut se contenter d'une version moyenne ci-dessous.
 
 [Le clip de _Losing My Religion_](http://youtu.be/if-UzXIQ5vw) est un peu
 bizarre et nettement moins cool, alors du coup, en regarder une version avec
-l'image d'une pochette et des pop-ups partout suffit, à mon humble avis :
+l'image d'une pochette et des pop-ups partout suffit, à mon humble avis :
 
 {% youtube FQ2yXWi0ppw %}
 

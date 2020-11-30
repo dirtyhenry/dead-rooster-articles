@@ -37,7 +37,7 @@ Manchester, d'avoir quasiment les mêmes noms de famille que les membres d'ABBA
 (j'ai pas vérifié…), de ne pas faire la même musique que leurs concitoyens des
 Hives, d'avoir des pochettes de disques relativement hideuses ou du moins qui
 mettent mal à l'aise (entre tracts contre l'avortement ou brochure pour la
-scientologie, c'est selon… et encore, j'oubliais celle de [_Gimme Five !_][3]).
+scientologie, c'est selon… et encore, j'oubliais celle de [_Gimme Five !_][3]).
 
 En revanche, niveau musical, c'est impec' mec ! De la pop psyché comme on
 l'aime, avec des chœurs partout, des mélodies accrocheuses à la pelle, des

@@ -16,7 +16,7 @@ date: 2011-03-25 17:38:16 +0100
 Matthew Dear convinced us to wait for it from the bar, drinking expensive cheap
 beer. Five suited-up guys enter a foggy stage, something they may have learned
 when they were opening for U2 a few months ago. Three founding members of the
-band are still there : Paul Banks aka Julian Plenti, vocals, Daniel Kessler,
+band are still there : Paul Banks aka Julian Plenti, vocals, Daniel Kessler,
 guitars, and Sam Fogarino, drums[[alright, the very first drummer of the band
 was Greg Drudy, you're right]]. Farewell dear Carlos D., bass player and
 [full-time candidate for the world most classy person position](http://www.google.fr/images?q=carlos+d+interpol).
@@ -63,7 +63,7 @@ be played during the encore, and oh yeah, we got them and even another
 _Untitled_ for the road. The dramatically intense _Pioneer to The Falls_ wasn't
 played but we'll get over it.
 
-Banks et Kessler are smiling when it's about time to leave the stage : that's a
+Banks et Kessler are smiling when it's about time to leave the stage : that's a
 first time in my Interpol concerts experience. They're usually cold, in the way
 you want Interpol shows to be cold. Even better, they salute the audience
 cheerfully with a not-original but
@@ -77,12 +77,12 @@ Dummies playlist_.
 
 {% spotify 7trDXQ940DYxcQDRIcjZwO %}
 
-Short 2-songs version :
+Short 2-songs version :
 
 1. _Say Hello To The Angels_
 1. _Slow Hands_
 
-Deluxe 10-songs version :
+Deluxe 10-songs version :
 
 1. _Obstacle 1_
 1. _Say Hello To The Angels_
@@ -117,4 +117,4 @@ Deluxe 10-songs version :
 1. _Slow Hands_
 1. _Obstacle 1_
 
-Pictures : (c) Isatagada
+Pictures : (c) Isatagada

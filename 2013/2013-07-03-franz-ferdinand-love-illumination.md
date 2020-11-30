@@ -14,7 +14,7 @@ tags:
 Ça faisait un bail que Franz Ferdinand n'avait pas montré le bout de son nez
 dans nos pages, mais leur 4ème LP est en phase d'atterrissage.
 
-Premier titre : _Love Illumination_.
+Premier titre : _Love Illumination_.
 
 _Right Thoughts, Right Words, Right Action_ sortira fin août, et ne contient a
 priori [aucun titre avec Marion Cotillard][i1256].

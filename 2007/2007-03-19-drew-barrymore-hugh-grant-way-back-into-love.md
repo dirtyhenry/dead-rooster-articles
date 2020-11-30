@@ -11,6 +11,6 @@ date: "2007-03-19 13:04:00 +0100"
 
 Composée par Adam Schlesinger, le bassiste de Foutains of Wayne.
 
-Et en bonus, PoP - _PoP Goes My Heart_ :
+Et en bonus, PoP - *PoP Goes My Heart* :
 
 {% youtube k_wKeC_HWWc %}

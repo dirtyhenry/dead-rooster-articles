@@ -2,7 +2,7 @@
 layout: post
 title: Sociologie de la crise psychédélique du quarantenaire cynique
 description:
-  "Le vendredi, le fun est de bon aloi. Cette semaine : crise existentielle,
+  "Le vendredi, le fun est de bon aloi. Cette semaine : crise existentielle,
   hallucination psychédélique, punk adolescent de quarantenaire, une touche de
   cynisme et une étude sociologique populaire.  "
 authors:
@@ -33,7 +33,7 @@ lien.</strike>
 
 (via Alki)
 
-[Edit : le lien est cassé mais ça marche aussi avec la vidéo ci-dessous]
+[Edit : le lien est cassé mais ça marche aussi avec la vidéo ci-dessous]
 
 {% youtube Vn1GaaLhz4g %}
 
@@ -46,7 +46,7 @@ de leur nouvel album _Hurley_.
 (via
 [Stereogum](http://stereogum.com/512912/weezer-bring-memories-to-leno-confirm-blinkerton-tour-working-with-male-bonding/video/))
 
-[Edit : la vidéo a été supprimée de YouTube, on remplace par le clip du titre]
+[Edit : la vidéo a été supprimée de YouTube, on remplace par le clip du titre]
 
 {% youtube C5Fq3U_FjYc %}
 

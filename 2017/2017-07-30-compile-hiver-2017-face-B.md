@@ -47,7 +47,7 @@ passer par ça pour tomber sur [la pub Banga][banga], alors ça valait le coup.
 
 1987, ça puait du cul mais je trouvais ça kiffant.
 
-## 1987-2017 : le duel
+## 1987-2017 : le duel
 
 Aujourd'hui, on est en 2017.
 

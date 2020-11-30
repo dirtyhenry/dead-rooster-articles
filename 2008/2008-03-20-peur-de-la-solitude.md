@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Peur de la solitude ?
+title: Peur de la solitude ?
 authors:
   - Dirty Henry
 wordpress_id: 440
@@ -10,6 +10,6 @@ cover: crowd.jpg
 
 Raymond Domenech a sélectionné 39 joueurs pour 2 matches amicaux la semaine
 prochaine parmi lesquels l'illustre Adil Rami. Son lobbying auprès de l'UEFA
-pour passer de 11 à 25 joueurs par équipe sera-t-il vain ? A quand la barre des
-100 joueurs sélectionnés ? En tout cas, à ce rythme-là, il va falloir agrandir
-Clairefontaine. Le monde va mal !
+pour passer de 11 à 25 joueurs par équipe sera-t-il vain ? A quand la barre des
+100 joueurs sélectionnés ? En tout cas, à ce rythme-là, il va falloir agrandir
+Clairefontaine. Le monde va mal !

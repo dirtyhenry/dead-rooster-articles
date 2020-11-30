@@ -33,7 +33,7 @@ cela est très réussi, et vous allez aimer.
 ## Le un peu moins bon
 
 Lisons [le consensus de Rotten Tomatoes][4], plus pertinent que [le scandaleux
-précédent _Daddy’s Home 2_][i4] :
+précédent _Daddy’s Home 2_][i4] :
 
 > _Eurovision Song Contest: The Story of Fire Saga_ contains inspired
 > ingredients and laugh-out-loud moments, but they’re outnumbered by the flat
@@ -44,7 +44,7 @@ décantation, il faut voir dans le film un autre registre que la pure comédie. 
 y a par exemple une tendresse réelle de Ferrell, auteur du scénario, envers
 l’Eurovision, la critique — facile mais inhabituelle, qui plus est pour une
 production Netflix — de la mainmise des Américains sur l’Europe et sa culture
-([“elle chante en Islandais !”][2]), et les personnages sont tous en quête d’une
+([“elle chante en Islandais !”][2]), et les personnages sont tous en quête d’une
 authenticité ou plutôt d’un droit à être soi-même qui résonne comme
 particulièrement contemporaine.
 

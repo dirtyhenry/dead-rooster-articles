@@ -15,7 +15,7 @@ plus. D'où ces 2 vidéos pour vous égayer la journée.
 
 (inspiré de [la discudanse de Nicolas et Bruno][1])
 
-et le volume 2 :
+et le volume 2 :
 
 {% youtube 4rV2pfTbBxU %}
 

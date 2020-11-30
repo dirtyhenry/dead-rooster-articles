@@ -20,20 +20,20 @@ de taille, il contient la pire arme de l'arsenal de l'industrie du disque, la
 diabolique et terroriste chanson cachée, ou _hidden track_ comme on dit
 outre-Manche.
 
-Mais que diable, quel est l'intérêt artistique d'une chanson cachée ? Surprendre
-l'auditeur ? Lui asséner le coup de grâce avec la chanson qui tue et à laquelle
-il ne s'attend pas ? Remplir le disque (le fameux syndrôme du pourquoi
+Mais que diable, quel est l'intérêt artistique d'une chanson cachée ? Surprendre
+l'auditeur ? Lui asséner le coup de grâce avec la chanson qui tue et à laquelle
+il ne s'attend pas ? Remplir le disque (le fameux syndrôme du pourquoi
 j'achèterai du 43 si c'est le même prix que le 45, déjà dénoncé par Coluche en
-son temps) ? Emmerder le iPoder, contraint de patienter un quart d'heure à la
+son temps) ? Emmerder le iPoder, contraint de patienter un quart d'heure à la
 fin du disque pour entendre 2 minutes de bruits tordus parfaitement anecdotiques
 ? Non, non, non, je ne cromprends pas. Aucune chanson cachée n'a révolutionné la
 musique que je sache.
 
 Pire encore, quelques petits malins (Liars, The Polyphonic Spree, Camille, je
 parle de vous, entre autres) ont aussi mis en œuvre la boucle sonore jusqu'à la
-fin du disque. Mais enfin, qu'a fait l'auditeur pour mériter pareils supplices ?
+fin du disque. Mais enfin, qu'a fait l'auditeur pour mériter pareils supplices ?
 
 Pour conclure, seules _Planter des primevères_, de l'album de Miossec _Boire_,
 ou _Running the World_, de Jarvis Cocker, sont les exceptions qui confirment la
 règle que la chanson cachée c'est tout pourri alors bon sang, arrêtez-ça
-immédiatement !
+immédiatement !

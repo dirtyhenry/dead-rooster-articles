@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Frank and the Black Keys
-description: 2 clips sinon rien !
+description: 2 clips sinon rien !
 authors:
   - Joe Gantdelaine
 wordpress_id: 608

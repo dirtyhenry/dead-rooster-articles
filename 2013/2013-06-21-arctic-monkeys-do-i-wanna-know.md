@@ -12,7 +12,7 @@ Les Arctic Monkeys annonce leur retour prochain avec _Do I Wanna Know?_
 {% youtube bpOSxM0rNPM %}
 
 Rappelez-vous également des anciens titres aux noms rigolos des singes de
-l'arctique : [_The Hellcat Spangled Shalalala_][i872] ou [_Don’t Sit Down ‘Cause
+l'arctique : [_The Hellcat Spangled Shalalala_][i872] ou [_Don’t Sit Down ‘Cause
 I’ve Moved Your Chair_][i823]. Voire ce qu'Alex Turner a fait de meilleur à mes
 yeux, la B.O. de [_Submarine_][i879].
 

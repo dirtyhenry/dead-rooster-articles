@@ -15,7 +15,7 @@ cover: adam-green.jpg
 5ème album en 6 ans, pour une carrière solo débutée juste après la vingtaine,
 **Adam Green** est ultra-prolifique. En témoigne donc ce _Sixes and Sevens_,
 rempli jusqu'à plus soif de nouvelles compositions : 20 titres pour l'édition
-normale, 24 pour l'édition collector, c'est tout de même beaucoup (trop ?).
+normale, 24 pour l'édition collector, c'est tout de même beaucoup (trop ?).
 
 D'autant que le lien entre les pistes est difficile à faire : le disque débute
 avec _Festival Song_ limite gospel, enchaîne avec _Tropical Island_ et son

@@ -13,4 +13,4 @@ cover: american-desert.jpg
 Tony Vairelles est un poète du foot et les Etats-Unis auraient du être une terre
 d'accueil idéale pour l'ancien enfant chéri de Bollaert, passioné de rock et de
 moto. Pourtant, après avoir quitté son club corse de CFA, le club de Toronto n'a
-pas voulu de lui. Le monde va mal !
+pas voulu de lui. Le monde va mal !

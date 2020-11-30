@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dinosaur Jr : cousin machin commence à grisonner"
+title: "Dinosaur Jr : cousin machin commence à grisonner"
 authors:
   - Joe Gantdelaine
 wordpress_id: 379

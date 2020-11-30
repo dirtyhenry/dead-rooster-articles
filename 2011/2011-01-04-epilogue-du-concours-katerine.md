@@ -37,35 +37,35 @@ en haleine toute l'année 2010.
 ### 50. _Rectangle_ de Jacno
 
 Katerine reprend le plus grand tube de l'ex-Stinky Toys, décédé l'année
-dernière, et qui avait servi à une pub Nesquik. L'originale :
+dernière, et qui avait servi à une pub Nesquik. L'originale :
 
 {% spotify_track 3lKnLyDegMu1dxcSsFfeR5 %}
 
 ### 51. _Noël Blanc_ d'Irving Berlin
 
 Voici une reprise de _White Christmas_, traduite par Francis Blanche. La version
-du King :
+du King :
 
 {% youtube G0xUPa_XBDk %}
 
 ### 52. _Ne partons pas fâchés_ de Raphaël
 
-Katerine conclut 2010 par une reprise chorale du titre de Raphaël. L'originale :
+Katerine conclut 2010 par une reprise chorale du titre de Raphaël. L'originale :
 
 {% spotify_track 73O15OI7KZXrLdsjCbY9aq %}
 
 ## Le classement
 
-Personne ne marque de point. Le classement final est donc :
+Personne ne marque de point. Le classement final est donc :
 
 - 1. Hervé, 15pts
 - 2. Benji, Rodrigue et Joe, 5pts
 - 5. Marion, David, Loïc et kr, 4pts
 - 9. Le reste du monde à 0 pt
 
-Félicitations à tous les lauréats !
+Félicitations à tous les lauréats !
 
 ## Pour conclure
 
 Le groupe sera en concert à partir de mars 2011. Paris, Poitiers, Nantes et
-d'autres sont au programme. ~~Le détail complet est ici~~ (edit : lien cassé).
+d'autres sont au programme. ~~Le détail complet est ici~~ (edit : lien cassé).

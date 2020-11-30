@@ -3,10 +3,10 @@ layout: post
 title: Pulp - Different Class
 description:
   Comment adapter une chanson de Renaud pour en faire un hymne absolu du rock
-  indé ? Comment de grande tige malingre peut-on devenir songwriter adulé ?
+  indé ? Comment de grande tige malingre peut-on devenir songwriter adulé ?
   Comment cristalliser pour l'éternité les questions intimes de tous les
   adolescents ou anciens adolescents tout en leur donnant l'occasion d'agiter
-  sans complexe leur corps maladroit ? Jarvis Cocker et son groupe Pulp ont
+  sans complexe leur corps maladroit ? Jarvis Cocker et son groupe Pulp ont
   donné la réponse à ces questions en octobre 1995 avec leur album {Different
   Class}.
 authors:
@@ -23,10 +23,10 @@ tags:
 ---
 
 Comment adapter une chanson de Renaud pour en faire un hymne absolu du rock indé
-? Comment de grande tige malingre peut-on devenir songwriter adulé ? Comment
+? Comment de grande tige malingre peut-on devenir songwriter adulé ? Comment
 cristalliser pour l'éternité les questions intimes de tous les adolescents ou
 anciens adolescents tout en leur donnant l'occasion d'agiter sans complexe leur
-corps maladroit ? Jarvis Cocker et son groupe Pulp ont donné la réponse à ces
+corps maladroit ? Jarvis Cocker et son groupe Pulp ont donné la réponse à ces
 questions en octobre 1995 avec leur album _Different Class_.
 
 La frustration, a priori, c'est franchement pas cool. Mais quoiqu'on en pense,
@@ -62,7 +62,7 @@ Une fille blindée veut s'encanailler et sort avec un gars sans le sou. La
 fracture sociale est bien trop grande et le gars va bien le lui faire
 comprendre. En quelques phrases, Cocker exprime à la fois la culpabilité des
 riches, la condescendance qui en résulte à l'égard des pauvres,
-l'incompréhension éternelle qui existera entre les deux camps : constat
+l'incompréhension éternelle qui existera entre les deux camps : constat
 fataliste ne blâmant jamais la bonne volonté des deux camps, mais qui clôt toute
 tentative de débat. Si le propos est plutôt déprimant, la musique qui
 l'accompagne nuance la chose, et les derniers mots changent subtilement la donne
@@ -73,18 +73,18 @@ sa bière.
 Je pourrais m'enthousiasmer autant sur tous les titres de l'album.
 [_Disco 2000_](http://youtu.be/qJS3xnD7Mus) par exemple, où un gars, adulte,
 apprend que sa voisine du lycée, dont il était l'amoureux non déclaré tandis que
-tout le monde se la tapait, est désormais mariée. La garce ! Ou le mec de
+tout le monde se la tapait, est désormais mariée. La garce ! Ou le mec de
 _Pencil Skirt_, qui consent avoir perdu une bataille quand la nana qu'il
 convoite se fiance, mais espère toujours remporter la guerre, en servant d'amant
 quand le fiancé quitte la ville par exemple. Ou l'absence de séance de fesse
 dans le lit de _Live Bed Show_. Tout ça sent très fort la lose, certes, mais ça
 parle souvent, et c'est toujours tendre ou drôle le reste du temps. Dis comme
-ça, on pense donc à du Renaud (cf. blague de début d'article) : je vous rassure,
+ça, on pense donc à du Renaud (cf. blague de début d'article) : je vous rassure,
 Pulp est à Renaud ce que _Le Parrain_ est à _Le Grand Pardon_. Une _Different
 Class_ en quelque sorte.
 
 Quittons-nous malgré tout avec la version française de _Common People_, (update)
-ainsi que la fantastique reprise de Mis-Shapes par The Livingstones I Presume !
+ainsi que la fantastique reprise de Mis-Shapes par The Livingstones I Presume !
 
 {% spotify_track 4qwNXTywDMge32JmboD0rY %}
 

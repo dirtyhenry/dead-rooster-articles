@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Oh la vache !
+title: Oh la vache !
 authors:
   - Joe Gantdelaine
 wordpress_id: 886
@@ -12,4 +12,4 @@ Apparemment, y a pas que le monde qui est stone. Fabienne Thibeault est partie
 ailleurs, à la campagne plus exactement, comme le prouve la chanson dispo sur
 cette
 [page](http://www.fabiennethibeault.com/lesagriculturelles/lecharolais.html). Le
-monde va mal !
+monde va mal !

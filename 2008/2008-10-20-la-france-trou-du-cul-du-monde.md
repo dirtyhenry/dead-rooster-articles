@@ -13,7 +13,7 @@ tags:
 cover: carte-fesses.jpg
 ---
 
-Plutôt qu'un long discours, une simple question : sachant que les Datsuns et les
+Plutôt qu'un long discours, une simple question : sachant que les Datsuns et les
 Black Keys font chacun une tournée européenne, et assurent une bonne dizaine de
 dates cumulées dans le Bénélux, combien ces groupes font-ils de date(s) en
-France à eux deux ? Réponse : une seule… Le monde va mal !
+France à eux deux ? Réponse : une seule… Le monde va mal !

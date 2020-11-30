@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S.T.P. : A travers l'Amérique avec les Rolling Stones"
+title: "S.T.P. : A travers l'Amérique avec les Rolling Stones"
 description:
   Mai 1972, les Rolling Stones arrivent sur le continent américain pour y
   entamer une tournée qui les enverra de Vancouver à New York. Baptisée S.T.P.
@@ -31,7 +31,7 @@ tant en matière de création (_Sticky Fingers_ a 1 an, son petit frère _Exile 
 Main Street_ vient de sortir) que de polémique (ce dernier a été enregistré lors
 de l'exil fiscal des Stones en France). Ils n'ont pas remis les pieds aux
 Etats-Unis depuis le drame d'Altamont en 1969. Autant de raisons pour que la
-tournée soit électrique : les pro et les anti-Stones vont tous être au rendez
+tournée soit électrique : les pro et les anti-Stones vont tous être au rendez
 vous.
 
 Le livre de Greenfield nous raconte la chronologie détaillée de ces deux mois,
@@ -51,10 +51,10 @@ avec le public quand les choses vont mal - ou Robert Franck - aux manettes du
 documentaire vidéo de la tournée qui deviendra le légendaire _Cocksucker Blues_.
 
 En tout, l'équipe STP est composée d'une trentaine de personnes. Certaines sont
-là en permanence : l'équipe d'organisation, les techniciens et les roadies,
+là en permanence : l'équipe d'organisation, les techniciens et les roadies,
 l'équipe de tournage de Robert Franck, un médecin, les amis proches des Stones,
 l'équipe de Stevie Wonder (il assure la première partie sur toute la tournée).
-D'autres sont simplement de passage : Truman Capote est là pour écrire un
+D'autres sont simplement de passage : Truman Capote est là pour écrire un
 article sur la tournée qui ne verra jamais le jour et est accompagné de la
 princesse Lee Radziwill (la jeune soeur de Jackie Kennedy) mais aussi des
 groupies, des gardes du corps de piges, etc.
@@ -63,7 +63,7 @@ Les Stones et les managers de la tournée sont des professionnels du star-system
 Les tournées, ils connaissent et en verront d'autres. Mais dans l'équipe STP
 figurent aussi des novices dont la vie se transforme par la tournée et
 Greenfield les observe et leur prédit un retour de bâton lorsqu'une seule pensée
-les paralysera une fois leur job sur la tournée terminé : "et maintenant quoi
+les paralysera une fois leur job sur la tournée terminé : "et maintenant quoi
 ?".
 
 Sur la route, des péripéties savoureuses ont lieu. A Chicago, le groupe loge
@@ -92,14 +92,14 @@ Le livre se conclut logiquement par la dernière date des Stones à New York, qu
 coïncide avec le 29ème anniversaire de Jagger. Pour fêter ça, Chip Monck
 souhaite un chaos total sur scène mais toutes ses idées finissent par arriver
 aux oreilles des dirigeants du Madison Square Garden qui les interdisent
-aussitôt : il n'y aura donc pas d'éléphant sur scène, ni de lâcher de ballons,
+aussitôt : il n'y aura donc pas d'éléphant sur scène, ni de lâcher de ballons,
 de farine ou de poulets (deux complices ont pourtant fait un test concluant en
-lâchant un poulet du haut d'un building en plein Manhattan : ils savent voler
+lâchant un poulet du haut d'un building en plein Manhattan : ils savent voler
 !). D'ailleurs après l'idée des poulets, la direction du Garden fait colmater
 tous les orifices du toit. Ce sera donc finalement une simple bataille de tartes
 à la crème que Monck aura caché sur scène après s'être fait confisqué plusieurs
 cartons/leurres qui en étaient remplis.
 
-La dernière page refermée, c'est inévitable, une envie frénétique surgit :
+La dernière page refermée, c'est inévitable, une envie frénétique surgit :
 trouver coûte que coûte le moyen de voir les images tournées par Robert Franck
-lors des deux mois, le fameux _Cocksucker Blues_ ! A suivre au prochain épisode…
+lors des deux mois, le fameux *Cocksucker Blues* ! A suivre au prochain épisode…

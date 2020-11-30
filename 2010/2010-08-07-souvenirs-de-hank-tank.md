@@ -2,7 +2,7 @@
 layout: post
 title: Souvenirs de Hank & Tank
 description:
-  "{{Hank & Tank}} : un groupe oublié qu'on retrouve 8 ans après. Soyons pointus
+  "{{Hank & Tank}} : un groupe oublié qu'on retrouve 8 ans après. Soyons pointus
   et faisons le point sur un obscur groupe indé islandais."
 authors:
   - Dirty Henry
@@ -21,7 +21,7 @@ tags:
 Je viens de retomber sur un brouillon de revue de concert, datant de novembre
 2002 et du passage de Keren Ann à Bordeaux. Voilà de quoi oublier un petit peu
 le mainstream et aller faire un tour dans la scène indie islandaise, histoire de
-briller en société :
+briller en société :
 
 <quote>
 Un concert commence toujours par l'attente de l'ouverture des portes. On y croise alors les gens que l'on va côtoyer bon gré mal gré pendant quelques heures et on s'efforce de rendre ces visages familiers.
@@ -37,11 +37,11 @@ seul point négatif lorsqu'on assiste à un de ses concerts.
 
 L'ouverture des portes a enfin lieu, tout le monde prend place dans la salle
 intimiste de Barbey où on se retrouve facilement avec les coudes sur la scène et
-là a lieu la bonne surprise de la soirée : **Hank & Tank**, la première partie.
+là a lieu la bonne surprise de la soirée : **Hank & Tank**, la première partie.
 
 Deux Islandais de deux mètres vingt chacun débarquent sur scène avec leur
 guitare Yamaha pourrie, des clopes, des bières et des cheveux gras. Les
-premières minutes du set frôlent l'insupportable : trois minutes entre chaque
+premières minutes du set frôlent l'insupportable : trois minutes entre chaque
 chanson pour allumer une nouvelle cigarette, décapsuler une bière, et bouger le
 plus lentement possible leurs pieds enfermés dans des Clarks taille 57.
 

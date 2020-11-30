@@ -83,20 +83,20 @@ est alors temps de consulter le _Doctor_, un type à la guitare bien acérée. S
 doute est-ce le médicament prescrit, mais après 2 minutes de bon rock garage, le
 bout de la trompe de l'éléphant rose semble poindre de nouveau. Un mec étrange
 que ce docteur, vraiment, puisque le rythme cardiaque s'accélère de nouveau pour
-la dernière minute de ce morceau !
+la dernière minute de ce morceau !
 
 Ce regain d'énergie achève le deuxième chapitre de l'évangile rock selon Wally.
 Le palpitant toujours à fond de train pour le troisième chapitre, on se dirige
 vers l'homme de la dune et l'ours. Deux chansons pour 3 minutes et quelques,
 _The man of the dune_ et _The bear_, où l'essence même du garage rock des
 sixties finissantes. Puis on file droit sur _Happyville_ et son riff d'harmonica
-imparable même si on l'a déjà sans doute entendu dix mille fois ailleurs ! Mais
+imparable même si on l'a déjà sans doute entendu dix mille fois ailleurs ! Mais
 les Outsiders ne se posent plus de questions, ils foncent ici pied au plancher
-pour terminer le chapitre "Visite du garage en moins de 6 minutes" !
+pour terminer le chapitre "Visite du garage en moins de 6 minutes" !
 
 Plus sweet, Wally et sa bande chante ensuite _You're everything on earth_, qui
 ne saurait être destiné à la Zsarrahh du début. Ici, M. Tax montre qu'il a un
-coeur de rocker, avec tout l'attirail du grand romantique : guitares,
+coeur de rocker, avec tout l'attirail du grand romantique : guitares,
 percussions et orgues se parlent, se complètent, se répondent. Avec _Wish you
 were here with me today_, la prétendante a intérêt d'aimer le rock rageur mais
 délicat. Quant à _I love you, no. 2_, l'auditeur peut se demander pourquoi ce
@@ -113,26 +113,26 @@ par les murs de l'enceinte. Alors il compte pour oublier. Bientôt la liberté
 étouffante, dans une ville bourdonnante de bruits de moteurs. Mais enfin, c'est
 le retour à la maison, qui se voulait salvateur. En remontant l'escalier en
 compagnie du narrateur, on longe un couloir, on entend un son provenant de la
-chambre, un homme qu'on ne connait pas, cela va mal finir ! On regarde le
-flingue…Bang ! Descente aux enfers ! Long questionnement intérieur… Que faire ?
-La fuite ! La fuite ! Retraverser la chaussée bondée et finir là larmoyant,
-haletant, et s'écrouler ! L'aventure est terminée !
+chambre, un homme qu'on ne connait pas, cela va mal finir ! On regarde le
+flingue…Bang ! Descente aux enfers ! Long questionnement intérieur… Que faire ?
+La fuite ! La fuite ! Retraverser la chaussée bondée et finir là larmoyant,
+haletant, et s'écrouler ! L'aventure est terminée !
 
 Ainsi s'achève un voyage musical incroyable, en compagnie d'un groupe qu'on
 qualifiera sans problème de "culte". Impensable de s'imaginer qu'un groupe aussi
-génial que The Outsiders ne soit pas plus connu ! Intolérable de penser que
+génial que The Outsiders ne soit pas plus connu ! Intolérable de penser que
 s'ils avaient été américains ou anglais, Wally et sa bande auraient rencontré le
-succès largement mérité ! Insupportable de voir des pages et des pages encore et
+succès largement mérité ! Insupportable de voir des pages et des pages encore et
 toujours remplies de lèvres et langues rouges flétries depuis 30 ans, sans que
 personne ne prenne le temps de réhabiliter nombre de héros oubliés.
 
-Quelques vidéos faites par des fans pour finir :
+Quelques vidéos faites par des fans pour finir :
 
 - [_Misfit_](http://fr.youtube.com/watch?v=rgZpQPG6dvs)
 - [_Daddy died on Saturday_](http://fr.youtube.com/watch?v=2L0k-TAQ6Ak)
 - [_Prison Song_ dans une version live](http://fr.youtube.com/watch?v=x1xedf4ZMdk)
 
-Niveau du disque : **Maçon**
+Niveau du disque : **Maçon**
 
 [1]: https://fr.youtube.com/watch?v=5h-sqN1Gm5I
 [2]: http://www.deezer.com/track/874717

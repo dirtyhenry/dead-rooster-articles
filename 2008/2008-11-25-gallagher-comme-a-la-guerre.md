@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gallagher comme à la guerre !
+title: Gallagher comme à la guerre !
 authors:
   - Joe Gantdelaine
 wordpress_id: 221
@@ -18,8 +18,8 @@ cover: oasis.jpg
 
 Combien de jeux de mots pourris (Noel en Novembre, **Oasis** : la traversée du
 désert, Du vague à Liam) ? Combien de critiques narquoises ? Combien de : "Oasis
-? Ouais, on les entend plus depuis _Wonderwall_ tes potes !" ? Combien de :
-"Oasis est de retour !" ? Alors qu'ils ne sont jamais partis les frangins.
+? Ouais, on les entend plus depuis _Wonderwall_ tes potes !" ? Combien de :
+"Oasis est de retour !" ? Alors qu'ils ne sont jamais partis les frangins.
 
 Alors certes, les médias ne leur accordent plus la place qu'ils s'étaient
 octroyés à la sueur de leurs gros sourcils au milieu des années 90. Mais tout de
@@ -55,7 +55,7 @@ face B _Eyeball Tickler_ pour le single _Lyla_, nous concocte ici, ce qui est
 sans doute le titre le plus faible de ce 7ème album studio, à savoir _To be
 where there's life_. Au passage, je n'ai rien contre le retour du psychédélisme
 dans le rock (le Brian Jonestown Massacre fait ça très bien…), mais recourir au
-sitar en 2008, c'est daté, éculé et totalement cliché !
+sitar en 2008, c'est daté, éculé et totalement cliché !
 
 Mais bon, passons sur ce temps faible de cette nouvelle fournée oasienne, et
 penchons-nous plutôt sur les bons moments (à vrai dire, à peu près toutes les
@@ -70,7 +70,7 @@ jazzy. Attention, tout de même, ce n'est pas non plus la révolution ! Les sol
 de guitare signés Noel sont toujours présents, les emprunts/références aussi :
 au fil des écoutes, on découvre notamment des similitudes entre _Waiting for the
 rapture_ et [_Five to One_][2] des Doors, pour l'intro et [_You Can Leave Your
-Hat on_][3] pour l'outro (un peu moins perceptible peut-être !).
+Hat on_][3] pour l'outro (un peu moins perceptible peut-être !).
 
 Cela dit, Oasis est encore capable de fulgurance, comme le prouve le (très bien
 choisi pour une fois !) premier single : _The shock of the lightning_. Une sorte
@@ -86,7 +86,7 @@ ce jour, ce qu'il a fait de mieux sur disque. Une ballade que tout le monde
 qualifie de Lennonienne (pour l'extrait d'interview à la fin ?). Sans utiliser
 ce gros mot, disons que c'est une ballade jamais trop mièvre, avec piano et
 refrain tire-larmes mais pas pleurnichards. D'ailleurs, cette chanson fait
-office de second single (plutôt bien vu, encore une fois !). _(Get off your)
+office de second single (plutôt bien vu, encore une fois !). _(Get off your)
 high horse lady_ ensuite, où Noel semble s'être perdu dans un quelconque état
 désertique américain, surprend encore une fois bien agréablement, très loin des
 standards du groupe habituels (même si, au jeu des références, on peut percevoir
@@ -96,11 +96,11 @@ remix par les Chemical Brothers pour se convaincre de la portée électronique d
 cette chanson).
 
 On passera ensuite rapidement sur le titre suivant dont le cas a déjà été évoqué
-précédemment (sacré Gem ! Range ton sitar !), pour en venir donc au trio de fin
+précédemment (sacré Gem ! Range ton sitar !), pour en venir donc au trio de fin
 de cette galette. _Ain't Got Nothin'_, deuxième compo de Liam pour cet album est
 une sorte de chanson-tambour de machine à laver. On a l'impression d'être
 retourné dans tous les sens, de se cogner partout, et on en ressort tout trempé
-de plaisir ! Quant à _The Nature of Reality_, tout simplement un excellent titre
+de plaisir ! Quant à _The Nature of Reality_, tout simplement un excellent titre
 d'Andy Bell (contrairement à _Keep the dream alive_ sur le précédent disque),
 une chanson qui fait se lever notre épaule gauche en cadence. Pour finir,
 _Soldier on_, troisième compo de Liam conclut l'album de manière complètement
@@ -117,7 +117,7 @@ tout court, mais plutôt de retour à un (très) bon niveau !
 
 Intéressons-nous maintenant au côté live du groupe. Et pour cela, quoi de mieux
 que d'assister au concert du Bataclan, complet en moins de temps qu'il n'en faut
-pour dire un million de fois "We're fookin' good !" ? Cependant, des peurs
+pour dire un million de fois "We're fookin' good !" ? Cependant, des peurs
 peuvent être alimentées : et si Noel jouait sur une chaise, rapport à ses côtes
 fracturées lors d'un duel perdu contre un forcené canadien ? (en même temps, il
 avait les mains prises par sa guitare, c'était pas très équilibré comme combat
@@ -150,11 +150,11 @@ polisson, Liam nous a menti, et comme tous les soirs depuis un mois, le
 spectacle est bouclé avec _I am the Walrus_. Espérons cependant que ce n'était
 pas qu'une mauvaise plaisanterie, que ce brave Liam essayait de faire passer un
 message aux autres, sur ses envies de renouvellement de la liste des titres
-joués…Pour l'instant, ce ne sont que supputations ! Réponse définitive,
-peut-être, le 31 janvier, après leur venue à Bordeaux !
+joués…Pour l'instant, ce ne sont que supputations ! Réponse définitive,
+peut-être, le 31 janvier, après leur venue à Bordeaux !
 
-Bref, concernant le versant "Oasis en live", c'était mieux avant ! (L'Olympia de
-2005, en voilà une sacrée référence qualitative !)
+Bref, concernant le versant "Oasis en live", c'était mieux avant ! (L'Olympia de
+2005, en voilà une sacrée référence qualitative !)
 
 [1]: http://www.mediadico.com/dictionnaire/anglais-francais/blur/1
 [2]:

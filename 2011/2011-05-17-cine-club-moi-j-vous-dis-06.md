@@ -2,7 +2,7 @@
 layout: post
 title: "Ciné-Club moi j’vous dis #06"
 description:
-  "Au sommaire du mois : {Narco}, {Le Chant du Missouri}, {L'Aile ou la Cuisse},
+  "Au sommaire du mois : {Narco}, {Le Chant du Missouri}, {L'Aile ou la Cuisse},
   {Minuit à Paris} et {Bon à Tirer}."
 authors:
   - Dirty Henry
@@ -31,23 +31,23 @@ travail…
 
 Rythmé, drôle, stylé, avec des acteurs cabotins (Poelvoorde au sommet de son
 art) ou juste bons (Guillaume Gallienne), ce film est un des meilleurs films
-français, allez je m'emballe, de la décennie ! D'influence très américaine
+français, allez je m'emballe, de la décennie ! D'influence très américaine
 (l'ambiance banlieue et caravane, le côté "Duke" de Canet en barbe/pantalon
 large/chemise ouverte), ce film instaure le concept des jumeaux patineurs/tueurs
-qui aura participé au succès d'un autre chef-d'œuvre de la décennie :
+qui aura participé au succès d'un autre chef-d'œuvre de la décennie :
 [_Blades Of Glory_](http://www.youtube.com/watch?v=bCg1HO4UbTA). Auraient-ils
-pompé le truc ? N'ayons pas peur de le dire, _Narco_ est sans doute au cinéma
+pompé le truc ? N'ayons pas peur de le dire, _Narco_ est sans doute au cinéma
 absurde ce que _Comme d'habitude_ est à la variétoche.
 
 Anecdote marrante, pour les besoins du tournage, un faux mariage avait été
 tourné. En gros, on se prend l'après-midi pour faire comme si c'était un vrai
 mariage, on fait la fête, on filme sans diriger les acteurs et on voit ce qu'on
-garde. Seul Poelvoorde avait une consigne : provoquer une bagarre à la fin du
+garde. Seul Poelvoorde avait une consigne : provoquer une bagarre à la fin du
 mariage. Ce qu'il fit avec brio foutant un froid glacial chez les autres
 acteurs, qui n'étaient pas mis au courant de la chose. C'est très drôle et ça
 apparaît dans les bonus du DVD.
 
-La musique qui va avec : _La Ritournelle_ de Sébastien Tellier
+La musique qui va avec : _La Ritournelle_ de Sébastien Tellier
 
 {% youtube BPWQTLLMAAc %}
 
@@ -60,7 +60,7 @@ jours paisibles durant lesquels les histoires sentimentales de leurs 2 filles
 aînées et de leur fils sont les seules sources de troubles. On joue du piano, on
 chante, yukaïdi yukaïda, jusqu'à ce que le père annonce qu'il a accepté un poste
 à New York, ce qui ennuie tout le reste de sa famille (comme le dit la petite
-Tootie dans le film : "Wasn't I lucky to be born in my favourite city?") alors
+Tootie dans le film : "Wasn't I lucky to be born in my favourite city?") alors
 que le pauvre vieux, il fait ça en pensant leur faire plaisir.
 
 {% youtube 0odXnKhKBxQ %}
@@ -68,7 +68,7 @@ que le pauvre vieux, il fait ça en pensant leur faire plaisir.
 Ce film musical a été classé comme "culturally significant" aux États-Unis et
 figure régulièrement dans des listes des meilleurs films de l'histoire,
 notamment par le biais de ses nombreuses chansons, souvent interprétées par Judy
-Garland. Parmi ses titres :
+Garland. Parmi ses titres :
 [_Meet Me in St. Louis_](http://www.youtube.com/watch?v=4JARDvdrAxk), _The
 Trolley Song_, _Have Yourself a Merry Little Christmas_ et
 [une chouette interprétation de _Skip to my Lou_](http://www.youtube.com/watch?v=jSY7jX28P48).
@@ -76,7 +76,7 @@ Trolley Song_, _Have Yourself a Merry Little Christmas_ et
 Anecdote marrante, Judy Garland épousera Minnelli l'année suivante. Cette union
 donnera naissance à la Liza du même nom.
 
-La musique qui va avec : à peu près tout le film.
+La musique qui va avec : à peu près tout le film.
 
 ---
 
@@ -97,10 +97,10 @@ et la nourriture industrielle n'est pas nouvelle et a donc au moins 35 ans.
 Est-ce rassurant ou pas, je n'en sais rien mais toujours est-il bon de voir que
 la bataille n'est peut-être toujours pas perdue.
 
-La musique qui va avec : outre tout le catalogue du label Tricatel (et non ce
+La musique qui va avec : outre tout le catalogue du label Tricatel (et non ce
 n'est pas une coïncidence, c'est fait exprès), le thème est signé Vladimir Cosma
-(quelle surprise !), sans doute l'un des plus connus de son prolixe auteur.
-Attention, version symphonique :
+(quelle surprise !), sans doute l'un des plus connus de son prolixe auteur.
+Attention, version symphonique :
 
 {% youtube DwEGV5ZiauU %}
 
@@ -114,8 +114,8 @@ Woody et moi, c'est [a bit complicated][i554]. Mais je le disais déjà à
 l'époque, j'aime bien _The Purple Rose of Cairo_ par exemple et _Midnight in
 Paris_ est définitivement davantage ancré dans cette veine "fantaisiste et
 poétique" (A) que dans la veine "la vie, ça se joue à rien quand même" (B,
-exemple : _You Will Meet a Tall Dark Stranger_) ou la veine "on cause, on cause,
-mais on s'fait chier" (C, exemple : _Whatever Works_).
+exemple : _You Will Meet a Tall Dark Stranger_) ou la veine "on cause, on cause,
+mais on s'fait chier" (C, exemple : _Whatever Works_).
 
 Aussi merci Woody, j'ai compris ta logique interne, et je continuerai donc à
 voir avec plaisir tes films des catégories A et B et à éviter agilement ceux de
@@ -123,7 +123,7 @@ la filière C. Je propose même aux distributeurs d'adopter cette norme et de la
 faire figurer sur les affiches des prochains Woody. Ça rendra service à tout le
 monde, j'en suis sûr.
 
-La musique qui va avec : on aura pu mettre _J'ai deux amours_ de Joséphine Baker
+La musique qui va avec : on aura pu mettre _J'ai deux amours_ de Joséphine Baker
 mais on préférera les Inconnus chantent les chansons d'antan
 
 {% youtube -be65CIwE08 %}
@@ -143,7 +143,7 @@ en défaveur d'un film. Pour information, un _hall pass_ est un billet justifian
 de pouvoir se balader tout seul dans les couloirs de son bahut quand on est
 écolier aux États-Unis. Donc, pas grand chose à voir avec un bon à tirer.
 
-Sinon, avec ce film :
+Sinon, avec ce film :
 
 - on rigole parce que merde, les Farrelly Bros sont marrants
 - on est content de voir qu'ils ont trouvé en Derek Waters un remplaçant valable

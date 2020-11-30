@@ -18,16 +18,16 @@ The Daredevil Christopher Wright est un groupe du Wisconsin qui sera de passage
 en France à la rentrée pour plusieurs date dont le 18 septembre à Paris. J'y
 serai.
 
-Pourquoi ? La Blogothèque avait passé un titre en juillet ([le gaiement nommé
+Pourquoi ? La Blogothèque avait passé un titre en juillet ([le gaiement nommé
 mais excellent _A Conversation About Cancer_][1]) et nous a récemment diffusé le
-clip ci-dessous, très beau, et que je rediffuse à mon tour. On se voit le 18 !
+clip ci-dessous, très beau, et que je rediffuse à mon tour. On se voit le 18 !
 
-[edit : ah merde, en fait le concert du 18 est un
+[edit : ah merde, en fait le concert du 18 est un
 [happening événementiel](http://7ciel.net/concerts/) et pour avoir des places,
 il faudra les gagner sur [ce site](http://www.popnews.com/) à partir du 28
 août…)
 
-[edit : clip désormais introuvable, on le remplace par le titre]
+[edit : clip désormais introuvable, on le remplace par le titre]
 
 {% bandcamp_track 2663679259 579789504 %}
 

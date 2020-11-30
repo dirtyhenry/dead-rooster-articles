@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Love is All ? Fresh & Young
+title: Love is All ? Fresh & Young
 authors:
   - Dirty Henry
 wordpress_id: 226
@@ -57,7 +57,7 @@ aussi) et qui, toujours en train de se marrer, semble presque gênée des
 applaudissements mérités que reçoit le groupe. Généreux, celui-ci offre deux
 rappels avant de s'éclipser, visiblement davantage par défaut de titres à jouer
 que d'envie de partir (c'est décidément le mal du siècle). On se revoit aux
-festivals estivaux les amis suédois ?
+festivals estivaux les amis suédois ?
 
 - [MySpace Minuscule Hey](http://www.myspace.com/minusculehey)
 - [La vidéo référencée de Subterranean Homesick Blues](http://www.youtube.com/watch?v=__-RVRoGgLM)

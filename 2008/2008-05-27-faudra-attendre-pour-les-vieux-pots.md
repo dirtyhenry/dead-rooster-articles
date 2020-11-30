@@ -10,4 +10,4 @@ cover: noir-desir.jpg
 
 Denis Barthe vient de démentir que Noir Désir préparait déjà un nouvel album. Il
 va falloir se taper les Naast et BB Brunes encore quelques temps. Le monde va
-mal !
+mal !
