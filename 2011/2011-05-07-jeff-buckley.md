@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Jeff Buckley
+category: Encyclopédie approximative du Rock and Roll
 description:
   Cette semaine, l'encyclopédie vous livre les grandes lignes de la vie (et de
   la mort) d'un mec (approximativement) passionnant.

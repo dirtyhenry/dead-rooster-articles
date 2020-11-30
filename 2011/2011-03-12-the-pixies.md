@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Pixies
+category: Encyclopédie approximative du Rock and Roll
 description:
   Cette semaine, l'Encyclopédie Approximative vous propose THE article
   approximatif !

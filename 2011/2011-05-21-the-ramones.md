@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Ramones
+category: Encyclopédie approximative du Rock and Roll
 description: Cette semaine, l'Encyclopédie est approximativement punk.
 authors:
   - Joe Gantdelaine

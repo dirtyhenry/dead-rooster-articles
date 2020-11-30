@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Téléphone
+category: Encyclopédie approximative du Rock and Roll
 description:
   L'encyclopédie approximative du rock and roll vous offre aujourd'hui un
   troisième article en forme de résumé bancal de l'histoire du plus grand groupe

@@ -7,6 +7,7 @@ description:
   informations, des anecdotes inexactes, des réflexions bancales sur quelques
   protagonistes de l'Histoire du Rock triés sur le volet. Et allez, on commence
   directement avec un gros morceau !"
+category: Encyclopédie approximative du Rock and Roll
 authors:
   - Joe Gantdelaine
 wordpress_id: 759

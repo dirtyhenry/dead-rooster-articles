@@ -7,6 +7,7 @@ description:
 authors:
   - Joe Gantdelaine
 wordpress_id: 1262
+category: Encyclopédie approximative du Rock and Roll
 cover: the-velvet-underground-fake-pochette.jpg
 date: 2013-10-28 09:51:00 +0100
 ---

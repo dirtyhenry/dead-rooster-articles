@@ -18,12 +18,11 @@ description: >
 
 [Il y a déjà plusieurs années][compilations], Dirty Henry fabriquait des
 compilations saisonnières, influencé par le calendrier appliqué par les Inrocks.
-[Compile automne 2008][automne-2008], [compile été 2005][ete-2005], c'était lui.
+[Compile automne 2008][i601], [compile été 2005][ete-2005], c'était lui.
 
 Joe Gantdelaine, lui, ce sont plutôt des moments de la semaine qui
-l'intéressaient. [La compile du lundi matin][lundi-matin], [la compile du samedi
-soir volume 1][samedi-soir-1], [le volume 2][samedi-soir-2]… On s'en souvient
-tous.
+l'intéressaient. [La compile du lundi matin][i732], [la compile du samedi soir
+volume 1][i731], [le volume 2][i730]… On s'en souvient tous.
 
 Petit à petit, ils sont devenus fainéants. Ils ont arrêté. Et les compiles,
 vestiges d'un temps jadis, ont commencé à laisser place aux playlists. Quelle
@@ -92,11 +91,16 @@ Par ici pour la [face B][faceb].
 [Illustration par @christhebarker][cover]
 
 [compilations]: http://www.deadrooster.org/-Les-compiles-
-[automne-2008]: http://www.deadrooster.org/Compile-automne-2008
-[ete-2005]: http://www.deadrooster.org/Compile-ete-2005
-[lundi-matin]: http://www.deadrooster.org/La-compile-du-lundi-matin
-[samedi-soir-1]: http://www.deadrooster.org/La-compile-du-samedi-soir-volume-1
-[samedi-soir-2]: http://www.deadrooster.org/La-compile-du-samedi-soir-volume-2
 [cover]: https://twitter.com/christhebarker/status/815342375354662912
 
+[ete-2005]: {% post_url 2005/2005-09-30-compile-ete-2005 %}
+
 [faceB]: {% post_url 2017/2017-01-17-compile-automne-2016-face-B %}
+
+[i601]: {% post_url 2008/2008-12-31-compile-automne-2008 %}
+
+[i730]: {% post_url 2008/2008-08-23-la-compile-du-samedi-soir-volume-2 %}
+
+[i731]: {% post_url 2008/2008-08-23-la-compile-du-samedi-soir-volume-1 %}
+
+[i732]: {% post_url 2008/2008-08-23-la-compile-du-lundi-matin %}
