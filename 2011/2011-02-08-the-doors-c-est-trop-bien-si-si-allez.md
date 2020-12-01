@@ -74,7 +74,7 @@ comments:
 
 The Doors, c'est vraiment trop bien comme groupe.
 
-Ils ont fait plein de tubes trop bien. A commencer par le morceau d'ouverture de
+Ils ont fait plein de tubes trop bien. À commencer par le morceau d'ouverture de
 leur tout premier album. _Break on through (to the other side)_, ça c'est du
 titre de rock'n'roll ! Calibré pour la radio en plus : deux minutes et trente
 secondes environ. Certes, le morceau est un peu répétitif et on s'emmerde un peu
@@ -82,7 +82,7 @@ sur la fin, mais restons positif : c'est pas un mince exploit de réussir à
 rendre un morceau aussi court aussi pénible ! Chapeau l'artiste.
 
 Et puis y'a _Light My Fire_ aussi ! Le morceau est top ! Faut dire qu'il est
-vachement plus ambitieux : presque 7 minutes. Ok, c'est vrai que pour rien au
+vachement plus ambitieux : presque 7 minutes. OK, c'est vrai que pour rien au
 monde, je souhaiterais me retrouver à devoir jouer la basse de ce morceau aussi
 longtemps et, c'est également vrai, ils nous sortent des solos un peu longuets
 pour meubler : ils commencent à 1:06 et finissent à 5:35. C'est peut-être pour
