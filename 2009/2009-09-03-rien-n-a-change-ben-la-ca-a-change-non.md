@@ -9,5 +9,5 @@ cover: les-poppys.jpg
 ---
 
 Jean Amoureux, le créateur des petits chanteurs d'Asnières et des
-[Poppys](http://www.youtube.com/watch?v=V9Po8lSIKww), est mort. Le monde va mal
-!
+[Poppys](http://www.youtube.com/watch?v=V9Po8lSIKww), est mort. Le monde va
+mal !

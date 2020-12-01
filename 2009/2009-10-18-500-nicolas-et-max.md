@@ -133,11 +133,11 @@ d'Agnan, qui arrivent à faire lever une paupière de temps en temps…
 Tout cela est terriblement décevant de la part d'un bonhomme qui avait du crédit
 depuis _Mensonges et trahisons et plus si affinités…_ et qui le consomme bien
 rapidement. Dans ce film avec Edouard Baer et Clovis Cornillac, il avait réussi
-à imprimer sur pellicule l'une des plus grandes légendes urbaines contemporaines
-: le sanglier accidenté qu'on met dans le coffre alors qu'il n'est pas encore
-vraiment mort. Big up également à Rémi Bezançon, qui s'était occupé de la
-légende du permis raté à cause du chien qui traverse la route dans _Le Premier
-jour du reste de ta vie_.
+à imprimer sur pellicule l'une des plus grandes légendes urbaines
+contemporaines : le sanglier accidenté qu'on met dans le coffre alors qu'il
+n'est pas encore vraiment mort. Big up également à Rémi Bezançon, qui s'était
+occupé de la légende du permis raté à cause du chien qui traverse la route dans
+_Le Premier jour du reste de ta vie_.
 
 {% youtube oJ77y9xGgRU %}
 

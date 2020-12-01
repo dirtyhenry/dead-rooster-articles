@@ -34,8 +34,8 @@ visiblement prometteur - et qui vient de publier un nouveau roman, _Wild
 Abandon_ - et c’est également le premier film réalisé par l’anglais Richard
 Ayoade, qui s’est fait connaître dans le petit monde de l’humour geek en
 interprétant le rôle de Maurice Moss dans la série anglaise _The IT Crowd_. Une
-doublette de débutants qui fait mouche puisque le film séduit sur tous les plans
-: scénario, style et musique.
+doublette de débutants qui fait mouche puisque le film séduit sur tous les
+plans : scénario, style et musique.
 
 Ayoade est visiblement quelqu’un à suivre de près. Outre _The IT Crowd_, son
 parcours est déjà très riche et intéressant puisque son CV inclut entre autres

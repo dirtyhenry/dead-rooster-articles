@@ -63,8 +63,8 @@ Pour la playlist, j'ai choisi les deux titres les plus immédiats de l'album _In
 The Aeroplane Over The Sea_ mais son écoute intégrale, comme celle de son
 prédécesseur, _On Avery Island_, sont vivement recommandées.
 
-Et puis de la scie musicale quoi ! [Bravo Maestro
-!][bravo-maestro-classe-americaine]
+Et puis de la scie musicale quoi ! [Bravo
+Maestro !][bravo-maestro-classe-americaine]
 
 ### Gandi Lake
 

@@ -49,8 +49,7 @@ Profitons-en pour nous souvenir de Freddie Mercure :
 Par ailleurs, en ce qui concerne le biopic de Phil Spector (producteur génial
 des 60s, ayant plutôt mal vieilli : perruques et meurtre), le rôle serait tenu
 par Al Pacino, que j'aurais plutôt vu dans le rôle de Leonard Cohen
-([comme bien d'autres](http://i2.pinger.pl/pgr390/ea0abce00029a3bd4a147b97/al-pacino-totally-looks-like-leonard-cohen.jpg))
-:
+([comme bien d'autres](http://i2.pinger.pl/pgr390/ea0abce00029a3bd4a147b97/al-pacino-totally-looks-like-leonard-cohen.jpg)) :
 
 {% asset phil-spector-al-pacino.png %}
 

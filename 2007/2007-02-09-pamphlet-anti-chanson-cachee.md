@@ -25,9 +25,9 @@ l'auditeur ? Lui asséner le coup de grâce avec la chanson qui tue et à laque
 il ne s'attend pas ? Remplir le disque (le fameux syndrôme du pourquoi
 j'achèterai du 43 si c'est le même prix que le 45, déjà dénoncé par Coluche en
 son temps) ? Emmerder le iPoder, contraint de patienter un quart d'heure à la
-fin du disque pour entendre 2 minutes de bruits tordus parfaitement anecdotiques
-? Non, non, non, je ne cromprends pas. Aucune chanson cachée n'a révolutionné la
-musique que je sache.
+fin du disque pour entendre 2 minutes de bruits tordus parfaitement
+anecdotiques ? Non, non, non, je ne cromprends pas. Aucune chanson cachée n'a
+révolutionné la musique que je sache.
 
 Pire encore, quelques petits malins (Liars, The Polyphonic Spree, Camille, je
 parle de vous, entre autres) ont aussi mis en œuvre la boucle sonore jusqu'à la

@@ -52,7 +52,7 @@ comments:
     author_email: dirtyhenry@gmail.com
     date: 2012-01-30 14:22:41 +0100
     title: The Doors, c'est trop bien ? Si, si, allez !
-    content: :) c'est de bonne guerre.
+    content: 😀 c'est de bonne guerre.
   - author: un fan
     author_email: charly_gutierrez@ymail.com
     date: 2012-04-20 14:23:03 +0200

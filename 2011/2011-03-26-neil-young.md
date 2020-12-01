@@ -21,10 +21,10 @@ comments:
 Songwriter américain, Neil Young a toujours été inspiré par les atmosphères
 urbaines. Il déteste la forêt, la campagne et parler de "musique des grands
 espaces" pour qualifier ses premiers albums serait totalement erroné ; il n'y a
-qu'à écouter _Are you ready for the city_ sur _Hardest_ pour s'en rendre compte
-: "Are you ready for the city, because it's time to go ?" répète inlassablement
-Neil, qui apparemment, est pressé de revoir le bitume et l'acier des mégalopoles
-où il a grandi.
+qu'à écouter _Are you ready for the city_ sur _Hardest_ pour s'en rendre
+compte : "Are you ready for the city, because it's time to go?" répète
+inlassablement Neil, qui apparemment, est pressé de revoir le bitume et l'acier
+des mégalopoles où il a grandi.
 
 Auto-proclamé "The Loser", en _hommage_ à un début de carrière difficile, passé
 dans l'ombre de ses compères Bill Cosby, Stephen Stills et Steve Nash au sein

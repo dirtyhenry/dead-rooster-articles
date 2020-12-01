@@ -15,7 +15,7 @@ envoie du pâté.
 
 La seule page d'informations trouvée sur les autoroutes de l'information est sur
 le bien nommé
-[Wilfully Obscure](http://wilfullyobscure.blogspot.fr/2012/07/deep-6-garage-dor-1986-coyote.html)
-: bonne lecture les amis.
+[Wilfully Obscure](http://wilfullyobscure.blogspot.fr/2012/07/deep-6-garage-dor-1986-coyote.html) :
+bonne lecture les amis.
 
 (via [Matthew Caws](https://twitter.com/nadasurf/status/313747863836426240))

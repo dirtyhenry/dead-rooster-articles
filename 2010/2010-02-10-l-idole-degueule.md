@@ -9,5 +9,5 @@ cover: toilettes-cassees.jpg
 ---
 
 Alors comme ça,
-[Johnny ne boirait pas que du "Legal-le goût"](http://www.youtube.com/v/evhcj2IjlO0)
-? Le monde va mal !
+[Johnny ne boirait pas que du "Legal-le goût"](http://www.youtube.com/v/evhcj2IjlO0) ?
+Le monde va mal !

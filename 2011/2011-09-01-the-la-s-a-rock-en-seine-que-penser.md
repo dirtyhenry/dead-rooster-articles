@@ -65,18 +65,18 @@ pelouse du parc de Saint-Cloud pour le concert annoncé sans fanfares ni
 trompettes de The La's. Avant de parler du concert, voici quelques extraits des
 reviews qui en ont été faites :
 
-[JD Beauvallet pour Les Inrocks](http://www.lesinrocks.com/musique/musique-article/t/69409/date/2011-08-28/article/on-y-est-rock-en-seine-jour-1/)
-: «[Mavers offre] de ses joyaux de chansons des versions d'ivrognes de pub des
-bas quartiers de Liverpool. (…) Mavers, barricadé derrière ses Ray-Bans (…)
-continue le massacre, avec une désinvolture et une approximation qui mériterait
-des seaux d'eau un soir de la fête de la musique. Il fait même tellement de mal
-à son intouchable _There She Goes_ qu'on songe à grimper sur scène pour
-l'empêcher, camisole de force en main, de nuire, de faire mal à ses propres
-enfants. Navrant spectacle, qui tourne au vaudeville quand il grimpe sur une
-batterie pour un solo ivre. On ne dit plus les La's, ont dit les Nazes.»
+[JD Beauvallet pour Les Inrocks](http://www.lesinrocks.com/musique/musique-article/t/69409/date/2011-08-28/article/on-y-est-rock-en-seine-jour-1/) :
+«[Mavers offre] de ses joyaux de chansons des versions d'ivrognes de pub des bas
+quartiers de Liverpool. (…) Mavers, barricadé derrière ses Ray-Bans (…) continue
+le massacre, avec une désinvolture et une approximation qui mériterait des seaux
+d'eau un soir de la fête de la musique. Il fait même tellement de mal à son
+intouchable _There She Goes_ qu'on songe à grimper sur scène pour l'empêcher,
+camisole de force en main, de nuire, de faire mal à ses propres enfants. Navrant
+spectacle, qui tourne au vaudeville quand il grimpe sur une batterie pour un
+solo ivre. On ne dit plus les La's, ont dit les Nazes.»
 
-[Philippe Brochen pour Libération](http://next.liberation.fr/musique/01012356529-rock-en-seine-ne-prend-pas-l-eau)
-: «vautrage historique du prétentieux Lee Mavers à Rock en Seine. (…) on aurait
+[Philippe Brochen pour Libération](http://next.liberation.fr/musique/01012356529-rock-en-seine-ne-prend-pas-l-eau) :
+«vautrage historique du prétentieux Lee Mavers à Rock en Seine. (…) on aurait
 finalement préféré que le cintré Mavers et son bassiste (…) ratent leur avion ou
 que celui-ci se crashe sur le siège du FN. Alors le public est circonspect (et
 on est poli). «Ils sont totalement défoncés ou quoi?» «Ils font la balance,

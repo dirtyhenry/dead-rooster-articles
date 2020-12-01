@@ -88,9 +88,9 @@ le précédent film de Benchetrit, lui aussi très bon. C'est une sorte de
 refaisant
 [_Le Parrain_](http://www.allocine.fr/film/fichefilm_gen_cfilm=1628.html) à la
 sauce
-[_C'est arrivé près de chez vous_](http://www.allocine.fr/film/fichefilm_gen_cfilm=7383.html)
-: le cadre et l'ambiance lose font très "cinéma belge" et rappellent également
-les passages plus potaches que glauques des films de
+[_C'est arrivé près de chez vous_](http://www.allocine.fr/film/fichefilm_gen_cfilm=7383.html) :
+le cadre et l'ambiance lose font très "cinéma belge" et rappellent également les
+passages plus potaches que glauques des films de
 [Delépine](http://www.allocine.fr/personne/fichepersonne_gen_cpersonne=2389.html)
 et
 [Kervern](http://www.allocine.fr/personne/fichepersonne_gen_cpersonne=97326.html).
@@ -146,8 +146,8 @@ depuis l'Oncle Boonme de l'année dernière. Bon sang, je suis peut-être con,
 peut-être pas assez touché par ce que parviennent à faire les vieillards,
 peut-être pas assez contemplatif (même si pour le coup, j'aime beaucoup
 _Somewhere_ par exemple), mais merde, comment est-il possible que
-[les critiques puissent être aussi unanimement positives sur ce film](http://www.allocine.fr/film/revuedepresse_gen_cfilm=180401.html)
-? On ne m'y prendra plus.
+[les critiques puissent être aussi unanimement positives sur ce film](http://www.allocine.fr/film/revuedepresse_gen_cfilm=180401.html) ?
+On ne m'y prendra plus.
 
 La musique qui va avec
 

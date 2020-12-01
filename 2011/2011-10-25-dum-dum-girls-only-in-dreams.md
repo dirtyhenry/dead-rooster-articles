@@ -30,9 +30,10 @@ Chain. L'album n'avait donc pas déçu.
 {% asset dum-dum-girls-route-du-rock.jpg %}
 
 La tournée française, elle, avait déçu. Conforme à ce qu'en disait la presse, la
-prestation à la Route du Rock 2010 fut loin des sommets historiques du festival
-: la pose bas-résille-et-Ray-Ban des quatre filles du groupe n'est certes pas
-désagréable, mais derrière, pas grand chose. Les Inrocks avaient écrit
+prestation à la Route du Rock 2010 fut loin des sommets historiques du
+festival : la pose bas-résille-et-Ray-Ban des quatre filles du groupe n'est
+certes pas désagréable, mais derrière, pas grand chose. Les Inrocks avaient
+écrit
 [ici](http://www.lesinrocks.com/musique/musique-article/t/49359/date/2010-08-16/article/on-y-est-la-route-du-rock-jour-3/)
 la déception («les petits rollercoasters malins de l’album sont ici enchaînés
 sans grande vie, semblent presque interchangeables, les morceaux semblent cloués

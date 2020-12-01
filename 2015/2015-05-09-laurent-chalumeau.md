@@ -24,8 +24,8 @@ le doute… Faut-il sauver Michel Sardou ?
 
 Ça commence par le conseil d'un copain qui me recommande _La Famille Bélier_,
 l'histoire d'une famille où les parents sont sourd-muets et la fille chanteuse.
-Ouais, OK, y'a François Damiens, Karin Viard et Eric Elmosnino qui jouent dedans
-? Allez ! Pourquoi pas.
+Ouais, OK, y'a François Damiens, Karin Viard et Eric Elmosnino qui jouent
+dedans ? Allez ! Pourquoi pas.
 
 {% asset famille_belier.jpg alt='Avec le recul, je me dis que chanter, ça doit marcher mieux que la guitare' %}
 

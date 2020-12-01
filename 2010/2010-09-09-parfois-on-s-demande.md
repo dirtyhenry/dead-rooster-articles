@@ -43,8 +43,8 @@ Mais c’est génial comme groupe !!!”
 {% youtube Y1mYCa5I8hA %}
 
 Connaissant les goûts musicaux plutôt solides de la jeune fille, j’étais bien
-dans l’embarras ! Comment un groupe peut être “génial” avec un nom aussi pourri
-? Voulant me renseigner un peu, je me rends fissa sur
+dans l’embarras ! Comment un groupe peut être “génial” avec un nom aussi
+pourri ? Voulant me renseigner un peu, je me rends fissa sur
 [allmusic](http://allmusic.com/cg/amg.dll?p=amg&sql=11:k9fpxq9jldke). Grand mal
 m’en a pris !!! Non, mais sérieusement, qu’est-ce que c’est que ces pochettes
 hideuses ? C’est des fans de la variétoche américaine des 70s post-margarine à
