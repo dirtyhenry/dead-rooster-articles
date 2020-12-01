@@ -15,9 +15,9 @@ Brothers Johnson, considérée comme la [134ème meilleur chanson des années 70
 par Pitchfork. L’originale de Shuggie — composée à 18 ans à peine — est en fait
 bien meilleure.
 
-Testé pour vous, le reste de l’œuvre de son œuvre, _Inspiration Information_ en
-tête, est conseillée aux amateurs de _rare groove_ (sic) et d’acid jazz. Le
-reste peut passer son chemin.
+Testé pour vous, le reste de son œuvre, _Inspiration Information_ en tête, est
+conseillée aux amateurs de _rare groove_ (sic) et d’acid jazz. Les autres
+peuvent passer leur chemin.
 
 [1]:
   https://pitchfork.com/features/lists-and-guides/9935-the-200-best-songs-of-the-1970s/?page=4

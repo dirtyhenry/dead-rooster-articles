@@ -7,8 +7,8 @@ wordpress_id: 1015
 date: 2012-03-26 17:41:18 +0200
 ---
 
-Clip TTM pour cette reprise du tube des Primitives joué par le groupe de Glasgow
-pour la série des Late Night Tales.
+Clip TM voire TTM[^1] pour cette reprise du tube des Primitives joué par le
+groupe de Glasgow pour la série des Late Night Tales.
 
 {% youtube rSBVvFU55fg %}
 
@@ -18,5 +18,7 @@ Sinon, n'oublions pas de regarder
 
 (via
 [Pitchfork](http://pitchfork.com/news/45899-video-belle-and-sebastian-crash/))
+
+[^1]: trop mignon voire trop trop mignon
 
 [i576]: {% post_url 2010/2010-03-08-petite-vieille %}
