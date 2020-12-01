@@ -8,7 +8,7 @@ category: Chanson du jour
 {% spotify_track 4W8IEREeLldaSQyGXcZQ2I %}
 
 Shuggie Otis est un ancien petit génie de la 6 cordes qui a gravité autour
-d’Hendrix, de Frank Zappe ou des Stones à l’aube des années 70.
+d’Hendrix, de Frank Zappa ou des Stones à l’aube des années 70.
 
 _Strawberry Letter 23_ fut popularisée par [la reprise][2] qu’en ont faite les
 Brothers Johnson, considérée comme la [134ème meilleur chanson des années 70][1]
