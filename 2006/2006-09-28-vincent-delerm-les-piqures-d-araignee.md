@@ -58,10 +58,10 @@ de ses années lycée/fac.
 Mais encore une fois, il transcende ses histoires individuelles, et parvient à
 les rendre évocatrices pour tous : qui n'a jamais fantasmer sur *Les jambes de
 Steffi Graf* ? ("Anna Kournikova", c'était trop long…) Qui n'a jamais décortiqué
-en quête de sens le livret de son disque préféré quand passe sa chanson favorite
-? C'est ici le thème de _Favorite song_, ma chanson préférée de l'album (ça
-tombe bien !) où le duo Delerm/Hannon est parfait, l'un qui dit avoir été fan et
-l'être encore de la Comédie Divine, chanter sa chanson préférée sans en
+en quête de sens le livret de son disque préféré quand passe sa chanson
+favorite ? C'est ici le thème de _Favorite song_, ma chanson préférée de l'album
+(ça tombe bien !) où le duo Delerm/Hannon est parfait, l'un qui dit avoir été
+fan et l'être encore de la Comédie Divine, chanter sa chanson préférée sans en
 comprendre un mot; l'autre se questionnant sur la signification de "javanaise",
 "poinçonneur des lilas", "poupée de cire"…
 

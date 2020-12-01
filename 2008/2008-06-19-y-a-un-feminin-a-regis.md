@@ -17,6 +17,6 @@ comments:
 cover: with-stupid.jpg
 ---
 
-Aujourd'hui, j'ai encore entendu une conne s'égosiller d'un lamentablement plat
-: "de toute façon le foot, c'est juste regarder des gugusses qui courent après
-un ballon". Le monde va mal !
+Aujourd'hui, j'ai encore entendu une conne s'égosiller d'un lamentablement
+plat : "de toute façon le foot, c'est juste regarder des gugusses qui courent
+après un ballon". Le monde va mal !

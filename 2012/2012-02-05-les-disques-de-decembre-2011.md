@@ -26,10 +26,11 @@ brouillons. C'est chose faite pour décembre.
 
 ### The Black Keys - _El Camino_
 
-Malgré deux ou trois titres un rien faiblard (surtout en seconde partie d'album
-: _Sister_ ou _Nova Baby_ entre autres), les Black Keys restent malgré tout le
-groupe le plus cool des dernières années. _Lonely Boy_ (et [le clip qui va
-avec][i938]) ou _Little Black Submarines_ en témoignent de façon convaincante.
+Malgré deux ou trois titres un rien faiblard (surtout en seconde partie
+d'album : _Sister_ ou _Nova Baby_ entre autres), les Black Keys restent malgré
+tout le groupe le plus cool des dernières années. _Lonely Boy_ (et [le clip qui
+va avec][i938]) ou _Little Black Submarines_ en témoignent de façon
+convaincante.
 
 ### Atlas Sound - _Parallax_
 

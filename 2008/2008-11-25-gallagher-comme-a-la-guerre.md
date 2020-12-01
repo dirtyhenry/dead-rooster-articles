@@ -17,9 +17,9 @@ cover: oasis.jpg
 ---
 
 Combien de jeux de mots pourris (Noel en Novembre, **Oasis** : la traversée du
-désert, Du vague à Liam) ? Combien de critiques narquoises ? Combien de : "Oasis
-? Ouais, on les entend plus depuis _Wonderwall_ tes potes !" ? Combien de :
-"Oasis est de retour !" ? Alors qu'ils ne sont jamais partis les frangins.
+désert, Du vague à Liam) ? Combien de critiques narquoises ? Combien de :
+"Oasis ? Ouais, on les entend plus depuis _Wonderwall_ tes potes !" ? Combien
+de : "Oasis est de retour !" ? Alors qu'ils ne sont jamais partis les frangins.
 
 Alors certes, les médias ne leur accordent plus la place qu'ils s'étaient
 octroyés à la sueur de leurs gros sourcils au milieu des années 90. Mais tout de
@@ -120,8 +120,8 @@ que d'assister au concert du Bataclan, complet en moins de temps qu'il n'en faut
 pour dire un million de fois "We're fookin' good !" ? Cependant, des peurs
 peuvent être alimentées : et si Noel jouait sur une chaise, rapport à ses côtes
 fracturées lors d'un duel perdu contre un forcené canadien ? (en même temps, il
-avait les mains prises par sa guitare, c'était pas très équilibré comme combat
-!). Et si Zak Starkey, démissionnaire pour cause officielle de "problèmes
+avait les mains prises par sa guitare, c'était pas très équilibré comme
+combat !). Et si Zak Starkey, démissionnaire pour cause officielle de "problèmes
 familiaux", nous laisser avec un batteur à deux balles ?
 
 Pour parler franc, une partie de nos doutes ont été confirmés. En effet, à la

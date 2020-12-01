@@ -30,8 +30,8 @@ Quant à l'originale d'Elli Medeiros, là voilà :
 
 {% youtube mKsEBJdVvgI %}
 
-Encore une fois, personne ne l'avait pronostiqué et le classement reste inchangé
-:
+Encore une fois, personne ne l'avait pronostiqué et le classement reste
+inchangé :
 
 - 1. Hervé, 15pts
 - 2. Rodrigue et Joe, 5pts

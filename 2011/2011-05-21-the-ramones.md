@@ -30,5 +30,5 @@ elle, a toujours été le théâtre d'une bataille d'égos, d'où des changement
 d'effectif incessants : Dee Dee puis C.J. à la basse, mais combien de batteurs ?
 Marky, Fatty, Tommy, Groovy et consorts… Et puis, le temps fit son affaire, et
 décima les troupes. Un à un, tous les membres originaux passèrent l'arme à
-gauche, qui à cause d'un cancer, qui à cause d'une overdose. Mais gardons espoir
-! _Aujourd'hui ton amour, demain le monde !_
+gauche, qui à cause d'un cancer, qui à cause d'une overdose. Mais gardons
+espoir ! _Aujourd'hui ton amour, demain le monde !_

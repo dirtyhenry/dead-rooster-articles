@@ -27,16 +27,16 @@ Gainsbourg : _Laisse tomber les filles_ (donc), _Caribou_, _La Chanson de
 Prévert_, _Cet air-là_, etc…
 
 Rien d'anormal donc à ce qu'elle finisse par rencontrer **Bertrand Burgalat**,
-chef de tribu, via son label Tricatel ([nom inspiré de _l'Aile ou la Cuisse_
-?][2]), de ce qui se fait de mieux en matière de revival de pop/yéyé élégante
-d'ascendance gainsbourienne. Il produit en effet Katerine, A.S Dragon, Héléna
-Noguerra ou Valérie Lemercier mais aussi d'autres opus ovnis, à la croisée des
-chemins du rock et de la littérature, comme ces disques de Michel Houellebecq ou
-de Jonathan Coe. Lui-même est d'ailleurs musicien et propose ces semaines-ci une
-tournée d'adieu (à prendre au sérieux ?) en compagnie de sa muse April March
-pour lequel il a écrit deux disques de très haut niveau (quoiqu'assez
-radicalement différent de son _Chick Habit_ ou de ses fulgurances garage
-fabriquées avec The Makers) : _Chrominance Decoder_ et _Triggers_.
+chef de tribu, via son label Tricatel ([nom inspiré de *l'Aile ou la
+Cuisse* ?][2]), de ce qui se fait de mieux en matière de revival de pop/yéyé
+élégante d'ascendance gainsbourienne. Il produit en effet Katerine, A.S Dragon,
+Héléna Noguerra ou Valérie Lemercier mais aussi d'autres opus ovnis, à la
+croisée des chemins du rock et de la littérature, comme ces disques de Michel
+Houellebecq ou de Jonathan Coe. Lui-même est d'ailleurs musicien et propose ces
+semaines-ci une tournée d'adieu (à prendre au sérieux ?) en compagnie de sa muse
+April March pour lequel il a écrit deux disques de très haut niveau
+(quoiqu'assez radicalement différent de son _Chick Habit_ ou de ses fulgurances
+garage fabriquées avec The Makers) : _Chrominance Decoder_ et _Triggers_.
 
 Pas de première partie ce mercredi 28 janvier, à l'Elysée Montmartre. Quelques
 figures notables ont pris place autour de la scène (Michka Assayas et Héléna

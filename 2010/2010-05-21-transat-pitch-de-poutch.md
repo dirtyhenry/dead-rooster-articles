@@ -8,8 +8,8 @@ date: "2010-05-21 12:18:44 +0200"
 cover: trimaran-crepes-wahou.jpg
 ---
 
-La nouvelle édifiante est [lisible][1] dans les colonnes de _L'équipe_. Je cite
-: "_Crêpes Whaou_ s'échappe".
+La nouvelle édifiante est [lisible][1] dans les colonnes de _L'équipe_. Je
+cite : "_Crêpes Whaou_ s'échappe".
 
 Ce que ne précise pas le quotidien sportif, c'est qu'il paraît qu'il a doublé
 _Bâtonnets Coraya_, mais que _Pic-Nic Break_ remonte en trombe… Par contre, on

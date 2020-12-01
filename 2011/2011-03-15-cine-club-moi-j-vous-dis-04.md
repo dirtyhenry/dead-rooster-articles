@@ -70,10 +70,10 @@ majeur de Ludwig Von a un riff du tonnerre !
 
 {% youtube Y7F4z8FV6ME %}
 
-Même sur le domaine de la B.O., _Black Swan_ ne se montre pas hyper intéressant
-: du classique connu de tous (le motif principal du lac des cygnes, tout le
-monde connaît quand même, faut pas déconner) et The Chemical Brothers. La
-prochaine fois, Aronofsky n'aura qu'à blinder sa B.O. de Massive Attack et on
+Même sur le domaine de la B.O., _Black Swan_ ne se montre pas hyper
+intéressant : du classique connu de tous (le motif principal du lac des cygnes,
+tout le monde connaît quand même, faut pas déconner) et The Chemical Brothers.
+La prochaine fois, Aronofsky n'aura qu'à blinder sa B.O. de Massive Attack et on
 sera fâchés pour la vie… Pour fêter ça, allez, un peu de ska !
 
 {% youtube -utkYnIV1_k %}

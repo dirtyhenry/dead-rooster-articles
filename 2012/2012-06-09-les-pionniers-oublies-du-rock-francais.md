@@ -7,6 +7,7 @@ description:
   campagnes de France, avant de se transformer en tornade transgénérationnelle
   de l'autre côté de l'Atlantique. L’Encyclopédie Approximative du Rock and Roll
   rend hommage à trois de ces héros tricolores méconnus.
+category: Encyclopédie approximative du Rock and Roll
 authors:
   - Joe Gantdelaine
 wordpress_id: 1048
@@ -49,5 +50,5 @@ Mais, en pleine vague yéyé, le titre est un bide.
 
 Il y aurait encore tant et tant de compatriotes méconnus à citer ! Quid du Gros
 Dominique (appelé Domino par ses potes) ? Quid de Pote Houx (sans doute le nom
-de scène le plus mal choisi) ? La liste est bien trop longue pour l'Encyclopédie
-!
+de scène le plus mal choisi) ? La liste est bien trop longue pour
+l'Encyclopédie !

@@ -15,9 +15,9 @@ tags:
 cover: the-who-pete-townshend.jpg
 ---
 
-Cette année, boycott du concert des Rolling Stones au Stade de France ! Pourquoi
-? Parce que j'ai déjà pris ma place pour les Who et que je m'impose la règle
-"pas plus d'un concert à 50 balles par mois" !
+Cette année, boycott du concert des Rolling Stones au Stade de France !
+Pourquoi ? Parce que j'ai déjà pris ma place pour les Who et que je m'impose la
+règle "pas plus d'un concert à 50 balles par mois" !
 
 Bref, au mois de juin, direction Bercy (quelle horreur cette salle) pour aller
 voir **The Who** !

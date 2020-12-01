@@ -56,8 +56,8 @@ ukulélés entrent en sus, on dit "love" à chaque fin de phrase et on ajoute un
 son très rigolo qui rappelle les moments où Yoshi se fait dégommer sur Super
 Mario World (à 3:13). Et moi, excusez-moi mais merde, j'adore ça ! Pour le reste
 quelques chansons honorables et plusieurs titres anecdotiques mais jamais
-repoussants. Mais que cachent ces titres "anecdotiques mais jamais repoussants"
-?
+repoussants. Mais que cachent ces titres "anecdotiques mais jamais
+repoussants" ?
 
 (entracte, profitons-en pour regarder les très marrants clips d'inspiration
 wesandersonienne très marquée des deux joyaux mentionnés en cliquant

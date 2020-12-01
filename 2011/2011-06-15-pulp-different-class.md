@@ -22,12 +22,12 @@ tags:
   - Pulp
 ---
 
-Comment adapter une chanson de Renaud pour en faire un hymne absolu du rock indé
-? Comment de grande tige malingre peut-on devenir songwriter adulé ? Comment
-cristalliser pour l'éternité les questions intimes de tous les adolescents ou
-anciens adolescents tout en leur donnant l'occasion d'agiter sans complexe leur
-corps maladroit ? Jarvis Cocker et son groupe Pulp ont donné la réponse à ces
-questions en octobre 1995 avec leur album _Different Class_.
+Comment adapter une chanson de Renaud pour en faire un hymne absolu du rock
+indé ? Comment de grande tige malingre peut-on devenir songwriter adulé ?
+Comment cristalliser pour l'éternité les questions intimes de tous les
+adolescents ou anciens adolescents tout en leur donnant l'occasion d'agiter sans
+complexe leur corps maladroit ? Jarvis Cocker et son groupe Pulp ont donné la
+réponse à ces questions en octobre 1995 avec leur album _Different Class_.
 
 La frustration, a priori, c'est franchement pas cool. Mais quoiqu'on en pense,
 c'est le moteur de la vie et, mieux encore, la frustration permet de pouvoir
@@ -65,10 +65,10 @@ riches, la condescendance qui en résulte à l'égard des pauvres,
 l'incompréhension éternelle qui existera entre les deux camps : constat
 fataliste ne blâmant jamais la bonne volonté des deux camps, mais qui clôt toute
 tentative de débat. Si le propos est plutôt déprimant, la musique qui
-l'accompagne nuance la chose, et les derniers mots changent subtilement la donne
-: on ne va pas faire semblant d'être quelqu'un d'autre mais on va quand même
-réussir à vivre ensemble. C'est beau. Ça donnerait presque envie de chialer dans
-sa bière.
+l'accompagne nuance la chose, et les derniers mots changent subtilement la
+donne : on ne va pas faire semblant d'être quelqu'un d'autre mais on va quand
+même réussir à vivre ensemble. C'est beau. Ça donnerait presque envie de chialer
+dans sa bière.
 
 Je pourrais m'enthousiasmer autant sur tous les titres de l'album.
 [_Disco 2000_](http://youtu.be/qJS3xnD7Mus) par exemple, où un gars, adulte,

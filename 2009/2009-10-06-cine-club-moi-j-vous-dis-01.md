@@ -12,10 +12,10 @@ tags:
   - Cinéma
 ---
 
-_Casablanca_, œuvre magistrale ! _Le Cuirassé Potemkine_, n'en parlons même pas
-! Quant à _Citizen Kane_, le meilleur de tous ! Ok, mais comment faire pour voir
-ces films anciens, boudés par la télé et trop peu repris par les cinémas ? Pour
-ma part, la solution a été un abonnement à un service de location de DVD en
+_Casablanca_, œuvre magistrale ! _Le Cuirassé Potemkine_, n'en parlons même
+pas ! Quant à _Citizen Kane_, le meilleur de tous ! Ok, mais comment faire pour
+voir ces films anciens, boudés par la télé et trop peu repris par les cinémas ?
+Pour ma part, la solution a été un abonnement à un service de location de DVD en
 ligne : Glowria. Trois DVD par mois dont voici détaillée la livrée de septembre…
 
 ## _Pauline à la plage_ - Eric Rohmer (1983)
@@ -83,8 +83,7 @@ jalouser…
 
 Film fantastique et d'angoisse assez court (1h10), l'oeuvre de Tourneur n'en est
 pas moins efficace. On flippe un peu, et encore une fois, c'est sur
-[les recommandations de Serge Kaganski](http://blogs.lesinrocks.com/s-kaganski/?p=206)
-!
+[les recommandations de Serge Kaganski](http://blogs.lesinrocks.com/s-kaganski/?p=206) !
 
 **La chanson qui va avec** : fastoche, la chanson éponyme (et pas la meileure)
 de David Bowie !

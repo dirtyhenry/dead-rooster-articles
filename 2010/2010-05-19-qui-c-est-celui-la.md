@@ -23,8 +23,7 @@ L'originale est ici :
 {% dailymotion xdi2a %}
 
 Et s'il vous plaît, respect au grand Pierre :
-[c'est pas tout le monde qui ouvre pour les Beatles à l'Olympia](http://fr.wikipedia.org/wiki/Pierre_Vassiliu)
-!
+[c'est pas tout le monde qui ouvre pour les Beatles à l'Olympia](http://fr.wikipedia.org/wiki/Pierre_Vassiliu) !
 
 C'était le dernier titre pronostiqué par Hervé qu'il lui manquait. Il marque 4
 nouveaux points et fait le grand chelem. Félicitations à lui mais m'est avis,

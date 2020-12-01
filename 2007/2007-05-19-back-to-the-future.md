@@ -8,8 +8,8 @@ date: "2007-05-19 06:40:00 +0200"
 cover: smashing-pumpkins-zeitgeist.jpg
 ---
 
-Nom de Zeus ! Une nouvelle brèche dans le continuum spatio-temporel est ouverte
-:
+Nom de Zeus ! Une nouvelle brèche dans le continuum spatio-temporel est
+ouverte :
 [http://www.spinner.com/2007/05/18/new-music-tarantula-by-smashing-pumpkins/](http://www.spinner.com/2007/05/18/new-music-tarantula-by-smashing-pumpkins/)
 
 Faut pas trop réfléchir Mc Fly !!! Allez, vite, dans la DeLorean ! Filons à
