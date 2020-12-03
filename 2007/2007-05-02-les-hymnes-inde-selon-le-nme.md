@@ -13,6 +13,7 @@ tags:
   - Pulp
   - The La's
   - Arcade Fire
+  - The Strokes
 cover: podium.jpg
 ---
 

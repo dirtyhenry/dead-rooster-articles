@@ -9,7 +9,7 @@ date: 2008-08-23 18:57:00 +0200
 categories:
   - Catégories
 tags:
-  - Compilation
+  - The Strokes
 ---
 
 1. The Ramones - _Blitzkrieg Bop_

@@ -5,7 +5,7 @@ authors:
   - Dirty Henry
 cover: automne-2005.jpg
 tags:
-  - compile
+  - The Strokes
 ---
 
 {% spotify 3793DyGzSc6Hhz2CxRJqN3 %}

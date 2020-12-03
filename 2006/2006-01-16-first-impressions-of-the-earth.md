@@ -3,6 +3,8 @@ layout: post
 title: The Strokes - First Impressions of the Earth
 authors:
   - Dirty Henry
+tags:
+  - The Strokes
 ---
 
 {% asset strokes-first-impressions-of-the-earth.jpg %}
