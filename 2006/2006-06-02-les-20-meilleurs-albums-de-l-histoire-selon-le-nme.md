@@ -9,6 +9,7 @@ categories:
   - Artistes
 tags:
   - Oasis
+  - The Strokes
 cover: oasis-gallagher-brothers.jpg
 ---
 

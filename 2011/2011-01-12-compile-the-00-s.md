@@ -12,6 +12,7 @@ categories:
 tags:
   - Compilation
   - The National
+  - The Strokes
 ---
 
 1. The Strokes - _Last Nite_

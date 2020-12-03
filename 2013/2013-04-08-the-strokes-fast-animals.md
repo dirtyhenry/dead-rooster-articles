@@ -5,6 +5,8 @@ authors:
   - Dirty Henry
 wordpress_id: 1213
 date: 2013-04-08 10:49:21 +0200
+tags:
+  - The Strokes
 ---
 
 Aujourd'hui, j'avais prévu une version acoustique de _Song 2_

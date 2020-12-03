@@ -4,7 +4,7 @@ title: Dirty’s top songs ever
 authors:
   - Dirty Henry
 tags:
-  - compile
+  - The Strokes
 ---
 
 With some friends of ours, we made up a very cool game: "pick the songs that

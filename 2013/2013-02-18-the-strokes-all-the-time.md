@@ -5,6 +5,8 @@ authors:
   - Dirty Henry
 wordpress_id: 1179
 date: "2013-02-18 10:00:00 +0100"
+tags:
+  - The Strokes
 ---
 
 {% youtube TJC8zeu3MHk %}

@@ -17,6 +17,7 @@ tags:
   - Fun Friday
   - Wes Anderson
   - Queen
+  - Roman Coppola
 ---
 
 Le vendredi, le fun est de bon aloi. Cette semaine, de la bière et du foot, de

@@ -18,6 +18,7 @@ tags:
   - Trucs marrants
   - Fun Friday
   - Jason Schwartzman
+  - Roman Coppola
 ---
 
 Le vendredi, le fun est de bon aloi. Cette semaine : on se réveille moustachu,
