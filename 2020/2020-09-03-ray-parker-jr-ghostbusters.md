@@ -3,6 +3,7 @@ layout: post
 title: Ray Parker Jr. - Ghostbusters
 authors:
   - Dirty Henry
+category: Chanson du jour
 ---
 
 {% youtube Fe93CLbHjxQ %}

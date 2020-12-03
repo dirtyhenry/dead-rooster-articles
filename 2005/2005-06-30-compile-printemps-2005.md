@@ -3,9 +3,10 @@ layout: post
 title: Compile printemps 2005
 authors:
   - Dirty Henry
+category: Compile
 tags:
-  - compile
   - Arcade Fire
+  - Bloc Party
 ---
 
 {% spotify 3DIwE7aLIaURvceNnXCHL4 %}

@@ -5,10 +5,9 @@ authors:
   - Dirty Henry
 wordpress_id: 295
 date: "2006-04-05 19:49:00 +0200"
-categories:
-  - Catégories
+category: Le bouquin
 tags:
-  - Livre
+  - Michel Houellebecq
 cover: houellebecq.jpg
 ---
 

@@ -3,6 +3,7 @@ layout: post
 title: Black Bones - Destiny
 authors:
   - Dirty Henry
+category: Chanson du jour
 ---
 
 {% youtube W6NymOWCnEc %}

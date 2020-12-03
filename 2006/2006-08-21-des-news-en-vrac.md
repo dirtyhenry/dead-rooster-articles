@@ -5,9 +5,9 @@ authors:
   - Dirty Henry
 wordpress_id: 331
 date: "2006-08-21 11:56:00 +0200"
-categories:
-  - Artistes
+categories: News
 tags:
+  - Bloc Party
   - Pulp
 ---
 

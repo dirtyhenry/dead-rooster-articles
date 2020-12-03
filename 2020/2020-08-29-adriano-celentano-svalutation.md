@@ -3,6 +3,7 @@ layout: post
 title: Adriano Celentano - Svalutation
 authors:
   - Dirty Henry
+category: Chanson du jour
 ---
 
 {% youtube mSYpXal_QcA %}

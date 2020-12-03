@@ -5,8 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 292
 date: "2006-04-03 09:18:00 +0200"
-categories:
-  - Artistes
+category: News
 tags:
   - Blur
 cover: blur.jpg

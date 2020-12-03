@@ -6,9 +6,9 @@ authors:
 wordpress_id: 731
 cover: boule-a-facette.jpg
 date: 2008-08-23 18:57:00 +0200
-categories:
-  - Catégories
+category: Compile
 tags:
+  - Bloc Party
   - The Strokes
 ---
 

@@ -3,6 +3,9 @@ layout: post
 title: Bloc Party - Two More Years
 authors:
   - Dirty Henry
+category: Chanson du jour
+tags:
+  - Bloc Party
 ---
 
 {% youtube UbPP_bb585E %}
