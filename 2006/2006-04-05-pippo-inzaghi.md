@@ -5,10 +5,9 @@ authors:
   - Dirty Henry
 wordpress_id: 294
 date: "2006-04-05 11:19:00 +0200"
-categories:
-  - Catégories
+category: Foot
 tags:
-  - Foot
+  - Filippo Inzaghi
 cover: pippo-inzaghi.jpg
 ---
 

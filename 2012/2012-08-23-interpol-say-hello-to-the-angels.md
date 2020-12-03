@@ -5,8 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 1094
 date: "2012-08-23 08:00:00 +0200"
-categories:
-  - Artistes
+category: Chanson du jour
 tags:
   - Interpol
 ---

@@ -5,8 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 296
 date: "2006-04-08 17:04:00 +0200"
-categories:
-  - Catégories
+category: Chanson du jour
 tags:
   - Trucs marrants
 ---

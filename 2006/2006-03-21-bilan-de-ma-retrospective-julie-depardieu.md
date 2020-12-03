@@ -5,10 +5,10 @@ authors:
   - Dirty Henry
 wordpress_id: 286
 date: "2006-03-21 22:26:00 +0100"
-categories:
-  - Catégories
+category: Ciné club moi j'vous dis
 tags:
-  - Cinéma
+  - Julie Depardieu
+  - Pierre-François Martin-Laval
 cover: julie-depardieu.jpg
 ---
 
