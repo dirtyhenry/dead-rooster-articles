@@ -6,13 +6,12 @@ authors:
 wordpress_id: 751
 cover: top-of-00s.png
 date: 2011-01-12 13:24:59 +0100
-categories:
-  - Catégories
-  - Artistes
+category: Compile
 tags:
   - Compilation
   - The National
   - The Strokes
+  - Bloc Party
 ---
 
 1. The Strokes - _Last Nite_

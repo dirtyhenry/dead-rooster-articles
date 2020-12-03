@@ -3,8 +3,9 @@ layout: post
 title: Oasis, rois de la terre battue
 authors:
   - Dirty Henry
+category: Concert
 tags:
-  - concert
+  - Oasis
 ---
 
 {% asset oasis-olympia.jpg %}

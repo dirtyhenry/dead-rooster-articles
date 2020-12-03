@@ -3,9 +3,10 @@ layout: post
 title: Les 2 meilleurs groupes de 2005 en 48 heures
 authors:
   - Dirty Henry
+category: Concert
 tags:
-  - concert
   - Arcade Fire
+  - Bloc Party
 ---
 
 Avant le concert, l'heure d'un bilan dans la course de meilleur groupe 2005 : à

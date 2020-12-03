@@ -5,6 +5,7 @@ authors:
   - Dirty Henry
 cover: automne-2005.jpg
 tags:
+  - Bloc Party
   - The Strokes
 ---
 
