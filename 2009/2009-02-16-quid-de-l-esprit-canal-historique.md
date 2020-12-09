@@ -12,6 +12,9 @@ comments:
     title: Quid de l'esprit canal historique ?
     content: Dirty Henry fait des jeux de mots acronymiques. Le monde va mal !
 cover: philippe-gildas.jpg
+category: Le monde va mal
+tags:
+  - Message à Caractère Informatif
 ---
 
 Philippe Gildas a enfin un successeur : Olivier Besancenot relance NPA ! Mais la

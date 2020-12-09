@@ -5,10 +5,11 @@ authors:
   - Dirty Henry
 wordpress_id: 390
 date: "2007-06-27 12:52:00 +0200"
-categories:
-  - Catégories
+category: Fun Friday
 tags:
-  - Fun Friday
+  - Action Discrète
+  - Julien Cazarre
 ---
 
-{% dailymotion xx3d6 %}
+Edit : tristesse, la vidéo du parti fataliste d'Action Discrète est désormais
+introuvable. ☹️

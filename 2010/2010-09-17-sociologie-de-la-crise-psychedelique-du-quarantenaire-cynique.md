@@ -10,11 +10,7 @@ authors:
 wordpress_id: 701
 cover: fun-friday.png
 date: 2010-09-17 11:28:20 +0200
-categories:
-  - Catégories
-tags:
-  - Trucs marrants
-  - Fun Friday
+category: Fun Friday
 ---
 
 ## Die, Sweet Roadrunner, Die

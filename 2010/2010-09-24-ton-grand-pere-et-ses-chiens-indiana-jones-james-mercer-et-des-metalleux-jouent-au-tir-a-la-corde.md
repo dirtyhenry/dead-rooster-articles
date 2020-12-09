@@ -11,13 +11,7 @@ authors:
 wordpress_id: 705
 cover: fun-friday-705.png
 date: 2010-09-24 11:42:57 +0200
-categories:
-  - Catégories
-tags:
-  - Single
-  - Geek
-  - Trucs marrants
-  - Fun Friday
+category: Fun Friday
 ---
 
 Le vendredi, le fun est de bon aloi. Cette semaine : ton grand-père et ses

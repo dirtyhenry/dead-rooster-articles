@@ -10,13 +10,8 @@ authors:
 wordpress_id: 708
 cover: fun-friday-708.png
 date: 2010-10-01 16:22:20 +0200
-categories:
-  - Catégories
-  - Artistes
+category: Fun Friday
 tags:
-  - Geek
-  - Trucs marrants
-  - Fun Friday
   - Jason Schwartzman
   - Roman Coppola
 ---
