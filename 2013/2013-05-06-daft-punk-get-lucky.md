@@ -5,6 +5,9 @@ authors:
   - Dirty Henry
 wordpress_id: 1225
 date: "2013-05-06 14:19:49 +0200"
+category: Fun Friday
+tags:
+  - Nicolas et Bruno
 ---
 
 Ça ne vous avait sûrement pas échappé : **Daft Punk** est de retour avec _Get

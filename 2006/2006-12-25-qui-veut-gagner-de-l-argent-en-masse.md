@@ -5,10 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 1042
 date: "2006-12-25 13:05:00 +0100"
-categories:
-  - Catégories
-tags:
-  - Fun Friday
+category: Fun Friday
 ---
 
 {% youtube _N_1szXrjhI %}

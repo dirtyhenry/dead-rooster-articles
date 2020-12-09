@@ -9,15 +9,11 @@ authors:
 wordpress_id: 714
 cover: fun-friday-714.png
 date: 2010-10-15 12:00:00 +0200
-categories:
-  - Catégories
-  - Artistes
+category: Fun Friday
 tags:
-  - Trucs marrants
-  - Fun Friday
-  - Wes Anderson
   - Queen
   - Roman Coppola
+  - Wes Anderson
 ---
 
 Le vendredi, le fun est de bon aloi. Cette semaine, de la bière et du foot, de

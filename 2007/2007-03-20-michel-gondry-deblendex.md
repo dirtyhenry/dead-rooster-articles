@@ -5,10 +5,7 @@ authors:
   - Joe Gantdelaine
 wordpress_id: 369
 date: "2007-03-20 13:08:00 +0100"
-categories:
-  - Catégories
-tags:
-  - Fun Friday
+category: Fun Friday
 ---
 
 {% youtube 4ga0W9LXK5M %}
