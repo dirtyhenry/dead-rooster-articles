@@ -198,8 +198,8 @@ Enfin, le moment de passer aux choses sérieuses arrive ! Nous sommes repus, le
 groupes moyens (et pires si non-affinités) sont passés, place au rock ! La
 soirée débute maintenant ! On le sait, on le sent ! Lisa Kekula ne nous fait pas
 mentir. Ses **Bellrays** sont imparables. Tout est excellent : de la choucroute
-de Lisa, aux lunettes de Bob, sans oublier les compo, groovy-funky-garage…Sur la
-grande scène ensuite, place aux professionnels de l’entertainment : **The
+de Lisa, aux lunettes de Bob, sans oublier les compo, groovy-funky-garage… Sur
+la grande scène ensuite, place aux professionnels de l’entertainment : **The
 Hives**. Toujours impeccables, peut-être trop pour prétendre au statut de
 rockers au cœur pur, les suédois nous offrent quasiment une heure de spectacle
 non-stop. On en redemanderait presque, juste histoire d’entendre _A.K.A

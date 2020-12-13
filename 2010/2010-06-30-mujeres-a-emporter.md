@@ -9,11 +9,13 @@ authors:
 wordpress_id: 640
 cover: mujeres.jpg
 date: 2010-06-30 18:19:57 +0200
-categories:
-  - Catégories
+category: Chanson du jour
 tags:
-  - Single
+  - Mujeres
+  - Garage Rock
 ---
+
+{% youtube Fruz2uXrtmE %}
 
 Les concerts à emporter de la [**Blogothèque**](http://www.blogotheque.net/)
 sont désormais souvent assez chiants, maintenant que leur recette est éculée et
@@ -28,5 +30,3 @@ se trouve ci-dessous.
 Outre le concert à emporter, le
 [MySpace](http://www.myspace.com/mujeresdebarcelona) est recommandé : du garage
 plus qu'honnête qui, sans rien inventer, est plein d'énergie et d'enthousiasme.
-
-{% youtube Fruz2uXrtmE %}

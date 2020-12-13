@@ -5,11 +5,9 @@ authors:
   - Joe Gantdelaine
 wordpress_id: 216
 date: "2008-09-02 11:27:31 +0200"
-categories:
-  - Catégories
-  - Artistes
+category: Review
 tags:
-  - Albums
+  - Garage Rock
   - The Outsiders
 cover: the-outsiders.jpg
 ---

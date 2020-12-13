@@ -5,12 +5,11 @@ authors:
   - Dirty Henry
 wordpress_id: 318
 date: "2006-06-07 09:18:00 +0200"
-categories:
-  - Catégories
-  - Artistes
+category: Concert
 tags:
-  - Concert
+  - Garage Rock
   - Soledad Brothers
+  - The BellRays
 cover: soledad-brothers-2.jpg
 ---
 

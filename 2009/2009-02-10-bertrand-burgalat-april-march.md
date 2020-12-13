@@ -5,11 +5,8 @@ authors:
   - Dirty Henry
 wordpress_id: 223
 date: "2009-02-10 14:42:29 +0100"
-categories:
-  - Catégories
-  - Artistes
+category: Concert
 tags:
-  - Concert
   - April March
   - Bertrand Burgalat
 cover: april-march-bertrand-burgalat.jpg

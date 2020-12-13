@@ -6,8 +6,9 @@ authors:
 wordpress_id: 224
 date: "2009-03-04 00:12:26 +0100"
 categories:
-  - Artistes
+  - Review
 tags:
+  - Garage Rock
   - The Notwist
 cover: old-guitar-player.jpg
 ---
