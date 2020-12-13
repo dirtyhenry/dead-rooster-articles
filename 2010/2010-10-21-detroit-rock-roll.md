@@ -15,6 +15,7 @@ categories:
   - Artistes
 tags:
   - Soledad Brothers
+  - Garage Rock
 ---
 
 Ben Swank, le batteur des Soledad Brothers, désormais membre de
@@ -74,7 +75,7 @@ en voici une traduction faite maison :
 > groupe à Glastonbury l’année dernière, et pourquoi il y aura toujours du
 > rock’n’roll brut, décharné et teinté de soul, qui sortira de cette ville. Il y
 > a beaucoup de similitudes entre la scène des années 60 du documentaire de
-> Whalley et celle du «garage revival» dont j’ai fait partie (un gros groupe
+> Whalley et celle du « garage revival » dont j’ai fait partie (un gros groupe
 > devient énorme et d’autres groupes en profitent, d’autres fuient, d’autres se
 > confortent dans leurs choix de départ), même si je considère que ces deux
 > scènes n’en forment qu’une en réalité.
