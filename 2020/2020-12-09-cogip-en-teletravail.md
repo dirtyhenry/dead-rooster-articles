@@ -14,7 +14,7 @@ tags:
 
 Charline Vanhoenacker a invité [Nicolas et Bruno][1], du Message à Caractère
 Informatif, pour [sa chronique][2] dans la matinale de France Inter. Au menu,
-comment la Cogip et Ranu s'adapte avec le télétravail dans la monde d'après.
+comment la Cogip et Ranu s'adapte avec le télétravail dans le monde d'après.
 
 [1]: https://twitter.com/NicolasetBruno
 [2]:
