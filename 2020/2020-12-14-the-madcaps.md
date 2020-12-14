@@ -10,8 +10,6 @@ tags:
   - The Madcaps
 ---
 
-# The Madcaps
-
 Que des musiciens créent, innovent, inventent, c’est essentiel. Mais ce n’est
 pas la seule bonne raison de composer de la musique. Perpétuer en est une autre.
 
@@ -35,8 +33,8 @@ concerts, on guettera l’opportunité de les voir sur scène. Réjouissante
 perspective du monde d’après, qu'on attendra en [mode VOD][6].
 
 Impossible de me souvenir comment j’ai fini par noter “écouter les Madcaps” sur
-un bout de papier numérique. Mais bon sang, ça prouve qu’il est bon de tout
-noter.
+un bout de papier numérique. Mais bon sang, ça prouve qu’il est bon de [prendre
+des notes][7].
 
 [1]: http://www.madcaps.fr/
 [2]: https://madmadcaps.bandcamp.com/album/the-madcaps
@@ -44,3 +42,6 @@ noter.
 [4]: https://madmadcaps.bandcamp.com/album/slow-down
 [5]: https://madmadcaps.bandcamp.com/track/i-knew-it-all
 [6]: https://youtu.be/9n49bmJWPdU
+[7]:
+  https://youtu.be/-L2FgUzGNvU?t=158
+  "M. Manatane vous rappelle de prendre des notes"
