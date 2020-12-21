@@ -18,7 +18,7 @@ C’est écrit sur leurs biographies, ça devient encore plus clair au premier c
 d’oreille, voire limpide quand ils concluent le titre _Crack Me Up_ par un
 “rainy day in June”. Ça part bien, poursuivons. Si on pourrait jurer qu’ils ont
 dû user des compilations Nuggets, ils citent plutôt Daptone Records comme
-référence — le label de Sharon Jones. Du garage rock matiné de soul ? J’y vais !
+référence — le label de Sharon Jones. Du garage rock matiné de soul ? J’y vais !
 Et après l’écoute de leurs 3 albums, [_The Madcaps_][2], [_Hot Sauce_][3] et
 [_Slow Down_][4], me voilà conquis.
 
