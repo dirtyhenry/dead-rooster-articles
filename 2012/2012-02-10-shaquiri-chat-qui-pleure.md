@@ -6,6 +6,7 @@ authors:
 wordpress_id: 994
 cover: bayern-munich-shakira-montage.png
 date: 2012-02-10 12:11:56 +0100
+category: Le monde va mal
 comments:
   - author: guiguilele
     author_email: ""
