@@ -10,10 +10,7 @@ authors:
 wordpress_id: 934
 cover: arrested-development.png
 date: 2011-10-20 17:24:42 +0200
-categories:
-  - Catégories
-tags:
-  - TV Show
+category: TV Show
 ---
 
 Une nouvelle saison et un film adapté d'_Arrested Development_ viennent d'être

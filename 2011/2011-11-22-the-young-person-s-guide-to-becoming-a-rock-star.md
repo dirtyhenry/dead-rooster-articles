@@ -10,10 +10,7 @@ authors:
 wordpress_id: 955
 cover: jocks-wa-hey.jpg
 date: 2011-11-22 23:34:06 +0100
-categories:
-  - Catégories
-tags:
-  - TV Show
+category: TV Show
 comments:
   - author: Jarko
     author_email: ""
