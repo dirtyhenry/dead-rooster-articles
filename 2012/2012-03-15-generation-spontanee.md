@@ -6,6 +6,7 @@ authors:
 wordpress_id: 1012
 cover: vanessa-paradie-ecole-des-fanss.png
 date: 2012-03-15 09:47:36 +0100
+category: Le monde va mal
 ---
 
 Bon… [Aurélie Cabrel](http://www.youtube.com/watch?v=RqdyuKRkUl8) passe encore…

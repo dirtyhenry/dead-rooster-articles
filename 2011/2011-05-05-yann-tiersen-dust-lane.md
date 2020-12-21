@@ -9,6 +9,10 @@ description: >
 authors:
   - Dirty Henry
 cover: yann-tiersen.jpg
+category: Review
+tags:
+  - Nestorisbianca
+  - Yann Tiersen
 wordpress_id: 837
 date: "2011-05-05 14:00:29 +0200"
 ---
