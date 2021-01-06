@@ -1,4 +1,5 @@
 ---
+lang: en
 layout: post
 title: Interpol is a 4th grade
 description:
@@ -17,8 +18,7 @@ Matthew Dear convinced us to wait for it from the bar, drinking expensive cheap
 beer. Five suited-up guys enter a foggy stage, something they may have learned
 when they were opening for U2 a few months ago. Three founding members of the
 band are still there : Paul Banks aka Julian Plenti, vocals, Daniel Kessler,
-guitars, and Sam Fogarino, drums[[alright, the very first drummer of the band
-was Greg Drudy, you're right]]. Farewell dear Carlos D., bass player and
+guitars, and Sam Fogarino, drums[^1]. Farewell dear Carlos D., bass player and
 [full-time candidate for the world most classy person position](http://www.google.fr/images?q=carlos+d+interpol).
 Less than one year ago, he was replaced on stage by Brandon Curtis (keyboards
 and backing vocals) and David Pajo (bass)… who's just announced he was off the
@@ -118,3 +118,5 @@ Deluxe 10-songs version :
 1. _Obstacle 1_
 
 Pictures : (c) Isatagada
+
+[^1]: alright, the very first drummer of the band was Greg Drudy, you're right.
