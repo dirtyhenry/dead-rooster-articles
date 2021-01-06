@@ -12,10 +12,9 @@ cover: disques-vinyles.png
 date: 2011-06-01 11:48:55 +0200
 ---
 
-Ma principale résolution pour 2011[[outre 1440x900 - élue meilleure blague de
-l'histoire]] est d'abandonner les CD au profit des disques vinyles, et de me les
-procurer au plus près des artistes dans la chaîne de distribution. Pourquoi ?
-Parce que !
+Ma principale résolution pour 2011[^1] est d'abandonner les CD au profit des
+disques vinyles, et de me les procurer au plus près des artistes dans la chaîne
+de distribution. Pourquoi ? Parce que !
 
 La dématérialisation de la musique, via le MP3 ou le streaming, c'est bien.
 C'est bien pour les auditeurs. C'est bien pour les musiciens. C'est peut-être
@@ -82,3 +81,5 @@ pas de votre gueule au niveau de ses tarifs.
 En plus, avoir un vinyle sous le bras, ça donne
 [un air chic et snob](http://comedysmack.com/wp-content/uploads/RecordHipster.jpg).
 Trop cool.
+
+[^1]: Outre 1440 × 900 - élue meilleure blague de l'histoire

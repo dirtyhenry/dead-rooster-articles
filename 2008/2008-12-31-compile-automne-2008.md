@@ -16,7 +16,7 @@ tags:
 cover: compile-automne-2008.jpg
 ---
 
-1. The Ronettes - _Be My Baby_[[version live uniquement]]
+1. The Ronettes - _Be My Baby_ (version live uniquement)
 1. The Coral - _Pass It On_
 1. Oasis - _The Shock of the Lightning_
 1. The Raconteurs - _Salute Your Solution_
@@ -25,9 +25,9 @@ cover: compile-automne-2008.jpg
 1. David McWilliams - _Days of Pearly Spencer_
 1. She & Him - _I Thought I Saw Your Face Today_
 1. Get Well Soon - _Prelude_
-1. The Rolling Stones - _I'm Free_[[version live uniquement]]
+1. The Rolling Stones - _I'm Free_ (version live uniquement)
 1. The Kings of Leon - _Sex on Fire_
-1. Oasis - _I'm Outta Time_[[version "tribute" uniquement]]
+1. Oasis - _I'm Outta Time_ (version "tribute" uniquement)
 1. Sigur Rós - _Vid Spilum Endalaus_
 1. Get Well Soon - _If This Hat Is Missing I Have Gone Hunting_
 1. Serge Gainsbourg - _Initials B.B._
