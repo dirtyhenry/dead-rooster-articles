@@ -1,22 +1,21 @@
 ---
 layout: post
 title: Deerhunter - Halcyon Digest
-description:
-  "Je sais désormais que faire [le top 2010](747) n'aura pas été vain : il m'a
-  incité à réécouter {Halcyon Digest}, le 4ème album de {{Deerhunter}}, sorti
-  cette année."
+description: >-
+  Je sais désormais que faire le top 2010 n'aura pas été vain : il m'a incité à
+  réécouter *Halcyon Digest*, le 4ème album de **Deerhunter**, sorti cette
+  année.
 authors:
   - Dirty Henry
 wordpress_id: 770
 cover: deerhunter-halcyon-digest.jpg
 date: 2011-02-02 22:46:44 +0100
-categories:
-  - Catégories
-  - Artistes
+category: Album
 tags:
-  - Albums
   - Blur
+  - Deerhunter
   - R.E.M.
+  - The Shins
 ---
 
 Je sais désormais que faire [le top 2010][i747] n'aura pas été vain : il m'a
@@ -40,7 +39,8 @@ sur un bateau dérivant sur une mer d'huile), _Basement Scene_ ou _Helicopter_ (
 ne pas confondre avec le titre de Bloc Party, jadis [merveilleusement repris par
 les Hooray Henrys][1], il est toujours bon de le rappeler).
 
-{% youtube 1mBSOtdOjoc %}
+{% comment %} Deerhunter - Desire Lines (Live on the Interface) {% endcomment %}
+{% youtube aW2jOA6uIaM %}
 
 Quant à _Desire Lines_, c'est selon moi le meilleur morceau de l'album. Il s'y
 trouve en plein milieu et lui sert de pierre angulaire, synthétisant en une
@@ -49,19 +49,16 @@ morceau dans un climat dont la seconde moitié parviendra à démontrer la beaut
 Ce final me fait penser à Pixies reprenant le motif d'orgue du _Mine's not a
 high horse_ des Shins, ou bien encore au Blur de morceaux de leurs deux premiers
 album (du genre _Sing_, _Oily Water_ ou _Resigned_, pas les plus connus certes,
-mais pas les plus mauvais). Bref, un morceau qui rappelle
-Pixies[[http://www.facebook.com/group.php?gid=2204643785]], les Shins et Blur,
-personnellement, ça me va bien.
+mais pas les plus mauvais). Bref, un morceau qui rappelle Pixies, les Shins et
+Blur, personnellement, ça me va bien.
 
 Pendant que j'en suis à parler des groupes auxquels me fait penser Deerhunter,
 revenons sur _Revival_, qui me rappelle à chaque fois _Near Wild Heaven_ de
 R.E.M. La transition est idéale pour annoncer que le groupe vient des
 Etats-Unis, et plus précisément de la ville d'Atlanta, dans l'état de Géorgie…
-le même que R.E.M [[c'est bizarre à écrire "que R.E.M."… phonétiquement on
-dirait plutôt "qu'R.E.M."… mais c'est pas correct… ou alors faudrait dire
-"qu'Erreuhem"]]. Quant à la composition du groupe, il s'agit d'un quatuor ayant
-pour leader un certain Bradford Cox, que nos grands-parents qualifieraient de
-dégénéré de premier ordre.
+le même que R.E.M[^1]. Quant à la composition du groupe, il s'agit d'un quatuor
+ayant pour leader un certain Bradford Cox, que nos grands-parents qualifieraient
+de dégénéré de premier ordre.
 
 Cox est né à Athens et souffre du syndrome de Marfan qui dès l'âge de dix and
 lui donna une allure bizarre (ses propres mots en V.O. sont "looking awkward"),
@@ -83,7 +80,7 @@ longues heures alors vous pouvez me faire confiance.
 
 _Near Wild Heaven_ par R.E.M. :
 
-{% youtube DBK_B6m0_tY %}
+{% youtube oC7er_6dpsI %}
 
 _Oily Water_ par Blur :
 
@@ -100,3 +97,7 @@ _Mine's Not A High Horse_ des Shins :
 [1]: https://soundcloud.com/hooray-henrys/helicopter-bloc-party-cover
 
 [i747]: {% post_url 2011/2011-01-11-top-musique-2010 %}
+
+[^1]:
+    C'est bizarre à écrire "que R.E.M."… Phonétiquement on dirait plutôt
+    "qu'R.E.M."… Mais c'est pas correct… Ou alors faudrait dire "qu'Erreuhem".
