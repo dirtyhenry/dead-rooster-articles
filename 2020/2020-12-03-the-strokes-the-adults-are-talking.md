@@ -3,6 +3,8 @@ layout: post
 title: The Strokes - The Adults Are Talking
 author: Dirty Henry
 category: Chanson du jour
+excerpt: >-
+  Un clip bien fun signé Roman Coppola pour le groupe new-yorkais.
 tags:
   - The Strokes
   - Roman Coppola
