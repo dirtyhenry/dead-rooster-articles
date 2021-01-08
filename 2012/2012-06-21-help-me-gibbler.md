@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Help-me Gibbler
+title: Help me Gibbler
 authors:
   - Dirty Henry
 wordpress_id: 1057
