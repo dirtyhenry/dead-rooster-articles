@@ -25,4 +25,4 @@ C'est en anglais, mais voici [le texte et ses annotations][1].
 
 [^1]:
     La preuve ? Un post de ce blog datant de 2012 s'appelle [*Help me
-    Gibbler*]({% 2012/2012-06-21-help-me-gibbler %}).
+    Gibbler*]({% post_url 2012/2012-06-21-help-me-gibbler %}).
