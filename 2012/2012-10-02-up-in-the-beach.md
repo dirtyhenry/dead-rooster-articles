@@ -6,6 +6,9 @@ authors:
 wordpress_id: 1121
 cover: stuart-pete-beatles-montage.png
 date: 2012-10-02 22:41:39 +0200
+category: Le monde va mal
+tags:
+  - The Beach Boys
 ---
 
 [Mike Love a décidé de virer Brian Wilson des Beach Boys](http://pitchfork.com/news/48008-beach-boys-mike-love-kicks-brian-wilson-al-jardine-and-david-marks-out-of-the-band/).

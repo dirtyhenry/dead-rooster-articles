@@ -16,6 +16,7 @@ categories:
   - Artistes
 tags:
   - Dale Earnhardt Jr. Jr.
+  - The Beach Boys
 ---
 
 Au programme cette semaine, quelques stars (**Black Rebel Motorcycle Club**,
