@@ -17,6 +17,7 @@ tags:
   - Single
   - MP3
   - Fleet Foxes
+  - The Beach Boys
 ---
 
 Une sélection des meilleurs MP3 légalement disponibles au téléchargement des
@@ -24,7 +25,7 @@ dernières semaines. Au programme cette semaine, beaucoup de VIP : **Pixies**,
 **Weezer** et **Beach Boys**. Pour les distraits, Robin Peckhold est le chanteur
 des [Fleet Foxes][i213].
 
-A noter que sur le lien des Beach Boys, vous trouverez un LP pirate complet :
+À noter que sur le lien des Beach Boys, vous trouverez un LP pirate complet :
 _The Beach Boys meets Grateful Dead_. Assez cool.
 
 Noter aussi que l'EP de **Guards** est téléchargeable intégralement et
