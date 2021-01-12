@@ -6,10 +6,7 @@ authors:
 wordpress_id: 534
 cover: pauline-a-la-plage.jpg
 date: 2009-10-06 22:08:36 +0200
-categories:
-  - Catégories
-tags:
-  - Cinéma
+category: Ciné-Club moi j'vous dis
 ---
 
 _Casablanca_, œuvre magistrale ! _Le Cuirassé Potemkine_, n'en parlons même

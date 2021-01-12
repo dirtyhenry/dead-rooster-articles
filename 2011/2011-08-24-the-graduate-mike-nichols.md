@@ -10,18 +10,14 @@ authors:
 wordpress_id: 889
 cover: the-graduate-dustin-hoffman.jpg
 date: 2011-08-24 20:52:14 +0200
-categories:
-  - Catégories
-  - Artistes
+category: Ciné-Club moi j'vous dis
 tags:
-  - Cinéma
   - Dustin Hoffman
   - Mike Nichols
   - Simon & Garfunkel
-  - Ciné-Club moi j’vous dis
 ---
 
-## _Le Lauréat_ (_The Graduate_), de Mike Nichols (1967)
+# _Le Lauréat_ (_The Graduate_), de Mike Nichols (1967)
 
 Benjamin Braddock vient d'être diplômé. Ses parents et leurs amis sont tous très
 contents et s'interrogent maintenant sur la suite : "tu es si brillant Benjamin,
@@ -70,7 +66,7 @@ _Le Lauréat_ sera un succès considérable, accumulant une jolie collection de
 nominations aux Oscars, Nichols remportant celui de meilleur réalisateur et
 faisant de ses acteurs des stars, Dustin Hoffman en tête, bien sûr.
 
-**{La musique qui va avec**}
+## La musique qui va avec
 
 Dans sa première partie, _Le Lauréat_ séduit car c'est vraiment très drôle. Dans
 sa seconde partie, _Le Lauréat_ séduit car le drame qui se joue nous tient à
@@ -83,7 +79,7 @@ charts, porté par les trois titres devenus depuis des standards
 [_The Sound of Silence_](http://www.youtube.com/watch?v=eZGWQauQOAQ) et
 [_Scarborough Fair_](http://www.youtube.com/watch?v=nWu6ney5hYQ).
 
-**{La suite ?**}
+## La suite ?
 
 - Mike Nichols a mis la tête dans le seau et a eu du mal à faire aussi bien,
 - Charles Webb a publié la suite de ce premier roman en 2007 : ça s'appelle

@@ -9,16 +9,12 @@ authors:
 wordpress_id: 866
 cover: cluny-brown.jpg
 date: 2011-07-05 09:50:00 +0200
-categories:
-  - Catégories
-tags:
-  - Cinéma
-  - Ciné-Club moi j’vous dis
+category: Ciné-Club moi j'vous dis
 ---
 
-{**Catégorie "Vieux Films à voir en DVD"**}
+## Catégorie "Vieux Films à voir en DVD"
 
-## _La Folle Ingénue/Cluny Brown_ - Ernst Lubitsch
+### _La Folle Ingénue/Cluny Brown_ - Ernst Lubitsch
 
 Cluny Brown est une fille un peu fofolle, pleine de vie mais qui ne se conforme
 pas assez aux règles de la bienséance de l'Angleterre de la fin des années 30.
@@ -56,7 +52,7 @@ des gens pour bloquer l'intégration des vidéos sur les pages web. Les ringards
 
 ---
 
-## _La Chambre du fils_ (_La stanza del figlio_) - Nanni Moretti
+### _La Chambre du fils_ (_La stanza del figlio_) - Nanni Moretti
 
 Nous sommes à Ancône. Une chouette famille avec 2 enfants (un garçon et une
 fille qui ne s'appellent ni Bud, ni Kelly) coule des jours heureux. Sauf qu'un
@@ -86,9 +82,9 @@ La musique qui va avec : _By This River_ de Brian Eno
 
 ---
 
-**{Catégorie "à voir au ciné mais faut se dépêcher"**}
+## Catégorie "à voir au ciné mais faut se dépêcher"
 
-## _Ni à vendre/Ni à louer_ - Pascal Rabaté
+### _Ni à vendre/Ni à louer_ - Pascal Rabaté
 
 Un week-end sur le littoral de la Loire Atlantique, avec une flopée de
 personnages loufoques et cocasses, deux mots qu'on n'a que trop rarement

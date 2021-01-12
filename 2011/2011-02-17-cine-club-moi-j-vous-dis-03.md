@@ -7,8 +7,7 @@ authors:
 wordpress_id: 784
 cover: fantomas.jpg
 date: 2011-02-17 22:49:54 +0100
-categories:
-  - Ciné-Club moi j’vous dis
+category: Ciné-Club moi j'vous dis
 ---
 
 ## Catégorie "Vieux Films à voir en DVD"

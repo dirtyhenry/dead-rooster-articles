@@ -9,11 +9,7 @@ authors:
 wordpress_id: 798
 cover: the-king-speech.jpg
 date: 2011-03-15 12:32:14 +0100
-categories:
-  - Catégories
-tags:
-  - Cinéma
-  - Ciné-Club moi j’vous dis
+category: Ciné-Club moi j'vous dis
 comments:
   - author: Jo
     author_email: ""
