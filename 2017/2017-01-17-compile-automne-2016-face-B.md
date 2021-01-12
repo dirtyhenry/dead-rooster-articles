@@ -98,11 +98,10 @@ oreilles vers [_Un Hiver 2017_][hiver-2017] !
 1. The O'Jays - _Love Train_
 
 [^1]:
-
-et là, Dirty aurait répliqué : "En fait, on a qu'à dire qu'on peut aussi y
-mettre des chansons découvertes ou redécouvertes ailleurs. Spotify ne sera qu'un
-canal parmi d'autres". Mais Joe n'a pas retenu ça, et lui, il n'a pris que des
-morceaux de la playlist hebdomadaire. 😀
+    et là, Dirty aurait répliqué : "En fait, on a qu'à dire qu'on peut aussi y
+    mettre des chansons découvertes ou redécouvertes ailleurs. Spotify ne sera
+    qu'un canal parmi d'autres". Mais Joe n'a pas retenu ça, et lui, il n'a pris
+    que des morceaux de la playlist hebdomadaire. 😀
 
 [chiant]: https://youtu.be/SbZL91_Kvi0
 
