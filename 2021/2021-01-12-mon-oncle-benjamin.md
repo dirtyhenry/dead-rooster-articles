@@ -3,11 +3,11 @@ layout: post
 title: Mon Oncle Benjamin
 author: Dirty Henry
 cover: mon-oncle-benjamin.jpg
-category: Ciné-club moi j'vous dis
+category: Ciné-Club moi j'vous dis
 excerpt: >-
   Le film de 1969, adapté d'un roman de 1843, ne se laisse vraiment apprécier
-  qu'une fois mis de côté les appréhensions levées par les 50 années
-  d'évolutions des mœurs qui l'ont suivi. Enquête de remise en contexte.
+  qu'une fois mis de côté les appréhensions levées par les 50 années d'évolution
+  des mœurs qui l'ont suivi. Enquête de remise en contexte.
 tags:
   - Claude Tillier
   - Georges Brassens
@@ -32,18 +32,18 @@ résume d’un “Vache, c’est daté”. Est-ce justice ?
 ## 1843, le bouquin
 
 Pas lu le bouquin, mais Georges Brassens ne tarit pas d’éloges à son sujet. En
-1967, dans l’émission _Les Livres de ma vie_, accompagné de son copain René
-Fallet[^1], [il déclairait][3] ainsi :
+1967, dans l’émission _Bibliothèque de poche_, accompagné de son copain René
+Fallet[^1], [il déclarait][3] ainsi :
 
 <audio controls>
   <source src="/assets/audio/brassens-fallet-mon-oncle-benjamin.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
-> — Brassens : Je pense que les auteurs que je relis le plus souvent sont, en
+> — **Brassens** : Je pense que les auteurs que je relis le plus souvent, en
 > premier lieu, c’est Voltaire. Et après Voltaire, immédiatement Claude Tillier,
 > mon vieil oncle Benjamin.  
-> — Fallet : Que tu m’as fait lire.  
+> — **Fallet** : Que tu m’as fait lire.  
 > — Oui, je te l’ai fait lire, d’autres me l’avaient fait lire, c’est comme ça.
 > Claude Tillier, d’ailleurs, n’est pas très connu, c’est bien dommage, parce
 > que c’est un des plus grands écrivains, un écrivain voltairien. C’est sous le
@@ -107,33 +107,34 @@ Interrogé sur la modernité de _Mon Oncle Benjamin_, Molinaro répond alors :
 Dans [_Le Grand Entretien_ d’Edouard Molinaro][9][^2], en octobre 2011, François
 Busnel l'interroge sur ses motivations :
 
-> — Busnel : le plus beau film de votre carrière, si vous me permettez, l’un des
-> plus beaux du cinéma français, avec Jacques Brel, au plus haut de sa forme,
-> Bernard Blier, la superbe Claude Jade, mais aussi Rosy Varte, Paul Préboist,
-> et ce film c’est _Mon Oncle Benjamin_. Comment avez-vous retrouvé, dégoté, ce
-> texte, absolument méconnu d’un très grand écrivain du XIXè siècle qui
-> s’appelle Claude Tillier ?  
-> — Molinaro : Claude Tillier était surtout un pamphlétaire, il a écrit quelques
-> articles, quelques poèmes et deux romans, si je me rappelle bien, dont _Mon
-> Oncle Benjamin_, qui n’a pas eu beaucoup de succès en France à sa sortie, qui
-> a été révélé par les Allemands je crois. (...) _Mon Oncle Benjamin_ est un
-> film pré-révolutionnaire si j'ose dire, libertaire et libertin (...) et c'est
-> Jacques Brel, quand je lui ai proposé ce texte, qui a imposé le film.
+> — **Busnel** : le plus beau film de votre carrière, si vous me permettez, l’un
+> des plus beaux du cinéma français, avec Jacques Brel, au plus haut de sa
+> forme, Bernard Blier, la superbe Claude Jade, mais aussi Rosy Varte, Paul
+> Préboist, et ce film c’est _Mon Oncle Benjamin_. Comment avez-vous retrouvé,
+> dégoté, ce texte, absolument méconnu d’un très grand écrivain du XIXè siècle
+> qui s’appelle Claude Tillier ?  
+> — **Molinaro** : Claude Tillier était surtout un pamphlétaire, il a écrit
+> quelques articles, quelques poèmes et deux romans, si je me rappelle bien,
+> dont _Mon Oncle Benjamin_, qui n’a pas eu beaucoup de succès en France à sa
+> sortie, qui a été révélé par les Allemands je crois. (...) _Mon Oncle
+> Benjamin_ est un film pré-révolutionnaire si j'ose dire, libertaire et
+> libertin (...) et c'est Jacques Brel, quand je lui ai proposé ce texte, qui a
+> imposé le film.
 
-Jacques Brel qui, lui donc disait :
+Jacques Brel qui par ailleurs disait :
 
-> — J’ai la faiblesse de croire que c’est un grand livre _Mon Oncle Benjamin_.
+> J’ai la faiblesse de croire que c’est un grand livre _Mon Oncle Benjamin_.
 > C’est plein de vigueur, y’a une espèce de forme d’amour asssez insolite mais
 > c’est assez noble, j’aime bien ça.
 
 Au final, ainsi contextualisé, on peut s'abandonner à apprécier le film, qui
 nous parle d'avant, et une des dernières scènes — je n'ai pas pu trouver
-quiconque la commentant sur Internet dans mes maigres recherches - nous conforte
+quiconque la commentant sur Internet dans mes maigres recherches — nous conforte
 dans cette idée. Lors du dernier dîner de Minxit, celui-ci convie tous ses bons
 copains et copines, et son œil s'attarde sur celui, particulièrement humide de
 Parlenta (Paul Préboist), zoom à l'appui. Impossible de ne pas penser que ce
-gimmick, visible que pour ceux qui ont l'envie de le voir, puisse évoquer une
-possible relation intime entre ses deux-là.
+gimmick, visible que pour ceux qui ont envie de le voir, puisse évoquer une
+possible relation intime entre ces deux-là.
 
 Bref, il vous faudra passer outre 50 années d'évolution des mœurs pour apprécier
 le film, mais il est malgré tout vivement recommandé.

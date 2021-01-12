@@ -5,7 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 286
 date: "2006-03-21 22:26:00 +0100"
-category: Ciné-club moi j'vous dis
+category: Ciné-Club moi j'vous dis
 tags:
   - Julie Depardieu
   - Pierre-François Martin-Laval

@@ -119,11 +119,9 @@ Merci Internet !
 [cry3]: https://deadspin.com/5313572/dear-pixar-stop-making-me-cry-like-a-bitch
 
 [^spykids]:
-
-Ah ça, si les mecs étaient meilleurs en jeux de mots, ils bosseraient à Libé
-plutôt que pour une compagnie aérienne.
+    Ah ça, si les mecs étaient meilleurs en jeux de mots, ils bosseraient à Libé
+    plutôt que pour une compagnie aérienne.
 
 [^dejavu]:
-
-Visionner malin : un film déjà vu aide à faire sauter les critères _pauvre en
-dialogues_ et _cousu de fil blanc_.
+    Visionner malin : un film déjà vu aide à faire sauter les critères _pauvre
+    en dialogues_ et _cousu de fil blanc_.
