@@ -18,7 +18,7 @@ méconnue soirée des Cacas d'Or, jadis publié dans le journal Le Reuveu.
 
 ---
 
-**{Rendons aux Cacas d’Or ce qui appartient aux Cacas d’Or !**}
+## Rendons aux Cacas d’Or ce qui appartient aux Cacas d’Or !
 
 Le cinéma a sa cérémonie des Césars, le théâtre ses Molières, la musique ses
 Victoires, autant de prétextes à de délicieuses soirées où le gratin des

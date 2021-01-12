@@ -9,16 +9,12 @@ authors:
 wordpress_id: 824
 cover: chez-gino.jpg
 date: 2011-04-12 12:25:15 +0200
-categories:
-  - Catégories
-tags:
-  - Cinéma
-  - Ciné-Club moi j’vous dis
+category: Ciné-Club moi j'vous dis
 ---
 
-{**Catégorie "Vieux Films à voir en DVD"**}
+## Catégorie "Vieux Films à voir en DVD"
 
-## _Rusty James/Rumble Fish_ - Francis Ford Coppola
+### _Rusty James/Rumble Fish_ - Francis Ford Coppola
 
 Rusty James (Matt Dillon) est un jeune loulou qui se la raconte un petit peu,
 tout ça parce que son grand frère, Motorcycle Boy (Mickey Rourke), était un peu
@@ -53,7 +49,7 @@ La musique qui va avec : la musique de Double Dragon
 
 {% vimeo x8776u %}
 
-## _Personnel et Confidentiel/Up Close & Personal_ - Jon Avnet
+### _Personnel et Confidentiel/Up Close & Personal_ - Jon Avnet
 
 Michelle Pfeiffer veut faire de la télé alors elle se fait un CV bidon et
 convainc Robert Redford de l'embaucher. Robert fait de Michelle une star tandis
@@ -68,9 +64,9 @@ sur ma liste de films à voir, mais je dis crotte à celui qui en est le
 responsable. Ceci dit, ce film a une grande vertu : il permet de ne pas
 regretter les années 90.
 
-**{Catégorie "à voir au ciné mais faut se dépêcher"**}
+## Catégorie "à voir au ciné mais faut se dépêcher"
 
-## _Chez Gino_ - Samuel Benchetrit
+### _Chez Gino_ - Samuel Benchetrit
 
 Je persiste et signe : voici mon coup de coeur inattendu du mois et l'un des
 films français les plus drôles depuis longtemps.
@@ -103,7 +99,7 @@ hommage au cinéma, façon [DIY](http://fr.wikipedia.org/wiki/Do_it_yourself).
 
 {% youtube 5VTQzQhW4bg %}
 
-## _The Fighter_ - David O. Russell
+### _The Fighter_ - David O. Russell
 
 Le film adapte l'histoire vraie de la demie-fratrie de boxeurs Micky Ward/Dicky
 Eklund. Le plus jeune Micky, prometteur mais qui n'arrive pas à s'imposer, vit
@@ -126,7 +122,7 @@ les solos de saxo). Du coup, les Breeders gagnent.
 
 {% youtube Bt5MWCwFhCI %}
 
-## _L'étrange affaire Angelica_ - Manoel de Oliveira
+### _L'étrange affaire Angelica_ - Manoel de Oliveira
 
 Séance "Coup de gueule" dédicacée à Joe Gantdelaine.
 
@@ -155,7 +151,7 @@ Zazou chante ici parfaitement ce que j'ai ressenti dans la salle :
 
 {% youtube DomEwrZb3j8 %}
 
-## Les autres
+### Les autres
 
 - _Les femmes du 6ème étage_ - Philippe Le Guay : cousu de fil blanc mais ça
   reste un chouette film du dimanche soir.

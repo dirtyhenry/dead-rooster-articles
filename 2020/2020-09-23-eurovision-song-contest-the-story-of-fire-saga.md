@@ -4,7 +4,7 @@ title: "Eurovision Song Contest: The Story of Fire Saga"
 authors:
   - Dirty Henry
 cover: eurovision-song-contest-the-story-of-fire-saga.jpg
-category: Ciné club moi j'vous dis
+category: Ciné-Club moi j'vous dis
 ---
 
 Will Ferrell fait un film sur l’Eurovision ? Il m’aura fallu presque 3 mois pour
