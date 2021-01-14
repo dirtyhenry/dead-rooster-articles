@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The Graduate - Mike Nichols
-description:
-  Cette semaine, c'est {Le Lauréat} ({The Graduate}), de Mike Nichols, avec
-  Dustin Hoffman qui devient un homme pendant que Simon & Garfunkel jouent de la
+excerpt: >-
+  Causons de _Le Lauréat_ (_The Graduate_), de Mike Nichols (1967), avec Dustin
+  Hoffman qui devient un homme pendant que Simon & Garfunkel jouent de la
   guitare.
 authors:
   - Dirty Henry
@@ -12,24 +12,24 @@ cover: the-graduate-dustin-hoffman.jpg
 date: 2011-08-24 20:52:14 +0200
 category: Ciné-Club moi j'vous dis
 tags:
+  - Anne Bancroft
   - Dustin Hoffman
+  - Mel Brooks
   - Mike Nichols
+  - Robert Redford
   - Simon & Garfunkel
+  - The Lemonheads
 ---
-
-# _Le Lauréat_ (_The Graduate_), de Mike Nichols (1967)
 
 Benjamin Braddock vient d'être diplômé. Ses parents et leurs amis sont tous très
 contents et s'interrogent maintenant sur la suite : "tu es si brillant Benjamin,
-que veux-tu faire maintenant ?
-[Du plastique ?](http://www.youtube.com/watch?v=PSxihhBzCjk)". Le problème de
-Benjamin, c'est qu'il n'en a aucune idée. Parmi les convives de la fête qui lui
-est consacrée se trouve Mrs. Robinson, la femme d'un ami proche de Papa
-Braddock, alcoolique et [cougar](<http://fr.wikipedia.org/wiki/Cougar_(femme)>)
-dans son temps-libre. Benjamin se laisse séduire par les avances de la dame et
-se met à glander sévère, au grand dam de ses parents qui, ne sachant rien de la
-relation liant leur fils et leur amie, insistent pour qu'il rencontre la fille
-de celle-ci, Elaine.
+que veux-tu faire maintenant ? [Du plastique ?][1]". Le problème de Benjamin,
+c'est qu'il n'en a aucune idée. Parmi les convives de la fête qui lui est
+consacrée se trouve Mrs. Robinson, la femme d'un ami proche de Papa Braddock,
+alcoolique et [cougar][2] dans son temps-libre. Benjamin se laisse séduire par
+les avances de la dame et se met à glander sévère, au grand dam de ses parents
+qui, ne sachant rien de la relation liant leur fils et leur amie, insistent pour
+qu'il rencontre la fille de celle-ci, Elaine.
 
 {% youtube -3lKbMBab18 %}
 
@@ -74,20 +74,24 @@ cœur car on est devenus très copains avec Benjamin. Sur toute la durée du fil
 _Le Lauréat_ séduit par sa bande-son, signée Simon & Garfunkel.
 
 La B.O. du film détrônera d'ailleurs le _White Album_ des Beatles du sommet des
-charts, porté par les trois titres devenus depuis des standards
-[_Mrs. Robinson_](http://www.youtube.com/watch?v=mDrTCqXZrTQ),
-[_The Sound of Silence_](http://www.youtube.com/watch?v=eZGWQauQOAQ) et
-[_Scarborough Fair_](http://www.youtube.com/watch?v=nWu6ney5hYQ).
+charts, porté par les trois titres devenus depuis des standards [_Mrs.
+Robinson_][3], [_The Sound of Silence_][4] et [_Scarborough Fair_][5].
 
 ## La suite ?
 
 - Mike Nichols a mis la tête dans le seau et a eu du mal à faire aussi bien,
 - Charles Webb a publié la suite de ce premier roman en 2007 : ça s'appelle
   _Home School_, et il paraît que c'est un peu nul
-- [The Lemonheads ont repris _Mrs. Robinson_](http://www.youtube.com/watch?v=4DvK6VTG67U)
-  dans les années 90
-- Dustin Hoffman et Robert Redford ont fini copains comme cochons,
-  [finissent ensemble sur des tee-shirts](http://www.comboutique.com/shop/t_shirt_impression-tee_peter__steven-2620-47423.html)
-  et tournent des films ensemble :
+- [The Lemonheads ont repris _Mrs. Robinson_][6] dans les années 90
+- Dustin Hoffman et Robert Redford ont fini copains comme cochons, [finissent
+  ensemble sur des tee-shirts][7] et tournent des films ensemble :
 
 {% youtube hVytko7quO4 %}
+
+[1]: https://www.youtube.com/watch?v=PSxihhBzCjk
+[2]: https://fr.wikipedia.org/wiki/Cougar_(femme)
+[3]: https://www.youtube.com/watch?v=mDrTCqXZrTQ
+[4]: https://www.youtube.com/watch?v=eZGWQauQOAQ
+[5]: https://www.youtube.com/watch?v=nWu6ney5hYQ
+[6]: https://www.youtube.com/watch?v=4DvK6VTG67U
+[7]: https://www.t-s.fr/contents/t-shirt-peter-et-steven_505_0_0.html
