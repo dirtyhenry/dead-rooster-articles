@@ -11,10 +11,9 @@ authors:
 wordpress_id: 857
 cover: fresh-and-onlys-play-it-strange.jpg
 date: 2011-06-28 12:28:53 +0200
-categories:
-  - Catégories
+category: Review
 tags:
-  - Albums
+  - The Fresh & Onlys
 comments:
   - author: Joe Gantdelaine
     author_email: ""

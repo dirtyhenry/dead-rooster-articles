@@ -9,13 +9,10 @@ authors:
 wordpress_id: 706
 cover: web-compile-3.png
 date: 2010-09-27 12:00:00 +0200
-categories:
-  - Catégories
-  - Artistes
+category: Compile Web
 tags:
-  - Single
-  - MP3
   - The Raveonettes
+  - The Fresh & Onlys
 ---
 
 Au programme cette semaine, on en remet une couche avec la reprise de _I Wanna

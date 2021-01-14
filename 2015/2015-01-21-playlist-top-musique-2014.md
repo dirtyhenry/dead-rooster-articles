@@ -3,9 +3,9 @@ layout: post
 title: "La Playlist du Top Musique 2014"
 authors:
   - Dirty Henry
+category: Top
 tags:
-  - musique
-  - top
+  - The Fresh & Onlys
 cover: top-musique-2014.png
 cover_alt: Le podium, celui des champions
 description: >
