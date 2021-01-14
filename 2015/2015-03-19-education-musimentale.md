@@ -11,6 +11,8 @@ description: >
   Joe Gantdelaine vous présente sa famille musicale. Il en est fier souvent et
   honteux parfois.
 lead-paragraph: true
+tags:
+  - The Fresh & Onlys
 ---
 
 Dans la vie, la famille, les amis, nos connaissances, tout ça, ça évolue bon gré

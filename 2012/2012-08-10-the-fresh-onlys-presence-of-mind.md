@@ -3,8 +3,12 @@ layout: post
 title: The Fresh & Onlys - Presence Of Mind
 authors:
   - Dirty Henry
+  - Joe Gantdelaine
 wordpress_id: 1089
 date: 2012-08-10 08:00:00 +0200
+category: Chanson du jour
+tags:
+  - The Fresh & Onlys
 ---
 
 {% youtube 9YzkHYZyErA %}

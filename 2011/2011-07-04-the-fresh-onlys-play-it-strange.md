@@ -1,4 +1,5 @@
 ---
+lang: en
 layout: post
 title: The Fresh & Onlys - Play It Strange
 description:
@@ -11,10 +12,9 @@ authors:
 wordpress_id: 867
 cover: fresh-and-onlys-play-it-strange.jpg
 date: 2011-07-04 19:51:41 +0200
-categories:
-  - Catégories
+category: Review
 tags:
-  - Albums
+  - The Fresh & Onlys
 ---
 
 One month ago, Dead Rooster was in Barcelona for the Primavera Festival. This
