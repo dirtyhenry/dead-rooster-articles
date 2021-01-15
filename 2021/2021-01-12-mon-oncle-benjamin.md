@@ -137,7 +137,8 @@ gimmick, visible que pour ceux qui ont envie de le voir, puisse évoquer une
 possible relation intime entre ces deux-là.
 
 Bref, il vous faudra passer outre 50 années d'évolution des mœurs pour apprécier
-le film, mais il est malgré tout vivement recommandé.
+le film, mais il est malgré tout vivement recommandé. C'est le Joey Tribbiani
+des films : il vous [embarassera souvent][11] mais il a un cœur gros comme ça.
 
 {% comment %}
 [My Uncle Benjamin (1969) — The Movie Database (TMDb)](https://www.themoviedb.org/movie/2373-mon-oncle-benjamin)
@@ -163,3 +164,4 @@ le film, mais il est malgré tout vivement recommandé.
 [9]:
   https://www.franceinter.fr/emissions/le-grand-entretien/le-grand-entretien-19-octobre-2011
 [10]: https://www.babelio.com/livres/Fallet-Paris-au-mois-daout/21905
+[11]: https://youtu.be/tj219mX6Bx8
