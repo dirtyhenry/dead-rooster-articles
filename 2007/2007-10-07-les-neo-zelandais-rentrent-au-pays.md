@@ -5,6 +5,7 @@ authors:
   - Joe Gantdelaine
 wordpress_id: 406
 date: "2007-10-07 12:06:00 +0200"
+category: Le monde va mal
 cover: haka.jpg
 ---
 

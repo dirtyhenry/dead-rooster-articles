@@ -6,6 +6,7 @@ authors:
 wordpress_id: 1188
 cover: philippe-risoli-2.jpg
 date: 2013-03-04 18:57:24 +0100
+category: Le monde va mal
 ---
 
 Ce soir, sur France 2, on pourra voir le quatrième épisode de la série
