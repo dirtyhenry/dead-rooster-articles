@@ -5,8 +5,7 @@ authors:
   - Joe Gantdelaine
 wordpress_id: 476
 date: "2008-10-20 21:20:00 +0200"
-categories:
-  - Artistes
+category: Le monde va mal
 tags:
   - The Black Keys
   - The Datsuns

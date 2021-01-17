@@ -5,8 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 367
 date: "2007-03-16 12:41:00 +0100"
-categories:
-  - Catégories
+category: Le monde va mal
 tags:
   - Foot
 cover: clubs-francais-coupe-europe.png

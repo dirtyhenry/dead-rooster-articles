@@ -6,6 +6,7 @@ authors:
 wordpress_id: 890
 cover: bernard-lenoir.jpg
 date: 2011-08-26 14:58:27 +0200
+category: Le monde va mal
 ---
 
 Par un gentil mail envoyé à ses auditeurs, Bernard Lenoir a annoncé qu'il

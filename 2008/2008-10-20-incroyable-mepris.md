@@ -6,6 +6,7 @@ authors:
 wordpress_id: 475
 date: "2008-10-20 21:10:00 +0200"
 cover: compagnie-creole.jpg
+category: Le monde va mal
 ---
 
 Lors du dernier épisode d'Incroyable Talent, l'Homme le plus Fort de France a
