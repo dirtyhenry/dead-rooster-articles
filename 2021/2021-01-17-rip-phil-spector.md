@@ -3,6 +3,9 @@ layout: post
 title: RIP Phil Spector
 author: Dirty Henry
 category: Le monde va mal
+excerpt: >-
+  Phil Spector est mort. Un gros mois après Chuck Yeager. Les murs du son se
+  retrouvent orphelins. Le monde va mal !
 tags:
   - Phil Spector
 ---
