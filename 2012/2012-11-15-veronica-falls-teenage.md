@@ -5,6 +5,9 @@ authors:
   - Dirty Henry
 wordpress_id: 1137
 date: 2012-11-15 08:00:00 +0100
+category: Chanson du jour
+tags:
+  - Veronica Falls
 ---
 
 {% youtube 8A8yRqDIrBw %}

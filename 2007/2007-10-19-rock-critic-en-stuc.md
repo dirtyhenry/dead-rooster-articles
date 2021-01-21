@@ -6,6 +6,7 @@ author_login: groovy
 wordpress_id: 418
 date: "2007-10-19 09:38:00 +0200"
 cover: philippe-eudeline.jpg
+category: Le monde va mal
 ---
 
 En ce mois d'octobre 2007, Lester Bangs et Allen Ginsberg n'ont toujours pas

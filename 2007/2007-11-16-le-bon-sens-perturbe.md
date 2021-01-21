@@ -6,6 +6,7 @@ authors:
 wordpress_id: 425
 date: "2007-11-16 10:04:00 +0100"
 cover: pippo-inzaghi-2.jpg
+category: Le monde va mal
 ---
 
 Samedi soir, si l'Italie gagne contre l'Ecosse, la France sera qualifiée pour

@@ -14,6 +14,7 @@ categories:
   - Catégories
 tags:
   - Albums
+  - Veronica Falls
 comments:
   - author: Joe Gantdelaine
     author_email: ""
