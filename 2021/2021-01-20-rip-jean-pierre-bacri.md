@@ -30,3 +30,5 @@ Mais quand même… Le monde va mal !
 [1]: https://fr.wikipedia.org/wiki/Caroline_Cellier
 [2]: https://fr.wikipedia.org/wiki/Jean-Pierre_Bacri
 [3]: https://letterboxd.com/film/didier/
+
+[i1]: {% post_url 2021/2021-01-17-rip-phil-spector %}
