@@ -21,6 +21,7 @@ comments:
     title: La nouvelle star est coupable !
     content: Quel con ce Philippe !!
 cover: philippe-manoeuvre.jpg
+category: Le monde va mal
 ---
 
 Philippe Manoeuvre sur M6 ? Le monde va mal !

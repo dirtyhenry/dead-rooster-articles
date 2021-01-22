@@ -12,6 +12,7 @@ comments:
     title: Ses bottes ne sont plus faites pour marcher
     content: Celle de Tony Wilson non plus. Le monde va mal !
 cover: lee-hazlewood-2.jpg
+category: Le monde va mal
 ---
 
 La mort de Lee Hazlewood cet été n'a pas ému les foules. Le monde va mal !

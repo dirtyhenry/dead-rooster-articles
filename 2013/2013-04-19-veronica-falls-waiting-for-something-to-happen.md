@@ -5,6 +5,9 @@ authors:
   - Dirty Henry
 wordpress_id: 1222
 date: 2013-04-19 11:27:07 +0200
+category: Chanson du jour
+tags:
+  - Veronica Falls
 ---
 
 Encore une chouette vidéo pour Veronica Falls, dont le 2nd album, _Waiting for
