@@ -6,6 +6,9 @@ authors:
 wordpress_id: 1123
 cover: hamster-jovial-pipi-comic.png
 date: 2012-10-09 19:12:37 +0200
+category: Le monde va mal
+tags:
+  - The Rolling Stones
 ---
 
 Ke\$ha a fait [l'amour avec un fantôme](http://www.nme.com/news/keha/66332)

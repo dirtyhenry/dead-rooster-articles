@@ -11,8 +11,9 @@ categories:
   - Artistes
 tags:
   - Compilation
-  - The Raveonettes
   - Islands
+  - The Raveonettes
+  - The Rolling Stones
 ---
 
 1. Wolf Parade - *Fancy Claps*🔇

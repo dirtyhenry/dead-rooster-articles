@@ -9,6 +9,8 @@ authors:
 wordpress_id: 761
 cover: k7-audio-compile.png
 date: 2011-01-19 23:19:52 +0100
+tags:
+  - The Rolling Stones
 comments:
   - author: ""
     author_email: ""

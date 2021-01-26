@@ -5,8 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 563
 date: "2010-01-12 17:28:48 +0100"
-categories:
-  - Artistes
+category: Le monde va mal
 tags:
   - The Rolling Stones
 cover: ron-wood.jpg

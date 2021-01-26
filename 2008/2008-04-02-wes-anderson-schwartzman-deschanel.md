@@ -15,6 +15,7 @@ tags:
   - Wes Anderson
   - Zooey Deschanel
   - Jason Schwartzman
+  - The Rolling Stones
 comments:
   - author: Garrincha
     author_email: garrincha@blogotheque.net
