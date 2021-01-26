@@ -6,6 +6,10 @@ authors:
 wordpress_id: 1020
 cover: banc-personnes-agees.jpg
 date: 2012-04-05 12:10:47 +0200
+category: Le monde va mal
+tags:
+  - The Beatles
+  - The Rolling Stones
 ---
 
 Alors que

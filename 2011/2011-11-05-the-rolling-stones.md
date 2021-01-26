@@ -1,14 +1,16 @@
 ---
 layout: post
+id: CE868116-6EA2-4DC8-92CD-D1EB1E187DF1
 title: The Rolling Stones
-description:
+author: Joe Gantdelaine
+excerpt: >-
   Aujourd'hui, encore un monument du rock and roll maltraité par l'Encyclopédie
   Approximative du Rock and Roll !
-authors:
-  - Joe Gantdelaine
-wordpress_id: 820
 cover: sosies-rolling-stoness.jpg
-date: 2011-11-05 09:23:36 +0100
+category: Encyclopédie approximative du Rock and Roll
+tags:
+  - The Rolling Stones
+wordpress_id: 820
 comments:
   - author: J. Prince de S.
     author_email: joan.gexfabry@gmail.com
@@ -42,10 +44,9 @@ rock star l'attendait : ainsi, dans sa biographie, il nous révèle que tout
 gamin, il sniffait déjà les cendres de cigarettes de son père !
 
 Les deux compères ont accouché de formidables brûlots rock and roll, même si le
-duo est surtout connu pour ses "adaptations", qui en "empruntant"
-[_Roger_](http://www.youtube.com/watch?v=1a-EBGUapV8) aux **Rolling Bidochons**,
-qui en "rendant hommage" au **Eddy Mitchell** de
-[_Rien qu'un seul mot_](http://www.deezer.com/listen-1107661).
+duo est surtout connu pour ses "adaptations", qui en "empruntant" [_Roger_][1]
+aux **Rolling Bidochons**, qui en "rendant hommage" au **Eddy Mitchell** de
+[_Rien qu'un seul mot_][2].
 
 A côté de cette paire fantastique gravitent d'autres merveilleux individus : que
 ce soit Mick Jones, qui partit rapidement fonder le **Clash** ou Ron Wood,
@@ -64,3 +65,6 @@ la vague hippie, peace and love, où la bonne ambiance, comme on le voit, est
 palpable :
 
 {% youtube Dt0ipUCfdlU %}
+
+[1]: https://www.youtube.com/watch?v=1a-EBGUapV8
+[2]: https://www.deezer.com/track/1107661

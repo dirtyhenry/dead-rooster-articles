@@ -13,6 +13,7 @@ tags:
   - She & Him
   - The Coral
   - The Raconteurs
+  - The Rolling Stones
 cover: compile-automne-2008.jpg
 ---
 
