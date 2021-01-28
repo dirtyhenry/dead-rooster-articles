@@ -78,8 +78,8 @@ Maude (1971)_][4].
 - Le film fut adapté au théâtre où il fut un succès à maintes reprises,
   parlez-en à [Madeleine Renaud][3], Denise Gray ou Line Renaud.
 - Le relatif anonymat d'Hal Ashby ou des interprètes Ruth Gordon et Bud Cort est
-  assez étonnant étant donné le caractère _culte_ (dixit Wikipedia et The
-  Ringer[^2]) du film. Une alchimie réussie pour un coup parfait. Bravo.
+  assez étonnant étant donné le caractère _culte_ du film (dixit Wikipedia et
+  The Ringer[^2]). Une alchimie réussie pour un coup parfait. Bravo.
 
 [^1]: [Ma! The Meatloaf!][1]
 [^2]:
