@@ -5,6 +5,10 @@ authors:
   - Dirty Henry
 wordpress_id: 341
 date: "2006-12-01 20:14:00 +0100"
+category: Chanson du jour
+tags:
+  - Valérie Leulliot
+  - Miossec
 ---
 
 {% dailymotion x11arf %}
