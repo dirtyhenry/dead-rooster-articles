@@ -41,21 +41,20 @@ parlons plus.
 
 ## Le meilleur : _F.E.E.L.I.N.G.C.A.L.L.E.D.L.O.V.E._ de Pulp
 
-La plus tripante - et la meilleure à mes yeux - est ce <strike>_Feeling Called
-Love_</strike> _F.E.E.L.I.N.G.C.A.L.L.E.D.L.O.V.E._ de Pulp. Présent sur leur
-chef d'oeuvre, [_Different Class_][i852], c'est un morceau idéal pour triper un
-max sur son lit d'adolescent.
+La plus tripante - et la meilleure à mes yeux - est ce ~~_Feeling Called Love_~~
+_F.E.E.L.I.N.G.C.A.L.L.E.D.L.O.V.E._ de Pulp. Présent sur leur chef d'oeuvre,
+[_Different Class_][i852], c'est un morceau idéal pour triper un max sur son lit
+d'adolescent.
 
 {% youtube 1Qxn7DLcNwQ %}
 
 ## Le plus cool : _B.L.U.R.E.M.I._ de Blur
 
 Quand Blur fait du punk avec des sons marrants, c'est génial et ça donne
-<strike>_Blur-EMI_</strike> _B.L.U.R.E.M.I._. Ils ne l'ont pas fait assez
-souvent. Pis l'outro planant est lui aussi excellent et s'enchaîne
-merveilleusement avec son voisin de l'album *13* : _Battle_ (qui rivalise
-presque niveau trippant avec <strike>_Feeling Called Love_</strike>
-_F.E.E.L.I.N.G.C.A.L.L.E.D.L.O.V.E._).
+~~_Blur-EMI_~~ _B.L.U.R.E.M.I._. Ils ne l'ont pas fait assez souvent. Pis
+l'outro planant est lui aussi excellent et s'enchaîne merveilleusement avec son
+voisin de l'album *13* : _Battle_ (qui rivalise presque niveau trippant avec
+~~_Feeling Called Love_~~ _F.E.E.L.I.N.G.C.A.L.L.E.D.L.O.V.E._).
 
 {% youtube 8qq4327hb7E %}
 
@@ -63,19 +62,16 @@ _F.E.E.L.I.N.G.C.A.L.L.E.D.L.O.V.E._).
 
 Sur son dernier album, Noah And The Whale part complètement en sucette et
 [grille les jokers qu'on lui avait bien gentiment accordés][i540]. Au premier
-rang de ces ratages, <strike>_Life Goes On_</strike> _L.I.F.E.G.O.E.S.O.N._
-figure en bonne position mais a complètement cartonné en Angleterre. C'est pas
-comme ça qu'on va les aider à se remettre en question…
+rang de ces ratages, ~~_Life Goes On_~~ _L.I.F.E.G.O.E.S.O.N._ figure en bonne
+position mais a complètement cartonné en Angleterre. C'est pas comme ça qu'on va
+les aider à se remettre en question…
 
 {% youtube Y8XuMDi-wIk %}
 
 ## Le plus dancefloor : _D.A.N.C.E._ de Justice
 
-Les Français qui ressemblent à Daft Punk,
-[qui sont peut-être le même groupe](http://flepi.net/image-insolite/daft-punk-et-justice-un-seul-et-meme-groupe-de-musique/)
-mais
-[en fait non](http://www.facebook.com/pages/Non-Daft-punk-et-Justice-ne-sont-pas-le-m%C3%AAme-groupe/225096182451),
-avaient signé en 2007 ce tube incroyable : <strike>_Dance_</strike>
+Les Français qui ressemblent à Daft Punk, qui sont peut-être le même groupe mais
+en fait non, avaient signé en 2007 ce tube incroyable : ~~_Dance_~~
 _D.A.N.C.E._. Pendant ce temps-là,
 [Gala est toujours remplacée par un sosie](http://www.facebook.com/group.php?gid=97891375246),
 [c'est Rick Astley qui chante les titres de Kylie Minogue](http://www.youtube.com/watch?v=AVDogmtajKI),

@@ -60,18 +60,14 @@ capable (_In My Head_ ou _Hold Your Hand_).
 {% asset dee-dee.png %}
 
 Derrière les Dum Dum Girls, il serait difficile de parler de groupe. Il s'agit
-plutôt de Dee Dee
-(ex-[Grand Ole Party](http://www.youtube.com/watch?v=Xziod5qt03k)) et [des
-Ringo-ettes][i277]. Il a donc bien fallu que Dee Dee s'entoure d'un bon
-producteur aux manettes de l'album. Elle en a même pris deux. Le premier
-s'appelle Richard Gottehrer, qui n'a jamais écrit
-[_Le Youki_](http://www.youtube.com/watch?v=Wx7vKvQ4axQ) ou
-[_Poil Au Tableau_](http://youtu.be/SghaF3fcflE), mais qui reste un vieux de la
-vieille puisqu'il a produit Blondie entre autres. Le second s'appelle Sune Rose
-Wagner, la tête à chromosome Y des [Raveonettes](mot209) et on se dit en
-écoutant l'intro de _Heartbeat (Take It Away)_ que le monsieur a dû peser de
-tout son poids (qui n'est plus négligeable si l'on se fie à
-[cette photo](http://en.wikipedia.org/wiki/File:Sune_Rose_Wagner_-_The_Raveonettes_-_Roskilde_Festival_2011.jpg))
+plutôt de Dee Dee (ex-[Grand Ole Party][1]) et [des Ringo-ettes][i277]. Il a
+donc bien fallu que Dee Dee s'entoure d'un bon producteur aux manettes de
+l'album. Elle en a même pris deux. Le premier s'appelle Richard Gottehrer, qui
+n'a jamais écrit [_Le Youki_][2] ou [_Poil Au Tableau_][3], mais qui reste un
+vieux de la vieille puisqu'il a produit Blondie entre autres. Le second
+s'appelle Sune Rose Wagner, la tête à chromosome Y des Raveonettes et on se dit
+en écoutant l'intro de _Heartbeat (Take It Away)_ que le monsieur a dû peser de
+tout son poids (qui n'est plus négligeable si l'on se fie à [cette photo][4]
 dans la production des Dum Dum.
 
 Pour conclure, pourquoi "Dum Dum Girls" ? À cause de
@@ -91,3 +87,9 @@ de hauteur quand il baisse le rythme». C'était finement observé.
 [i657]: {% post_url 2010/2010-07-21-best-coast-when-i-m-with-you %}
 
 [i918]: {% post_url 2011/2011-10-03-dum-dum-girls-bedroom-eyes %}
+
+[1]: https://www.youtube.com/watch?v=Xziod5qt03k
+[2]: https://www.youtube.com/watch?v=Wx7vKvQ4axQ
+[3]: https://youtu.be/SghaF3fcflE
+[4]:
+  https://en.wikipedia.org/wiki/File:Sune_Rose_Wagner_-_The_Raveonettes_-_Roskilde_Festival_2011.jpg

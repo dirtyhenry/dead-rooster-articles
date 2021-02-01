@@ -101,8 +101,7 @@ temps.
 
 [jem]:
   http://www.dailymotion.com/video/x11ek96_jem-et-les-hologrammes-saison-1-episode-02_webcam
-[tam]:
-  http://img05.deviantart.net/984c/i/2013/196/3/8/hitomi_cat_s_eye_card_by_k_nasteam-d6dng7i.png
+[tam]: https://cityhunter.fandom.com/wiki/Hitomi_Kisugi
 [chuck]:
   http://www.nytimes.com/2003/02/23/us/sweet-tunes-fast-beats-and-a-hard-edge.html?pagewanted=5
 [petit-nicolas]: https://fr.wikipedia.org/wiki/Le_Petit_Nicolas
