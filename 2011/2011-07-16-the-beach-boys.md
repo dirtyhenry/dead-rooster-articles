@@ -9,6 +9,7 @@ authors:
 wordpress_id: 871
 cover: brian-wilson-casque-pompier.jpg
 date: 2011-07-16 16:31:57 +0200
+category: Encyclopédie approximative du Rock and Roll
 tags:
   - The Beach Boys
 ---

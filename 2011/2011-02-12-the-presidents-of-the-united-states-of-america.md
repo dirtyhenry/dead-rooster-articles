@@ -9,6 +9,7 @@ authors:
 wordpress_id: 755
 cover: mont-rushmore.jpg
 date: 2011-02-12 09:37:26 +0100
+category: Encyclopédie approximative du Rock and Roll
 ---
 
 Power trio par excellence (américain évidemment), formé après la seconde guerre
