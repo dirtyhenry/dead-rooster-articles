@@ -1,7 +1,7 @@
 ---
 layout: post
 id: 4E8FC3D5-54AD-4DD7-9994-132F6B7C5DAB
-title: Harold and Maude — Hal Ashby
+title: Harold and Maude - Hal Ashby
 author: Dirty Henry
 excerpt: >-
   Une comédie hilarante, à l'humour absurde et froid, qui parle de vie et de
