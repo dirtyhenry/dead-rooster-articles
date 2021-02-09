@@ -36,6 +36,7 @@ comments:
       laisse passer certains des détails qui permettent de mieux comprendre un
       groupe.\r\nJe compte alors sur les lecteurs méticuleux pour rectifier le
       tir !"
+category: Encyclopédie approximative du Rock and Roll
 ---
 
 Véritables enfants du bayou, les frères Fogerty ont parfaitement su restituer
