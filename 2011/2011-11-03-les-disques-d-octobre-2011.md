@@ -10,11 +10,9 @@ authors:
 wordpress_id: 943
 cover: disques-octobre-2011.png
 date: 2011-11-03 17:08:32 +0100
-categories:
-  - Catégories
 tags:
-  - Albums
   - Veronica Falls
+  - Walt Disney
 comments:
   - author: Joe Gantdelaine
     author_email: ""
