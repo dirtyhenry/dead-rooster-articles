@@ -3,8 +3,10 @@ layout: post
 title: "The Pixar Movie Challenge"
 authors:
   - Dirty Henry
+category: Ciné-Club moi j'vous dis
 tags:
   - movies
+  - Walt Disney
 description: >
   Les films de Pixar sont tous excellents. Mais regarder trop de Pixar dans un
   court intervalle est-il bon pour la stabilité émotionnelle du spectateur ?
