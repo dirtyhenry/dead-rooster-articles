@@ -7,7 +7,7 @@ author: Dirty Henry
 excerpt: >-
   Où comment voir et revoir *Les Aristochats* aide à déchiffrer une réponse de
   Walt Disney à la crise des gilets jaunes.
-image: aristochats.jpg
+cover: aristochats.jpg
 category: Ciné-Club moi j'vous dis
 tags:
   - Walt Disney
@@ -15,11 +15,11 @@ tags:
 
 Dans l’excellente série _Brooklyn Nine-Nine_, quand l’immature Jake Peralta
 demande s’il devrait devenir papa à son collègue Terry Jeffords, qui a la
-paternité joyeuse et comblée, celui-ci répond :
+paternité joyeuse et comblée, celui-ci répond[^1] :
 
-> — Terry : Do not do it. […] They are a ton of work man. If you are not totally
+> — Terry : Do not do it. […] They are a ton of work man. If you are not totally
 > 100% sure you want them, you won’t survive.  
-> — Jake : Is it really that hard?  
+> — Jake : Is it really that hard?  
 > — Yes! I never get any sleep. I’m always sick. I never get to watch anything i
 > want on TV. I still haven’t finished _Breaking Bad_ but i can recite _Moana_
 > from memory.
@@ -40,14 +40,14 @@ Adélaïde est la richissime maîtresse des chats. Georges Hautecour est son
 avocat. Ils sont sensés être dans le camp des gentils, alors que les deux
 forment une paire de possédants de la pire espèce. Quand Adélaïde demande à
 Georges de passer la voir, la réaction-réflexe de ce dernier est un cinglant
-“qui attaquons-nous ?” qui en dit long sur une bien belle manière de se
+“qui attaquons-nous ?” qui en dit long sur une bien belle manière de se
 construire un patrimoine.
 
 En outre, ils traitent assez mal le petit personnel. Quand Edgar se montre bien
 sympa, voire prévenant, avec chacun d’entre eux, les réponses désagréables
-fusent :
+fusent :
 
-- “allons allons Edgar, ne faites donc pas tant de zèle”,
+- “allons allons Edgar, ne faites donc pas tant de zèle”
 - ”lâchez donc ma canne voyons”
 - “bonté divine Edgar, je connais Monsieur Hautdecour”
 
@@ -97,3 +97,5 @@ compétition entre ses membres, qui élimine la violence et rétablit une justic
 sociale.
 
 CQFD.
+
+[^1]: Épisode _Casecation_ de la saison 6.
