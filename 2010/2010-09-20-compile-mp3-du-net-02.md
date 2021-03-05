@@ -14,59 +14,53 @@ categories:
 tags:
   - Single
   - MP3
+playlist:
+  - artist: The Shins
+    title: Goodbye Girl
+    asset: levis-pioneer-sessions-cover.png
+    link: http://www.levispioneersessions.com/artists/the-shins
+
+  - artist: Strange Shapes
+    title: I Found A Rock
+    asset: stange-shapes.png
+
+  - artist: Cloud Nothings
+    title: Hey Cool Kid
+    asset: cloud-nothings-hey-cool-kid.jpg
+    link: http://www.thetripwire.com/tripwiretvspotlight/2010/07/12/cloud-nothings-take-it-outside-play-acoustic-hey-cool-kid/
+
+  - artist: Beach Fossils
+    title: Vacation
+    asset: beach-fossils-cover.jpg
+    link: http://kmskma.free.fr/?p=3357
+
+  - artist: Sri Aurobindo
+    title: Soul Vibrations of Man
+    asset: sri-aurobindo-soul-vibrations-of-man.png
+
+  - artist: The Walkmen
+    title: Stranded
+    asset: the-walkmen.png
+    link: http://www.blogotheque.net/You-don-t-want-me
+
+  - artist: Foxes In Fiction
+    title: Flashing Lights Have Ended Now
+    asset: foxes-in-fiction.jpg
+
+  - artist: Sleeping Bags
+    title: Cantaloupe
+    asset: sleeping-bags-cantaloupe.jpg
+    link: http://www.thefader.com/2010/08/02/listen-sleeping-bags-cantaloupe/
+
+  - artist: Pepper Rabbit
+    title: Older Brother
+    asset: pepper-rabbit.png
 ---
 
 Au programme cette semaine, **The Shins** reprennent un titre du groupe Squeeze,
 **The Walkmen** sont de retour et la belle découverte **Beach Fossils**.
 
-<ul class="polaroids">
-
-<li><div class="polaroid">
-[{% asset levis-pioneer-sessions-cover.png %} The Shins
-*Goodbye Girl*](http://www.levispioneersessions.com/artists/the-shins)
-</div></li>
-
-<li><div class="polaroid">
-{% asset stange-shapes.png %} Strange Shapes
-*I Found A Rock*
-</div></li>
-
-<li><div class="polaroid">
-[{% asset cloud-nothings-hey-cool-kid.jpg %} Cloud Nothings
-*Hey Cool Kid*](http://www.thetripwire.com/tripwiretvspotlight/2010/07/12/cloud-nothings-take-it-outside-play-acoustic-hey-cool-kid/)
-</div></li>
-
-<li><div class="polaroid">
-[{% asset beach-fossils-cover.jpg %} Beach Fossils
-*Vacation*](http://kmskma.free.fr/?p=3357)
-</div></li>
-
-<li><div class="polaroid">
-{% asset sri-aurobindo-soul-vibrations-of-man.png %} Sri Aurobindo
-*Soul Vibrations of Man*
-</div></li>
-
-<li><div class="polaroid">
-[{% asset the-walkmen.png %} The Walkmen
-*Stranded*](http://www.blogotheque.net/You-don-t-want-me)
-</div></li>
-
-<li><div class="polaroid">
-{% asset foxes-in-fiction.jpg %} Foxes In Fiction
-*Flashing Lights Have Ended Now*
-</div></li>
-
-<li><div class="polaroid">
-[{% asset sleeping-bags-cantaloupe.jpg %}Sleeping Bags
-*Cantaloupe*](http://www.thefader.com/2010/08/02/listen-sleeping-bags-cantaloupe/)
-</div></li>
-
-<li><div class="polaroid">
-{% asset pepper-rabbit.png %}Pepper Rabbit
-*Older Brother*
-</div></li>
-
-</ul>
+{% include polaroids.html polaroids=page.playlist %}
 
 [Réécouter la compile #01][i700]
 

@@ -17,33 +17,45 @@ tags:
   - Single
   - MP3
   - Bleeding Rainbow
+playlist:
+  - artist: Foxes In Fiction
+    title: Bathurst
+    asset: foxes-in-fiction-bathhurst.png
+  - artist: Mean Wind
+    title: Yr Swword
+    asset: mean-wind-yr-swword.png
+  - artist: Lower Dens
+    title: Blue And Silver
+    asset: lower-dens-blue-and-silver.png
+    link: http://stereogum.com/522201/lower-dens-blue-and-silver/mp3s/
+  - artist: Seamonster
+    title: Oh Appalachia
+    asset: seamonster-oh-appalachia.png
+  - artist: Sharon Van Etten
+    title: Don’t Do It
+    asset: sharon-van-etten-dont-do-it.jpg
+    link: http://stereogum.com/503982/sharon-van-etten-dont-do-it-stereogum-premiere/mp3s/
+  - artist: Chapter
+    title: Tomcat
+    asset: chapter.jpg
+    link: http://www.bonpourlesoreilles.net/musique/2010/09/chapter-three-a-collection-of-monsters-four-whiter-heron-blues.html
+  - artist: Ducktails
+    title: Hamilton Road
+    asset: ducktails-hamilton-road.jpg
+    link: http://stereogum.com/463342/ducktails-hamilton-road/mp3s/
+  - artist: Reading Rainbow
+    title: Wasting Time
+    asset: reading-rainbow-wasting-time.jpg
+    link: http://stereogum.com/506002/reading-rainbow-wasting-time/mp3s/
+  - artist: Foxes in Fiction & Weed
+    title: Teenage Dream (Katy Perry)
+    asset: foxes-in-fiction-weed-teenage-dream.png
 ---
 
 Au programme cette semaine, **Foxes in Fiction** revient en vedette pour ouvrir
 et fermer la compile avec une reprise de Katy Perry.
 
-<ul class="polaroids">
-
-<li><div class=polaroid>{% asset foxes-in-fiction-bathhurst.png %}Foxes In Fiction
-*Bathurst*</div></li>
-<li><div class=polaroid>{% asset mean-wind-yr-swword.png %}Mean Wind
-*Yr Swword*</div></li>
-<li><div class=polaroid>[{% asset lower-dens-blue-and-silver.png %}Lower Dens
-*Blue And Silver*](http://stereogum.com/522201/lower-dens-blue-and-silver/mp3s/)</div></li>
-<li><div class=polaroid>{% asset seamonster-oh-appalachia.png %}Seamonster
-*Oh Appalachia*</div></li>
-<li><div class=polaroid>[{% asset sharon-van-etten-dont-do-it.jpg %}Sharon Van Etten
-*Don’t Do It*](http://stereogum.com/503982/sharon-van-etten-dont-do-it-stereogum-premiere/mp3s/)</div></li>
-<li><div class=polaroid>[{% asset chapter.jpg %}Chapter
-*Tomcat*](http://www.bonpourlesoreilles.net/musique/2010/09/chapter-three-a-collection-of-monsters-four-whiter-heron-blues.html)</div></li>
-<li><div class=polaroid>[{% asset ducktails-hamilton-road.jpg %}Ducktails
-*Hamilton Road*](http://stereogum.com/463342/ducktails-hamilton-road/mp3s/)</div></li>
-<li><div class=polaroid>[{% asset reading-rainbow-wasting-time.jpg %}Reading Rainbow
-*Wasting Time*](http://stereogum.com/506002/reading-rainbow-wasting-time/mp3s/)</div></li>
-<li><div class=polaroid>{% asset foxes-in-fiction-weed-teenage-dream.png %}Foxes in Fiction & Weed
-*Teenage Dream (Katy Perry)*</div></li>
-
-</ul>
+{% include polaroids.html polaroids=page.playlist %}
 
 [Réécouter la compile #04][i709]
 

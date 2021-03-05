@@ -13,60 +13,55 @@ category: Compile Web
 tags:
   - The Raveonettes
   - The Fresh & Onlys
+playlist:
+  - artist: Guards
+    title: Long Time
+    asset: guards-long-time.png
+
+  - artist: Women
+    title: Eyesore
+    asset: women-public-strain.jpg
+    link: http://www.thefader.com/2010/07/15/listen-women-eyesore/
+
+  - artist: The Raveonettes
+    title: I Wanna Be Adored
+    asset: the-raveonettes-i-wanna-be-adored.png
+    link: http://50.drmartens.com/free-mp3s/
+
+  - artist: Parenthetical Girls
+    title: Young Throats
+    asset: parenthetical-girls-young-throats.jpg
+
+  - artist: Magic Kids
+    title: Superball
+    asset: magic-kids-memphis.png
+    link: http://stereogum.com/458381/magic-kids-superball/mp3s/
+
+  - artist: Telenovelas
+    title: One and Only
+    asset: telenovelas-one-and-only.png
+
+  - artist: The Fresh & Onlys
+    title: Waterfall
+    asset: the-fresh-and-onlys-album-art.jpg
+    link: http://stereogum.com/514272/the-fresh-onlys-waterfall/mp3s/
+
+  - artist: Frankie Rose and the Outs
+    title: Little Brown Haired Girls
+    asset: frankie-rose-and-the-outs-little-brown-haired-girls.jpg
+    link: http://stereogum.com/491131/frankie-rose-the-outs-youre-no-good/mp3s/
+
+  - artist: The Felice Brothers
+    title: All When We Were Young
+    asset: felice-brothers.jpg
+    link: http://www.blogotheque.net/When-We-Were-Kings
 ---
 
 Au programme cette semaine, on en remet une couche avec la reprise de _I Wanna
 Be Adored_, des Stones Roses, par **The Raveonettes**, et je vous invite plus
 particulièrement à découvrir les excellents **Guards** et **The Fresh & Onlys**.
 
-<ul class="polaroids">
-
-<li><div class="polaroid">
-{% asset guards-long-time.png %}
-Guards *Long Time*
-</div></li>
-
-<li><div class="polaroid">
-[{% asset women-public-strain.jpg %}Women
-*Eyesore*](http://www.thefader.com/2010/07/15/listen-women-eyesore/)
-</div></li>
-
-<li><div class="polaroid">
-[{% asset the-raveonettes-i-wanna-be-adored.png %}The Raveonettes
-*I Wanna Be Adored*](http://50.drmartens.com/free-mp3s/)
-</div></li>
-
-<li><div class="polaroid">
-{% asset parenthetical-girls-young-throats.jpg %}Parenthetical Girls
-*Young Throats*
-</div></li>
-
-<li><div class="polaroid">
-[{% asset magic-kids-memphis.png %}Magic Kids
-*Superball*](http://stereogum.com/458381/magic-kids-superball/mp3s/)
-</div></li>
-
-<li><div class="polaroid">
-{% asset telenovelas-one-and-only.png %}Telenovelas
-*One and Only*
-</div></li>
-
-<li><div class="polaroid">
-[{% asset the-fresh-and-onlys-album-art.jpg %}The Fresh & Onlys
-*Waterfall*](http://stereogum.com/514272/the-fresh-onlys-waterfall/mp3s/)
-</div></li>
-
-<li><div class="polaroid">
-[{% asset frankie-rose-and-the-outs-little-brown-haired-girls.jpg %}Frankie Rose and the Outs
-*Little Brown Haired Girls*](http://stereogum.com/491131/frankie-rose-the-outs-youre-no-good/mp3s/)
-</div></li>
-
-<li><div class="polaroid">
-[{% asset felice-brothers.jpg %}The Felice Brothers
-*All When We Were Young*](http://www.blogotheque.net/When-We-Were-Kings)
-</div></li>
-
-</ul>
+{% include polaroids.html polaroids=page.playlist %}
 
 [Réécouter la compile #02][i702]
 
