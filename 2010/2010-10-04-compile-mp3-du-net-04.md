@@ -12,8 +12,7 @@ authors:
 wordpress_id: 709
 cover: web-compile-4.png
 date: 2010-10-04 10:58:46 +0200
-categories:
-  - Artistes
+category: Compile MP3 du NET
 tags:
   - Dale Earnhardt Jr. Jr.
   - The Beach Boys

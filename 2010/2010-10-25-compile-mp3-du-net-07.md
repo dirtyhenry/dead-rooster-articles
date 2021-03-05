@@ -10,12 +10,8 @@ authors:
 wordpress_id: 719
 cover: web-compile-7.png
 date: 2010-10-25 12:00:00 +0200
-categories:
-  - Catégories
-  - Artistes
+category: Compile MP3 du NET
 tags:
-  - Single
-  - MP3
   - Fleet Foxes
   - The Beach Boys
 playlist:
