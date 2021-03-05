@@ -18,6 +18,43 @@ tags:
   - MP3
   - Fleet Foxes
   - The Beach Boys
+playlist:
+  - artist: California Wives
+    title: Blood Red Youth
+    asset: california-wivess.png
+    link: http://www.rubinrecommends.com/2010/10/california-wives/
+  - artist: Guards
+    title: Crystal Truth
+    asset: guards.png
+    link: http://guards.bandcamp.com/
+  - artist: Kid Trails
+    title: Wait For
+    asset: kidtrails.png
+    link: http://hellholeentrance.blogspot.com/2010/10/kid-trails.html
+  - artist: The Vaselines
+    title: Sex With An X
+    asset: the-vaselines.png
+    link: http://pitchfork.com/news/39629-new-vaselines-sex-with-an-x/
+  - artist: Mr. Dream
+    title: Scarred For Life
+    asset: mr-dream-learn-the-language.png
+    link: http://stereogum.com/540731/mr-dream-learn-the-language-stereogum-premiere/mp3s/
+  - artist: Pixies
+    title: La La Love You
+    asset: pixies-la-la-love-you.png
+    link: http://pixiesmusic.com/interpol.html
+  - artist: Weezer
+    title: Getting Up And Leaving
+    asset: weezer.png
+    link: http://stereogum.com/550731/weezer-blowin-my-stack-getting-up-and-leaving/mp3s/
+  - artist: The Beach Boys
+    title: Johnny B. Goode
+    asset: beach-boys.png
+    link: http://captainsdead.com/the-beach-boys-and-the-dead-live-at-the-fillmore-east-4.27.71.html
+  - artist: Robin Pecknold
+    title: Blue Spotted Tail
+    asset: robin-peckhold.png
+    link: http://www.weallwantsomeone.org/2010/08/18/listen-robin-pecknold-live-bootlegs/
 ---
 
 Une sélection des meilleurs MP3 légalement disponibles au téléchargement des
@@ -31,26 +68,7 @@ _The Beach Boys meets Grateful Dead_. Assez cool.
 Noter aussi que l'EP de **Guards** est téléchargeable intégralement et
 gratuitement sur la formidable plateforme de téléchargement bandcamp.
 
-<ul class="polaroids">
-<li><div class=polaroid>[{% asset california-wivess.png %}California Wives
-*Blood Red Youth*](http://www.rubinrecommends.com/2010/10/california-wives/)</div></li>
-<li><div class=polaroid>[{% asset guards.png %}Guards
-*Crystal Truth*](http://guards.bandcamp.com/)</div></li>
-<li><div class=polaroid>[{% asset kidtrails.png %}Kid Trails
-*Wait For*](http://hellholeentrance.blogspot.com/2010/10/kid-trails.html)</div></li>
-<li><div class=polaroid>[{% asset the-vaselines.png %}The Vaselines
-*Sex With An X*](http://pitchfork.com/news/39629-new-vaselines-sex-with-an-x/)</div></li>
-<li><div class=polaroid>[{% asset mr-dream-learn-the-language.png %}Mr. Dream
-*Scarred For Life*](http://stereogum.com/540731/mr-dream-learn-the-language-stereogum-premiere/mp3s/)</div></li>
-<li><div class=polaroid>[{% asset pixies-la-la-love-you.png %}Pixies
-*La La Love You*](http://pixiesmusic.com/interpol.html)</div></li>
-<li><div class=polaroid>[{% asset weezer.png %}Weezer
-*Getting Up And Leaving*](http://stereogum.com/550731/weezer-blowin-my-stack-getting-up-and-leaving/mp3s/)</div></li>
-<li><div class=polaroid>[{% asset beach-boys.png %}The Beach Boys
-*Johnny B. Goode*](http://captainsdead.com/the-beach-boys-and-the-dead-live-at-the-fillmore-east-4.27.71.html)</div></li>
-<li><div class=polaroid>[{% asset robin-peckhold.png %}Robin Pecknold
-*Blue Spotted Tail*](http://www.weallwantsomeone.org/2010/08/18/listen-robin-pecknold-live-bootlegs/)</div></li>
-</ul>
+{% include polaroids.html polaroids=page.playlist %}
 
 [Réécouter la compile #06][i715]
 

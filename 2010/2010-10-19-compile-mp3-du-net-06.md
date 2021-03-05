@@ -16,6 +16,42 @@ categories:
 tags:
   - Single
   - MP3
+playlist:
+  - artist: Po Po
+    title: Bummer Summer
+    asset: popo-bummer-summer.png
+    link: http://stereogum.com/447372/popo-bummer-summer/mp3s/
+  - artist: Andrew Cedermark
+    title: Hard Livin'
+    asset: andrew-cedermark-hard-livin.png
+    link: http://pitchfork.com/reviews/albums/14628-moon-deluxe/
+  - artist: Dumbo Gets Mad
+    title: Plumy Tale
+    asset: dumbo-gets-mad.jpg
+  - artist: Women
+    title: Narrow With The Hall
+    asset: women-narrow-in-the-hall.png
+    link: http://pitchfork.com/forkcast/14793-narrow-with-the-hall/
+  - artist: The Black Angels
+    title: No Satisfaction
+    asset: the-black-angels-no-satisfaction.png
+    link: http://pitchfork.com/news/39607-black-mountain-tour-with-black-angels/
+  - artist: Jesse Woods
+    title: Ugly Dress
+    asset: jesse-woods-ugly-dress.png
+    link: http://stereogum.com/448821/jesse-woods-mind-drips-neon-indian-cover/mp3s/
+  - artist: Frankie Rose & The Outs
+    title: Candy
+    asset: frankie-rose-and-the-outs-candy.png
+    link: http://stereogum.com/507962/frankie-rose-and-the-outs-candy-stereogum-premiere/mp3s/
+  - artist: Fujiya & Miyagi
+    title: Sixteen Shades of Black & Blue
+    asset: fujiya-miyagi-16-shades.png
+    link: http://pitchfork.com/news/40056-fujiya-miyagi-share-mp3-ready-new-album/
+  - artist: The Radio Dept.
+    title: The New Improved Hypocrisy
+    asset: the-radio-dept-improvised-hypocrisy.png
+    link: http://pitchfork.com/news/40064-radio-dept-smash-the-government-on-new-song/
 ---
 
 Une sélection des meilleurs MP3 légalement disponibles au téléchargement des
@@ -23,26 +59,7 @@ dernières semaines. Au programme cette semaine, les retours de **Frankie Rose &
 The Outs** et de **Women** ainsi qu'une excellente reprise du _No Satisfaction_
 de **Black Mountain** par **The Black Angels**.
 
-<ul class="polaroids">
-<li><div class=polaroid>[{% asset popo-bummer-summer.png %}Po Po
-*Bummer Summer*](http://stereogum.com/447372/popo-bummer-summer/mp3s/)</div></li>
-<li><div class=polaroid>[{% asset andrew-cedermark-hard-livin.png %}Andrew Cedermark
-*Hard Livin'*](http://pitchfork.com/reviews/albums/14628-moon-deluxe/)</div></li>
-<li><div class=polaroid>{% asset dumbo-gets-mad.jpg %}Dumbo Gets Mad
-*Plumy Tale*</div></li>
-<li><div class=polaroid>[{% asset women-narrow-in-the-hall.png %}Women
-*Narrow With The Hall*](http://pitchfork.com/forkcast/14793-narrow-with-the-hall/)</div></li>
-<li><div class=polaroid>[{% asset the-black-angels-no-satisfaction.png %}The Black Angels
-*No Satisfaction*](http://pitchfork.com/news/39607-black-mountain-tour-with-black-angels/)</div></li>
-<li><div class=polaroid>[{% asset jesse-woods-ugly-dress.png %}Jesse Woods
-*Ugly Dress*](http://stereogum.com/448821/jesse-woods-mind-drips-neon-indian-cover/mp3s/)</div></li>
-<li><div class=polaroid>[{% asset frankie-rose-and-the-outs-candy.png %}Frankie Rose & The Outs
-*Candy*](http://stereogum.com/507962/frankie-rose-and-the-outs-candy-stereogum-premiere/mp3s/)</div></li>
-<li><div class=polaroid>[{% asset fujiya-miyagi-16-shades.png %}Fujiya & Miyagi
-*Sixteen Shades of Black & Blue*](http://pitchfork.com/news/40056-fujiya-miyagi-share-mp3-ready-new-album/)</div></li>
-<li><div class=polaroid>[{% asset the-radio-dept-improvised-hypocrisy.png %}The Radio Dept.
-*The New Improved Hypocrisy*](http://pitchfork.com/news/40064-radio-dept-smash-the-government-on-new-song/)</div></li>
-</ul>
+{% include polaroids.html polaroids=page.playlist %}
 
 [Réécouter la compile #05][i712]
 

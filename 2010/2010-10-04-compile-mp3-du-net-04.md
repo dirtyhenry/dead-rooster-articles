@@ -17,6 +17,50 @@ categories:
 tags:
   - Dale Earnhardt Jr. Jr.
   - The Beach Boys
+playlist:
+  - artist: Parlovr
+    title: Hell, Heaven
+    asset: parlovr-hellheaven.png
+    link: http://stereogum.com/516072/parlovr-hell-heaven/mp3s/
+
+  - artist: British Sea Power
+    title: Zeus
+    asset: british-sea-power-zeus-ep.jpg
+    link: http://stereogum.com/521722/british-sea-power-zeus/mp3s/
+
+  - artist: Woven Bones
+    title: I’ve Gotta Get
+    asset: wovenbones-ivegottaget.jpg
+    link: http://www.thefader.com/2010/08/13/hear-woven-bones-new-7/
+
+  - artist: Shannon Wright
+    title: Commoner’s Saint
+    asset: shannon-wright-commoners-saint.png
+    link: http://www.popnews.com/news/6172/un-mp3-de-shannon-wright-en-exclusivite/
+
+  - artist: Computer Magic
+    title: About You
+    asset: computermagic-aboutyou.png
+
+  - artist: Cheyenne Marie Mize
+    title: Beautiful Dreamer
+    asset: cheyennemariemize-beautifuldreamer.jpg
+    link: http://www.bonpourlesoreilles.net/musique/2010/08/old-western.html
+
+  - artist: Black Rebel Motorcycle Club
+    title: Dirty Old Town
+    asset: brmc-dirtyoldtown.png
+    link: http://vimeo.com/20800975
+
+  - artist: Laura Veirs
+    title: The Ocean
+    asset: lauraveirs-theocean.jpg
+    link: http://stereogum.com/520112/laura-veirs-the-ocean-led-zeppelin-cover/mp3s/
+
+  - artist: Dale Earnhardt Jr. Jr.
+    title: God Only Knows
+    asset: daleearnhardtjrjr-godonlyknows.png
+    link: http://youtu.be/zJ8MSVLWTdw
 ---
 
 Au programme cette semaine, quelques stars (**Black Rebel Motorcycle Club**,
@@ -24,36 +68,7 @@ Au programme cette semaine, quelques stars (**Black Rebel Motorcycle Club**,
 dont une du plus grand titre pop de tous les temps selon Paul McCartney : _God
 Only Knows_, des Beach Boys.
 
-<ul class="polaroids">
-
-<li><div class="polaroid">[{% asset parlovr-hellheaven.png %}Parlovr
-*Hell, Heaven*](http://stereogum.com/516072/parlovr-hell-heaven/mp3s/)</div></li>
-
-<li><div class="polaroid">[{% asset british-sea-power-zeus-ep.jpg %}British Sea Power
-*Zeus*](http://stereogum.com/521722/british-sea-power-zeus/mp3s/)</div></li>
-
-<li><div class="polaroid">[{% asset wovenbones-ivegottaget.jpg %}Woven Bones
-*I’ve Gotta Get*](http://www.thefader.com/2010/08/13/hear-woven-bones-new-7/)</div></li>
-
-<li><div class="polaroid">[{% asset shannon-wright-commoners-saint.png %}Shannon Wright
-*Commoner’s Saint*](http://www.popnews.com/news/6172/un-mp3-de-shannon-wright-en-exclusivite/)</div></li>
-
-<li><div class="polaroid">{% asset computermagic-aboutyou.png %}Computer Magic
-*About You*</div></li>
-
-<li><div class="polaroid">[{% asset cheyennemariemize-beautifuldreamer.jpg %}Cheyenne Marie Mize
-*Beautiful Dreamer*](http://www.bonpourlesoreilles.net/musique/2010/08/old-western.html)</div></li>
-
-<li><div class="polaroid">[{% asset brmc-dirtyoldtown.png %}Black Rebel Motorcycle Club
-*Dirty Old Town*](http://vimeo.com/20800975)</div></li>
-
-<li><div class="polaroid">[{% asset lauraveirs-theocean.jpg %}Laura Veirs
-*The Ocean*](http://stereogum.com/520112/laura-veirs-the-ocean-led-zeppelin-cover/mp3s/)</div></li>
-
-<li><div class="polaroid">[{% asset daleearnhardtjrjr-godonlyknows.png %}Dale Earnhardt Jr. Jr.
-*God Only Knows*](http://youtu.be/zJ8MSVLWTdw)</div></li>
-
-</ul>
+{% include polaroids.html polaroids=page.playlist %}
 
 [Réécouter la compile #03][i706]
 
