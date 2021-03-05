@@ -10,12 +10,8 @@ authors:
 wordpress_id: 725
 cover: web-compile-8.png
 date: 2010-12-06 12:00:00 +0100
-categories:
-  - Catégories
-  - Artistes
+category: Compile MP3 du NET
 tags:
-  - Single
-  - MP3
   - Bleeding Rainbow
 playlist:
   - artist: Warpaint

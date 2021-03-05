@@ -9,7 +9,7 @@ authors:
 wordpress_id: 706
 cover: web-compile-3.png
 date: 2010-09-27 12:00:00 +0200
-category: Compile Web
+category: Compile MP3 du NET
 tags:
   - The Raveonettes
   - The Fresh & Onlys

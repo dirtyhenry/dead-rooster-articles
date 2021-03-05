@@ -9,11 +9,7 @@ authors:
 wordpress_id: 700
 cover: dead-rooster-web-compile-1.png
 date: 2010-09-13 15:12:58 +0200
-categories:
-  - Catégories
-tags:
-  - Single
-  - MP3
+category: Compile MP3 du NET
 playlist:
   - artist: Young Man
     title: Fate
@@ -63,5 +59,6 @@ Au programme cette semaine, le retour aux affaires de Corin Tucker (ex-[Sleater
 Kinney][i314]) et de Black Mountain, qui sera de passage à la Maroquinerie, à
 Paris, le 4 octobre.
 
-{% include polaroids.html polaroids=page.playlist %} s [i314]:
-{% post_url 2006/2006-05-23-sleater-kinney-nouveau-casino %}
+{% include polaroids.html polaroids=page.playlist %}
+
+[i314]: {% post_url 2006/2006-05-23-sleater-kinney-nouveau-casino %}

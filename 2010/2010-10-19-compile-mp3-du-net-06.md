@@ -11,11 +11,7 @@ authors:
 wordpress_id: 715
 cover: web-compile-6.png
 date: 2010-10-19 23:00:00 +0200
-categories:
-  - Catégories
-tags:
-  - Single
-  - MP3
+category: Compile MP3 du NET
 playlist:
   - artist: Po Po
     title: Bummer Summer

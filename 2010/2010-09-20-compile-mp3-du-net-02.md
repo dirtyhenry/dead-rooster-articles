@@ -9,11 +9,7 @@ authors:
 wordpress_id: 702
 cover: dead-rooster-web-compile-2.png
 date: 2010-09-20 10:42:15 +0200
-categories:
-  - Catégories
-tags:
-  - Single
-  - MP3
+category: Compile MP3 du NET
 playlist:
   - artist: The Shins
     title: Goodbye Girl

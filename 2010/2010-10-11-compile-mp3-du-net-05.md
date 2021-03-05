@@ -10,12 +10,8 @@ authors:
 wordpress_id: 712
 cover: web-compile-5.png
 date: 2010-10-11 15:54:04 +0200
-categories:
-  - Catégories
-  - Artistes
+category: Compile MP3 du NET
 tags:
-  - Single
-  - MP3
   - Bleeding Rainbow
 playlist:
   - artist: Foxes In Fiction
