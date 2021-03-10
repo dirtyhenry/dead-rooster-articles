@@ -10,7 +10,7 @@ authors:
 wordpress_id: 665
 cover: dead-rooster-racing-cup-2.png
 date: 2010-07-30 10:22:39 +0200
-playlist:
+ranking:
   - artist: JULIO
     title: "Meilleur temps : 0:29.062"
     asset: karting-julio.jpg
@@ -37,3 +37,5 @@ playlist:
 La 2nde édition de la Dead Rooster Racing Cup, compétition de karting de
 renommée au moins mondiale, s'est tenue le 23 juillet 2010. Voici les résultats
 de la course.
+
+{% include polaroids.html polaroids=page.ranking %}}
