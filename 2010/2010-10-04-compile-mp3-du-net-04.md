@@ -30,7 +30,7 @@ playlist:
   - artist: Woven Bones
     title: I’ve Gotta Get
     asset: wovenbones-ivegottaget.jpg
-    link: http://www.thefader.com/2010/08/13/hear-woven-bones-new-7/
+    link: https://soundcloud.com/hardlyartrecords/woven-bones-ive-gotta-get
 
   - artist: Shannon Wright
     title: Commoner’s Saint

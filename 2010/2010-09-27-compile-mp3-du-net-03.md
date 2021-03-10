@@ -21,12 +21,12 @@ playlist:
   - artist: Women
     title: Eyesore
     asset: women-public-strain.jpg
-    link: http://www.thefader.com/2010/07/15/listen-women-eyesore/
+    link: https://open.spotify.com/track/09O93pSu6NPZQtufsnKwmd
 
   - artist: The Raveonettes
     title: I Wanna Be Adored
     asset: the-raveonettes-i-wanna-be-adored.png
-    link: http://50.drmartens.com/free-mp3s/
+    link: https://youtu.be/dUjxSRlghxw
 
   - artist: Parenthetical Girls
     title: Young Throats

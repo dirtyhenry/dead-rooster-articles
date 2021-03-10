@@ -48,8 +48,24 @@ tout lui ravir : hommes, gloire et célébrité.
 
 {% youtube Eg-ckMup6SI %}
 
-J'ai regardé ce film
-[sur les conseils que Serge Kaganski donne sur son blog](http://blogs.lesinrocks.com/s-kaganski/?p=204).
+J'ai regardé ce film sur les conseils que Serge Kaganski donne sur son blog :
+
+> Revu aussi _All about Eve_ de Jo Mankiewicz. Voilà un titre connu qui demeure
+> à 200% à la hauteur de sa réputation. Pas de mots pour rendre justice à cette
+> merveille absolue. Tout y est parfait : le récit global, les dialogues acérés,
+> les acteurs étincelants (ooooh, Bette Davis, aaah, Georges Sanders !), la
+> morale de conte cruel. Je me souviens d’un entretien avec Jacques Rivette,
+> cinéaste mais aussi ex-critique et spectateur ultra-aiguisé, où il exprimait
+> des réserves sur Mankiewicz, disant qu’il manquait de style, que ses films
+> étaient fondés sur de belles mécaniques scénaristiques plutôt que sur une mise
+> en scène qui transcenderait le matériau littéraire de départ. Ce n’est pas
+> faux, mais il n’empêche : quand on (re)voit _Eve_, à ce degré de complexité,
+> de précision, de virtuosité et de cruauté, le scénario devient du cinéma,
+> surtout quand il est incarné par des comédiens stradivarius. Et dans cette
+> fable balzacienne, tout est dit pour toujours et merveilleusement sur la
+> célébrité, la rivalité, l’arrivisme, les rapports entre les artistes et la
+> critique, la loi du spectacle.
+
 Si je ne partage pas complètement son enthousiasme, le film est recommandable…
 Malgré son pitch qui laisse penser à un film limite flippant, le film sait
 rester léger par de très bons moments de comédie (où figure une très jeune
@@ -79,8 +95,10 @@ jalouser…
 {% youtube _9xmUidNvw8 %}
 
 Film fantastique et d'angoisse assez court (1h10), l'oeuvre de Tourneur n'en est
-pas moins efficace. On flippe un peu, et encore une fois, c'est sur
-[les recommandations de Serge Kaganski](http://blogs.lesinrocks.com/s-kaganski/?p=206) !
+pas moins efficace. On flippe un peu, et encore une fois, c'est sur [les
+recommandations de Serge Kaganski], qui disait qu'en matière d'érostime, il
+était “Jacques Tourneur plutôt que Marc Dorcel, _La Féline_ plutôt que _La
+Chatte sur la commode_” (sic).
 
 **La chanson qui va avec** : fastoche, la chanson éponyme (et pas la meileure)
 de David Bowie !

@@ -100,8 +100,7 @@ Pour que sa musique se fasse connaître, là aussi, il faut y consacrer du temps
 et envoyer les liens et les MP3 aux webzines et blogs musicaux. Il y a plus de
 chances de réussites de ce côté-là que vers la presse traditionnelle ou les
 radios. Au final, Social Square se retrouve avec de jolies chroniques sur le web
-chez
-[La Magic Box](http://90plan.ovh.net/~lamagicb/visuArticles.php3?typeArticle=9#4180),
+chez La Magic Box,
 [Addictif Zine](http://www.addictif-zine.com/accueil/item/2148-social-square-it-vs-you)
 ou [Indessence](http://indessence.net/2010/07/social-square-it-vs-you.html).
 

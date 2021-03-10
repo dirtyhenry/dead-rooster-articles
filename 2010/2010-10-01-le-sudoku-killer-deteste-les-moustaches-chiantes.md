@@ -69,9 +69,6 @@ absolument pas rire. C'est un risque à prendre.
 
 {% dailymotion xeua9d %}
 
-(via
-[lequipemag.fr](http://www.lequipemag.fr/EquipeMag/Blogs/les-deux-dingues-de-l-after-20100916_183228.html))
-
 ## 5. Comment soigner son addiction aux nouvelles technologies ?
 
 Apple vous présente son tout dernier produit : l'ordinateur portable sans

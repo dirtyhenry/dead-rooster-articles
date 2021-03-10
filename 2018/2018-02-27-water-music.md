@@ -9,6 +9,8 @@ cover: automne-2017.jpg
 description: >
   Pour vulgariser ce post : Dead Rooster vous apporte la lumière dans des sortes
   de callebasses.
+tags:
+  - The Standells
 ---
 
 Faut-il parler compile quand on fait un article sur une compile ? Ne se
