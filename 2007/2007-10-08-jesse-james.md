@@ -4,6 +4,8 @@ title: L'Affiche de Jesse James fait-elle le film ?
 wordpress_id: 409
 date: "2007-10-08 21:04:00 +0200"
 cover: jesse-james.jpg
+tags:
+  - Brad Pitt
 ---
 
 Dans le métro parisien, l'affiche de _L'Assassinat de Jesse James par le lâche

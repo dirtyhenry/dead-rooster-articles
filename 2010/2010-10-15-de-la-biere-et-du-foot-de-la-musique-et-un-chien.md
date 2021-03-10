@@ -71,16 +71,9 @@ dernières années,
 
 ## 4. Causons foot
 
-Le foot est toujours source de fun.
-
-Preuve n°1 (via guiguilele) :
+Le foot est toujours source de fun (via guiguilele) :
 
 {% youtube 1T62VafD6a4 %}
-
-Preuve n°2 (via
-[L'Equipe Mag](http://www.lequipemag.fr/EquipeMag/Insolite/une-simulation-ridicule-20101011_162859.html)):
-
-{% youtube dP5rEffhXfo %}
 
 ## 5. Et le meilleur pour la fin
 
