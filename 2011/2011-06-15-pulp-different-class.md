@@ -1,25 +1,18 @@
 ---
 layout: post
+id: 7B446F73-970A-4ACC-9344-0AD636203A79
 title: Pulp - Different Class
-description:
-  Comment adapter une chanson de Renaud pour en faire un hymne absolu du rock
-  indé ? Comment de grande tige malingre peut-on devenir songwriter adulé ?
-  Comment cristalliser pour l'éternité les questions intimes de tous les
-  adolescents ou anciens adolescents tout en leur donnant l'occasion d'agiter
-  sans complexe leur corps maladroit ? Jarvis Cocker et son groupe Pulp ont
-  donné la réponse à ces questions en octobre 1995 avec leur album {Different
-  Class}.
+author: Dirty Henry
+excerpt: >-
+  Cet album de Pulp fait partie du panthéon de mes albums préférés.
 authors:
   - Dirty Henry
-wordpress_id: 852
 cover: pulp-different-class.jpg
 date: 2011-06-15 12:17:59 +0200
-categories:
-  - Catégories
-  - Artistes
+category: Review
 tags:
-  - Albums
   - Pulp
+wordpress_id: 852
 ---
 
 Comment adapter une chanson de Renaud pour en faire un hymne absolu du rock

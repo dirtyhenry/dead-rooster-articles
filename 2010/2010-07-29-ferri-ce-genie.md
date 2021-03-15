@@ -4,13 +4,14 @@ title: Ferri, ce génie
 authors:
   - Dirty Henry
 wordpress_id: 664
-cover: rouleaux-papier-toilette.gif
+cover: ferri-support-papier.jpg
 date: 2010-07-29 10:06:48 +0200
-categories:
-  - Catégories
+category: Le monde va mal
 tags:
-  - Trucs marrants
+  - Jean-Yves Ferri
 ---
 
-[Personne avant Ferri n'avait pensé à cette blague](http://www.manularcenet.com/blog/articles/3615/le-gag-du-siecle).
-Heureusement, elle a fini par arriver mais quand même… Le monde va mal !
+Personne avant [Ferri][1] n'avait pensé à cette blague. Heureusement, elle a
+fini par arriver mais quand même… Le monde va mal !
+
+[1]: https://fr.wikipedia.org/wiki/Jean-Yves_Ferri

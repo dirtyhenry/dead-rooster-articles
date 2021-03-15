@@ -86,12 +86,6 @@ Maude (1971)_][4].
     Le site le classe 44ème sur 50 de [son classement des 50 meilleurs films
     cultes][5], quoique ça puisse bien vouloir dire.
 
-{% comment %}
-
-https://www.themoviedb.org/movie/343-harold-and-maude
-
-{% endcomment %}
-
 [1]: https://youtu.be/IDPIVZkdXt8 "Rencontre de Chazz dans Wedding Crashers"
 [2]: https://fr.wikipedia.org/wiki/Tatouage_%C3%A0_Auschwitz
 [3]: https://madelen.ina.fr/programme/madeleine-renaud

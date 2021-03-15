@@ -5,6 +5,9 @@ authors:
   - Dirty Henry
 wordpress_id: 1116
 date: "2012-10-01 08:00:00 +0200"
+category: Chanson du jour
+tags:
+  - Jason Lytle
 ---
 
 {% youtube VhZrONoR29E %}

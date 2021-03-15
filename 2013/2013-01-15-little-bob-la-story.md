@@ -3,7 +3,7 @@ layout: post
 title: Little Bob, la Story
 description:
   Novembre 2012. Enfin ! Après des décennies de lecture de Rock&Folk et de
-  "mais, merde, c'est qui ce Little Bob ?!", je vais le voir en concert. La
+  "mais, merde, c'est qui ce Little Bob ⁈", je vais le voir en concert. La
   légende se sera écrite sans moi, mais avec des santiags rouges.
 authors:
   - Dirty Henry

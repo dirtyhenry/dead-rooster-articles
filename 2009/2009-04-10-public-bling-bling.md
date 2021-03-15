@@ -9,5 +9,5 @@ cover: public-hac.jpg
 ---
 
 Le PSG vient de diffuser une offre de réduction de 30% sur les places pour aller
-voir la réception du HAC. Le HAC ne fait pas se déplacer les foules ?! Le monde
+voir la réception du HAC. Le HAC ne fait pas se déplacer les foules ⁈ Le monde
 va mal !

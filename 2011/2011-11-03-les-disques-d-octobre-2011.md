@@ -62,39 +62,34 @@ brillant et l'insupportable, Male Bonding est un peu trop skate punk à mon goû
 
 ## La synthèse
 
-Réalisée avec [Sortmash](http://sortmash.com).
+Réalisée avec Sortmash.
 
-<div style="background: url(/IMG/png/classement-octobre.png);">
-<ul>
-
-<li style="height: 70px;margin-left: 160px;">## Dum Dum Girls### Only In Dreams</li>
-<li style="height: 70px;margin-left: 160px;">## Neutral Milk Hotel### In the Aeroplane, Over the Sea</li>
-<li style="height: 70px;margin-left: 160px;">## Veronica Falls### Veronica Falls</li>
-<li style="height: 70px;margin-left: 160px;">## Hanni El Khatib### Will The Guns Come Out</li>
-
-<li style="height: 70px;margin-left: 160px;">## Neutral Milk Hotel### On Avery Island</li>
-<li style="height: 70px;margin-left: 160px;">## Noel Gallagher’s High Flying Birds### Noel Gallagher’s High Flying Birds</li>
-<li style="height: 70px;margin-left: 160px;">## Kasabian### Velociraptor!</li>
-<li style="height: 70px;margin-left: 160px;">## Wilco### The Whole Love</li>
-
-<li style="height: 70px;margin-left: 160px;">## Wild Flag### Wild Flag</li>
-<li style="height: 70px;margin-left: 160px;">## Feist### Metals</li>
-<li style="height: 70px;margin-left: 160px;">## The Bewitched Hands### Birds & Drums</li>
-<li style="height: 70px;margin-left: 160px;">## She & Him### Christmas Album</li>
-
-<li style="height: 70px;margin-left: 160px;">## dEUS### Keep You Close</li>
-<li style="height: 70px;margin-left: 160px;">## Kaiser Chiefs### The Future Is Medieval</li>
-<li style="height: 70px;margin-left: 160px;">## Brian Wilson### In The Key Of Disney</li>
-<li style="height: 70px;margin-left: 160px;">## EMA### Pas Life Martyred Saints</li>
-
-<li style="height: 70px;margin-left: 160px;">## Frànçois and the Atlas Moutain### E volo love
-<li style="height: 70px;margin-left: 160px;">## Frànçois and the Atlas Moutain### Plaine Inondable
-<li style="height: 70px;margin-left: 160px;">## St Vincent### Strange Mercy</li>
-<li style="height: 70px;margin-left: 160px;">## Male Bonding### Endless Now</li>
-<li style="height: 70px;margin-left: 160px;">## Stranded Horse### Humbling Tides</li>
-
-</ul>
-</div>
+- 5 étoiles
+  - Dum Dum Girls - _Only In Dreams_
+  - Neutral Milk Hotel - _In the Aeroplane, Over the Sea_
+  - Veronica Falls - _Veronica Falls_
+  - Hanni El Khatib - _Will The Guns Come Out_
+- 4 étoiles
+  - Neutral Milk Hotel - _On Avery Island_
+  - Noel Gallagher’s High Flying Birds - _Noel Gallagher’s High Flying Birds_
+  - Kasabian - _Velociraptor!_
+  - Wilco - _The Whole Love_
+- 3 étoiles
+  - Wild Flag - _Wild Flag_
+  - Feist - _Metals_
+  - The Bewitched Hands - _Birds & Drums_
+  - She & Him - _Christmas Album_
+- 2 étoiles
+  - dEUS - _Keep You Close_
+  - Kaiser Chiefs - _The Future Is Medieval_
+  - Brian Wilson - _In The Key Of Disney_
+  - EMA - _Pas Life Martyred Saints_
+- 1 étoile
+  - Frànçois and the Atlas Moutain - _E volo love_
+  - Frànçois and the Atlas Moutain - _Plaine Inondable_
+  - St Vincent - _Strange Mercy_
+  - Male Bonding - _Endless Now_
+  - Stranded Horse - _Humbling Tides_
 
 [i936]: {% post_url 2011/2011-10-25-dum-dum-girls-only-in-dreams %}
 

@@ -4,6 +4,7 @@ title: Dirty’s top songs ever
 authors:
   - Dirty Henry
 tags:
+  - Pulp
   - The Beach Boys
   - The Strokes
 ---

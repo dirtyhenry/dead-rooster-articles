@@ -34,8 +34,7 @@ paquets de 20 disques, avec une critique à l'emporte pièce, et avec une **note
 discriminatoire** : 4 disques dans chacune des 5 catégories d'étoiles.
 
 Comment est réalisé la répartition des disques pour chaque paquet ? Grâce à
-l'application
-[SortMash](http://itunes.apple.com/fr/app/sortmash/id416854835?mt=8) pardi !
+l'application Sortmash pardi !
 
 La mise à jour restera mensuelle ou presque, et on continuera d'alerter ici sur
 la parution des nouveaux contenus.

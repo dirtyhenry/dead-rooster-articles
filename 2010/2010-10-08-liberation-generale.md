@@ -10,6 +10,8 @@ wordpress_id: 711
 cover: fun-friday-711.png
 date: 2010-10-08 12:08:42 +0200
 category: Fun Friday
+tags:
+  - Jean-Yves Ferri
 ---
 
 ## 1. Les légumes sont libérés

@@ -37,8 +37,8 @@ nous font dire : “qu’est-ce que c’est que cette daube ?”.
 Dès lors, pour qu'on leur accorde notre attention, il faut une sacrée ouverture
 d’esprit. Ce qui est le cas d’une amie (et non pas “mon cas”, bien trop obtus
 pour écouter un groupe au nom technoïde…) qui, un jour, a fait s'effondrer mes
-certitudes d'un cinglant : “Comment ?!? Tu connais pas **Acid House Kings** ?!?
-Mais c’est génial comme groupe !!!”
+certitudes d'un cinglant : “Comment ⁈ Tu connais pas **Acid House Kings** ⁈ Mais
+c’est génial comme groupe !!!”
 
 {% youtube Y1mYCa5I8hA %}
 

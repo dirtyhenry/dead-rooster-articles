@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Même les joueuses de folk ?!
+title: Même les joueuses de folk ⁈
 authors:
   - Dirty Henry
 wordpress_id: 556
