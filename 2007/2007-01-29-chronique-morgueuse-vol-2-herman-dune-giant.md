@@ -39,7 +39,7 @@ ce qui montre au passage qu'on ne risque pas grand chose à le laisser
 s'exprimer…), ne tient pas trop sur ses jambes (écoutez ce rythme arabisant,
 nonchalant et louvoyant, décrivant on ne peut mieux sa démarche hésitante…),
 aime se faire entendre (cette trompinette qui commence à 20 secondes et braille
-autour de la première minute, c'est lui qui crie, non ?!?), mais se calme
+autour de la première minute, c'est lui qui crie, non ⁈), mais se calme
 rapidement et reprend sa route ("vers la vie" diront les plus pédants, "vers cet
 été" diront plutôt les heureux possesseurs de l'album…).
 

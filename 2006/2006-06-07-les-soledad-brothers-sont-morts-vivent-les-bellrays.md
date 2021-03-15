@@ -25,7 +25,7 @@ complètement oufesques.
 
 Mais dès l'arrivée devant la salle, le ciel me tombe sur la tête, la feuille A4
 scotchée sur la porte est on ne peut plus claire : "Le concert des Soledad
-Brothers est annulé pour cause de dissolution." Non !!! Pourquoi seigneur ?!
+Brothers est annulé pour cause de dissolution." Non !!! Pourquoi seigneur ⁈
 Pourquoi ne verrai-je donc plus jamais ce groupe formidable, aux concerts
 formidables qui passaient le plus souvent dans des salles formidables à des
 tarifs formidables !!! Noyant ma déception dans la bière, je patiente donc
@@ -51,7 +51,7 @@ noir, la classe.
 
 Le concert commence par 4 chansons de soul-blues complètement nulles à chier.
 Bon sang de bonsoir ! D'abord ils annulent les Soledad Brothers et ensuite les
-BellRays font de la merde ?! Quelque chose ne tourne décidément pas rond sur
+BellRays font de la merde ⁈ Quelque chose ne tourne décidément pas rond sur
 cette planète en ce moment.
 
 Puis commence la 5ème chanson, qui finalement va durer 1 heure puisque dès lors,

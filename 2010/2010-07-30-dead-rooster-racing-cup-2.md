@@ -38,4 +38,4 @@ La 2nde édition de la Dead Rooster Racing Cup, compétition de karting de
 renommée au moins mondiale, s'est tenue le 23 juillet 2010. Voici les résultats
 de la course.
 
-{% include polaroids.html polaroids=page.ranking %}}
+{% include polaroids.html polaroids=page.ranking %}

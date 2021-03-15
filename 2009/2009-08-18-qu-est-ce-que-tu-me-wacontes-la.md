@@ -9,4 +9,4 @@ cover: gary-coleman.jpg
 ---
 
 Ainsi, Gary Coleman, a.k.a. Arnold, de Arnold et Willy, est désormais un cow-boy
-alcoolique…Le monde va mal !
+alcoolique… Le monde va mal !

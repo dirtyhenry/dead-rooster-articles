@@ -9,4 +9,4 @@ cover: navet.jpg
 ---
 
 Malgré Choucou et La Doublure, Gad Elmaleh a encore le droit de jouer dans des
-films ? Quoi ?! Et même d'en réaliser ??? Le monde va mal !
+films ? Quoi ⁈ Et même d'en réaliser ? Le monde va mal !

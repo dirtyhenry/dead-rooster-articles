@@ -40,7 +40,7 @@ country et la recette marche nettement mieux.
 Et là, l'objet du post prend tout son sens… Un des musiciens d'Isobel joue de
 cet instrument qui sonne très musique hawaïenne et je pense savoir qu'il s'agit
 d'un Fender Rhodes… Non, un pedal steel… Putain mais c'est quoi ces 2
-instruments souvent crédités dans les livrets de CD ?! Lequel est lequel ? Après
+instruments souvent crédités dans les livrets de CD ⁈ Lequel est lequel ? Après
 enquête auprès de mes comparses dont je me rends compte qu'ils se posent tous en
 secret la même question, je décide de mener l'enquête et voici les résultats.
 

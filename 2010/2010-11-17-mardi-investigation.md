@@ -22,7 +22,7 @@ comments:
     author_email: guiguilele@gmail.com
     date: 2010-11-17 11:33:48 +0100
     title: Mardi investigation
-    content: Rha ouais, t'sais c'est quoi l'pire ?!? C'est que t'as raison mec !
+    content: Rha ouais, t'sais c'est quoi l'pire ⁈ C'est que t'as raison mec !
   - author: Dirty Henry
     author_email: dirtyhenry@gmail.com
     date: 2010-11-17 16:12:46 +0100

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Alou Diarra dit oui à Rennes ?!
+title: Alou Diarra dit oui à Rennes ⁈
 authors:
   - Dirty Henry
 wordpress_id: 1167
