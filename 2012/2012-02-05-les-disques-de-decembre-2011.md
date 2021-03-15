@@ -158,36 +158,7 @@ Mick Jagger a créé ce "super"-groupe. Une question : "pourquoi ?". Horrible.
 
 {% spotify 6XJB9SVjFgrjra8hnKreaY %}
 
-Réalisée avec [Sortmash](http://sortmash.com).
-
-<div style="background: url(/IMG/png/top-decembre-2011.png);">
-<ul>
-<li style="height: 70px;margin-left: 160px;">## The Black Keys### El Camino</li>
-<li style="height: 70px;margin-left: 160px;">## Atlas Sound### Parallax</li>
-<li style="height: 70px;margin-left: 160px;">## Fleet Foxes### Helplessness Blues</li>
-<li style="height: 70px;margin-left: 160px;">## Kurt Vile### Smoke Ring For My Halo</li>
-
-<li style="height: 70px;margin-left: 160px;">## Bon Iver### Bon Iver</li>
-<li style="height: 70px;margin-left: 160px;">## Powersolo### Buzz Human</li>
-<li style="height: 70px;margin-left: 160px;">## Beat Mark### Howls of Joy</li>
-<li style="height: 70px;margin-left: 160px;">## Surfer Blood### Tarot Classics EP</li>
-
-<li style="height: 70px;margin-left: 160px;">## Jeff The Brotherhood### We Are The Champions</li>
-<li style="height: 70px;margin-left: 160px;">## The Mary Onettes### Islands</li>
-<li style="height: 70px;margin-left: 160px;">## Grand Ole Party### Under Our Skin</li>
-<li style="height: 70px;margin-left: 160px;">## Stevie Jackson### (I Can't Get No) Stevie Jackson</li>
-
-<li style="height: 70px;margin-left: 160px;">## Yuck### Yuck</li>
-<li style="height: 70px;margin-left: 160px;">## Bonnie Prince Billy### Wolfroy Goes to Town</li>
-<li style="height: 70px;margin-left: 160px;">## Lana Del Rey### Video Games EP</li>
-<li style="height: 70px;margin-left: 160px;">## Youth Lagoon### Year Of Hibernation</li>
-
-<li style="height: 70px;margin-left: 160px;">## The Pains Of Being Pure At Heart### Belong</li>
-<li style="height: 70px;margin-left: 160px;">## MANSFIELD. TYA### Nyx</li>
-<li style="height: 70px;margin-left: 160px;">## Esmerine### La Lechuza</li>
-<li style="height: 70px;margin-left: 160px;">## Super Heavy### Super Heavy</li>
-</ul>
-</div>
+Réalisée avec Sortmash.
 
 [i938]: {% post_url 2011/2011-10-26-the-black-keys-lonely-boy %}
 

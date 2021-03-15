@@ -173,36 +173,7 @@ pour autant. Minus est plus pertinent.
 
 {% spotify 3hsF2PdtSXdxKF92uWILeo %}
 
-Réalisée avec [Sortmash](http://sortmash.com).
-
-<div style="background: url(/IMG/png/disques-novembre.png);">
-<ul>
-<li style="height: 70px;margin-left: 160px;">## Phil Spector### Presents the Philles Album Collection</li>
-<li style="height: 70px;margin-left: 160px;">## The Beach Boys### Smile</li>
-<li style="height: 70px;margin-left: 160px;">## Real Estate### Days</li>
-<li style="height: 70px;margin-left: 160px;">## British Sea Power### Valhalla Dancehall</li>
-
-<li style="height: 70px;margin-left: 160px;">## A Classic Education### Hey There Stranger</li>
-<li style="height: 70px;margin-left: 160px;">## Bert Jansch### Bert Jansch</li>
-<li style="height: 70px;margin-left: 160px;">## Maison Neuve### Joan</li>
-<li style="height: 70px;margin-left: 160px;">## The King Khan Experience### Scion A/V Presents…</li>
-
-<li style="height: 70px;margin-left: 160px;">## Stephen Malkmus & The Jicks### Mirror Trafic</li>
-<li style="height: 70px;margin-left: 160px;">## PJ Harvey### Let England Shake</li>
-<li style="height: 70px;margin-left: 160px;">## Foster The People### Torches</li>
-<li style="height: 70px;margin-left: 160px;">## Loney Dear### Hall Music</li>
-
-<li style="height: 70px;margin-left: 160px;">## Herman Düne### Strange Moosic</li>
-<li style="height: 70px;margin-left: 160px;">## Yann Tiersen### Skyline</li>
-<li style="height: 70px;margin-left: 160px;">## James Vincent McMorrow### Early In The Morning</li>
-<li style="height: 70px;margin-left: 160px;">## Wonderflu### Lota Schwager</li>
-
-<li style="height: 70px;margin-left: 160px;">## Lisa Miller### Within Myself</li>
-<li style="height: 70px;margin-left: 160px;">## Justice### Audio, Video, Disco</li>
-<li style="height: 70px;margin-left: 160px;">## Goodbye Ivan### Intervals</li>
-<li style="height: 70px;margin-left: 160px;">## Minus The Bear### Omni</li>
-</ul>
-</div>
+Réalisée avec Sortmash.
 
 [i944]: {% post_url 2011/2011-11-05-real-estate-it-s-real %}
 

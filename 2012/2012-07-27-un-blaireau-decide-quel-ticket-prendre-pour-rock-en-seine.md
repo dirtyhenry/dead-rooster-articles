@@ -30,12 +30,10 @@ Je vais donc vous raconter ma problématique : quel billet choisir pour l'édit
 les 3 jours et je ne sais pas quoi décider car les seconds couteaux ne sont pas
 de taille à me convaincre de prendre le forfait 3 jours.
 
-Ni une, ni deux, je sors mon appli
-[Sortmash](http://itunes.apple.com/fr/app/sortmash/id416854835?mt=8), qui m'a
-aidé à prendre la décision. Sur des critères bien trop rationnels (liste triée
-des 24 noms qui m'intéressent à Rock en Seine : le premier a 24 pts, le dernier
-a 1 pt), c'est donc le dimanche qui l'emporte et j'accompagnerai donc Joe
-Gantdelaine voir Grandaddy.
+Ni une, ni deux, je sors mon appli Sortmash, qui m'a aidé à prendre la décision.
+Sur des critères bien trop rationnels (liste triée des 24 noms qui m'intéressent
+à Rock en Seine : le premier a 24 pts, le dernier a 1 pt), c'est donc le
+dimanche qui l'emporte et j'accompagnerai donc Joe Gantdelaine voir Grandaddy.
 
 {% asset rock-en-seine-lineup-infography.png %}
 

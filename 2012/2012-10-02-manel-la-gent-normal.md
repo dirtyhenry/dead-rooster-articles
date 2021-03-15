@@ -4,7 +4,9 @@ title: Manel - La Gent Normal
 authors:
   - Dirty Henry
 wordpress_id: 1117
-date: "2012-10-02 08:00:00 +0200"
+category: Chanson du jour
+tags:
+  - Pulp
 ---
 
 {% youtube OppX5KZCPOQ %}
