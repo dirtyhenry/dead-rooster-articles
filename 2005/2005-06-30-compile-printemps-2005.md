@@ -3,6 +3,7 @@ layout: post
 title: Compile printemps 2005
 authors:
   - Dirty Henry
+wordpress_id: 244
 category: Compile
 tags:
   - Arcade Fire

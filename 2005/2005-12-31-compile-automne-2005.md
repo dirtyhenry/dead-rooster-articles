@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Compile automne 2005
+wordpress_id: 288
 authors:
   - Dirty Henry
 cover: automne-2005.jpg

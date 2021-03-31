@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Jordan Ayew n'est donc pas Superman
+wordpress_id: 1267
 authors:
   - Dirty Henry
 category: Le monde va mal

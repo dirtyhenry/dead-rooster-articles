@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Peau de cochon
+wordpress_id: 234
 authors:
   - Dirty Henry
 ---

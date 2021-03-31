@@ -3,6 +3,7 @@ layout: post
 title: Oasis, rois de la terre battue
 authors:
   - Dirty Henry
+wordpress_id: 240
 category: Concert
 tags:
   - Oasis
