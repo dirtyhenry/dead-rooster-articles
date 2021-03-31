@@ -3,6 +3,7 @@ layout: post
 title: Les 2 meilleurs groupes de 2005 en 48 heures
 authors:
   - Dirty Henry
+wordpress_id: 239
 category: Concert
 tags:
   - Arcade Fire

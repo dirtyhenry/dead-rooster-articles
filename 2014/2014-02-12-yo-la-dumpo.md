@@ -4,6 +4,7 @@ title: Yo La Dumpo
 description: Dump j'adore, Yo La Tengo aussi. Petit hommage à Ira et sa bande.
 authors:
   - Joe Gantdelaine
+wordpress_id: 1270
 ---
 
 {% asset yolatengo-2.jpg %}

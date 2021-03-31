@@ -3,6 +3,7 @@ layout: post
 title: "VV et Camille : lutte serrée"
 authors:
   - Dirty Henry
+wordpress_id: 241
 tags:
   - concert
 ---

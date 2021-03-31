@@ -2,6 +2,7 @@
 layout: post
 title: The Notwist - Kong
 category: Chanson du jour
+wordpress_id: 1268
 ---
 
 Le nouvel album arrive courant février ! Ce deuxième extrait est nettement plus

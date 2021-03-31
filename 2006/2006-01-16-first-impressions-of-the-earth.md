@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Strokes - First Impressions of the Earth
+wordpress_id: 275
 authors:
   - Dirty Henry
 tags:

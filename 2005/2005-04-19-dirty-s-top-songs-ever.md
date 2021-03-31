@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Dirty’s top songs ever
+wordpress_id: 232
 authors:
   - Dirty Henry
 tags:

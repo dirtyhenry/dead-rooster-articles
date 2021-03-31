@@ -11,6 +11,7 @@ cover_alt: Le podium, celui des champions
 description: >
   Dead Rooster donne ses médailles à l'occasion d'un comeback complètement 2.0 !
 lead-paragraph: true
+wordpress_id: 1275
 ---
 
 C’est janvier, ça fait longtemps qu’on ne l’a pas fait mais ne serait-ce pas le

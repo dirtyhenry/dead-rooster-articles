@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ami des stars
+wordpress_id: 267
 ---
 
 {% asset valerie-leulliot.jpg %}
