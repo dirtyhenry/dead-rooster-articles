@@ -6,15 +6,15 @@ authors:
 wordpress_id: 730
 cover: dancefloor-lumineux.jpg
 date: 2008-08-23 18:52:00 +0200
-categories:
-  - Catégories
-  - Artistes
+category: Compile
 tags:
-  - Compilation
   - Islands
+  - Johnny Cash
   - The Raveonettes
   - The Rolling Stones
 ---
+
+{% spotify 3hoF0fwx9h8SfMZQQ1JVAm %}
 
 1. Wolf Parade - *Fancy Claps*🔇
 1. Blur - _Song 2_
@@ -33,7 +33,5 @@ tags:
 1. Islands - _Rough Gem_
 1. Katerine - _Louxor, j'adore_
 1. Le Tigre - _Deceptacon_
-
-{% spotify 3hoF0fwx9h8SfMZQQ1JVAm %}
 
 _NB : les titres avec 🔇 sont indisponibles._

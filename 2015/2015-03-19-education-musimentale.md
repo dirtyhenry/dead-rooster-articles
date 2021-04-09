@@ -10,6 +10,7 @@ description: >
   honteux parfois.
 lead-paragraph: true
 tags:
+  - Grandaddy
   - The Fresh & Onlys
 ---
 

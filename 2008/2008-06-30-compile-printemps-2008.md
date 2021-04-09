@@ -5,17 +5,17 @@ authors:
   - Dirty Henry
 wordpress_id: 546
 date: "2008-06-30 12:00:00 +0200"
-categories:
-  - Catégories
-  - Artistes
+category: Compile
 tags:
-  - Compilation
-  - The Black Keys
+  - Johnny Cash
+  - Lightspeed Champion
   - She & Him
   - Supergrass
-  - Lightspeed Champion
+  - The Black Keys
 cover: compile-printemps-2008.png
 ---
+
+{% spotify 0KuVlvdrbsEHqfe8GicspZ %}
 
 1. _Remember When (Side B)_ - The Black Keys
 1. _Why Do You Let Me Stay Here?_ - She & Him
@@ -34,5 +34,3 @@ cover: compile-printemps-2008.png
 1. _Rebel In You_ - Supergrass
 1. _I Don't Like You Anymore_ - The Last Shadow Puppets
 1. _Kids_ - MGMT
-
-{% spotify 0KuVlvdrbsEHqfe8GicspZ %}
