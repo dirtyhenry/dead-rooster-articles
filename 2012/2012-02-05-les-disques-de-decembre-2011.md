@@ -10,13 +10,11 @@ authors:
 wordpress_id: 992
 cover: disques-decembre-2011.png
 date: 2012-02-05 15:31:15 +0100
-categories:
-  - Catégories
-  - Artistes
+category: Album
 tags:
-  - Albums
-  - The Black Keys
   - Fleet Foxes
+  - Kurt Vile
+  - The Black Keys
 ---
 
 OK, on est déjà en février, mais faut bien trouver le temps de compiler les

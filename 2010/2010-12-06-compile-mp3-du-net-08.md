@@ -13,6 +13,7 @@ date: 2010-12-06 12:00:00 +0100
 category: Compile MP3 du NET
 tags:
   - Bleeding Rainbow
+  - Kurt Vile
 playlist:
   - artist: Warpaint
     title: Undertow
