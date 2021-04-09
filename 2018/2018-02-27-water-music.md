@@ -3,8 +3,7 @@ layout: post
 title: "Un Automne 2017"
 authors:
   - Joe Gantdelaine
-tags:
-  - compile
+category: Compile
 cover: automne-2017.jpg
 description: >
   Pour vulgariser ce post : Dead Rooster vous apporte la lumière dans des sortes
