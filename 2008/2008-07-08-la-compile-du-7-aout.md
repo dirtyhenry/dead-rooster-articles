@@ -6,15 +6,15 @@ authors:
 wordpress_id: 734
 cover: chemin-campagne.jpg
 date: 2008-07-08 15:15:00 +0200
-categories:
-  - Catégories
-  - Artistes
+category: Compile
 tags:
-  - Compilation
-  - The Black Keys
   - Fountains of Wayne
   - Herman Düne
+  - Johnny Cash
+  - The Black Keys
 ---
+
+{% spotify 5ZO0DMFEXTssWLRooaL20C %}
 
 1. Herman Düne - _Seven Cities_
 1. Eels - _Hey Man (Now, You're Really Living)_
@@ -28,7 +28,5 @@ tags:
 1. Fountains of Wayne - _Planet of Weed_
 1. Jason Falkner - *This Time*🔇
 1. Just Jack - _Writer's Block_
-
-{% spotify 5ZO0DMFEXTssWLRooaL20C %}
 
 _NB : les titres avec 🔇 sont indisponibles._

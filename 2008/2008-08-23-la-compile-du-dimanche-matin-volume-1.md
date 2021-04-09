@@ -6,15 +6,15 @@ authors:
 wordpress_id: 733
 cover: banc-parc-brume.jpg
 date: 2008-08-23 20:45:00 +0200
-categories:
-  - Catégories
-  - Artistes
+category: Compile
 tags:
-  - Compilation
   - Adam Green
+  - Grandaddy
   - Herman Düne
   - The Notwist
 ---
+
+{% spotify 0GkIj6KquwqO8rFFso5rBA %}
 
 1. Grandaddy - _He's Simple, He's Dumb, He's the Pilot_
 1. The Velvet Underground - _Sunday Morning_
@@ -29,5 +29,3 @@ tags:
 1. Herman Düne - _This Will Never Happen_
 1. Sufjan Stevens - _Chicago_
 1. Nada Surf - _80 Windows_
-
-{% spotify 0GkIj6KquwqO8rFFso5rBA %}
