@@ -1,15 +1,14 @@
 ---
 layout: post
+id: FF621DEB-6176-428B-BF44-6955809B62F6
 title: Pamphlet anti-chanson cachée
-authors:
-  - Dirty Henry
+author: Dirty Henry
+excerpt: >-
+  TODO
+category: Éditorial
+revisions:
+  "2007-02-09": "Version initiale"
 wordpress_id: 358
-date: "2007-02-09 14:31:00 +0100"
-categories:
-  - Catégories
-tags:
-  - Albums
-cover: pouet-pouet.jpg
 ---
 
 _Myths of the Near Future_, l'album des londoniens **Klaxons** est très bien,
