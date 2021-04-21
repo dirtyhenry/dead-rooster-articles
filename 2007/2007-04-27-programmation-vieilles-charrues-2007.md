@@ -7,8 +7,9 @@ date: "2007-04-27 13:51:00 +0200"
 categories:
   - Artistes
 tags:
-  - Herman Düne
   - Arcade Fire
+  - Herman Düne
+  - Klaxons
 cover: vieilles-charrues-2007.png
 ---
 

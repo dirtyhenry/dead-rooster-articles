@@ -8,11 +8,12 @@ date: "2007-05-02 21:00:00 +0200"
 categories:
   - Artistes
 tags:
-  - Oasis
+  - Arcade Fire
   - Blur
+  - Klaxons
+  - Oasis
   - Pulp
   - The La's
-  - Arcade Fire
   - The Strokes
 cover: podium.jpg
 ---

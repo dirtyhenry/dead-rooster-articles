@@ -5,6 +5,8 @@ authors:
   - Dirty Henry
 wordpress_id: 346
 date: "2007-01-17 12:26:00 +0100"
+tags:
+  - Jarvis Cocker
 ---
 
 Après Morrissey, c'est

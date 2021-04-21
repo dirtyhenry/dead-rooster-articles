@@ -8,6 +8,13 @@ excerpt: >-
   Tour d'horizon des pires coupables et de ceux qui gagnent gain de cause en
   cour d'appel.
 category: Éditorial
+tags:
+  - Camille
+  - Jarvis Cocker
+  - Klaxons
+  - Liars
+  - Miossec
+  - The Polyphonic Spree
 revisions:
   "2007-02-09": "Version initiale"
   "2021-04-21": "Révision du texte avec waveforms et un nouvel exemple"
@@ -93,7 +100,7 @@ l'histoire. Trois titres pour presque 86 minutes d’enfer. _Enjoy (not)_.
     existe bel et bien. Non, ça, pourquoi pas. On parle ici du morceau de merde
     qui pourrit la piste en l'allongeant artificiellement.
 
-[i1]: {% post_url 2021/2021-04-09-un-hiver-2021.md %}
+[i1]: {% post_url 2021/2021-04-09-un-hiver-2021 %}
 
 [1]:
   https://open.spotify.com/album/6jMFgNGIYR6fVWZp9WwjTG?si=6d5KMMklT6iNch2gar4C9w

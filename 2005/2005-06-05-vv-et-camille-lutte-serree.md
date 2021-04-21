@@ -4,8 +4,10 @@ title: "VV et Camille : lutte serrée"
 authors:
   - Dirty Henry
 wordpress_id: 241
+category: Concert
 tags:
-  - concert
+  - Camille
+  - The Kills
 ---
 
 ## Mercredi 1er juin, café de la danse, concert de Nouvelle Vague

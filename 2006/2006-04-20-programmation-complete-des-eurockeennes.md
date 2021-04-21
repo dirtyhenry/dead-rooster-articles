@@ -8,6 +8,7 @@ date: "2006-04-20 17:01:00 +0200"
 categories:
   - Catégories
 tags:
+  - Camille
   - The Strokes
 cover: eurocks-2006.jpg
 ---
