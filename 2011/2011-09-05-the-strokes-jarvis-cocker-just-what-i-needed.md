@@ -9,9 +9,10 @@ categories:
   - Catégories
   - Artistes
 tags:
+  - Jarvis Cocker
+  - Pulp
   - Reprise
   - The Strokes
-  - Pulp
 ---
 
 {% youtube GfBjR8ihAQ8 %}

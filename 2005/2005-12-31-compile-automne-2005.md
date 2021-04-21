@@ -7,6 +7,7 @@ authors:
 cover: automne-2005.jpg
 tags:
   - Bloc Party
+  - Liars
   - The Strokes
 ---
 

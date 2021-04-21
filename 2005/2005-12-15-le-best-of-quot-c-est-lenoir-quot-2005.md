@@ -6,6 +6,7 @@ authors:
   - Dirty Henry
 tags:
   - Arcade Fire
+  - Camille
 ---
 
 {% asset lenoir.jpg %}

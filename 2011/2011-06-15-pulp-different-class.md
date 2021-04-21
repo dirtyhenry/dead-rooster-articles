@@ -11,6 +11,7 @@ cover: pulp-different-class.jpg
 date: 2011-06-15 12:17:59 +0200
 category: Review
 tags:
+  - Jarvis Cocker
   - Pulp
 wordpress_id: 852
 ---

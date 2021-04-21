@@ -8,6 +8,7 @@ date: "2006-08-21 11:56:00 +0200"
 categories: News
 tags:
   - Bloc Party
+  - Jarvis Cocker
   - Pulp
 ---
 
