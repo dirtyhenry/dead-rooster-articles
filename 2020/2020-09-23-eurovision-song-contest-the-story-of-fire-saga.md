@@ -11,7 +11,7 @@ Will Ferrell fait un film sur l’Eurovision ? Il m’aura fallu presque 3 mois
 me lancer tant j’étais pris de vertige devant le potentiel du film. Je fais peu
 de mystère sur [l’admiration que je porte à M. Ferrell][i4]. Quant à
 l’Eurovision, on connaît déjà le potentiel comique du truc qu’on a relevé
-[ici][i1], [ici][i2] ou [là][i3]. Potentiel [Camavinguesque][1]¹ donc, mais quel
+[ici][i1], [ici][i2] ou [là][i3]. Potentiel [Camavinguesque][^1] donc, mais quel
 verdict ? Il y a du très très bon, et du un peu moins bon.
 
 ## Le très très bon
@@ -57,13 +57,12 @@ Crashers_, où David Dobkin était aussi aux manettes, et dont le récent
 visionnage estival a confirmé [la _greatness_][5], alors on pourra boire notre
 petit lait.
 
----
-
-¹ l’intérêt majeur d'écrire pour ce site à l'audience… hum… _confidentielle_ est
-de se repencher régulièrement sur les vieux articles. On a commencé en 2005 donc
-certains sont déjà très datés. Faire référence au jeune Eduardo est donc
-volontairement risqué, mais je suis curieux de savoir ce que ça me fera de
-relire ça dans 10 ans.
+[^1]:
+    l’intérêt majeur d'écrire pour ce site à l'audience… hum… _confidentielle_
+    est de se repencher régulièrement sur les vieux articles. On a commencé en
+    2005 donc certains sont déjà très datés. Faire référence au jeune
+    [Eduardo][1] est donc volontairement risqué, mais je suis curieux de savoir
+    ce que ça me fera de relire ça dans 10 ans.
 
 [1]: https://fr.wikipedia.org/wiki/Eduardo_Camavinga
 [2]: https://youtu.be/kql9cw2MtCU

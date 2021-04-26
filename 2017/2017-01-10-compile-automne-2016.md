@@ -16,9 +16,9 @@ description: >
 
 ## Longue vie aux compiles
 
-[Il y a déjà plusieurs années][compilations], Dirty Henry fabriquait des
-compilations saisonnières, influencé par le calendrier appliqué par les Inrocks.
-[Compile automne 2008][i601], [compile été 2005][ete-2005], c'était lui.
+[Il y a déjà plusieurs années][1], Dirty Henry fabriquait des compilations
+saisonnières, influencé par le calendrier appliqué par les Inrocks. [Compile
+automne 2008][i601], [compile été 2005][ete-2005], c'était lui.
 
 Joe Gantdelaine, lui, ce sont plutôt des moments de la semaine qui
 l'intéressaient. [La compile du lundi matin][i732], [la compile du samedi soir
@@ -90,7 +90,7 @@ Par ici pour la [face B][faceb].
 
 [Illustration par @christhebarker][cover]
 
-[compilations]: http://www.deadrooster.org/-Les-compiles-
+[1]: /category/compile/
 [cover]: https://twitter.com/christhebarker/status/815342375354662912
 
 [ete-2005]: {% post_url 2005/2005-09-30-compile-ete-2005 %}
