@@ -11,7 +11,7 @@ Will Ferrell fait un film sur l’Eurovision ? Il m’aura fallu presque 3 mois
 me lancer tant j’étais pris de vertige devant le potentiel du film. Je fais peu
 de mystère sur [l’admiration que je porte à M. Ferrell][i4]. Quant à
 l’Eurovision, on connaît déjà le potentiel comique du truc qu’on a relevé
-[ici][i1], [ici][i2] ou [là][i3]. Potentiel [Camavinguesque][^1] donc, mais quel
+[ici][i1], [ici][i2] ou [là][i3]. Potentiel Camavinguesque[^1] donc, mais quel
 verdict ? Il y a du très très bon, et du un peu moins bon.
 
 ## Le très très bon
