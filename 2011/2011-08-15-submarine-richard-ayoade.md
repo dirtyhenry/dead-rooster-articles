@@ -15,6 +15,7 @@ tags:
   - Alex Turner
   - Joe Dunthorne
   - Richard Ayoade
+  - Vampire Weekend
   - Wes Anderson
 ---
 
