@@ -2,8 +2,8 @@
 layout: post
 title: Le best-of "C'est Lenoir" 2005
 wordpress_id: 265
-authors:
-  - Dirty Henry
+category: News
+author: Dirty Henry
 tags:
   - Arcade Fire
   - Camille
