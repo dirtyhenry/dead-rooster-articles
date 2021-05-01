@@ -5,20 +5,23 @@ authors:
   - Dirty Henry
 wordpress_id: 1015
 date: 2012-03-26 17:41:18 +0200
+category: Chanson du jour
+tags:
+  - Belle and Sebastian
+  - Reprise
+  - The Primitives
 ---
+
+{% youtube rSBVvFU55fg %}
 
 Clip TM voire TTM[^1] pour cette reprise du tube des Primitives joué par le
 groupe de Glasgow pour la série des Late Night Tales.
 
-{% youtube rSBVvFU55fg %}
-
-Sinon, n'oublions pas de regarder
-[_Dumb And Dumber_](http://www.youtube.com/watch?v=Bf92Y4CQ3DA) tous les ans
-(dans [la version "petite vieille"-included][i576] bien sûr).
-
-(via
-[Pitchfork](http://pitchfork.com/news/45899-video-belle-and-sebastian-crash/))
+Sinon, n'oublions pas de regarder [_Dumb And Dumber_][1] tous les ans (dans [la
+version "petite vieille"-included][i576] bien sûr).
 
 [^1]: trop mignon voire trop trop mignon
 
 [i576]: {% post_url 2010/2010-03-08-petite-vieille %}
+
+[1]: https://youtu.be/Bf92Y4CQ3DA
