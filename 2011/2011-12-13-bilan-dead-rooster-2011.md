@@ -9,6 +9,8 @@ authors:
 wordpress_id: 969
 cover: message-caractere-informatif-notes.png
 date: 2011-12-13 18:51:40 +0100
+tags:
+  - Guiguite le hamster
 ---
 
 C'est bientôt la fin de l'année, et c'est l'heure du bilan 2011 pour Dead
