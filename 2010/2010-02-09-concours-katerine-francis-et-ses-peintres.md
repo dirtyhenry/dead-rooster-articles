@@ -9,12 +9,10 @@ authors:
   - Dirty Henry
 wordpress_id: 569
 date: "2010-02-09 13:30:18 +0100"
-categories:
-  - Catégories
-  - Artistes
+category: Concours Katerine
 tags:
-  - Concours Katerine
   - Katerine
+  - Johnny Hallyday
 cover: 52-reprises-dans-espace-katerine.jpg
 ---
 

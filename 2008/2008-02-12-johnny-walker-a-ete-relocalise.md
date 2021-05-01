@@ -6,11 +6,12 @@ authors:
 wordpress_id: 435
 cover: cut-in-the-hill-gang.jpg
 date: 2008-02-12 15:11:00 +0100
-categories:
-  - Artistes
+category: News
 tags:
-  - Soledad Brothers
+  - Ben Swank
   - Cut In The Hill Gang
+  - Johnny Walker
+  - Soledad Brothers
 ---
 
 Les Soledad Brothers étaient déjà le secret le mieux gardé des années 2000.

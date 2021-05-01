@@ -5,10 +5,10 @@ authors:
   - Dirty Henry
 wordpress_id: 472
 date: "2008-10-07 14:42:00 +0200"
-categories:
-  - Artistes
+category: Le monde va mal
 tags:
   - Bob Dylan
+  - Johnny Hallyday
 cover: hugues-aufray.jpg
 ---
 

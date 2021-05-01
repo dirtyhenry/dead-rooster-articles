@@ -9,6 +9,7 @@ description: >
   Pour vulgariser ce post : Dead Rooster vous apporte la lumière dans des sortes
   de callebasses.
 tags:
+  - Johnny Hallyday
   - The Standells
 ---
 

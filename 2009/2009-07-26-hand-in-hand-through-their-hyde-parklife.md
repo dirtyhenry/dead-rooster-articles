@@ -6,13 +6,12 @@ authors:
 wordpress_id: 514
 cover: blur-hyde-park.jpg
 date: 2009-07-26 20:19:15 +0200
-categories:
-  - Catégories
-  - Artistes
+category: Concert
 tags:
   - Concert
   - Blur
   - Florence + The Machine
+  - Vampire Weekend
 ---
 
 En décembre dernier, Damon Albarn lâchait une bombe : "**Blur** jouera à Hyde

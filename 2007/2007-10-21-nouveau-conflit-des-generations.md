@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Nouveau conflit des générations
-authors:
-  - Joe Gantdelaine
+author: Joe Gantdelaine
+category: Le monde va mal
 wordpress_id: 419
 date: "2007-10-21 11:03:00 +0200"
 cover: petite-vieille.jpg

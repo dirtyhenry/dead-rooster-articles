@@ -6,9 +6,9 @@ authors:
 wordpress_id: 704
 cover: katerine-banane-pixel-art.png
 date: 2010-09-23 14:13:42 +0200
-categories:
-  - Concours Katerine
+category: Concours Katerine
 tags:
+  - Johnny Hallyday
   - Philippe Katerine
 ---
 
