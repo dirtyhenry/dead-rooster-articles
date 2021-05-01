@@ -32,4 +32,4 @@ c'est la seconde reprise mentionnée sur ce site][i598]).
 [i680]:
 {% post_url 2010/2010-08-12-the-swell-season-two-headed-boy-neutral-milk-hotel %}
 
-[i598]: {% post_url 2010/2010-04-22-le-2nd-titre-du-printemps %}
+[i598]: {% post_url 2010/2010-04-22-codeine-velvet-club-i-am-the-resurrection %}
