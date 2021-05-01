@@ -29,4 +29,4 @@ même, ça doit aider à se faire connaître :
 
 {% youtube rIpD7hfffQo %}
 
-[i594]: {% post_url 2010/2010-04-13-le-1er-titre-du-printemps %}
+[i594]: {% post_url 2010/2010-04-13-freelance-whales-generator-2nd-floor %}
