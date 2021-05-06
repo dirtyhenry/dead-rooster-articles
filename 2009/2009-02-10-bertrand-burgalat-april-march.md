@@ -5,7 +5,7 @@ authors:
   - Dirty Henry
 excerpt: >-
   Compte-rendu du concert de la paire Bertrand Burgalat/April March au New
-  Morning. C'était court mais c'était bath.
+  Morning, à Paris. C'était court mais c'était bath.
 wordpress_id: 223
 date: "2009-02-10 14:42:29 +0100"
 category: Concert
@@ -43,7 +43,7 @@ fulgurances garage fabriquées avec The Makers) : [_Chrominance Decoder_][9] et
 
 ## Le concert
 
-Pas de première partie ce mercredi 28 janvier, à l'Elysée Montmartre. Quelques
+Pas de première partie ce mercredi 28 janvier, au New Morning à Paris. Quelques
 figures notables ont pris place autour de la scène (Michka Assayas et Héléna
 Noguerra traînent autour du bar) et le concert commence avec Bertrand Burgalat
 au chant, entouré d'un groupe à l'identité sonore très proche de celle d'A.S
