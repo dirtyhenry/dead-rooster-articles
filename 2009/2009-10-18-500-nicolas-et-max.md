@@ -6,14 +6,13 @@ authors:
 wordpress_id: 538
 cover: 500-days-of-summer.jpg
 date: 2009-10-18 18:52:09 +0200
-categories:
-  - Artistes
+category: Ciné-Club moi j'vous dis
 tags:
+  - Adam Elliot
+  - Joseph Gordon-Levitt
+  - Laurent Tirard
   - Marc Webb
   - Zooey Deschanel
-  - Joseph Gordon-Levitt
-  - Adam Elliot
-  - Laurent Tirard
 comments:
   - author: Dirty Henry
     author_email: dirtyhenry@gmail.com
