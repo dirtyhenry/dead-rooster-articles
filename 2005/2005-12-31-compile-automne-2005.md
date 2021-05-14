@@ -6,6 +6,7 @@ authors:
   - Dirty Henry
 cover: automne-2005.jpg
 tags:
+  - Babyshambles
   - Bloc Party
   - Liars
   - The Strokes

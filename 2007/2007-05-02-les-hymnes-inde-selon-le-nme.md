@@ -9,6 +9,7 @@ categories:
   - Artistes
 tags:
   - Arcade Fire
+  - Babyshambles
   - Blur
   - Klaxons
   - Oasis

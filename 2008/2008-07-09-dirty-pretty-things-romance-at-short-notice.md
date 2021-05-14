@@ -5,11 +5,8 @@ authors:
   - Joe Gantdelaine
 wordpress_id: 212
 date: "2008-07-09 09:42:35 +0200"
-categories:
-  - Catégories
-  - Artistes
+category: Review
 tags:
-  - Albums
   - Dirty Pretty Things
 cover: dirty-pretty-things.jpg
 ---
