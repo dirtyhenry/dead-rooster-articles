@@ -6,6 +6,8 @@ authors:
 wordpress_id: 597
 date: "2010-04-21 18:05:03 +0200"
 cover: el-bandido.png
+tags:
+  - Feist
 ---
 
 A une époque, le fun chez les artistes, c'était monnaie courante comme le prouve

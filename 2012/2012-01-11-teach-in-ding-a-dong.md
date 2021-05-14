@@ -5,6 +5,9 @@ authors:
   - Dirty Henry
 wordpress_id: 981
 date: "2012-01-11 21:00:00 +0100"
+category: Chanson du jour
+tags:
+  - Eurovision
 ---
 
 {% youtube -oUZLV_GdZw %}

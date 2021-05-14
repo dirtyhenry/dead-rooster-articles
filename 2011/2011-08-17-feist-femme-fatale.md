@@ -5,6 +5,9 @@ authors:
   - Dirty Henry
 wordpress_id: 881
 date: "2011-08-17 15:07:13 +0200"
+category: Chanson du jour
+tags:
+  - Feist
 ---
 
 {% soundcloud 21181100 %}
