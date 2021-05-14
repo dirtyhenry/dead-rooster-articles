@@ -5,10 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 362
 date: "2007-02-22 17:35:00 +0100"
-categories:
-  - Catégories
-tags:
-  - Foot
+category: Foot
 cover: lille-manchester-united.png
 ---
 

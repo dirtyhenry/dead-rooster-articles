@@ -4,10 +4,7 @@ title: On re-refait le match
 author: Dirty Henry
 wordpress_id: 399
 date: "2007-08-09 07:16:00 +0200"
-categories:
-  - Catégories
-tags:
-  - Foot
+category: Foot
 cover: eugene-saccomano.jpg
 ---
 

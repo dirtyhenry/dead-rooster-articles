@@ -4,10 +4,7 @@ title: Ribéry est un déconneur
 author: Dirty Henry
 wordpress_id: 393
 date: "2007-07-12 13:34:00 +0200"
-categories:
-  - Catégories
-tags:
-  - Foot
+category: Foot
 cover: franck-ribery-2.jpg
 ---
 
