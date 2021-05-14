@@ -11,6 +11,7 @@ wordpress_id: 943
 cover: disques-octobre-2011.png
 date: 2011-11-03 17:08:32 +0100
 tags:
+  - Neutral Milk Hotel
   - Veronica Falls
   - Walt Disney
 comments:

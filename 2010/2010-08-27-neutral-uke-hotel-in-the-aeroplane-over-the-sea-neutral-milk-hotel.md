@@ -6,6 +6,9 @@ authors:
 wordpress_id: 687
 cover: neutral-uke-hotel-moustache.png
 date: 2010-08-27 12:07:19 +0200
+category: Chanson du jour
+tags:
+  - Neutral Milk Hotel
 ---
 
 Encore une reprise de Neutral Milk Hotel, jouée cette fois au Ukulele, par un

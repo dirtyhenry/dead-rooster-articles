@@ -3,9 +3,10 @@ layout: post
 title: "Neutral Milk Hotel, une Introduction"
 authors:
   - Dirty Henry
+category: Concert
 tags:
   - musique
-  - neutral-milk-hotel
+  - Neutral Milk Hotel
   - concert
   - trianon
   - jeff-mangum
