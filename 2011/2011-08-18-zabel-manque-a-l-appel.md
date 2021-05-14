@@ -6,8 +6,7 @@ authors:
 wordpress_id: 882
 cover: roger-zabel.jpg
 date: 2011-08-18 23:43:24 +0200
-categories:
-  - Catégories
+category: Le monde va mal
 tags:
   - Foot
 ---

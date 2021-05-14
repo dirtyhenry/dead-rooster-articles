@@ -5,10 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 321
 date: "2006-06-14 17:05:00 +0200"
-categories:
-  - Catégories
-tags:
-  - Foot
+category: Foot
 comments:
   - author: Dirty Henry
     author_email: dirtyhenry@gmail.com

@@ -5,10 +5,9 @@ authors:
   - Dirty Henry
 wordpress_id: 313
 date: "2006-05-18 08:20:00 +0200"
-categories:
-  - Catégories
+category: Foot
 tags:
-  - Foot
+  - Robert Pirès
 cover: robert-pires.jpg
 ---
 

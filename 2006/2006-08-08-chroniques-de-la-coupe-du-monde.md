@@ -5,12 +5,9 @@ authors:
   - Dirty Henry
 wordpress_id: 327
 date: "2006-08-08 15:06:00 +0200"
-categories:
-  - Artistes
-  - Catégories
+category: Foot
 tags:
   - Graham Coxon
-  - Foot
 cover: trophee-coupe-monde.jpg
 ---
 

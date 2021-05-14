@@ -6,8 +6,7 @@ authors:
 wordpress_id: 1027
 cover: meireles.jpg
 date: 2012-04-24 23:22:12 +0200
-categories:
-  - Catégories
+category: Le monde va mal
 tags:
   - Foot
 ---
