@@ -15,5 +15,6 @@ cover: romanzo-criminale.jpg
 > That awful sound, bang bang  
 > I used to shoot you down
 
-Je recommande
-[Romanzo Criminale](http://www.allocine.fr/film/fichefilm_gen_cfilm=61263.html).
+Je recommande [Romanzo Criminale][1].
+
+[1]: https://www.themoviedb.org/movie/14375-romanzo-criminale

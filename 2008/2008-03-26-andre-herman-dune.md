@@ -14,8 +14,8 @@ tags:
 cover: andre-herman-dune.jpg
 ---
 
-Il s'appelle **André Herman Düne** ou alors Ben Haschish, Ben Dope, ou [Stanley
-Brinks][1]… Finalement, peu importe l'étiquette. Le gars est tout de suite
+Il s'appelle **André Herman Düne** ou alors Ben Haschish, Ben Dope, ou Stanley
+Brinks… Finalement, peu importe l'étiquette. Le gars est tout de suite
 identifiable à sa voix : hésitante mais en place, aiguë mais pénétrante.
 
 Cet homme est plein de paradoxes : il a lâché le groupe familial à l'automne
@@ -78,5 +78,3 @@ propos) et forcément subjective du meilleur d'André (sans classement…) :
 - _Dies of old age in San Francisco_
 - _Cooks_
 - et puis, quand même, avec Herman Düne, _Mas Cambios_ et _Not on top_
-
-[1]: http://www.myspace.com/therealstanleybrinks

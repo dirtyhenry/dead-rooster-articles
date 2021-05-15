@@ -10,7 +10,10 @@ cover: nems.jpg
 
 Les nouveaux disques arrivent ! Hmmm !!! Très, très bon !!!
 
-- [Menu 1](http://www.myspace.com/aprilmarch) : April March - _Attention chérie_
-- [Menu 2](http://www.myspace.com/jasonfalkner) : Jason Falkner - _NYC_
-- [Menu 3](http://www.myspace.com/thegoteam) : The Go ! Team - _Grip like a
-  vice_
+- Menu 1 : [April March - _Attention chérie_][1]
+- Menu 2 : [Jason Falkner - _NYC_][2]
+- Menu 3 : [The Go ! Team - _Grip like a vice_][3]
+
+[1]: https://musicbrainz.org/release-group/60c963ca-dd15-4a5c-b009-bcda93e6fc2f
+[2]: https://musicbrainz.org/recording/7a774d0a-201e-4acb-a986-e9a0e980ad01
+[3]: https://open.spotify.com/track/5660vZE2SqCJNVuw0ZgjTF?si=eafc26c63bec40bb

@@ -30,7 +30,7 @@ cover: wes-anderson.jpg
 ---
 
 Derrière la théorie des [six degrés de séparation][1] se cache une formalisation
-du plus vulgaire “Le monde est petit”. Contentons-nous de trois degrés pour voir
+du plus vulgaire “le monde est petit”. Contentons-nous de trois degrés pour voir
 où nous pouvons aller à partir de Wes Anderson.
 
 ## Degré 1 : Wes Anderson
@@ -47,7 +47,7 @@ Comment, vous ne le saviez pas ? Voici ma démonstration en quelques points :
   Lovely)_][4] de Peter Sarstedt qui, comme ni sa voix ou son nom ne
   l’indiquent, n’est ni français, ni scandinave, mais bel et bien anglo-indien.
 - La bande originale du film contient un trésor que beaucoup ne tiennent pas
-  comme trésor (à tort) : [_Les Champs-Elysées_][5] de Joe Dassin ([dont le père
+  comme trésor (à tort) : [_Les Champs-Élysées_][5] de Joe Dassin ([dont le père
   Jules vient de mourir][6], RIP)
 
 {% asset jason-schwartzman.jpg %}
@@ -88,12 +88,14 @@ qu’on espère voir passer un de ses jours en France.
 Et alors finalement, vous me croyez quand je vous dis que le monde est petit ?
 
 [1]: https://fr.wikipedia.org/wiki/Six_degrés_de_séparation
-[2]: http://www.allocine.fr/film/fichefilm_gen_cfilm=115736.html
-[3]: http://www.deezer.com/track/83132
-[4]: http://www.deezer.com/track/102715
-[5]: http://www.deezer.com/track/8468
+[2]: https://www.themoviedb.org/movie/4538-the-darjeeling-limited
+[3]: https://song.link/fr/i/1440565303 "The Rolling Stones - Play With Fire"
+[4]:
+  https://song.link/fr/i/1440565163
+  "Peter Sarstedt - Where Do You Go To (My Lovely)"
+[5]: https://song.link/fr/i/260903584 "Joe Dassin - Les Champs-Élysées"
 [6]:
-  http://www.lemonde.fr/carnet/article/2008/04/01/jules-dassin-cineaste-americain_1029680_3382.html
-[7]: http://www.myspace.com/phantomplanet
-[8]: http://www.myspace.com/coconutrecords
-[9]: http://www.myspace.com/sheandhim
+  https://www.lemonde.fr/disparitions/article/2008/04/01/jules-dassin-cineaste-americain_1029680_3382.html
+[7]: https://fr.wikipedia.org/wiki/Phantom_Planet
+[8]: https://musicbrainz.org/artist/eddc0911-21fc-4327-ab90-ccc459ce1ef7
+[9]: https://www.sheandhim.com/

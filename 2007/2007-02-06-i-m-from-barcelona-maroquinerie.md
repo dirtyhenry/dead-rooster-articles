@@ -1,14 +1,10 @@
 ---
 layout: post
 title: Et I’m from Barcelona à la Maroquinerie, c’était comment ?
-authors:
-  - Dirty Henry
+author: Dirty Henry
 wordpress_id: 356
 date: "2007-02-06 13:04:00 +0100"
-categories:
-  - Catégories
-tags:
-  - Concert
+category: Concert
 cover: i-m-from-barcelona.png
 ---
 
@@ -25,9 +21,8 @@ Cleese… les références sont bonnes)
 
 La soirée commence par un décompte. Tiens, ils ne sont que 8 sur scène. Ah mais,
 en fait, c'est la 1ère partie, **Irene**. Pas mal, pas mal. En plus c'est un
-groupe sympa, ils offrent
-[plein de MP3 à télécharger gratuitement sur leur page web](http://www.irene.nu/),
-et [leur MySpace](http://www.myspace.com/ireneswe).
+groupe sympa, ils offrent plein de MP3 à télécharger gratuitement sur leur page
+web, et leur MySpace.
 
 Mais cette fois, c'est la bonne, **I'm From Barcelona** entre en scène. On
 recompte. 1, 2, 3, etc. Le bloqueur restera bloqué à 16. Le taux d'absentéisme
@@ -56,4 +51,4 @@ tournée… Mais on reviendra en mars !"
 Renseignements pris, leur retour en mars se fera à la Cigale. Le rendez-vous est
 déjà pris.
 
-[Photos : (c) Robert Gil](http://www.photosconcerts.com/)
+[Photos : (c) Robert Gil](https://www.photosconcerts.com/)

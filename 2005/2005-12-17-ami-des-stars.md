@@ -2,9 +2,8 @@
 layout: post
 title: Ami des stars
 wordpress_id: 267
+cover: valerie-leulliot.jpg
 ---
-
-{% asset valerie-leulliot.jpg %}
 
 Autour de Lucie est (était ?) un groupe formidable. Après l'avoir vu 3 fois en
 concert et être tombé inévitablement plus ou moins amoureux de **Valérie
@@ -23,5 +22,7 @@ Mouais, mouais, mouais… Le courage m'a manqué d'attendre 3 heures, je dois le
 confesser. L'avenir appartient désormais à ceux qui se lèvent tôt et qui vont au
 Pop-in…
 
-[1]: http://www.truskel.com
-[2]: http://www.infoconcert.com/html/salle.php?id=6604
+[1]: https://www.facebook.com/truskelmicroclub "Page Facebook du Truskel"
+[2]:
+  https://www.infoconcert.com/salle/le-complexe-ex-cat-de-bordeaux-6604/concerts.html
+  "Page infoconcert de la salle de concert CAT à Bordeaux"

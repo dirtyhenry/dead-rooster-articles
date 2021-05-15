@@ -16,5 +16,4 @@ tags:
 Sortie de l'album du nouveau groupe du White Stripes Jack White _Broken Boy
 Soldiers_ le 16 mai.
 
-Leur site est extrêmement drôle :
-[Site officiel](http://www.theraconteurs.com/).
+[Leur site est extrêmement drôle.](https://www.theraconteurs.com/).
