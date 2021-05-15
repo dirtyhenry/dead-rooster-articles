@@ -16,8 +16,8 @@ cover: something-like-happiness.jpg
 - C'est bien joué,
 - Le sosie tchèque de Mathieu Amalric joue dedans.
 
-Ce sont trois bonnes raisons d'aller voir ce film. Y'en a sûrement d'autres,
-c'est sûr.
+Ce sont trois bonnes raisons d'aller voir ce film dont le titre original est
+_Štěstí_. Y'en a sûrement d'autres, c'est sûr.
 
 - Si y'en a qui aiment les franges, y'en a.
 - Si y'en a qui aiment les scènes entre mecs bourrés, y'en a.
@@ -27,5 +27,4 @@ c'est sûr.
 Y'a même des animaux de la ferme, alors c'est pour dire qu'on trouve vraiment à
 boire et à manger dans ce film…
 
-Découvrez plus d'info autour du film via
-[Allociné](http://www.allocine.fr/film/fichefilm_gen_cfilm=108851.html).
+[Découvrez plus d'info autour du film](https://www.themoviedb.org/movie/33682-t-st).

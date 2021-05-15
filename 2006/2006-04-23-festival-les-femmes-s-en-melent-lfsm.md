@@ -54,5 +54,5 @@ Et la pedal steel, c'est bien ce qui sonne hawaïen :
 
 [1]: https://lfsm.net
 [2]: https://www.wendymcneill.com
-[3]: http://sarahslean.com
+[3]: https://sarahslean.com/
 [4]: https://isobelcampbell.com

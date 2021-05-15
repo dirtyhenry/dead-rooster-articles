@@ -16,9 +16,9 @@ tags:
   Rock en Seine, où il sera remplacé par Kasabian.
 
 - **Jarvis Cocker**, l'ancien leader de Pulp, vient de publier le premier tome
-  d'une série de podcast sur [sa page MySpace][1]. Sur ce podcast, on entendra
-  Jarvis lire ses nouvelles préférées, le premier tome étant un conte
-  traditionnel islandais _The Wizard of the Westman Isles_.
+  d'une série de podcast sur sa page MySpace. Sur ce podcast, on entendra Jarvis
+  lire ses nouvelles préférées, le premier tome étant un conte traditionnel
+  islandais _The Wizard of the Westman Isles_.
 
 - Le second album de **Joanna Newsom**, _Ys_, sortira le 13 novembre. Entouré de
   beau monde (Van Dyke Parks a arrangé l'album, Steve Albini l'a produit et
@@ -31,5 +31,3 @@ tags:
 - Le second album de **Bloc Party** sortira début 2007. Le leader du groupe,
   Kele Okereke, promet un disque plus complexe, marqué par les évènement
   violents qui ont frappé l'Angleterre en 2005.
-
-[1]: http://www.myspace.com/jarvspace
