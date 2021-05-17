@@ -34,7 +34,7 @@ playlist:
   - artist: Chapter
     title: Tomcat
     asset: chapter.jpg
-    link: http://www.bonpourlesoreilles.net/musique/2010/09/chapter-three-a-collection-of-monsters-four-whiter-heron-blues.html
+    link: https://www.youtube.com/watch?v=JwVSfEPocSw
   - artist: Ducktails
     title: Hamilton Road
     asset: ducktails-hamilton-road.jpg
