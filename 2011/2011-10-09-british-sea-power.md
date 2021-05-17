@@ -19,6 +19,9 @@ comments:
       J'écoute "Valhalla Dancehall" en ce moment même. La 2nde écoute donne une
       meilleur impression que la 1ère où j'avais trouvé que c'était soit trop
       bête et méchant, soit trop subtil. Finalement, le mélange marche bien.
+category: Review
+tags:
+  - British Sea Power
 ---
 
 Ce samedi 8 octobre 2011, les _happy few_ du Nouveau Casino dont je faisais

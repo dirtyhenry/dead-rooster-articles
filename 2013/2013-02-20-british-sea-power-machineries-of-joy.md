@@ -5,6 +5,9 @@ authors:
   - Dirty Henry
 wordpress_id: 1181
 date: 2013-02-20 10:00:00 +0100
+category: Chanson du jour
+tags:
+  - British Sea Power
 ---
 
 Les prolifiques British Sea Power, [chouchous de Joe Gantdelaine][i928],

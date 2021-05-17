@@ -5,6 +5,9 @@ authors:
   - Dirty Henry
 wordpress_id: 1253
 date: 2013-06-26 12:00:00 +0200
+category: Chanson du jour
+tags:
+  - Black Rebel Motorcycle Club
 ---
 
 Le BRMC vous offre la vidéo de leur single _Hate The Taste_, extrait de leur

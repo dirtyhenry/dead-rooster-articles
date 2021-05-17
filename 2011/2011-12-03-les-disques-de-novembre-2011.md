@@ -9,8 +9,9 @@ authors:
 wordpress_id: 961
 cover: disques-novembre-2011.png
 date: 2011-12-03 18:45:04 +0100
-category: Album
+category: Review
 tags:
+  - British Sea Power
   - The Beach Boys
 ---
 
@@ -159,9 +160,8 @@ de morceaux de ce niveau dans cet opus.
 
 ### Goodbye Ivan - _Intervals_
 
-Recommandé par
-[Bon Pour les Oreilles](http://www.bonpourlesoreilles.net/musique/2011/08/goodbye-ivan-the-cherry-wood-ep.html),
-l'album reste trop atmosphérique pour qu'on s'y plonge.
+Recommandé par Christophe Schenk, l'album reste trop atmosphérique pour qu'on
+s'y plonge.
 
 ### Minus The Bear - _Omni_
 
