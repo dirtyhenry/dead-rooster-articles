@@ -1,12 +1,10 @@
 ---
 layout: post
 title: "Un Hiver 2017, face B"
-authors:
-  - Dirty Henry
-tags:
-  - compile
+author: Dirty Henry
+category: Compile
 cover: hiver-2017-b.png
-description: >
+excerpt: >
   Parce que 2 faces valent mieux qu'une. Dead Rooster présente… Un Hiver 2017,
   la face B.
 ---
@@ -99,23 +97,22 @@ temps.
 
 [Photo par Filip Bunkens](https://unsplash.com/photos/R5SrmZPoO40).
 
-[jem]:
-  http://www.dailymotion.com/video/x11ek96_jem-et-les-hologrammes-saison-1-episode-02_webcam
-[tam]: https://cityhunter.fandom.com/wiki/Hitomi_Kisugi
+[jem]: https://www.dailymotion.com/video/x11ek96 "Jem et les Hologrammes"
+[tam]: https://cityhunter.fandom.com/wiki/Hitomi_Kisugi "Tam, de Cat's Eyes"
 [chuck]:
-  http://www.nytimes.com/2003/02/23/us/sweet-tunes-fast-beats-and-a-hard-edge.html?pagewanted=5
+  https://www.nytimes.com/2003/02/23/us/sweet-tunes-fast-beats-and-a-hard-edge.html
 [petit-nicolas]: https://fr.wikipedia.org/wiki/Le_Petit_Nicolas
 [sabrina]: https://www.youtube.com/watch?v=e2whTQgYHOs
 [a-ha]: https://www.youtube.com/watch?v=mPAzwUhXnzs
 [manimal]: https://www.youtube.com/watch?v=GM9VL4Bc_Ds
-[spontex]: http://www.ina.fr/video/PUB3784059111
+[spontex]: https://www.ina.fr/video/PUB3784059111 "Pub Spontex"
 [vip]:
-  http://www.rtl.fr/culture/arts-spectacles/vip-de-laurent-chalumeau-l-un-des-meilleurs-polars-du-moment-7788124645
+  https://www.rtl.fr/culture/arts-spectacles/vip-de-laurent-chalumeau-l-un-des-meilleurs-polars-du-moment-7788124645
 [zai]:
-  http://next.liberation.fr/livres/2016/02/19/zai-zai-zai-zai-voila-les-poulets_1434588
+  https://www.liberation.fr/livres/2016/02/19/zai-zai-zai-zai-voila-les-poulets_1434588/
 [airbud]: https://theringer.com/air-bud-movies-20th-anniversary-d22b34c82326
 [masterofnone]: https://fr.wikipedia.org/wiki/Master_of_None
 [chezsoi]:
-  http://next.liberation.fr/vous/2015/04/14/mona-chollet-pour-une-revolution-domestique_1233018
-[lostcityofz]: http://www.allocine.fr/film/fichefilm_gen_cfilm=223754.html
-[banga]: http://www.dailymotion.com/video/x9tm8y
+  https://www.liberation.fr/vous/2015/04/14/mona-chollet-pour-une-revolution-domestique_1233018/
+[lostcityofz]: https://www.themoviedb.org/movie/314095-the-lost-city-of-z
+[banga]: https://www.dailymotion.com/video/x9tm8y
