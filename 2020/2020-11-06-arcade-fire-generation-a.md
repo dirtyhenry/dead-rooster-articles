@@ -8,7 +8,7 @@ tags:
   - Stephen Colbert
 ---
 
-{% youtube KvqNWYggnVA %}
+_☹️ La vidéo a été retirée de YouTube._
 
 Arcade Fire a joué un nouveau titre, _Generation A_, lors de leur passage chez
 Stephen Colbert le soir des élections. On attend toujours le résultat final de

@@ -1,13 +1,11 @@
 ---
 layout: post
+id: C6098488-418F-46D3-940A-2C5316E47294
 title: Trois degrés de séparation seulement…
-authors:
-  - Dirty Henry
+author: Dirty Henry
+cover: wes-anderson.jpg
 wordpress_id: 201
-date: "2008-04-02 17:05:25 +0200"
-categories:
-  - Artistes
-  - Catégories
+category: Éditorial
 tags:
   - She & Him
   - Trucs marrants
@@ -26,7 +24,6 @@ comments:
       Kirsten Dunst qui joue Marie-Antoinette, aussi.\r\nEt Jason Scwhartzman
       joue sur l’album de Ben Lee, qui est l’ex de Clare Danes qui joue dans The
       Hours avec Meryl Streep.\r\nC’est dingue!"
-cover: wes-anderson.jpg
 ---
 
 Derrière la théorie des [six degrés de séparation][1] se cache une formalisation

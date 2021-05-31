@@ -1,18 +1,21 @@
 ---
 layout: post
+id: 766BD74A-8645-4ACD-9DCB-EFAC111D5923
 title: "L'Éducation Musimentale"
-authors:
-  - Joe Gantdelaine
-cover: education-musimentale.png
-cover_alt: Dans Almost Famous, Lester Bangs fait le bilan
-description: >
+author: Joe Gantdelaine
+excerpt: >
   Joe Gantdelaine vous présente sa famille musicale. Il en est fier souvent et
   honteux parfois.
-lead-paragraph: true
+category: Éditorial
 tags:
   - Grandaddy
   - The Fresh & Onlys
+cover: education-musimentale.png
+cover_alt: Dans Almost Famous, Lester Bangs fait le bilan
+lead-paragraph: true
 ---
+
+{% spotify 2DDYHlrsl7i1JO5zveheaE %}
 
 Dans la vie, la famille, les amis, nos connaissances, tout ça, ça évolue bon gré
 mal gré au fil du temps. Pour la musique, c'est un peu la même chose. On a des
@@ -21,15 +24,15 @@ avec tel groupe ou tel artiste. Mais surtout, on se crée un socle solide,
 durable, inaltérable malgré ce que les gens de l'extérieur en disent ou ce que
 les concernés de l'intérieur font.
 
-Je passerai trèèèès rapidement sur les amours de jeunesse hein (non, je n'ai
+Je passerai trèèès rapidement sur les amours de jeunesse hein (non, je n'ai
 jamais donné d'argent à 2 Unlimited ou à Ménélik ! Non, c'était des cadeaux…),
 pour évoquer directement la case adolescence.
 
 À ce moment de la vie, on se fait ses premiers vrais copains. Des potes à la vie
 à la mort. On n'en a pas beaucoup, alors on vit avec eux tout le temps, en
 boucle. Sauf qu'on se rendra compte plus tard qu'on avait plein de choses en
-commun à cette époque, mais qu'en fait, on aurait plus grand chose à se dire 20
-ans après. C'est l'époque où on est fier d'avoir [des copains rebelles][nofx]
+commun à cette époque, mais qu'en fait, on n’aurait plus grand chose à se dire
+20 ans après. C'est l'époque où on est fier d'avoir [des copains rebelles][nofx]
 parce qu'on n'est pas vraiment rebelle soi-même. La période où on est content
 d'avoir [des copains plus vieux][kent], différents de tous les autres copains
 rappeurs de nos potes. Celle où on s'en fiche si [un camarade n'a pas fini de
@@ -93,61 +96,81 @@ Mais allez, cessons l'apitoiement ! Nous avons encore [plein de
 projets][thrills] ! Et qui sait si prochainement, un retour de jeunesse ne nous
 donnera pas envie de [redevenir les explorateurs que nous avons été][labelpop] ?
 
-## La Playlist
-
-{% spotify 2DDYHlrsl7i1JO5zveheaE guiguilele %}
-
-[nofx]: https://www.youtube.com/watch?v=82xh5tV04qA "Tooltip NOFX"
-[kent]: https://www.youtube.com/watch?v=mSu4Ocb8mcA "Tooltip Kent"
+[nofx]:
+  https://www.youtube.com/watch?v=82xh5tV04qA
+  "NOFX - White Trash Two Heebs & A Bean"
+[kent]: https://www.youtube.com/watch?v=mSu4Ocb8mcA "KENT - Tous les mômes"
 [smashing-pumpkins]:
   https://www.youtube.com/watch?v=NOG3eus4ZSo
-  "Tooltip The Smashing Pumpkins"
-[souchon]: https://www.youtube.com/watch?v=i_wBB3toV-8 "Tooltip Alain Souchon"
-[grandaddy]: https://www.youtube.com/watch?v=W5DsI_eCK7Y "Tooltip Grandaddy"
-[oasis]: https://www.youtube.com/watch?v=Wm54XyLwBAk "Tooltip Oasis"
-[renaud]: https://www.youtube.com/watch?v=aKI-iY2cef0 "Tooltip Renaud"
-[biolay]: https://www.youtube.com/watch?v=ZvoqeMnLWdU "Tooltip Benjamin Biolay"
-[the-coral]: https://www.youtube.com/watch?v=-Y4wmn-fw-c "Tooltip The Coral"
+  "The Smashing Pumpkins - Tonight, Tonight"
+[souchon]:
+  https://www.youtube.com/watch?v=i_wBB3toV-8
+  "Alain Souchon - Arlette Laguiller"
+[grandaddy]:
+  https://www.youtube.com/watch?v=W5DsI_eCK7Y
+  "Grandaddy - The Crystal Lake"
+[oasis]: https://www.youtube.com/watch?v=Wm54XyLwBAk "Oasis - Morning Glory"
+[renaud]:
+  https://www.youtube.com/watch?v=aKI-iY2cef0
+  "Renaud - C'est quand qu'on va où ?"
+[biolay]:
+  https://www.youtube.com/watch?v=ZvoqeMnLWdU
+  "Benjamin Biolay - Des lendemains qui chantent"
+[the-coral]:
+  https://www.youtube.com/watch?v=-Y4wmn-fw-c
+  "The Coral - Don't Think You're the First"
 [libertines]:
   https://www.youtube.com/watch?v=0u_g6zNuP_I
-  "Tooltip The Libertines"
-[arcade-fire]: https://www.youtube.com/watch?v=C4EmXN9xvdE "Tooltip Arcade Fire"
-[starsailor]: https://www.youtube.com/watch?v=XxAq2EmcE6E "Tooltip Starsailor"
+  "The Libertines - Up The Bracket"
+[arcade-fire]: https://www.youtube.com/watch?v=C4EmXN9xvdE "Arcade Fire - Laika"
+[starsailor]:
+  https://www.youtube.com/watch?v=XxAq2EmcE6E
+  "Starsailor - Four to the floor"
 [white-stripes]:
   https://www.youtube.com/watch?v=K4dx42YzQCE
-  "Tooltip The White Stripes"
-[m]: https://www.youtube.com/watch?v=XVW5qA7QLmw "Tooltip M"
-[islands]: https://www.youtube.com/watch?v=RpQwZ_gdE1w "Tooltip Islands"
-[falkner]: https://www.youtube.com/watch?v=NLJnDU-_FiU "Tooltip Jason Falkner"
-[eels]: https://www.youtube.com/watch?v=x36b9iIHPOg "Tooltip eels"
-[bashung]: https://www.youtube.com/watch?v=fQ-wVZ7ybNs "Tooltip Alain Bashung"
-[lou-reed]: https://www.youtube.com/watch?v=QYEC4TZsy-Y "Tooltip Lou Reed"
+  "The White Stripes - Hardest Button To Button"
+[m]: https://www.youtube.com/watch?v=XVW5qA7QLmw "M - Qui De Nous Deux"
+[islands]: https://www.youtube.com/watch?v=RpQwZ_gdE1w "Islands - Rough Gem"
+[falkner]:
+  https://www.youtube.com/watch?v=NLJnDU-_FiU
+  "Jason Falkner - I Go Astray"
+[eels]: https://www.youtube.com/watch?v=x36b9iIHPOg "eels - Jelly Dancers"
+[bashung]: https://www.youtube.com/watch?v=fQ-wVZ7ybNs "Alain Bashung - Angora"
+[lou-reed]: https://www.youtube.com/watch?v=QYEC4TZsy-Y "Lou Reed - Perfect Day"
 [elliott-smith]:
   https://www.youtube.com/watch?v=p4cJv6s_Yjw
-  "Tooltip Elliott Smith"
+  "Elliott Smith - Between The Bars"
 [kings-of-leon-1]:
   https://www.youtube.com/watch?v=8Y30Wii_70c
-  "Tooltip Kings of Leon période rock"
+  "Kings Of Leon - California Waiting"
 [kings-of-leon-2]:
   https://www.youtube.com/watch?v=RVDc6bYy3j4
-  "Tooltip Kings of Leon période merde"
+  "Kings Of Leon - Beautiful War"
 [fresh-and-onlys]:
   https://www.youtube.com/watch?v=Q2G4ETZvJjU
-  "Tooltip The Fresh & Onlys"
+  "Fresh & Onlys - Waterfall"
 [grizzly-bear]:
   https://www.youtube.com/watch?v=tjecYugTbIQ
-  "Tooltip Grizzly Bear"
+  "Grizzly Bear - Two Weeks"
 [band-of-horses]:
   https://www.youtube.com/watch?v=cMFWFhTFohk
-  "Tooltip Band of Horses"
-[real-estate]: https://www.youtube.com/watch?v=4HWcViTXdYc "Tooltip Real Estate"
-[strokes]: https://www.youtube.com/watch?v=dPDfaTzBcb4 "Tooltip The Strokes"
+  "Band of Horses - The Funeral"
+[real-estate]:
+  https://www.youtube.com/watch?v=4HWcViTXdYc
+  "Real Estate - Its Real"
+[strokes]:
+  https://www.youtube.com/watch?v=dPDfaTzBcb4
+  "The Strokes - 80's Comedown machine"
 [television-personalities]:
   https://www.youtube.com/watch?v=3m28x6aWfYc
-  "Tooltip Television Personalities"
-[neil-young]: https://www.youtube.com/watch?v=k0t0EW6z8a0 "Tooltip Neil Young"
+  "Television Personalities - Silly Girl"
+[neil-young]:
+  https://www.youtube.com/watch?v=k0t0EW6z8a0
+  "Neil Young - Needle and the Damage Done"
 [brassens]:
   https://www.youtube.com/watch?v=WJ9ahN4mPHw
   "Tooltip Georges Brassens"
-[thrills]: https://www.youtube.com/watch?v=A1fGNCvZL_w "Tooltip The Thrills"
-[labelpop]: http://www.francemusique.fr/emission/label-pop "Tooltip Label Pop"
+[thrills]: https://www.youtube.com/watch?v=A1fGNCvZL_w "The Thrills - Big Sur"
+[labelpop]:
+  https://www.francemusique.fr/emissions/label-pop
+  "Label Pop, de Vincent Théval, sur France Musique"
