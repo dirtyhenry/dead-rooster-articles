@@ -12,6 +12,7 @@ tags:
   - Johnny Cash
   - The Raveonettes
   - The Rolling Stones
+  - The White Stripes
 ---
 
 {% spotify 3hoF0fwx9h8SfMZQQ1JVAm %}

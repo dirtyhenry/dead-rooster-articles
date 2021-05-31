@@ -3,8 +3,9 @@ layout: post
 title: "Un Automne 2016, face B"
 authors:
   - Joe Gantdelaine
-tags:
-  - compile
+category:
+  - Éditorial
+  - Compile
 cover: automne-2016-b.jpg
 description: >
   Parce que 2 faces valent mieux qu'une. Dead Rooster présente… Un Automne 2016,

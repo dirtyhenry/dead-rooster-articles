@@ -3,8 +3,9 @@ layout: post
 title: "Un Printemps 2017, face B"
 authors:
   - Joe Gantdelaine
-tags:
-  - compile
+category:
+  - Éditorial
+  - Compile
 cover: printemps-2017-b.jpg
 description: >
   Où on cause toons et tunes.

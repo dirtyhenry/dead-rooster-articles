@@ -3,8 +3,9 @@ layout: post
 title: "Un Printemps 2017"
 authors:
   - Dirty Henry
-tags:
-  - compile
+category:
+  - Éditorial
+  - Compile
 cover: printemps-2017.jpg
 description: >
   Ou Joe Dassin rend hommage à Hugo, et Marcel Proust s'en prend plein la

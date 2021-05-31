@@ -6,6 +6,7 @@ authors:
 wordpress_id: 1263
 cover: louis-de-funes-hibernatus.jpg
 date: 2013-10-30 12:43:22 +0100
+category: Le monde va mal
 ---
 
 Alors que [Yann Tiersen va donner un concert pour célébrer les 100 ans de

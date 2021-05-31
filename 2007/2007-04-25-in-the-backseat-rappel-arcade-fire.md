@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Rappel d'Arcade Fire
+title: Arcade Fire - In The Backseat (rappel Olympia)
 authors:
   - Dirty Henry
 wordpress_id: 377
 date: "2007-04-25 20:38:00 +0200"
-categories:
-  - Artistes
+category: Chanson du jour
 tags:
   - Arcade Fire
 ---

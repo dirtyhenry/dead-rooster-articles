@@ -5,11 +5,10 @@ authors:
   - Dirty Henry
 category: Concert
 tags:
-  - musique
+  - Arcade Fire
+  - Jeff Mangum
   - Neutral Milk Hotel
-  - concert
-  - trianon
-  - jeff-mangum
+  - Trianon
 cover: neutral-milk-hotel-introduction.png
 cover_alt: Pochette de In The Aeroplane Over The Sea, meilleur album 90s ?
 description: >

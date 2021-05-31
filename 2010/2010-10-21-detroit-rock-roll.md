@@ -16,6 +16,7 @@ tags:
   - Ben Swank
   - Garage Rock
   - Soledad Brothers
+  - The White Stripes
 ---
 
 Ben Swank, le batteur des Soledad Brothers, désormais membre de
