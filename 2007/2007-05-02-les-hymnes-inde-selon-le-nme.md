@@ -5,8 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 380
 date: "2007-05-02 21:00:00 +0200"
-categories:
-  - Artistes
+category: News
 tags:
   - Arcade Fire
   - Babyshambles

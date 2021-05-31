@@ -2,11 +2,15 @@
 layout: post
 title: "Un Hiver 2017, face B"
 author: Dirty Henry
-category: Compile
+category:
+  - Éditorial
+  - Compile
 cover: hiver-2017-b.png
 excerpt: >
   Parce que 2 faces valent mieux qu'une. Dead Rooster présente… Un Hiver 2017,
   la face B.
+tags:
+  - Arcade Fire
 ---
 
 ## 1987 dans le rétro

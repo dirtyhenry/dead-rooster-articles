@@ -7,11 +7,9 @@ authors:
   - Dirty Henry
 wordpress_id: 398
 date: "2007-07-31 15:21:00 +0200"
-categories:
-  - Catégories
+category: Review
 tags:
-  - Concert
-  - Albums
+  - The White Stripes
 cover: the-white-stripes.jpg
 ---
 

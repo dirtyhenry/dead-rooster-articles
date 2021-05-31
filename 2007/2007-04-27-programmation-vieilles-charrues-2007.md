@@ -4,8 +4,7 @@ title: Programmation Vieilles Charrues 2007
 author: Dirty Henry
 wordpress_id: 378
 date: "2007-04-27 13:51:00 +0200"
-categories:
-  - Artistes
+category: News
 tags:
   - Arcade Fire
   - Herman Düne

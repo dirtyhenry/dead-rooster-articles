@@ -9,12 +9,10 @@ authors:
 wordpress_id: 691
 cover: arcade-if-re-we-used-to-wait-screenshot.png
 date: 2010-08-31 10:12:58 +0200
-categories:
-  - Catégories
+category: Chanson du jour
 tags:
-  - Single
-  - Geek
   - Arcade Fire
+  - Geek
 ---
 
 Wow !

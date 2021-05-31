@@ -5,8 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 361
 date: "2007-02-22 09:30:00 +0100"
-categories:
-  - Artistes
+category: News
 tags:
   - Arcade Fire
 ---

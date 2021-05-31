@@ -8,8 +8,10 @@ excerpt: >
   honteux parfois.
 category: Éditorial
 tags:
+  - Arcade Fire
   - Grandaddy
   - The Fresh & Onlys
+  - The White Stripes
 cover: education-musimentale.png
 cover_alt: Dans Almost Famous, Lester Bangs fait le bilan
 lead-paragraph: true

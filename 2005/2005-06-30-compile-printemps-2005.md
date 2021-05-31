@@ -8,6 +8,7 @@ category: Compile
 tags:
   - Arcade Fire
   - Bloc Party
+  - The White Stripes
 ---
 
 {% spotify 3DIwE7aLIaURvceNnXCHL4 %}

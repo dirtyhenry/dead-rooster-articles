@@ -5,6 +5,9 @@ authors:
   - Dirty Henry
 wordpress_id: 1241
 date: "2013-06-03 12:00:00 +0200"
+category: Chanson du jour
+tags:
+  - Arcade Fire
 ---
 
 En cherchant un peu comment explorer le chantier à débroussailler Bruce

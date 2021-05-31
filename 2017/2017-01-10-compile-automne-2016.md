@@ -4,8 +4,9 @@ title: "Un Automne 2016"
 authors:
   - Dirty Henry
   - Joe Gantdelaine
-tags:
-  - compile
+category:
+  - Éditorial
+  - Compile
 cover: automne-2016.jpg
 description: >
   Parce que les playlists c'est bien mais que les compiles c'est peut-être

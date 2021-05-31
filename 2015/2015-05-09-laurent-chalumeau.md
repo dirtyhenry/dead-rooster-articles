@@ -4,6 +4,7 @@ title: "Faut-il Sauver Michel Sardou ?"
 authors:
   - Dirty Henry
 tags:
+  - Arcade Fire
   - laurent chalumeau
   - livres
   - michel sardou
