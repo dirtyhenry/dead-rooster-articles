@@ -56,9 +56,7 @@ Parmi toutes les joyeusetés qui accompagnent la sortie de l'album (qui aura 8
 pochette différentes - indice Muse n°1), un concert au Madison Square Garden
 sera diffusé en streaming sur YouTube (indice Muse n°2) et sera filmé par un
 grand réalisateur en la personne de Terry Gilliam, des Monty Python, qu'il n'est
-pas nécessaire de présenter
-([si ?](http://www.allocine.fr/personne/fichepersonne_gen_cpersonne=543.html)).
-En voici la bande d'annonce :
+pas nécessaire de présenter ([si ?][1]). En voici la bande d'annonce :
 
 {% vimeo 13497165 %}
 
@@ -72,3 +70,7 @@ Bref, Arcade Fire me fait peur…
 ps : pour la bonne cause, la chanteuse du groupe, originaire de Haïti, lance
 [le groupe dans l'humanitaire](http://www.arcadefire.com/haiti/) (indice U2
 n°1).
+
+[1]:
+  https://www.themoviedb.org/person/280-terry-gilliam
+  "Terry Gilliam sur TMDb"

@@ -95,7 +95,11 @@ l'auteur d'une anthologie.
 
 {% soundcloud 34815931 %}
 
-[2]: http://www.allocine.fr/article/dossiers/cinema/dossier-18591309/
-[4]: https://www.youtube.com/watch?v=978uQUK231M
+[2]:
+  https://www.allocine.fr/article/dossiers/cinema/dossier-18591309/
+  "Pop Fiction: 40 groupes qui n'ont existé qu'à l'écran"
+[4]:
+  https://www.youtube.com/watch?v=978uQUK231M
+  "The Big Lebowski cleaning balls"
 
 [3]: {% post_url 2013/2013-11-12-inside-llewyn-davis %}

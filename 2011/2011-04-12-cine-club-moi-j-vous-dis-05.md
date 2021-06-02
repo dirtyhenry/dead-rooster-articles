@@ -77,23 +77,16 @@ s'assurer que Gino est un chef redouté avant de lui transmettre sa part
 d'héritage. Gino décide alors de tourner un documentaire sur sa fausse vie de
 parrain des pizzerias de Bruxelles.
 
-L'état d'esprit est ici très similaire à celui de
-[_J'ai toujours rêvé d'être un gangster_](http://www.allocine.fr/film/fichefilm_gen_cfilm=110966.html),
-le précédent film de Benchetrit, lui aussi très bon. C'est une sorte de
-[_Soyez sympas, rembobinez_](http://www.allocine.fr/film/fichefilm_gen_cfilm=110281.html)
-refaisant
-[_Le Parrain_](http://www.allocine.fr/film/fichefilm_gen_cfilm=1628.html) à la
-sauce
-[_C'est arrivé près de chez vous_](http://www.allocine.fr/film/fichefilm_gen_cfilm=7383.html) :
-le cadre et l'ambiance lose font très "cinéma belge" et rappellent également les
-passages plus potaches que glauques des films de
-[Delépine](http://www.allocine.fr/personne/fichepersonne_gen_cpersonne=2389.html)
-et
-[Kervern](http://www.allocine.fr/personne/fichepersonne_gen_cpersonne=97326.html).
-Malgré quelques lenteurs et quelques malaises dûs aux acteurs (Anna Mouglalis
-n'est pas au top dans des rôles comiques), le film reste très drôle. Benchetrit
-aime aussi beaucoup citer les petits copains et son film est en fait un chouette
-hommage au cinéma, façon [DIY](http://fr.wikipedia.org/wiki/Do_it_yourself).
+L'état d'esprit est ici très similaire à celui de [_J'ai toujours rêvé d'être un
+gangster_][1], le précédent film de Benchetrit, lui aussi très bon. C'est une
+sorte de [_Soyez sympas, rembobinez_][2] refaisant [_Le Parrain_][3] à la sauce
+[_C'est arrivé près de chez vous_][4] : le cadre et l'ambiance lose font très
+"cinéma belge" et rappellent également les passages plus potaches que glauques
+des films de [Delépine][5] et [Kervern][6]. Malgré quelques lenteurs et quelques
+malaises dûs aux acteurs (Anna Mouglalis n'est pas au top dans des rôles
+comiques), le film reste très drôle. Benchetrit aime aussi beaucoup citer les
+petits copains et son film est en fait un chouette hommage au cinéma, façon
+[DIY](http://fr.wikipedia.org/wiki/Do_it_yourself).
 
 **<strike>La musique</strike> Le sketch qui va avec**
 
@@ -127,12 +120,11 @@ les solos de saxo). Du coup, les Breeders gagnent.
 Séance "Coup de gueule" dédicacée à Joe Gantdelaine.
 
 Nous sommes un samedi après-midi. Tiens, je me ferais bien un ciné. Allez,
-direction, la page
-["Les meilleurs films au cinéma selon la Presse" d'Allociné](http://www.allocine.fr/film/meilleurs_gen_filtre=alaffiche&critique=presse.html)
-et qui voyons-nous au top de ce classement ? (nous somme mi-mars) _L'étrange
-affaire Angelica_ du centenaire portugais Manoel de Oliveira. Jamais entendu
-parlé de ce film mais qu'à cela ne tienne, partons à l'aventure cinématographie
-tout de go !
+direction, la page ["Les meilleurs films au cinéma selon la Presse"
+d'Allociné][7] et qui voyons-nous au top de ce classement ? (nous somme mi-mars)
+_L'étrange affaire Angelica_ du centenaire portugais Manoel de Oliveira. Jamais
+entendu parlé de ce film mais qu'à cela ne tienne, partons à l'aventure
+cinématographie tout de go !
 
 Un photographe vient tirer le portrait d'une jeune femme morte qui lui sourit
 quand il la regarde de son objectif, des ouvriers bêchent le terrain d'en face,
@@ -141,9 +133,9 @@ en flottant dans les airs. Je n'avais pas vu film de drogué pire que celui-ci
 depuis l'Oncle Boonme de l'année dernière. Bon sang, je suis peut-être con,
 peut-être pas assez touché par ce que parviennent à faire les vieillards,
 peut-être pas assez contemplatif (même si pour le coup, j'aime beaucoup
-_Somewhere_ par exemple), mais merde, comment est-il possible que
-[les critiques puissent être aussi unanimement positives sur ce film](http://www.allocine.fr/film/revuedepresse_gen_cfilm=180401.html) ?
-On ne m'y prendra plus.
+_Somewhere_ par exemple), mais merde, comment est-il possible que [les critiques
+puissent être aussi unanimement positives sur ce film][8] ? On ne m'y prendra
+plus.
 
 La musique qui va avec
 
@@ -162,3 +154,22 @@ Zazou chante ici parfaitement ce que j'ai ressenti dans la salle :
   en chair et en os se tourner vers l'animation, à l'image de Wes Anderson et de
   son _Mr. Fox_. _Rango_ est réussi, ses méchants sont dégueu comme il faut, pas
   mal du tout.
+
+[1]:
+  https://www.themoviedb.org/movie/8281-j-ai-toujours-r-v-d-tre-un-gangster
+  "J'ai toujours rêvé d'être un gangster"
+[2]: https://www.themoviedb.org/movie/4953-be-kind-rewind "Be Kind Rewind"
+[3]: https://www.themoviedb.org/movie/238-the-godfather "The Godfather"
+[4]:
+  https://www.themoviedb.org/movie/10086-c-est-arriv-pr-s-de-chez-vous
+  "C'est arrivé près de chez vous"
+[5]: https://www.themoviedb.org/person/71929-beno-t-del-pine "Benoît Delépine"
+[6]:
+  https://www.themoviedb.org/person/71930-gustave-de-kervern
+  "Gustave Kervern"
+[7]:
+  https://www.allocine.fr/film/aucinema/top/presse/
+  "Meilleurs film à l'affiche selon la presse, sur Allociné"
+[8]:
+  https://www.allocine.fr/film/fichefilm-180401/critiques/presse/
+  "Critiques presse de 'L'étrange affaire Angelica'"
