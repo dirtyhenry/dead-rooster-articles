@@ -31,9 +31,8 @@ York froid où on écoute des chansons tristes, une bonne dose d'humour (le
 personnage de Justin Timberlake et les parodies de pochettes de disque de
 l'époque) et un personnage principal très attachant. Ce Llewyn Davis est
 interprété par Oscar Isaac, qu'on pensait ne pas connaître mais qui en fait a
-déjà joué dans _Drive_ et pas mal d'autres films (et dont, au passage, je ne
-suis pas le seul à penser qu'il ressemble à [Jake Johnson][3] : [une certaine
-Jill O'Rourke est d'accord avec moi][4]).
+déjà joué dans _Drive_ et pas mal d'autres films (et d'[après internet][4], je
+ne suis pas le seul à penser qu'il ressemble à [Jake Johnson][3]).
 
 {% youtube W_07dtVL6i4 %}
 
@@ -79,8 +78,7 @@ les couleurs… et un magicien pour transformer une fille en chat) ?
 
 [1]: https://www.themoviedb.org/movie/86829-inside-llewyn-davis
 [3]: http://en.wikipedia.org/wiki/Jake_Johnson
-[4]:
-  http://www.crushable.com/2013/07/02/entertainment/inside-llewyn-davis-movie-trailer-justin-timberlake/
+[4]: https://www.google.fr/search?q=oscar+isaac+looks+like+jake+johnson
 [5]: http://en.wikipedia.org/wiki/Mumford_%26_Sons
 [6]: http://en.wikipedia.org/wiki/The_Big_Lebowski
 

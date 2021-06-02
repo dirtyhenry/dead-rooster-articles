@@ -14,7 +14,7 @@ playlist:
   - artist: The Shins
     title: Goodbye Girl
     asset: levis-pioneer-sessions-cover.png
-    link: http://www.levispioneersessions.com/artists/the-shins
+    link: https://soundcloud.com/nealroscoe/goodbye-girl
 
   - artist: Strange Shapes
     title: I Found A Rock
@@ -46,7 +46,7 @@ playlist:
   - artist: Sleeping Bags
     title: Cantaloupe
     asset: sleeping-bags-cantaloupe.jpg
-    link: http://www.thefader.com/2010/08/02/listen-sleeping-bags-cantaloupe/
+    link: https://song.link/fr/i/461590771
 
   - artist: Pepper Rabbit
     title: Older Brother

@@ -22,7 +22,10 @@ album en avril dernier. Le clip n'est pas en reste.
 
 Pour info :
 
-1. il sera en concert à Paris le 4 novembre à la Boule Noire
+1. il sera en concert à Paris le 4 novembre à la Boule Noire ;
 1. sur ce single, il est accompagné par un duo français, The Shoes, à suivre car
-   ils signent
-   [des pochettes de disques assez excellentes](http://img813.imageshack.us/img813/6469/amer.png)
+   ils signent [des pochettes de disques assez excellentes][1].
+
+[1]:
+  https://www.discogs.com/The-Shoes-Stade-De-Reims-1978/release/1950809
+  "Pochette Stade de Reims"
