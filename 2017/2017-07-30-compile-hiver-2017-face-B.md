@@ -119,4 +119,4 @@ temps.
 [chezsoi]:
   https://www.liberation.fr/vous/2015/04/14/mona-chollet-pour-une-revolution-domestique_1233018/
 [lostcityofz]: https://www.themoviedb.org/movie/314095-the-lost-city-of-z
-[banga]: https://www.dailymotion.com/video/x9tm8y
+[banga]: https://youtu.be/1vFPVSmAk4g "Pub Banga"

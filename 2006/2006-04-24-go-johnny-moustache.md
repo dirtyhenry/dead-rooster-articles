@@ -5,14 +5,9 @@ authors:
   - Dirty Henry
 wordpress_id: 305
 date: "2006-04-24 15:34:00 +0200"
-categories:
-  - Catégories
-tags:
-  - Trucs marrants
+category: Fun Friday
 ---
 
 {% dailymotion x201h %}
 
-La version complète, tragi-comique, est disponible [ici][1].
-
-[1]: https://www.ina.fr/video/CPB8405185302/overdanse-video.html
+La version complète, tragi-comique, ~~est disponible sur le site de l'INA~~.

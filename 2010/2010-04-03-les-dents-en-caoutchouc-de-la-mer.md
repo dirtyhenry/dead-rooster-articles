@@ -17,7 +17,7 @@ cover: faux-raccord.png
 ---
 
 Depuis une dizaine de semaines, Allociné propose une émission bien marrante :
-[**Faux Raccord**](http://www.allocine.fr/video/faux-raccords/).
+[**Faux Raccord**][3].
 
 Chaque samedi, cette émission met en lumière les faux raccords de films
 célèbres : _Gladiator_, la trilogie Jason Bourne, _Pirates des Caraïbes_, etc.
@@ -30,3 +30,4 @@ temps][1], mais, images à l'appui, c'est quand même bien plus efficace.
 
 [1]: https://youtu.be/he3WJLOh4kk?t=2522
 [2]: https://www.allocine.fr/video/video-19096015/
+[3]: https://www.allocine.fr/video/programme-12284/ "Faux Raccord, sur Allociné"

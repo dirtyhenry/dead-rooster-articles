@@ -52,7 +52,8 @@ tout à fait, [il veut aussi acheter le FC Nantes][3].
 Ce mec a dix ans de plus que moi tout pile, je vous laisse, il est temps que je
 m'y mette.
 
-[1]: http://www.allocine.fr/film/fichefilm_gen_cfilm=40868.html
-[2]: http://www.allocine.fr/film/fichefilm_gen_cfilm=38255.html
+[1]: https://www.themoviedb.org/movie/60175-les-sous-dou-s "Les Sous-doués"
+[2]: https://www.themoviedb.org/movie/57308-p-r-o-f-s "P.R.O.F.S"
 [3]:
-  http://www.lemonde.fr/sports/article/2008/10/07/francois-begaudeau-envisage-de-racheter-le-fc-nantes_1104189_3242.html
+  https://www.lemonde.fr/sport/article/2008/10/07/francois-begaudeau-envisage-de-racheter-le-fc-nantes_1104189_3242.html
+  "François Bégaudeau envisage de racheter le FC Nantes"

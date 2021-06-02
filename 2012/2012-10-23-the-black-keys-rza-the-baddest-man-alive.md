@@ -12,4 +12,4 @@ date: "2012-10-23 08:00:00 +0200"
 Extrait de la B.O. de [_The Man with the Iron Fists_][1], réalisé par RZA, du
 Wu-Tang Clan.
 
-[1]: http://www.allocine.fr/film/fichefilm_gen_cfilm=186373.html
+[1]: https://www.themoviedb.org/movie/97430-the-man-with-the-iron-fists
