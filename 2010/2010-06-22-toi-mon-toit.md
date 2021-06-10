@@ -10,11 +10,9 @@ authors:
 wordpress_id: 634
 cover: elli-medeiros-toi-mon-toit.jpg
 date: 2010-06-22 12:25:39 +0200
-categories:
-  - Catégories
+category: Concours Katerine
 tags:
-  - Concours Katerine
-  - Single
+  - Katerine
 ---
 
 La reprise de la semaine de **Katerine, Francis et ses peintres** est _Toi mon
@@ -37,7 +35,3 @@ inchangé :
 - 2. Rodrigue et Joe, 5pts
 - 4. Marion, David et Loïc, 4pts
 - 7. Le reste du monde à 0 pt
-
-Il est encore temps de participer en [cliquant ici][i569] !
-
-[i569]: {% post_url 2010/2010-02-09-concours-katerine-francis-et-ses-peintres %}

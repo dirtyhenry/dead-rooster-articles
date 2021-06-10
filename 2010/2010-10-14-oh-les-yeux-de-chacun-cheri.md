@@ -10,12 +10,8 @@ authors:
 wordpress_id: 713
 cover: katerine-dunk-basket.png
 date: 2010-10-14 20:16:44 +0200
-categories:
-  - Catégories
-  - Artistes
+category: Concours Katerine
 tags:
-  - Concours Katerine
-  - Single
   - Katerine
 ---
 
@@ -63,7 +59,3 @@ choisi "Chacun fait …" en deuz et marque donc 4 points :
 - 2. Benji, Rodrigue et Joe, 5pts
 - 5. Marion, David, Loïc et kr, 4pts
 - 9. Le reste du monde à 0 pt
-
-<strike>Il est encore temps de participer en [cliquant ici][i569] !</strike>
-
-[i569]: {% post_url 2010/2010-02-09-concours-katerine-francis-et-ses-peintres %}

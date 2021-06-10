@@ -9,12 +9,10 @@ authors:
 wordpress_id: 626
 cover: roger-milla-dancing.jpg
 date: 2010-06-08 14:51:21 +0200
-categories:
-  - Catégories
-  - Artistes
+category: Concours Katerine
 tags:
-  - Concours Katerine
   - Katerine
+  - Yannick Noah
 ---
 
 La reprise de la semaine de **Katerine, Francis et ses peintres** est _Saga
@@ -22,9 +20,9 @@ Africa_, de Yannick Noah.
 
 On ne se privera pas du plaisir de revoir l'originale :
 
-{% youtube Xi4bI1PLBsI %}
+{% youtube 7G_EWNpOyCI %}
 
-Alors que Roland Garros vient de se finir et à quelques jours de l'ouverture de
+Alors que Roland-Garros vient de se finir et à quelques jours de l'ouverture de
 la Coupe du Monde (ça fait plaisir de se souvenir de Roger Milla), la chanson
 est parfaitement de saison. Merci Yannick ! Merci Katerine !
 
@@ -34,7 +32,3 @@ Malheur, personne ne l'avait et donc, classement inchangé :
 - 2. Rodrigue et Joe, 5pts
 - 4. Marion, David et Loïc, 4pts
 - 7. Le reste du monde à 0 pt
-
-Il est encore temps de participer en [cliquant ici][i569] !
-
-[i569]: {% post_url 2010/2010-02-09-concours-katerine-francis-et-ses-peintres %}

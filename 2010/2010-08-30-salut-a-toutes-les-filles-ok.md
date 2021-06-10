@@ -9,11 +9,8 @@ authors:
 wordpress_id: 690
 cover: faux-clip-ottawan-t-es-ok.png
 date: 2010-08-30 16:13:02 +0200
-categories:
-  - Catégories
-  - Artistes
+category: Concours Katerine
 tags:
-  - Concours Katerine
   - Katerine
 ---
 
@@ -45,7 +42,3 @@ Pas de changement au classement :
 - 2. Benji, Rodrigue et Joe, 5pts
 - 5. Marion, David et Loïc, 4pts
 - 8. Le reste du monde à 0 pt
-
-Il est encore temps de participer en [cliquant ici][i569] !
-
-[i569]: {% post_url 2010/2010-02-09-concours-katerine-francis-et-ses-peintres %}
