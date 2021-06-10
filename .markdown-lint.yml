@@ -1,0 +1,5 @@
+default: true
+
+# MD028/no-blanks-blockquote - Blank line inside blockquote
+# The parser that is being used on the site works just fine.
+MD028: false
