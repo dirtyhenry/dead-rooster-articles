@@ -5,7 +5,6 @@ authors:
   - Dirty Henry
 wordpress_id: 577
 date: "2010-03-24 18:55:02 +0100"
-cover: phoenix-live-in-sydney-download.png
 ---
 
 L'année 2009 fut une année de merde, y compris musicalement. **Phoenix** et son
