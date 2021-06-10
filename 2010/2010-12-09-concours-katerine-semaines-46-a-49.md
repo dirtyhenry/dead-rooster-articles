@@ -9,12 +9,8 @@ authors:
 wordpress_id: 727
 cover: diams-mitchell-goya-willem-katerine-montage.png
 date: 2010-12-09 12:00:00 +0100
-categories:
-  - Catégories
-  - Artistes
+category: Concours Katerine
 tags:
-  - Concours Katerine
-  - Trucs marrants
   - Katerine
 ---
 
@@ -63,8 +59,3 @@ Personne ne marque de point.
 - 2. Benji, Rodrigue et Joe, 5pts
 - 5. Marion, David, Loïc et kr, 4pts
 - 9. Le reste du monde à 0 pt
-
-Il est encore temps de participer - mais faut quand même se dêpécher et faire
-une croix sur la 1ère place - en [cliquant ici][i569] !
-
-[i569]: {% post_url 2010/2010-02-09-concours-katerine-francis-et-ses-peintres %}

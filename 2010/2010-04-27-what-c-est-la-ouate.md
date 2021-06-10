@@ -9,10 +9,9 @@ authors:
 wordpress_id: 603
 cover: ouate.jpg
 date: 2010-04-27 23:50:00 +0200
-categories:
-  - Catégories
+category: Concours Katerine
 tags:
-  - Concours Katerine
+  - Katerine
 ---
 
 Cette semaine, la reprise de **Katerine, Francis et ses peintres** est _C'est La
@@ -34,7 +33,3 @@ David l'avait trouvé en deuz et marque 4 points :
 - 2. Rodrigue et Joe, 5pts
 - 4. Marion et David, 4pts
 - 6. Le reste du monde à 0 pt
-
-<strike>Il est encore temps de participer en [cliquant ici][i569] !</strike>
-
-[i569]: {% post_url 2010/2010-02-09-concours-katerine-francis-et-ses-peintres %}

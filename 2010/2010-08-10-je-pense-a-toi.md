@@ -9,10 +9,9 @@ authors:
 wordpress_id: 678
 cover: amadou-et-mariam-je-pense-a-toi.jpg
 date: 2010-08-10 11:53:40 +0200
-categories:
-  - Catégories
+category: Concours Katerine
 tags:
-  - Concours Katerine
+  - Katerine
 ---
 
 La reprise de **Katerine, Francis et ses peintres** de la semaine est _Je pense
@@ -28,7 +27,3 @@ Pas de changement au classement :
 - 2. Benji, Rodrigue et Joe, 5pts
 - 5. Marion, David et Loïc, 4pts
 - 8. Le reste du monde à 0 pt
-
-Il est encore temps de participer en [cliquant ici][i569] !
-
-[i569]: {% post_url 2010/2010-02-09-concours-katerine-francis-et-ses-peintres %}

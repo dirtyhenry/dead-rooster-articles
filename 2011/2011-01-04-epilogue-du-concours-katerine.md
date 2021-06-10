@@ -6,11 +6,8 @@ authors:
 wordpress_id: 744
 cover: 52-reprises-dans-espace.png
 date: 2011-01-04 09:26:43 +0100
-categories:
-  - Catégories
-  - Artistes
+category: Concours Katerine
 tags:
-  - Concours Katerine
   - Katerine
 comments:
   - author: Benj
@@ -68,4 +65,4 @@ Félicitations à tous les lauréats !
 ## Pour conclure
 
 Le groupe sera en concert à partir de mars 2011. Paris, Poitiers, Nantes et
-d'autres sont au programme. ~~Le détail complet est ici~~ (edit : lien cassé).
+d'autres sont au programme.

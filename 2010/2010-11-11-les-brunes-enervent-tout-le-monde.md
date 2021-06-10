@@ -7,11 +7,8 @@ authors:
 wordpress_id: 722
 cover: butch-cassidy-and-the-kid.jpg
 date: 2010-11-11 16:31:30 +0100
-categories:
-  - Catégories
-  - Artistes
+category: Concours Katerine
 tags:
-  - Concours Katerine
   - Katerine
 ---
 
@@ -57,7 +54,3 @@ Personne ne marque de point.
 - 2. Benji, Rodrigue et Joe, 5pts
 - 5. Marion, David, Loïc et kr, 4pts
 - 9. Le reste du monde à 0 pt
-
-Il est encore temps de participer en [cliquant ici][i569] !
-
-[i569]: {% post_url 2010/2010-02-09-concours-katerine-francis-et-ses-peintres %}

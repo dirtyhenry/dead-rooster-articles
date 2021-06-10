@@ -9,11 +9,8 @@ authors:
 wordpress_id: 648
 cover: juliette-greco-deshabillez-moi.jpg
 date: 2010-07-13 11:44:57 +0200
-categories:
-  - Catégories
-  - Artistes
+category: Concours Katerine
 tags:
-  - Concours Katerine
   - Katerine
 ---
 
@@ -32,12 +29,8 @@ l'avait pronostiqué en prem's ! D'où le nouveau classement :
 - 5. Marion, David et Loïc, 4pts
 - 8. Le reste du monde à 0 pt
 
-Il est encore temps de participer en [cliquant ici][i569] !
-
 D'autre part, Katerine vient de sortir la vidéo de son nouveau single _La
 Banane_, pour qui la vie se résume à manger des bananes tout nu sur la plage. Un
 programme politique fort !
 
 {% youtube XuOSwppg8rc %}
-
-[i569]: {% post_url 2010/2010-02-09-concours-katerine-francis-et-ses-peintres %}

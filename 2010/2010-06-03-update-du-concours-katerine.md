@@ -11,11 +11,8 @@ authors:
 wordpress_id: 622
 cover: ntm-ma-benz.jpg
 date: 2010-06-03 11:12:46 +0200
-categories:
-  - Catégories
-  - Artistes
+category: Concours Katerine
 tags:
-  - Concours Katerine
   - Katerine
 ---
 
@@ -35,7 +32,3 @@ Personne n'avait pronostiqué ces deux titres. Le classement reste inchangé !
 - 2. Rodrigue et Joe, 5pts
 - 4. Marion, David et Loïc, 4pts
 - 7. Le reste du monde à 0 pt
-
-Il est encore temps de participer en [cliquant ici][i569] !
-
-[i569]: {% post_url 2010/2010-02-09-concours-katerine-francis-et-ses-peintres %}
