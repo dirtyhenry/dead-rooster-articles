@@ -5,10 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 218
 date: "2008-10-10 13:29:06 +0200"
-categories:
-  - Catégories
-tags:
-  - Cinéma
+category: Ciné-Club moi j'vous dis
 cover: schtroumpfs.jpg
 ---
 
@@ -17,7 +14,7 @@ prendre plusieurs chemins. **Laurent Cantet** et **Christophe Honoré** auraient
 difficilement pu prendre des chemins plus éloignés que ceux qu'ils ont pris pour
 leurs films, respectivement _Entre les Murs_ et _La Belle Personne_.
 
-**_Entre les Murs_**, palme d'or à Cannes (la première qui m'emballe depuis
+[**_Entre les Murs_**][4], palme d'or à Cannes (la première qui m'emballe depuis
 _Pulp Fiction_), ne met jamais le nez à l'extérieur de l'enceinte de
 l'établissement, sous risque de se voir coller des heures de retenue. La majeure
 partie du film met en scène un jeune professeur de français et sa classe de
@@ -26,8 +23,8 @@ quatrième, avec laquelle il se lance dans des joutes verbales enflammées.
 objectifs clairs des uns et des autres. C'est l'école quoi, avec les conseils de
 classe, les expulsions de cours et les conseils de discipline.
 
-**_La Belle Personne_**, elle, passe son temps au café du coin, à jouer au baby
-et à philosopher sur le sens de la vie. On n'a pas trop affaire à la même
+[**_La Belle Personne_**][5], elle, passe son temps au café du coin, à jouer au
+baby et à philosopher sur le sens de la vie. On n'a pas trop affaire à la même
 jeunesse. Ici, on est chez de jeunes parisiens à la beauté éblouissante, au
 raffinement le plus élégant et à l'érudition savante. Apprendre n'est pas utile,
 ici on perfectionne, on essaie de partager, on met en œuvre mais surtout, on
@@ -57,3 +54,7 @@ m'y mette.
 [3]:
   https://www.lemonde.fr/sport/article/2008/10/07/francois-begaudeau-envisage-de-racheter-le-fc-nantes_1104189_3242.html
   "François Bégaudeau envisage de racheter le FC Nantes"
+[4]: https://www.themoviedb.org/movie/8841-entre-les-murs "Entre les Murs"
+[5]:
+  https://www.themoviedb.org/movie/38846-la-belle-personne
+  "La Belle Personne"
