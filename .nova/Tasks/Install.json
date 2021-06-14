@@ -1,0 +1,17 @@
+{
+  "actions": {
+    "build": {
+      "enabled": true,
+      "script": "make install"
+    },
+    "clean": {
+      "enabled": true,
+      "script": "make clean"
+    },
+    "run": {
+      "enabled": true,
+      "script": "make lintfix"
+    }
+  },
+  "identifier": "208B4239-D3D2-4F01-8872-06AF1B3CA889"
+}
