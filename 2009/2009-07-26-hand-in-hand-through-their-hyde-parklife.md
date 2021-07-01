@@ -8,7 +8,6 @@ cover: blur-hyde-park.jpg
 date: 2009-07-26 20:19:15 +0200
 category: Concert
 tags:
-  - Concert
   - Blur
   - Florence + The Machine
   - Vampire Weekend
@@ -58,15 +57,13 @@ Blur a-t-il été un gâchis sans nom ?
 En ce qui concerne **Dave Rowntree**, le batteur du groupe, il a profité de ce
 hiatus pour s'ouvrir de nouvelles portes. Déjà auteur de drivers linux, pilote
 d'avion amateur et infographiste reconnu, il a aussi joué de la batterie pour
-The Ailerons, a créé une série télé animée, _Empire Square_, puis s'est présenté
-et a perdu à deux élections sous l'étiquette du parti travailliste. Vous avez
-dit éclectique ?
+[The Ailerons][2], a créé une série télé animée, _Empire Square_, puis s'est
+présenté et a perdu à deux élections sous l'étiquette du parti travailliste.
+Vous avez dit éclectique ?
 
 Un extrait d'*Empire Square* :
 
 {% youtube 69e7JEcGCAM %}
-
-[http://www.myspace.com/theailerons](http://www.myspace.com/theailerons)
 
 **Alex James**, était déjà bassiste de side projects, Me Me Me et surtout Fat
 Les, pendant la grande époque de Blur. Avec le père de Lilly Allen au chant (et
@@ -79,7 +76,7 @@ prochain disque de Joy Division v3 aka Bad Lieutenant.
 
 Le clip de _Vindaloo_ par Fat Les :
 
-{% youtube 0T1pXsJp_go %}
+{% youtube va6nPu-1auE %}
 
 Ne nous attardons pas sur le travail de **Damon Albarn** : Gorillaz, Mali Music,
 The Good, The Bad & The Queen, Monkey: Journey To The West, tout cela est connu
@@ -98,14 +95,13 @@ un retour aux sources de la guitare, souvent sèche sur le disque, qui louche
 aussi, souvent, vers Nick Drake. La part d'ombre nécessaire à l'équilibre
 coxonien maintenant que Blur est de nouveau en piste ?
 
-- Photo Damon Albarn : (c) [Pooneh Ghana](http://www.flickr.com/photos/pooneh/)
-- Photo chien :
-  <div xmlns:cc="http://creativecommons.org/ns#" about="http://www.flickr.com/photos/nickgreenan/3687707587/"><a rel="cc:attributionURL" href="http://www.flickr.com/photos/nickgreenan/">http://www.flickr.com/photos/nickgreenan/</a>
-  / <a rel="license" href="http://creativecommons.org/licenses/by/2.0/">CC BY
-  2.0</a></div>
-- Photo Graham Coxon :
-  <div xmlns:cc="http://creativecommons.org/ns#" about="http://www.flickr.com/photos/jellybean/3683285292/"><a rel="cc:attributionURL" href="http://www.flickr.com/photos/jellybean/">http://www.flickr.com/photos/jellybean/</a>
-  / <a rel="license" href="http://creativecommons.org/licenses/by-nc/2.0/">CC
-  BY-NC 2.0</a></div>
-- Johanna Seban, des Inrocks,
-  [parle aussi du retour de Blur](http://www.lesinrocks.com/2009/07/08/musique/concerts/on-y-etait-le-retour-de-blur-1139175/)
+- Photo Damon Albarn : (c) [Pooneh Ghana](https://flic.kr/p/6BU4XR)
+- Photo chien : CC BY 2.0 [nick](https://flic.kr/p/6BSsZi)
+- Photo Graham Coxon : CC BY-NC 2.0 [jellybeanz](https://flic.kr/p/6BtNoQ)
+- Johanna Seban, des Inrocks, [parle aussi du retour de Blur][1]
+
+[1]:
+  https://www.lesinrocks.com/musique/on-y-etait-le-retour-de-blur-24545-08-07-2009/
+[2]:
+  https://musicbrainz.org/artist/9f1d095a-0114-411c-8a66-dd3995e571a9
+  "The Ailerons sur MusicBrainz"
