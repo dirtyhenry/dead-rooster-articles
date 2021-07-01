@@ -5,6 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 352
 date: "2007-01-25 09:42:00 +0100"
+category: News
 ---
 
 La phrase ultime sur la chute des ventes de disques revient à Andrew Loog Oldham
