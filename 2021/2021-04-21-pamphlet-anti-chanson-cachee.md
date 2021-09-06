@@ -71,8 +71,8 @@ ce bourdon qui se maintient tout au long de l'album.
 Deux exceptions méritent d'être mentionnées.
 
 La première édition de [_Jarvis_][6], premier album solo de Jarvis Cocker,
-leader de se terminait ainsi par un blanc de 30 minutes avant que _Running The
-World_ ne commence à être joué. Ce titre caché est sauvé pour 2 raisons. La
+leader de Pulp, se terminait ainsi par un blanc de 30 minutes avant que _Running
+The World_ ne commence à être joué. Ce titre caché est sauvé pour 2 raisons. La
 première est que ce titre caché était le meilleur de l'album. La seconde est que
 les récentes éditions de _Jarvis_ ont corrigé le tir et commence désormais par
 _Running The World_. Plus de morceau caché et faute avouée à moitié pardonnée.
