@@ -11,6 +11,9 @@ tags:
   - Alain Chabat
   - Caroline Cellier
   - Jean-Pierre Bacri
+revisions:
+  "2021-01-20": Version originale
+  "2021-09-06": Ajout du lien vers la vidéo *Calmos*
 ---
 
 Pauvre [Didier][3].
@@ -27,8 +30,12 @@ puisque les enfants autour de nous rigolent aussi de ce trop plein d'humanité.
 
 Mais quand même… Le monde va mal !
 
+PS : [La vidéo de Calmos décortiquant le film _Cuisine et Dépendances_][4] est
+hautement recommandée.
+
 [1]: https://fr.wikipedia.org/wiki/Caroline_Cellier
 [2]: https://fr.wikipedia.org/wiki/Jean-Pierre_Bacri
 [3]: https://letterboxd.com/film/didier/
+[4]: https://youtu.be/Nj5aedz2iso
 
 [i1]: {% post_url 2021/2021-01-17-rip-phil-spector %}
