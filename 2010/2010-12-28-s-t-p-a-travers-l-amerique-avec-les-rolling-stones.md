@@ -12,11 +12,9 @@ authors:
 wordpress_id: 743
 cover: rolling-stones-jagger-richards-live.jpg
 date: 2010-12-28 11:13:17 +0100
-categories:
-  - Catégories
-  - Artistes
+category: Le bouquin
 tags:
-  - Livre
+  - Robert Greenfield
   - The Rolling Stones
 ---
 
@@ -24,15 +22,15 @@ Mai 1972, les Rolling Stones arrivent sur le continent américain pour y entamer
 une tournée qui les enverra de Vancouver à New York. Baptisée S.T.P. (Stones
 Touring Party), elle se conclura par trois dates au mythique Madison Square
 Garden. Ce sont ces deux mois intenses que **Robert Greenfield** raconte dans
-_S.T.P. A travers l'Amérique avec les Rolling Stones_.
+[_S.T.P. A travers l'Amérique avec les Rolling Stones_][1].
 
 Commençons par rappeler le contexte. En 1972, les Stones sont à leur apogée,
 tant en matière de création (_Sticky Fingers_ a 1 an, son petit frère _Exile On
 Main Street_ vient de sortir) que de polémique (ce dernier a été enregistré lors
 de l'exil fiscal des Stones en France). Ils n'ont pas remis les pieds aux
-Etats-Unis depuis le drame d'Altamont en 1969. Autant de raisons pour que la
-tournée soit électrique : les pro et les anti-Stones vont tous être au rendez
-vous.
+États-Unis depuis le drame d'Altamont en 1969. Autant de raisons pour que la
+tournée soit électrique : les pro et les anti-Stones vont tous être au
+rendez-vous.
 
 Le livre de Greenfield nous raconte la chronologie détaillée de ces deux mois,
 le voyage de l'ouest à l'est jusqu'au final à New York que tout le monde attend
@@ -45,10 +43,11 @@ tournée, pour un jour ou deux mois.
 
 Mick et Keith ont beau être les deux protagonistes principaux de la tournée, ils
 ne sont pourtant que des personnages secondaires dans le livre. La plupart du
-temps hors-champ, on ne les voit pas davantage que Peter Rudge - le responsable
-de la tournée -, Chip Monck - designer des lumières et chargé de communiquer
-avec le public quand les choses vont mal - ou Robert Franck - aux manettes du
-documentaire vidéo de la tournée qui deviendra le légendaire _Cocksucker Blues_.
+temps hors-champ, on ne les voit pas davantage que Peter Rudge — le responsable
+de la tournée —, Chip Monck — designer des lumières et chargé de communiquer
+avec le public quand les choses tournent mal — ou Robert Franck — aux manettes
+du documentaire vidéo de la tournée qui deviendra le légendaire [_Cocksucker
+Blues_][2].
 
 En tout, l'équipe STP est composée d'une trentaine de personnes. Certaines sont
 là en permanence : l'équipe d'organisation, les techniciens et les roadies,
@@ -66,7 +65,7 @@ Greenfield les observe et leur prédit un retour de bâton lorsqu'une seule pens
 les paralysera une fois leur job sur la tournée terminé : "et maintenant
 quoi ?".
 
-Sur la route, des péripéties savoureuses ont lieu. A Chicago, le groupe loge
+Sur la route, des péripéties savoureuses ont lieu. À Chicago, le groupe loge
 quelques jours dans la demeure décadente du fondateur et propriétaire de
 Playboy, Hugh Hefner. Plus tard, Mick Jagger préside un procès interne suite au
 passage à tabac d'un pote de Keith par un garde du corps. La plus épique reste
@@ -96,11 +95,15 @@ aux oreilles des dirigeants du Madison Square Garden qui les interdisent
 aussitôt : il n'y aura donc pas d'éléphant sur scène, ni de lâcher de ballons,
 de farine ou de poulets (deux complices ont pourtant fait un test concluant en
 lâchant un poulet du haut d'un building en plein Manhattan : ils savent
-voler !). D'ailleurs après l'idée des poulets, la direction du Garden fait
+voler !). D'ailleurs, après l'idée des poulets, la direction du Garden fait
 colmater tous les orifices du toit. Ce sera donc finalement une simple bataille
 de tartes à la crème que Monck aura caché sur scène après s'être fait confisqué
 plusieurs cartons/leurres qui en étaient remplis.
 
 La dernière page refermée, c'est inévitable, une envie frénétique surgit :
 trouver coûte que coûte le moyen de voir les images tournées par Robert Franck
-lors des deux mois, le fameux *Cocksucker Blues* ! A suivre au prochain épisode…
+lors des deux mois, le fameux *Cocksucker Blues* ! À suivre au prochain épisode…
+
+[1]:
+  https://www.babelio.com/livres/Greenfield-STP--A-travers-lAmerique-avec-les-Rolling-Stones/171276
+[2]: https://www.themoviedb.org/movie/35922-cocksucker-blues
