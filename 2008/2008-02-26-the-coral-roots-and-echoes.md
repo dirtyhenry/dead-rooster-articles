@@ -5,8 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 203
 date: "2008-02-26 18:26:22 +0100"
-categories:
-  - Artistes
+category: Concert
 tags:
   - The Coral
 cover: the-coral.jpg
