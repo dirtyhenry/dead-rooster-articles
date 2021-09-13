@@ -12,8 +12,7 @@ authors:
 wordpress_id: 542
 date: "2009-11-05 16:27:30 +0100"
 cover: benjamin-biolay.jpg
-categories:
-  - Artistes
+category: Review
 tags:
   - Benjamin Biolay
 comments:
@@ -24,19 +23,24 @@ comments:
     content:
       C'est sûr qu'il peut être légitime de craindre les nouvelles livraisons
       d'un mec qui ne joue jamais en live son meilleur morceau, caché en titre
-      de bonus de son premier album… (je parle bien sûr de La dernière heure du
-      dernier jour)
+      de bonus de son premier album… (je parle bien sûr de *La dernière heure du
+      dernier jour*)
 ---
 
-Comme à chaque livraison du bonhomme depuis _Négatif_, on est toujours fébrile
-avant la première écoute d'un nouvel album de **Benjamin Biolay** (pour _Rose
-Kennedy_, on ne pouvait être fébrile, puisqu'on découvrait l'artiste…). Le
-garçon ayant l'art de se renouveler, flirtant parfois avec le mauvais goût, il
-finira bien par nous pondre un truc complètement nul un jour ou l'autre. Et
-cette fois-ci, on est d'autant plus fébrile que _Trash Yéyé_ se révéla
-légèrement en dessous de _À L'Origine_. Et quand en plus, on sait que l'album
-est double, il n'en faut pas plus pour qu'une goutte de sueur nous coule le long
-du dos…
+5ème album (environ, si on excepte les bandes originales de film et les disques
+avec ses ex) de Benjamin Biolay, [_La Superbe_][1] porte parfaitement son nom.
+Et malgré les premières impressions (double album, c'est un de trop, non ? 23
+titres, c'est 10 de trop, non ?), aucune indigestion n'est finalement à prévoir.
+
+Comme à chaque livraison du bonhomme depuis [_Négatif_][5], on est toujours
+fébrile avant la première écoute d'un nouvel album de **Benjamin Biolay** (pour
+[_Rose Kennedy_][2], on ne pouvait être fébrile, puisqu'on découvrait
+l'artiste…). Le garçon ayant l'art de se renouveler, flirtant parfois avec le
+mauvais goût, il finira bien par nous pondre un truc complètement nul un jour ou
+l'autre. Et cette fois-ci, on est d'autant plus fébrile que [_Trash Yéyé_][6] se
+révéla légèrement en dessous de [_À L'Origine_][7]. Et quand en plus, on sait
+que l'album est double, il n'en faut pas plus pour qu'une goutte de sueur nous
+coule le long du dos…
 
 En effet, comment est-il encore décemment possible de sortir des double albums,
 quand on nous rebat les oreilles avec "la crise du disque" ? Mais surtout,
@@ -51,8 +55,8 @@ propose une succession de titres autour d'un thème, certes peu original, mais
 qui supporte bien qu'on en parle pendant un peu plus d'une heure et demie :
 l'amour. Avec plusieurs variantes : l'amour débutant/finissant, l'amour filial,
 l'amour passion. Cela fonctionne d'autant mieux qu'on sent l'artiste proche de
-ce qu'il décrit. Pour la forme, on remarquera l'intelligente épanadiplose _15
-août_/_15 septembre_, sous forme d'échange épistolaire, qui renforce
+ce qu'il décrit. Pour la forme, on remarquera l'intelligente épanadiplose [_15
+août_][8]/[_15 septembre_][9], sous forme d'échange épistolaire, qui renforce
 l'impression de _grand ensemble_ global.
 
 Pour "l'éparpillement dans des choses sans intérêt", force est de constater
@@ -85,17 +89,19 @@ Toxicomanie_). Aucune fioriture dans le fond, Biolay va à l'essentiel, appuie l
 où ça fait mal, mais toujours avec un souci exacerbé pour la forme.
 
 Bref, pour conclure, n'ayons pas peur de nous emballer un peu, et écrivons-le
-haut et fort : ce disque est un chef-d'œuvre et mérite, pour l'instant, sa place
-au sommet de notre podium 2009.
+haut et fort : **ce disque est un chef-d'œuvre** et mérite, pour l'instant, sa
+place au sommet de notre podium 2009.
 
-Liens :
-
-- Le disque en écoute intégrale sur [deezer][1].
-- Le clip de [_La superbe_][2].
+{% youtube xtmVTfGJUzA %}
 
 Photo : [Andrés Bortnik][3] / [http://www.flickr.com/photos/potq][4]
 
-[1]: https://www.deezer.com/fr/music/benjamin-biolay/la-superbe-392891
-[2]: https://www.youtube.com/watch?v=xtmVTfGJUzA
+[1]: https://album.link/fr/i/330983609 "La Superbe"
+[2]: https://album.link/fr/i/697152313 "Rose Kennedy"
 [3]: http://www.bortnik.cl/
 [4]: http://www.flickr.com/photos/potq
+[5]: https://album.link/fr/i/693465901 "Négatif"
+[6]: https://album.link/fr/i/709360172 "Trash Yéyé"
+[7]: https://album.link/fr/i/693465794 "À l'origine"
+[8]: https://song.link/fr/i/330983773 "15 août"
+[9]: https://song.link/fr/i/330983867 "15 sept"
