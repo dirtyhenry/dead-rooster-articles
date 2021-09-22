@@ -7,6 +7,7 @@ wordpress_id: 546
 date: "2008-06-30 12:00:00 +0200"
 category: Compile
 tags:
+  - Creedence Clearwater Revival
   - Johnny Cash
   - Lightspeed Champion
   - She & Him

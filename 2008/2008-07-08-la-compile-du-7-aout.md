@@ -8,6 +8,7 @@ cover: chemin-campagne.jpg
 date: 2008-07-08 15:15:00 +0200
 category: Compile
 tags:
+  - Creedence Clearwater Revival
   - Fountains of Wayne
   - Herman Düne
   - Johnny Cash

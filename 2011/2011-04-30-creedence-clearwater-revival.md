@@ -37,6 +37,8 @@ comments:
       groupe.\r\nJe compte alors sur les lecteurs méticuleux pour rectifier le
       tir !"
 category: Encyclopédie approximative du Rock and Roll
+tags:
+  - Creedence Clearwater Revival
 ---
 
 Véritables enfants du bayou, les frères Fogerty ont parfaitement su restituer
