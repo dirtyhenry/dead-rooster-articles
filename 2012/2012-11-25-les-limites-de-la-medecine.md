@@ -24,10 +24,9 @@ sous Libertines. Comme si Carl Barât & ses (ex-)potes avaient bu du coke plutô
 que de la sniffer.
 
 Cela ne s'améliore pas avec _I Always Knew_. Pendant 5 secondes, on se prend à
-rêver d'un hommage post rock à
-[_Crocodile Rock_](http://www.youtube.com/watch?v=Y2Ta0qCG8No). Mais finalement,
-le tempo tatapoumesque fait plutôt penser à un crocodile qui se débat dans une
-mare de boue, englué par le chant sans conviction de Justin Young.
+rêver d'un hommage post rock à [_Crocodile Rock_][1]. Mais finalement, le tempo
+tatapoumesque fait plutôt penser à un crocodile qui se débat dans une mare de
+boue, englué par le chant sans conviction de Justin Young.
 
 {% youtube bFUKrsDDChE %}
 
@@ -48,3 +47,5 @@ Le principal problème de cet album est qu'on n'a pas envie de le réécouter. I
 donne plutôt l'envie de filer direct dans notre discographie pour écouter les
 originaux dont il s'inspire. 10 ans avant, on aurait crié au génie. Là, on
 baille aux corneilles !
+
+[1]: https://youtu.be/3mtYzXi8xhg "Elton John - Crocodile Rock 1972"

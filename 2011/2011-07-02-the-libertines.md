@@ -23,7 +23,7 @@ François Feldman ils adorent.
 Mais par dessus tout, celle qu'ils aiment c'est Mylène. Mylène Farmer. Grâce à
 elle, ils trouvent leur pseudonyme. Désormais, il faudra les appeler **The
 Libertines**. Leurs costumes ? Les mêmes que Mymy et sa garde rapprochée dans le
-[clip](http://youtu.be/LOvshC3M44o?t=3m14s).
+[clip][1].
 
 Malheureusement, tout ira à vau-l'eau pour eux : au moment de choisir un
 batteur, ils voulaient rendre hommage à Mylène en prenant quelqu'un à la
@@ -41,8 +41,12 @@ depuis, plus rien, Pete sombrant dans de sombres histoires de dope, amoureux
 transi mais frustré qu'il est de la belle rousse de par chez nous, se réfugiant
 dans les bras de mannequins anorexiques et übercocaïnées. Cårl Bªræt tentera
 bien un comeback avec les **Pretty Things**, mais enfin, ces derniers avaient
-déjà atteint le [sommet](http://www.youtube.com/watch?v=XrFUT1YFfH0) de leur
-carrière dès les sixties.
+déjà atteint le [sommet][2] de leur carrière dès les sixties.
 
 Allez les gars, ne soyez pas *désenchantés* ! Un jour, ça marchera, *pourvu que
 vous soyez doux* !
+
+[1]: https://youtu.be/oGFr_NcKyfo?t=203 "Mylène Farmer - Libertine"
+[2]:
+  https://youtu.be/oWClDDb9PYo
+  "The Pretty Things - Private Sorrow (French TV 1968) HQ"
