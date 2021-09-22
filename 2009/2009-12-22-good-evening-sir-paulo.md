@@ -6,9 +6,9 @@ authors:
 wordpress_id: 557
 cover: paul-mc-cartney.jpg
 date: 2009-12-22 16:55:55 +0100
-categories:
-  - Artistes
+category: Concert
 tags:
+  - Paul McCartney
   - The Beatles
 ---
 
@@ -23,12 +23,10 @@ Palais Omnisports de Bercy. J'y allai.
 À peine le temps de prendre ses marques dans la salle et de commander une pinte
 à 7 euros, d'admirer le diaporama en fond de scène (Paulo et Linda, Paulo et les
 Beatles, Paulo tout seul, Paulo et Linda, etc.) et de se lasser des dispensables
-reprises des Beatles sensées nous faire patienter (encore une fois et jusqu'à
-preuve du contraire, il y a 2 bonnes reprises des Beatles : Joe Cocker, Stevie
-Wonder et point barre), que Paulo rentre sur scène avec ses musiciens, les
-guitaristes Brian Ray (dit le blond) et Rusty Anderson (dit le brun), le clavier
-Paul Wickens (dit l'aut') et le batteur Abe Laboriel, Jr. (dit le vieux bon gros
-Abe).
+reprises des Beatles sensées nous faire patienter[^1] que Paulo rentre sur scène
+avec ses musiciens, les guitaristes Brian Ray (dit le blond) et Rusty Anderson
+(dit le brun), le clavier Paul Wickens (dit l'aut') et le batteur Abe Laboriel,
+Jr. (dit le vieux bon gros Abe).
 
 Macca a fière allure : cheveux teints impeccables, veste bleu foncé qu'a la
 classe, bretelles qu'ont encore plus la classe sur une chemise blanche immaculée
@@ -36,8 +34,8 @@ et silhouette svelte qui ne trahit pas ses 67 ans et qui doit même rendre jalou
 plusieurs trentenaires de la salle. Pas le temps de se calmer un peu (c'est
 quand même pas rien de voir son premier Beatle en chair et en os, même en 2009),
 le set va directement à l'essentiel avec un _Magical Mystery Tour_ qui fait
-danser en un quart de tour mon petit chou, le petit sobriquet que Paulo donne au
-public du soir. Vite expédié, on enchaîne avec un _Drive My Car_ et on se dit
+danser en un quart de tour _mon petit chou_, le petit sobriquet que Paulo donne
+au public du soir. Vite expédié, on enchaîne avec un _Drive My Car_ et on se dit
 qu'on va avoir du mal à reprendre sa respiration pendant les 2 heures qui
 viennent.
 
@@ -60,21 +58,21 @@ tôt). D'un point de vue éthique, je suis peut-être naïf, passif ou un peu co
 mais je n'ai pas trouvé de message commercial agressif.
 
 Autre extrait vidéo qui m'a laissé beaucoup plus circonspect : la diffusion du
-trailer de _Everybody's fine_, film pour lequel Macca a écrit un titre. La vidéo
-est moche, larmoyante et n'a rien à faire là. Par contre, la diffusion des
-rushes de la séance photo de la légendaire pochette des Wings pour _Band On The
-Run_ est une réussite. On y voit Paulo, Linda et les autres poser, tomber, rire,
-on devine les crampes un peu partout et c'est toujours touchant et intéressant
-de voir les coulisses d'une oeuvre marquante, surtout quand elles savent ne pas
-trop en dire (ici, par exemple, on profite juste des images, sans le son, et
-c'est parfait ainsi).
+trailer de [_Everybody's Fine_][3], film pour lequel Macca a écrit un titre. La
+vidéo est moche, larmoyante et n'a rien à faire là. Par contre, la diffusion des
+rushes de la séance photo de la légendaire pochette des Wings pour [_Band On The
+Run_][4] est une réussite. On y voit Paulo, Linda et les autres poser, tomber,
+rire, on devine les crampes un peu partout et c'est toujours touchant et
+intéressant de voir les coulisses d'une oeuvre marquante, surtout quand elles
+savent ne pas trop en dire (ici, par exemple, on profite juste des images, sans
+le son, et c'est parfait ainsi).
 
 {% asset paul-mc-cartney-bercy-2.jpg %}
 
 On parle, on parle, mais on en est déjà à une quinzaine de titres de joués et il
 serait temps de commencer à envoyer du bois là. Pas de panique, c'est prévu. A
-partir de _Michelle_, Paulo et sa bande vont enchaîner une [trackliste][2] de
-rêve composée de certains des meilleurs titres des Beatles chantés par Macca en
+partir de _Michelle_, Paulo et sa bande vont enchaîner une [setlist][2] de rêve
+composée de certains des meilleurs titres des Beatles chantés par Macca en
 version originale (sauf _Something_ et _A Day In The Life_, enchaîné avec _Give
 Peace A Chance_, de Lennon) et ceux de son après-Beatles (les excellents _Band
 On The Run_ et _Live And Let Die_).
@@ -101,9 +99,15 @@ salle en criant :
 > We'd like to thank you once again…  
 > Good Evening Sir Paul McCartney
 
-Photos : (c) [Arnaud Compagne](www.arnaudcompagne.com)
+Photos : (c) Arnaud Compagne
 
 [1]:
-  http://www.soul-kitchen.fr/9156-photos-concert-paul-mc-cartney-enflamme-bercy/
+  https://www.soul-kitchen.fr/9156-9156-photos-concert-paul-mc-cartney-enflamme-bercy
 [2]:
-  http://paulmccartney.forumactif.com/good-evening-paris-set-list-soundcheck-petite-review-n3056.htm
+  https://www.setlist.fm/setlist/paul-mccartney/2009/palais-omnisports-de-paris-bercy-paris-france-23d7148f.html
+[3]: https://www.themoviedb.org/movie/26171-everybody-s-fine
+[4]: https://album.link/fr/i/1443413822
+
+[^1]:
+    Jusqu'à preuve du contraire, il y a 2 bonnes reprises des Beatles : Joe
+    Cocker, Stevie Wonder et point barre
