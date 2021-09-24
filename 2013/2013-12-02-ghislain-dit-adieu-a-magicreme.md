@@ -6,6 +6,7 @@ authors:
 wordpress_id: 1265
 cover: ghislain-lambert-velos.jpg
 date: 2013-12-02 17:17:18 +0100
+category: Le monde va mal
 ---
 
 Douze ans après le film, Ghislain Gimbert continue ses légendaires ascensions,

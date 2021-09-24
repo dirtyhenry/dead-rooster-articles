@@ -5,8 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 830
 date: "2013-12-06 10:00:00 +0100"
-categories:
-  - Chanson du jour
+category: Chanson du jour
 tags:
   - Blur
   - The Rentals
