@@ -19,11 +19,11 @@ beer. Five suited-up guys enter a foggy stage, something they may have learned
 when they were opening for U2 a few months ago. Three founding members of the
 band are still there : Paul Banks aka Julian Plenti, vocals, Daniel Kessler,
 guitars, and Sam Fogarino, drums[^1]. Farewell dear Carlos D., bass player and
-[full-time candidate for the world most classy person position](http://www.google.fr/images?q=carlos+d+interpol).
-Less than one year ago, he was replaced on stage by Brandon Curtis (keyboards
-and backing vocals) and David Pajo (bass)… who's just announced he was off the
-ship, being last-minute replaced by Brad Truax whose resume just sums up two
-weeks of this Interpol job.
+[full-time candidate for the world most classy person position][1]. Less than
+one year ago, he was replaced on stage by Brandon Curtis (keyboards and backing
+vocals) and David Pajo (bass)… who's just announced he was off the ship, being
+last-minute replaced by Brad Truax whose resume just sums up two weeks of this
+Interpol job.
 
 _Success_ and _Say Hello To The Angels_ open the show. Two big hits to be
 forgiven of the not-so-sharp sound that will need another few songs to be
@@ -66,9 +66,8 @@ played but we'll get over it.
 Banks et Kessler are smiling when it's about time to leave the stage : that's a
 first time in my Interpol concerts experience. They're usually cold, in the way
 you want Interpol shows to be cold. Even better, they salute the audience
-cheerfully with a not-original but
-quite-reassuring-for-a-band-that-split-up-many-times-without-telling-anyone «See
-you next time».
+cheerfully with a not-original but quite reassuring for a
+band-that-split-up-many-times-without-telling-anyone «See you next time».
 
 {% asset interpol-daniel-kessler-live.png %}
 
@@ -120,3 +119,5 @@ Deluxe 10-songs version :
 Pictures : (c) Isatagada
 
 [^1]: alright, the very first drummer of the band was Greg Drudy, you're right.
+
+[1]: https://www.google.fr/images?q=carlos+d+interpol
