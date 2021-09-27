@@ -18,8 +18,3 @@ révolutionnaire mexicain dans _Ocean's 13_.
 Le titre résume le scénario : Jesse James va mourir (c'est con, il a l'air
 d'avoir la classe) et son assassin est un lâche (c'est vrai qu'on a pas envie de
 devoir compter sur le mec qui ronchonne à l'arrière plan).
-
-Et je ne résiste pas à rebalancer ce lien :
-[http://allocine.blogs.allocine.fr/allocine-78474-cherchez_lerreur.htm][1]
-
-[1]: http://allocine.blogs.allocine.fr/allocine-78474-cherchez_lerreur.htm
