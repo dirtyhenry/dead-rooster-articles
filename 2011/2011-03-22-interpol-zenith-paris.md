@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Interpol rentre déjà en CM1
+title: Interpol au Zénith de Paris
 description:
   Voir Interpol en 2011, c'est voir un des meilleurs groupes de la décennie
   passée, ne pas avoir eu la chance de dire au revoir à Carlos D, prendre un
@@ -10,11 +10,8 @@ authors:
 wordpress_id: 802
 cover: interpol-live-daniel-kessler.png
 date: 2011-03-22 09:31:07 +0100
-categories:
-  - Catégories
-  - Artistes
+category: Concert
 tags:
-  - Concert
   - Interpol
 ---
 
@@ -72,8 +69,8 @@ Banks et Kessler sont souriants au moment de quitter la scène : une première
 selon mon expérience. Les concerts d'Interpol sont généralement froids, au bon
 sens du terme. Mieux, ils saluent même presque chaleureusement le public avant
 de nous lâcher un “See you next time”, certes peu original mais toujours
-rassurant venant d'un groupe qui [aura splitté à de nombreuses reprises sans
-nous mettre au courant][^2].
+rassurant venant d'un groupe qui aura splitté à de nombreuses reprises sans nous
+mettre au courant[^2].
 
 {% asset interpol-daniel-kessler-live.png %}
 
