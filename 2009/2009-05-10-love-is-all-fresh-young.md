@@ -5,18 +5,15 @@ authors:
   - Dirty Henry
 wordpress_id: 226
 date: "2009-05-10 16:54:52 +0200"
-categories:
-  - Catégories
-  - Artistes
+category: Concert
 tags:
-  - Concert
   - Love Is All
 cover: love-is-all.jpg
 ---
 
 Une nouvelle soirée de concert au point éphémère et encore une soirée réussie, à
 l'occasion du [**Pink & Purple Pop Festival**, organisé par popingays.com][1].
-Un cadre parfait (bord de Seine) et une place à pas cher (12 € la soirée), merci
+Un cadre parfait (bord de Seine) et une place à pas cher (12 € la soirée), merci
 merci merci.
 
 Chorégraphie absurde pour la forme, musique qui ne l'est pas moins pour le fond,
@@ -30,6 +27,8 @@ répertoire du duo). Le groupe, proche de leurs voisins Magnetix dans
 l'atmosphère très série Z, est à découvrir mais on pourra quand même lui
 reprocher une certaine constance dans le rythme qui tend à ennuyer le public sur
 la durée de leur set.
+
+{% youtube __-RVRoGgLM %}
 
 Du duo, on passe à un trio avec l'entrée en scène de [**Modernaire**][3]. Deux
 Anglaises au chant, Cruella de Mill et Chesty La Rue, accompagnées de leur
@@ -48,29 +47,22 @@ somme l'ameure c'est toute" charmant, le quintette va jouer pendant la petite
 heure suivante tout ce qu'une batterie, une basse, un saxophone, une guitare, un
 clavier et des voix à l'énergie "sans se forcer" exemplaire peuvent faire de
 mieux quand ils sont réunis dans la même pièce. Pour s'en convaincre, le remède
-est d'écouter les chefs d'œuvre que sont _Ageing had never been his friend_ ou
-_Wishing well_, disponibles sur les deux albums du groupe, à se procurer de
-toute urgence. En live, on a en plus l'avantage d'avoir sous les yeux Josephine,
-chanteuse, qui déverse un spectacle de débauche d'énergie "flegmatique"
-(l'association de ces deux termes surprend… mais la performance de Josephine
-aussi) et qui, toujours en train de se marrer, semble presque gênée des
-applaudissements mérités que reçoit le groupe. Généreux, celui-ci offre deux
+est d'écouter les chefs d'œuvre que sont [_Ageing had never been his friend_][6]
+ou [_Wishing Well_][5], disponibles sur les deux albums du groupe, à se procurer
+de toute urgence. En live, on a en plus l'avantage d'avoir sous les yeux
+Josephine, chanteuse, qui déverse un spectacle de débauche d'énergie
+"flegmatique" (l'association de ces deux termes surprend… mais la performance de
+Josephine aussi) et qui, toujours en train de se marrer, semble presque gênée
+des applaudissements mérités que reçoit le groupe. Généreux, celui-ci offre deux
 rappels avant de s'éclipser, visiblement davantage par défaut de titres à jouer
 que d'envie de partir (c'est décidément le mal du siècle). On se revoit aux
 festivals estivaux les amis suédois ?
 
-- [MySpace Minuscule Hey](http://www.myspace.com/minusculehey)
-- [La vidéo référencée de Subterranean Homesick Blues](http://www.youtube.com/watch?v=__-RVRoGgLM)
-- [MySpace Modernaire][3]
-- [MySpace Love Is All][4]
-- [Clip _Ageing had never been his friend_][5]
-- [Clip _Wishing Well_ à la plage][6]
+Photo : [©☃](https://www.flickr.com/people/cv47al/)
 
-Photo : [©☃](http://www.flickr.com/photos/cv47al/)
-
-[1]: http://www.popingays.com/popingays-association-lgbt-a-propos/
-[2]: http://www.facebook.com/minusculeheypage
-[3]: http://www.myspace.com/modernairetheband
-[4]: http://myspace.com/loveisall8
-[5]: http://www.youtube.com/watch?v=3jRWa-6qX5M
-[6]: http://www.youtube.com/watch?v=wPciRpw3oCg
+[1]: https://www.facebook.com/popingays/
+[2]: https://www.facebook.com/minusculeheypage
+[3]: https://www.facebook.com/Modernaire-99183165525/
+[4]: https://www.facebook.com/loveisall8/
+[5]: https://youtu.be/wPciRpw3oCg
+[6]: https://song.link/fr/i/691876589
