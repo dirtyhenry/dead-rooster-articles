@@ -5,24 +5,23 @@ description:
   Les DIY Series sont une nouvelle saga de votre site préféré. Le concept ?
   Aller à la rencontre de créateurs amateurs et indépendants pour les interroger
   sur leur motivation, leur mode de fonctionnement. Bref, connaître et faire
-  connaître des techniques de Do It Yourself. Première rencontre avec {{Social
-  Square}}.
+  connaître des techniques de Do It Yourself. Première rencontre avec **Social
+  Square**.
 authors:
   - Dirty Henry
 wordpress_id: 829
 cover: social-square.jpg
 date: 2011-04-21 17:15:42 +0200
-categories:
-  - Catégories
+category: The DIY Series
 tags:
-  - The DIY Series
+  - Social Square
 ---
 
 Les DIY Series sont une nouvelle saga de votre site préféré. Le concept ? Aller
 à la rencontre de créateurs amateurs et indépendants pour les interroger sur
 leur motivation, leur mode de fonctionnement. Bref, connaître et faire connaître
-des techniques de [Do It Yourself](http://fr.wikipedia.org/wiki/Do_it_yourself).
-Première rencontre avec **Social Square**.
+des techniques de [_Do It Yourself_][1]. Première rencontre avec **Social
+Square**.
 
 Social Square est un trio parisien fondé en 2005, qui joue du rock à guitares et
 revendique haut et (très) fort l'influence du rock alternatif américain des
@@ -32,7 +31,7 @@ vs You* :
 
 {% soundcloud 16583964 %}
 
-{% soundcloud 16583960 %}
+{% soundcloud 293043549 %}
 
 La phrase "c'est marrant, vous sonnez pas du tout comme un groupe français" est
 un cliché un peu pénible à penser (et encore davantage à prononcer) mais c'est
@@ -47,15 +46,14 @@ La seconde, je vous la révélerai tout à l'heure.
 
 Pas de home-studio pour Social Square, les chansons sont donc travaillées live.
 Pour répéter, Social Square a trouvé un bon filon. Plutôt que disposer d'un
-créneau dans un studio qu'on loue à l'heure ou à la journée (type
-[Basement](http://www.basementprod.com/),
-[Luna Rossa](http://www.studiolunarossa.com/) ou autre), ils jouent dans un
-local loué en commun par plusieurs groupes à St-Ouen. Du coup, ça coûte a priori
-moins cher, mais ça a surtout l'avantage d'être plus facile pour avoir son
-créneau hebdomadaire (le lundi c'est la soirée Social Square pour chacun des
-membres du groupe) et plus pratique pour laisser son matériel. Soit, il reste
-toujours le problème du matos qu'on doit partager entre groupes (batterie et
-amplis) mais c'est un moindre mal.
+créneau dans un studio qu'on loue à l'heure ou à la journée (type [Basement][2],
+[Luna Rossa][3] ou autre), ils jouent dans un local loué en commun par plusieurs
+groupes à St-Ouen. Du coup, ça coûte a priori moins cher, mais ça a surtout
+l'avantage d'être plus facile pour avoir son créneau hebdomadaire (le lundi
+c'est la soirée Social Square pour chacun des membres du groupe) et plus
+pratique pour laisser son matériel. Soit, il reste toujours le problème du matos
+qu'on doit partager entre groupes (batterie et amplis) mais c'est un moindre
+mal.
 
 ## Les enregistrements
 
@@ -64,16 +62,15 @@ d'Alfortville : trois jours de location avec un ingénieur du son de leur
 connaissance - James van Leuven. Une fois les titres enregistrés et mixés, on
 leur a tuyauté une idée pour le mastering : plutôt que le faire à Paris,
 pourquoi pas le faire faire par des Américains biberonnés aux mêmes influences ?
-En l'occurrence, le mastering a été fait par
-[Master Works](http://www.master-works.com/), à Seattle (c'est donc là que se
-cache la seconde raison du son si-peu-français du groupe). Les échanges se sont
-faits sans exploser le budget, en payant même moins cher qu'à Paris, via
-échanges de mails et plateformes d'échanges de fichier. Pas bête.
+En l'occurrence, le mastering a été fait par [Master Works][4], à Seattle (c'est
+donc là que se cache la seconde raison du son si-peu-français du groupe). Les
+échanges se sont faits sans exploser le budget, en payant même moins cher qu'à
+Paris, via échanges de mails et plateformes d'échanges de fichier. Pas bête.
 
 Ce sera rebelote en 2011. Toujours 3 titres, avec les mêmes personnes aux
-manettes, et pour financer le tout
-([parce que faire de la musique, ça coûte de l'argent](http://www.youtube.com/watch?v=XKnCGUV8ZZI#t=0m30s)),
-le groupe a eu la bonne idée d'utiliser la plateforme de collecte de fonds
+manettes, et pour financer le tout ([parce que faire de la musique, ça coûte de
+l'argent][7]), le groupe a eu la bonne idée d'utiliser la plateforme de collecte
+de fonds
 [Kiss Kiss Bank Bank](http://www.kisskissbankbank.com/projects/enregistrement-du-premier-album-de-social-square)
 où tout le monde pouvait participer à l'effort en contrepartie de lots sympas :
 
@@ -100,15 +97,12 @@ Pour que sa musique se fasse connaître, là aussi, il faut y consacrer du temps
 et envoyer les liens et les MP3 aux webzines et blogs musicaux. Il y a plus de
 chances de réussites de ce côté-là que vers la presse traditionnelle ou les
 radios. Au final, Social Square se retrouve avec de jolies chroniques sur le web
-chez La Magic Box,
-[Addictif Zine](http://www.addictif-zine.com/accueil/item/2148-social-square-it-vs-you)
-ou [Indessence](http://indessence.net/2010/07/social-square-it-vs-you.html).
+chez La Magic Box, Addictif Zine ou Indessence.
 
-Le petit plus sympa vient du blog des Inrocks
-[Gimme Indie Rock](http://blogs.lesinrocks.com/gimmeindierock/) qui a diffusé
-[ce petit strip](http://blogs.lesinrocks.com/gimmeindierock/2010/09/13/wonderflusocial-square/)
-et a permis à Social Square de faire copain-copain avec Wonderflu, l'autre cité
-du post (et dont l'écoute est également recommandée).
+Le petit plus sympa vient du blog des Inrocks [Gimme Indie Rock][5] qui a
+diffusé [ce petit strip][6] et a permis à Social Square de faire copain-copain
+avec Wonderflu, l'autre cité du post (et dont l'écoute est également
+recommandée).
 
 ## Les autoroutes de l'information à la rescousse
 
@@ -128,21 +122,31 @@ indépendance, à condition d'y passer du temps, du temps et encore du temps.
 Au risque de voir une multiplication du nombre de groupes jusqu'au seuil
 critique où ils n'arriveront plus à trouver leur public ? Pas vraiment puisque
 le web vient aussi à la rescousse, outre les incontournables MySpace, Bandcamp
-ou Inrocks Lab, même aussi [Noomiz](http://www.noomiz.com/), une autre
-plateforme française, dont Patrick m'apprend l'existence.
+ou Inrocks Lab, même aussi Noomiz, une autre plateforme française, dont Patrick
+m'apprend l'existence.
 
 ## Des recommandations ?
 
 Au final, voici les recommandations de Social Square :
 
-- [Dead Pop Club](http://deadpopclub.free.fr/)
-- [Yuck](http://www.myspace.com/yuckband)
-- [Adam Kesher](http://www.myspace.com/adamkesher)
-- [Stuck In The Sound](http://www.myspace.com/stuckinthesound)
+- [Dead Pop Club](https://deadpopclub.bandcamp.com/)
+- [Yuck](https://twitter.com/yuckband)
+- [Adam Kesher](https://fr.wikipedia.org/wiki/Adam_Kesher)
+- [Stuck In The Sound](https://www.facebook.com/stuckinthesound)
 
-**Social Square sera en concert DEMAIN vendredi 22 avril dans l'excellent
-nouveau club rock parisien Les Combustibles, 14 rue Abel, avec The Bree Van De
-Kamp's et Bloodthirsty Hippies, 5€.**
+Social Square sera en concert le vendredi 22 avril dans l'excellent nouveau club
+rock parisien Les Combustibles, 14 rue Abel, avec
+[The Bree Van De Kamp's](https://thebreevandekamps.bandcamp.com/) et
+[Bloodthirsty Hippies](https://www.facebook.com/Bloodthirsty-Hippies-121171087922561/),
+5€.
 
-Créateurs amateurs et indépendants, n'hésitez pas à vous manifester dans les
-commentaires !
+Créateurs amateurs et indépendants, n'hésitez pas à vous manifester !
+
+[1]: https://fr.wikipedia.org/wiki/Do_it_yourself
+[2]: https://www.basementprod.com/
+[3]: https://www.studiolunarossa.com
+[4]: http://www.master-works.com/
+[5]: http://blogs.lesinrocks.com/gimmeindierock/
+[6]:
+  http://blogs.lesinrocks.com/gimmeindierock/2010/09/13/wonderflusocial-square/
+[7]: https://www.youtube.com/watch?v=XKnCGUV8ZZI#t=0m30s
