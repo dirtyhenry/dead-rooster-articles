@@ -66,8 +66,8 @@ C'est moche mais c'est comme ça. Si Pentangle est complètement indigeste, le
 premier album de Bert est carrément cool : de la guitare en picking et une voix,
 point barre. La légende dit même qu'il a été enregistré dans une cuisine. La
 classe. L'album a sûrement influencé Nick Drake et Jimmy Page. Y'a pire. _Needle
-Of Death_ (<strike>_Do You Hear Me Now_</strike> : apparemment le nommage sur
-Spotify est un peu bugué, au temps pour moi) est ma préférée.
+Of Death_ (~~_Do You Hear Me Now_~~ : apparemment le nommage sur Spotify est un
+peu bugué, au temps pour moi) est ma préférée.
 
 ### Maison Neuve - _Joan_
 
@@ -80,9 +80,7 @@ en priorité.
 
 King Khan est un personnage à découvrir. De la soul officiellement allemande, ça
 ne se voit pas tous les jours. Du très bon (_Bob Log Stomp_), du médiocre (_Come
-Levitate With Me_), un disque inégal, mais
-[à télécharger librement](http://scionav.com/collection/851/Scion-A/V-Presents:-The-King-Khan-Experience),
-sympa.
+Levitate With Me_), un disque inégal, ~~mais à télécharger librement~~.
 
 ## Les 3 étoiles
 
@@ -132,24 +130,23 @@ meilleur morceau.
 
 ### Wonderflu - _Lota Schwager_
 
-J'avais entendu beaucoup de choses en bien sur les Parisiens de Wonderflu
-[ici][i829] et
-[là](http://blogs.lesinrocks.com/gimmeindierock/2011/10/06/vote-for-wonderflu/).
-Je m'y suis enfin penché et ai été légèrement déçu. Déjà, le cover art est très
-moche (police rouge sur fond bleu ? merde les gars, vous êtes pas sérieux !). Du
-classique un peu trop classique. Pas de quoi les condamner complètement non
-plus, juste le syndrome _Les Visiteurs_ du truc que quand vous l'écoutez après
-tout le monde, vous ne voyez pas pourquoi les gens en font tout un foin. J'aime
-bien _Your Draw_, c'est mon petit côté Ringo Starr.
+J'avais entendu beaucoup de choses en bien sur les Parisiens de Wonderflu [des
+membres de Social Square][i829] et [de Gimme Indie Rock][1]. Je m'y suis enfin
+penché et ai été légèrement déçu. Déjà, le cover art est très moche (police
+rouge sur fond bleu ? merde les gars, vous êtes pas sérieux !). Du classique un
+peu trop classique. Pas de quoi les condamner complètement non plus, juste le
+syndrome _Les Visiteurs_ du truc que quand vous l'écoutez après tout le monde,
+vous ne voyez pas pourquoi les gens en font tout un foin. J'aime bien _Your
+Draw_, c'est mon petit côté Ringo Starr.
 
 ## Les 1 étoile
 
 ### Lisa Miller - _Within Myself_
 
 Un disque de 1967 par une fille de 11 ans. Pas déplaisant mais des tremolo façon
-[rossignolets de la chanson](http://www.dailymotion.com/video/x1ho21_le-pot-pourri-des-rossignolets-part_music)
-et une des pires reprises des Beatles de l'histoire (_Fool On The Hill_) dont
-les percus feraient rougir d'envie Jean-Pierre Caca.
+[rossignolets de la chanson][2] et une des pires reprises des Beatles de
+l'histoire (_Fool On The Hill_) dont les percus feraient rougir d'envie
+Jean-Pierre Caca.
 
 ### Justice - _Audio, Video, Disco_
 
@@ -178,3 +175,8 @@ Réalisée avec Sortmash.
 [i944]: {% post_url 2011/2011-11-05-real-estate-it-s-real %}
 
 [i829]: {% post_url 2011/2011-04-21-the-diy-series-social-square %}
+
+[1]: http://blogs.lesinrocks.com/gimmeindierock/2011/10/06/vote-for-wonderflu/
+[2]:
+  https://www.dailymotion.com/video/x1ho21
+  "Les Petits Rossignolets de la Chanson"
