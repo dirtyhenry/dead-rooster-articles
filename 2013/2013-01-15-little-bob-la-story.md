@@ -94,8 +94,35 @@ Bastards.
 Et enfin, sachez qu'un documentaire sur Little Bob, _Rocking Class Hero_ est en
 cours de production. Ça devrait pas être triste, tiens.
 
-Update : Serge Kaganski donne des news du projet _Rocking Class Hero_
-[ici](http://blogs.lesinrocks.com/kaganski/2015/07/18/belles-familles-une-comedie-old-school-et-cest-rafraichissant/).
+Update : Serge Kaganski donne des news du projet _Rocking Class Hero_ [ici][2].
 Apparemment, le film est prêt mais pas encore de distribution.
 
+> En post-scriptum de ce post et de celui sur le cinérock, un doc sur une
+> légende du rock français, elle aussi old school : _Rockin class hero_ de
+> Laurent Jézéquel et Gilbert Carsoux, 52 minutes fumantes sur Little Bob, sa
+> Story et son histoire. Les réal’ ont suivi Bob en concert, en studio et au
+> Havre pendant des mois, ils ont recueillis les témoignages d’Eric Burdon, Rat
+> Scabies, Pretty Things, Glen Matlock, Wilko Johnson, Teyssot-Gay (Noir Désir),
+> Manu Chao, Didier Wampas, Philippe Garnier et Manœuvre, Aki Kaurismaki, Marc
+> Zermati… et votre taulier (ayant zéro intérêt financier dans cette affaire, je
+> me permets d’en parler librement).
+>
+> Ce docu vif, nerveux, émouvant, raconte une histoire du rock en France mais
+> aussi un destin peu commun : celui d’un immigré rital, prolo, petit, gros,
+> myope, qui a su accorder sa vie à son désir — chanter le rock et le
+> rythm’n’blues en VO avec des guitares qui cisaillent, au pays de Guy Lux, de
+> la chanson rive gauche, de la variété et des quotas radiophoniques de chansons
+> en français. Pas plus facile que les 12 travaux d’Hercule, mais Bob l’a fait
+> et va bientôt fêter ses 50 ans de carrière.
+>
+> Comme Johnny. Sauf que Little Bob est un genre d’anti-Johnny. Si Smet (que
+> j’aime bien par ailleurs) incarne les compromissions du rock avec le showbiz
+> variète gaulois, Roberto Piazza a toujours tenu bon sur ses choix, ses
+> principes, sa musique. L’un est devenu riche et célèbre, l’autre pas, mais le
+> plus loser des deux n’est pas forcément celui qu’on pense. _Rockin class hero_
+> n’a pas encore de canal de sortie officiel, alors messieurs dames les
+> distributeurs, programmateurs télé et directeurs de festivals, à vous !
+
 [1]: https://en.wikipedia.org/wiki/High_Time_(MC5_album)
+[2]:
+  https://web.archive.org/web/20160312202459/http://blogs.lesinrocks.com/kaganski/2015/07/18/belles-familles-une-comedie-old-school-et-cest-rafraichissant/
