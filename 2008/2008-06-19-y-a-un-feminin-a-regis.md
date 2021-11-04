@@ -15,8 +15,13 @@ comments:
       ni bourré, alors.\r\n\r\nJulio, devant son demi, son PC, devant sa
       solitude de répondeur à des posts vieux de 3 ans."
 cover: with-stupid.jpg
+category: Le monde va mal
 ---
 
-Aujourd'hui, j'ai encore entendu une conne s'égosiller d'un lamentablement
-plat : "de toute façon le foot, c'est juste regarder des gugusses qui courent
-après un ballon". Le monde va mal !
+Aujourd’hui, j’ai encore entendu quelqu’un s’égosiller d'un lamentablement
+plat :
+
+> De toute façon le foot, c'est juste regarder des gugusses qui courent après un
+> ballon.
+
+Le monde va mal !

@@ -6,6 +6,7 @@ authors:
 wordpress_id: 998
 cover: le-parti-opportuniste.png
 date: 2012-02-23 23:15:00 +0100
+category: Fun Friday
 ---
 
 En attendant les premiers épisodes de _La Visite du Louvre_, [promis il y a déjà
