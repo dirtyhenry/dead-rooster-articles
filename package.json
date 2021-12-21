@@ -1,5 +1,6 @@
 {
   "devDependencies": {
+    "markdownlint-cli": "0.30.0",
     "prettier": "2.5.1",
     "textlint": "12.1.0",
     "textlint-filter-rule-comments": "1.2.2",
