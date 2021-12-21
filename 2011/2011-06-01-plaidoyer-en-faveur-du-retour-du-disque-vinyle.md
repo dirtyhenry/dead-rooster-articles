@@ -28,7 +28,7 @@ de plus en plus courte. On les écoute une fois, on les aime mais on ne les
 écoutera peut-être plus jamais car il y en a tant d'autres à découvrir. En
 outre, à quoi bon payer pour de la musique alors qu'il existe tant de
 possibilités d'écouter de la musique gratuitement, tout le temps, partout où une
-prise éthernet, une borne wi-fi ou un réseau 3G sont dans les parages…
+prise éthernet, une borne Wi-Fi ou un réseau 3G sont dans les parages…
 c'est-à-dire presque partout.
 
 Combien de MP3, perdus sur des disques durs de plusieurs giga, n'ont jamais été

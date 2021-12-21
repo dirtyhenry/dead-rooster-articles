@@ -170,7 +170,7 @@ tout le temps la même chose, mais différemment. _Dig Out Your Soul_ est ainsi
 hautement recommandable puisque, même si aucune chanson n'imprègne
 irrémédiablement le cerveau de l'auditeur, chaque écoute est plus qu'agréable et
 loin d'être si monotone que le laissent entendre les détracteurs du groupe, pour
-qui les frères Gallagher ne sont que des Beatles des temps modernes (ok pour
+qui les frères Gallagher ne sont que des Beatles des temps modernes (OK pour
 _I'm Outta Time_, mais pour _Ain't Got Nothin_ ou _Falling Down_ je vois pas).
 
 Ainsi se termine ce top, totalement bancal, totalement incomplet (quid de la

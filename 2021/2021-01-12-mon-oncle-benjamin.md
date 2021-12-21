@@ -129,7 +129,7 @@ Jacques Brel qui par ailleurs disait :
 
 Au final, ainsi contextualisé, on peut s'abandonner à apprécier le film, qui
 nous parle d'avant, et une des dernières scènes — je n'ai pas pu trouver
-quiconque la commentant sur Internet dans mes maigres recherches — nous conforte
+quiconque la commentant sur internet dans mes maigres recherches — nous conforte
 dans cette idée. Lors du dernier dîner de Minxit, celui-ci convie tous ses bons
 copains et copines, et son œil s'attarde sur celui, particulièrement humide de
 Parlenta (Paul Préboist), zoom à l'appui. Impossible de ne pas penser que ce

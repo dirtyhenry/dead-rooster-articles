@@ -54,7 +54,7 @@ passer par ça pour tomber sur [la pub Banga][banga], alors ça valait le coup.
 Aujourd'hui, on est en 2017.
 
 Les hologrammes, je trouve ça un peu ringard. Gulli a remplacé Dorothée. Enfin
-je crois, je ne regarde plus la télé, je regarde Internet. Chuck Berry est mort,
+je crois, je ne regarde plus la télé, je regarde internet. Chuck Berry est mort,
 Tapie est sûrement au tribunal. Y'a des guerres, des dictatures et des attentats
 au camion piégé. 2017, ça pue encore pas mal du cul.
 

@@ -23,7 +23,7 @@ tags:
   - Guiguite le hamster
 ---
 
-Malgré Internet, la popularité du brevet de secourisme et la place accordée à la
+Malgré internet, la popularité du brevet de secourisme et la place accordée à la
 santé de nos jours, rien n'est fait pour transmettre au public les exemples des
 gestes qui sauvent. Ainsi il est impossible de retrouver la vidéo de [_Les
 Marches de la gloire_][1] où Guiguite le hamster était sauvé grâce à un
