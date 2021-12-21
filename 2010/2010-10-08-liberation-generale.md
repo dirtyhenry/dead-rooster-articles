@@ -39,7 +39,7 @@ Fun mais un peu flippant, voici
 
 ## 4. La laideur est libérée
 
-Les Craypion d'Or ont été créés pour élire les sites les plus moches d'Internet.
+Les Craypion d'Or ont été créés pour élire les sites les plus moches d'internet.
 Voici
 q[uelques échantillons des nommés](http://lescraypiondor.com/les-categories/).
 Ca va être dur de choisir…

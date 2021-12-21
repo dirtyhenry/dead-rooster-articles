@@ -22,7 +22,7 @@ souvienne de ceux qui le valaient bien ?
 
 En fait, ça ne devrait pas tarder ! Regardez, au bout de 12 ans, vous êtes
 toujours capables de citer les joueurs qui ont failli être champions du monde ?
-Ibrahim Ba ? Ouais, ok. Sabri Lamouchi ? D'accord ! Bernard Diomède ? Raté, il
+Ibrahim Ba ? Ouais, OK. Sabri Lamouchi ? D'accord ! Bernard Diomède ? Raté, il
 était là !!! Et Pierre Laigle, hein ? Vous vous souvenez de Pierre Laigle ?
 
 Bon bref, disons qu'au bout de 10 ans, on peut quand même commencer à faire un

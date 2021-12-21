@@ -4,7 +4,7 @@
 
 Articles of [deadrooster.org][3].
 
-The code running the website is on [DeadRooster/deadrooster.org][4].
+The code running the site is on [DeadRooster/deadrooster.org][4].
 
 [1]:
   https://github.com/DeadRooster/articles/workflows/Lint%20Code%20Base/badge.svg

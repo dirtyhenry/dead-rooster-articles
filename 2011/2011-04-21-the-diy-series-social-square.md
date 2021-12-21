@@ -112,8 +112,8 @@ recommandée).
 > — Andrew Loog Oldham, 2007
 
 Après la rencontre avec Patrick, un acteur semble incontournable dans la vie du
-groupe, j'ai nommé Internet. Du mailing aux webzines et aux patrons de café, du
-financement des enregistrements au mastering à Seattle, Internet a semble-t-il
+groupe, j'ai nommé internet. Du mailing aux webzines et aux patrons de café, du
+financement des enregistrements au mastering à Seattle, internet a semble-t-il
 bouleversé la vie des groupes, qui devaient avoir une expérience complètement
 différente il y a quelques années à peine. Aujourd'hui, tout le monde peut faire
 un groupe et le faire vivre à moindre frais, sans producteur et en toute

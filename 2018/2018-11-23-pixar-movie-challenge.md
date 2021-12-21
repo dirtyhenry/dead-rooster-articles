@@ -110,7 +110,7 @@ Mais je suis désormais rassuré à plus d'un titre :
 - [non, je ne suis pas seul à pleurer comme une salope (sic) devant les
   Pixar][cry3] (article très recommandé car poilade garantie).
 
-Merci Internet !
+Merci internet !
 
 [dante]: http://disney.wikia.com/wiki/Dante
 [rt]: https://www.rottentomatoes.com/m/daddys_home_2/

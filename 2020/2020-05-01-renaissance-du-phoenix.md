@@ -33,9 +33,8 @@ prennent pas de gant pour annoncer le verdict à la famille. RIP Emmett.
 Ce site a eu plusieurs vies. Né sur [Blogspot][5] avec son jumeau du blog des
 Hooray Henrys, ils ont fusionné, trouvé leur nom définitif — un jour on vous
 racontera —, visité [WordPress][4] avant d'atterrir chez [SPIP][3] car on est
-Français madame, avant d'opter pour les joies du _static website_ avec une
-version [Jekyll][6] bâtarde qui habite `blog.deadrooster.org`. Un bordel sans
-nom !
+Français madame, avant d'opter pour les joies du _static site_ avec une version
+[Jekyll][6] bâtarde qui habite `blog.deadrooster.org`. Un bordel sans nom !
 
 On va simplifier ça. Du moins essayer. Alors on va déterrer les cadavres de nos
 posts du temps jadis et les remettre ici. Chacun à sa place. En [open-source][1]
