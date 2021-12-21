@@ -1,1 +1,16 @@
-../../.textlintrc
+{
+  "filters": {
+    "comments": true
+  },
+  "rules": {
+    "terminology": {
+      "defaultTerms": true,
+      "exclude": [
+        "YouTube",
+        "PNG",
+        "HTML",
+        "GIF"
+      ]
+    }
+  }
+}
