@@ -2,31 +2,25 @@
 layout: post
 title: I.P.U.T.A.S.P.E.L.L.O.N.Y.O.U.
 description:
-  La semaine dernière, [Yann Tiersen était à l'honneur ici-même](837). Le titre
-  {Palestine} était évoqué mais tout n'a pas été dit sur ce titre. Ceux qui
-  l'ont écouté le savent, son titre aurait dû être {P.A.L.E.S.T.I.N.E.} et ainsi
-  rejoindre… "La Grande Tradition des Titres Épelés".
-authors:
-  - Dirty Henry
+  Florilège de chansons qui s’épellent, de Yann Tiersen à Justice, en passant
+  par Blur, Pulp, Noah and the Whale et les Village People.
+author: Dirty Henry
 wordpress_id: 840
 cover: spelling-bee-banner.jpg
 date: 2011-05-10 11:00:13 +0200
-categories:
-  - Catégories
-  - Artistes
+category: Éditorial
 tags:
-  - Trucs marrants
   - Blur
+  - Justice
+  - Noah and the Whale
   - Pulp
   - Yann Tiersen
-  - Noah and the Whale
-  - Justice
 ---
 
 La semaine dernière, [Yann Tiersen était à l'honneur ici-même][i837]. Le titre
 _Palestine_ était évoqué mais tout n'a pas été dit sur ce titre. Ceux qui l'ont
 écouté le savent, son titre aurait dû être _P.A.L.E.S.T.I.N.E._ et ainsi
-rejoindre… "La Grande Tradition des Titres Épelés".
+rejoindre… **_La Grande Tradition des Titres Épelés_**.
 
 ## Le déclic : _Palestine_, de Yann Tiersen
 
@@ -72,11 +66,10 @@ les aider à se remettre en question…
 
 Les Français qui ressemblent à Daft Punk, qui sont peut-être le même groupe mais
 en fait non, avaient signé en 2007 ce tube incroyable : ~~_Dance_~~
-_D.A.N.C.E._. Pendant ce temps-là,
-[Gala est toujours remplacée par un sosie](http://www.facebook.com/group.php?gid=97891375246),
-[c'est Rick Astley qui chante les titres de Kylie Minogue](http://www.youtube.com/watch?v=AVDogmtajKI),
-et
-[c'est toujours le vainqueur d'un concours de sosie qui se fait passer pour Paul McCartney](http://en.wikipedia.org/wiki/Paul_is_dead).
+_D.A.N.C.E._. Pendant ce temps-là, Gala est toujours remplacée par un sosie[^1],
+[c'est Rick Astley qui chante les titres de Kylie Minogue][2], et [c'est
+toujours le vainqueur d'un concours de sosie qui se fait passer pour Paul
+McCartney][3].
 
 {% youtube sy1dYFGkPUE %}
 
@@ -85,3 +78,12 @@ et
 [i852]: {% post_url 2011/2011-06-15-pulp-different-class %}
 
 [i540]: {% post_url 2009/2009-10-25-noah-et-la-baleine %}
+
+[^1]:
+    Plus aucun lien ne mentionne cette histoire. C'est louche. On essaierait de
+    nous faire taire ? 🚎
+
+[2]:
+  https://youtu.be/AVDogmtajKI
+  "I Should Be So Lucky by Kylie.. err... Rick Astley?"
+[3]: https://fr.wikipedia.org/wiki/Légende_sur_la_mort_de_Paul_McCartney
