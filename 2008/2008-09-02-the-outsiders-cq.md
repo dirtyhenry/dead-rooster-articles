@@ -1,15 +1,18 @@
 ---
 layout: post
-title: Au pays des seconds couteaux
-authors:
-  - Joe Gantdelaine
+id: A2AA65AF-8C05-4C7D-890E-5660723DAA1D
 wordpress_id: 216
-date: "2008-09-02 11:27:31 +0200"
+title: Au pays des seconds couteaux
+author: Joe Gantdelaine
+excerpt: >-
+  CQ, chef d’œuvre garage des néerlandais Outsiders, et deterré par les
+  compilations Pebbles, raconté en 2008.
+cover: the-outsiders.jpg
 category: Review
 tags:
   - Garage Rock
   - The Outsiders
-cover: the-outsiders.jpg
+date: "2008-09-02 11:27:31 +0200"
 ---
 
 Que peut-on encore attendre des Pays-Bas ? Y a-t-il encore quelque chose à
@@ -22,9 +25,8 @@ flatteuse pour qui se contente des poncifs modernes.
 Tout semble d'ailleurs jouer en défaveur du peuple batave. Nous ne reviendrons
 pas ici sur les faits et méfaits des Oranjes, qui depuis Johan Cruyff et Marco
 Van Basten, peinent à nous offrir des modèles footballistiques au delà de tout
-soupçon (une requête "Pays Bas Portugal" sur [Youtube][1] suffit à illustrer ces
-propos). Évoquons plutôt le versant musical de l'affaire. Cependant, pour ne pas
-retomber dans les travers de la caricature à l'extrême (parfaitement mise en
+soupçon[^1]. Évoquons plutôt le versant musical de l'affaire. Cependant, pour ne
+pas retomber dans les travers de la caricature à l'extrême (parfaitement mise en
 musique par notre Richard Gotainer national pour le film _Rendez-vous au tas de
 sable_, avec le titre [_Gouda Toumba_][2]), il semble préférable de remonter
 dans le temps de quelques décennies, à l'époque charnière des 60s finissants et
@@ -126,14 +128,17 @@ personne ne prenne le temps de réhabiliter nombre de héros oubliés.
 
 Quelques vidéos faites par des fans pour finir :
 
-- [_Misfit_](http://fr.youtube.com/watch?v=rgZpQPG6dvs)
-- [_Daddy died on Saturday_](http://fr.youtube.com/watch?v=2L0k-TAQ6Ak)
-- [_Prison Song_ dans une version live](http://fr.youtube.com/watch?v=x1xedf4ZMdk)
+- ~~_Misfit_~~
+- ~~_Daddy died on Saturday_~~
+- [_Prison Song_ dans une version live](https://fr.youtube.com/watch?v=x1xedf4ZMdk)
 
 Niveau du disque : **Maçon**
 
-[1]: https://fr.youtube.com/watch?v=5h-sqN1Gm5I
-[2]: http://www.deezer.com/track/874717
-[3]: http://www.deezer.com/track/100939
-[4]: http://en.wikipedia.org/wiki/Pebbles_series
-[5]: http://en.wikipedia.org/wiki/Image:Liveitup.jpg
+[^1]:
+    une requête "Pays Bas Portugal" sur [Youtube][1] suffit à illustrer ces
+    propos
+
+[2]: https://www.deezer.com/track/874717
+[3]: https://www.deezer.com/track/100939
+[4]: https://en.wikipedia.org/wiki/Pebbles_series
+[5]: https://en.wikipedia.org/wiki/Image:Liveitup.jpg
