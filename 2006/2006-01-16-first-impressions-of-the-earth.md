@@ -5,8 +5,8 @@ wordpress_id: 275
 title: The Strokes - First Impressions of Earth
 author: Dirty Henry
 excerpt: >-
-  Le 3ème album des Strokes est une grosse claque. Juicebox, Heart in a Cage et
-  Ize of the World sont à écouter en priorité.
+  First Impressions of Earth, le 3ème album des Strokes est une grosse claque.
+  Juicebox, Heart in a Cage et Ize of the World sont à écouter en priorité.
 category: Review
 tags:
   - The Strokes
@@ -25,7 +25,7 @@ Et bien figurez vous que ces diables ont sorti leur 3ème album le 2 janvier et
 que ce disque est complètement oufesque (c'est bien simple, certains refrains ou
 riffs sont tellement obsédants qu'ils m'empêchent de dormir depuis plusieurs
 jours, même si j'exagère un poil). Donc, chers amis, ruez-vous sur _First
-Impressions of Earth_ et particulièrement sur [la 2][1] [^1] (le single), [la
+Impressions of Earth_ et particulièrement sur [la 2][1][^1] (le single), [la
 3][2][^2] (le futur single), et [la 12][3][^3] (j'estime que ces informations
 sont bien plus utiles que les noms des chansons qui ne seraient pas retenus, je
 vous connais, c'est tout le temps la même chose).
@@ -37,7 +37,7 @@ vous connais, c'est tout le temps la même chose).
 {% youtube dZGajgIg9hM %}
 
 [^1]: _Juicebox_
-[^2]: _Hear in a Cage_
+[^2]: _Heart in a Cage_
 [^3]: _Ize of the World_
 
 [1]: https://song.link/fr/i/436351361 "Juicebox, The Strokes"
