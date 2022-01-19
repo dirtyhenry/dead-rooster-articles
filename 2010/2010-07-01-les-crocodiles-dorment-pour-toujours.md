@@ -25,4 +25,4 @@ Pour Neon Jesus, c'est ici :
 
 {% youtube rfsKEdsmU7Y %}
 
-[i588]: {% post_url 2010/2010-04-05-prison-la-la %}
+[i588]: {% post_url 2010/2010-04-05-selection-chanson-dum-dum-girls %}

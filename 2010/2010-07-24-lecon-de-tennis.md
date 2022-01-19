@@ -32,6 +32,6 @@ de la musique et aujourd'hui, on leur dit merci bien.
 
 {% vimeo 13658706 %}
 
-[i588]: {% post_url 2010/2010-04-05-prison-la-la %}
+[i588]: {% post_url 2010/2010-04-05-selection-chanson-dum-dum-girls %}
 
 [i657]: {% post_url 2010/2010-07-21-best-coast-when-i-m-with-you %}
