@@ -76,7 +76,7 @@ de hauteur quand il baisse le rythme». C'était finement observé.
 
 [i277]: {% post_url 2006/2006-01-21-yeti-inrocks-indie-club %}
 
-[i588]: {% post_url 2010/2010-04-05-prison-la-la %}
+[i588]: {% post_url 2010/2010-04-05-selection-chanson-dum-dum-girls %}
 
 [i750]: {% post_url 2011/2011-01-12-compile-2010 %}
 
