@@ -8,5 +8,8 @@
   },
   "scripts": {
     "lint:fix": "prettier --write ."
+  },
+  "resolutions": {
+    "markdown-it": "^12.3.2"
   }
 }
