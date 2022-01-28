@@ -8,11 +8,8 @@ author: Marcello Marcellito
 wordpress_id: 794
 cover: john-irving-derniere-nuit-a-twisted-river.jpg
 date: 2011-03-04 11:29:35 +0100
-categories:
-  - Catégories
-  - Artistes
+category: Le bouquin
 tags:
-  - Livre
   - John Irving
 ---
 
