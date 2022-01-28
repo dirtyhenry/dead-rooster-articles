@@ -3,17 +3,18 @@ layout: post
 title: "Faut-il Sauver Michel Sardou ?"
 authors:
   - Dirty Henry
+categories:
+  - Ciné-Club moi j'vous dis
+  - Le bouquin
 tags:
   - Arcade Fire
-  - laurent chalumeau
-  - livres
-  - michel sardou
+  - Laurent Chalumeau
+  - Michel Sardou
 cover: sardou-chalumeau.jpg
 description: >
   Quelles conclusions tirer de la lecture de Kif, de Laurent Chalumeau, sur
   notre relation à Michel Sardou ? Dead Rooster a mené l'enquête, bancale et
   musicale, comme d'habitude.
-lead-paragraph: true
 ---
 
 Alors oui, bon, il a écrit les paroles de [_Je Suis Pour_][1], co-signé celles
@@ -76,7 +77,7 @@ Et c'est quoi le rapport avec Michel Sardou ? Le rapport c'est qu'en 2009,
 > Quand on gratte un peu plus loin, on trouve quand même quelques casseroles
 > dans le passé du bonhomme : parolier pour Michel Sardou et G-Squad… Hum… Lire
 > un second livre pour préciser son jugement sur Lolo me semble donc à la fois
-> nécessaire et risqué. Nous vous tiendrons informé.
+> nécessaire et risqué. Nous vous tiendrons informés.
 
 Dont acte. Et aussi, je me suis davantage documenté. Et j'ai pas été déçu. Parce
 qu'en plus d'être un super romancier, Chalumeau n'est pas le dernier des sages.
@@ -151,8 +152,37 @@ d'albums :
 
 {% spotify 6vUhOXbujw5lL1tmmTA6CI dirtyhenry %}
 
-[1]: http://www.paroles.net/michel-sardou/paroles-je-suis-pour
-[2]: http://www.paroles.net/michel-sardou/paroles-le-temps-des-colonies
+## Addendum
+
+[En 2022][11], Laurent Chalumeau nous rappelle que dans un numéro de Schnock de
+2022, il disait sur Sardou :
+
+> Je pense que Depardieu s’est mangé moins de réflexions quand il est devenu
+> pote avec Poutine que moi quand il s’est su que je bossais avec Sardou. Pour
+> dire si j’étais et reste entouré de snobinards et de puritains ! (…) En ce qui
+> me concerne, j’ai toujours trouvé naze cette manie de le confondre avec les
+> personnages de ses chansons. Or, il faudrait savoir : quand c’est Springsteen
+> qui chique au métayer exproprié ou au serial killer, tout le monde percute et
+> lui colle du Steinbeck ou du Truman Capote. Mais que Sardou s’affuble
+> d’identités d’emprunts, et ça devient de l’appel au viol ou à la loi martiale.
+> Au hasard et entre autres, Pierre Perret a pu chanter qu’il était « le
+> plombier-biébiébiébié » (et avait donc « un beau métier ») sans qu’à ma
+> connaissance quiconque l’appelle pour déboucher des chiottes avec une grosse
+> ventouse. Donc, les lyrics au pied de la lettre, trouvez autre chose. (…)
+> Enfin, n’étant pas précisément Mister Congeniality moi même, le coté cabochard
+> bourru m’était plutôt sympatoche a priori. Gainsbourg parlait de la beauté des
+> laids. Les connaisseurs savent la bonté des grognons. Après, je rassure : en
+> deux ans, au boulot comme en privé, je ne l’ai jamais confondu avec Arlette
+> Laguillier. Mais je ne l’ai jamais non plus entendu dire quoi que ce soit
+> d’infâme. Là où ça compte, il est irréprochablement halal. Et son bon sens
+> bougonné ou son individualisme Gonzo me changeaient des Bien Pensant FM et
+> Gauche Caviar TV qui sont le fond sonore de mon biotope habituel. En plus,
+> « de droite », c’est comme tout : ça dépend comment c’est fait. Maintenu dans
+> des limites, ce n’est pas un délit. Surtout que lui, c’est encore autre chose.
+> Ni droite, ni gauche. C’est « Michel, libre dans sa tête (de lard) », plutôt.
+
+[1]: https://www.paroles.net/michel-sardou/paroles-je-suis-pour
+[2]: https://www.paroles.net/michel-sardou/paroles-le-temps-des-colonies
 [3]: https://youtu.be/McF-ZsJi9Qo
 [4]: https://youtu.be/Ihlr1GZhBXw
 [5]: https://youtu.be/YL-tKWyrzuk
@@ -160,5 +190,6 @@ d'albums :
 [7]: http://georgesclooney.blogspot.fr
 [9]: https://youtu.be/4OWp0nT9P0Y
 [10]: https://youtu.be/Etu2yx_oEsg
+[11]: https://www.facebook.com/laurentchalumeaupro/posts/3009838602616382
 
 [i225]: {% post_url 2009/2009-05-03-laurent-chalumeau-un-mec-sympa %}

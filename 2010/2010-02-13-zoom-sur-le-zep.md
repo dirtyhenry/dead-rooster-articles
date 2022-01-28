@@ -9,11 +9,8 @@ author: Dirty Henry
 wordpress_id: 571
 cover: john-bonham-bonzo.jpg
 date: 2010-02-13 13:50:05 +0100
-categories:
-  - Catégories
-  - Artistes
+category: Le bouquin
 tags:
-  - Livre
   - Led Zeppelin
 ---
 
