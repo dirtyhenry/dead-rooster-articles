@@ -6,7 +6,7 @@ author: Dirty Henry
 excerpt: >-
   À l'occasion d'une réinterprétation acoustique de Sunday Bloody Sunday, il est
   évident que Bono n'arrivera jamais à faire qu'on le déteste complètement.
-category: Editorial
+category: Éditorial
 tags:
   - U2
   - Foo Fighters
