@@ -3,6 +3,8 @@ layout: post
 title: Le CDV en DVD les copains !
 authors:
   - Dirty Henry
+tags:
+  - U2
 wordpress_id: 266
 ---
 
