@@ -6,6 +6,9 @@ authors:
 wordpress_id: 457
 date: "2008-08-20 08:09:00 +0200"
 cover: magnetophone.jpg
+category: Le monde va mal
+tags:
+  - U2
 ---
 
 Alors que Bono écoutait tranquillement les nouveaux titres de U2 chez lui, un

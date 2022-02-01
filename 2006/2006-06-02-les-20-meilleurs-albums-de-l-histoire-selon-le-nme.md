@@ -10,6 +10,7 @@ categories:
 tags:
   - Oasis
   - The Strokes
+  - U2
 cover: oasis-gallagher-brothers.jpg
 ---
 
