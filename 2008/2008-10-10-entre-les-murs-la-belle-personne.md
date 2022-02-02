@@ -6,7 +6,6 @@ authors:
 wordpress_id: 218
 date: "2008-10-10 13:29:06 +0200"
 category: Ciné-Club moi j'vous dis
-cover: schtroumpfs.jpg
 ---
 
 Si on veut parler de l'adolescence et de l'école au cinéma, un auteur peut
