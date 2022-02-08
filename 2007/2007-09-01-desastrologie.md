@@ -10,4 +10,6 @@ cover: desastrologie.jpg
 
 Pour les amateurs de _La Sciences Des Rêves_, voici l'adresse du site de
 Baptiste Ibar, l'auteur des peintures du calendrier de Désastrologie du film :
-[www.baptisteibar.com](http://www.baptisteibar.com).
+[www.baptisteibar.net][1].
+
+[1]: https://www.baptisteibar.net/copy-of-ghost-tree

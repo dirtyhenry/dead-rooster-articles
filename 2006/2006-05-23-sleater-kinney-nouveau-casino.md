@@ -21,14 +21,6 @@ comments:
       scène. Pour finir, pour un groupe qui joue les premières parties de Pearl
       Jam et des White Stripes dans des salles de plusieurs milliers de places,
       elles ne se la jouent pas du tout.
-  - author: Dirty Henry
-    author_email: ""
-    date: "2006-05-24 10:02:28 +0200"
-    title: Sleater-Kinney yeah !
-    content:
-      "Mentionné dans le lien de Julia (voir plus bas), voici un site où trouver
-      des photos du concert :
-      http://www.photosconcerts.com/index.php?action_index=affichage_concert_groupe&action_index_menu_left=affichage_concert_groupe&concertid=834&alpha=P-S&photo_nom=2006-05-22-0047&stat=1"
 cover: sleater-kinney.jpg
 ---
 
@@ -49,9 +41,13 @@ se consacrer à l'écoute des disques du groupe (excellents [_Call the doctor_][
 et [_Dig me out_][3]) qu'aux déplacements dans des salles parisiennes un peu
 merdeuses.
 
+[Des photos du concert sont sur le site de Robert Gil.][4]
+
 P.-S. : purée, je dois être de mauvais poil, je trouve que ce post n'est
 vraiment pas très sympa.
 
 [1]: https://fr.wikipedia.org/wiki/Riot_grrrl
 [2]: https://album.link/fr/i/906073870
 [3]: https://album.link/fr/i/906136610
+[4]:
+  https://www.photosconcerts.com/sleater-kinney-paris-nouveau-casino-2006-05-22-834

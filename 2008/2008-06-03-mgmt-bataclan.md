@@ -62,5 +62,5 @@ Les lumières se rallument, retour brusque à la réalité pour toute l'audience
 Les tee-shirts sont trempés, les corps fatigués mais les mines réjouies. C'était
 un avant goût d'été un soir de mai, à Paris sous la pluie.
 
-[1]: http://www.youtube.com/watch?v=XqzoRQv2UIU
-[2]: http://www.myspace.com/florenceandthemachinemusic
+[1]: https://www.youtube.com/watch?v=XqzoRQv2UIU
+[2]: https://fr.wikipedia.org/wiki/Florence_and_the_Machine
