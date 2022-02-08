@@ -13,7 +13,7 @@ comments:
     title: Le France-Corée du Sud de Patrick Chêne
     content:
       "Article bien marrant sur la coupe du monde et la France :
-      [http://www.planetepsg.com/?page=news&id=4861](http://www.planetepsg.com/?page=news&id=4861)"
+      [https://www.planetepsg.com/?page=news&id=4861](https://www.planetepsg.com/?page=news&id=4861)"
 cover: patrick-chene.jpg
 ---
 

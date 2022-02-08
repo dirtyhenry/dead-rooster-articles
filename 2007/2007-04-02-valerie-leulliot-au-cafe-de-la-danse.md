@@ -47,10 +47,9 @@ fera pas la fine bouche et après ces derniers moments avec le groupe, tout le
 monde quittera la salle le sourire aux lèvres, malgré la pluie fine qui trempe
 le pavé de la place de la Bastille.
 
-[1]:
-  http://www.dailymotion.com/video/x2irpi_valerie-leulliot-l-eau-du-gange_music
-[2]: http://www.dailymotion.com/video/x8923a_falaise-sans-piles-session_music
-[3]: http://youtu.be/Gv4CX5XLdLU
+[1]: https://www.dailymotion.com/video/x2irpi
+[2]: https://www.dailymotion.com/video/x8923a
+[3]: https://youtu.be/Gv4CX5XLdLU
 [4]: https://fr.wikipedia.org/wiki/Nico_Bogue
 [5]: https://fr.wikipedia.org/wiki/Val%C3%A9rie_Leulliot
 
