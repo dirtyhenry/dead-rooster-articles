@@ -1,8 +1,8 @@
 ---
 layout: post
 id: DC5F7570-65E8-4534-9DC4-8C80A16A4DE3
-title: TO_REPLACE
-author: TO_REPLACE
+title: RIP Bob Saget
+author: Dirty Henry
 excerpt: >-
   Il y a un mois, Bob Saget est mort subitement. Je l'aimais bien. De La Fête à
   la Maison aux Aristocrates, Bob Saget avait plusieurs gammes à proposer.
