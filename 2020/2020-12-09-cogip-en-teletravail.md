@@ -3,6 +3,9 @@ layout: post
 title: La Cogip en télétravail
 author: Dirty Henry
 category: Fun Friday
+excerpt: >-
+  Le Message à Caractère Informatif revient à la radio nous présenter comment la
+  Cogip s'adapte au télétravail.
 tags:
   - Message à Caractère Informatif
   - Nicolas et Bruno

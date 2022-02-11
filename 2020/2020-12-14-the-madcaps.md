@@ -1,6 +1,9 @@
 ---
 layout: post
 title: The Madcaps
+excerpt: >-
+  Un groupe rennais perpétue le garage rock. On vous présente ce coup de cœur
+  qu'on espère vite voir en live.
 author: Dirty Henry
 category: Review
 tags:

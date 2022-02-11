@@ -1,7 +1,7 @@
 ---
 layout: post
 id: DC5F7570-65E8-4534-9DC4-8C80A16A4DE3
-title: RIP Bob Saget
+title: RIP Bob Saget, aka Danny Tanner
 author: Dirty Henry
 excerpt: >-
   Il y a un mois, Bob Saget est mort subitement. Je l'aimais bien. De La Fête à

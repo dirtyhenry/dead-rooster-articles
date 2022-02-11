@@ -3,6 +3,8 @@ layout: post
 title: Tom Hanks transforme La Fête à la maison en slam
 author: Dirty Henry
 category: Fun Friday
+excerpt: >-
+  Découverte tardive d’un sommet du rire pour enfants des 80’s.
 tags:
   - Jimmy Fallon
   - La Fête à la maison

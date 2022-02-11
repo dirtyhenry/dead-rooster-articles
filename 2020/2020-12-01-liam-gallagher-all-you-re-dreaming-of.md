@@ -3,6 +3,8 @@ layout: post
 title: Liam Gallagher - All You’re Dreaming Of
 author: Dirty Henry
 category: Chanson du jour
+excerpt: >-
+  Jolie ballade qu'on n'attendait plus pour le jeune Gallagher.
 tags:
   - Liam Gallagher
 ---
