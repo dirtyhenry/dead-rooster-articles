@@ -86,4 +86,4 @@ groupe a avalé le temps. Plusieurs rappels suivent, le public quitte les arène
 avec l'oeil qui pique. Rien d'étonnant à cela, on s'en est pris plein la vue.
 Être un Jean-Mi', ça se mérite. Voir un Jean-Mi', ça se savoure.
 
-Photo : © [Fanny M.](http://www.flickr.com/photos/fannym/)
+Photo : © [Fanny M.](https://www.flickr.com/photos/fannym/)

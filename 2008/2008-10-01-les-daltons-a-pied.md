@@ -10,4 +10,5 @@ cover: les-daltons.jpg
 
 On détourne les plus beaux fleurons du patrimoine de la chanson française pour
 inciter les jeunes à quoi ? Aimer ? Rire ? Voter ? Non,
-[faire du cheval](http://youtu.be/nnHzxgA_uck) ! Le monde va mal !
+[faire du cheval](https://www.youtube.com/watch?v=nnHzxgA_uck) ! Le monde va
+mal !

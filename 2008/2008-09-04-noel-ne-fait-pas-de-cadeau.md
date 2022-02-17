@@ -17,5 +17,4 @@ Noel Gallagher a diffusé son top 10 de tous les temps : The Beatles, The Rolli
 Stones, The Who, Sex Pistols, The Kinks, The La's, Pink Floyd, The Bee Gees, The
 Specials et (Peter Green's) Fleetwood Mac.
 
-Pas de <a href="http://myspace.com/hoorayhenrys">Hooray Henrys</a> ? Le monde va
-mal !
+Pas de Hooray Henrys ? Le monde va mal !

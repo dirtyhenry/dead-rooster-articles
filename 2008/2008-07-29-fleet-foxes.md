@@ -34,5 +34,3 @@ faire quelque chose. Clairement, le groupe de Seattle a appliqué cette méthode
 pour leur album d'entrée sur la scène indé. La grâce des mélodies de _White
 Winter Hymnal_ ou de _Ragged Wood_, les pépites les plus brillantes de cet album
 le font déjà sonner comme un classique, deux mois à peine après sa sortie.
-
-- [MySpace de Fleet Foxes](http://www.myspace.com/fleetfoxes)

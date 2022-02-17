@@ -33,19 +33,20 @@ Mais revenons sur les points essentiels qu'on retient de l'ouvrage :
 
 Pour finir voici une liste sélective du monde de Dylan, à goûter sur le net :
 
-- [Woody Guthrie - _This land is your land_](http://www.deezer.com/track/115477)
-- [Hank Williams - _Honky Tonk Blues_](http://www.deezer.com/track/2148549)
-- [Odetta - _Blowin in the wind_](http://www.deezer.com/track/2324278)
-- [Peter, Paul & Mary - _Blowin in the wind_](http://www.deezer.com/track/727525)
-- [The Band - _Up on Cripple Creek_](http://www.deezer.com/track/11155)
-- [Mimi & Richard Farina - _Dopico & Celebration for a Grey Day_](http://www.youtube.com/watch?v=XzUxARoG1tw)
-- [Joan Baez - _We Shall Overcome_](http://www.deezer.com/track/1726)
-- [Traveling Wilburys - _Dirty World_](http://www.deezer.com/track/828913)
-- [Robert Johnson - _Cross Road Blues_](http://www.deezer.com/track/587507)
-- [Pete Seeger - _Where Have All The Flowers Gone_](http://www.deezer.com/track/1026548)
-- [The Byrds - _Mr. Tambourine Man_](http://www.deezer.com/track/615096)
-- [Hugues Aufray - _L'Homme Orchestre_](http://www.deezer.com/track/1570814)
+- [Woody Guthrie - _This Land Is Your Land_](https://song.link/fr/i/261231261)
+- [Hank Williams - _Honky Tonk Blues_](https://song.link/fr/i/1436015970)
+- [Odetta - _Blowin’ In The Wind_](https://song.link/fr/i/295517360)
+- [Peter, Paul & Mary - _Blowin’ In The Wind_](https://song.link/fr/i/79029905)
+- [The Band - _Up On Cripple Creek_](https://song.link/fr/i/1440847004)
+- [Mimi & Richard Farina - _Dopico_](https://song.link/fr/i/712114582)
+- [Mimi & Richard Farina - _Celebration for a Grey Day_](https://song.link/fr/i/712114852)
+- [Joan Baez - _We Shall Overcome_](https://song.link/fr/i/712154777)
+- [Traveling Wilburys - _Dirty World_](https://song.link/fr/i/1453155366)
+- [Robert Johnson - _Cross Road Blues_](https://song.link/fr/i/546817835)
+- [Pete Seeger - _Where Have All The Flowers Gone_](https://song.link/fr/i/203793419)
+- [The Byrds - _Mr. Tambourine Man_](https://song.link/fr/i/153421332)
+- [Hugues Aufray - _L'Homme Orchestre_](https://song.link/fr/i/1452865158)
 
-[2]: http://fr.wikipedia.org/wiki/Traveling_Wilburys
+[2]: https://fr.wikipedia.org/wiki/Traveling_Wilburys
 
 [1]: {% post_url 2010/2010-02-13-zoom-sur-le-zep %}
