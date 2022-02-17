@@ -250,5 +250,6 @@ de l’existence à replier…), et à reprendre la route, direction… St Malo�
 
 ### Crédits
 
-Photo Grande Scène : © [Garden Nef Party](http://gardennefparty.over-blog.com/)
-Photo Heavy Trash : © [bazarfoto](http://www.flickr.com/photos/bazarfoto/)
+Photo Grande Scène :
+© [Garden Nef Party](https://web.archive.org/web/20080805001946/http://gardennefparty.over-blog.com/)
+Photo Heavy Trash : © [bazarfoto](https://www.flickr.com/photos/bazarfoto/)
