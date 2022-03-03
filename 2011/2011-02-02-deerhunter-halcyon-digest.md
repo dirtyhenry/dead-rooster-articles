@@ -10,7 +10,7 @@ authors:
 wordpress_id: 770
 cover: deerhunter-halcyon-digest.jpg
 date: 2011-02-02 22:46:44 +0100
-category: Album
+category: Review
 tags:
   - Blur
   - Deerhunter
@@ -55,12 +55,12 @@ Blur, personnellement, ça me va bien.
 Pendant que j'en suis à parler des groupes auxquels me fait penser Deerhunter,
 revenons sur _Revival_, qui me rappelle à chaque fois _Near Wild Heaven_ de
 R.E.M. La transition est idéale pour annoncer que le groupe vient des
-Etats-Unis, et plus précisément de la ville d'Atlanta, dans l'état de Géorgie…
+États-Unis, et plus précisément de la ville d'Atlanta, dans l'état de Géorgie…
 le même que R.E.M[^1]. Quant à la composition du groupe, il s'agit d'un quatuor
 ayant pour leader un certain Bradford Cox, que nos grands-parents qualifieraient
 de dégénéré de premier ordre.
 
-Cox est né à Athens et souffre du syndrome de Marfan qui dès l'âge de dix and
+Cox est né à Athens et souffre du syndrome de Marfan qui dès l'âge de dix ans
 lui donna une allure bizarre (ses propres mots en V.O. sont "looking awkward"),
 il se déclare gay mais sexuellement non actif ("non-sexual lifestyle") et dit
 composer sa musique selon la technique de courant de conscience (en gros, il

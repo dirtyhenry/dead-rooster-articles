@@ -10,7 +10,7 @@ authors:
 wordpress_id: 992
 cover: disques-decembre-2011.png
 date: 2012-02-05 15:31:15 +0100
-category: Album
+category: Review
 tags:
   - Fleet Foxes
   - Kurt Vile

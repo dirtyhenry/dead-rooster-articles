@@ -6,6 +6,7 @@ authors:
 wordpress_id: 504
 date: "2009-05-24 20:32:00 +0200"
 cover: orthographe-lequipe.jpg
+category: Le monde va mal
 ---
 
 Bon, OK, que Gourcuff veuille rester à Bordeaux est plutôt une bonne nouvelle…
