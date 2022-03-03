@@ -12,6 +12,7 @@ date: 2011-12-03 18:45:04 +0100
 category: Review
 tags:
   - British Sea Power
+  - Phil Spector
   - The Beach Boys
 ---
 

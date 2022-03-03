@@ -8,6 +8,6 @@ date: "2009-04-29 08:27:00 +0200"
 cover: vikash-dhorasoo.jpg
 ---
 
-Vikash Dorhasoo a dit vouloir prendre les rênes du HAC, son club formateur. Et
+Vikash Dhorasoo a dit vouloir prendre les rênes du HAC, son club formateur. Et
 Louvel, l'actuel président rétrograde et rétrogradé en L2, s'y oppose ! Le monde
 va mal !
