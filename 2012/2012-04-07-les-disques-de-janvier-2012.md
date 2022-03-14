@@ -13,6 +13,7 @@ categories:
   - Catégories
 tags:
   - Albums
+  - Nada Surf
 ---
 
 C'est déjà le week-end de Pâques et il est donc plus que temps de présenter les
