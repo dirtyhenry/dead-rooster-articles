@@ -10,6 +10,8 @@ cover: automne-2016-b.jpg
 description: >
   Parce que 2 faces valent mieux qu'une. Dead Rooster présente… Un Automne 2016,
   la face B.
+tags:
+  - Nada Surf
 ---
 
 ## Soyons précis

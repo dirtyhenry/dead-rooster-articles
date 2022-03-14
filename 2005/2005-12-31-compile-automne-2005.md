@@ -9,6 +9,7 @@ tags:
   - Babyshambles
   - Bloc Party
   - Liars
+  - Nada Surf
   - The Strokes
 ---
 

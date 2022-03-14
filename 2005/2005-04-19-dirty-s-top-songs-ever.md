@@ -5,6 +5,7 @@ wordpress_id: 232
 authors:
   - Dirty Henry
 tags:
+  - Nada Surf
   - Pulp
   - The Beach Boys
   - The Strokes

@@ -9,6 +9,7 @@ date: 2011-01-12 13:24:59 +0100
 category: Compile
 tags:
   - Compilation
+  - Nada Surf
   - The National
   - The Strokes
   - Bloc Party

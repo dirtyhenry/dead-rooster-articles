@@ -6,6 +6,8 @@ authors:
 wordpress_id: 195
 date: "2008-03-04 12:35:48 +0100"
 cover: matthew-caws.jpg
+tags:
+  - Nada Surf
 ---
 
 ## Nada Surf et moi, une longue histoire ❤️

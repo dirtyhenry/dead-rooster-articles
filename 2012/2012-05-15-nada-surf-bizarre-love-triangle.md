@@ -5,6 +5,9 @@ authors:
   - Dirty Henry
 wordpress_id: 1037
 date: "2012-05-15 09:55:46 +0200"
+category: Chanson du jour
+tags:
+  - Nada Surf
 ---
 
 {% youtube q-wmE8TXUo8 %}
