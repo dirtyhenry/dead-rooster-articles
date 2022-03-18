@@ -5,6 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 1124
 date: "2012-10-11 09:19:22 +0200"
+category: Chanson du jour
 ---
 
 {% vimeo 15877206 %}
