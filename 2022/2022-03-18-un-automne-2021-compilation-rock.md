@@ -19,7 +19,7 @@ tags:
 ---
 
 Comme tous les trimestres, une compile et la discussion qui a permis d'en
-accoucher. Nouveauté, quelques commentaires sur les groupes qui y figurent parce
+accoucher. Quelques commentaires sur les groupes qui y figurent suivent parce
 qu'on est de bons élèves et qu'on aimerait bien retourner voir des concerts.
 
 {% spotify 5s9iFFZYhF8ITLZnDbIp9k %}
@@ -45,35 +45,30 @@ qu'on est de bons élèves et qu'on aimerait bien retourner voir des concerts.
 
 ## Draft
 
-— Dirty : Je propose de commencer par Wet Legs. Parce que ça fait démarrer fort
+— Dirty : Je propose de commencer par Wet Leg. Parce que ça fait démarrer fort
 et l’unanimité. Porridge Radio en 2 ?  
-— Joe : Attends, j’ai le caca de 16h qui pousse au train ! Je reviens dans 3
-minutes ! tu mets pas ça dans l’article sur le site hein ? (pause de 3 minutes)
-Me revoilà !  
-— C’était bien le caca ?  
-— Pas mal ! Un peu mou sur la fin. Tu mets pas ça dans l’article hein !  
-— T’as différentes textures dans un même caca ?  
-— Tout à fait ! Étonnant ! Moi, je partirai sur Jacques Dutronc en 3. Parce que
-la playlist part trop vite et direct, on n’en peut plus là !  
+— Je partirais sur Jacques Dutronc en 3. Parce que la playlist part trop vite et
+direct, on n’en peut déjà plus là !  
 — J’enchaine sur La Femme pour pas avoir deux moments “français parlé” dans la
 compile. Ça ferait bizarre. Donc La Femme.  
-— Sache que je garde le générique du tour du monde en 80 jours pour la fin !  
+— Sache que je garde le générique du tour du monde en 80 jours pour la fin !  
 — Ouf, on est d’accord. La Femme et Mercury Rev s’enchainent bien. Je dis ça, je
 dis rien.  
-— Bravo, tu m’as convaincu ! À toi donc.  
-— Quelque chose de cinématographique ? Diamonds Are Forever ou Kyoko’s House ?  
-— J’ai testé Shirley, mais ça s’enchaine moyen. J’essaye Philip. Ça passe ! Nick
-Cave pour repartir sur les chapeaux de roues ?  
+— Bravo, tu m’as convaincu ! À toi donc.  
+— Quelque chose de cinématographique ? _Diamonds Are Forever_ ou *Kyoko’s
+House* ?  
+— J’ai testé Shirley, mais ça s’enchaine moyen. J’essaye Philip. Ça passe ! Nick
+Cave pour repartir sur les chapeaux de roues ?  
 — Ma foi.  
-— FYI : Hésite pas à tester Lora & the Stalkers après Nick…  
-— OK. Le prochain c’est moi qui choisis ! Adam Kesher après tu valides ?  
-— Faut que j’ailler chercher ma fille à la crèche, on peut finir à mon retour ?
+— FYI : Hésite pas à tester Lora & the Stalkers après Nick…  
+— OK. Le prochain c’est moi qui choisis ! Adam Kesher après tu valides ? Faut
+que j’ailler chercher ma fille à la crèche, on peut finir à mon retour ?
 N’hésite pas à avancer sans moi.  
-— J’ai fini la première draft d’façons ! On réécoute tranquilles pour valider
-l’ordre. Pis après, cap sur l’Hiver 2022 !  
+— J’ai fini la première draft d’façons ! On réécoute tranquilles pour valider
+l’ordre. Pis après, cap sur l’Hiver 2022 !  
 — J'ai un doute sur le placement de Philip Glass. Voire de sa présence dans la
 compile. À part ça on est pas mal.  
-— (un jour passe) Tu veux retirer Philip Glass ? Moi, j’l’aime bien pourtant…  
+— (un jour passe) Tu veux retirer Philip Glass ? Moi, j’l’aime bien pourtant…  
 — Ouais, non, ça va mieux. On peut le garder.
 
 ## Commentaires
@@ -82,7 +77,7 @@ compile. À part ça on est pas mal.
 
 Originaire de l’île de Wight, la même que [chantait jadis Michel Delpech][1],
 **Wet Leg** c’est Rhian Teasdale et Hester Chambers, et c’est l’évidence rock
-de 2021. Pourquoi ?
+de 2021. Pourquoi ?
 
 - Quand les tops des meilleurs singles ont poussé sous les sapins en décembre
   dernier, tout le monde avait _Chaise Longue_ dans son top single.
@@ -135,8 +130,8 @@ Seydoux et Wes Anderson pour un film publicitaire pour Prada][5], co-réalisé
 avec Roman Coppola. Et le titre du grand Jacques y fait plus que mouche.
 
 Mercury Rev, alors là, c'est marrant. Joe et moi avons tous les 2
-pré-sélectionné ce titre. Pourquoi ? L'air du temps ? La magie des algorithmes
-qui influencerait le contenu des quizs de bar de quartier ? C'est chelou, mais
+pré-sélectionné ce titre. Pourquoi ? L'air du temps ? La magie des algorithmes
+qui influencerait le contenu des quizs de bar de quartier ? C'est chelou, mais
 c'est beau.
 
 Nick Cave et moi, on s'est beaucoup ratés. Mais petit à petit l'étau nous
