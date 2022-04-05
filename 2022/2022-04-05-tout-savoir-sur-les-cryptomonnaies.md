@@ -18,10 +18,10 @@ tags:
 Nous allons parler des cryptomonnaies. Pour bien commencer et saisir le
 potentiel du truc, on va regarder [cette vidéo très drôle de Larry David][1], le
 co-créateur de [_Seinfeld_][2] et créateur de [_Curb Your Enthusiasm_][3], qui
-explique que c'est la prochaine grosse invention de l'humanité. Rien que ça,
-après la roue, la fourchette, les toilettes, le café, la démocratie,
-l'électricité, le lave-vaisselle, la conquête spatiale et le walkman. Bien sûr,
-c'est une pub, mais vous voilà malgré tout convaincu que le sujet est important.
+explique que c'est la prochaine grosse invention de l'humanité après la roue, la
+fourchette, les toilettes, le café, la démocratie, l'électricité, le
+lave-vaisselle, la conquête spatiale et le walkman. Rien que ça. Bien sûr, c'est
+une pub, mais vous voilà malgré tout convaincu que le sujet est important.
 
 ## Qu'est-ce que qu'une cryptomonnaie ?
 
@@ -66,10 +66,10 @@ synonymes de justice et stabilité dans un futur idyllique.
 Y'en a d'autres qui disent que ça fait déjà belle lurette que ça tourne, que [si
 les promesses que les cryptomonnaies pouvaient être tenues, ça commencerait à se
 savoir][7] mais que là, ça commence quand même à sentir la pyramide de
-Ponzi[^1], et que [les gens qui continuent de clamer qu'on ne sait pas encore
-comment ces monnaies vont se développer espèrent en fait attirer encore les
-pigeons qui leur permettront de retirer le grisbi avant que le crash
-n'arrive][8].
+Ponzi[^1], et que les gens qui continuent de clamer qu'on ne sait pas encore
+comment ces monnaies vont se développer espèrent en fait encore [attirer les
+pigeons qui leur permettront de retirer le grisbi][8] avant que le crash
+n'arrive.
 
 Y'en a même qui disent que si, si, si c'est chouette mais qu'il faut garder en
 tête que [ça va être un sacré merdier côté risques][9] : que les bulles et les
@@ -97,7 +97,7 @@ des gens.
 
 Et aussi que vu que c'est décentralisé, on ne sait pas toujours où le minage a
 lieu et donc on ne sait pas si la source d'énergie qui alimente le minage est
-décarboné ou pas.
+décarbonée ou pas.
 
 Oui mais vu qu'une électricité produite et non consommée est perdue, le minage
 peut capturer ce surplus d'énergie qui irait à la poubelle de toute façon, et
@@ -121,7 +121,7 @@ que quasiment impossible à redistribuer ou recycler quand elles sont remplacée
 Donc c'est sans doute une catastrophe mais qui pourrait s'arranger même si on ne
 sait pas bien dans quelles proportions.
 
-## F\*ck le climat et FOMO, je veux devenir riche : est-il trop tard pour investir dans les cryptomonnaies ?
+## FOMO et F\*ck le climat, je veux devenir riche : est-il trop tard pour investir dans les cryptomonnaies ?
 
 Va savoir. Peut-être bien que oui. Peut-être bien que non. Bien malin qui
 pourrait le dire.
@@ -132,23 +132,23 @@ Je crois qu'on a bien avancé pendant cette petite session. J'ai répondu
 clairement à toutes les questions que vous vous posiez sur les cryptomonnaies.
 Vous maîtrisez désormais quel est leur impact, actuel et à venir.
 
-Je vous propose un petit quiz pour vérifier que vous aviez bien retenu les
-points importants relevés par cette article.
+Je vous propose un petit quiz pour vérifier que vous avez bien retenu les points
+importants relevés par cet article.
 
 [**Vérifier mes connaissances sur les cryptomonnaies**][15]
 
 ---
 
-\_Ceci est un mock-post bien différent du reste de ce site. Il reprend quelques
+_Ceci est un mock-post bien différent du reste de ce site. Il reprend quelques
 contenus au sujet des cryptomonnaies qui m'ont informé, amusé, ou intrigué. Il
 est bien dur de se faire une opinion sur ce que vont devenir les cryptomonnaies
 dans les années à venir et s'il est opportun de s'y intéresser tant elles sont à
-la fois omniprésentes, moquées et mal connues.
+la fois omniprésentes, moquées et mal connues._
 
-Deux nouveaux recommandations : [l'épisode que John Oliver a consacré au
+_Deux nouveaux recommandations : [l'épisode que John Oliver a consacré au
 sujet][16], et cette vidéo de la matinale de France Inter, un peu chaotique
-certes, où [Thomas Piketty et Dominique Seux tentes eux aussi d'expliquer ce que
-sont les cryptomonnaies][17].\_
+certes, où [Thomas Piketty et Dominique Seux tentent eux aussi d'expliquer ce
+que sont les cryptomonnaies][17]._
 
 [^1]:
     Pour illustrer ce qu'est une pyramide de Ponzi, il faut regarder l'excellent
@@ -162,8 +162,8 @@ sont les cryptomonnaies][17].\_
     lequel Rage Against The Machine reprend _Maggie's Farm_, de Bob Dylan.
 
 [^2]:
-    En V.O.: <blockquote>Imagine if keeping your car idling 24/7 produced solved
-    Sudokus you could trade for heroin</blockquote>.
+    En V.O.: <q>Imagine if keeping your car idling 24/7 produced solved Sudokus
+    you could trade for heroin</q>.
 
 [1]:
   https://www.youtube.com/watch?v=BH5-rSxilxo
