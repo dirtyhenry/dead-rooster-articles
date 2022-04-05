@@ -200,7 +200,7 @@ que sont les cryptomonnaies][17]._
 [13]: https://fr.wikipedia.org/wiki/Preuve_d%27enjeu
 [14]:
   https://www.techrepublic.com/article/mozilla-stops-accepting-cryptocurrency-wikipedia-may-be-next-are-dominos-falling/
-  "Jamie Zawinski, cofondateur de Mozilla, "
+  "Jamie Zawinski, cofondateur de Mozilla, a demandé à la fondation de cesser d'accepter des dons en cryptomonnaie."
 [15]: https://fr.surveymonkey.com/r/5V2DJKP
 [16]:
   https://www.youtube.com/watch?v=g6iDZspbRMg
