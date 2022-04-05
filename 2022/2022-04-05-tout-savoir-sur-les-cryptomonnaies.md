@@ -26,7 +26,7 @@ une pub, mais vous voilà malgré tout convaincu que le sujet est important.
 ## Qu'est-ce que qu'une cryptomonnaie ?
 
 Ha ha, question d'une simplicité enfantine. [Avalon Penrose y répond mieux que
-personne !][3] Voici une transcription de sa réponse en français :
+personne !][4] Voici une transcription de sa réponse en français :
 
 > J'ai écrit un tweet qui parlait de mon succès avec les cryptomonnaies et on
 > m'a demandé d'expliquer ce que c'est parce c'est pas facile à comprendre quand
@@ -64,7 +64,7 @@ citoyen sera le souverain de son propre argent et que les cryptomonnaies seront
 synonymes de justice et stabilité dans un futur idyllique.
 
 Y'en a d'autres qui disent que ça fait déjà belle lurette que ça tourne, que [si
-les promesses que les cryptomonnaies pouvaient être tenues, ça commencerait à se
+les promesses des cryptomonnaies pouvaient être tenues, ça commencerait à se
 savoir][7] mais que là, ça commence quand même à sentir la pyramide de
 Ponzi[^1], et que les gens qui continuent de clamer qu'on ne sait pas encore
 comment ces monnaies vont se développer espèrent en fait encore [attirer les
