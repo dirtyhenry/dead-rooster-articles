@@ -84,7 +84,7 @@ yeux.][4]
 [4]:
   http://www.dailymotion.com/video/x8v3sm_francis-cabrel-les-murs-de-poussier_music
 
-[1]: {% post_url 2010/2010-09-02-high-violet-haute-voltige %}
+[1]: {% post_url 2010/2010-09-02-the-national-high-violet %}
 
 [i747]: {% post_url 2011/2011-01-11-top-musique-2010 %}
 
