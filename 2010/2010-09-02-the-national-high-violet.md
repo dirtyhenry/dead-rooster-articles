@@ -99,4 +99,4 @@ même si globalement, l'édition fut de bonne qualité :
   - The National : brillant et intense (5)
   - The Flaming Lips : spectaculaire et original… mais bien peu de musique (2)
 
-[i581]: {% post_url 2010/2010-03-29-the-national-en-visuel %}
+[i581]: {% post_url 2010/2010-03-29-the-national-terrible-love %}
