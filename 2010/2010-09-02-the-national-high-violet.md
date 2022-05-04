@@ -11,14 +11,15 @@ wordpress_id: 696
 cover: the-national-high-violet.jpg
 date: 2010-09-02 16:21:16 +0200
 categories:
-  - Artistes
+  - Review
+  - Concert
 tags:
-  - Yann Tiersen
   - The National
+  - Yann Tiersen
 ---
 
-"The National est un groupe qui ne m'a jamais vraiment convaincu sur disque mais
-que je sais briller sur scène." [C'est ce que je pouvais dire][i581] jusqu'à la
+“The National est un groupe qui ne m'a jamais vraiment convaincu sur disque mais
+que je sais briller sur scène.” [C'est ce que je pouvais dire][i581] jusqu'à la
 sortie d'_High Violet_.
 
 Peu avant la sortie du disque, leur 5ème, en mai, les vidéos live de _Terrible
@@ -64,8 +65,6 @@ intégralement auto-produit. Tiens, tiens, on dirait que l'apprentissage en la
 matière est fini, et le groupe obtient les félicitation du jury à la remise des
 diplômes.
 
-{% youtube OI9Y8ZCfxmU %}
-
 Pour ne rien gâcher, le groupe n'a rien perdu de son talent scénique, comme on a
 pu s'en rendre compte lors de l'édition 2010 (plutôt humide) de la Route du
 Rock. Déjà présent en 2005 et 2007, le groupe y est revenu cet été pour un show
@@ -82,22 +81,22 @@ Quant au reste de la programmation de la Route du Rock, peu de bonnes surprises,
 même si globalement, l'édition fut de bonne qualité :
 
 - **Vendredi**
-- Dum Dum Girls : perd un peu de son charme (musical) sur scène (3)
-- Owen Pallett : intéressant 3 minutes puis pénible jusqu'à devenir chiant (1)
-- Yann Tiersen : première moitié assez moyenne puis le niveau augmente d'un coup
-  et le final est très convaincant (4)
-- The Black Angels : assez bonne surprise, confirme les bons disques du groupe
-  (3)
+  - Dum Dum Girls : perd un peu de son charme (musical) sur scène (3)
+  - Owen Pallett : intéressant 3 minutes puis pénible jusqu'à devenir chiant (1)
+  - Yann Tiersen : première moitié assez moyenne puis le niveau augmente d'un
+    coup et le final est très convaincant (4)
+  - The Black Angels : assez bonne surprise, confirme les bons disques du groupe
+    (3)
 - **Samedi**
-- Massive Attack & Martina Topley Bird : pas du tout ma tasse de thé (1)
-- Foals et Two Door Cinema Club : rien de nouveau sous le soleil et un brin
-  répétitif, mais diablement efficaces pour remuer son popotin (4)
+  - Massive Attack & Martina Topley Bird : pas du tout ma tasse de thé (1)
+  - Foals et Two Door Cinema Club : rien de nouveau sous le soleil et un brin
+    répétitif, mais diablement efficaces pour remuer son popotin (4)
 - **Dimanche**
-- Thus:Owls : aucun souvenir (?)
-- Serena Maneesh : brouillon et ça se la raconte (1)
-- Archie Bronson Outfit : bien meilleur que la 1ère fois que je les avais vus
-  (3)
-- The National : brillant et intense (5)
-- The Flaming Lips : spectaculaire et original… mais bien peu de musique (2)
+  - Thus:Owls : aucun souvenir (?)
+  - Serena Maneesh : brouillon et ça se la raconte (1)
+  - Archie Bronson Outfit : bien meilleur que la 1ère fois que je les avais vus
+    (3)
+  - The National : brillant et intense (5)
+  - The Flaming Lips : spectaculaire et original… mais bien peu de musique (2)
 
 [i581]: {% post_url 2010/2010-03-29-the-national-en-visuel %}
