@@ -2,14 +2,13 @@
 layout: post
 title: The National en visuel
 description:
-  Prestation télé live de {Terrible Love} pour The National, attendant la sortie
-  de {High Violet} en mai.
+  Prestation télé live de *Terrible Love* pour The National, attendant la sortie
+  de *High Violet* en mai.
 authors:
   - Dirty Henry
 wordpress_id: 581
 date: "2010-03-29 15:00:16 +0200"
-categories:
-  - Artistes
+category: Chanson du jour
 tags:
   - The National
 ---
