@@ -13,6 +13,8 @@ tags:
   - Colin Higgins
   - Hal Ashby
   - Yusuf Islam/Cat Stevens
+revisions:
+  "2022-05-09": Ajout de The White Stripes - We're Going To Be Friends
 ---
 
 Harold est un jeune de la haute, pété de thunes mais totalement aliéné de la
@@ -73,6 +75,11 @@ jeu de la comparaison bien mieux que je ne saurais le faire, donc je vous
 recommande la lecture de [_Double Feature: The Graduate (1967) and Harold and
 Maude (1971)_][4].
 
+**Update** : [_We're Going to Be Friends_][6] est une autre chanson qui capture
+bien le déclic de la reconnaissance les jours de rentrée :
+
+{% youtube PKfD8d3XJok %}
+
 ## La suite ?
 
 - Le film fut adapté au théâtre où il fut un succès à maintes reprises,
@@ -93,5 +100,8 @@ Maude (1971)_][4].
   https://ccpopculture.com/2013/12/28/double-feature-the-graduate-1967-and-harold-and-maude-1971/
 [5]:
   https://www.theringer.com/movies/2021/1/25/22244344/cult-movies-ranking-top-50s
+[6]:
+  https://song.link/fr/i/1533513640
+  "The White Stripes - We're Going to Be Friends"
 
 [i1]: {% post_url 2011/2011-08-24-the-graduate-mike-nichols %}
