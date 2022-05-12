@@ -2,9 +2,9 @@
 layout: post
 title: Zoom sur le Zep
 description:
-  Après les Stones et [Bob Dylan](219) et en attendant [un probable ouvrage sur
-  Hendrix](http://www.tierslivre.net/spip/spip.php?article1373), François Bon
-  s'était penché sur Led Zeppelin en septembre 2008 dans {Rock'n Roll}.
+  Après les Stones et Bob Dylan et en attendant un probable ouvrage sur Hendrix,
+  François Bon s'était penché sur Led Zeppelin en septembre 2008 dans {Rock'n
+  Roll}.
 author: Dirty Henry
 wordpress_id: 571
 cover: john-bonham-bonzo.jpg
@@ -12,6 +12,7 @@ date: 2010-02-13 13:50:05 +0100
 category: Le bouquin
 tags:
   - Led Zeppelin
+  - François Bon
 ---
 
 **Led Zeppelin**, avec deux 'p' et un 'l', est un groupe de rock'n'roll, fondé
@@ -107,4 +108,4 @@ se marrer des anecdotes de Bonzo et cie.
 
 [i402]: {% post_url 2007/2007-09-03-led-zeppelin-s-back %}
 
-[i219]: {% post_url 2008/2008-10-27-zoom-sur-le-zim %}
+[i219]: {% post_url 2008/2008-10-27-bob-dylan-une-biographie-francois-bon %}
