@@ -9,6 +9,7 @@ category: Le monde va mal
 tags:
   - Bob Dylan
   - Johnny Hallyday
+  - François Bon
 cover: hugues-aufray.jpg
 ---
 

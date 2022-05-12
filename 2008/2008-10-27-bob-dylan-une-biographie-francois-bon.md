@@ -4,7 +4,15 @@ title: Zoom sur le Zim
 wordpress_id: 219
 authors:
   - Dirty Henry
+excerpt: >-
+  Bob Dylan, une biographie, de François Bon retrace le parcours du musicien, né
+  Robert Zimmerman, et regorge d'anecdotes sur ses relations avec ses musiciens
+  et d'autres groupes et artistes.
 cover: zoom-zim.jpg
+category: Le bouquin
+tags:
+  - François Bon
+  - Bob Dylan
 ---
 
 **François Bon** vient de publier [_Rock'n roll_, un portrait de Led
