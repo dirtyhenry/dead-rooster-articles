@@ -115,13 +115,13 @@ poulaillers pour très bientôt”][14].
 
 Sans oublier que l'empreinte carbone de la fabrication des machines dédiées au
 minage — qui ont une durée de vie très courte et qui sont tellement spécialisées
-que quasiment impossible à redistribuer ou recycler quand elles sont remplacées
-— se superpose à celle de leur consommation.
+qu'elles sont quasiment impossibles à redistribuer ou recycler quand elles sont
+remplacées — se superpose à celle de leur consommation.
 
 Donc c'est sans doute une catastrophe mais qui pourrait s'arranger même si on ne
 sait pas bien dans quelles proportions.
 
-## FOMO et F\*ck le climat, je veux devenir riche : est-il trop tard pour investir dans les cryptomonnaies ?
+## FOMO et f\*ck le climat, je veux devenir riche : est-il trop tard pour investir dans les cryptomonnaies ?
 
 Va savoir. Peut-être bien que oui. Peut-être bien que non. Bien malin qui
 pourrait le dire.
@@ -139,13 +139,13 @@ importants relevés par cet article.
 
 ---
 
-_Ceci est un mock-post bien différent du reste de ce site. Il reprend quelques
+_Ceci est un post bien différent du reste de ce site. Il reprend quelques
 contenus au sujet des cryptomonnaies qui m'ont informé, amusé, ou intrigué. Il
 est bien dur de se faire une opinion sur ce que vont devenir les cryptomonnaies
 dans les années à venir et s'il est opportun de s'y intéresser tant elles sont à
 la fois omniprésentes, moquées et mal connues._
 
-_Deux nouveaux recommandations : [l'épisode que John Oliver a consacré au
+_Deux nouvelles recommandations : [l'épisode que John Oliver a consacré au
 sujet][16], et cette vidéo de la matinale de France Inter, un peu chaotique
 certes, où [Thomas Piketty et Dominique Seux tentent eux aussi d'expliquer ce
 que sont les cryptomonnaies][17]._
