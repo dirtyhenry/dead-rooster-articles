@@ -137,6 +137,11 @@ importants relevés par cet article.
 
 [**Vérifier mes connaissances sur les cryptomonnaies**][15]
 
+## Addendum
+
+- Après Larry David, c'est [Steph Curry][19], très célèbre joueur NBA des Golden
+  State Warriors, qui fait [une pub très marrante pour FTX][18].
+
 ---
 
 _Ceci est un post bien différent du reste de ce site. Il reprend quelques
@@ -149,6 +154,8 @@ _Deux nouvelles recommandations : [l'épisode que John Oliver a consacré au
 sujet][16], et cette vidéo de la matinale de France Inter, un peu chaotique
 certes, où [Thomas Piketty et Dominique Seux tentent eux aussi d'expliquer ce
 que sont les cryptomonnaies][17]._
+
+---
 
 [^1]:
     Pour illustrer ce qu'est une pyramide de Ponzi, il faut regarder l'excellent
@@ -208,3 +215,7 @@ que sont les cryptomonnaies][17]._
 [17]:
   https://youtube.com/watch?v=w8HwFyhyvQw
   "Le Débat Eco : Cryptomonnaies comment ça marche, bulle spéculative ou vrai changement économique ?"
+[18]: https://youtu.be/gsy2N-XI04o "Pub FTX avec Steph Curry"
+[19]:
+  https://fr.wikipedia.org/wiki/Stephen_Curry
+  "Page Wikipedia de Steph Curry"
