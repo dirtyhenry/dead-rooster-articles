@@ -4,6 +4,7 @@ title: Neil Hannon nous explique comment gagner l'Eurovision
 wordpress_id: 391
 authors:
   - Joe Gantdelaine
+  - Neil Hannon
 ---
 
 {% asset neil-hannon-eurovision-sketch.png %}

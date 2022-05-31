@@ -10,12 +10,10 @@ authors:
 wordpress_id: 914
 cover: la-guerre-est-declaree.jpg
 date: 2011-09-22 16:01:59 +0200
-categories:
-  - Catégories
-  - Artistes
+category: Ciné-Club moi j'vous dis
 tags:
-  - Cinéma
   - Benjamin Biolay
+  - Peter von Poehl
 ---
 
 Juliette rencontre Roméo. Une histoire d'amour commence. Bientôt, un enfant va
