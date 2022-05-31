@@ -9,6 +9,7 @@ tags:
   - Arcade Fire
   - Bloc Party
   - The White Stripes
+  - Vincent Delerm
 ---
 
 {% spotify 3DIwE7aLIaURvceNnXCHL4 %}

@@ -2,10 +2,12 @@
 layout: post
 title: Keren Ann au Havre
 wordpress_id: 235
+category: Concert
 authors:
   - Dirty Henry
 tags:
-  - concert
+  - Keren Ann
+  - Peter Von Poehl
 ---
 
 {% asset keren-ann.jpg %}
