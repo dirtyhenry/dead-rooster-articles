@@ -29,7 +29,7 @@ Alors bien sûr, on va voir. Et effectivement, c'est beau. C’est très beau.
 Mais attention le son ne suffit pas, [il faut aussi regarder la vidéo][2]. Les
 images projetées en fond de scène font partie du truc.
 
-Regardez, puis lisez ce que raconte Chalumeau, que je cite in extenso ici, qui
+Regardez, puis lisez ce que raconte Chalumeau, que je cite _in extenso_ ici, qui
 est touchant et poilant à la fois, la marque des grands :
 
 > Vincent Delerm, je ne saurais pas être pour, mais je n’ai sûrement rien
@@ -52,7 +52,7 @@ est touchant et poilant à la fois, la marque des grands :
 > que ça, passée à l’IRM. La mélodie, rognée par ce que Boris Vian, lui même
 > vocalement challengé, appelait une voix d’auteur, tout reposait sur le texte,
 > de ce fait magnifié comme jamais. On le doit à Gilles Thibaut, trompettiste de
-> formation et sans doute d’un des plus colossaux paroliers de l’histoire de la
+> formation et sans doute l’un des plus colossaux paroliers de l’histoire de la
 > chanson française. Pas loin de cent titres, dont _Comme d’habitude_ (_My way_,
 > donc), _Ma gueule_ et, disions-nous, _Que je t’aime_, l’un des plus beaux
 > exemples d’art modeste qui soient[^3]. Ces vers, cent fois moqués pour les
@@ -65,15 +65,16 @@ est touchant et poilant à la fois, la marque des grands :
 
 ## Delerm agace Manœuvre
 
-Pour l’anecdote, je trouve particulièrement cocasse de voir qu’un auteur que
-j'apprécie tout particulièrement — Chalumeau donc — se retrouve à comprendre que
-les gens aiment Delerm quand moi-même, figurez-vous, fut publié dans _Rock&Folk_
-pour défendre le même Delerm.
+Pour l’anecdote, je trouve plutôt cocasse de voir qu’un auteur que j'apprécie
+tout particulièrement — Chalumeau donc — se retrouve à comprendre que les gens
+aiment Delerm quand moi-même, figurez-vous, fut publié dans _Rock&Folk_ — là
+même où Chalumeau fit ses armes dans les années 80 — pour défendre le même
+Delerm.
 
 C'était en juin 2004. Mon ami Joe Gantdelaine m'avait accueilli à la gare de
 Bordeaux d'un cinglant : "Dis-donc, t'as regardé le nouveau *Rock&Folk* ? Il est
-un peu fait pour toi !" Et voilà donc les Pixies en couv’, Graham Coxon disque
-du mois, et Bibi publié dans le courier des lecteurs.
+un peu fait pour toi dé !" Et voilà donc les Pixies en couv’, Graham Coxon
+disque du mois, et Bibi publié dans le courier des lecteurs.
 
 Voilà ledit courier. C'est mal écrit mais j'ai gagné un CD de Johnny Cash grâce
 à ça.
@@ -96,7 +97,7 @@ Voilà ledit courier. C'est mal écrit mais j'ai gagné un CD de Johnny Cash gr�
 > Musique remportées par Kyo l'ont réjoui. Mais-là, l'horreur a lieu, je lis une
 > intervention de Philippe dans le magazine Epok : "Vincent Delerm, c'est ce
 > qu'il y a de pire, c'est l'abomination ultime avec Sanseverino, Bénabar et
-> Biolay." Dans la bouche d'Eudeline, j'aurais ri aux éclats d'un avis aussi
+> Biolay[^4]." Dans la bouche d'Eudeline, j'aurais ri aux éclats d'un avis aussi
 > tranché, simpliste, prévisible et injuste. Dans celle de Manœuvre, c'est le
 > malaise. J'ai la même impression que si ma grand-mère venait à me jeter à la
 > gueule, alors que je lui demande de bien me passer le beurre, qu'elle n'aime
@@ -106,15 +107,15 @@ Voilà ledit courier. C'est mal écrit mais j'ai gagné un CD de Johnny Cash gr�
 > fasse du farz, par exemple. Déjà la critique de l'album de Cali (mauvaise
 > évidemment) dans un numéro passé de _Rock&Folk_ m'avait titillé : que
 > foutait-elle là ? On n'achète pas _Rock&Folk_ pour avoir une critique du
-> disque de Cali. On veut simplement savor si Philippe Vandel préfère les Stones
-> ou les Beatles. Philippe, tu as merdé. La prochaine fois qu'on te demande ton
-> avis sur le nouvel album de Biolay, reste dans ton domaine. Tu pourras
-> toujours répondre à la journaliste qui t'aura posé cette question que
+> disque de Cali. On veut simplement savoir si Philippe Vandel préfère les
+> Stones ou les Beatles. Philippe, tu as merdé. La prochaine fois qu'on te
+> demande ton avis sur le nouvel album de Biolay, reste dans ton domaine. Tu
+> pourras toujours répondre à la journaliste qui t'aura posé cette question que
 > finalement, les Byrds n'ont pas eu la carrière qu'ils méritaient. Et
-> l'équilibre perdurera jusqu'à ce qu'Eudeline s'avoue fan du vai punk de
+> l'équilibre perdurera jusqu'à ce qu'Eudeline s'avoue fan du vrai punk de
 > Plastic Bertrand.
 
-La réponse de Rock & Folk :
+La réponse de Rock&Folk :
 
 > Combattants oui, anciens d'accord, anciens combattants jamais ! Ça va ?
 
@@ -130,6 +131,10 @@ La réponse de Rock & Folk :
 [^3]:
     NDLR, Gilles Thibaut a aussi écrit pour Sardou. Arrivera-t-on à faire [un
     post qui parle de Chalumeau sans parler de Sardou][i1] ?
+
+[^4]:
+    NDLR, Biolay qui d'ailleurs apparaît brièvement dans le public de Cannes
+    dans la vidéo de Delerm 🤯.
 
 [i1]: {% post_url 2015/2015-05-09-laurent-chalumeau-kif %}
 
