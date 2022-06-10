@@ -28,7 +28,7 @@ capitale anglaise puis le monde entier tombe sous son charme. Pendant longtemps
 cependant, il aura besoin d'un alter ego sur scène, que ce soit Ziggy Starbucks
 au début ou The Little Thin White Duke Man lors de sa trilogie munichoise.
 
-A chaque nouvelle entité correspond un style musical, et Bowie passe du folk au
+À chaque nouvelle entité correspond un style musical, et Bowie passe du folk au
 punk, du glam au funk avec un talent toujours constant. Cela dit, à l'instar de
 Bob Dylan, ses plus grands succès ne seront jamais ses créations propres. Ainsi,
 lorsqu'il assiste au show MTV Unplugged de Nirvana, il tombe directement sous le
