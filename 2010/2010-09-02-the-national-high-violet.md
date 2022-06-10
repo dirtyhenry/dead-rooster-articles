@@ -1,12 +1,10 @@
 ---
 layout: post
 title: High Violet, haute voltige
-description:
-  '"The National est un groupe qui ne m''a jamais vraiment convaincu sur disque
-  mais que je sais briller sur scène." [C''est ce que je pouvais dire](581)
-  jusqu''à la sortie d''{High Violet}.'
-authors:
-  - Dirty Henry
+excerpt: >-
+  Avec High Violet, The National, déjà excellent sur scène, convainct
+  véritablement sur disque pour la première fois.
+author: Dirty Henry
 wordpress_id: 696
 cover: the-national-high-violet.jpg
 date: 2010-09-02 16:21:16 +0200
@@ -16,11 +14,11 @@ categories:
 tags:
   - The National
   - Yann Tiersen
+  - La Route du Rock
 ---
 
-“The National est un groupe qui ne m'a jamais vraiment convaincu sur disque mais
-que je sais briller sur scène.” [C'est ce que je pouvais dire][i581] jusqu'à la
-sortie d'_High Violet_.
+Je connaissais The National comme un excellent groupe de scène. Sur disque,
+j'étais moins convaincu. C'était avant la sortie d'_High Violet_.
 
 Peu avant la sortie du disque, leur 5ème, en mai, les vidéos live de _Terrible
 Love_ m'avaient emballé. C'est ce morceau qu'on retrouve en ouverture du disque.
@@ -98,5 +96,3 @@ même si globalement, l'édition fut de bonne qualité :
     (3)
   - The National : brillant et intense (5)
   - The Flaming Lips : spectaculaire et original… mais bien peu de musique (2)
-
-[i581]: {% post_url 2010/2010-03-29-the-national-terrible-love %}
