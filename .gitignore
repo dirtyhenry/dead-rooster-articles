@@ -8,3 +8,8 @@ node_modules
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+
+# VS Code
+.vscode/configurationCache.log
+.vscode/dryrun.log
+.vscode/targets.log
