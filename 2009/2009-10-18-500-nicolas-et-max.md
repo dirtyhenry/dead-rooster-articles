@@ -9,6 +9,7 @@ date: 2009-10-18 18:52:09 +0200
 category: Ciné-Club moi j'vous dis
 tags:
   - Adam Elliot
+  - Jacques Dutronc
   - Joseph Gordon-Levitt
   - Laurent Tirard
   - Marc Webb

@@ -5,6 +5,7 @@ author: Dirty Henry
 category: Compile
 tags:
   - Neutral Milk Hotel
+  - Nick Cave
   - The Fresh & Onlys
 cover: top-musique-2014.png
 cover_alt: Le podium, celui des champions

@@ -17,6 +17,7 @@ playlist:
   - artist: Guards
     title: Long Time
     asset: guards-long-time.png
+    link: https://song.link/fr/i/435980009
 
   - artist: Women
     title: Eyesore
@@ -31,11 +32,12 @@ playlist:
   - artist: Parenthetical Girls
     title: Young Throats
     asset: parenthetical-girls-young-throats.jpg
+    link: https://song.link/fr/i/598565307
 
   - artist: Magic Kids
     title: Superball
     asset: magic-kids-memphis.png
-    link: http://stereogum.com/458381/magic-kids-superball/mp3s/
+    link: https://stereogum.com/458381/magic-kids-superball/mp3s/
 
   - artist: Telenovelas
     title: One and Only
@@ -44,17 +46,17 @@ playlist:
   - artist: The Fresh & Onlys
     title: Waterfall
     asset: the-fresh-and-onlys-album-art.jpg
-    link: http://stereogum.com/514272/the-fresh-onlys-waterfall/mp3s/
+    link: https://stereogum.com/514272/the-fresh-onlys-waterfall/mp3s/
 
   - artist: Frankie Rose and the Outs
     title: Little Brown Haired Girls
     asset: frankie-rose-and-the-outs-little-brown-haired-girls.jpg
-    link: http://stereogum.com/491131/frankie-rose-the-outs-youre-no-good/mp3s/
+    link: https://stereogum.com/491131/frankie-rose-the-outs-youre-no-good/mp3s/
 
   - artist: The Felice Brothers
     title: All When We Were Young
     asset: felice-brothers.jpg
-    link: http://www.blogotheque.net/When-We-Were-Kings
+    # link: https://www.blogotheque.net/When-We-Were-Kings
 ---
 
 Au programme cette semaine, on en remet une couche avec la reprise de _I Wanna

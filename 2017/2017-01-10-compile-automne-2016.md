@@ -7,6 +7,8 @@ authors:
 category:
   - Éditorial
   - Compile
+tags:
+  - Nick Cave
 cover: automne-2016.jpg
 description: >
   Parce que les playlists c'est bien mais que les compiles c'est peut-être

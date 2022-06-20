@@ -9,7 +9,7 @@ tags:
   - Jeff Mangum
   - Neutral Milk Hotel
   - Trianon
-cover: neutral-milk-hotel-introduction.png
+cover: neutral-milk-hotel-introduction.webp
 cover_alt: Pochette de In The Aeroplane Over The Sea, meilleur album 90s ?
 description: >
   Le meilleur concert de 2014 pour certains, le meilleur album des 90s pour
