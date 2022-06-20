@@ -85,9 +85,9 @@ l'atmosphère du film. Très beau titre.
 
 Pour le générique de fin, Donzelli nous rappelle que
 [c'est l'heure du goûter](http://www.youtube.com/watch?v=ZQPu374PPq0). "Ne pas
-oublier d'aller réécouter [la version de Katerine](744").
+oublier d'aller réécouter [la version de Katerine][i744].
 
-{% vimeo x33sv7 %}
+{% youtube Gv3wVHiqP9g %}
 
 ## _Ton grain de beauté_ - Benjamin Biolay & Valérie Donzelli
 
@@ -101,3 +101,5 @@ globalement à écouter toute la B.O. dispo sur disque.
 [i235]: {% post_url 2005/2005-05-01-keren-ann-au-havre %}
 
 [i268]: {% post_url 2005/2005-12-17-gentille %}
+
+[i744]: {% post_url 2011/2011-01-04-epilogue-du-concours-katerine %}

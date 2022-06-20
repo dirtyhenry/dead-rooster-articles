@@ -7,6 +7,8 @@ authors:
 wordpress_id: 739
 cover: drapeau-union-europeenne.jpg
 date: 2010-12-17 15:12:26 +0100
+tags:
+  - Jacques Dutronc
 ---
 
 Jacques Dutronc est un des meilleurs artistes français et a interprété de

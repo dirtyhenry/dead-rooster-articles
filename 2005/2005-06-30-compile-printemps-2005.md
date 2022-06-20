@@ -8,6 +8,7 @@ category: Compile
 tags:
   - Arcade Fire
   - Bloc Party
+  - Jacques Dutronc
   - The White Stripes
   - Vincent Delerm
 ---
