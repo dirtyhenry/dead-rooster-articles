@@ -5,7 +5,7 @@ title: "Stranger Things : le bonheur des uns et Annie Lennox"
 author: Dirty Henry
 excerpt: >-
   Kate Bush a été choisie. Et si ?
-image: annie-lennox.webp
+cover: annie-lennox.webp
 category: Le monde va mal
 tags:
   - Kate Bush
