@@ -7,6 +7,7 @@ author: Dirty Henry
 tags:
   - Arcade Fire
   - Camille
+  - Kate Bush
 ---
 
 {% asset lenoir.jpg %}
