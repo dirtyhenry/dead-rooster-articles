@@ -13,6 +13,28 @@ tags:
   - Adam McKay
   - Avalon Penrose
   - Larry David
+form:
+  - title: Vérifiez vos connaissances sur les cryptomonnaies
+  - item1:
+    question: Qu'est-ce qu'une cryptomonnaie ?
+    options:
+      - Un truc dans la blockchain
+      - C'est comme du vrai argent mais pas réel
+      - C'est des Sudoku pour acheter de la drogue
+  - item2:
+    question: Est-ce que c'est une arnaque ou l'avenir ?
+    options:
+      - Je ne sais pas
+      - C'est dur à savoir
+      - Aucune idée
+  - item3:
+    question:
+      Est-ce que ça va contribuer à détruire l'environnement dans les 10 années
+      à venir ?
+    options:
+      - Assez probablement
+      - Bien probablement
+      - Très probablement
 ---
 
 Nous allons parler des cryptomonnaies. Pour bien commencer et saisir le
@@ -208,7 +230,7 @@ que sont les cryptomonnaies][17]._
 [14]:
   https://www.techrepublic.com/article/mozilla-stops-accepting-cryptocurrency-wikipedia-may-be-next-are-dominos-falling/
   "Jamie Zawinski, cofondateur de Mozilla, a demandé à la fondation de cesser d'accepter des dons en cryptomonnaie."
-[15]: https://fr.surveymonkey.com/r/5V2DJKP
+[15]: https://forms.gle/qfRvKxs1tcEZdT4b8
 [16]:
   https://www.youtube.com/watch?v=g6iDZspbRMg
   "Cryptocurrencies: Last Week Tonight with John Oliver (HBO)"
