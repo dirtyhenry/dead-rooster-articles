@@ -13,7 +13,7 @@ tags:
 
 **Kate Bush** connaît un succès inattendu en 2022, grâce à la saison 4 de
 [_Stranger Things_][1] qui a fait du titre [_Running Up That Hill_][2] ô bien
-davantage qu'une piste de soundtrack, la chanson est devenue un élément clé du
+davantage qu'une piste de soundtrack : la chanson est devenue un élément clé du
 scénario.
 
 Les [Duffer Brothers][3], créateurs de la série, avaient déjà un peu fait le
@@ -21,7 +21,7 @@ coup lors de la saison 3 avec [_Never Ending Story_][4], mais là c'est le
 pompon : un titre de 1985 se retrouve 37 ans plus tard numéro 1 des charts au
 Royaume-Uni et dans le top 10 aux États-Unis et [Kate Bush en est ravie][5].
 
-C'est super pour KAte, vraiment on est contents pour elle. D'un autre côté,
+C'est super pour Kate, vraiment on est contents pour elle. D'un autre côté,
 déjà, [c'est pas génial pour la nouveauté][6], on est d'accord. Mais il y a bien
 plus grave.
 
