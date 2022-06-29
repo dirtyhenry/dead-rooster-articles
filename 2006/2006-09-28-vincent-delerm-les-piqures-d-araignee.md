@@ -10,7 +10,7 @@ category: Review
 tags:
   - Jean Rochefort
   - Neil Hannon
-  - Peter Von Poehl
+  - Peter von Poehl
   - Vincent Delerm
 comments:
   - author: Dirty Henry
