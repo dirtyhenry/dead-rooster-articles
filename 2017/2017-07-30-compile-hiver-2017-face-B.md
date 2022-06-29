@@ -5,7 +5,7 @@ author: Dirty Henry
 category:
   - Éditorial
   - Compile
-cover: hiver-2017-b.png
+cover: hiver-2017-b.webp
 excerpt: >
   Parce que 2 faces valent mieux qu'une. Dead Rooster présente… Un Hiver 2017,
   la face B.
