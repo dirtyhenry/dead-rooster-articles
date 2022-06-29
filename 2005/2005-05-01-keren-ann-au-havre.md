@@ -7,7 +7,7 @@ authors:
   - Dirty Henry
 tags:
   - Keren Ann
-  - Peter Von Poehl
+  - Peter von Poehl
 ---
 
 {% asset keren-ann.jpg %}
