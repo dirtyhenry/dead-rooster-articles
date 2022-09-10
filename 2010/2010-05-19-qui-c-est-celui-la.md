@@ -2,8 +2,8 @@
 layout: post
 title: Qui c'est celui là ?
 description:
-  La reprise de la semaine de {{Katerine, Francis et ses peintres}} est {Qui
-  c'est celui là ?}, de Pierre Vassiliu.
+  La reprise de la semaine de Katerine, Francis et ses peintres est Qui c'est
+  celui là ?, de Pierre Vassiliu.
 authors:
   - Dirty Henry
 wordpress_id: 618
@@ -19,10 +19,10 @@ c'est celui là ?_, de Pierre Vassiliu.
 
 L'originale est ici :
 
-{% dailymotion xdi2a %}
+{% youtube ZpHkbNqY7zY %}
 
-Et s'il vous plaît, respect au grand Pierre :
-[c'est pas tout le monde qui ouvre pour les Beatles à l'Olympia](http://fr.wikipedia.org/wiki/Pierre_Vassiliu) !
+Et s’il vous plaît, respect au grand Pierre : [c'est pas tout le monde qui ouvre
+pour les Beatles à l'Olympia][1] !
 
 C'était le dernier titre pronostiqué par Hervé qu'il lui manquait. Il marque 4
 nouveaux points et fait le grand chelem. Félicitations à lui mais m'est avis,
@@ -32,3 +32,5 @@ une nouvelle fois, qu'Hervé doit être dans la sphère du projet de Katerine.
 - 2. Rodrigue et Joe, 5pts
 - 4. Marion, David et Loïc, 4pts
 - 7. Le reste du monde à 0 pt
+
+[1]: https://fr.wikipedia.org/wiki/Pierre_Vassiliu

@@ -5,8 +5,7 @@ authors:
   - Joe Gantdelaine
 wordpress_id: 386
 date: "2007-05-29 13:47:00 +0200"
-categories:
-  - Artistes
+category: Chanson du jour
 tags:
   - The Strokes
 comments:

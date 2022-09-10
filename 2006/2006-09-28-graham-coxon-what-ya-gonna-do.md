@@ -5,8 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 335
 date: "2006-09-28 15:54:00 +0200"
-categories:
-  - Artistes
+category: News
 tags:
   - Graham Coxon
 cover: graham-coxon-what-ya-gonna-do.jpg

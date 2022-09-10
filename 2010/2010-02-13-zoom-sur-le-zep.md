@@ -49,7 +49,7 @@ qui donne par ordre croissant d'intérêt :
   groupe, il est le garant de l'esprit du rock'n'roll au sein du groupe et, là,
   ça cause sérieux, et Bon adore !
 
-{% dailymotion x1unb2 %}
+{% youtube IOb8otk7Y0U %}
 
 Bonzo est un jeune batteur de la région de Birmingham. Ce qu'il aime, c'est
 taper sur des peaux et plus c'est fort, mieux c'est. Quand les baguettes ne lui

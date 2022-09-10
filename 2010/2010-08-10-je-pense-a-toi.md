@@ -2,8 +2,8 @@
 layout: post
 title: Je pense à toi
 description:
-  La reprise de {{Katerine, Francis et ses peintres}} de la semaine est {Je
-  pense à toi} d'Amadou & Mariam.
+  La reprise de Katerine, Francis et ses peintres de la semaine est Je pense à
+  toi d’Amadou & Mariam.
 authors:
   - Dirty Henry
 wordpress_id: 678
@@ -17,7 +17,7 @@ tags:
 La reprise de **Katerine, Francis et ses peintres** de la semaine est _Je pense
 à toi_ d'Amadou & Mariam.
 
-L'originale :
+L’originale :
 
 {% dailymotion x44z4w %}
 
