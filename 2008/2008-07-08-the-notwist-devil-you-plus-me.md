@@ -5,11 +5,8 @@ authors:
   - Joe Gantdelaine
 wordpress_id: 211
 date: "2008-07-08 11:48:08 +0200"
-categories:
-  - Catégories
-  - Artistes
+category: Review
 tags:
-  - Albums
   - The Notwist
 cover: the-notwist.jpg
 ---
@@ -40,8 +37,6 @@ Heureusement, alors que l'on risquait de s'endormir à 3 chansons de la fin, la
 fine équipe nous offre _Boneless_, la meilleure chanson du disque (d'ailleurs
 choisie comme second single). Et puis, pour clore le débat, le rythme redevient
 languissant, doux, laissant la place au calme et à la volupté.
-
-{% vimeo 7958945 %}
 
 Pour résumer, voici donc un effort de bonne facture, qui réjouira les amateurs
 du précédent opus sans pour autant pouvoir rivaliser avec _Neon Golden_, qui
