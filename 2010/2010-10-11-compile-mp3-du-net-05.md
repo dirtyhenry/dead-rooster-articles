@@ -13,6 +13,7 @@ date: 2010-10-11 15:54:04 +0200
 category: Compile MP3 du NET
 tags:
   - Bleeding Rainbow
+  - Sharon Van Etten
 playlist:
   - artist: Foxes In Fiction
     title: Bathurst

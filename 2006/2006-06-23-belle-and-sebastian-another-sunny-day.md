@@ -5,6 +5,8 @@ authors:
   - Dirty Henry
 wordpress_id: 1030
 date: "2006-06-23 12:00:00 +0200"
+tags:
+  - Belle and Sebastian
 ---
 
 {% youtube 8CPLNyopyOg %}

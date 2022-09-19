@@ -8,6 +8,7 @@ category:
   - Éditorial
   - Compile
 tags:
+  - Adam Green
   - Nick Cave
 cover: automne-2016.jpg
 description: >
