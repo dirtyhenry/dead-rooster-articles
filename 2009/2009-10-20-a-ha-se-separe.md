@@ -4,6 +4,7 @@ title: A-ha se sépare ?
 authors:
   - Dirty Henry
 wordpress_id: 539
+category: Le monde va mal
 date: "2009-10-20 13:23:51 +0200"
 comments:
   - author: Benji
@@ -22,7 +23,9 @@ cover: a-ha.jpg
 ---
 
 [A-ha annonce son split][1]. Merde, si ça se trouve, ça veut dire que
-[Bronski Beat](http://www.youtube.com/watch?v=9Xa79n1CdKY) existe toujours ! Le
+[Bronski Beat](https://www.youtube.com/watch?v=9Xa79n1CdKY) existe toujours ! Le
 monde va mal !
 
-[1]: http://www.aha-fr.com/news-suite.php?id_news=504
+[1]:
+  https://www.theguardian.com/music/2009/oct/16/a-ha-to-split
+  "A-ha to split after 25 years"

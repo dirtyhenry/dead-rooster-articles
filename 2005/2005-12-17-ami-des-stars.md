@@ -3,6 +3,7 @@ layout: post
 title: Ami des stars
 wordpress_id: 267
 cover: valerie-leulliot.jpg
+category: Éditorial
 ---
 
 Autour de Lucie est (était ?) un groupe formidable. Après l'avoir vu 3 fois en
