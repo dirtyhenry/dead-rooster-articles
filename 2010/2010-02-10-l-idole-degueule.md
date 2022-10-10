@@ -1,6 +1,6 @@
 ---
 layout: post
-title: L'idole dégueule
+title: L’idole dégueule
 author: Joe Gantdelaine
 wordpress_id: 570
 category: Le monde va mal
@@ -13,4 +13,6 @@ cover: toilettes-cassees.jpg
 Alors comme ça, [Johnny ne boirait pas que du "Legal-le goût"][1] ? Le monde va
 mal !
 
-[1]: https://youtu.be/au4ZhYP8Pxw
+{% youtube au4ZhYP8Pxw %}
+
+[1]: https://youtu.be/au4ZhYP8Pxw "Quand Johnny boit, le journaliste trinque"

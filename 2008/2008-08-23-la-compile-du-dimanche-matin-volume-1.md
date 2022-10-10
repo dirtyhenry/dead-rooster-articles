@@ -24,7 +24,7 @@ tags:
 1. The Notwist - _Consequence_
 1. Elliott Smith - _Between the Bars_
 1. Yo La Tengo - _Center of Gravity_
-1. Sigur Ros - _Svefn-g-englar_
+1. Sigur Rós - _Svefn-g-englar_
 1. Josh Rouse - _Love Vibration_
 1. Adam Green - _Friends of Mine_
 1. Herman Düne - _This Will Never Happen_
