@@ -46,7 +46,7 @@ tags:
 
 — Dirty : Cher maître, je te laisse choisir le premier morceau.  
 — Joe : On va partir avec The Bug Club. Ça y envoie bien dès le début :
-“one-two”, c’est parti !  
+“one-two”, c’est parti !  
 — Belle & Sebastian pour continuer d’envoyer et retenir le passant par le
 colbac.  
 — _Take This Waltz (In Your Face)_ - Leonard se la joue street-ball. Ça calme

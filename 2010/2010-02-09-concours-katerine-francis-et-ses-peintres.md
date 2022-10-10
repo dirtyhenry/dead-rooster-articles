@@ -28,10 +28,10 @@ Dont acte également ! Mais par contre **il est interdit de jouer une chanson
 déjà jouée par soi-même ou un autre concurrent** (cf. chansons jouées en bas de
 page)</span>
 
-Le site www.katerinefrancisetsespeintres.com (edit : le site n'existe plus ☹️)
-sera notre calendrier de l'avent 2010 : chaque lundi, on y découvre une nouvelle
-pépite de la chanson française, reprise par **Philippe Katerine** et le groupe
-**Francis et ses peintres**.
+Le site [katerinefrancisetsespeintres.com][wa1] (edit : le site n'existe plus
+☹️) sera notre calendrier de l'avent 2010 : chaque lundi, on y découvre une
+nouvelle pépite de la chanson française, reprise par **Philippe Katerine** et le
+groupe **Francis et ses peintres**.
 
 Les 6 premières semaines de l'année furent lourdes de bonnes surprises avec des
 reprises de _C'est lundi_, _Une chanson douce_, _La boîte de jazz_, _Belle Île
@@ -40,9 +40,9 @@ semaines ?
 
 Jouons ensemble en proposant 5 chansons. Si une des chansons pronostiquées est
 reprise par Katerine, on marque des points : 5 pts pour la chanson n°1, 4 pts
-pour la chanson n°2, etc… <strike>Les pronostics sont ouverts jusqu'à dimanche,
-où les pronostics seront publiés sur ce site !</strike> Le vainqueur du
-pronostic gagnera **une photo dédicacée de [Jean-Pierre Caca](rubrique 5)**.
+pour la chanson n°2, etc… ~~Les pronostics sont ouverts jusqu'à dimanche, où les
+pronostics seront publiés sur ce site !~~ Le vainqueur du pronostic gagnera
+**une photo dédicacée de [Jean-Pierre Caca][caca]**.
 
 Rendez-vous en 2011 pour le verdict !
 
@@ -254,3 +254,7 @@ le genre de la maison.
 - Voyage, voyage (Desireless) **x3**
 - Les Zazous (Andrex, puis Brigitte Fontaine et -M-)
 - Le Zizi (Pierre Perret)
+
+[wa1]:
+  https://web.archive.org/web/20100107235416/http://katerinefrancisetsespeintres.com/
+[caca]: https://jeanpierrecaca.deadrooster.org
