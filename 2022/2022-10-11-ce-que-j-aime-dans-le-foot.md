@@ -51,9 +51,9 @@ là, il faut jouer le ballon.
 
 ---
 
-_Je fête aujourd’hui le numéro 100 de la newsletter que j'ai créée pour suivre
-le foot tout en filtrant tout le bruit autour. Juste les images et les matches.
-Pour s'y inscrire, c'est sur [Statium][6]._
+_Je fête aujourd’hui [le numéro 100][7] de la newsletter que j'ai créée pour
+suivre le foot tout en filtrant tout le bruit autour. Juste les images et les
+matches. Pour s'y inscrire, c'est sur [Statium][6]._
 
 [^1]:
     Le premmier brouillon de ce post date de février 2022, où j'avais enchaîné
@@ -72,3 +72,4 @@ Pour s'y inscrire, c'est sur [Statium][6]._
   https://www.youtube.com/watch?v=ydvUz_Pq7Lc
   "Eriksen rejoue après qu'on eut craint le voir mourir sur un terrain"
 [6]: https://www.statium.app
+[7]: https://www.statium.app/newsletter/posts/newsletter-100
