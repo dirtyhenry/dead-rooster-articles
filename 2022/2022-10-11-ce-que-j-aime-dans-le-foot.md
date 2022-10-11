@@ -4,7 +4,8 @@ id: 1EDAC6F8-4B6B-4031-B7D7-17E099B8689A
 title: Ce que j’aime dans le foot
 author: Dirty Henry
 excerpt: >-
-  TO_REPLACE
+  Il y a bien sûr 1000 raisons de détester le foot. Il y en a tout autant de
+  l'aimer avec passion.
 category: Éditorial
 tags:
   - Foot
@@ -29,7 +30,7 @@ envoyer le ballon là-bas avec la bonne trajectoire.
 
 Il faut aussi y mettre du cœur. Et que tout le monde s'y mette. Un stade qui
 chante, qui réagit, qui vibre, c'est un spectacle total : il y a le son, l'image
-et tout le reste, immatériel. On va être ensemble pendant presque 2 heures, il
+et tout le reste, l’immatériel. On va être ensemble pendant presque 2 heures, il
 faut être d'accord qu'on est au bon endroit, au bon moment avec les bonnes
 personnes, c'est pas tous les jours. Et c'est pas une question de niveau.
 PSG-Real Madrid en Champions League, c’est pas Brest-Troyes en Ligue 1[^1], on y
@@ -38,9 +39,11 @@ Peaches_, c'est pas pareil non plus en terme d’ambition et de qualité
 intrinsèque, mais on sait à quoi s'attendre.
 
 Comme en cuisine, quand les ingrédients sont là, le foot, ça peut faire du
-vraiment beau. Pendant le match et parfois même après : [de fous moments de
-joie][3], [des déclarations d'amour au moment de se quitter][4], [des
-retrouvailles inespérées][5].
+vraiment beau. Pendant le match et parfois même après :
+
+- [de fous moments de joie][3],
+- [des déclarations d'amour au moment de se quitter][4],
+- [des retrouvailles inespérées][5].
 
 Alors oui, il y a aussi 1000 raisons de détester le foot. Mais tant qu'il est
 là, il faut jouer le ballon.
