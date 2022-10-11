@@ -34,9 +34,9 @@ et tout le reste, l’immatériel. On va être ensemble pendant presque 2 heures
 faut être d'accord qu'on est au bon endroit, au bon moment avec les bonnes
 personnes, c'est pas tous les jours. Et c'est pas une question de niveau.
 PSG-Real Madrid en Champions League, c’est pas Brest-Troyes en Ligue 1[^1], mais
-qu'importe du moment qu'on y aille à fond. _Citizen Kane_ et _Les Bronzés_,
-_Arcade Fire_ et _The Moldy Peaches_, c'est pas pareil non plus en terme
-d’ambition et de qualité intrinsèque, mais on sait à quoi s'attendre.
+qu'importe du moment qu'on y va à fond. _Citizen Kane_ et _Les Bronzés_, _Arcade
+Fire_ et _The Moldy Peaches_, c'est pas pareil non plus en terme d’ambition et
+de qualité intrinsèque, mais on sait à quoi s'attendre.
 
 Comme en cuisine, quand les ingrédients sont là, le foot, ça peut faire du
 vraiment beau. Pendant le match et parfois même après :
