@@ -17,7 +17,7 @@ tags:
 Trois semaines de reprises de **Katerine, Francis et ses peintres** à rattraper.
 Les 3 dernières furent donc…
 
-## 1. _A toutes les filles_ de Didier Barbelivien & Félix Gray
+## 1. _À toutes les filles_ de Didier Barbelivien & Félix Gray
 
 L'originale :
 
