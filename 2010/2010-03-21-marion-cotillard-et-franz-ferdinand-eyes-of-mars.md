@@ -5,6 +5,9 @@ authors:
   - Dirty Henry
 wordpress_id: 1256
 date: "2010-03-21 12:00:00 +0100"
+category: Chanson du jour
+tags:
+  - Marion Cotillard
 ---
 
 Pour une campagne de Dior, Franz Ferdinand et Marion Cotillard font équipe pour

@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "S.T.P. : A travers l'Amérique avec les Rolling Stones"
-description:
-  Mai 1972, les Rolling Stones arrivent sur le continent américain pour y
-  entamer une tournée qui les enverra de Vancouver à New York. Baptisée S.T.P.
-  (Stones Touring Party), elle se conclura par trois dates au mythique Madison
-  Square Garden. Ce sont ces deux mois intenses que {{Robert Greenfield}}
-  raconte dans {S.T.P. A travers l'Amerique avec les Rolling Stones}.
+title: "S.T.P. : À travers l'Amérique avec les Rolling Stones"
+excerpt: >-
+  Mai 1972, tournée US des Rolling Stones, de Vancouver à New York. La Stones
+  Touring Party se conclura par trois dates au mythique Madison Square Garden.
+  Deux mois intenses racontés par Robert Greenfield.
 authors:
   - Dirty Henry
 wordpress_id: 743
@@ -22,7 +20,7 @@ Mai 1972, les Rolling Stones arrivent sur le continent américain pour y entamer
 une tournée qui les enverra de Vancouver à New York. Baptisée S.T.P. (Stones
 Touring Party), elle se conclura par trois dates au mythique Madison Square
 Garden. Ce sont ces deux mois intenses que **Robert Greenfield** raconte dans
-[_S.T.P. A travers l'Amérique avec les Rolling Stones_][1].
+[_S.T.P. À travers l'Amérique avec les Rolling Stones_][1].
 
 Commençons par rappeler le contexte. En 1972, les Stones sont à leur apogée,
 tant en matière de création (_Sticky Fingers_ a 1 an, son petit frère _Exile On
