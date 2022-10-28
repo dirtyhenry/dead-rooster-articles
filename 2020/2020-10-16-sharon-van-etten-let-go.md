@@ -5,8 +5,6 @@ author: Dirty Henry
 category: Chanson du jour
 tags:
   - Sharon Van Etten
-  - Pepe the Frog
-  - Matt Furie
 ---
 
 {% youtube fwv_vW3n8z0 %}
