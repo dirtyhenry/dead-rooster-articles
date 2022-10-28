@@ -12,16 +12,16 @@ category: Ciné-Club moi j'vous dis
 
 ## Catégorie "Vieux Films à voir en DVD"
 
-### _The Wizard Of Oz_ - Victor Fleming (1939)
+### [_The Wizard Of Oz_][4] - Victor Fleming (1939)
 
-Il était grand temps pour moi de me pencher sur ce fameux magicien d'Oz. A force
-de références dans des films et séries, il est tout de même bon de jeter un oeil
-à l'original. A savoir tout d'abord que le film est une adaptation d'un roman,
-_The Wonderful Wizard Of Oz_, signé L. Frank Baum, et qu'en dépit de trois
+Il était grand temps pour moi de me pencher sur ce fameux magicien d'Oz. À force
+de références dans des films et séries, il est tout de même bon de jeter un œil
+à l'original. À savoir tout d'abord que le film est une adaptation d'un roman,
+[_The Wonderful Wizard Of Oz_][1], signé L. Frank Baum, et qu'en dépit de trois
 Oscars, le film fut un échec au box-office. Depuis, le film s'est bien rattrapé,
 puisqu'il est considéré comme le film le plus vu de l'histoire du cinéma.
 
-A noter que le film est porteur d'une légende urbaine bien morbide mais
+À noter que le film est porteur d'une légende urbaine bien morbide mais
 complètement erronée : on verrait un acteur se pendre en arrière plan d'une
 scène alors qu'il ne s'agit que d'un oiseau.
 
@@ -29,36 +29,35 @@ Les deux références les plus marquantes sont :
 
 - la "yellow brick road" : c'est la voie que doit suivre Dorothy, l'héroïne du
   film, pour mener à bien sa quête (il ne m'a fallu qu'une semaine pour en
-  tomber sur une, dans le livre _The Gun Seller_ de Hugh Laurie)
+  tomber sur une, dans le livre [_The Gun Seller_][2][^1] de Hugh Laurie)
 - le fait de taper 3 fois ses souliers de rubis en disant "There's no place like
   home" : si jamais vous vous paumez dans monde parallèle, c'est un bon truc
   pour pouvoir rentrer chez soi.
 
-Musicalement, le film a laissé aussi son héritage puisque le célèbre titre _Over
-The Rainbow_ a été écrit pour le film (l'écouter sur
-[YouTube](http://www.youtube.com/watch?v=QhzbzwPNgXA)). Le film a aussi d'autres
+Musicalement, le film a laissé aussi son héritage puisque le célèbre titre
+[_Over The Rainbow_][3] a été écrit pour le film. Le film a aussi d'autres
 musiques assez catchy dont celle-ci est ma préférée :
 
 {% youtube z6NsvJSGMVk %}
 
 Enfin, le vendeur de BD des Simpsons me fait remarquer qu'il paraît qu'une
 partie de _The Dark Side Of The Moon_, des Pink Floyd, se superpose parfaitement
-à la séquence d'ouverture du film. Les fans ont baptisé ça _Dark Site Of The
-Rainbow_ ([voir sur YouTube](http://www.youtube.com/embed/3ng74hxX61E)).
+à la séquence d'ouverture du film. Les fans ont baptisé ça [_Dark Side Of The
+Rainbow_][5].
 
 ### _Ghost World_ - Terry Zwigoff (2001)
 
 Enid et Rebecca sont deux copines qui ressemblent beaucoup à Daria et Jeanne, de
-_Daria_. Elles viennent de finir le lycée et prévoient d'emménager ensemble à la
-fin de l'été, sitôt qu'Enid aura validé son diplôme en suivant le cours d'été
-d'art.
+[_Daria_][6]. Elles viennent de finir le lycée et prévoient d'emménager ensemble
+à la fin de l'été, sitôt qu'Enid aura validé son diplôme en suivant le cours
+d'été d'art.
 
-{% youtube rq6AOc0ATnU %}
+{% youtube rq6AOc0ATnU %}t
 
 Le générique du film annonce la couleur : ce film est excellent. On y découvre
 qu'on aurait pu découvrir Scarlett Johansson avant _Lost In Translation_, on
 comprend enfin pourquoi Steve Buscemi est considéré comme un acteur génial, et
-on est déçu de ne plus avoir vraiment revu l'héroïne, Thora Birch, depuis. Ca
+on est déçu de ne plus avoir vraiment revu l'héroïne, Thora Birch, depuis. Ça
 ressemble à ce que les frères Coen pourraient faire de meilleur s'ils
 s'intéressaient au sujet du film : la sortie de l'adolescence. Notons qu'il
 s'agit d'une adaptation d'un comic américain du même nom, signé Daniel Clowes,
@@ -70,15 +69,12 @@ Musicalement, on y trouve le _What Do I Get_ des Buzzcocks :
 
 Et le non moins fabuleux titre de la déjà citée scène de générique, tiré d'un
 Bollywood movie, dont l'intro n'aurait pas fait rougir le récemment décédé John
-Barry et que
-l'[on pourra voir sur YouTube](http://www.youtube.com/watch?v=VB4q9rcfvvE) (ils
-sont vraiment débiles les utilisateurs de YouTube qui désactivent l'intégration
-des vidéos sur des sites web).
+Barry et que l'on pourra [voir sur YouTube][7].
 
 ### _Fantomas_ - André Hunebelle (1964)
 
 Croyez-le ou pas, je n'ai vu Fantomas pour la 1ère fois de ma vie qu'en 2011.
-Bien sûr, j'en connaissais des bouts de ci de là, mais jamais je n'avais vu le
+Bien sûr, j'en connaissais des bouts de-ci de-là, mais jamais je n'avais vu le
 film en intégralité, de A jusqu'à Z. L'histoire : un mystérieux criminel sème le
 trouble dans Paris. Le commissaire Juve et le journaliste Fandor (dont on
 connaît le nom grâce aux romans puisqu'il n'est pas cité dans le film)
@@ -87,25 +83,20 @@ scoop.
 
 Et bien, ma foi, ce film est une excellente comédie. J'ai été très agréablement
 surpris par le rythme, les cascades et poursuites pas si ridicules, et c'est
-surtout hyper marrant comme film. En plus - et j'ai découvert ne pas être le
-seul dans ce cas-là - je me suis fait surprendre par le scénario (attention,
+surtout hyper marrant comme film. En plus — et j'ai découvert ne pas être le
+seul dans ce cas-là — je me suis fait surprendre par le scénario (attention,
 spoiler à suivre) car j'étais persuadé que Fantomas et le journaliste n'étaient
 qu'une seule et même personne dans le film alors qu'ils sont simplement
 interprétés par un seul et même acteur. Nuance importante !
 
-~~Pour décider du caractère opportun de visionner le film, si vous ne riez pas à
-la séquence suivante, inutile de s'y attarder. Mais moi, j'aime beaucoup !~~
-EDIT : la vidéo a été supprimée de YouTube.
-
-Côté musique, le thème de Fantomas est très bon ! Pour l'anecdote, je me
+Côté musique, [le thème de Fantomas][8] est très bon ! Pour l'anecdote, je me
 souviens même qu'il a été utilisé sur scène par Dionysos, en intro de _Song For
 Jedi_. Il est signé Michel Magne.
 
 {% youtube Itmkhlwb5oU %}
 
 N.B. : le vendeur de BD des Simpsons s'intéressera aussi aux remixes de
-Fantomas, qu'on peut trouver
-[sur YouTube](http://www.youtube.com/watch?v=4AqOg_cF1IU) (le monde va mal !).
+Fantomas, qu'on peut trouver [sur YouTube][9] (le monde va mal !).
 
 ### Les autres films à voir en DVD
 
@@ -153,3 +144,24 @@ du terme), après on s'ennuie ferme et on tend des mouchoirs à ses voisines…
   commerce pharmaceutique doit un peu ressembler à ça, mais pour le reste, le
   film n'a pas beaucoup d'intérêt… En fait le seul intérêt, c'est comment dire…
   pour les gars de voir les… de… et pour les filles de voir les… de… mmm…
+
+[^1]: _Tout est sous contrôle_ en V.F.
+
+[1]:
+  https://www.babelio.com/livres/Baum-The-Wonderful-Wizard-of-Oz-Le-Magicien-dOz/1351154
+[2]: https://www.babelio.com/livres/Laurie-Tout-est-sous-controle/99667
+[3]: https://song.link/fr/i/724503473 "July Garland - Over the rainbow"
+[4]:
+  https://www.themoviedb.org/movie/630-the-wizard-of-oz
+  "Le Magicien d'Oz sur TMDB"
+[5]: https://www.youtube.com/watch?v=3ng74hxX61E "The Dark Side of the Rainbow"
+[6]: https://www.themoviedb.org/tv/2131-daria "Daria sur TMDB"
+[7]:
+  https://www.youtube.com/watch?v=VB4q9rcfvvE
+  "GhostWorld opening credits with Jaan Pehchaan from Gumnaam"
+[8]:
+  https://song.link/fr/i/1515555943
+  "Thème de Fantomas - Raymond Alessandrini"
+[9]:
+  https://www.youtube.com/watch?v=4AqOg_cF1IU
+  "fantomas louis de funes musique"

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Belle and Sebastian - "Crash"
+title: Belle and Sebastian - Crash
 authors:
   - Dirty Henry
 wordpress_id: 1015
@@ -9,13 +9,12 @@ category: Chanson du jour
 tags:
   - Belle and Sebastian
   - Reprise
-  - The Primitives
 ---
 
 {% youtube rSBVvFU55fg %}
 
 Clip TM voire TTM[^1] pour cette reprise du tube des Primitives joué par le
-groupe de Glasgow pour la série des Late Night Tales.
+groupe de Glasgow pour la série des [Late Night Tales][2].
 
 Sinon, n'oublions pas de regarder [_Dumb And Dumber_][1] tous les ans (dans [la
 version "petite vieille"-included][i576] bien sûr).
@@ -25,3 +24,4 @@ version "petite vieille"-included][i576] bien sûr).
 [i576]: {% post_url 2010/2010-03-08-petite-vieille %}
 
 [1]: https://youtu.be/Bf92Y4CQ3DA
+[2]: https://en.wikipedia.org/wiki/Late_Night_Tales:_Belle_and_Sebastian_Vol._II
