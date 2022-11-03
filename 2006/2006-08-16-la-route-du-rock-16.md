@@ -5,11 +5,9 @@ authors:
   - Dirty Henry
 wordpress_id: 330
 date: "2006-08-16 22:00:00 +0200"
-categories:
-  - Catégories
-  - Artistes
+category: Concert
 tags:
-  - Concert
+  - La Route du Rock
   - Katerine
   - Franz Ferdinand
 cover: franz-ferdinand.jpg
