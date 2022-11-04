@@ -5,7 +5,7 @@ title: "Black Country, New Road à la Route du Rock"
 author: Dirty Henry
 excerpt: >-
   Sur le papier, la défaite était assurée : du math rock par un groupe tâchant
-  de survivre au départ de son chanteur. Au bout la victoire, la glorieuse
+  de survivre au départ de son chanteur. Au bout : la victoire ! La glorieuse
   incertitude du rock.
 category: Concert
 tags:
@@ -19,16 +19,17 @@ Première claque de la journée : **Black Country, New Road**. Six jeunes Angla
 — trois gars, trois filles — se partagent le chant en jouant une pop
 tarabiscotée, changeant aussi vite de rythme que de grille d’accords. Du _math
 rock_ un rien _free jazz_ [dit The Guardian][12]. Dit comme ça, ça donne pas
-envie. On pourrait rajouter que leur charisme est à peu près inexistant. Et
-pourtant, c’est super.
+envie. On pourrait rajouter que leur charisme est à peu près inexistant.
+
+Et pourtant, c’est super.
 
 ## D’où viens-tu BC,NR
 
 Cet été, le groupe joue sa survie, économique et artistique. Après deux albums
 prometteurs, leur chanteur, Isaac Wood, a quitté le groupe en toute fin d’année
 dernière afin de préserver sa santé mentale. Pour certains des 6 orphelins,
-l’impression de déjà vu a dû être incontournable : BC,NR est né des cendres du
-groupe **Nervous Conditions** après le départ de son chanteur[^1].
+l’impression de déjà-vu a dû être incontournable : BC,NR est né des cendres du
+groupe **Nervous Conditions**… après le départ de son chanteur[^1].
 
 Encore une fois, ceux qui restent décident de poursuivre l’aventure, de mettre
 leur répertoire à la poubelle, et de repartir d’une feuille blanche, à la
@@ -48,18 +49,18 @@ sur le groupe :
 - Le nom du groupe aurait été choisi en cliquant sur « Article au hasard » de
   Wikipedia. Ils sont tombés sur [une route][4] ;
 - Le groupe, quoiqu’originaire de Cambridge, a fait ses armes dans un club de
-  Braxton, [The Windmill][5], accompagné de plusieurs autres groupes qu’il
-  faudra aller écouter : Black Midi, Jockstrap, etc. _The Young Guns of
-  Brixton_][6] ;
+  Brixton, [The Windmill][5], accompagné de plusieurs autres groupes qu’il
+  faudra aller écouter : Black Midi, Jockstrap, etc. [_The Young Guns of
+  Brixton_][6] en quelque sorte ;
 - La pochette de [_For the First Time_][1], leur premier album, a été conçue à
   partir d’[une photo d’Unsplash][11], un site de partage de photo avec une
-  license souple ;
+  license souple ;
 - Le deuxième album, [_Ants From Up There_][2], me semble meilleur à chaque
   écoute. Très recommandé. Ma punchline pour le décrire serait : Caleb Followill
-  reprend Neutral Milk Hotel avec Arcade Fire en backing band.
+  reprend Neutral Milk Hotel avec Arcade Fire en backing band ;
 - Le New York Times raconte [la reprise des répétitions et le premier concert du
   groupe][10] après le départ d’Isaac, sur fond d’inquiétude pour sa santé, et
-  de pression économique;
+  de pression économique ;
 - Le groupe a aussi donné [une interview à Sourdoreille][7] ;
 - La [set-list][8] et des [photos][9] sont disponibles.
 
