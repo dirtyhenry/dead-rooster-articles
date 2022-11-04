@@ -62,7 +62,7 @@ sur le groupe :
   groupe][10] après le départ d’Isaac, sur fond d’inquiétude pour sa santé, et
   de pression économique ;
 - Le groupe a aussi donné [une interview à Sourdoreille][7] ;
-- La [set-list][8] et des [photos][9] sont disponibles.
+- La [set-list][8] et des [photos][9] du concert sont disponibles.
 
 [^1]:
     Nervous Conditions avait splitté en 2018 après une sombre affaire
