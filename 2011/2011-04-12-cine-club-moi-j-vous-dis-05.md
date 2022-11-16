@@ -10,6 +10,8 @@ wordpress_id: 824
 cover: chez-gino.jpg
 date: 2011-04-12 12:25:15 +0200
 category: Ciné-Club moi j'vous dis
+tags:
+  - Robert Redford
 ---
 
 ## Catégorie "Vieux Films à voir en DVD"
