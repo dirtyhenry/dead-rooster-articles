@@ -5,10 +5,9 @@ authors:
   - Dirty Henry
 wordpress_id: 349
 date: "2007-01-22 12:24:00 +0100"
-categories:
-  - Catégories
+category: Ciné-Club moi j'vous dis
 tags:
-  - Cinéma
+  - Dustin Hoffman
 cover: stranger-than-fiction.jpg
 ---
 
