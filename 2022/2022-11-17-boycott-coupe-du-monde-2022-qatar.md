@@ -65,10 +65,12 @@ Après la compétition, chacun retournera dans son _echo chamber_ et on pourra
 veiller au grain du plus jamais ça. Aujourd'hui, et merci bien, le comité
 exécutif de la FIFA[^5] a été réformé et [le processus de désignation des pays
 hôtes][17] est un poil plus démocratique. En 2026, la Coupe du Monde aura lieu
-aux États-Unis, 2ème pays mondial en termes d'[émissions de CO₂ totales][15] et
-11ème [par habitant][16], qui pourrait alors avoir à sa tête un type comme
-Donald Trump ou Ron DeSantis. Au final, guetter la voie vers un avenir désirable
-se joue tous les jours, pas tous les 4 ans.
+aux États-Unis, pas exemplaire en termes d'[émissions de CO₂ totales et par
+habitant][16], qui pourrait alors avoir à sa tête un type comme Donald Trump ou
+Ron DeSantis. Au final, guetter la voie vers un avenir désirable se joue tous
+les jours, pas tous les 4 ans.
+
+[_Lire la version “yes boycott”_][i2]
 
 [^1]:
     Pour faire court et dans l’euphémisme : [la note climatique est un peu
@@ -92,9 +94,12 @@ se joue tous les jours, pas tous les 4 ans.
     C'est à dire une vingtaine de types dont un nombre suspect d'ex-membres sont
     [accusés de corruption][12], ou passent vraiment beaucoup de temps à [devoir
     s'en défendre][13], baignant dans [des coïncidences][14] qu'ils auraient
-    bien pu ou dû prendre soin d'éviter.
+    bien pu ou dû prendre soin d'éviter. The Guardian vous fait [une récap
+    exhaustive][18] en anglais.
 
 [i1]: {% post_url 2022/2022-10-11-ce-que-j-aime-dans-le-foot %}
+
+[i2]: {% post_url 2022/2022-11-30-boycott-coupe-du-monde-2022-qatar-v2 %}
 
 [1]:
   https://www.lemonde.fr/les-decodeurs/article/2022/10/29/qatar-2022-la-promesse-de-neutralite-carbone-de-la-coupe-du-monde-n-est-pas-credible_6147831_4355770.html
@@ -135,9 +140,10 @@ se joue tous les jours, pas tous les 4 ans.
   https://www.lemonde.fr/societe/article/2022/11/14/attribution-du-mondial-au-qatar-nicolas-sarkozy-michel-platini-et-le-rachat-du-psg-au-c-ur-de-l-enquete-de-la-justice-francaise_6149853_3224.html
 [14]:
   https://www.lequipe.fr/Football/Actualites/Michel-platini-nie-tout-arrangement-en-faveur-de-son-fils-laurent-dans-le-processus-d-attribution-du-mondial-2022-au-qatar/1208499
-[15]:
-  https://donnees.banquemondiale.org/indicator/EN.ATM.CO2E.KT?most_recent_value_desc=true
 [16]:
-  https://donnees.banquemondiale.org/indicator/EN.ATM.CO2E.PC?most_recent_value_desc=true
+  https://www.theshiftdataportal.org/climate/carbon-footprint?chart-type=line&chart-types=line&chart-types=ranking&emissions-unit=tCO2&group-names=United%20States%20of%20America&group-names=Qatar&group-names=France&is-range=true&gdpUnits=GDP%20(constant%202010%20US$)&dimension=perCapita&end=2017&start=1990&scopes=Carbon%20Footprint
+  "Comparaison de l'empreinte carbone de la France, des États-Unis et du Qatar sur The Shift Data Portal"
 [17]:
   https://fr.wikipedia.org/wiki/Désignation_du_pays_organisateur_de_la_Coupe_du_monde_de_football
+[18]:
+  https://www.theguardian.com/football/2022/oct/08/football-corruption-and-the-remarkable-road-to-qatar-world-cup
