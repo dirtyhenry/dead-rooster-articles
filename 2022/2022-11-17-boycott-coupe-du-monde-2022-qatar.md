@@ -70,6 +70,8 @@ habitant][16], qui pourrait alors avoir à sa tête un type comme Donald Trump o
 Ron DeSantis. Au final, guetter la voie vers un avenir désirable se joue tous
 les jours, pas tous les 4 ans.
 
+[_Lire la version “yes boycott”_][i2]
+
 [^1]:
     Pour faire court et dans l’euphémisme : [la note climatique est un peu
     salée][1], les conditions de travail et la gestion des accidents du travail
@@ -96,6 +98,8 @@ les jours, pas tous les 4 ans.
     exhaustive][18] en anglais.
 
 [i1]: {% post_url 2022/2022-10-11-ce-que-j-aime-dans-le-foot %}
+
+[i2]: {% post_url 2022/2022-11-30-boycott-coupe-du-monde-2022-qatar-v2 %}
 
 [1]:
   https://www.lemonde.fr/les-decodeurs/article/2022/10/29/qatar-2022-la-promesse-de-neutralite-carbone-de-la-coupe-du-monde-n-est-pas-credible_6147831_4355770.html
