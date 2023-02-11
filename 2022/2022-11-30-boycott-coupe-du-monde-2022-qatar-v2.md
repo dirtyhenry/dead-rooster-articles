@@ -1,6 +1,6 @@
 ---
 layout: post
-id: FC60B43F-41C7-4CC9-B693-11796FEBCDF7
+id: D6EE2715-318A-40C5-BD8C-6959FD7D495A
 title: Boycotter la Coupe du Monde 2022, vraiment
 author: Joe Gantdelaine
 excerpt: >-
@@ -63,7 +63,7 @@ coïncidence ?
 
 Bien sûr, l'argument-massue, c'est que c'est pour le bien des footballeurs :
 "t'imagine si ça s'était passé en été ?", "déjà que là, ils sont obligés de
-climatiser les stades"… [OK, super !][4] Mais, au nom de l'inclusion de tous les
+climatiser les stades"… [OK, super !][4] Mais, au nom de l'inclusion de tous les
 pays du Monde dans la grande fraternité du sport, est-on obligé d'être cons au
 point de ne pas se rendre compte que, peut-être, un Mondial ou des jeux d'Asie
 d'Hiver sur la péninsule arabique en 2029, c'est peut-être un peu pas trop
