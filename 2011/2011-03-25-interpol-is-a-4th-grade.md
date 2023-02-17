@@ -64,7 +64,7 @@ be played during the encore, and oh yeah, we got them and even another
 _Untitled_ for the road. The dramatically intense _Pioneer to The Falls_ wasn't
 played but we'll get over it.
 
-Banks et Kessler are smiling when it's about time to leave the stage : that's a
+Banks and Kessler are smiling when it's about time to leave the stage : that's a
 first time in my Interpol concerts experience. They're usually cold, in the way
 you want Interpol shows to be cold. Even better, they salute the audience
 cheerfully with a not-original but quite reassuring for a

@@ -8,7 +8,7 @@ cover: top-of-00s.png
 date: 2011-01-12 13:24:59 +0100
 category: Compile
 tags:
-  - Compilation
+  - Interpol
   - Nada Surf
   - The National
   - The Strokes
