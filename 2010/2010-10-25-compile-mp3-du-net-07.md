@@ -18,39 +18,39 @@ playlist:
   - artist: California Wives
     title: Blood Red Youth
     asset: california-wivess.png
-    link: http://www.rubinrecommends.com/2010/10/california-wives/
+    link: https://www.rubinrecommends.com/2010/10/california-wives/
   - artist: Guards
     title: Crystal Truth
     asset: guards.png
-    link: http://guards.bandcamp.com/
+    link: https://guards.bandcamp.com/
   - artist: Kid Trails
     title: Wait For
     asset: kidtrails.png
-    link: http://hellholeentrance.blogspot.com/2010/10/kid-trails.html
+    link: https://hellholeentrance.blogspot.com/2010/10/kid-trails.html
   - artist: The Vaselines
     title: Sex With An X
     asset: the-vaselines.png
-    link: http://pitchfork.com/news/39629-new-vaselines-sex-with-an-x/
+    link: https://pitchfork.com/news/39629-new-vaselines-sex-with-an-x/
   - artist: Mr. Dream
     title: Scarred For Life
     asset: mr-dream-learn-the-language.png
-    link: http://stereogum.com/540731/mr-dream-learn-the-language-stereogum-premiere/mp3s/
+    link: https://stereogum.com/540731/mr-dream-learn-the-language-stereogum-premiere/mp3s/
   - artist: Pixies
     title: La La Love You
     asset: pixies-la-la-love-you.png
-    link: http://pixiesmusic.com/interpol.html
+    link: https://pixiesmusic.com/interpol.html
   - artist: Weezer
     title: Getting Up And Leaving
     asset: weezer.png
-    link: http://stereogum.com/550731/weezer-blowin-my-stack-getting-up-and-leaving/mp3s/
+    link: https://stereogum.com/550731/weezer-blowin-my-stack-getting-up-and-leaving/mp3s/
   - artist: The Beach Boys
     title: Johnny B. Goode
     asset: beach-boys.png
-    link: http://captainsdead.com/the-beach-boys-and-the-dead-live-at-the-fillmore-east-4.27.71.html
+    link: https://captainsdead.com/the-beach-boys-and-the-dead-live-at-the-fillmore-east-4.27.71.html
   - artist: Robin Pecknold
     title: Blue Spotted Tail
     asset: robin-peckhold.png
-    link: http://www.weallwantsomeone.org/2010/08/18/listen-robin-pecknold-live-bootlegs/
+    link: https://www.weallwantsomeone.org/2010/08/18/listen-robin-pecknold-live-bootlegs/
 ---
 
 Une sélection des meilleurs MP3 légalement disponibles au téléchargement des
