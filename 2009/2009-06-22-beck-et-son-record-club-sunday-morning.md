@@ -5,6 +5,9 @@ authors:
   - Dirty Henry
 wordpress_id: 1178
 date: "2009-06-22 14:06:00 +0200"
+category: Chanson du jour
+tags:
+  - The Velvet Underground
 ---
 
 Le Record Club de Beck aura pour mission d’enregistrer régulièrement un album de

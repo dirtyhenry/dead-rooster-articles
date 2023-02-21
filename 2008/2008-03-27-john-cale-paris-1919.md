@@ -5,10 +5,9 @@ authors:
   - Dirty Henry
 wordpress_id: 200
 date: "2008-03-27 00:13:25 +0100"
-categories:
-  - Catégories
+category: Review
 tags:
-  - Albums
+  - The Velvet Underground
 cover: john-cale.jpg
 ---
 

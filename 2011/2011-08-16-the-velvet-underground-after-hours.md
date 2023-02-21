@@ -5,6 +5,9 @@ authors:
   - Dirty Henry
 wordpress_id: 880
 date: "2011-08-16 10:29:49 +0200"
+category: Chanson du jour
+tags:
+  - The Velvet Underground
 comments:
   - author: Joe Gantdelaine
     author_email: ""
@@ -15,4 +18,4 @@ comments:
       qu'on en parle !
 ---
 
-{% youtube tE8KBWgUZxw %}
+{% youtube fND_Y6OgsDs %}

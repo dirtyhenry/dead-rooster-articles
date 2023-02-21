@@ -9,6 +9,7 @@ tags:
   - Pulp
   - The Beach Boys
   - The Strokes
+  - The Velvet Underground
 ---
 
 With some friends of ours, we made up a very cool game: "pick the songs that
