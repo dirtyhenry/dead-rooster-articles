@@ -15,4 +15,4 @@ pouvait s'y attendre, _Volume 3_ par le single _Never Wanted Your Love_.
 _Volume 3_ sort le 13 mai en Europe.
 
 (via
-[Pitchfork](http://pitchfork.com/news/49830-new-she-him-never-wanted-your-love/))
+[Pitchfork](https://pitchfork.com/news/49830-new-she-him-never-wanted-your-love/))

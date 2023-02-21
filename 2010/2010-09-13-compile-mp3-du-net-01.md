@@ -19,12 +19,12 @@ playlist:
   - artist: Corin Tucker
     title: Doubt
     asset: corin-tucker-band-doubt.jpg
-    link: http://pitchfork.com/news/39605-new-corin-tucker-riley/
+    link: https://pitchfork.com/news/39605-new-corin-tucker-riley/
 
   - artist: Black Mountain
     title: The Hair Song
     asset: black-mountain-the-hair-song.jpg
-    link: http://pitchfork.com/news/39607-black-mountain-tour-with-black-angels/
+    link: https://pitchfork.com/news/39607-black-mountain-tour-with-black-angels/
 
   - artist: Family Trees
     title: Dream Talkin
@@ -43,7 +43,7 @@ playlist:
   - artist: The Extra Lens
     title: Only Existing Footage
     asset: the-extra-lens-only-existing-footage.jpg
-    link: http://pitchfork.com/news/39663-john-darnielles-mountain-goats-and-extra-lens-sign-to-merge-records/
+    link: https://pitchfork.com/news/39663-john-darnielles-mountain-goats-and-extra-lens-sign-to-merge-records/
 
   - artist: Levek
     title: Second Second

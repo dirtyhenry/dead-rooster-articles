@@ -20,7 +20,7 @@ tags:
 
 De quoi [se remettre les oreilles dans les disques de feu-Sleater-Kinney][i1],
 mais aussi sur les collaborations déjà publiées de Corin
-[avec Blue Giant, qui est bien mais pas top.](http://pitchfork.com/news/39041-hear-blue-giants-corin-tucker-collab/).
+[avec Blue Giant, qui est bien mais pas top.](https://pitchfork.com/news/39041-hear-blue-giants-corin-tucker-collab/).
 
 {% youtube FbmZi_VS4ZM %}
 

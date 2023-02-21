@@ -13,6 +13,6 @@ passé à côté. Dont acte.
 {% youtube KtdWGGpvY1s %}
 
 (via
-[Stereogum](http://www.stereogum.com/1357681/stereogums-top-25-music-videos-of-2013-so-far/video/))
+[Stereogum](https://www.stereogum.com/1357681/stereogums-top-25-music-videos-of-2013-so-far/video/))
 
 [i1230]: {% post_url 2013/2013-05-13-foxygen-no-destruction %}

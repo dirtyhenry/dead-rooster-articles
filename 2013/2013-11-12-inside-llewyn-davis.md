@@ -78,10 +78,10 @@ les couleurs… et un magicien pour transformer une fille en chat) ?
 {% asset llewyn-dylan.png %}
 
 [1]: https://www.themoviedb.org/movie/86829-inside-llewyn-davis
-[3]: http://en.wikipedia.org/wiki/Jake_Johnson
+[3]: https://en.wikipedia.org/wiki/Jake_Johnson
 [4]: https://www.google.fr/search?q=oscar+isaac+looks+like+jake+johnson
-[5]: http://en.wikipedia.org/wiki/Mumford_%26_Sons
-[6]: http://en.wikipedia.org/wiki/The_Big_Lebowski
+[5]: https://en.wikipedia.org/wiki/Mumford_%26_Sons
+[6]: https://en.wikipedia.org/wiki/The_Big_Lebowski
 
 [i219]: {% post_url 2008/2008-10-27-bob-dylan-une-biographie-francois-bon %}
 

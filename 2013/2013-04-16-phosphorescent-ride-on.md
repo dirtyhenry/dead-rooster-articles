@@ -14,4 +14,4 @@ The Knife par exemple.
 {% youtube 5NrM5IIyRm0 %}
 
 via
-[Pitchfork](http://pitchfork.com/reviews/albums/17522-phosphorescent-muchacho/)
+[Pitchfork](https://pitchfork.com/reviews/albums/17522-phosphorescent-muchacho/)

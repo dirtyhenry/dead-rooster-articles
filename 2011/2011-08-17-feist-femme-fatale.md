@@ -13,4 +13,4 @@ tags:
 {% soundcloud 21181100 %}
 
 (via
-[Pitchfork](http://pitchfork.com/news/43554-listen-feist-covers-the-velvet-underground/))
+[Pitchfork](https://pitchfork.com/news/43554-listen-feist-covers-the-velvet-underground/))

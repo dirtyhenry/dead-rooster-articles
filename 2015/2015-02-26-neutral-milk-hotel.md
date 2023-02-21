@@ -143,11 +143,11 @@ en 1997, voici un petit live dans une maison.
 
 {% youtube vMw54NK_524 %}
 
-[1]: http://fr.wikipedia.org/wiki/Lætitia_Sadier
+[1]: https://fr.wikipedia.org/wiki/Lætitia_Sadier
 [2]: https://www.google.com/search?q=potiron+oui-oui
 [3]:
-  http://diffuser.fm/jeff-mangum-plays-intimate-show-tells-audience-theyll-never-hear-his-new-songs/
+  https://diffuser.fm/jeff-mangum-plays-intimate-show-tells-audience-theyll-never-hear-his-new-songs/
 [4]:
-  http://pitchfork.com/news/57791-neutral-milk-hotel-announce-last-tour-for-the-forseeable-future/
+  https://pitchfork.com/news/57791-neutral-milk-hotel-announce-last-tour-for-the-forseeable-future/
 [5]:
   https://www.rollingstone.com/music/music-news/radiohead-neutral-milk-hotel-help-vinyl-sales-almost-double-in-2008-252602/

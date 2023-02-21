@@ -17,9 +17,8 @@ date: 2013-10-28 09:51:00 +0100
 Alors le Velvet Underground, c'est quoi, c'est qui ?
 
 Alors évidemment, Lou Reed oui. Mais pas seulement ! Il y avait aussi John Cage,
-plus tard chantre de la musique concrète, avec son célèbre
-[4'33"](https://www.youtube.com/watch?v=JTEFKFiXSx4), belle composition où
-l'interprète joue en silence pendant, donc, 4 minutes 33.
+plus tard chantre de la musique concrète, avec son célèbre [4'33"][1], belle
+composition où l'interprète joue en silence pendant, donc, 4 minutes 33.
 
 C'est aussi Moe Trucker, la batteuse, qui fit parler d'elle par son jeu
 métronomique d'abord et plus récemment, par ces
@@ -46,3 +45,5 @@ Bed_). Il est enfin responsable d'expérimentations très exigeantes : Mental
 Machine Music, où Lou imagine 1 heure de "bruits de cerveau".
 
 Bref, bye bye Lou et merci pour tout !
+
+[1]: https://www.youtube.com/watch?v=JTEFKFiXSx4

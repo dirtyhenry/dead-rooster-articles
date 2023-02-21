@@ -15,4 +15,4 @@ Clip fun pour les Nationaux, inspiré de cette
 Vivement l'album !
 
 (via
-[Pitchfork](http://pitchfork.com/news/50660-watch-the-video-for-the-nationals-sea-of-love/))
+[Pitchfork](https://pitchfork.com/news/50660-watch-the-video-for-the-nationals-sea-of-love/))

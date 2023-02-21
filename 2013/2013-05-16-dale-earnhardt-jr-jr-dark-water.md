@@ -14,6 +14,6 @@ Encore un peu de Dale Earnhardt Jr. Jr., extrait de leur EP _The Patterns_.
 Vous pouvez aussi [réécouter _Hiding_][i1223].
 
 (via
-[Stereogum](http://stereogum.com/1349901/dale-earnhardt-jr-jr-dark-water-video/video/))
+[Stereogum](https://stereogum.com/1349901/dale-earnhardt-jr-jr-dark-water-video/video/))
 
 [i1223]: {% post_url 2013/2013-04-29-dale-earnhardt-jr-jr-hiding %}

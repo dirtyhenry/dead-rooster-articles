@@ -24,7 +24,7 @@ comments:
     title: Reading Rainbow
     content:
       "La review de leur disque sur Pitchfork :
-      http://pitchfork.com/reviews/albums/14905-prism-eyes/"
+      https://pitchfork.com/reviews/albums/14905-prism-eyes/"
 ---
 
 **Reading Rainbow** a déjà été à l'honneur dans deux compiles du lundi et vient

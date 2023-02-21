@@ -9,4 +9,4 @@ date: "2012-09-06 08:00:00 +0200"
 
 {% youtube VILWkqlQLWk %}
 
-RIP [Hal David](http://pitchfork.com/news/47714-rip-songwriter-hal-david/).
+RIP [Hal David](https://pitchfork.com/news/47714-rip-songwriter-hal-david/).

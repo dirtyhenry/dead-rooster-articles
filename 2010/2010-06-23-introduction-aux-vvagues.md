@@ -20,7 +20,7 @@ comments:
     title: Introduction aux vvagues
     content:
       "La chanson a désormais un clip :
-      [http://pitchfork.com/news/39867-video-wavves-post-acid/](http://pitchfork.com/news/39867-video-wavves-post-acid/)"
+      [https://pitchfork.com/news/39867-video-wavves-post-acid/](https://pitchfork.com/news/39867-video-wavves-post-acid/)"
 ---
 
 Très actif en publication d'albums depuis son apparition en 2008, très actif

@@ -17,7 +17,7 @@ Revoir [_Wild_][i1157], [_White Moon_][i682], ou
 titre du groupe pour lequel on a un gros faible).
 
 (via
-[Pitchfork](http://pitchfork.com/news/49829-watch-the-surreal-beach-house-video-for-wishes-directed-by-eric-wareheim-and-starring-ray-wise/))
+[Pitchfork](https://pitchfork.com/news/49829-watch-the-surreal-beach-house-video-for-wishes-directed-by-eric-wareheim-and-starring-ray-wise/))
 
 [i1157]: {% post_url 2013/2013-01-09-beach-house-wild %}
 

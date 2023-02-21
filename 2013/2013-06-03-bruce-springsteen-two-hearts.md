@@ -22,4 +22,4 @@ La compile complète est en écoute ici :
 {% spotify 1SmZPuNRAG0WIiThwKcB6F %}
 
 (via
-[Stereogum](http://www.stereogum.com/592652/win-butlers-14-favorite-springsteen-songs/list/))
+[Stereogum](https://www.stereogum.com/592652/win-butlers-14-favorite-springsteen-songs/list/))

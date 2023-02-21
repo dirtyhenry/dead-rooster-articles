@@ -112,7 +112,7 @@ Mais je suis désormais rassuré à plus d'un titre :
 
 Merci internet !
 
-[dante]: http://disney.wikia.com/wiki/Dante
+[dante]: https://disney.fandom.com/wiki/Dante
 [rt]: https://www.rottentomatoes.com/m/daddys_home_2/
 [song]: https://youtu.be/bjQzJAKxTrE
 [cry]: https://www.vulture.com/2015/06/why-pixar-movies-make-us-cry.html
