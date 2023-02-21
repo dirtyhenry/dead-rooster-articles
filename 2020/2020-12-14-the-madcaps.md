@@ -16,8 +16,8 @@ tags:
 Que des musiciens créent, innovent, inventent, c’est essentiel. Mais ce n’est
 pas la seule bonne raison de composer de la musique. Perpétuer en est une autre.
 
-[**The Madcaps**][1] est un groupe rennais qui a l’air de bien aimer les Kinks.
-C’est écrit sur leurs biographies, ça devient encore plus clair au premier coup
+**The Madcaps** est un groupe rennais qui a l’air de bien aimer les Kinks. C’est
+écrit sur leurs biographies, ça devient encore plus clair au premier coup
 d’oreille, voire limpide quand ils concluent le titre _Crack Me Up_ par un
 “rainy day in June”. Ça part bien, poursuivons. Si on pourrait jurer qu’ils ont
 dû user des compilations Nuggets, ils citent plutôt Daptone Records comme
@@ -39,7 +39,6 @@ Impossible de me souvenir comment j’ai fini par noter “écouter les Madcaps�
 un bout de papier numérique. Mais bon sang, ça prouve qu’il est bon de [prendre
 des notes][7].
 
-[1]: http://www.madcaps.fr/
 [2]: https://madmadcaps.bandcamp.com/album/the-madcaps
 [3]: https://madmadcaps.bandcamp.com/album/hot-sauce
 [4]: https://madmadcaps.bandcamp.com/album/slow-down

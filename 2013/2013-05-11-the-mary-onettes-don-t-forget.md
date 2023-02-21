@@ -13,4 +13,4 @@ On change légèrement par rapport aux deux dernières chansons du jour : "Vive
 l'album !"
 
 (via
-[Stereogum](http://stereogum.com/1344071/the-mary-onettes-dont-forget-video-stereogum-premiere/video/))
+[Stereogum](https://stereogum.com/1344071/the-mary-onettes-dont-forget-video-stereogum-premiere/video/))

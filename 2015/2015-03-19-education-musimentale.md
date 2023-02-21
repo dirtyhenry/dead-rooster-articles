@@ -9,6 +9,7 @@ excerpt: >
 category: Éditorial
 tags:
   - Arcade Fire
+  - Eels
   - Grandaddy
   - The Fresh & Onlys
   - The White Stripes

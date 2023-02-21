@@ -64,6 +64,11 @@ sur le groupe :
 - Le groupe a aussi donné [une interview à Sourdoreille][7] ;
 - La [set-list][8] et des [photos][9] du concert sont disponibles.
 
+Update : le groupe a mis en ligne ce _Live at Bush Hall_, en lieu et place de
+3ème album.
+
+{% youtube VbHV8oObR54 %}
+
 [^1]:
     Nervous Conditions avait splitté en 2018 après une sombre affaire
     d’accusations d’agressions sexuelles visant leur chanteur d’alors.

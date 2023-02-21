@@ -187,7 +187,7 @@ d'albums :
 [4]: https://youtu.be/Ihlr1GZhBXw
 [5]: https://youtu.be/YL-tKWyrzuk
 [6]: https://youtu.be/5iSeilVIvXU
-[7]: http://georgesclooney.blogspot.fr
+[7]: https://georgesclooney.blogspot.fr
 [9]: https://youtu.be/4OWp0nT9P0Y
 [10]: https://youtu.be/Etu2yx_oEsg
 [11]: https://www.facebook.com/laurentchalumeaupro/posts/3009838602616382

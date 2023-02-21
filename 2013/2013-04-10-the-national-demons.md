@@ -15,7 +15,7 @@ premier titre du successeur de [_High Violet_][i696] est en écoute ici :
 Réécouter [_Exile, Velify_][i901].
 
 via
-[Pitchfork](http://pitchfork.com/news/50230-listen-to-the-nationals-new-single-demons/)
+[Pitchfork](https://pitchfork.com/news/50230-listen-to-the-nationals-new-single-demons/)
 
 [i696]: {% post_url 2010/2010-09-02-the-national-high-violet %}
 

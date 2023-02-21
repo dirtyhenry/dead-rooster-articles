@@ -14,4 +14,4 @@ tags:
 {% youtube M4X6q7rKGd0 %}
 
 Voir les détails de l'histoire du clip sur
-[Pitchfork](http://pitchfork.com/news/43486-video-the-national-exile-vilify/).
+[Pitchfork](https://pitchfork.com/news/43486-video-the-national-exile-vilify/).

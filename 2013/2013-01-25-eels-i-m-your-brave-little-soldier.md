@@ -5,6 +5,9 @@ authors:
   - Dirty Henry
 wordpress_id: 1162
 date: "2013-01-25 15:06:41 +0100"
+category: Chanson du jour
+tags:
+  - Eels
 ---
 
 {% soundcloud 76073904 %}

@@ -24,7 +24,7 @@ comments:
     title: La légende de la compile mystérieuse
     content:
       "Je paris que dans cette vidéo :
-      http://pitchfork.com/news/41296-watch-matt-kim-beat-the-crap-out-of-each-other-in-their-new-music-video-for-cameras/
+      https://pitchfork.com/news/41296-watch-matt-kim-beat-the-crap-out-of-each-other-in-their-new-music-video-for-cameras/
       tout a commencé quand l'un a offert à l'autre une compile avec du reggae
       dessus !"
 ---

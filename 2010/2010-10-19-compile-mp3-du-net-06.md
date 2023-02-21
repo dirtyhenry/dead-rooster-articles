@@ -20,34 +20,34 @@ playlist:
   - artist: Andrew Cedermark
     title: Hard Livin'
     asset: andrew-cedermark-hard-livin.png
-    link: http://pitchfork.com/reviews/albums/14628-moon-deluxe/
+    link: https://pitchfork.com/reviews/albums/14628-moon-deluxe/
   - artist: Dumbo Gets Mad
     title: Plumy Tale
     asset: dumbo-gets-mad.jpg
   - artist: Women
     title: Narrow With The Hall
     asset: women-narrow-in-the-hall.png
-    link: http://pitchfork.com/forkcast/14793-narrow-with-the-hall/
+    link: https://pitchfork.com/forkcast/14793-narrow-with-the-hall/
   - artist: The Black Angels
     title: No Satisfaction
     asset: the-black-angels-no-satisfaction.png
-    link: http://pitchfork.com/news/39607-black-mountain-tour-with-black-angels/
+    link: https://pitchfork.com/news/39607-black-mountain-tour-with-black-angels/
   - artist: Jesse Woods
     title: Ugly Dress
     asset: jesse-woods-ugly-dress.png
-    link: http://stereogum.com/448821/jesse-woods-mind-drips-neon-indian-cover/mp3s/
+    link: https://stereogum.com/448821/jesse-woods-mind-drips-neon-indian-cover/mp3s/
   - artist: Frankie Rose & The Outs
     title: Candy
     asset: frankie-rose-and-the-outs-candy.png
-    link: http://stereogum.com/507962/frankie-rose-and-the-outs-candy-stereogum-premiere/mp3s/
+    link: https://stereogum.com/507962/frankie-rose-and-the-outs-candy-stereogum-premiere/mp3s/
   - artist: Fujiya & Miyagi
     title: Sixteen Shades of Black & Blue
     asset: fujiya-miyagi-16-shades.png
-    link: http://pitchfork.com/news/40056-fujiya-miyagi-share-mp3-ready-new-album/
+    link: https://pitchfork.com/news/40056-fujiya-miyagi-share-mp3-ready-new-album/
   - artist: The Radio Dept.
     title: The New Improved Hypocrisy
     asset: the-radio-dept-improvised-hypocrisy.png
-    link: http://pitchfork.com/news/40064-radio-dept-smash-the-government-on-new-song/
+    link: https://pitchfork.com/news/40064-radio-dept-smash-the-government-on-new-song/
 ---
 
 Une sélection des meilleurs MP3 légalement disponibles au téléchargement des

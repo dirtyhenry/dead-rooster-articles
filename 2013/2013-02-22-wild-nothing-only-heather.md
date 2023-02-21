@@ -14,4 +14,4 @@ date: "2013-02-22 10:00:00 +0100"
 </div>
 
 (via
-[Pitchfork](http://pitchfork.com/news/49548-watch-wild-nothings-dark-only-heather-video/))
+[Pitchfork](https://pitchfork.com/news/49548-watch-wild-nothings-dark-only-heather-video/))

@@ -16,7 +16,7 @@ Complète ta collection avec [_Palmreader_][i1238], [_Dark Corners_][i1205] ou l
 plus ancien [_I Wanna Do It_][i827] voire leur reprise d'[_Imagine_][i1195].
 
 (via
-[Stereogum](http://www.stereogum.com/1384481/sonny-the-sunsets-green-blood-video/video/))
+[Stereogum](https://www.stereogum.com/1384481/sonny-the-sunsets-green-blood-video/video/))
 
 [i1238]: {% post_url 2013/2013-05-28-sonny-the-sunsets-palmreader %}
 

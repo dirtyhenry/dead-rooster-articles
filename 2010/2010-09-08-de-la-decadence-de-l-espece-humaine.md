@@ -13,12 +13,12 @@ comments:
     title: De la décadence de l'espèce humaine
     content:
       "Même ABBA parle des meules avec légéreté : qui aurait pu anticiper un tel
-      drame ? http://www.youtube.com/watch?v=HOYqGNzNs3c"
+      drame ? https://www.youtube.com/watch?v=HOYqGNzNs3c"
 ---
 
 Autrefois, le moindre quidam manipulait les bottes de paille comme
 l'haltérophile, le cure-dents. Mais dans la société moderne, le foin est devenu
 une arme redoutable : la preuve, le violoncelliste d'Electric Light Orchestra
 est
-[mort lors d'une collision](http://pitchfork.com/news/39956-former-electric-light-orchestra-cellist-mike-edwards-dies-in-freak-hay-bale-accident/)
+[mort lors d'une collision](https://pitchfork.com/news/39956-former-electric-light-orchestra-cellist-mike-edwards-dies-in-freak-hay-bale-accident/)
 avec l'une de ces meules. Le monde va mal !

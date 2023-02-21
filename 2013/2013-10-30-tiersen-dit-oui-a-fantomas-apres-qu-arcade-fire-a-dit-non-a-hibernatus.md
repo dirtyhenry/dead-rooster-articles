@@ -15,6 +15,6 @@ paraît qu'Arcade Fire aurait refusé de faire un concert hommage à Hibernatus.
 monde va mal !
 
 [1]:
-  http://www.infoconcert.com/news/yann-tiersen-redonne-vie-a-fantomas-au-theatre-du-chatelet-8900.html
+  https://www.infoconcert.com/news/yann-tiersen-redonne-vie-a-fantomas-au-theatre-du-chatelet-8900.html
 
 [i784]: {% post_url 2011/2011-02-17-cine-club-moi-j-vous-dis-03 %}

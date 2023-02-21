@@ -22,4 +22,4 @@ guitares à la Ramones et des voix à la Phil Spector. Chouette programme.
 Quelques liens :
 
 - [l'album en streaming](http://blog.urbanoutfitters.com/features/best_coast)
-- [une page où on peut écouter et télécharger le titre Boyfriend](http://pitchfork.com/reviews/tracks/11931-boyfriend/)
+- [une page où on peut écouter et télécharger le titre Boyfriend](https://pitchfork.com/reviews/tracks/11931-boyfriend/)

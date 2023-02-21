@@ -7,6 +7,7 @@ author: Dirty Henry
 tags:
   - Arcade Fire
   - Camille
+  - Eels
   - Kate Bush
 ---
 
