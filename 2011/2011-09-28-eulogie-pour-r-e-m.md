@@ -79,7 +79,7 @@ _Near Wild Heaven_
 
 _Radio Free Europe_ (recommandé par Benjamin A.)
 
-{% Ac0oaXhz1u8 %}
+{% youtube Ac0oaXhz1u8 %}
 
 Et [une chanson bonus mystère][12].
 
