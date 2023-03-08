@@ -17,4 +17,4 @@ Dave Sitek.
 Un second extrait du disque du groupe de Liam sans Noel est dispo [ici][1].
 Sinon, le cover art est sympa, je la recommande.
 
-[1]: http://stereogum.com/1336872/beady-eye-second-bite-of-the-apple/mp3s/
+[1]: https://stereogum.com/1336872/beady-eye-second-bite-of-the-apple/mp3s/

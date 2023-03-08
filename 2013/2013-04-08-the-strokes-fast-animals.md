@@ -23,7 +23,7 @@ single que les Strokes publieront à l'occasion du Record Store Day le 20 avril.
 N'hésitez pas à réécouter [_All The Time_][i1179], qui sera la face A du même
 single, ou [la reprise de _Just What I Needed_ avec Jarvis Cocker][i899].
 
-(via [Stereogum](http://stereogum.com/1297372/the-strokes-fast-animals/mp3s/))
+(via [Stereogum](https://stereogum.com/1297372/the-strokes-fast-animals/mp3s/))
 
 [i1210]: {% post_url 2013/2013-04-04-taxi-girl-paris %}
 

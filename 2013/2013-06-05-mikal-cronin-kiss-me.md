@@ -21,6 +21,6 @@ N'oubliez pas d'écouter aussi les propres titres de Cronin : [_Change_][i1233]
 notamment.
 
 (via
-[Stereogum](http://www.stereogum.com/1344561/mikal-cronin-im-gonna-be-proclaimers-cover-kiss-me-sixpence-none-the-richer-cover/mp3s/))
+[Stereogum](https://stereogum.com/1344561/mikal-cronin-im-gonna-be-proclaimers-cover-kiss-me-sixpence-none-the-richer-cover/mp3s/))
 
 [i1233]: {% post_url 2013/2013-05-17-mikal-cronin-change %}

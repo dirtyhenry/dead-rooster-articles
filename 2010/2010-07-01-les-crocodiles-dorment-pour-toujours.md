@@ -19,7 +19,7 @@ attention, plusieurs groupes baptisés Crocodiles existent sur le net.
 [Ici, on parle bien de celui-là.](http://www.myspace.com/crocodilescrocodilescrocodiles)
 
 Pour le titre _Sleep Forever_, il faut se rendre sur le site de
-[Stereogum](http://stereogum.com/408972/crocodiles-sleep-forever-stereogum-premiere/mp3s/).
+[Stereogum](https://stereogum.com/408972/crocodiles-sleep-forever-stereogum-premiere/mp3s/).
 
 Pour Neon Jesus, c'est ici :
 

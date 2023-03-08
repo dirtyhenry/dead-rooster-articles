@@ -16,7 +16,7 @@ date: 2010-04-02 21:16:20 +0200
 On savait déjà qu'ils étaient formidables, [en concert][i226] et [en
 studio][i359], ils le confirment une fois de plus. **Love Is All** vient de
 sortir son 3ème album, _Two Thousand And Ten Injuries_, et
-[Stereogum nous propose de télécharger son titre d'ouverture : _Bigger Bolder_](http://stereogum.com/326052/love-is-all-bigger-bolder/mp3s/).
+[Stereogum nous propose de télécharger son titre d'ouverture : _Bigger Bolder_](https://stereogum.com/326052/love-is-all-bigger-bolder/mp3s/).
 Comme toujours, l'invention du groupe, l'énergie flegmatique, marche à
 merveille.
 

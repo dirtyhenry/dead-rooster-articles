@@ -24,14 +24,14 @@ playlist:
   - artist: Lower Dens
     title: Blue And Silver
     asset: lower-dens-blue-and-silver.png
-    link: http://stereogum.com/522201/lower-dens-blue-and-silver/mp3s/
+    link: https://stereogum.com/522201/lower-dens-blue-and-silver/mp3s/
   - artist: Seamonster
     title: Oh Appalachia
     asset: seamonster-oh-appalachia.png
   - artist: Sharon Van Etten
     title: Don’t Do It
     asset: sharon-van-etten-dont-do-it.jpg
-    link: http://stereogum.com/503982/sharon-van-etten-dont-do-it-stereogum-premiere/mp3s/
+    link: https://stereogum.com/503982/sharon-van-etten-dont-do-it-stereogum-premiere/mp3s/
   - artist: Chapter
     title: Tomcat
     asset: chapter.jpg
@@ -39,11 +39,11 @@ playlist:
   - artist: Ducktails
     title: Hamilton Road
     asset: ducktails-hamilton-road.jpg
-    link: http://stereogum.com/463342/ducktails-hamilton-road/mp3s/
+    link: https://stereogum.com/463342/ducktails-hamilton-road/mp3s/
   - artist: Reading Rainbow
     title: Wasting Time
     asset: reading-rainbow-wasting-time.jpg
-    link: http://stereogum.com/506002/reading-rainbow-wasting-time/mp3s/
+    link: https://stereogum.com/506002/reading-rainbow-wasting-time/mp3s/
   - artist: Foxes in Fiction & Weed
     title: Teenage Dream (Katy Perry)
     asset: foxes-in-fiction-weed-teenage-dream.png

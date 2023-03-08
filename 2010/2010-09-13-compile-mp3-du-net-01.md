@@ -38,7 +38,7 @@ playlist:
   - artist: The Lonely Forest
     title: Live There
     asset: the-lonely-forest-live-there.jpg
-    link: http://stereogum.com/459281/the-lonely-forest-i-dont-want-to-live-there-stereogum-premiere/mp3s/
+    link: https://stereogum.com/459281/the-lonely-forest-i-dont-want-to-live-there-stereogum-premiere/mp3s/
 
   - artist: The Extra Lens
     title: Only Existing Footage

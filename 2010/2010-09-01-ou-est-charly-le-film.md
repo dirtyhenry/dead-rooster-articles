@@ -23,4 +23,4 @@ _Bullfighter Jacket_, version mouvante et animée de
 {% youtube J6TDP89a_rs %}
 
 (via
-[Stereogum](http://stereogum.com/491951/miniature-tigers-bullfighter-jacket-video/video/))
+[Stereogum](https://stereogum.com/491951/miniature-tigers-bullfighter-jacket-video/video/))

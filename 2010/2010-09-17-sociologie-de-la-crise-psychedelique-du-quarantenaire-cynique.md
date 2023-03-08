@@ -40,7 +40,7 @@ propose un plaisir coupable et un bon vieux Weezer, qui jouent _Memories_ tiré
 de leur nouvel album _Hurley_.
 
 (via
-[Stereogum](http://stereogum.com/512912/weezer-bring-memories-to-leno-confirm-blinkerton-tour-working-with-male-bonding/video/))
+[Stereogum](https://stereogum.com/512912/weezer-bring-memories-to-leno-confirm-blinkerton-tour-working-with-male-bonding/video/))
 
 [Edit : la vidéo a été supprimée de YouTube, on remplace par le clip du titre]
 
