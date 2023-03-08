@@ -13,6 +13,7 @@ tags:
   - Grandaddy
   - The Fresh & Onlys
   - The White Stripes
+  - Real Estate
 cover: education-musimentale.png
 cover_alt: Dans Almost Famous, Lester Bangs fait le bilan
 lead-paragraph: true

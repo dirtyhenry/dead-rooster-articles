@@ -6,6 +6,8 @@ authors:
 wordpress_id: 1182
 date: 2013-02-21 10:00:25 +0100
 category: Chanson du jour
+tags:
+  - Real Estate
 ---
 
 Tandis que Karim Benzema est l'avant-centre du Real Madrid, Alex Bleeker est lui
