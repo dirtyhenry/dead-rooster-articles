@@ -5,6 +5,9 @@ authors:
   - Dirty Henry
 wordpress_id: 1182
 date: 2013-02-21 10:00:25 +0100
+category: Chanson du jour
+tags:
+  - Real Estate
 ---
 
 Tandis que Karim Benzema est l'avant-centre du Real Madrid, Alex Bleeker est lui
@@ -18,7 +21,7 @@ Sinon, vous pouvez aussi réécouter [_Easy_][i982] et [_It's Real_][i944] du Re
 Estate.
 
 (via
-[Stereogum](http://stereogum.com/1260751/alex-bleeker-and-the-freaks-dont-look-down/mp3s/))
+[Stereogum](https://stereogum.com/1260751/alex-bleeker-and-the-freaks-dont-look-down/mp3s/))
 
 [i982]: {% post_url 2012/2012-01-12-real-estate-easy %}
 

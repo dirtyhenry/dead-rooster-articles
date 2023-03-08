@@ -16,7 +16,7 @@ N'oubliez pas de réécouter leur excellente reprise d'[_Imagine_][i1195] ou leu
 hit [_I Wanna Do It_][i827].
 
 (via
-[Stereogum](http://stereogum.com/1293871/sonny-and-the-sunsets-dark-corners/mp3s/))
+[Stereogum](https://stereogum.com/1293871/sonny-and-the-sunsets-dark-corners/mp3s/))
 
 [i1195]: {% post_url 2013/2013-03-15-sonny-the-sunsets-imagine %}
 

@@ -45,7 +45,7 @@ playlist:
   - artist: Phosphorescent
     title: It’s Hard To Be Humble (When You’re From Alabama)
     asset: phosphorescent-alabama.jpg
-    link: http://stereogum.com/281942/phosphorescent-%E2%80%93-%E2%80%9Cit%E2%80%99s-hard-to-be-humble-when-you%E2%80%99re-from-alabama%E2%80%9D/mp3s/
+    link: https://stereogum.com/281942/phosphorescent-%E2%80%93-%E2%80%9Cit%E2%80%99s-hard-to-be-humble-when-you%E2%80%99re-from-alabama%E2%80%9D/mp3s/
   - artist: Kid Trails
     title: Snow Falls Down
     asset: kidtrails-snowfallsdown.jpg

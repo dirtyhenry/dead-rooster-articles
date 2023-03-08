@@ -16,7 +16,7 @@ playlist:
   - artist: Po Po
     title: Bummer Summer
     asset: popo-bummer-summer.png
-    link: http://stereogum.com/447372/popo-bummer-summer/mp3s/
+    link: https://stereogum.com/447372/popo-bummer-summer/mp3s/
   - artist: Andrew Cedermark
     title: Hard Livin'
     asset: andrew-cedermark-hard-livin.png

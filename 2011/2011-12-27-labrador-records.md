@@ -9,6 +9,9 @@ authors:
 wordpress_id: 976
 cover: labrador-chiot.jpg
 date: 2011-12-27 13:26:09 +0100
+category: Review
+tags:
+  - Real Estate
 ---
 
 Car oui, en cette dernière quinzaine de l'année, tout est vraiment TTM : les

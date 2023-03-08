@@ -13,6 +13,6 @@ L'album s'annonce, et s'annonce plutôt pas mal !
 
 [Réécouter _Weird Shapes_][i1173].
 
-(via [Stereogum](http://stereogum.com/1280211/surfer-blood-demon-dance/mp3s/))
+(via [Stereogum](https://stereogum.com/1280211/surfer-blood-demon-dance/mp3s/))
 
 [i1173]: {% post_url 2013/2013-02-11-surfer-blood-weird-shapes %}

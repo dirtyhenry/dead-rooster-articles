@@ -25,7 +25,7 @@ Moore ont décidé de quitter Denver pour passer huit mois à naviguer sur la c�
 nord atlantique. Vu qu'ils devaient s'ennuyer sévère, ils ont décidé de composer
 de la musique et aujourd'hui, on leur dit merci bien.
 
-- [Deux titres, _Baltimore_ et _Marathon_ sont à télécharger sur Stereogum](http://stereogum.com/446402/tennis-baltimore/mp3s/)
+- [Deux titres, _Baltimore_ et _Marathon_ sont à télécharger sur Stereogum](https://stereogum.com/446402/tennis-baltimore/mp3s/)
 - Plus, deux vidéo, de _South California_ et *Cape Dory* :
 
 {% vimeo 13010675 %}

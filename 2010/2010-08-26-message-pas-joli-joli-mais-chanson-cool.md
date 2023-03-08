@@ -18,7 +18,7 @@ comments:
     title: Message pas joli joli, mais chanson cool
     content:
       Et voilà le clip définitif…
-      http://stereogum.com/493071/cee-lo-fuck-you-video/video/
+      https://stereogum.com/493071/cee-lo-fuck-you-video/video/
 ---
 
 C'est pas tous les jours qu'on cite ici des œuvres pouvant être cataloguées
