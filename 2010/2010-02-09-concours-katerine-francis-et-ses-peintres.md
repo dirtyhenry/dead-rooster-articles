@@ -13,6 +13,7 @@ category: Concours Katerine
 tags:
   - Katerine
   - Johnny Hallyday
+  - Plastic Bertrand
 cover: 52-reprises-dans-espace-katerine.jpg
 ---
 

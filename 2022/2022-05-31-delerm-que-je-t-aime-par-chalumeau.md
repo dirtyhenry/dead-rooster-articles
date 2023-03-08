@@ -12,6 +12,7 @@ tags:
   - Nicolas Mathieu
   - Vincent Delerm
   - Johnny Hallyday
+  - Plastic Bertrand
 ---
 
 Dans un monde qui manque tellement d'unité, comment ne pas s'émouvoir quand
