@@ -258,4 +258,4 @@ le genre de la maison.
 
 [wa1]:
   https://web.archive.org/web/20100107235416/http://katerinefrancisetsespeintres.com/
-[caca]: https://jeanpierrecaca.deadrooster.org
+[caca]: https://jeanpierrecaca.bandcamp.com/

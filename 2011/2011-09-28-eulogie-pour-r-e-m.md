@@ -45,15 +45,13 @@ sont de bonnes chansons pour que je puisse mettre ça sur mon CV.
 
 Commençons par _Shiny Happy People_, avec [ce clip qui marque à vie][8], une
 vraie belle madeleine de Proust, où Kate Pierson, des B-52's, venue en renfort,
-aura érotisé toute une génération de futurs bienfaiteurs du genre humain. Pour
-avoir une version de très bonne qualité, il fallait cliquer à la phrase
-précédente, mais on peut se contenter d'une version moyenne ci-dessous.
+aura érotisé toute une génération de futurs bienfaiteurs du genre humain.
 
 {% youtube YYOKMUTTDdA %}
 
 [Le clip de _Losing My Religion_][9] est un peu bizarre et nettement moins cool,
-alors du coup, en regarder une version avec l'image d'une pochette et des
-pop-ups partout suffit, à mon humble avis :
+alors du coup, en regarder une version avec l'image d'une pochette pourrait
+suffire, à mon humble avis :
 
 {% youtube xwtdhWltSIg %}
 
@@ -63,7 +61,7 @@ peuvent [voir le clip][10] et ceux qui veulent juste voir la dernière minute,
 vraiment plus cool que le reste, préféreront [cliquer là][11].
 
 Derrière ces trois monstres, d'autres beaux morceaux se cachent et en voici les
-deux meilleurs représentants à mes yeux, que je vous invite à écouter aussi
+trois meilleurs représentants à mes yeux, que je vous invite à écouter aussi
 maintenant car, dans une semaine, le moment sera passé et vous n'écouterez plus
 jamais R.E.M. de votre vie si ça se trouve. Ce ne serait pas si grave car comme
 le disait Chamfort, “il y a des redites pour l'oreille et pour l'esprit, il n'y

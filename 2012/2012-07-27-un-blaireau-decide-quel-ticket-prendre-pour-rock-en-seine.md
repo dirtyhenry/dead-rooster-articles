@@ -38,7 +38,7 @@ dimanche qui l'emporte et j'accompagnerai donc Joe Gantdelaine voir Grandaddy.
 {% asset rock-en-seine-lineup-infography.png %}
 
 Si vous aussi, vous voulez faire votre choix pour Rock en Seine, j'ai partagé
-[le fichier CSV nécessaire ici](http://cdn.deadrooster.org/rockenseine2012.csv)
+[le fichier CSV nécessaire ici](https://www.deadrooster.org/assets/data/rockenseine2012.csv)
 (oui, je sais l'expérience utilisateur sur Sortmash est pas vraiment au top,
 mais en tout cas, elle me rend de fiers services).
 
