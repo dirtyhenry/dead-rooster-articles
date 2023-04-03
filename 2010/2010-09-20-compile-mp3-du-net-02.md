@@ -23,12 +23,11 @@ playlist:
   - artist: Cloud Nothings
     title: Hey Cool Kid
     asset: cloud-nothings-hey-cool-kid.jpg
-    link: http://www.thetripwire.com/tripwiretvspotlight/2010/07/12/cloud-nothings-take-it-outside-play-acoustic-hey-cool-kid/
 
   - artist: Beach Fossils
     title: Vacation
     asset: beach-fossils-cover.jpg
-    link: http://kmskma.free.fr/?p=3357
+    link: https://song.link/fr/i/1370816950
 
   - artist: Sri Aurobindo
     title: Soul Vibrations of Man
@@ -37,7 +36,6 @@ playlist:
   - artist: The Walkmen
     title: Stranded
     asset: the-walkmen.png
-    link: http://www.blogotheque.net/You-don-t-want-me
 
   - artist: Foxes In Fiction
     title: Flashing Lights Have Ended Now

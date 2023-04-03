@@ -14,12 +14,12 @@ playlist:
   - artist: Young Man
     title: Fate
     asset: young-man-fate.jpg
-    link: http://vimeo.com/39706493
+    link: https://vimeo.com/39706493
 
   - artist: Corin Tucker
     title: Doubt
     asset: corin-tucker-band-doubt.jpg
-    link: https://pitchfork.com/news/39605-new-corin-tucker-riley/
+    link: https://song.link/fr/i/387801871
 
   - artist: Black Mountain
     title: The Hair Song

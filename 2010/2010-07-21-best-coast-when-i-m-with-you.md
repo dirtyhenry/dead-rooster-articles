@@ -13,13 +13,13 @@ tags:
 {% youtube 8Sj5_WITMpA %}
 
 Après plusieurs semaines d'attente, nous ne sommes plus qu'à quelques jours de
-la sortie de _Crazy For You_, le 1er album de **Best Coast**.
+la sortie de [_Crazy For You_][1], le 1er album de **Best Coast**.
 
 Best Coast est un duo de Los Angeles dont la chanteuse, Bethany Cosentino,
 résume les ambitions par la formule suivante : de la batterie à la Beatles, des
 guitares à la Ramones et des voix à la Phil Spector. Chouette programme.
 
-Quelques liens :
+À lire : [la review du titre _Boyfriend_][2], par Pitchfork.
 
-- [l'album en streaming](http://blog.urbanoutfitters.com/features/best_coast)
-- [une page où on peut écouter et télécharger le titre Boyfriend](https://pitchfork.com/reviews/tracks/11931-boyfriend/)
+[1]: https://album.link/fr/i/671783037
+[2]: https://pitchfork.com/reviews/tracks/11931-best-coast-boyfriend/
