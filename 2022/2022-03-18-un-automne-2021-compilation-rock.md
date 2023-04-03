@@ -107,9 +107,9 @@ Vivent les rockeuses de bord de mer !
 **La Femme**, y'a à boire et à manger. C'est parfois long et indigeste, mais à
 dose homéopathique, c'est extra. Du fun en barre.
 
-[**Pepper White**][3], projet solo du chanteur des [Madcaps][i1][^2], c'est le
-charme de l'immédiateté. Ça rappelle le projet [Gospel Music][i7] du mec des
-Black Lips.
+**Pepper White**, projet solo du chanteur des [Madcaps][i1][^2], c'est le charme
+de l'immédiateté. Ça rappelle le projet [Gospel Music][i7] du mec des Black
+Lips.
 
 [**Lora & the Stalkers**][6], c'est des Romains qui sortent du formol des
 bluettes rock rétro très réussies.
@@ -161,7 +161,6 @@ rapproche et on se retrouve[^1]. Merci Joe pour la sélection.
 [2]:
   https://youtu.be/84ynlHPJG0Q
   "Wet Leg: Wet Dream @ The Tonight Show Starring Jimmy Fallon"
-[3]: https://www.pepperwhitemusic.com
 [4]: https://www.themoviedb.org/movie/542178-the-french-dispatch
 [5]:
   https://youtu.be/yPNYwIx3JxM
