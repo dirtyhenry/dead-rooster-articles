@@ -7,7 +7,7 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 905
-cover: bored-to-death-jason-schwartzman.jpg
+cover: bored-to-death-jason-schwartzman.webp
 date: 2011-09-08 18:43:53 +0200
 category: TV Show
 tags:
