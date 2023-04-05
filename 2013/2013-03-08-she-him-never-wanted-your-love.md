@@ -5,14 +5,14 @@ authors:
   - Dirty Henry
 wordpress_id: 1190
 date: "2013-03-08 16:07:48 +0100"
+category: Chanson du jour
+tags:
+  - She & Him
 ---
-
-She & Him amorce l'arrivée de son prochain album, qui s'appellera, comme on
-pouvait s'y attendre, _Volume 3_ par le single _Never Wanted Your Love_.
 
 {% youtube wOS3yG95_5k %}
 
-_Volume 3_ sort le 13 mai en Europe.
+She & Him amorce l'arrivée de son prochain album, qui s'appellera — comme on
+pouvait s'y attendre — _Volume 3_, par le single _Never Wanted Your Love_.
 
-(via
-[Pitchfork](https://pitchfork.com/news/49830-new-she-him-never-wanted-your-love/))
+_Volume 3_ sort le 13 mai en Europe.
