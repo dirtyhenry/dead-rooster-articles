@@ -6,6 +6,7 @@ authors:
   - Dirty Henry
 cover: automne-2005.jpg
 tags:
+  - Arctic Monkeys
   - Babyshambles
   - Bloc Party
   - Liars

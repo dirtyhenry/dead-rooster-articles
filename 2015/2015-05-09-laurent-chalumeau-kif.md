@@ -8,6 +8,7 @@ categories:
   - Le bouquin
 tags:
   - Arcade Fire
+  - Arctic Monkeys
   - Laurent Chalumeau
   - Michel Sardou
 cover: sardou-chalumeau.jpg

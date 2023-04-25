@@ -5,6 +5,8 @@ authors:
   - Dirty Henry
 wordpress_id: 357
 date: "2007-02-07 09:15:00 +0100"
+tags:
+  - Arctic Monkeys
 ---
 
 Nick Hodgson, le batteur et compositeur principal de Kaiser Chiefs, se lamente

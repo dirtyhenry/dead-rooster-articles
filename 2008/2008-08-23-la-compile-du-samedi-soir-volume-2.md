@@ -8,6 +8,7 @@ cover: dancefloor-lumineux.jpg
 date: 2008-08-23 18:52:00 +0200
 category: Compile
 tags:
+  - Arctic Monkeys
   - Belle and Sebastian
   - Islands
   - Johnny Cash
