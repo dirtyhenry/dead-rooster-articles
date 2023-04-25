@@ -48,7 +48,7 @@ une pub, mais vous voilà malgré tout convaincu que le sujet est important.
 ## Qu'est-ce que qu'une cryptomonnaie ?
 
 Ha ha, question d'une simplicité enfantine. [Avalon Penrose y répond mieux que
-personne !][4] Voici une transcription de sa réponse en français :
+personne !][4] Voici une transcription de sa réponse en français :
 
 > J'ai écrit un tweet qui parlait de mon succès avec les cryptomonnaies et on
 > m'a demandé d'expliquer ce que c'est parce c'est pas facile à comprendre quand

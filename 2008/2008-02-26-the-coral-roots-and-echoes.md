@@ -7,6 +7,7 @@ wordpress_id: 203
 date: "2008-02-26 18:26:22 +0100"
 category: Concert
 tags:
+  - Arctic Monkeys
   - The Coral
 cover: the-coral.jpg
 ---

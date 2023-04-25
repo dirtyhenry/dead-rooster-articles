@@ -10,6 +10,7 @@ categories:
 tags:
   - Camille
   - The Strokes
+  - Arctic Monkeys
 cover: eurocks-2006.jpg
 ---
 

@@ -8,6 +8,7 @@ date: "2007-05-02 21:00:00 +0200"
 category: News
 tags:
   - Arcade Fire
+  - Arctic Monkeys
   - Babyshambles
   - Blur
   - Klaxons

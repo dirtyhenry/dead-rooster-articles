@@ -5,6 +5,9 @@ authors:
   - Dirty Henry
 wordpress_id: 823
 date: "2011-04-12 10:03:00 +0200"
+category: Chanson du jour
+tags:
+  - Arctic Monkeys
 ---
 
 {% youtube h1vYbHHhqYE %}
