@@ -151,7 +151,7 @@ rapproche et on se retrouve[^1]. Merci Joe pour la sélection.
 
 [i4]: {% post_url 2017/2017-01-10-compile-automne-2016 %}
 
-[i5]: {% post_url 2018/2018-01-18-bilan-2017 %}
+[i5]: {% post_url 2018/2018-01-18-compile-ete-2017-face-b %}
 
 [i6]: {% post_url 2012/2012-01-10-beat-mark-breeezing %}
 

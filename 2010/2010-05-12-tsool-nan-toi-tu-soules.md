@@ -9,6 +9,10 @@ description: >
   question est simple : pourquoi ?
 authors:
   - Joe Gantdelaine
+categories:
+  - Artistes
+tags:
+  - The Soundtrack Of Our Lives
 ---
 
 {% asset tsool.jpg %}
