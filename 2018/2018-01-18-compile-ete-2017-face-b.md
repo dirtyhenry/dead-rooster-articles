@@ -51,9 +51,8 @@ Nick Cave & the Bad Seeds ! Le seul qui a réussi à me faire dessiner un petit
 cœur dans mon petit carnet fêtait, pendant ce temps, ses 60 balais.
 
 Quant aux sorties de 2017, quelques disques honorables mais même les artistes de
-mon panthéon personnel déçoivent : [Arcade Fire qui fait du
-ABBA][arcade-fire-par-libe], The National, Grizzly Bear, Fleet Foxes… Mouais,
-vous m'avez déçu les mecs :
+mon panthéon personnel déçoivent : [Arcade Fire qui fait du ABBA][1], The
+National, Grizzly Bear, Fleet Foxes… Mouais, vous m'avez déçu les mecs :
 
 {% asset dumb-dumber-gagging.mp4 %}
 
@@ -79,8 +78,8 @@ la radio joue un titre qui me plaît bien. Qui me dit quelque chose tiens. Mais
 oui, c'est une _cover_. _Nothing Compares 2 U_ en version folk minimaliste. Joli
 boulot car, de mémoire, j'aimais pas trop l'originale[^1].
 
-Bien consciencieusement, je retourne écouter Sinéad pour apprécier le travail
-d'adaptation de Freedom Fry, puisque le groupe de la cover a bien un nom.
+Bien consciencieusement, je retourne écouter Sinéad pour apprécier [le travail
+d'adaptation de Freedom Fry][2], puisque le groupe de la cover a bien un nom.
 
 {% youtube 0-EF60neguk %}
 
@@ -95,10 +94,10 @@ Quelques jours plus tard, j'ai oublié le contexte : rebelote.
 
 {% youtube 4z2DtNW79sQ %}
 
-J'avais toujours aimé _Streets of Philadelphia_, c'est pas ça la question. Mais
-comme on aime le jambon-beurre. Mais là, en réécoutant ce titre, mes papilles me
-filent une claque derrière la nuque : c'était pas du jambon-beurre connard,
-c'était du caviar. De l'exquis ! Du sublime ! De l'épatant !
+J'avais toujours aimé [_Streets of Philadelphia_][3], c'est pas ça la question.
+Mais comme on aime le jambon-beurre. Mais là, en réécoutant ce titre, mes
+papilles me filent une claque derrière la nuque : c'était pas du jambon-beurre
+connard, c'était du caviar. De l'exquis ! Du sublime ! De l'épatant !
 
 ## Épisode IV: A New Hope
 
@@ -155,5 +154,7 @@ Je t'aime ô jambon.
 
 [bilan]:
   https://s3-eu-west-1.amazonaws.com/org.deadrooster.blog/pitchfork-top-50-2016.png
-[arcade-fire-par-libe]:
+[1]:
   https://www.liberation.fr/musique/2017/07/24/arcade-fire-brulant-paradoxe_1585949/
+[2]: https://song.link/fr/i/1294740148
+[3]: https://song.link/fr/i/324212499

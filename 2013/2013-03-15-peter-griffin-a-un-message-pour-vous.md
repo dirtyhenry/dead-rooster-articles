@@ -6,15 +6,16 @@ authors:
 wordpress_id: 1196
 cover: peter-griffin.png
 date: 2013-03-15 08:00:00 +0100
+category: Le monde va mal
 ---
 
-Aujourd'hui, on invite Peter Griffin, qui a quelque chose à dire au sujet de
-cette vidéo :
+{% youtube HasaQvHCv4w %}
 
-{% youtube 9G4jnaznUoQ %}
+Aujourd'hui, on invite Peter Griffin, qui a quelque chose à dire au sujet de
+cette vidéo où Mick Jagger et David Bowie reprennent *Dancing in the Street* :
 
 > That happened and we all let it happen.
 >
-> — [Peter Griffin](https://youtu.be/M_HyxTAyla8)
+> — [Peter Griffin](https://www.youtube.com/watch?v=M_HyxTAyla8)
 
 Le monde va !

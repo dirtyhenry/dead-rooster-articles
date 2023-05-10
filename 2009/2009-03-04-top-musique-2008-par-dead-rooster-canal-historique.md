@@ -54,8 +54,8 @@ de faire la biographie de ces groupes ([allmusic][1] fait ça très bien…),
 intéressons-nous plutôt à leurs traces discographiques laissées à la postérité.
 Et tout d'abord : **The Shadows of Knight**, ou comment faire pour métamorphoser
 le pillage de tombes en œuvre personnelle. En effet, à première ouïe, on
-pourrait être rebuté par la 5032ème version de _Hey Joe_ ou par la 127ème
-version de _Gloria_ (il faudra d'ailleurs attendre la 128ème pour qu'un faux
+pourrait être rebuté par [la 5032ème version de _Hey Joe_][3] ou par [la 127ème
+version de _Gloria_][4] (il faudra d'ailleurs attendre la 128ème pour qu'un faux
 sosie moustachu de Jane Birkin en fasse un succès sur son cultissime _Horses_).
 Cependant, ces gens parviennent à ne pas rester dans le pur exercice de style !
 On sent en effet une réelle implication dans ces covers, le solo sur _Hey Joe_
@@ -65,13 +65,13 @@ premiers albums (_Gloria_ et _Back Door Men_), si ce n'est qu'elle donne
 indéniablement l'envie de se pencher sur la carrière du bluesman. Et lorsque les
 Ombres du Chevalier ne pillent pas leurs glorieux ancêtres (et/ou
 contemporains), c'est pour nous pondre des titres gigantesques (l'incroyable
-_Gospel Zone_, ou la supplique d'un mâle qui veut que sa compagne l'aime du
+[_Gospel Zone_][6], ou la supplique d'un mâle qui veut que sa compagne l'aime du
 matin au soir, de l'été jusqu'à l'hiver, dans la cour comme dans la cuisine).
 
 **The Remains** ensuite, avec la réédition de leur album éponyme. Beaucoup moins
-"garage", beaucoup plus pop. Mais tout de même, pendant un titre comme _Don't
-Look Back_, comment ne pas avoir envie de chevaucher une grosse cylindrée, les
-cheveux au vent, un après-midi de juillet, sur la route de Nashville (ou au
+"garage", beaucoup plus pop. Mais tout de même, pendant un titre comme [_Don't
+Look Back_][10], comment ne pas avoir envie de chevaucher une grosse cylindrée,
+les cheveux au vent, un après-midi de juillet, sur la route de Nashville (ou au
 pire, de se trémousser comme un forcené sur le dancefloor de n'importe quel bar
 rock). Idem pour _Say You're Sorry_ ou encore _All Good Things_ (ça devait
 remuer du popotin en 1966 !). Et puis, il y a les chansons des rockers au grand
@@ -105,12 +105,12 @@ bananes qui se respectent !)
 
 Ayant sué sang et eau sur la piste de danse, il est désormais temps de rentrer
 chez soi et d'écouter de la musique plus calme. Je ne m'appesantirai pas sur
-**Dennis Wilson** et son _Pacific Ocean Blue_, puisqu'il a déjà fait l'objet
-d'un post ici ! N'en disons pas trop non plus sur **Neil Young** et son _Sugar
-Moutain_, live de 1968, puisqu'on espère en reparler plus longuement pour la
-sortie du premier volume des _Neil Young Archives_, sortie qui se veut imminente
-(après une bonne dizaine d'années de tergiversations administratives et
-techniques). Soumettons seulement l'avis que, comme la plupart des disques du
+**Dennis Wilson** et son [_Pacific Ocean Blue_][5], puisqu'il a déjà fait
+l'objet d'un post ici ! N'en disons pas trop non plus sur **Neil Young** et son
+_Sugar Moutain_, live de 1968, puisqu'on espère en reparler plus longuement pour
+la sortie du premier volume des _Neil Young Archives_, sortie qui se veut
+imminente (après une bonne dizaine d'années de tergiversations administratives
+et techniques). Soumettons seulement l'avis que, comme la plupart des disques du
 loner sortie ces 5 dernières années, cette galette est de très grande facture,
 et permet de découvrir les prémices de la longue carrière du Canadien.
 Intéressons-nous plutôt à 2 autres artistes qui ont fait l'objet de rééditions
@@ -162,12 +162,12 @@ le brave Lee-la-moustache sus-cité, alors que les seconds font dans quelque
 chose de beaucoup plus agressif. Ensuite, **The Notwist**, déjà évoqués dans
 [ses lignes][i1], qui n'ont certes pas sorti un album aussi transcendant que le
 fut _Neon Golden_ en son temps, mais qui se sont fendus d'un single
-excellentissime (_Boneless_, la chanson la plus entêtante de ces 5 dernières
-années) et d'un spectacle beau à pleurer à la dernière Route du Rock (voir
-également le post consacré [ici][i2]). Et comment conclure ce classement sans
-évoquer le retour en force d'**Oasis**, groupe qui a assez de talent pour faire
-tout le temps la même chose, mais différemment. _Dig Out Your Soul_ est ainsi
-hautement recommandable puisque, même si aucune chanson n'imprègne
+excellentissime ([_Boneless_][8], la chanson la plus entêtante de ces 5
+dernières années) et d'un spectacle beau à pleurer à la dernière Route du Rock
+(voir également le post consacré [ici][i2]). Et comment conclure ce classement
+sans évoquer le retour en force d'**Oasis**, groupe qui a assez de talent pour
+faire tout le temps la même chose, mais différemment. _Dig Out Your Soul_ est
+ainsi hautement recommandable puisque, même si aucune chanson n'imprègne
 irrémédiablement le cerveau de l'auditeur, chaque écoute est plus qu'agréable et
 loin d'être si monotone que le laissent entendre les détracteurs du groupe, pour
 qui les frères Gallagher ne sont que des Beatles des temps modernes (OK pour
@@ -181,16 +181,27 @@ jeunes encore plus jeunes !
 
 Quelques liens utiles :
 
-- [Un mec qu'a tout compris](http://www.youtube.com/watch?v=qdYf3de-nHY)
-- [Le _Gospel Zone_ des Shadows of Knight](http://www.deezer.com/track/760963)
+- [Un mec qu'a tout compris][10]
 - [_You Burn Me Up And Down_ de We The People][2]
-- [Lee et Nancy](http://www.youtube.com/watch?v=mQiDs9tKZv4)
-- [Nick Drake et ses trompettes](http://www.deezer.com/track/146153)
-- [**LA** chanson de l'année](http://www.deezer.com/track/985378)
+- [Lee et Nancy][7]
+- [Nick Drake et ses trompettes][9]
+- [**LA** chanson de l'année][8]
 
-[1]: http://www.allmusic.com
+[Lire le Top 2008, canal non-historique][i3].
+
+[1]: https://www.allmusic.com/
 [2]: https://song.link/i/1470532632
+[3]: https://song.link/fr/i/204721055
+[4]: https://song.link/fr/i/160975559
+[5]: https://album.link/fr/i/283132311
+[6]: https://song.link/fr/i/204720994
+[7]: https://www.youtube.com/watch?v=mQiDs9tKZv4 "Summer Wine"
+[8]: https://song.link/fr/i/1269687478 "Boneless"
+[9]: https://song.link/fr/i/1440724084 "Bryter Layter"
+[10]: https://song.link/fr/i/253314348 "Don't look back"
 
 [i1]: {% post_url 2008/2008-07-08-the-notwist-devil-you-plus-me %}
 
 [i2]: {% post_url 2008/2008-09-09-route-du-rock-2008 %}
+
+[i3]: {% post_url 2009/2009-01-20-top-musique-2008 %}
