@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Little Bob, la Story
+title: Little Bob, la Story et le Vauban
 description:
   Novembre 2012. Enfin ! Après des décennies de lecture de Rock&Folk et de
   "mais, merde, c'est qui ce Little Bob ⁈", je vais le voir en concert. La
   légende se sera écrite sans moi, mais avec des santiags rouges.
+category: Concert
 authors:
   - Dirty Henry
 wordpress_id: 1159
@@ -29,9 +30,8 @@ choix par défaut. Mais bon sang, il ne sera jamais regretté.
 Si tu connais pas Little Bob, tu dois pas lire Rock&Folk bien souvent toi ! Dans
 Rock&Folk, Philippe Manoeuvre et ses anciens combattants du rock n'hésitent
 jamais à parler des copains et des vieux de la vieille, à l'ancienne. Et Little
-Bob est régulièrement cité. Très souvent cité. T'as qu'à regarder
-[la couverture du numéro actuel](http://www.rocknfolk.com/site/accueil.php) si
-tu me crois pas ! (en bas à droite)
+Bob est régulièrement cité. Très souvent cité. T'as qu'à regarder [la couverture
+du numéro actuel][3] si tu me crois pas ! (en bas à droite)
 
 Du coup, ça titille la curiosité, et une recherche Wikipedia plus tard, on sait
 désormais que Little Bob est le pseudo de Richard Piazza, stackhanoviste du
@@ -49,21 +49,20 @@ paie pourtant le luxe d'être Single of the Week du NME en 1976 :
 
 ## Et alors, ce concert ?
 
-Le concert avait donc lieu au [Vauban](http://cabaretvauban.com/), salle
-brestoise qui fêtait son anniversaire en grandes pompes. C'est avec un nouveau
-groupe, Little Bob Blues Bastards, que notre ami se présente sur scène. Le
-line-up annonce la couleur. À part un batteur qui pourrait éventuellement
-postuler pour une carte 12-25 (Jérémie Piazza, le neveu du patron), le reste du
-groupe semble avoir déjà déroulé pas mal de câble :
+Le concert avait donc lieu au [Vauban][4], salle brestoise qui fêtait son
+anniversaire en grandes pompes. C'est avec un nouveau groupe, Little Bob Blues
+Bastards, que notre ami se présente sur scène. Le line-up annonce la couleur. À
+part un batteur qui pourrait éventuellement postuler pour une carte 12-25
+(Jérémie Piazza, le neveu du patron), le reste du groupe semble avoir déjà
+déroulé pas mal de câble :
 
 - Bertrand Couloume à la contrebasse, cool et nonchalant, qui joue avec Bob
   depuis plus de 20 ans
 - Gilles Mallet, dit Gillou, à la guitare, nous fait un spectacle d'imitation de
   Keith Richards
 - Alain Durand-Bougere, dit Mister Mickey Blow, harmoniciste génial dont la
-  biographie précise qu'il aura été membre
-  [des Stunners](http://rockmadeinfrance.canalblog.com/archives/2012/04/09/23966320.html)
-  et accompagné Johnny Thunders (des New York Dolls) sur scène
+  biographie précise qu'il aura été membre [des Stunners][5] et accompagné
+  Johnny Thunders (des New York Dolls) sur scène
 
 Mélanges de reprises et titres originaux, le blues des Bastards fait mouche. Et
 la générosité de Little Bob et ses sbires séduit. Visiblement, Tiersen et
@@ -93,6 +92,8 @@ Bastards.
 
 Et enfin, sachez qu'un documentaire sur Little Bob, _Rocking Class Hero_ est en
 cours de production. Ça devrait pas être triste, tiens.
+
+## Un mot de Serge Kaganski
 
 Update : Serge Kaganski donne des news du projet _Rocking Class Hero_ [ici][2].
 Apparemment, le film est prêt mais pas encore de distribution.
@@ -126,3 +127,7 @@ Apparemment, le film est prêt mais pas encore de distribution.
 [1]: https://en.wikipedia.org/wiki/High_Time_(MC5_album)
 [2]:
   https://web.archive.org/web/20160312202459/http://blogs.lesinrocks.com/kaganski/2015/07/18/belles-familles-une-comedie-old-school-et-cest-rafraichissant/
+[3]:
+  https://s3-eu-west-1.amazonaws.com/org.deadrooster.blog/rock-folk-janvier-2013.jpeg
+[4]: https://cabaretvauban.com
+[5]: https://www.rockmadeinfrance.com/encyclo/les-stunners/2237/
