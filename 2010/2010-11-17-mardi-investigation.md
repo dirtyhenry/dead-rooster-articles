@@ -5,6 +5,7 @@ description:
   Et si la façon la plus simple de perdre encore plus de temps qu'en regardant
   simplement des clips sur internet était de chercher à tout prix à créer un
   lien entre ces vidéos ?
+category: Éditorial
 authors:
   - Joe Gantdelaine
 wordpress_id: 723
@@ -33,26 +34,36 @@ comments:
 
 La musique a ceci d'insurpassable qu'elle acquiert la cohérence qu'on lui
 trouve. Je sais pas si c'est très compréhensible comme phrase, mais par exemple,
-aujourd'hui, j'écoutais ça :
+aujourd'hui, j'écoutais _Born In The U.K._ de Badly Drawn :
 
-{% youtube 0eDOEgdyN5U %}
+{% youtube BbjV5hflVEk %}
 
-Quand, au milieu de la chanson, il y a eu ces paroles : "With two years to
-wait/For the sound of Jilted John". Alors, du coup, j'ai regardé ça :
+Quand, au milieu de la chanson, il y a eu ces paroles :
+
+> With two years to wait  
+> For the sound of Jilted John.
+
+Alors, du coup, j'ai regardé _Jilted John_ de Graham Fellows :
 
 {% youtube iN45OjB-cCU %}
 
 Et puis, quand ce fut fini et que j'eus bien ri, je me mis à lire la page
-wikipédia de [Graham Fellows](http://fr.wikipedia.org/wiki/Graham_Fellows).
+wikipédia de [Graham Fellows][1].
 
 Et alors que je venais de dire à Dirty Henry que j'aurais bien vu ce Jilted John
-sur le podium des "chansons sur la frustration adolescente", pas loin de Teenage
-Kicks, je lus sur la page wikipédia sus-nommée que le morceau était
-"régulièrement diffusé par John Peel sur l'antenne de la BBC".
+sur le podium des "chansons sur la frustration adolescente", pas loin de
+[_Teenage Kicks_][2], je lus sur la page wikipédia sus-nommée que le morceau
+était "régulièrement diffusé par John Peel sur l'antenne de la BBC".
 
-Ce même John Peel qui n'avait qu'un souhait : être enterré au son de la chanson
-des Undertones.
+Ce même John Peel qui n'avait qu'un souhait : [être enterré au son de la chanson
+des Undertones][3].
 
 {% youtube oskM5XD_Yc4 %}
 
 Bref, tout est cohérent quoi !
+
+[1]: https://fr.wikipedia.org/wiki/Graham_Fellows
+[2]: https://song.link/fr/i/1208875642 "Teenage Kicks, The Undertones"
+[3]:
+  https://www.theguardian.com/media/2004/nov/13/radio.arts
+  "John Peel funeral coverage"
