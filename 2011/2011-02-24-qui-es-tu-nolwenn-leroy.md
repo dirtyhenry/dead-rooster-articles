@@ -6,6 +6,7 @@ description:
   fifille, vainqueur de la seconde édition de la {Star Academy} de TF1 en 2002,
   fricottant musicalement avec Laurent Voulzy et Alain Souchon. Bref, une chic
   fille, bien sous tout rapport. Ah oui, vraiment ?
+category: Fun Friday
 authors:
   - Dirty Henry
 wordpress_id: 789
@@ -110,18 +111,18 @@ sous tout rapport. Ah oui, vraiment ?
 
 Sauf si vous n'allumez jamais votre poste de télévision, vous n'êtes pas sans
 savoir que Mlle Leroy a récemment sorti un album de reprises de chansons
-bretonnes qu'elle a finement intitulé _Bretonne_. Quand un artiste de même pas
-30 ans sort un album de reprises, contenant par exemple _Tri Martolod_ et _La
-Jument de Michao_, on se dit que sa carrière commence certainement à sentir le
-sapin et qu'elle essaie de faire les fonds de poches de fans irréductibles avant
-de se retirer de la vie musicale. Mais la cupidité est-elle sa seule et unique
-motivation ?
+bretonnes qu'elle a finement intitulé [_Bretonne_][1]. Quand un artiste de même
+pas 30 ans sort un album de reprises, contenant par exemple _Tri Martolod_ et
+_La Jument de Michao_, on se dit que sa carrière commence certainement à sentir
+le sapin et qu'elle essaie de faire les fonds de poches de fans irréductibles
+avant de se retirer de la vie musicale. Mais la cupidité est-elle sa seule et
+unique motivation ?
 
 Là où je veux en venir, c'est que l'oreille avertie remarquera que sur son
 disque de reprises figure un titre, _Suite Sudarmoricaine_, jadis mis en stade
-par Alan Stivell :
+par **Alan Stivell** :
 
-{% vimeo x8b6na %}
+{% youtube UfFEpy8Kprk %}
 
 Bon, bien sûr, vous n'avez rien compris, vu que les paroles sont en breton… Mais
 voici une traduction des paroles :
@@ -141,7 +142,7 @@ voici une traduction des paroles :
 > Et ma grosse queue il a mangé  
 > Et le chien-loup, il est mort
 
-Vous l'aurez compris, Nolwenn se fait là la porte-parole de moeurs plus que
+Vous l'aurez compris, Nolwenn se fait là la porte-parole de mœurs plus que
 douteuses, et essaie de souffler à l'oreille de son public les dégueulasseries
 les plus ignominieuses.
 
@@ -154,4 +155,6 @@ Une nausée me prend et je dois donc vous laisser avec cette dernière version d
 titre, signée d'un certain Julian, qui joue le titre en version blues qui tâche
 & kilt/chaussettes :
 
-{% vimeo x6d184 %}
+{% youtube fBzqhiLCOaw %}
+
+[1]: https://album.link/fr/i/1443147908

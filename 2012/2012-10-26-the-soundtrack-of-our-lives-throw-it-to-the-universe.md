@@ -10,7 +10,6 @@ wordpress_id: 1129
 cover: the-soundtrack-of-our-lives.jpg
 date: 2012-10-26 01:25:26 +0200
 categories:
-  - Artistes
   - Review
   - Concert
   - Compile

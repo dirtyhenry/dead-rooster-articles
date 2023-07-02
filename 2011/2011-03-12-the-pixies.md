@@ -2,9 +2,7 @@
 layout: post
 title: The Pixies
 category: Encyclopédie approximative du Rock and Roll
-description:
-  Cette semaine, l'Encyclopédie Approximative vous propose THE article
-  approximatif !
+description: Une biographie très approximative de The Pixies.
 authors:
   - Joe Gantdelaine
 wordpress_id: 796
@@ -23,7 +21,7 @@ comments:
     date: 2011-03-12 15:28:59 +0100
     title: The Pixies
     content:
-      Merci beaucoup pour ces précisions…il est un jour où nous reviendrons sur
+      Merci beaucoup pour ces précisions… Il est un jour où nous reviendrons sur
       ce brave Hugues…
   - author: Dirty Henry
     author_email: dirtyhenry@gmail.com
@@ -63,7 +61,7 @@ musical : The R.E.M., The U2 ou encore The Radiohead. Et donc, dans le cas qui
 nous intéresse aujourd'hui : **The Pixies**.
 
 The Pixies est un groupe de Boston surtout connu du grand public pour avoir
-composé la BO de Fight Club. Il est constitué de Frank White au chant/guitare,
+composé la BO de _Fight Club_. Il est constitué de Frank White au chant/guitare,
 de Kim Gordon à la basse, d'un qui doit s'appeler Sandiego ou quelque chose dans
 le genre à la guitare lead, et d'un batteur.
 
@@ -72,9 +70,9 @@ principal compositeur du groupe. Mais en dépit de ce quasi-monopole, le groupe
 fonctionne vraiment grâce à l'alchimie existante entre ses membres. D'ailleurs,
 une fois The Pixies dissous, chaque membre peinera à retrouver le succès
 d'antan : Jack Black et ses Catholics aligneront des albums au mieux "fades",
-Kim parviendra à placer une seule chanson, Champagne Supernova au refrain péchu
-et entêtant ("Slowly walking down the hall/Faster than a cannonball"), au sommet
-des charts avec Breeders, le groupe formé avec sa sœur.
+Kim parviendra à placer une seule chanson, _Champagne Supernova_, au refrain
+péchu et entêtant ("Slowly walking down the hall/Faster than a cannonball"), au
+sommet des charts avec Breeders, le groupe formé avec sa sœur.
 
 Ayant acquis un statut de _groupe culte_, les quatre bougres se réunissent
 épisodiquement, le temps d'une tournée, principalement pour que chacun puisse
