@@ -38,9 +38,9 @@ l'heure de la chute libre des ventes de disques, il faut malgré tout reconnaît
 que les artistes ont besoin de moyen d'être rémunérés, pros et amateurs chacun à
 leur échelle. Dans ce domaine, les services les plus connus d'offre de streaming
 légal sont pour la plupart très peu bénéfiques pour les artistes (le pire
-service en la matière étant apparemment Spotify, cf.
-[cet infographique comparant les différentes sources de revenus des artistes](http://www.informationisbeautiful.net/2010/how-much-do-music-artists-earn-online/)).
-Les abonnements de musique en ligne, ce n'est donc pas la panacée.
+service en la matière étant apparemment Spotify, cf. [cet infographique
+comparant les différentes sources de revenus des artistes][1]). Les abonnements
+de musique en ligne, ce n'est donc pas la panacée.
 
 Il faut donc redonner de la valeur à la musique ! Frustré de la sombre merde que
 j'étais en train de devenir, entourés de MP3 récupérés à la va-vite sur le web,
@@ -78,8 +78,18 @@ vous, de s'adresser aux labels concernés ou aux sites fairplay en matière de
 rémunération d'artistes (type Bandcamp), au disquaire du coin s'il ne se fout
 pas de votre gueule au niveau de ses tarifs.
 
-En plus, avoir un vinyle sous le bras, ça donne
-[un air chic et snob](http://comedysmack.com/wp-content/uploads/RecordHipster.jpg).
-Trop cool.
+En plus, avoir un vinyle sous le bras, ça donne un air chic et snob. Trop cool.
+
+## Addendum
+
+Comment les disques vinyles sont fabriqués ?
+
+{% youtube Yd2SW-Fys6I %}
 
 [^1]: Outre 1440 × 900 - élue meilleure blague de l'histoire
+
+[1]:
+  https://informationisbeautiful.net/2010/how-much-do-music-artists-earn-online/
+[legacy]:
+  http://comedysmack.com/wp-content/uploads/RecordHipster.jpg
+  "Image désormais indisponible"
