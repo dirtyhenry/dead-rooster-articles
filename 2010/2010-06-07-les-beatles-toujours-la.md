@@ -9,10 +9,10 @@ authors:
 wordpress_id: 625
 cover: the-beatles-hairy.jpg
 date: 2010-06-07 14:46:25 +0200
-categories:
-  - Artistes
+category: News
 tags:
   - The Beatles
+  - Basket
 ---
 
 Que [ce vil coquin de Sean Lennon se rassure][i574], les Beatles ne sont pas
