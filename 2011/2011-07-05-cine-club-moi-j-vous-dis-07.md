@@ -14,7 +14,7 @@ category: Ciné-Club moi j'vous dis
 
 ## Catégorie "Vieux Films à voir en DVD"
 
-### _La Folle Ingénue/Cluny Brown_ - Ernst Lubitsch
+### [_Cluny Brown_][a] (_La Folle Ingénue_) - Ernst Lubitsch
 
 Cluny Brown est une fille un peu fofolle, pleine de vie mais qui ne se conforme
 pas assez aux règles de la bienséance de l'Angleterre de la fin des années 30.
@@ -24,31 +24,26 @@ inquiet pour son avenir, décide de la placer comme servante dans une grande
 famille de la banlieue londonienne. Cluny y retrouve un exilé tchécoslovaque,
 Adam Belinski, qu'elle a déjà croisé à Londres.
 
-{% youtube ebEe8i-4aus %}
+{% youtube hLUGbnkPsN4 %}
 
 Certes, le couple est séduisant (Jennifer Jones pétillante et pleine de charme
-comme une
-[Punky Brewster](http://www.dailymotion.com/video/x8tgu7_punky-brewster-generique-de-la-seri_creation)
-devenue adulte, Charles Boyer - acteur français ! - à l'accent continental ayant
-certainement inspiré le personnage de
-[Jean Girard](http://www.dailymotion.com/video/x3z07e_talladega-nights-ricky-meets-jean-g_shortfilms)),
-certes on rit de bien des choses (surtout de la famille du pharmacien, sosie
-avant l'heure d'Alain Chabat), mais le film reste moins brillant que d'autres
-œuvres de Lubitsch telles que _Jeux Dangereux/To Be or Not to Be_ (comédie au
-scénario génial sur l'invasion nazie en Pologne, remaké avec Mel Brooks en 1983)
-ou _Rendez-Vous/The Shop Around The Corner_ (une des toutes premières comédies
-romantiques de l'histoire).
+comme une [Punky Brewster][3] devenue adulte, Charles Boyer - acteur
+français ! - à l'accent continental ayant certainement inspiré le personnage de
+[Jean Girard][4]), certes on rit de bien des choses (surtout de la famille du
+pharmacien, sosie avant l'heure d'Alain Chabat), mais le film reste moins
+brillant que d'autres œuvres de Lubitsch telles que [_To Be or Not to Be_][b]
+(comédie au scénario génial sur l'invasion nazie en Pologne, [remaké avec Mel
+Brooks en 1983][c]) ou [_The Shop Around The Corner_][d] (une des toutes
+premières comédies romantiques de l'histoire).
 
 Notons malgré tout que Cluny Brown rejoint [Rusty James dans le clan de ceux
 qu'on appelle tout le temps par le prénom et le nom de famille][i824] (la
-classe) et que
-[le film est disponible en intégralité à cette adresse](http://video.google.com/videoplay?docid=-4912689158924394462).
+classe).
 
-La musique qui va avec : rien de bien folichon sinon
-[cette scène où le sosie d'Alain Chabat joue du piano](http://youtu.be/i7NVoM9pv94?t=2m38s).
-Du coup, ça donne envie de regarder _La Carioca_, mais pour ça il faut
-[cliquer ici](http://www.youtube.com/watch?v=HCdCMo9cd5k), car il y a toujours
-des gens pour bloquer l'intégration des vidéos sur les pages web. Les ringards !
+La musique qui va avec : rien de bien folichon sinon [cette scène où le sosie
+d'Alain Chabat joue du piano][5]. Du coup, ça donne envie de regarder _La
+Carioca_, mais pour ça il faut [cliquer ici][6], car il y a toujours des gens
+pour bloquer l'intégration des vidéos sur les pages web. Les ringards !
 
 ---
 
@@ -56,8 +51,8 @@ des gens pour bloquer l'intégration des vidéos sur les pages web. Les ringards
 
 Nous sommes à Ancône. Une chouette famille avec 2 enfants (un garçon et une
 fille qui ne s'appellent ni Bud, ni Kelly) coule des jours heureux. Sauf qu'un
-jour, Andrea (le fils) est accusé d'avoir volé un ammonite au lycée. Coupable ou
-pas, ce n'est pas bien clair mais toujours est-il que Giovanni (le père)
+jour, Andrea (le fils) est accusé d'avoir volé une ammonite au lycée. Coupable
+ou pas, ce n'est pas bien clair mais toujours est-il que Giovanni (le père)
 commence à douter de la probité de son fils, légère fissure dans la perfection
 familiale. Un dimanche, alors que chaque membre de la famille s'occupe à ses
 petites affaires, Andrea meurt dans un accident de plongée sous-marine.
@@ -65,16 +60,13 @@ petites affaires, Andrea meurt dans un accident de plongée sous-marine.
 Palme d'or à Cannes en 2001, le film observe la mécanique du décès d'Andrea sur
 les membres de la famille. Le père, psychanaliste, n'arrive plus à écouter ses
 patients, la mère s'entête à vouloir rencontrer le flirt de vacances d'Andrea,
-la soeur ne dit plus un mot et devient un
-[Joey Barton](http://www.youtube.com/watch?v=_ASkfY-1gjM) du basket féminin.
+la soeur ne dit plus un mot et devient un Joey Barton du basket féminin.
 
 Si la menace de l'ennui plane tout au long du film, on finit néanmoins par
 rentrer dans l'histoire, bizarrement structurée : une intrigue préliminaire qui
 dure presque la moitié du film, pas de réel enjeu sinon effectuer le travail du
 deuil. Néanmoins, on trouve sur le net quelques lectures intéressantes du film,
-que ce soit
-[ici](http://www.cineclubdecaen.com/realisat/moretti/chambredufils.htm) ou
-[là](http://www.cinetic.be/spip.php?article80).
+que ce soit [ici][1] ou [là][2].
 
 La musique qui va avec : _By This River_ de Brian Eno
 
@@ -144,3 +136,19 @@ Et sinon, par ordre de recommandation :
 [i769]: {% post_url 2011/2011-01-27-top-cine-2010 %}
 
 [i333]: {% post_url 2006/2006-09-18-thumbsucker-mike-mills %}
+
+[1]: https://www.cineclubdecaen.com/realisateur/moretti/chambredufils.htm
+[2]:
+  https://web.archive.org/web/20071005065649/http://www.cinetic.be/spip.php?article80
+[3]: https://www.dailymotion.com/video/x8tgu7 "Générique de Punky Brewster"
+[4]:
+  https://www.dailymotion.com/video/x3z07e
+  "Talladega Nights - Ricky meets Jean Girard"
+[5]: https://www.youtube.com/watch?v=i7NVoM9pv94&t=158s
+[6]:
+  https://www.youtube.com/watch?v=cfgfQoN-zHk
+  "La Carioca dans La Cité de la Peur"
+[a]: https://www.themoviedb.org/movie/52270-cluny-brown
+[b]: https://www.themoviedb.org/movie/198-to-be-or-not-to-be
+[c]: https://www.themoviedb.org/movie/22998-to-be-or-not-to-be
+[d]: https://www.themoviedb.org/movie/20334-the-shop-around-the-corner
