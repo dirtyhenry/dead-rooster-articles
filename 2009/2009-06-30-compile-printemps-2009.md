@@ -6,10 +6,9 @@ authors:
 wordpress_id: 638
 cover: vieux-banc-en-bois.jpg
 date: 2009-06-30 20:48:00 +0200
-categories:
-  - Catégories
+category: Compile
 tags:
-  - Compilation
+  - Metric
 ---
 
 1. Phoenix - _Lisztomania_
