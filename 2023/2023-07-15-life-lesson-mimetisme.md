@@ -11,8 +11,6 @@ tags:
   - Basket
 ---
 
-# Life Lesson : Régis est-il vraiment un con ?
-
 Quand on regarde la vidéo, le constat est implacable : Marcus Bingham Jr. est un
 con !
 

@@ -12,5 +12,6 @@ tags:
 
 {% youtube rPFGWVKXxm0 %}
 
-GRRR! sort bientôt. Il n'a pas été écrit par
-[les Robins des Bois](http://youtu.be/7GO-Ze9cWh4).
+GRRR! sort bientôt. Il n'a pas été écrit par [les Robins des Bois][1].
+
+[1]: https://youtu.be/z0qW9P-uYfM "Extrait de RRRrrr!!!"

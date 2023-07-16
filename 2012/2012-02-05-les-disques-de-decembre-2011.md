@@ -133,7 +133,7 @@ attacher vraiment.
 
 Quelques bons trucs mais bien trop sirupeux de manière générale, la voix toute
 en murmures saoule assez rapidement. Se souvenir du conseil que Radiohead a
-donné dans *Pablo Honey* : [Stop Whispering](http://youtu.be/k2WG_0-CgYA).
+donné dans *Pablo Honey* : [Stop Whispering][1].
 
 ### MANSFIELD. TYA - _Nyx_
 
@@ -181,3 +181,5 @@ Réalisée avec Sortmash.
 [i972]: {% post_url 2011/2011-12-16-the-mary-onettes-once-i-was-pretty %}
 
 [i936]: {% post_url 2011/2011-10-25-dum-dum-girls-only-in-dreams %}
+
+[1]: https://song.link/fr/i/1097862240
