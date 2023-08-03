@@ -5,11 +5,9 @@ authors:
   - Dirty Henry
 wordpress_id: 559
 date: "2010-01-03 12:29:36 +0100"
-categories:
-  - Artistes
+category: Le monde va mal
 tags:
   - The Who
-cover: dessin-enfants-balancoire.jpg
 ---
 
 Une association de protection de l'enfance veut empêcher The Who de jouer à la

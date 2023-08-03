@@ -12,5 +12,8 @@ tags:
 
 {% youtube ygsrQhSvLTo %}
 
-[_Turn On The Bright Lights_ vient de fêter ses 10 ans](https://www.stereogum.com/1129252/turn-on-the-bright-lights-turns-10/reviews/the-anniversary/).
-Alors on le fête, c'est normal.
+[_Turn On The Bright Lights_ vient de fêter ses 10 ans][1]. Alors on le fête,
+c'est normal.
+
+[1]:
+  https://www.stereogum.com/1129252/turn-on-the-bright-lights-turns-10/reviews/the-anniversary/

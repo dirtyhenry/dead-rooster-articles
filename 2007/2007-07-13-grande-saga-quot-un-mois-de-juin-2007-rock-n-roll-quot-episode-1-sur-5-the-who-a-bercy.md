@@ -1,16 +1,12 @@
 ---
 layout: post
 title:
-  "Grande Saga : &quot;Un mois de juin 2007 rock'n'roll&quot; - Episode 1 sur 5
-  : The Who à Bercy"
+  "Grande Saga : ‘Un mois de juin 2007 rock'n'roll’ (1/5) : The Who à Bercy"
 author: Dirty Henry
 wordpress_id: 394
 date: "2007-07-13 11:59:00 +0200"
-categories:
-  - Catégories
-  - Artistes
+category: Concert
 tags:
-  - Concert
   - The Who
 cover: the-who-pete-townshend.jpg
 ---

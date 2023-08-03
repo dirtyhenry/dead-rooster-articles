@@ -14,8 +14,8 @@ tags:
   - Katerine
 ---
 
-La reprise de **Katerine, Francis et ses peintres** de la semaine est _Je pense
-à toi_ d'Amadou & Mariam.
+La reprise de **Katerine, Francis et ses peintres** de la semaine est [_Je pense
+à toi_][1] d'Amadou & Mariam.
 
 L’originale :
 
@@ -27,3 +27,5 @@ Pas de changement au classement :
 - 2. Benji, Rodrigue et Joe, 5pts
 - 5. Marion, David et Loïc, 4pts
 - 8. Le reste du monde à 0 pt
+
+[1]: https://song.link/fr/i/1442717495
