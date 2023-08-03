@@ -10,8 +10,8 @@ category: TV Show
 
 I’m one of those people.
 
-I just binge-watched the fourth season of _The Crown_. And now I want to write
-something. Dirty Henry told me to write what I feel.
+I just binge-watched the fourth season of [_The Crown_][1]. And now I want to
+write something. Dirty Henry told me to write what I feel.
 
 What do I feel? Guilty. Relieved. But also hungry for more.
 
@@ -38,3 +38,5 @@ Family.
 
 Do you think Harry and Meghan quit the family to make season 6 (or 7 - who knows
 when they’ll come in) just as interestingly scandalous as the previous seasons?
+
+[1]: https://www.themoviedb.org/tv/65494-the-crown
