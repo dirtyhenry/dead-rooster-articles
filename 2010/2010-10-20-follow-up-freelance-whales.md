@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Follow-Up : Freelance Whales"
-description:
-  Je vous avais parlé des {{Freelance Whales}} [ici](594). Que deviennent-ils ?
+description: Je vous avais déjà parlé des Freelance Whales. Que deviennent-ils ?
 authors:
   - Dirty Henry
 wordpress_id: 716

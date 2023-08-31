@@ -2,10 +2,10 @@
 layout: post
 title: Qui es-tu Nolwenn Leroy ?
 description:
-  Vous connaissez sûrement, au moins de vue, {{Nolwenn Leroy}}. Gentille
-  fifille, vainqueur de la seconde édition de la {Star Academy} de TF1 en 2002,
-  fricottant musicalement avec Laurent Voulzy et Alain Souchon. Bref, une chic
-  fille, bien sous tout rapport. Ah oui, vraiment ?
+  Vous connaissez sûrement, au moins de vue, Nolwenn Leroy. Gentille fifille,
+  vainqueur de la seconde édition de la Star Academy de TF1 en 2002, fricottant
+  musicalement avec Laurent Voulzy et Alain Souchon. Bref, une chic fille, bien
+  sous tout rapport. Ah oui, vraiment ?
 category: Fun Friday
 authors:
   - Dirty Henry

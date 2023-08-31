@@ -20,10 +20,10 @@ comments:
     date: "2008-04-04 12:01:32 +0200"
     title: Trois degrés de séparation seulement…
     content:
-      "Et Zooey Deschanel chante aussi sur l’album de Coconut Records.\r\nEt
-      Kirsten Dunst qui joue Marie-Antoinette, aussi.\r\nEt Jason Scwhartzman
-      joue sur l’album de Ben Lee, qui est l’ex de Clare Danes qui joue dans The
-      Hours avec Meryl Streep.\r\nC’est dingue!"
+      Et Zooey Deschanel chante aussi sur l’album de Coconut Records. Et Kirsten
+      Dunst qui joue Marie-Antoinette, aussi. Et Jason Scwhartzman joue sur
+      l’album de Ben Lee, qui est l’ex de Clare Danes qui joue dans The Hours
+      avec Meryl Streep. C’est dingue!
 ---
 
 Derrière la théorie des [six degrés de séparation][1] se cache une formalisation

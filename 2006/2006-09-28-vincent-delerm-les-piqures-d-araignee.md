@@ -17,10 +17,10 @@ comments:
     author_email: dirtyhenry@gmail.com
     date: "2006-10-01 15:45:43 +0200"
     title: Chronique morgueuse du 3ème album de Vincent Delerm
-    content:
-      'A noter dans les Inrocks : "les textes de Delerm continuent d''évoquer
-      Nick Hornby, mais un Nick Hornby jouant à Taboo contre Ray Davies, avec
-      l''interdiction de citer noms propres, de rues ou de sportifs."'
+    content: >-
+      À noter dans les Inrocks : "les textes de Delerm continuent d’évoquer Nick
+      Hornby, mais un Nick Hornby jouant à Taboo contre Ray Davies, avec
+      l’interdiction de citer noms propres, de rues ou de sportifs."
 cover: vincent-delerm.jpg
 ---
 

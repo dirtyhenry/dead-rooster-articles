@@ -2,9 +2,9 @@
 layout: post
 title: Que devient 3 Guys Never In
 description:
-  "{{3 Guys Never In}} avait signé en 2005 un excellent album du même nom. Sans
+  3 Guys Never In avait signé en 2005 un excellent album du même nom. Sans
   nouvelles depuis, j'ai emprunté les autoroutes de l'information pour savoir ce
-  qu'ils étaient devenus."
+  qu'ils étaient devenus.
 authors:
   - Dirty Henry
 wordpress_id: 721

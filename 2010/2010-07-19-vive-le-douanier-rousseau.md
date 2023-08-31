@@ -2,8 +2,8 @@
 layout: post
 title: Vive le Douanier Rousseau
 description:
-  La reprise de {{Katerine, Francis et ses peintres}} de la semaine est {Vive le
-  Douanier Rousseau} de la Compagnie Créole. Enfin !
+  La reprise de Katerine, Francis et ses peintres de la semaine est Vive le
+  Douanier Rousseau de la Compagnie Créole. Enfin !
 authors:
   - Dirty Henry
 wordpress_id: 654

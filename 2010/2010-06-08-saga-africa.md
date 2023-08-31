@@ -2,8 +2,8 @@
 layout: post
 title: Saga Africa
 description:
-  La reprise de {{Katerine, Francis et ses peintres}} de la semaine est {Saga
-  Africa} de Yannick Noah. Mais où vont-ils chercher tout ça ?
+  La reprise de Katerine, Francis et ses peintres de la semaine est Saga Africa
+  de Yannick Noah. Mais où vont-ils chercher tout ça ?
 authors:
   - Dirty Henry
 wordpress_id: 626

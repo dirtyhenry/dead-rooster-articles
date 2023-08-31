@@ -2,9 +2,9 @@
 layout: post
 title: Neil Young
 category: Encyclopédie approximative du Rock and Roll
-description:
-  "Cette semaine, l'Encyclopédie traite de l'éternelle {jeunesse} : voici la
-  carrière approximative du grand {{Neil Young}} messieurs-dames !"
+description: >-
+  Cette semaine, l'Encyclopédie traite de l'éternelle jeunesse : voici la
+  carrière approximative du grand Neil Young messieurs-dames !
 authors:
   - Joe Gantdelaine
 wordpress_id: 804

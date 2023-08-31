@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Rêvons d'un autre monde
-description:
-  "{{Mystery Jets}} s'apprête à sortir son 3ème album. Voici le clip du 1er
-  single qui en est extrait : {Dreaming Of Another World}."
+description: >-
+  Mystery Jets s'apprête à sortir son 3ème album. Voici le clip du 1er single
+  qui en est extrait : Dreaming Of Another World.
 authors:
   - Dirty Henry
 wordpress_id: 629

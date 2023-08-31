@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Le Corail bientôt de retour
-description: Ici on aime bien {{The Coral}}. Alors on prêche la bonne parole…
+description: Ici on aime bien The Coral. Alors on prêche la bonne parole…
 authors:
   - Dirty Henry
 wordpress_id: 630

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Pandas bourrés
-description:
-  "{Drunk Girls} ou comment {{LCD Soundsystem}} est en bonne voie pour être
-  aussi convaincant sur disque que sur scène…"
+description: >-
+  Drunk Girls, ou comment LCD Soundsystem est en bonne voie pour être aussi
+  convaincant sur disque que sur scène…
 authors:
   - Dirty Henry
 wordpress_id: 599

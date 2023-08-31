@@ -2,8 +2,8 @@
 layout: post
 title: Les Crocodiles dorment pour toujours
 description:
-  Groupe de San Francisco à découvrir, {{Crocodiles}} offre un nouveau single,
-  {Sleep Forever}, et on redécouvre leur tube, {Neon Jesus}.
+  Groupe de San Francisco à découvrir, Crocodiles offre un nouveau single, Sleep
+  Forever, et on redécouvre leur tube, Neon Jesus.
 authors:
   - Dirty Henry
 wordpress_id: 641

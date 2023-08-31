@@ -2,8 +2,8 @@
 layout: post
 title: Quand t'es dans le désert
 description:
-  La reprise de {{Katerine, Francis et ses peintres}} de la semaine est {Quand
-  t'es dans le désert} de Jean-Patrick Capdevielle.
+  La reprise de Katerine, Francis et ses peintres de la semaine est Quand t'es
+  dans le désert de Jean-Patrick Capdevielle.
 authors:
   - Dirty Henry
 wordpress_id: 639

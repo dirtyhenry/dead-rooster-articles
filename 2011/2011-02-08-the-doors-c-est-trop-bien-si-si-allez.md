@@ -65,10 +65,10 @@ comments:
     date: 2012-04-23 10:08:27 +0200
     title: The Doors, c'est trop bien ? Si, si, allez !
     content:
-      'Il n''y a pas de guitare basse mais il y a un piano basse. T''inquiète,
-      je suis au courant. La ligne de basse, qu''elle soit jouée au piano ou à
-      la guitare basse, reste une ligne de basse. Ps : "la basse est peut-être
-      chiante" (ne pas oublier le trait d''union et de conjuguer les adjectifs
+      'Il n’y a pas de guitare basse mais il y a un piano basse. T’inquiète, je
+      suis au courant. La ligne de basse, qu’elle soit jouée au piano ou à la
+      guitare basse, reste une ligne de basse. Ps : "la basse est peut-être
+      chiante" (ne pas oublier le trait d’union et de conjuguer les adjectifs
       féminins)'
 ---
 

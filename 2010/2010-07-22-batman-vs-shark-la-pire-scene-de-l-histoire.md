@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Batman vs Shark : la pire scène de l'histoire ?"
-description:
-  "Entre le 1er Batman, {Batman : The Movie}, et le dernier en date, {The Dark
-  Knight}, plusieurs paliers semblent avoir été franchis par le cinéma…"
+description: >-
+  Entre le 1er Batman, 'Batman : The Movie', et le dernier en date, The Dark
+  Knight, plusieurs paliers semblent avoir été franchis par le cinéma…
 authors:
   - Dirty Henry
 wordpress_id: 658
@@ -31,8 +31,8 @@ comments:
     date: 2010-08-08 15:00:31 +0200
     title: "Batman vs Shark : la pire scène de l'histoire ?"
     content:
-      "Tu pourrais préciser que ce premier Batman est une parodie des
-      comics…\r\nDécidément ce blog…"
+      Tu pourrais préciser que ce premier Batman est une parodie des comics…
+      Décidément ce blog…
 ---
 
 Entre le 1er Batman, _Batman : The Movie_, et le dernier en date, _The Dark

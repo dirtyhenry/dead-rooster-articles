@@ -2,9 +2,9 @@
 layout: post
 title: Comme un avion sans Capri
 description:
-  Les reprises de {{Katerine, Francis et ses peintres}} des deux dernières
-  semaines sont {Capri c'est fini} d'Hervé Vilard et {Comme un avion sans aile}
-  de Charlélie Couture.
+  Les reprises de Katerine, Francis et ses peintres des deux dernières semaines
+  sont Capri c'est fini d'Hervé Vilard et Comme un avion sans aile de Charlélie
+  Couture.
 authors:
   - Dirty Henry
 wordpress_id: 672
