@@ -26,9 +26,9 @@ comments:
     author_email: dirtyhenry@gmail.com
     date: 2011-11-05 18:11:29 +0100
     title: The Rolling Stones
-    content:
-      'N''oublions pas qu''un ancien membre du groupe a crée une très fameuse
-      méthode d''anglais : "Mick Taylor Is Rich".'
+    content: >-
+      N’oublions pas qu’un ancien membre du groupe a crée une très fameuse
+      méthode d’anglais : "Mick Taylor Is Rich".
 ---
 
 Souvent considéré comme la réponse du berger à la bergère, les Rolling Stones

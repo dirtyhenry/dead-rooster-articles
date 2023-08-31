@@ -1,9 +1,9 @@
 ---
 layout: post
 title: What's up Sleater-Kinney ?
-description:
-  "{{Sleater-Kinney}} est en coma profond et c'est dommage. Mais son ex-leader,
-  Corin Tucker, est de retour dans les actus !"
+description: >-
+  Sleater-Kinney est en coma profond et c'est dommage. Mais son ex-leader, Corin
+  Tucker, est de retour dans les actus !
 authors:
   - Dirty Henry
 wordpress_id: 628

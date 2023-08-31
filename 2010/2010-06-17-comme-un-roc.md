@@ -2,8 +2,8 @@
 layout: post
 title: Comme un roc
 description:
-  La reprise de {{Katerine, Francis et ses peintres}} de la semaine est {Comme
-  un roc} de Nâdiya. Jamais à une connerie près…
+  La reprise de Katerine, Francis et ses peintres de la semaine est Comme un roc
+  de Nâdiya. Jamais à une connerie près…
 authors:
   - Dirty Henry
 wordpress_id: 631

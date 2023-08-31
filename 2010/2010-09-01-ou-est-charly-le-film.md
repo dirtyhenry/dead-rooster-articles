@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Où est Charly ? : le film"
-description:
-  '{{Miniature Tigers}}, un groupe de Phoenix, diffuse le clip de son single
-  {Bullfighter Jacket}, sorte de livre mouvant de ["Où est Charly
-  ?"](http://fr.wikipedia.org/wiki/O%C3%B9_est_Charlie_%3F).'
+description: >-
+  Miniature Tigers, un groupe de Phoenix, diffuse le clip de son single
+  Bullfighter Jacket, sorte de livre mouvant de "Où est Charly ?"
 authors:
   - Dirty Henry
 wordpress_id: 693

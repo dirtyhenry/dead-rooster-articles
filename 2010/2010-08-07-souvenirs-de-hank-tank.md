@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Souvenirs de Hank & Tank
-description:
-  "{{Hank & Tank}} : un groupe oublié qu'on retrouve 8 ans après. Soyons pointus
-  et faisons le point sur un obscur groupe indé islandais."
+description: >-
+  Hank & Tank : un groupe oublié qu'on retrouve 8 ans après. Soyons pointus et
+  faisons le point sur un obscur groupe indé islandais.
 authors:
   - Dirty Henry
 wordpress_id: 674

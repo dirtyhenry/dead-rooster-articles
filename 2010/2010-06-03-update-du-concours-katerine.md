@@ -3,9 +3,8 @@ layout: post
 title: Update du concours Katerine
 description:
   Après 10 jours de congés, il est temps de refaire un point sur le concours
-  Katerine. Les 2 dernières reprises de {{Katerine, Francis et ses peintres}}
-  sont {Sympathique} de Pink Martini (aka {Je ne veux pas travailler}) et {Ma
-  Benz} de NTM.
+  Katerine. Les 2 dernières reprises de Katerine, Francis et ses peintres sont
+  Sympathique de Pink Martini (aka Je ne veux pas travailler) et Ma Benz de NTM.
 authors:
   - Dirty Henry
 wordpress_id: 622

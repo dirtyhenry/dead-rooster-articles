@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Le porno, c'est même carrément bien
-description:
-  "{{The New Pornographers}} sortent un nouveau single. Et il est encore très
-  bien…"
+description: >-
+  The New Pornographers}} sortent un nouveau single. Et il est encore très bien…
 authors:
   - Dirty Henry
 wordpress_id: 627

@@ -96,19 +96,19 @@ quand Nada Surf fait partie des “deux concerts précédents” !). C’est al
 qu’arrive la montée en puissance tant espérée : avec VV, chanteuse de **The
 Kills**, le rock, le vrai, fait son apparition ! Musiques entêtantes et tenue
 érotisante sont de sortie. Il ne manque plus que la drogue pour que la sainte
-trinité rock’n''rollesque soit remise au goût du jour. Les chansons
-s’enchaînent, les poses lascives aussi. Au bout de 45 minutes, on se dit que
-cela manque éventuellement un peu de nuances, mais quand le spectacle est beau,
-on se tait ! Tout émoustillé, le public se dirige alors vers la petite scène,
-pour assister à LA révélation du festival : **Heavy Trash**. Emmené par ce bon
-vieux Jon Spencer, qui s’est entouré des bons vieux scandinaves de Powersolo
-(quel flair !), ce bon vieux groupe distille du bon vieux wock’n''woll, tout en
-bonne vieille banane et bonne vieille contrebasse ! _Ohhhh, fuckin’ good old
-tune !_ Les titres, impossibles à dater, semblent tous provenir du coffret
-_Rockin’ bones_ de Rhino. Mais peu importe s’ils sont d’hier ou d’aujourd’hui,
-tout cela fonctionne, on voudrait crier “ouh yeahhhh !” toutes les dix secondes,
-mais nos pas de danse fifties demandent trop de concentration pour cela. Après
-le concert, l’envie de s’acheter un peigne et de la brillantine n’a jamais été
+trinité rock’n’rollesque soit remise au goût du jour. Les chansons s’enchaînent,
+les poses lascives aussi. Au bout de 45 minutes, on se dit que cela manque
+éventuellement un peu de nuances, mais quand le spectacle est beau, on se tait !
+Tout émoustillé, le public se dirige alors vers la petite scène, pour assister à
+LA révélation du festival : **Heavy Trash**. Emmené par ce bon vieux Jon
+Spencer, qui s’est entouré des bons vieux scandinaves de Powersolo (quel
+flair !), ce bon vieux groupe distille du bon vieux wock’n’woll, tout en bonne
+vieille banane et bonne vieille contrebasse ! _Ohhhh, fuckin’ good old tune !_
+Les titres, impossibles à dater, semblent tous provenir du coffret _Rockin’
+bones_ de Rhino. Mais peu importe s’ils sont d’hier ou d’aujourd’hui, tout cela
+fonctionne, on voudrait crier “ouh yeahhhh !” toutes les dix secondes, mais nos
+pas de danse fifties demandent trop de concentration pour cela. Après le
+concert, l’envie de s’acheter un peigne et de la brillantine n’a jamais été
 aussi forte !
 
 Loin de cette musique débonnaire et dansante, les pachydermiques **Raconteurs**
@@ -123,9 +123,9 @@ première fois ; en substance : “on retourne dans les loges, faut attendre qu
 les Raconteurs finissent !”. Car, en effet, au loin, on voit ce brave Jack
 White, ce non moins brave Brendan Benson et leurs collègues des Greenhornes,
 s’évertuer à proposer à la foule étonnamment compacte qui les admire encore, des
-solos interminables (”combien t’en veux ? J’t''en fais 7 minutes, ok ! Pis
-tiens, je t’offre 30 secondes en plus…non, de rien, c’est pour moi !” aurait dit
-ce sacripant de Jack au charcutier du coin…). Mais comme toute chose, même
+solos interminables (”combien t’en veux ? J’t’en fais 7 minutes, ok ! Pis tiens,
+je t’offre 30 secondes en plus…non, de rien, c’est pour moi !” aurait dit ce
+sacripant de Jack au charcutier du coin…). Mais comme toute chose, même
 mauvaise, a une fin, arrive tout de même le moment où les 5 bougres quittent la
 scène, et où les 6 ou 7 (il était tard…) déglingos du **Brian Jonestown
 Massacre** déboulent. Et là, nouvelle claque ! Concert fabuleux à plus d’un

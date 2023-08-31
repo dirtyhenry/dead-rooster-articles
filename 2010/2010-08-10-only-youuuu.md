@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Only youuuu !
-description: Un titre de {{Jason Falkner}}, ça ne se refuse pas !
+description: Un titre de Jason Falkner, ça ne se refuse pas !
 authors:
   - Joe Gantdelaine
 wordpress_id: 679

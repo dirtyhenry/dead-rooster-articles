@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Parfois, on s'demande !
-description:
-  "{En général}, quand on commence un groupe, on se voit déjà en haut de
-  l'affiche, avec un nom qui claque, écrit avec des néons rouges. On passe
-  ensuite des heures à imaginer l'aspect visuel, à peaufiner le concept de la
-  pochette du premier album, avant même de créer les futurs tubes.\r\nBon, ça,
-  c'est {en général}… Et apparemment, {{Acid House Kings}} est passé directement
-  à la composition musicale !"
+description: >-
+  En général, quand on commence un groupe, on se voit déjà en haut de l'affiche,
+  avec un nom qui claque, écrit avec des néons rouges. On passe ensuite des
+  heures à imaginer l'aspect visuel, à peaufiner le concept de la pochette du
+  premier album, avant même de créer les futurs tubes. Bon, ça, c'est en
+  général… Et apparemment, Acid House Kings est passé directement à la
+  composition musicale !
 authors:
   - Joe Gantdelaine
 wordpress_id: 699

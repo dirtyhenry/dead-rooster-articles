@@ -3,8 +3,8 @@ layout: post
 title: "Compile MP3 du NET #05"
 description:
   Une sélection des meilleurs MP3 légalement disponibles au téléchargement des
-  dernières semaines. Au programme cette semaine, {{Foxes in Fiction}} revient
-  en vedette pour ouvrir et fermer la compile avec une reprise de Katy Perry.
+  dernières semaines. Au programme cette semaine, Foxes in Fiction revient en
+  vedette pour ouvrir et fermer la compile avec une reprise de Katy Perry.
 authors:
   - Dirty Henry
 wordpress_id: 712

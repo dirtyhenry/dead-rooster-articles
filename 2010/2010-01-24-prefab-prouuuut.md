@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Prefab Prouuuut !
-description:
-  '"La critique est aisée, et l''art est difficile", comme disait
-  <s>Voltaire</s> Destouches. Faisant fi de la sagesse de <s>François-Marie
-  Arouet</s> Philippe Néricault, restons planqués derrière notre écran
-  d''ordinateur, et balançons un peu sur ce qui est considéré comme, qui un
-  monument, qui une pierre angulaire, qui un must have des 80''s : j''ai nommé
-  {Steve McQueen} de {{Prefab Sprout}}.'
+description: >-
+  "La critique est aisée, et l’art est difficile", comme disait <s>Voltaire</s>
+  Destouches. Faisant fi de la sagesse de <s>François-Marie Arouet</s> Philippe
+  Néricault, restons planqués derrière notre écran d’ordinateur, et balançons un
+  peu sur ce qui est considéré comme, qui un monument, qui une pierre angulaire,
+  qui un must have des 80’s : j’ai nommé Steve McQueen de Prefab Sprout.
 authors:
   - Joe Gantdelaine
 wordpress_id: 566

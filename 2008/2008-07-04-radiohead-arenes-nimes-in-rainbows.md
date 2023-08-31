@@ -17,22 +17,22 @@ comments:
     date: "2008-07-07 19:32:00 +0200"
     title: Une tête de radio au pays des Jean-Mi
     content:
-      "Hello\r\n\r\nC’est un détail, mais je m’étonne que tu n’aies pas entendu
-      “Karma Police” !!!!\r\nSinon, ils avaient joué “Creep” à Rock en Seine 2
-      ans auparavant et il paraît qu’ils la jouent rarement. Patience donc, ça
+      Hello. C’est un détail, mais je m’étonne que tu n’aies pas entendu “Karma
+      Police” !!! Sinon, ils avaient joué “Creep” à Rock en Seine 2 ans
+      auparavant et il paraît qu’ils la jouent rarement. Patience donc, ça
       arrive. On comprend qu’ils n’aient pas envie de la jouer jusqu’à lasser.
       D’ailleurs, j’ai été beaucoup plus touchée par le concert de Nîmes que
-      celui à St Cloud. Meilleur son et plus d’émotions.\r\n\r\nVoilà, sinon, la
-      photo de ma copine est superbe, bien vu pour le choix !"
+      celui à St Cloud. Meilleur son et plus d’émotions. Voilà, sinon, la photo
+      de ma copine est superbe, bien vu pour le choix !"
   - author: Dirty Henry
     author_email: dirtyhenry@gmail.com
     date: "2008-07-07 20:07:28 +0200"
     title: Une tête de radio au pays des Jean-Mi
-    content:
-      "Tu veux dire que tu l’as entendu ? En tout cas, le site suivant est
-      d’accord avec moi : Karma Police n’était pas dans la trackliste.\r\nJ’y
-      étais le 15, peut-être l’ont-ils jouée le 14
-      ?\r\nhttp://www.radiohead.fr/15-juin-2008-Nimes-arenes-France"
+    content: >-
+      Tu veux dire que tu l’as entendu ? En tout cas, le site suivant est
+      d’accord avec moi : Karma Police n’était pas dans la trackliste. J’y étais
+      le 15, peut-être l’ont-ils jouée le 14 ?
+      http://www.radiohead.fr/15-juin-2008-Nimes-arenes-France
   - author: Lison
     author_email: lison.lierre@yahoo.fr
     date: "2008-07-08 23:14:00 +0200"

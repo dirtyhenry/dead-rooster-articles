@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Grass Widow's Fried Egg
-description: Voici le clip de {Fried Egg} de {{Grass Widow}}.
+description: Voici le clip de Fried Egg de Grass Widow.
 authors:
   - Dirty Henry
 wordpress_id: 697

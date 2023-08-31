@@ -12,12 +12,12 @@ comments:
     date: "2008-09-23 22:23:00 +0200"
     title: Histoire de la télé censurée
     content:
-      "Mec, j'ai 22 ans, j'ai vu cela à la télé en live alors que j'avais 7 ou 8
-      ans.\r\nDepuis je mène un combat sans relache pour la reconnaissance de
-      cette mère héroïque qui sauva Guiguite.\r\nMais où va t-on, le temps avait
-      même transformé dans mon esprit Guiguite le hamster, en Kikite le Cochon
-      d'Inde !!\r\nC'est ça que l'on veut ?? L'oubli et le mépris des risques du
-      quotidien ?\r\nTu n'es pas seul dans la lutte mon ami !"
+      Mec, j'ai 22 ans, j'ai vu cela à la télé en live alors que j'avais 7 ou 8
+      ans. Depuis je mène un combat sans relache pour la reconnaissance de cette
+      mère héroïque qui sauva Guiguite. Mais où va t-on, le temps avait même
+      transformé dans mon esprit Guiguite le hamster, en Kikite le Cochon
+      d'Inde !! C'est ça que l'on veut ?? L'oubli et le mépris des risques du
+      quotidien ? Tu n'es pas seul dans la lutte mon ami !
 cover: hamster-halteres.jpg
 tags:
   - Guiguite le hamster
