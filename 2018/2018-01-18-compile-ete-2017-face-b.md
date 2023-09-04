@@ -8,6 +8,7 @@ category:
   - Compile
 tags:
   - Arcade Fire
+  - King Khan
   - Nick Cave
   - Sharon Van Etten
   - The Velvet Underground
