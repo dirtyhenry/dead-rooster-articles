@@ -5,6 +5,7 @@ wordpress_id: 288
 authors:
   - Dirty Henry
 cover: automne-2005.jpg
+category: Compile
 tags:
   - Arctic Monkeys
   - Babyshambles

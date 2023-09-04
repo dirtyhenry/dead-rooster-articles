@@ -5,8 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 303
 date: "2006-04-20 17:01:00 +0200"
-categories:
-  - Catégories
+category: News
 tags:
   - Camille
   - The Strokes

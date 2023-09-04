@@ -6,15 +6,15 @@ authors:
 wordpress_id: 221
 date: "2008-11-25 01:02:33 +0100"
 categories:
-  - Catégories
-  - Artistes
-tags:
+  - Review
   - Concert
-  - Albums
+tags:
   - Oasis
   - Liam Gallagher
 cover: oasis.jpg
 ---
+
+## Avant Dig Out Your Soul
 
 Combien de jeux de mots pourris (Noel en Novembre, **Oasis** : la traversée du
 désert, Du vague à Liam) ? Combien de critiques narquoises ? Combien de :
@@ -43,6 +43,8 @@ Alors quid de **_Dig out your soul_** ? Est-ce que l'ascension continue ou bien
 assiste-t-on à une rechute ? Et qu'en est-il de l'aspect live du groupe ?
 Assure-t-il autant que les années passées ? Voici donc les deux points que nous
 allons aborder.
+
+## L’album
 
 Et tout d'abord, Oasis en studio, cela vaut-il toujours la peine de s'y
 attarder ? La réponse est sans équivoque. Le quartet/quintet/sextet (faut-il
@@ -113,6 +115,8 @@ pleurerez-vous [une petite centaine de larmes][5]).
 Pour résumer l'aspect "Oasis en studio", par pitié, ne parlons plus de retour
 tout court, mais plutôt de retour à un (très) bon niveau !
 
+## Le live au Bataclan
+
 {% asset oasis-2.jpg %}
 
 Intéressons-nous maintenant au côté live du groupe. Et pour cela, quoi de mieux
@@ -153,20 +157,18 @@ message aux autres, sur ses envies de renouvellement de la liste des titres
 joués…Pour l'instant, ce ne sont que supputations ! Réponse définitive,
 peut-être, le 31 janvier, après leur venue à Bordeaux !
 
-Bref, concernant le versant "Oasis en live", c'était mieux avant ! (L'Olympia de
-2005, en voilà une sacrée référence qualitative !)
+Bref, concernant le versant "Oasis en live", c'était mieux avant ! ([l'Olympia
+de 2005][i2], en voilà une sacrée référence qualitative !)
 
-[1]: http://www.mediadico.com/dictionnaire/anglais-francais/blur/1
-[2]:
-  http://jiwa.fr/track/The-Doors-1900/The-Best-of-the-Doors-disc-1-12381/Five-To-One-1364725.html
-[3]:
-  http://jiwa.fr/track/Joe-Cocker-2223/Greatest-Hits-19299/You-Can-Leave-Your-Hat-On-28728.html
-[4]: http://jiwa.fr/track/The-Beatles-28/1-17182/Come-Together-305331.html
-[5]:
-  http://jiwa.fr/track/-the-Mysterians-10234/96-Tears-18600/96-Tears-27561.html
-[6]:
-  http://jiwa.fr/track/The-La-s-87153/100-Love-Classics-disc-5-77603/There-she-goes-1332085.html
-[7]:
-  http://jiwa.fr/track/The-Lightning-Seeds-43804/Driving-Desire-98568/You-Showed-Me-346741.html
+[1]:
+  https://web.archive.org/web/20081004020002/http://www.mediadico.com/dictionnaire/anglais-francais/blur/1
+[2]: https://song.link/fr/i/640047654
+[3]: https://song.link/us/i/696280605
+[4]: https://song.link/fr/i/1441133290
+[5]: https://song.link/fr/i/1442949692
+[6]: https://song.link/fr/i/1443735637
+[7]: https://song.link/fr/i/255494096
 
 [i1]: {% post_url 2012/2012-04-20-oasis-live-forever %}
+
+[i2]: {% post_url 2005/2005-05-23-oasis-rois-de-la-terre-battue %}

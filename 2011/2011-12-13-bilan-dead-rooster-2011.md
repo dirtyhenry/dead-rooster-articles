@@ -9,6 +9,7 @@ authors:
 wordpress_id: 969
 cover: message-caractere-informatif-notes.png
 date: 2011-12-13 18:51:40 +0100
+category: Éditorial
 tags:
   - Guiguite le hamster
 ---
@@ -16,7 +17,7 @@ tags:
 C'est bientôt la fin de l'année, et c'est l'heure du bilan 2011 pour Dead
 Rooster.
 
-{% youtube 5iVKeYJmRtk %}
+{% youtube 6kc3EG8R8Uo %}
 
 Mine de rien, cette année, le site a fêté ses 6 ans. C'est pas rien et ça file
 un coup de vieux. Début 2009, on avait installé Google Analytics, un machin pour
@@ -75,12 +76,10 @@ crise !
 
 ## Comment devenir un Ninja gratuitement ?
 
-Enfin, rigolons un peu. En s'inspirant de l'ouvrage
-[_Comment devenir un Ninja gratuitement_](http://www.amazon.fr/Comment-Devenir-Gratuitement-Josselin-Bordat/dp/2954063904/)
-et de
-[l'article que ça a inspiré aux Inrocks](http://www.lesinrocks.com/medias/numerique-article/t/72016/date/2011-10-24/article/coment-devenir-un-ninja-gratuitement/),
-allons-y à notre tour : palmarès des recherches Google ayant fini sur notre site
-les plus farfelues
+Enfin, rigolons un peu. En s'inspirant de l'ouvrage [_Comment devenir un Ninja
+gratuitement_][1] et de [l'article que ça a inspiré aux Inrocks][2], allons-y à
+notre tour : palmarès des recherches Google ayant fini sur notre site les plus
+farfelues
 
 **Catégorie "on se sent moins seul"**
 
@@ -172,3 +171,8 @@ niveau moyen des Français en orthographe"**
 [i538]: {% post_url 2009/2009-10-18-500-nicolas-et-max %}
 
 [i774]: {% post_url 2011/2011-02-08-the-doors-c-est-trop-bien-si-si-allez %}
+
+[1]:
+  https://www.amazon.fr/Comment-Devenir-Gratuitement-Josselin-Bordat/dp/2954063904/
+[2]:
+  https://www.lesinrocks.com/actu/de-la-beaute-des-recherches-google-33538-24-10-2011/
