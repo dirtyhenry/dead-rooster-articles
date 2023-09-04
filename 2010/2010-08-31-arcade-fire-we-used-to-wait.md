@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Arcade Fire - We Used to Wait
-description:
-  Arcade Fire frappe fort en proposant un clip interactif pour leur titre We
-  Used To Wait, issu du récent The Suburbs.
+description: Le groupe canadien continue d'innover avec un clip interactif.
 authors:
   - Dirty Henry
 wordpress_id: 691
@@ -17,8 +15,8 @@ tags:
 
 Wow !
 
-Arcade Fire frappe fort en proposant un clip interactif pour leur titre _We Used
-to Wait_, issu du récent _The Suburbs_.
+Arcade Fire frappe fort en proposant un clip interactif pour leur titre [_We
+Used to Wait_][4], issu du récent [_The Suburbs_][3].
 
 Pour voir le clip, il faut se rendre sur le site [thewildernessdowntown.com][1]
 avec un navigateur supportant HTML5 (apparemment, la meilleure expérience est
@@ -32,3 +30,5 @@ faut donc féliciter ici, tout comme Chris Milk, le réalisateur du clip.
 
 [1]: http://www.thewildernessdowntown.com
 [2]: https://www.stereogum.com/486932/arcade-fire-we-used-to-wait-video/news/
+[3]: https://album.link/fr/i/1252757950
+[4]: https://song.link/fr/i/1252758323
