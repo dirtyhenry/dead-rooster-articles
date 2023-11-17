@@ -54,7 +54,7 @@ me priverai pas de me la péter en parlant des films avant leur sortie en France
 Côté bande-son, on est aussi assez gâté. La bande originale est signée Mychael
 Danna (le même que pour _Little Miss Sunshine_), la version light de [_The
 Show_][3] que joue la fille de Billy est bizarrement assez charmante et on a le
-droit aux Black Keys avec [_Howlin' For You_], dont il existe un clip très
+droit aux Black Keys avec _Howlin' For You_, dont il existe un clip très
 marrant :
 
 {% youtube TLSpj7q6_mM %}
