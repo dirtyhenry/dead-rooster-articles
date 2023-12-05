@@ -6,6 +6,7 @@ authors:
 wordpress_id: 470
 date: "2008-10-01 14:54:00 +0200"
 cover: les-daltons.jpg
+category: Le monde va mal
 ---
 
 On détourne les plus beaux fleurons du patrimoine de la chanson française pour

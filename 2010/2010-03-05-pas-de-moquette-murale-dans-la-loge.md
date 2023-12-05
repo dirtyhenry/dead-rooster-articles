@@ -15,4 +15,5 @@ du Limousin, etc… Tout de suite, [l'interview exclusive de Kirsten Prout][1].
 Par contre, lâcher un vent toutes les 2 répliques… mais que fait Deflatil ? Le
 monde va mal !
 
-[1]: http://www.thestarscoop.com/archives/kirsten-prout.php
+[1]:
+  https://web.archive.org/web/20110604173041/http://www.thestarscoop.com/interviews/kirsten-prout-exclusive-interview/

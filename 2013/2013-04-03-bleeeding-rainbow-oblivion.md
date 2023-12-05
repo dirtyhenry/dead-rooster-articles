@@ -5,6 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 1209
 date: 2013-04-03 10:53:49 +0200
+category: Chanson du jour
 ---
 
 Après la sortie de _Yeah Right_, mes chouchous publient Oblivion, single extrait
