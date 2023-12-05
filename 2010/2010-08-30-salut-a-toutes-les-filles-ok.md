@@ -21,7 +21,7 @@ Les 3 dernières furent donc…
 
 L'originale :
 
-{% youtube hZKyxmSrUug %}
+{% youtube aWzlhm0_r0A %}
 
 ## 2. _T'es OK_ d'Ottawan
 

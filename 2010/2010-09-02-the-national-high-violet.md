@@ -18,15 +18,15 @@ tags:
 ---
 
 Je connaissais The National comme un excellent groupe de scène. Sur disque,
-j'étais moins convaincu. C'était avant la sortie d'_High Violet_.
+j'étais moins convaincu. C'était avant la sortie d'[_High Violet_][1].
 
-Peu avant la sortie du disque, leur 5ème, en mai, les vidéos live de _Terrible
-Love_ m'avaient emballé. C'est ce morceau qu'on retrouve en ouverture du disque.
-Qu'est-ce qui fait le charme de ce morceau ? Bien sûr, il y a le lent crescendo.
-On part d'une intro minimaliste et vaporeuse et on termine sur une envolée
-diablement électrique et incroyablement dense. Ça marche à tous les coups ou
-presque. Mais il n'y a pas que ça. Dans _Terrible Love_, il y a Bryan Devendorf,
-le batteur du groupe.
+Peu avant la sortie du disque, leur 5ème, en mai, les vidéos live de [_Terrible
+Love_][2] m'avaient emballé. C'est ce morceau qu'on retrouve en ouverture du
+disque. Qu'est-ce qui fait le charme de ce morceau ? Bien sûr, il y a le lent
+crescendo. On part d'une intro minimaliste et vaporeuse et on termine sur une
+envolée diablement électrique et incroyablement dense. Ça marche à tous les
+coups ou presque. Mais il n'y a pas que ça. Dans _Terrible Love_, il y a Bryan
+Devendorf, le batteur du groupe.
 
 {% youtube EfIm8lw4cCM %}
 
@@ -54,8 +54,8 @@ embarquer avec elles.
 
 Au-delà de _Terrible Love_, la structure générale d'_High Violet_ est elle aussi
 très maîtrisée et offre un schéma quasi-mathématique puisque, sans titre faible,
-les deux autres pépites du disque, _Afraid of Everyone_ et _England_, se
-trouvent en milieu et fin de disque.
+les deux autres pépites du disque, [_Afraid of Everyone_][3] et [_England_][4],
+se trouvent en milieu et fin de disque.
 
 Ils sont rares les groupes qui se bonifient avec le temps, mais The National n'a
 jamais été aussi bon sur disque que pour ce 5ème opus, le premier qui soit
@@ -96,3 +96,8 @@ même si globalement, l'édition fut de bonne qualité :
     (3)
   - The National : brillant et intense (5)
   - The Flaming Lips : spectaculaire et original… mais bien peu de musique (2)
+
+[1]: https://album.link/fr/i/368054407 "High Violet"
+[2]: https://song.link/fr/i/368054412 "Terrible Love"
+[3]: https://song.link/fr/i/368054491 "Afraid of Everyone"
+[4]: https://song.link/fr/i/368054547 "England"
