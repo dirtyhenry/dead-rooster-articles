@@ -17,7 +17,7 @@ tags:
 
 Le nouvel album débarque le 18 mai. En attendant, les **Black Keys** se marrent
 bien et nous aussi, avec les clips des deux premiers titres issus de
-*Brothers* : [Tighten Up][1] et [Next Girl][2]. 
+*Brothers* : [Tighten Up][1] et [Next Girl][2].
 
 Frank est fun(ky) et les filles, euh… jolies !
 
