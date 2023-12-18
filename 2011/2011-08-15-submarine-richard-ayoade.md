@@ -87,7 +87,6 @@ Finissons en vrac :
 - Wes Anderson fait tailler ses costards chez [Mr. Ned][6], à New York (source
   [ici][7]
 
-[ic]: https://deadrooster.org/categories/cine-club-moi-jvous-dis/
 [1]: http://www.joedunthorne.com/
 [2]: https://youtu.be/fHDGYZvvwtc
 [3]:

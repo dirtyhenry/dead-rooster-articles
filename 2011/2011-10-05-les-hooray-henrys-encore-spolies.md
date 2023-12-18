@@ -6,8 +6,7 @@ authors:
 wordpress_id: 923
 cover: queen.jpg
 date: 2011-10-05 09:00:00 +0200
-categories:
-  - Artistes
+category: Le monde va mal
 tags:
   - Queen
 ---

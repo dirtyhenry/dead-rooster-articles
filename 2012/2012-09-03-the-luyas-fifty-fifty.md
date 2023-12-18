@@ -5,8 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 1100
 date: "2012-09-03 08:00:00 +0200"
-categories:
-  - Artistes
+category: Chanson du jour
 tags:
   - The Luyas
 ---

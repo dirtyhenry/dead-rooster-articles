@@ -5,8 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 856
 date: "2011-06-20 11:54:38 +0200"
-categories:
-  - Artistes
+category: Chanson du jour
 tags:
   - Blur
 ---

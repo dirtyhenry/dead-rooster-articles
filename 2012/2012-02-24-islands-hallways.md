@@ -5,8 +5,7 @@ authors:
   - Joe Gantdelaine
 wordpress_id: 1000
 date: "2012-02-24 11:02:00 +0100"
-categories:
-  - Artistes
+category: Chanson du jour
 tags:
   - Islands
 ---

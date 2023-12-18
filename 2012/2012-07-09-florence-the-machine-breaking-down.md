@@ -5,8 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 1064
 date: "2012-07-09 08:00:00 +0200"
-categories:
-  - Artistes
+category: Chanson du jour
 tags:
   - Florence + The Machine
 ---

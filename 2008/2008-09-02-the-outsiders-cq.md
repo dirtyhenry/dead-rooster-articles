@@ -135,9 +135,10 @@ Quelques vidéos faites par des fans pour finir :
 Niveau du disque : **Maçon**
 
 [^1]:
-    une requête "Pays Bas Portugal" sur [Youtube][1] suffit à illustrer ces
-    propos
+    la page Wikipedia intitulée ["Bataille de Nuremberg"][1] suffit à illustrer
+    ces propos
 
+[1]: https://fr.wikipedia.org/wiki/Bataille_de_Nuremberg_(football)
 [2]: https://www.deezer.com/track/874717
 [3]: https://www.deezer.com/track/100939
 [4]: https://en.wikipedia.org/wiki/Pebbles_series

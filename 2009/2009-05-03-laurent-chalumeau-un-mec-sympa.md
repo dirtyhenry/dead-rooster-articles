@@ -13,7 +13,7 @@ tags:
 ---
 
 **Laurent Chalumeau** vient de publier [_Un Mec Sympa_][4], son septième roman,
-que j'ai lu sur [les conseils de Serge Kaganski][5].
+que j'ai lu sur [les conseils de Serge Kaganski][^1].
 
 L'histoire de Manu, un ex-tennisman semi-pro reconverti en voleur de bijoux. En
 liberté conditionnelle, il décide de redevenir clean. Sauf qu'un enfoiré de juge

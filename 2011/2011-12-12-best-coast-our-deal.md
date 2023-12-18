@@ -5,8 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 968
 date: 2011-12-12 09:00:00 +0100
-categories:
-  - Artistes
+category: Chanson du jour
 tags:
   - Best Coast
 ---

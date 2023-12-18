@@ -5,8 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 957
 date: "2011-11-29 14:41:36 +0100"
-categories:
-  - Artistes
+category: Chanson du jour
 tags:
   - The Beatles
 ---
