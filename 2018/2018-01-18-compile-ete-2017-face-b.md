@@ -153,8 +153,6 @@ Je t'aime ô jambon.
     Les plus forts en règle de 3 d'entre vous connaissent mon âge désormais, à
     la règle des _intervalles ou poteaux_ près.
 
-[bilan]:
-  https://s3-eu-west-1.amazonaws.com/org.deadrooster.blog/pitchfork-top-50-2016.png
 [1]:
   https://www.liberation.fr/musique/2017/07/24/arcade-fire-brulant-paradoxe_1585949/
 [2]: https://song.link/fr/i/1294740148
