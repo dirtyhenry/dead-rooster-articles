@@ -5,8 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 912
 date: 2011-09-19 09:00:00 +0200
-categories:
-  - Artistes
+category: Chanson du jour
 tags:
   - Dale Earnhardt Jr. Jr.
 ---

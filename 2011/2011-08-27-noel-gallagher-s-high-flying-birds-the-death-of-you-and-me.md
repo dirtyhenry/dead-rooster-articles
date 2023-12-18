@@ -5,8 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 892
 date: "2011-08-27 13:06:21 +0200"
-categories:
-  - Artistes
+category: Chanson du jour
 tags:
   - Oasis
 ---

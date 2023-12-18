@@ -6,8 +6,7 @@ authors:
 wordpress_id: 624
 cover: the-livingstones-i-presume-live.jpg
 date: "2012-09-30 16:57:38 +0200"
-categories:
-  - Artistes
+category: Chanson du jour
 tags:
   - The Livingstones I Presume
 ---

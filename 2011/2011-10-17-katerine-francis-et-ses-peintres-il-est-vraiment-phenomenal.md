@@ -5,8 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 933
 date: 2011-10-17 16:31:51 +0200
-categories:
-  - Artistes
+category: Chanson du jour
 tags:
   - Katerine
 ---

@@ -5,8 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 1017
 date: "2012-03-29 14:32:57 +0200"
-categories:
-  - Artistes
+category: Chanson du jour
 tags:
   - Dum Dum Girls
 ---

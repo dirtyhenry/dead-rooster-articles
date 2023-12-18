@@ -5,9 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 780
 date: "2011-02-12 13:58:44 +0100"
-categories:
-  - Catégories
-  - Artistes
+category: Chanson du jour
 tags:
   - Reprise
   - Dum Dum Girls

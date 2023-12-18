@@ -5,9 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 899
 date: "2011-09-05 23:14:04 +0200"
-categories:
-  - Catégories
-  - Artistes
+category: Chanson du jour
 tags:
   - Jarvis Cocker
   - Pulp
