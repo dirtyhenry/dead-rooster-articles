@@ -90,6 +90,3 @@ Comment les disques vinyles sont fabriqués ?
 
 [1]:
   https://informationisbeautiful.net/2010/how-much-do-music-artists-earn-online/
-[legacy]:
-  http://comedysmack.com/wp-content/uploads/RecordHipster.jpg
-  "Image désormais indisponible"
