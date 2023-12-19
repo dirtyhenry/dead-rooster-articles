@@ -5,14 +5,18 @@ authors:
   - Joe Gantdelaine
 wordpress_id: 214
 date: "2008-07-31 16:20:04 +0200"
-categories:
-  - Catégories
-  - Artistes
+category: Concert
 tags:
-  - Concert
+  - Alela Diane
   - Adam Green
   - Justice
   - Nada Surf
+  - Moriarty
+  - The Kills
+  - Heavy Trash
+  - The Bellrays
+  - The Stooges
+  - The Brian Jonestown Massacre
   - The Hives
   - The Raconteurs
 comments:
@@ -67,32 +71,32 @@ SM pas bio.
 
 Après toutes ces réjouissances et la découverte d’un site ma foi fort propice
 aux siestes à l’abri du cagnard, place à la musique ! (je ne compte pas B.B.
-Brunes dans cette catégorie). Début timide, avec **Alela Diane**, ou comment
-recycler la recette du folk au féminin, déjà suffisamment et plus que
+Brunes dans cette catégorie). Début timide, avec [**Alela Diane**][1], ou
+comment recycler la recette du folk au féminin, déjà suffisamment et plus que
 convenablement exploitée par Cat Power et conso(eu)rs. Certes, c’est pas mal,
 musique parfaite pour cette heure de la journée, mais la frêle Alela ne casse
 pas trois pattes à un canard non plus ! Bref, cela commence tranquillement (et
 on n’en demande pas plus pour l’instant). Vient le tour de **Nada Surf**
-ensuite. Et là, montée en puissan’..euh…en fait, non ! Sans doute la plus grosse
-déception du festival. Comment un groupe capable de shows formidables (on en fut
-les témoins privilégiés au cours des 6 dernières années) peut-il se saborder
-devant tant de monde, qui plus est, certainement pas venu pour eux ? En effet,
-après un début honnête (_Hi-speed soul_ et _Happy kid_), Matthew et sa clique
-s’embourbent dans les titres de leurs deux derniers albums, incontestablement
-moins bons et moins pêchus que les précédents. Ainsi, c’est une succession de
-chansons mollassonnes, parmi lesquelles _80 windows_, seul titre échappé du
-second opus et assez génial au demeurant, ne parvient même pas à surnager. Pour
-couronner le tout, _Popular_, peut-être pas leur meilleure, mais sans doute la
-plus à propos pour satisfaire un public de festival est tout simplement absente
-de la _tracklist_.
+ensuite. Et là, montée en puissan’… euh… en fait, non ! Sans doute la plus
+grosse déception du festival. Comment un groupe capable de shows formidables (on
+en fut les témoins privilégiés au cours des 6 dernières années) peut-il se
+saborder devant tant de monde, qui plus est, certainement pas venu pour eux ? En
+effet, après un début honnête (_Hi-Speed Soul_ et _Happy Kid_), Matthew et sa
+clique s’embourbent dans les titres de leurs deux derniers albums,
+incontestablement moins bons et moins pêchus que les précédents. Ainsi, c’est
+une succession de chansons mollassonnes, parmi lesquelles _80 Windows_, seul
+titre échappé du second opus et assez génial au demeurant, ne parvient même pas
+à surnager. Pour couronner le tout, _Popular_, peut-être pas leur meilleure,
+mais sans doute la plus à propos pour satisfaire un public de festival est tout
+simplement absente de la _tracklist_.
 
 C’est donc la larme à l’œil que nous nous dirigeons vers la scène de
-**Moriarty**. Tout comme Alela Diane, musique parfaite pour l’heure dite. Cela
-dit, il y a un petit truc en plus qui fait qu’ici, on accroche. Plus que le jeu
-de scène inexistant de la chanteuse, cela provient sûrement des musiciens qui
-assurent le spectacle. Pas encore la grosse claque, mais cela reste mieux que
-les deux concerts précédents (je me demande encore comment je peux écrire cela
-quand Nada Surf fait partie des “deux concerts précédents” !). C’est alors
+[**Moriarty**][2]. Tout comme Alela Diane, musique parfaite pour l’heure dite.
+Cela dit, il y a un petit truc en plus qui fait qu’ici, on accroche. Plus que le
+jeu de scène inexistant de la chanteuse, cela provient sûrement des musiciens
+qui assurent le spectacle. Pas encore la grosse claque, mais cela reste mieux
+que les deux concerts précédents (je me demande encore comment je peux écrire
+cela quand Nada Surf fait partie des “deux concerts précédents” !). C’est alors
 qu’arrive la montée en puissance tant espérée : avec VV, chanteuse de **The
 Kills**, le rock, le vrai, fait son apparition ! Musiques entêtantes et tenue
 érotisante sont de sortie. Il ne manque plus que la drogue pour que la sainte
@@ -254,3 +258,6 @@ de l’existence à replier…), et à reprendre la route, direction… St Malo�
 Photo Grande Scène :
 © [Garden Nef Party](https://web.archive.org/web/20080805001946/http://gardennefparty.over-blog.com/)
 Photo Heavy Trash : © [bazarfoto](https://www.flickr.com/photos/bazarfoto/)
+
+[1]: https://www.discogs.com/artist/1139858-Alela-Diane
+[2]: https://www.discogs.com/artist/295254-MoriArty-3
