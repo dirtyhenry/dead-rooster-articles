@@ -13,7 +13,7 @@ date: 2012-11-25 10:21:10 +0100
 
 Avant d'écouter **The Vaccines**, j'avais un gros a priori négatif : j'entendais
 parler de "nouveaux Strokes", de "Ramones du 21ème siècle". La seule réaction
-que cela provoquait sur moi était cette question : "Ok, mais pour quoi faire ?"
+que cela provoquait sur moi était cette question : "OK, mais pour quoi faire ?"
 Donc, histoire de ne pas en rester là, j'ai profité de la sortie de leur
 deuxième album _Come Of Age_ pour voir si mes craintes étaient fondées.
 

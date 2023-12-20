@@ -31,7 +31,7 @@ La **Garden Nef Party d'Angoulême** donc. Quatrième du nom. Après une éditio
 2008 complètement _dingo-la-nef_ (comprenne qui pourra, mais comment pouvait-on
 rester propre sur soi en sachant qu'en 2 jours, on verrait les Kills, Brian
 Jonestown Massacre, Heavy Trash, Adam Green, Iggy et ses Stooges, The Bellrays
-ou encore les Hives ?), nous ne pouvions pas ne pas (double négation…ok, c'est
+ou encore les Hives ?), nous ne pouvions pas ne pas (double négation… OK, c'est
 bon !) nous rendre en Charentes cette année encore. Cependant, il faut le
 préciser, sur le papier, ça sonnait moins bien quand même ! Hormis **Franz
 Ferdinand**, avouons-le, on n'attendait pas grand-chose de cette édition. Enfin
