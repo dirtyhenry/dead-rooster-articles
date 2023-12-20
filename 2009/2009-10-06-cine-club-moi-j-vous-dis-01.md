@@ -10,7 +10,7 @@ category: Ciné-Club moi j'vous dis
 ---
 
 _Casablanca_, œuvre magistrale ! _Le Cuirassé Potemkine_, n'en parlons même
-pas ! Quant à _Citizen Kane_, le meilleur de tous ! Ok, mais comment faire pour
+pas ! Quant à _Citizen Kane_, le meilleur de tous ! OK, mais comment faire pour
 voir ces films anciens, boudés par la télé et trop peu repris par les cinémas ?
 Pour ma part, la solution a été un abonnement à un service de location de DVD en
 ligne : Glowria. Trois DVD par mois dont voici détaillée la livrée de septembre…

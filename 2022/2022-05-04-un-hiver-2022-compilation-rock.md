@@ -75,7 +75,7 @@ Alors quoi ? On cherche un lien entre tous les titres. Allez, d’accord, j’e
 un pas mal, vous allez voir ! Hyper réfléchi, après 2 bouts de chocolat un bel
 après-midi de début de vacances de Pâques.
 
-### Tchi-Tcha !
+### Tchi-Tcha
 
 Imaginez le contexte : colloque **Musique et Cinéma**. “Je développerai mon
 travail en 3 parties : tout d’abord j’évoquerai les chansons qui parlent de

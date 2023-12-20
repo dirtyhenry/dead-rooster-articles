@@ -62,7 +62,7 @@ vinyle, ça montre la pochette en grand, ça se touche, ça se pose sur la plati
 ça nous rappelle à chaque fin de face qu'il est temps de se retoucher à nouveau.
 Un CD c'est un plan cul alors qu'un vinyle c'est un grand amour.
 
-Vous me direz alors qu'un vinyle, ok, c'est pas mal, mais ça rentre pas dans mon
+Vous me direz alors qu'un vinyle, OK, c'est pas mal, mais ça rentre pas dans mon
 iPod. Certes, mais les vinyles récents contiennent la plupart du temps un code
 permettant de télécharger les MP3 du disque sur internet. C'est limite moins
 chiant qu'importer un CD où faut aller trouver la pochette soi-même une fois sur

@@ -120,7 +120,7 @@ La version 10 titres :
 1. _Obstacle 1_
 
 [^1]:
-    Bon, ok, le vrai premier batteur du groupe s'appelait Greg Drudy mais bon,
+    Bon, OK, le vrai premier batteur du groupe s'appelait Greg Drudy mais bon,
     je simplifie un peu.
 
 [^2]:

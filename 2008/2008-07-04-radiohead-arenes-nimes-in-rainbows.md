@@ -57,7 +57,7 @@ des années 90, émergé grâce au succès du colossal single _Creep_ et s'étan
 procuré leurs éternels lauriers de Jean-Mi du rock grâce à leur chef-d'oeuvre
 _OK Computer_, Radiohead était de passage en France pour défendre leur récent
 _In Rainbows_. 4 dates uniquement : 2 Bercy et 2 dates à Nîmes, point barre, ce
-qui prouve que bon, ok, j'exagère, Radiohead fait aussi des salles parisiennes
+qui prouve que bon, OK, j'exagère, Radiohead fait aussi des salles parisiennes
 "traditionnelles" mais qu'en ce qui concerne la province, seule Nîmes et ses
 arènes sont assez méritantes pour voir le groupe s'arrêter par chez elles.
 
@@ -79,7 +79,7 @@ ses sbires entament leur concert. Des titres majeurs du groupe sont attendus en
 vain (_Karma Police_ et _Creep_ notamment ne seront pas joués de la soirée),
 d'autres sont interprétés avec une puissance euphorisante (très amballant
 _Bodysnatchers_, formidable _Paranoid Android_) et le groupe sort de scène.
-Quoi ? Déjà ? Mais il est à peine… Ah oui, non, ok, 23h20, en fait ça va. Bref
+Quoi ? Déjà ? Mais il est à peine… Ah oui, non, OK, 23h20, en fait ça va. Bref
 sondage autour de moi, tout le monde s'est fait avoir, maîtrise parfaite du
 rythme du concert, jeux de scène hyper efficaces, lumières spectaculaires : le
 groupe a avalé le temps. Plusieurs rappels suivent, le public quitte les arènes

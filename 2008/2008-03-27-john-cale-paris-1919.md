@@ -24,7 +24,7 @@ très peu vous parleront de **John Cale** et c'est sans doute un peu de sa faute
 quand même. Quelle idée d'avoir un tel patronyme, perdu chez les disquaires
 entre J.J. Cale, Johnny Cash ou John Cage.
 
-Ok, Lou Reed a apparemment demandé à John Cale de dégager bien gentiment du
+OK, Lou Reed a apparemment demandé à John Cale de dégager bien gentiment du
 Velvet après seulement deux albums mais ces deux chefs d'oeuvres restent les
 meilleurs du groupe, dont John Cale est d'ailleurs le co-auteur de plusieurs
 titres (le célébrissime _Sunday Morning_ en tête).

@@ -22,7 +22,7 @@ Rooster.
 Mine de rien, cette année, le site a fêté ses 6 ans. C'est pas rien et ça file
 un coup de vieux. Début 2009, on avait installé Google Analytics, un machin pour
 mesurer l'audience des sites internet, et y'a plein de trucs marrants à dire
-là-dessus donc on va faire ça, ok ?
+là-dessus donc on va faire ça, OK ?
 
 ## Le bilan graphique des performances depuis 2009
 
@@ -36,7 +36,7 @@ Mettons le en perspective avec les audiences de Facebook et Allociné.
 
 {% asset comparatif.png %}
 
-Oh, c'est pas mal, non ? Pardon ? L'échelle est logarithmique ? Ah, ok, bon,
+Oh, c'est pas mal, non ? Pardon ? L'échelle est logarithmique ? Ah, OK, bon,
 effectivement c'est pas brillant mais l'année n'est pas finie et on a bien
 l'intention de donner un coup de collier.
 

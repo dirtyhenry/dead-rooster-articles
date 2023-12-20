@@ -19,7 +19,7 @@ D'innombrables groupes émergent chaque semaine et s'affichent en couverture du
 NME. Puis c'est la fin. On oublie Cast, Kula Shaker ou Ocean Colour Scene aussi
 vite qu'ils étaient apparus.
 
-De tout ce petit monde, qui reste-t-il en 2008 ? Ok, Damon Albarn et Jarvis
+De tout ce petit monde, qui reste-t-il en 2008 ? OK, Damon Albarn et Jarvis
 Cocker sont toujours dans le paysage mais ont clairement emprunté d'autres
 chemins plus ou moins intéressants. Les seuls à être restés droits dans leurs
 Doc Martens, à attendre que les mauvaises langues et les ringards opportunistes
