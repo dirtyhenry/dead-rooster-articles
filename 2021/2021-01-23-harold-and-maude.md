@@ -97,7 +97,7 @@ bien le déclic de la reconnaissance les jours de rentrée :
 [2]: https://fr.wikipedia.org/wiki/Tatouage_%C3%A0_Auschwitz
 [3]: https://madelen.ina.fr/programme/madeleine-renaud
 [4]:
-  https://ccpopculture.com/2013/12/28/double-feature-the-graduate-1967-and-harold-and-maude-1971/
+  https://web.archive.org/web/20230320154750/https://ccpopculture.com/2013/12/28/double-feature-the-graduate-1967-and-harold-and-maude-1971/
 [5]:
   https://www.theringer.com/movies/2021/1/25/22244344/cult-movies-ranking-top-50s
 [6]:

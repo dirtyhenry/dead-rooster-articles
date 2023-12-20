@@ -8,8 +8,7 @@ date: "2009-10-01 20:20:00 +0200"
 ---
 
 Le 5 septembre, les Hooray Henrys ont participé à la journée d'animation de
-l'association le Souffle9
-([http://www.lesouffle9.info/](http://www.lesouffle9.info/)).
+l'association le Souffle9.
 
 Au programme, 2 sets courts :
 
