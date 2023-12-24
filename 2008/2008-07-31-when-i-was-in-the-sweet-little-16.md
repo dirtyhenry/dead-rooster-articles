@@ -14,7 +14,7 @@ tags:
   - Moriarty
   - The Kills
   - Heavy Trash
-  - The Bellrays
+  - The BellRays
   - The Stooges
   - The Brian Jonestown Massacre
   - The Hives
@@ -202,7 +202,7 @@ vous aussi ?
 Enfin, le moment de passer aux choses sérieuses arrive ! Nous sommes repus, les
 groupes moyens (et pires si non-affinités) sont passés, place au rock ! La
 soirée débute maintenant ! On le sait, on le sent ! Lisa Kekula ne nous fait pas
-mentir. Ses **Bellrays** sont imparables. Tout est excellent : de la choucroute
+mentir. Ses **BellRays** sont imparables. Tout est excellent : de la choucroute
 de Lisa, aux lunettes de Bob, sans oublier les compo, groovy-funky-garage… Sur
 la grande scène ensuite, place aux professionnels de l’entertainment : **The
 Hives**. Toujours impeccables, peut-être trop pour prétendre au statut de
@@ -242,7 +242,7 @@ qui nous retiendront longtemps pour son D.J. set. A peine le temps de constituer
 le classement du jour (liens myspace en cliquant sur les noms) :
 
 - Sur le podium (par ordre d’apparition sur scène) :
-  - The Bellrays,
+  - The BellRays,
   - Adam Green,
   - The Stooges.
 - Premier accessit :
