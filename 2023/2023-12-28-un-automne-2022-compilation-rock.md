@@ -10,10 +10,6 @@ excerpt: >-
   Spotify.
 cover: un-automne-2022.webp
 category: Compile
-tags:
-  - Arcade Fire
-  - Blur
-  - Sharon Van Etten
 ---
 
 {% spotify 3BeReLb6mpTPGl51ZTdBii %}
