@@ -4,7 +4,6 @@ title: Admiral Radley aime la California (meow)
 authors:
   - Dirty Henry
 wordpress_id: 651
-cover: admiral-radley-logo.jpg
 date: 2010-07-16 17:09:46 +0200
 category: Chanson du jour
 tags:
