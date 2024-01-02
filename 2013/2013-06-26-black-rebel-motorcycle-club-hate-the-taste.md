@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Black Rebel Motorcycle Club - Hate The Taste
-authors:
-  - Dirty Henry
+author: Dirty Henry
 wordpress_id: 1253
 date: 2013-06-26 12:00:00 +0200
 category: Chanson du jour

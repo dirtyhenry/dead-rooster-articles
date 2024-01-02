@@ -2,9 +2,10 @@
 layout: post
 title: The Ramones
 category: Encyclopédie approximative du Rock and Roll
-description: Cette semaine, l'Encyclopédie est approximativement punk.
-authors:
-  - Joe Gantdelaine
+author: Joe Gantdelaine
+excerpt: >-
+  Une version approximative de la biographie du groupe punk Ramones : l'histoire
+  de leur nom, leurs morceaux iconiques et leur postérité.
 wordpress_id: 833
 cover: mary-poppins-ramoneurs.jpg
 date: 2011-05-21 10:37:19 +0200
