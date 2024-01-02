@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Findlay Brown - Promised Land
-description: Une chanson cool… Un clip sympa… (say no more, say no more)
+excerpt: >-
+  Clip de Findlay Brown du titre 'Promised Land', interptété au départ par Joe
+  Smooth.
 authors:
   - Dirty Henry
 wordpress_id: 740
@@ -21,9 +23,10 @@ comments:
 
 {% vimeo 17600023 %}
 
-C'est
-[une reprise d'un titre de 1989, interprété alors par Joe Smooth](http://www.youtube.com/watch?v=ML3w4HIMHpY)…
-Les reprises font parfois des miracles.
+C'est [une reprise d'un titre de 1989, interprété alors par Joe Smooth][1]… Les
+reprises font parfois des miracles.
 
-(via
-[yvynyl](http://yvynyl.tumblr.com/post/2350909311/findlay-brown-promised-land-ryan))
+(via [yvynyl][2])
+
+[1]: https://www.youtube.com/watch?v=ML3w4HIMHpY
+[2]: https://yvynyl.tumblr.com/post/2350909311/findlay-brown-promised-land-ryan
