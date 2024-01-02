@@ -4,6 +4,8 @@ title: Black Bones - Destiny
 authors:
   - Dirty Henry
 category: Chanson du jour
+tags:
+  - The Bewitched Hands
 ---
 
 {% youtube W6NymOWCnEc %}
