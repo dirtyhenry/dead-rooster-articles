@@ -40,7 +40,7 @@ playlist:
     title: Hamilton Road
     asset: ducktails-hamilton-road.jpg
     link: https://stereogum.com/463342/ducktails-hamilton-road/mp3s/
-  - artist: Reading Rainbow
+  - artist: Bleeding Rainbow (ex-Reading Rainbow)
     title: Wasting Time
     asset: reading-rainbow-wasting-time.jpg
     link: https://stereogum.com/506002/reading-rainbow-wasting-time/mp3s/

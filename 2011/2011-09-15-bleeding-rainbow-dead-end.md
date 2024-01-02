@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reading Rainbow - Dead End
+title: Bleeding Rainbow - Dead End
 authors:
   - Dirty Henry
 wordpress_id: 910
