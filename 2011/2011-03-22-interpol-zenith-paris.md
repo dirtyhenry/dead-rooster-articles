@@ -8,7 +8,7 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 802
-cover: interpol-live-daniel-kessler.png
+cover: interpol-live-daniel-kessler.webp
 date: 2011-03-22 09:31:07 +0100
 category: Concert
 tags:
@@ -38,7 +38,7 @@ années 2000. The Strokes, Interpol, The Libertines, The Kings Of Leon voire
 Franz Ferdinand ne sont plus de jeunes groupes et vont tour à tour bientôt fêter
 leur première décade.
 
-{% asset interpol-paul-banks-live.png %}
+{% asset interpol-paul-banks-live.webp %}
 
 Durant cette décennie, Interpol s'est créé une place à part dans mon panthéon
 personnel. D'abord, les New-Yorkais m'ont rouvert la porte vers la "cold wave"
@@ -72,7 +72,7 @@ de nous lâcher un “See you next time”, certes peu original mais toujours
 rassurant venant d'un groupe qui aura splitté à de nombreuses reprises sans nous
 mettre au courant[^2].
 
-{% asset interpol-daniel-kessler-live.png %}
+{% asset interpol-daniel-kessler-live.webp %}
 
 Finissons par un _Interpol pour les Nuls_ afin de mettre le pied à l'étrier à
 ceux qui connaissent encore mal le groupe.

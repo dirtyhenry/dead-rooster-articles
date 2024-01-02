@@ -17,7 +17,7 @@ comments:
   - author: Dirty Henry
     author_email: dirtyhenry@gmail.com
     date: 2010-12-07 17:23:34 +0100
-    title: Reading Rainbow
+    title: Bleeding Rainbow
     content:
       "La review de leur disque sur Pitchfork :
       https://pitchfork.com/reviews/albums/14905-prism-eyes/"

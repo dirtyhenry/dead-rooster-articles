@@ -4,7 +4,7 @@ title: "Compile MP3 du NET #08"
 description:
   "Une sélection des meilleurs MP3 légalement disponibles au téléchargement des
   dernières semaines. Au programme cette semaine, des gens dont on reparlera
-  très vite : Reading Rainbow, The Notes et Surfer Blood."
+  très vite : Bleeding Rainbow, The Notes et Surfer Blood."
 authors:
   - Dirty Henry
 wordpress_id: 725
@@ -19,7 +19,7 @@ playlist:
     title: Undertow
     asset: warpaint-undertow.jpg
     link: http://stereogum.com/508242/warpaint-undertow/mp3s/
-  - artist: Reading Rainbow
+  - artist: Bleeding Rainbow
     title: Always on my mind
     asset: bleeding-rainbows.jpg
     link: http://wvmusic.bandcamp.com/
@@ -54,7 +54,7 @@ playlist:
 
 Une sélection des meilleurs MP3 légalement disponibles au téléchargement des
 dernières semaines. Au programme cette semaine, des gens dont on reparlera très
-vite : **Reading Rainbow**, **The Notes** et **Surfer Blood**.
+vite : **Bleeding Rainbow**, **The Notes** et **Surfer Blood**.
 
 A noter qu'une reprise de **Pavement** est au programme.
 

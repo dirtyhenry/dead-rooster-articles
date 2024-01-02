@@ -1,11 +1,11 @@
 ---
+published: false
 layout: post
 title: La démocratie ? On s'en fout !
 authors:
   - Dirty Henry
 wordpress_id: 505
 date: "2009-05-28 09:57:00 +0200"
-cover: drapeaux-europe.jpg
 category: Le monde va mal
 ---
 
