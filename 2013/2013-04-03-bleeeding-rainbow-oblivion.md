@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bleeeding Rainbow - Oblivion
+title: Bleeding Rainbow - Oblivion
 authors:
   - Dirty Henry
 wordpress_id: 1209
