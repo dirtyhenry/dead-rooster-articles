@@ -7,7 +7,7 @@ excerpt: >-
   Une compilation pour s’énergiser avec des titres comme Dookie de Green Day,
   Take Me Out de Franz Ferdinand, Lonely Boy de The Black Keys, Kids de MGMT ou
   Are You Gonna Be My Girl de Jet. Et plein d’autres pépites.
-image: getting-psyched-up.webp
+cover: getting-psyched-up.webp
 category: Compile
 ---
 
