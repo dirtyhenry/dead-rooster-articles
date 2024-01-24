@@ -23,7 +23,7 @@ Ni une, ni deux, je me fais ma petite playlist perso avec les titres qui me font
 remuer le popotin. Pour le coup, c'est une _playlist_, pas une _compile_[^1], et
 elle évoluera sans doute avec le temps. Là voici.
 
-{% spotify 0grBMNMJiAZvHJAhM1CWCx %}
+{% spotify 58mv5gLikjVcjsHsYhpZP2 %}
 
 ## Tracklist
 
@@ -36,22 +36,21 @@ elle évoluera sans doute avec le temps. Là voici.
 7. Electric Six - _Gay Bar_
 8. The Black Keys - _Lonely Boy_
 9. Soledad Brothers - _Cage That Tiger_
-10. Pulp - _Common People - Full Length Version_
+10. Pulp - _Common People_
 11. Bloc Party - _Positive Tension_
 12. Hot Hot Heat - _Island of the Honest Man_
 13. Interpol - _Say Hello to the Angels_
 14. The Alan Parsons Project - _Sirius_
-15. Phil Collins - _Who Said I Would - 2016 Remaster_
+15. Phil Collins - _Who Said I Would_
 16. Love Is All - _Ageing Had Never Been His Friend_
 17. The Grates - _19-20-20_
 18. The Kinks - _Powerman_
 19. Motörhead - _Ace of Spades_
-20. Ramones - _Blitzkrieg Bop - 2016 Remaster_
+20. Ramones - _Blitzkrieg Bop_
 21. The Undertones - _Teenage Kicks_
 22. Green Day - _Basket Case_
-23. Led Zeppelin - _Rock and Roll - Remaster_
-24. Buzzcocks - _Ever Fallen in Love (With Someone You Shouldn't've?) - 1996
-    Remastered Version_
+23. Led Zeppelin - _Rock and Roll_
+24. Buzzcocks - _Ever Fallen in Love (With Someone You Shouldn't've?)_
 25. Oasis - _Morning Glory_
 26. Arctic Monkeys - _From The Ritz To The Rubble_
 27. MGMT - _Kids_
