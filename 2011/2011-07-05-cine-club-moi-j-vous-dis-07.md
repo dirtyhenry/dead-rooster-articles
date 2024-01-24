@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Ciné-Club moi j’vous dis #07"
-description:
-  "Au sommaire du mois : {La Folle Ingénue}, {La Chambre du Fils}, {Ni à vendre,
-  ni à louer}."
+excerpt: >-
+  Avec Cluny Brown de Lubitsch (La Folle Ingénue), La Chambre du fils de Nanni
+  Moretti, et Ni à vendre/Ni à louer de Pascal Rabaté.
 authors:
   - Dirty Henry
 wordpress_id: 866
@@ -14,7 +14,7 @@ category: Ciné-Club moi j'vous dis
 
 ## Catégorie "Vieux Films à voir en DVD"
 
-### [_Cluny Brown_][a] (_La Folle Ingénue_) - Ernst Lubitsch
+### [_Cluny Brown_][a] (_La Folle Ingénue_), d’Ernst Lubitsch
 
 Cluny Brown est une fille un peu fofolle, pleine de vie mais qui ne se conforme
 pas assez aux règles de la bienséance de l'Angleterre de la fin des années 30.
@@ -47,15 +47,16 @@ pour bloquer l'intégration des vidéos sur les pages web. Les ringards !
 
 ---
 
-### _La Chambre du fils_ (_La stanza del figlio_) - Nanni Moretti
+### [_La Chambre du fils_][e] (_La stanza del figlio_), de Nanni Moretti
 
 Nous sommes à Ancône. Une chouette famille avec 2 enfants (un garçon et une
-fille qui ne s'appellent ni Bud, ni Kelly) coule des jours heureux. Sauf qu'un
-jour, Andrea (le fils) est accusé d'avoir volé une ammonite au lycée. Coupable
-ou pas, ce n'est pas bien clair mais toujours est-il que Giovanni (le père)
-commence à douter de la probité de son fils, légère fissure dans la perfection
-familiale. Un dimanche, alors que chaque membre de la famille s'occupe à ses
-petites affaires, Andrea meurt dans un accident de plongée sous-marine.
+fille qui ne s'appellent [ni Bud, ni Kelly][7]) coule des jours heureux. Sauf
+qu'un jour, Andrea (le fils) est accusé d'avoir volé une ammonite au lycée.
+Coupable ou pas, ce n'est pas bien clair mais toujours est-il que Giovanni (le
+père) commence à douter de la probité de son fils, légère fissure dans la
+perfection familiale. Un dimanche, alors que chaque membre de la famille
+s'occupe à ses petites affaires, Andrea meurt dans un accident de plongée
+sous-marine.
 
 Palme d'or à Cannes en 2001, le film observe la mécanique du décès d'Andrea sur
 les membres de la famille. Le père, psychanaliste, n'arrive plus à écouter ses
@@ -65,30 +66,27 @@ la soeur ne dit plus un mot et devient un Joey Barton du basket féminin.
 Si la menace de l'ennui plane tout au long du film, on finit néanmoins par
 rentrer dans l'histoire, bizarrement structurée : une intrigue préliminaire qui
 dure presque la moitié du film, pas de réel enjeu sinon effectuer le travail du
-deuil. Néanmoins, on trouve sur le net quelques lectures intéressantes du film,
-que ce soit [ici][1] ou [là][2].
+deuil.
 
-La musique qui va avec : _By This River_ de Brian Eno
-
-{% youtube i0mGxbf4yTU %}
+La musique qui va avec : [_By This River_][1], de Brian Eno
 
 ---
 
 ## Catégorie "à voir au ciné mais faut se dépêcher"
 
-### _Ni à vendre/Ni à louer_ - Pascal Rabaté
+### [_Ni à vendre/Ni à louer_][f], de Pascal Rabaté
 
 Un week-end sur le littoral de la Loire Atlantique, avec une flopée de
 personnages loufoques et cocasses, deux mots qu'on n'a que trop rarement
 l'occasion d'utiliser.
 
-{% vimeo xivsas %}
+{% youtube -3FfDorHZDs %}
 
 Le cinéma à pas cher, des fois c'est bien, parce que ça permet de découvrir des
 pépites qu'on allait voir sur le bout des pieds. En l'occurrence, avant que je
-ne me rende compte que ce film était du même auteur que _Les Petits Ruisseaux_
-(charmante surprise de [2010][i769]), je n'allais pas voir ce film d'une
-complète gaieté de coeur.
+ne me rende compte que ce film était du même auteur que [_Les Petits
+Ruisseaux_][g] (charmante surprise de [2010][i769]), je n'allais pas voir ce
+film d'une complète gaieté de coeur.
 
 Et pourtant, c'est drôle et mimi comme tout, à la croisée des chemins des
 Deschiens (on y croise François Morel mais aussi le plus méconnu Jean-Marc
@@ -102,7 +100,7 @@ devant la caravane au petit déjeuner. Une vision beaucoup plus drôle et beauco
 plus attachante des vacances à la plage que _Camping_ par exemple. Le film est
 donc recommandé.
 
-La musique qui va avec : _Les vacances à la mer_, de Mike Brank
+La musique qui va avec : [_Les vacances à la mer_][2], de Mike Brank
 
 {% youtube d2tRDxgzupU %}
 
@@ -110,26 +108,26 @@ La musique qui va avec : _Les vacances à la mer_, de Mike Brank
 
 Et sinon, par ordre de recommandation :
 
-- _Une Séparation_ - Asghar Farhadi : Ours d'or du meilleur film en 2011, un
-  très beau film iranien sur la justice et la fierté, qui finit par forcer les
-  gens aux meilleures intentions et à la meilleure volonté possibles à ne plus
-  se regarder dans les yeux.
-- _Pater_ - Alain Cavalier : un film qui sort de l'ordinaire, imaginatif, simple
-  et prenant… Ce qui fout les jetons, c'est qu'après deux heures de film, on se
-  dit que Cavalier et Lindon feraient de bien meilleurs présidents que tous les
-  présidentiables réels actuels.
-- _La Conquête_ - Xavier Durringer : syndrome _The Social Network_ du film
-  intéressant pour raconter une chronologie d'événements réels. Après, la
-  scénarisation, les qualités et défauts prêtés aux différents personnages et la
-  valeur artistique du film laissent perplexes.
-- _Very Bad Trip/The Hangover 2_ - Todd Phillips : on rigole gentiment pendant
-  98% du film, on rit franchement dans les 2% finaux
-- _Beginners_ - Mike Mills : la sensibilité de Mills est prometteuse, [comme on
-  l'avait déjà dit il y a 5 ans][i333], mais il tarde à confirmer dans ce film
-  assez ennuyeux
-- _Animal Kingdom_ - David Michôd : si l'ambiance arrive parfois à être
-  prenante, le scénario est bancal et le jeune héros nous convainct que confier
-  un premier rôle à Zinédine Zidane ne serait pas une riche idée
+- [_Une Séparation_][h], d’Asghar Farhadi : Ours d'or du meilleur film en 2011,
+  un très beau film iranien sur la justice et la fierté, qui finit par forcer
+  les gens aux meilleures intentions et à la meilleure volonté possibles à ne
+  plus se regarder dans les yeux.
+- [_Pater_][i], d’Alain Cavalier : un film qui sort de l'ordinaire, imaginatif,
+  simple et prenant… Ce qui fout les jetons, c'est qu'après deux heures de film,
+  on se dit que Cavalier et Lindon feraient de bien meilleurs présidents que
+  tous les présidentiables réels actuels.
+- [_La Conquête_][j], de Xavier Durringer : syndrome [_The Social Network_][k]
+  du film intéressant pour raconter une chronologie d'événements réels. Après,
+  la scénarisation, les qualités et défauts prêtés aux différents personnages et
+  la valeur artistique du film laissent perplexes.
+- [_The Hangover Part II_][l] (_Very Bad Trip 2_), de Todd Phillips : on rigole
+  gentiment pendant 98% du film, on rit franchement dans les 2% finaux.
+- [_Beginners_][m], de Mike Mills : la sensibilité de Mills est prometteuse,
+  [comme on l'avait déjà dit il y a 5 ans][i333], mais il tarde à confirmer dans
+  ce film assez ennuyeux.
+- [_Animal Kingdom_][n], de David Michôd : si l'ambiance arrive parfois à être
+  prenante, le scénario est bancal et le jeune héros nous convainc que confier
+  un premier rôle à Zinédine Zidane ne serait pas une riche idée.
 
 [i824]: {% post_url 2011/2011-04-12-cine-club-moi-j-vous-dis-05 %}
 
@@ -137,10 +135,9 @@ Et sinon, par ordre de recommandation :
 
 [i333]: {% post_url 2006/2006-09-18-thumbsucker-mike-mills %}
 
-[1]: https://www.cineclubdecaen.com/realisateur/moretti/chambredufils.htm
-[2]:
-  https://web.archive.org/web/20071005065649/http://www.cinetic.be/spip.php?article80
-[3]: https://www.dailymotion.com/video/x8tgu7 "Générique de Punky Brewster"
+[1]: https://song.link/fr/i/724418782 "By This River, de Brian Eno"
+[2]: https://song.link/fr/i/444346680 "Les Vacances à la Mer, de Mike Brank"
+[3]: https://www.youtube.com/watch?v=lYL04hqPTP8 "Générique de Punky Brewster"
 [4]:
   https://www.dailymotion.com/video/x3z07e
   "Talladega Nights - Ricky meets Jean Girard"
@@ -148,7 +145,20 @@ Et sinon, par ordre de recommandation :
 [6]:
   https://www.youtube.com/watch?v=cfgfQoN-zHk
   "La Carioca dans La Cité de la Peur"
+[7]:
+  https://fr.wikipedia.org/wiki/Mari%C3%A9s,_deux_enfants
+  "Mariés, deux enfants"
 [a]: https://www.themoviedb.org/movie/52270-cluny-brown
 [b]: https://www.themoviedb.org/movie/198-to-be-or-not-to-be
 [c]: https://www.themoviedb.org/movie/22998-to-be-or-not-to-be
 [d]: https://www.themoviedb.org/movie/20334-the-shop-around-the-corner
+[e]: https://www.themoviedb.org/movie/11447-la-stanza-del-figlio
+[f]: https://www.themoviedb.org/movie/79850-ni-vendre-ni-louer
+[g]: https://www.themoviedb.org/movie/52350-les-petits-ruisseaux
+[h]: https://www.themoviedb.org/movie/60243
+[i]: https://www.themoviedb.org/movie/78162-pater
+[j]: https://www.themoviedb.org/movie/65233-la-conquete
+[k]: https://www.themoviedb.org/movie/37799-the-social-network
+[l]: https://www.themoviedb.org/movie/45243-the-hangover-part-ii
+[m]: https://www.themoviedb.org/movie/55347-beginners
+[n]: https://www.themoviedb.org/movie/44629-animal-kingdom
