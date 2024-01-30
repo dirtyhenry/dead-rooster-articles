@@ -84,6 +84,8 @@ elle évoluera sans doute avec le temps. Là voici.
 54. The White Stripes - _Fell In Love With a Girl_
 55. Graham Coxon - _People of the Earth_
 
+Photo de [Thomas Kelley][2] sur [Unsplash][3].
+
 [^1]:
     Se référer à [cette explication][i2] de la différence entre une playlist et
     une compile.
@@ -94,3 +96,7 @@ elle évoluera sans doute avec le temps. Là voici.
 
 [1]:
   https://www.artofmanliness.com/character/behavior/podcast-912-the-science-of-getting-psyched-up/
+[2]:
+  https://unsplash.com/@thkelley?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash
+[3]:
+  https://unsplash.com/photos/gray-ge-volt-meter-at-414-xVptEZzgVfo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash

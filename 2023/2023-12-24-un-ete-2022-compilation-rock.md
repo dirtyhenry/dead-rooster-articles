@@ -6,7 +6,9 @@ authors:
   - Dirty Henry
   - Joe Gantdelaine
 excerpt: >-
-  La compilation des titres qu'on a aimés à l'été 2022, disponible sur Spotify.
+  La compilation des titres qu'on a aimés à l'été 2022, disponible sur Spotify,
+  avec Blur, Black Country, New Road, Sharon Van Etten, Auli'i Cravalho et
+  Django Django.
 cover: un-ete-2022.webp
 category: Compile
 tags:

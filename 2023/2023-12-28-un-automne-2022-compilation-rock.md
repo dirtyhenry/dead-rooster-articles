@@ -7,7 +7,7 @@ authors:
   - Joe Gantdelaine
 excerpt: >-
   La compilation des titres qu'on a aimés à l'automne 2022, disponible sur
-  Spotify.
+  Spotify, avec Billy Preston, CMAT, Orelsan, Jessé Garon' et Spain.
 cover: un-automne-2022.webp
 category: Compile
 ---
