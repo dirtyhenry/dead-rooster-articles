@@ -9,7 +9,7 @@ excerpt: >-
   La compilation des titres qu'on a aimés au printemps 2023, disponible sur
   Spotify, avec The Monkees, The Turtles, The Righteous Brothers, Public Service
   Broadcasting et Jonathan Jeremiah.
-image: un-printemps-2023.webp
+cover: un-printemps-2023.webp
 category: Compile
 ---
 
