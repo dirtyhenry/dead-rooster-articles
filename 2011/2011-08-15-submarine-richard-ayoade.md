@@ -50,7 +50,7 @@ Le carnet d’adresses d’Ayoade est aussi bien fourni puisque que c’est Ben
 Stiller qui est à la production de _Submarine_, mais, surtout, Alex Turner,
 leader des susmentionnés Arctic Monkeys et Last Shadow Puppets signe la B.O. du
 film, recommandée (_[Piledriver Waltz][2]_ en tête) et composée de six titres
-originaux qui offrent à Turner la possibilité de s'exprimer dans un registre
+originaux qui offrent à Turner la possibilité de s’exprimer dans un registre
 assez différent de celui de ses groupes : la balade acoustique et mélancolique.
 
 En ce qui concerne le style du film, Ayoade avait dû répondre lors du dernier

@@ -28,11 +28,11 @@ tags:
 1. Sharon Van Etten - _The End of the World_
 1. French Cowboy & Lisa Li-Lund - _End of the Story_
 1. Superorganism - _Everybody Wants To Be Famous_
-1. Chantal Goya - _Tu M'as Trop Menti_
+1. Chantal Goya - _Tu M’as Trop Menti_
 1. Manfred Mann Chapter Three - _One Way Glass_
 1. Rogér Fakhr - _Lady Rain_
 1. Kate Bush - _Running Up That Hill (A Deal With God)_
-1. The Lovely Eggs - _Don't Look at Me (I Don't Like It)_
+1. The Lovely Eggs - _Don’t Look at Me (I Don’t Like It)_
 1. Benjamin Schoos & Laetitia Sadier - _Je ne vois que vous_
 1. Boris Vian - _Complainte Du Progrès_
 1. Ben Folds - _Capable Of Anything_

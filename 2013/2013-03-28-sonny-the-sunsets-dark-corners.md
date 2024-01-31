@@ -12,7 +12,7 @@ oreilles.
 
 {% soundcloud 83836899 %}
 
-N'oubliez pas de réécouter leur excellente reprise d'[_Imagine_][i1195] ou leur
+N’oubliez pas de réécouter leur excellente reprise d’[_Imagine_][i1195] ou leur
 hit [_I Wanna Do It_][i827].
 
 (via

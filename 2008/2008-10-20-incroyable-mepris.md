@@ -9,5 +9,5 @@ cover: compagnie-creole.jpg
 category: Le monde va mal
 ---
 
-Lors du dernier épisode d'Incroyable Talent, l'Homme le plus Fort de France a
+Lors du dernier épisode d’Incroyable Talent, l’Homme le plus Fort de France a
 fait son numéro sans même saluer La Compagnie Créole. Le monde va mal !

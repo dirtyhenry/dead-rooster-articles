@@ -22,11 +22,11 @@ Depuis une dizaine de semaines, Allociné propose une émission bien marrante :
 Chaque samedi, cette émission met en lumière les faux raccords de films
 célèbres : _Gladiator_, la trilogie Jason Bourne, _Pirates des Caraïbes_, etc.
 Au menu cette semaine, [_Les Dents de la Mer_][2] qui, bizarrement, me fout
-nettement moins les jetons qu'il y a 20 ans… Par contre, malheur, l'émission
+nettement moins les jetons qu’il y a 20 ans… Par contre, malheur, l’émission
 devient bihebdomadaire.
 
 [Jonathan Lambert avait bien essayé de dénoncer les faux raccords en son
-temps][1], mais, images à l'appui, c'est quand même bien plus efficace.
+temps][1], mais, images à l’appui, c’est quand même bien plus efficace.
 
 [1]: https://youtu.be/he3WJLOh4kk?t=2522
 [2]: https://www.allocine.fr/video/video-19096015/

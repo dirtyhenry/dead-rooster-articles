@@ -9,5 +9,5 @@ cover: electrelane.jpg
 category: Le monde va mal
 ---
 
-Electrelane rentre dans une phase de "indefinite hiatus". En d'autres termes, le
+Electrelane rentre dans une phase de "indefinite hiatus". En d’autres termes, le
 groupe se sépare. Le monde va mal !

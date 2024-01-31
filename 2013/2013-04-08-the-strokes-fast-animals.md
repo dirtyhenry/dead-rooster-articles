@@ -12,15 +12,15 @@ tags:
 
 {% youtube a-TXdA79XeQ %}
 
-Aujourd'hui, j'avais prévu une version acoustique de _Song 2_ (un titre qui fête
-aujourd'hui ses 16 ans, le bad intégral !) mais le compte YouTube qui jouait la
+Aujourd’hui, j’avais prévu une version acoustique de _Song 2_ (un titre qui fête
+aujourd’hui ses 16 ans, le bad intégral !) mais le compte YouTube qui jouait la
 vidéo a été fermé depuis hier.
 
-Du coup, je vais [faire chier Joe Gantdelaine pour la 2ème fois en moins d'une
+Du coup, je vais [faire chier Joe Gantdelaine pour la 2ème fois en moins d’une
 semaine][i3], en vous présentant _Fast Animals_ des Strokes, la face B du single
-que les Strokes publieront à l'occasion du Record Store Day le 20 avril.
+que les Strokes publieront à l’occasion du Record Store Day le 20 avril.
 
-N'hésitez pas à réécouter [_All The Time_][i1], qui sera la face A du même
+N’hésitez pas à réécouter [_All The Time_][i1], qui sera la face A du même
 single, ou [la reprise de _Just What I Needed_ avec Jarvis Cocker][i2].
 
 (via [Stereogum][1])

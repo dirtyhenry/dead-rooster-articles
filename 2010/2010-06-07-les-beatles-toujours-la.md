@@ -20,18 +20,18 @@ encore prêts de quitter la scène publique !
 
 ## McCartney et Barack
 
-D'abord, scène improbable où **Paul McCartney** fait reprendre le refrain de
+D’abord, scène improbable où **Paul McCartney** fait reprendre le refrain de
 _Hey Jude_ bras dessus-bras dessous avec le président Obama et son épouse, Jack
-White, Seinfeld et bien d'autres :
+White, Seinfeld et bien d’autres :
 
 {% youtube xxkVAXSUdW8 %}
 
 ## Andre 3000 et Magic
 
-Ensuite, **Andre 3000** fait une pub pour Nike à l'occasion de la finale NBA en
+Ensuite, **Andre 3000** fait une pub pour Nike à l’occasion de la finale NBA en
 cours et montre de magnifiques images des Pippen, Magic Johnson, Barkley,
 Robinson, Pat Ewing (avec de magnifiques lunettes), Pat Riley, Gary Payton, John
-Stockton et pleins d'autres à trouver qui raviront les nostalgiques de la NBA du
+Stockton et pleins d’autres à trouver qui raviront les nostalgiques de la NBA du
 siècle précédent, le tout sur le _All Together Now_ du duo Lennon/McCartney.
 
 {% youtube BgqO06FG_5w %}

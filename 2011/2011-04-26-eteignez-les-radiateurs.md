@@ -11,7 +11,7 @@ tags:
   - Plastic Bertrand
 ---
 
-J'apprends ce soir l'existence et, malheureusement, la mort d'une chanteuse punk
-nommée Poly Styrene. Là où c'est moche, c'est que ça fait longtemps que je n'ai
+J’apprends ce soir l’existence et, malheureusement, la mort d’une chanteuse punk
+nommée Poly Styrene. Là où c’est moche, c’est que ça fait longtemps que je n’ai
 pas de nouvelles de Plastic Bertrand. Je commence à avoir peur ! Le monde va
 mal !

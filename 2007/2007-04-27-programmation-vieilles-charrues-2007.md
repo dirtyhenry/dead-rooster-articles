@@ -20,7 +20,7 @@ Les meilleurs moments :
 - **Vendredi** : Arcade Fire, LCD Soundsystem, Clap Your Hands Say Yeah, Art
   Brut
 - **Samedi** : Kaiser Chiefs, Emilie Simon, Sean Lennon, Justice, Herman Düne
-- **Dimanche** : Klaxons… C'est à peu près tout
+- **Dimanche** : Klaxons… C’est à peu près tout
 
-Bref, on zappe le jeudi, on s'éclate sans limite vendredi et samedi parce que le
+Bref, on zappe le jeudi, on s’éclate sans limite vendredi et samedi parce que le
 dimanche on pourra faire la sieste pendant Yannick Noah.

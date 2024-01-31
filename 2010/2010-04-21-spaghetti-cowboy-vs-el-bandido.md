@@ -10,7 +10,7 @@ tags:
   - Feist
 ---
 
-A une époque, le fun chez les artistes, c'était monnaie courante comme le prouve
+A une époque, le fun chez les artistes, c’était monnaie courante comme le prouve
 moults extraits du _Sasha Show_.
 
 De nos jours, ça se fait plus rare mais heureusement, quelques exceptions

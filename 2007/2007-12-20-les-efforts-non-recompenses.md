@@ -10,6 +10,6 @@ tags:
   - Foot
 ---
 
-Stéphane Dalmat n'a toujours pas reçu le ballon de plomb. Travailler dur ne
-suffit toujours pas, l'injustice fait encore la loi de nos jours. Le monde va
+Stéphane Dalmat n’a toujours pas reçu le ballon de plomb. Travailler dur ne
+suffit toujours pas, l’injustice fait encore la loi de nos jours. Le monde va
 mal !

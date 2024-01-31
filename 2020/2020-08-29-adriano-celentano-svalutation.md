@@ -8,8 +8,8 @@ category: Chanson du jour
 
 {% youtube mSYpXal_QcA %}
 
-Ce titre ovni m'avait toujours épaté. Un passage radio ce matin sur France Inter
-m'a définitivement convaincu que c'était une grande chanson qui méritait sa
+Ce titre ovni m’avait toujours épaté. Un passage radio ce matin sur France Inter
+m’a définitivement convaincu que c’était une grande chanson qui méritait sa
 place ici.
 
 Qui plus est, une lecture rapide de [la page Wikipedia de son interprète][1] est

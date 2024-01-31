@@ -12,7 +12,7 @@ tags:
 {% youtube gmkb6YBboNs %}
 
 Allez, en attendant la rentrée et des améliorations et des nouveaux contenus sur
-ce site, voici un petit plaisir, découvert à l'écoute du [dernier Downtown][1].
+ce site, voici un petit plaisir, découvert à l’écoute du [dernier Downtown][1].
 
 > Contrôle de la poitrine, reprise de la volée en plein coeur.
 

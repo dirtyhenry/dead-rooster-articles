@@ -10,9 +10,9 @@ tags:
   - Bob Dylan
 ---
 
-Dans [l'exposition consacrée à Bob Dylan][1] actuellement à la Cité de la
+Dans [l’exposition consacrée à Bob Dylan][1] actuellement à la Cité de la
 Musique, on apprend que le musicien est natif de Duluth, Minnesota. Mais ce que
-l'on ne nous dit pas, c'est que l'album [_Highway 61 Revisited_][2] lui coûta
+l’on ne nous dit pas, c’est que l’album [_Highway 61 Revisited_][2] lui coûta
 [pas moins de 3 wagons verts, 2 wagons blancs, 3 wagons rouges et 2 cartes
 loco][3] ! Le monde va mal !
 

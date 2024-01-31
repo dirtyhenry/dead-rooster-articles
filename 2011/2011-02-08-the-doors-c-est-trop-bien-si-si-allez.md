@@ -72,46 +72,46 @@ comments:
       féminins)'
 ---
 
-The Doors, c'est vraiment trop bien comme groupe.
+The Doors, c’est vraiment trop bien comme groupe.
 
-Ils ont fait plein de tubes trop bien. À commencer par le morceau d'ouverture de
-leur tout premier album. _Break on through (to the other side)_, ça c'est du
-titre de rock'n'roll ! Calibré pour la radio en plus : deux minutes et trente
-secondes environ. Certes, le morceau est un peu répétitif et on s'emmerde un peu
-sur la fin, mais restons positif : c'est pas un mince exploit de réussir à
-rendre un morceau aussi court aussi pénible ! Chapeau l'artiste.
+Ils ont fait plein de tubes trop bien. À commencer par le morceau d’ouverture de
+leur tout premier album. _Break on through (to the other side)_, ça c’est du
+titre de rock’n’roll ! Calibré pour la radio en plus : deux minutes et trente
+secondes environ. Certes, le morceau est un peu répétitif et on s’emmerde un peu
+sur la fin, mais restons positif : c’est pas un mince exploit de réussir à
+rendre un morceau aussi court aussi pénible ! Chapeau l’artiste.
 
-Et puis y'a _Light My Fire_ aussi ! Le morceau est top ! Faut dire qu'il est
-vachement plus ambitieux : presque 7 minutes. OK, c'est vrai que pour rien au
+Et puis y’a _Light My Fire_ aussi ! Le morceau est top ! Faut dire qu’il est
+vachement plus ambitieux : presque 7 minutes. OK, c’est vrai que pour rien au
 monde, je souhaiterais me retrouver à devoir jouer la basse de ce morceau aussi
-longtemps et, c'est également vrai, ils nous sortent des solos un peu longuets
-pour meubler : ils commencent à 1:06 et finissent à 5:35. C'est peut-être pour
-ça qu'ils sont pas au top sur leur intégralité. Vas-y toi qu'est si malin à
+longtemps et, c’est également vrai, ils nous sortent des solos un peu longuets
+pour meubler : ils commencent à 1:06 et finissent à 5:35. C’est peut-être pour
+ça qu’ils sont pas au top sur leur intégralité. Vas-y toi qu’est si malin à
 faire un solo de 4:30 qui soit bien tout du long ! Non, ça, un solo de 4:30,
-c'est vraiment une bonne grosse idée à la con que seul un groupe aussi génial
+c’est vraiment une bonne grosse idée à la con que seul un groupe aussi génial
 que les Doors peut maîtriser.
 
 Sans oublier le dernier gros tube majeur du groupe *Riders On The Storm* :
 imparable ! Là encore, on est autour des 7 minutes. Pas un mince exploit ça non
 plus : deux des trois titres majeurs du groupe font 7 minutes ! Déjà 1 bon titre
-de 7 minutes, c'est pas facile à faire vous savez ! Sérieux ! Faut être
-drôlement doué pour faire en sorte que l'auditeur se fasse pas chier au bout
-d'un moment sur un morceau de 7 minutes ! Du coup, faut pas jeter la pierre aux
-Doors… Parce que c'est vrai qu'on s'emmerde grave à la fin du titre mais cela
-n'enlève rien du tout, encore une fois, à sa valeur ! Merde à la fin, c'est Jim
-Morrison qui l'a écrit ! L'un des plus grands poètes du XXème siècle !
+de 7 minutes, c’est pas facile à faire vous savez ! Sérieux ! Faut être
+drôlement doué pour faire en sorte que l’auditeur se fasse pas chier au bout
+d’un moment sur un morceau de 7 minutes ! Du coup, faut pas jeter la pierre aux
+Doors… Parce que c’est vrai qu’on s’emmerde grave à la fin du titre mais cela
+n’enlève rien du tout, encore une fois, à sa valeur ! Merde à la fin, c’est Jim
+Morrison qui l’a écrit ! L’un des plus grands poètes du XXème siècle !
 
-Si, c'est un des plus grands poètes du XXème siècle ! D'ailleurs c'est pour ça
-qu'il y a des films sur lui. Pas plus tard que l'année dernière, avec _When
-You're Strange_. On voyait disons le Jim Morrison tel qu'il était vraiment, pas
-comme quand il était interprété par Val Kilmer dans le film d'Oliver Stone. Bon,
-là aussi, on s'est grave fait chier et Jim Morrison avait plutôt l'air d'un
-bouffon bourré que d'un poète. Mais ce doit être la faute de Tom DiCillo, le
+Si, c’est un des plus grands poètes du XXème siècle ! D’ailleurs c’est pour ça
+qu’il y a des films sur lui. Pas plus tard que l’année dernière, avec _When
+You’re Strange_. On voyait disons le Jim Morrison tel qu’il était vraiment, pas
+comme quand il était interprété par Val Kilmer dans le film d’Oliver Stone. Bon,
+là aussi, on s’est grave fait chier et Jim Morrison avait plutôt l’air d’un
+bouffon bourré que d’un poète. Mais ce doit être la faute de Tom DiCillo, le
 réalisateur du documentaire.
 
-Mais quand même, les Doors, c'est des génies du rock non ? Y'a qu'à voir le riff
+Mais quand même, les Doors, c’est des génies du rock non ? Y’a qu’à voir le riff
 de *Love Me Two Times* ! Il est terrible quand même non ? Il fait au moins 4
-secondes et le reste de la chanson est pleine d'autres idées intéressantes
+secondes et le reste de la chanson est pleine d’autres idées intéressantes
 comme… comme…
 
-Et merde, The Doors, c'est vraiment à chier comme groupe !
+Et merde, The Doors, c’est vraiment à chier comme groupe !

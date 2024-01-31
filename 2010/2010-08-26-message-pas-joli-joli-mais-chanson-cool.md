@@ -21,7 +21,7 @@ comments:
       https://stereogum.com/493071/cee-lo-fuck-you-video/video/
 ---
 
-C'est pas tous les jours qu'on cite ici des œuvres pouvant être cataloguées
+C’est pas tous les jours qu’on cite ici des œuvres pouvant être cataloguées
 "hip-hop" mais ce nouveau titre de **Cee-Lo** est hyper catchy et finalement
 très cool. On peut même dire que [Cee-Lo est le nouveau Lily Allen](br28).
 
@@ -29,7 +29,7 @@ Mais par contre, le clip, je le trouve très bien comme ça, pourquoi penser à 
 changer ? (cf. le "Expect a full video for the track next week" sur la page
 YouTube)
 
-ps : le texte de cette chanson n'est pas poli. Merci de ne pas le chanter chez
+ps : le texte de cette chanson n’est pas poli. Merci de ne pas le chanter chez
 vous.
 
 {% youtube CAV0XrbEwNc %}

@@ -12,35 +12,35 @@ cover: the-notwist.jpg
 ---
 
 Ils nous avaient laissés, il y a de ça 6 ans déjà, après la sortie de
-l'excellent [_Neon Golden_][1]. Tellement excellent, qu'on n'écoutait plus le
-précédent album de **The Notwist** qu'en de trop rares occasions, comme une
+l’excellent [_Neon Golden_][1]. Tellement excellent, qu’on n’écoutait plus le
+précédent album de **The Notwist** qu’en de trop rares occasions, comme une
 sorte de bouée de sauvetage, de point de repère. Tous les 6 mois environ, après
 avoir entendu autant de daubes sans nom que de magnifiques fulgurances qui
-disparaissaient 10 jours plus tard. C'est une valeur sûre, un mètre-étalon.
-Alors après ce mini chef-d'œuvre, les allemands ne pouvaient que décevoir, non ?
+disparaissaient 10 jours plus tard. C’est une valeur sûre, un mètre-étalon.
+Alors après ce mini chef-d’œuvre, les allemands ne pouvaient que décevoir, non ?
 
-Eh bien non ! Alors certes, ce [_The Devil, You + Me_][2] n'a plus la fraîcheur
-de son prédécesseur, puisqu'il en est une copie, certes pas tout à fait
+Eh bien non ! Alors certes, ce [_The Devil, You + Me_][2] n’a plus la fraîcheur
+de son prédécesseur, puisqu’il en est une copie, certes pas tout à fait
 conforme, mais tout de même. Dès [_Good Lies_][3], nous voila en terrain connu :
 un rock mâtiné de bidouillages électroniques… ils nous avaient déjà fait le même
-coup les amis d'outre-Rhin. Il n'empêche : la recette fonctionne ! On demeure
-rêveur à l'écoute de [_Where in this World_][4], un titre tout en tension
+coup les amis d’outre-Rhin. Il n’empêche : la recette fonctionne ! On demeure
+rêveur à l’écoute de [_Where in this World_][4], un titre tout en tension
 tranquille, ou de [_Gloomy Planets_][5], à la tranquillité tendue.
 
 Par la suite, le groupe nous fait part de sa maîtrise des changements de rythme,
-passant du paisible et calme [titre][6] qui donne son nom à l'album à
+passant du paisible et calme [titre][6] qui donne son nom à l’album à
 [_Gravity_][7] au tempo beaucoup plus soutenu. Nouvelle chute des bpm avec
 [_Sleep_][8] tout en contemplation, et [_On Planet Off_][9], très certainement
-le morceau le plus faible de l'album (tant dans la vitesse que dans la qualité).
+le morceau le plus faible de l’album (tant dans la vitesse que dans la qualité).
 
-Heureusement, alors que l'on risquait de s'endormir à 3 chansons de la fin, la
+Heureusement, alors que l’on risquait de s’endormir à 3 chansons de la fin, la
 fine équipe nous offre [_Boneless_][10], la meilleure chanson du disque
-(d'ailleurs choisie comme second single). Et puis, pour clore le débat, le
+(d’ailleurs choisie comme second single). Et puis, pour clore le débat, le
 rythme redevient languissant, doux, laissant la place au calme et à la volupté.
 
 Pour résumer, voici donc un effort de bonne facture, qui réjouira les amateurs
 du précédent opus sans pour autant pouvoir rivaliser avec _Neon Golden_, qui
-fera sans doute à jamais office de point d'orgue dans la carrière du groupe.
+fera sans doute à jamais office de point d’orgue dans la carrière du groupe.
 
 Niveau du disque : **Tapissier**
 

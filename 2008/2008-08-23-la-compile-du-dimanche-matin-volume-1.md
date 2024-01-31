@@ -18,10 +18,10 @@ tags:
 
 {% spotify 0GkIj6KquwqO8rFFso5rBA %}
 
-1. Grandaddy - _He's Simple, He's Dumb, He's the Pilot_
+1. Grandaddy - _He’s Simple, He’s Dumb, He’s the Pilot_
 1. The Velvet Underground - _Sunday Morning_
 1. Lady and Bird - _Stephanie Says_
-1. Beck - _Everybody's Gotta Learn Sometime_
+1. Beck - _Everybody’s Gotta Learn Sometime_
 1. The Notwist - _Consequence_
 1. Elliott Smith - _Between the Bars_
 1. Yo La Tengo - _Center of Gravity_

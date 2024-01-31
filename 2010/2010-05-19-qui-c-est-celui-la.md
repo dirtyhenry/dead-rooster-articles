@@ -15,18 +15,18 @@ tags:
 ---
 
 Cette semaine, la reprise de **Katerine, Francis et ses peintres** est _Qui
-c'est celui là ?_, de Pierre Vassiliu.
+c’est celui là ?_, de Pierre Vassiliu.
 
-L'originale est ici :
+L’originale est ici :
 
 {% youtube ZpHkbNqY7zY %}
 
-Et s’il vous plaît, respect au grand Pierre : [c'est pas tout le monde qui ouvre
-pour les Beatles à l'Olympia][1] !
+Et s’il vous plaît, respect au grand Pierre : [c’est pas tout le monde qui ouvre
+pour les Beatles à l’Olympia][1] !
 
-C'était le dernier titre pronostiqué par Hervé qu'il lui manquait. Il marque 4
-nouveaux points et fait le grand chelem. Félicitations à lui mais m'est avis,
-une nouvelle fois, qu'Hervé doit être dans la sphère du projet de Katerine.
+C’était le dernier titre pronostiqué par Hervé qu’il lui manquait. Il marque 4
+nouveaux points et fait le grand chelem. Félicitations à lui mais m’est avis,
+une nouvelle fois, qu’Hervé doit être dans la sphère du projet de Katerine.
 
 - 1. Hervé, 15pts
 - 2. Rodrigue et Joe, 5pts

@@ -9,5 +9,5 @@ category: Le monde va mal
 cover: nouvelle-star.png
 ---
 
-C'est quoi l'inverse ? Une émission connue avec des chanteurs mauvais ? Le monde
+C’est quoi l’inverse ? Une émission connue avec des chanteurs mauvais ? Le monde
 va mal !

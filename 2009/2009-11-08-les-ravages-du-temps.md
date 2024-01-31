@@ -18,6 +18,6 @@ tags:
   - Rolland Courbis
 ---
 
-Les 4 photos ci-dessus sont de la même personne… Ce qu'il s'est passé entre
-l'homme le plus à gauche à l'homme le plus à droite ? Le temps a passé, c'est
+Les 4 photos ci-dessus sont de la même personne… Ce qu’il s’est passé entre
+l’homme le plus à gauche à l’homme le plus à droite ? Le temps a passé, c’est
 tout. Le monde va mal !

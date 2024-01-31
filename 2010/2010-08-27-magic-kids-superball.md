@@ -13,7 +13,7 @@ tags:
 
 {% youtube inp3Dh1zib8 %}
 
-Le groupe de Memphis **Magic Kids** nous invite à imaginer qu'on est en
+Le groupe de Memphis **Magic Kids** nous invite à imaginer qu’on est en
 Californie dans les années 60.
 
 (via feu iguessimfloating.net)

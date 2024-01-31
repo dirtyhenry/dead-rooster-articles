@@ -11,11 +11,11 @@ tags:
 cover: trophee-coupe-monde.jpg
 ---
 
-Ça fait un mois que c'est fini tout ça mais 2 choses sont à retenir :
+Ça fait un mois que c’est fini tout ça mais 2 choses sont à retenir :
 
 1. Cette citation de Ribéry :
 
-   > Je serai d'abord timide. Je ne vais pas sortir un blague à Zidane pour
+   > Je serai d’abord timide. Je ne vais pas sortir un blague à Zidane pour
    > commencer ! Pas tout de suite, peut-être le deuxième jour !
 
 2. Graham Coxon a enregistré un hymne de Coupe du monde non officiel pour

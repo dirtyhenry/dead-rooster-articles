@@ -38,8 +38,8 @@ seen here][i706].
 
 If Lee Mavers was twenty years younger, was taking anti-depressants and Frosties
 for breakfast, was born in San Fransico and spent more time at the beach, The
-La's would be called The Fresh & Onlys. Of course, the comparison is completely
-stupid, but let's face it: same taste for the coolest possible folk (_Until The
+La’s would be called The Fresh & Onlys. Of course, the comparison is completely
+stupid, but let’s face it: same taste for the coolest possible folk (_Until The
 End Of Time_, _Red Light, Green Light_), same mix of perfect pop songs
 (_Waterfall_ for sure, but _Be My Hooker_ and _Plague Of Frogs_ as well) and
 epic titles (_Tropical Island Suite_).
@@ -48,7 +48,7 @@ epic titles (_Tropical Island Suite_).
 
 It may sound too wise to be a great record, but Fresh & Onlys can also be weird
 and crazy as in _Who Needs A Man_, which does make _Play It Strange_ the best
-record we've listened to for a while. And, unlike The La's, The Fresh & Onlys
+record we’ve listened to for a while. And, unlike The La’s, The Fresh & Onlys
 release a lot of stuff : _Play It Strange_ is already the third album of the
 band. We should try to get _The Fresh & Onlys_ and _Grey-Eyed Girls_, the two
 previous albums, as fast as we can.

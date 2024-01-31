@@ -19,52 +19,52 @@ revisions:
 
 Harold est un jeune de la haute, pété de thunes mais totalement aliéné de la
 vraie vie par une mère superficielle mais exigeante. Il laisse le temps
-s'écouler en mettant en scène des simulations de suicide. Maude va sur ses 80
-piges, elle est aussi dans son monde à elle, mais elle s'y éclate à donf. Tout
+s’écouler en mettant en scène des simulations de suicide. Maude va sur ses 80
+piges, elle est aussi dans son monde à elle, mais elle s’y éclate à donf. Tout
 deux pratiquent le _funeral crashing_[^1], et à force de se croiser lors des
-enterrements qu'ils piratent, ils deviennent potes, et semblent vouloir se
+enterrements qu’ils piratent, ils deviennent potes, et semblent vouloir se
 pécho.
 
 ## Les impressions
 
-Quand on est un tantinet réceptif à un humour absurde et froid et qu'on regarde
-ce film, on rit beaucoup. C'est déjà bien. Mais pas que.
+Quand on est un tantinet réceptif à un humour absurde et froid et qu’on regarde
+ce film, on rit beaucoup. C’est déjà bien. Mais pas que.
 
 Le film met superbement en scène cette impression rare mais familière de
-**reconnaître quelqu'un**. Le jour de la rentrée, ou le premier jour dans un
+**reconnaître quelqu’un**. Le jour de la rentrée, ou le premier jour dans un
 nouveau job, on scanne les nouvelles têtes et on cherche avec qui on va être
-copains : qui a l'air d'être fait du même bois, qui a des yeux qui nous parlent,
-et qui va nous aider à tromper l'angoisse de ne trouver personne qui va de pair
-avec ce genre d'événements. On cherche celui qui va porter un beau tee-shirt des
+copains : qui a l’air d’être fait du même bois, qui a des yeux qui nous parlent,
+et qui va nous aider à tromper l’angoisse de ne trouver personne qui va de pair
+avec ce genre d’événements. On cherche celui qui va porter un beau tee-shirt des
 Beatles, le maillot du Stade Brestois, va avoir des badges sur son sac, tout
-cela sert de costume d'apparat à ces cérémonies platoniques. Maude va
-**reconnaître** Harold, et lui faire découvrir l'amitié, d'abord, mais quand on
+cela sert de costume d’apparat à ces cérémonies platoniques. Maude va
+**reconnaître** Harold, et lui faire découvrir l’amitié, d’abord, mais quand on
 est un homme et une femme, chacun hétéro, ça peut vite déraper vers autre chose.
 Grand bien leur fasse.
 
 Un détail dans le film est essentiel : le tatouage de Maude, [stigmate][2] de
 son passage dans les camps de concentration nazis. On a vite fait de passer à
-côté, mais ce détail aide à comprendre qu'après ce trauma, Maude existe pour
-vivre et est très à l'aise avec la mort. Elle en est même curieuse et lui donne
+côté, mais ce détail aide à comprendre qu’après ce trauma, Maude existe pour
+vivre et est très à l’aise avec la mort. Elle en est même curieuse et lui donne
 rendez-vous. Harold, lui, est une âme candide, innocente, pris de vertige par le
 vide de sa propre vie, croit que la mort peut être la solution de son incapacité
-à vivre. Ces deux-là ont donc beaucoup de chose à se dire, et on n'est jamais
-choqué par la différence d'âge, tellement extrême qu'une division en serait une
+à vivre. Ces deux-là ont donc beaucoup de chose à se dire, et on n’est jamais
+choqué par la différence d’âge, tellement extrême qu’une division en serait une
 expression mathématique plus adaptée.
 
 ## La musique qui va avec
 
-Quel genre de musique peut bien s'accorder avec un humour aussi noir et froid
+Quel genre de musique peut bien s’accorder avec un humour aussi noir et froid
 que celui du film ? Celui qui contrastera par sa chaleur et son intimité bien
-sûr ! Si Elton John avait été envisagé pour composer la musique du film, c'est
-finalement Cat Stevens — devenu depuis Yusuf Islam — qui s'y colla pour un
-résultat parfait. Une paire de compositions originales — _Don't Be Shy_ and _If
+sûr ! Si Elton John avait été envisagé pour composer la musique du film, c’est
+finalement Cat Stevens — devenu depuis Yusuf Islam — qui s’y colla pour un
+résultat parfait. Une paire de compositions originales — _Don’t Be Shy_ and _If
 You Want to Sing Out, Sing Out_ — et quelques instrumentaux et réinterprétations
 de ses titres et le tour était joué.
 
-Pour moi, Cat Stevens était surtout l'auteur de _Father and Son_ et de _Wild
+Pour moi, Cat Stevens était surtout l’auteur de _Father and Son_ et de _Wild
 World_ mais après _Harold and Maude_, mon affection pour lui est montée en
-flèche, alors si t'as envie de chanter, chante.
+flèche, alors si t’as envie de chanter, chante.
 
 {% youtube LWGxYlQudOA %}
 
@@ -75,7 +75,7 @@ jeu de la comparaison bien mieux que je ne saurais le faire, donc je vous
 recommande la lecture de [_Double Feature: The Graduate (1967) and Harold and
 Maude (1971)_][4].
 
-**Update** : [_We're Going to Be Friends_][6] est une autre chanson qui capture
+**Update** : [_We’re Going to Be Friends_][6] est une autre chanson qui capture
 bien le déclic de la reconnaissance les jours de rentrée :
 
 {% youtube PKfD8d3XJok %}
@@ -84,7 +84,7 @@ bien le déclic de la reconnaissance les jours de rentrée :
 
 - Le film fut adapté au théâtre où il fut un succès à maintes reprises,
   parlez-en à [Madeleine Renaud][3], Denise Gray ou Line Renaud.
-- Le relatif anonymat d'Hal Ashby ou des interprètes Ruth Gordon et Bud Cort est
+- Le relatif anonymat d’Hal Ashby ou des interprètes Ruth Gordon et Bud Cort est
   assez étonnant étant donné le caractère _culte_ du film (dixit Wikipedia et
   The Ringer[^2]). Une alchimie réussie pour un coup parfait. Bravo.
 

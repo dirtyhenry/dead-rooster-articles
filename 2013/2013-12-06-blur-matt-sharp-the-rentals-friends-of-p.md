@@ -14,7 +14,7 @@ tags:
 
 {% youtube Rg5ZkrwZXrI %}
 
-[The Rentals viennent d'annoncer un nouvel LP][2], avec l'aide du Black Key
+[The Rentals viennent d’annoncer un nouvel LP][2], avec l’aide du Black Key
 Patrick Carney à la batterie.
 
 Aussi, la vidéo est disponible en meilleure qualité sur [mytaratata.com][1].

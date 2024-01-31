@@ -17,14 +17,14 @@ tags:
 Cette semaine, la reprise de **Katerine, Francis et ses peintres** est _Maman a
 tort_, de Mylène Farmer.
 
-Devant un public en folie, Mylène Farmer l'interprète dans ce que je soupçonne
+Devant un public en folie, Mylène Farmer l’interprète dans ce que je soupçonne
 être un playback dans la vidéo qui suit, une belle page de variéte qui montre de
 manière assez troublante comme on peut entendre "abominable" quand Jean-Pierre
 Descombes lance "à vous Mylène" :
 
 {% youtube _lXGVrnLJhM %}
 
-Hervé et Joe l'avaient tous deux pronostiquée en prems et ils marquent donc 5
+Hervé et Joe l’avaient tous deux pronostiquée en prems et ils marquent donc 5
 points chacun :
 
 - 1. Hervé, 11pts

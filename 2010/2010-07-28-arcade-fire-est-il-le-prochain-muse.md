@@ -45,18 +45,18 @@ comments:
       parlerai début septembre, après le concert à Rock en Seine."
 ---
 
-Plus que 5 jours avant la sortie du très attendu 3ème album d'Arcade Fire,
-_Suburbs_. La sortie de cet album est précédé d'un buzz énorme qui, je l'avoue,
-me fait un peu peur : Arcade Fire sera-t-il le prochain Muse ? (j'entends par là
+Plus que 5 jours avant la sortie du très attendu 3ème album d’Arcade Fire,
+_Suburbs_. La sortie de cet album est précédé d’un buzz énorme qui, je l’avoue,
+me fait un peu peur : Arcade Fire sera-t-il le prochain Muse ? (j’entends par là
 "groupe qui fait un premier album génial, puis qui devient progressivement
-insupportable en privilégiant le spectaculaire à la musique, jusqu'à atterrir
+insupportable en privilégiant le spectaculaire à la musique, jusqu’à atterrir
 sur une black liste du bon goût").
 
-Parmi toutes les joyeusetés qui accompagnent la sortie de l'album (qui aura 8
+Parmi toutes les joyeusetés qui accompagnent la sortie de l’album (qui aura 8
 pochette différentes - indice Muse n°1), un concert au Madison Square Garden
 sera diffusé en streaming sur YouTube (indice Muse n°2) et sera filmé par un
-grand réalisateur en la personne de Terry Gilliam, des Monty Python, qu'il n'est
-pas nécessaire de présenter ([si ?][1]). En voici la bande d'annonce :
+grand réalisateur en la personne de Terry Gilliam, des Monty Python, qu’il n’est
+pas nécessaire de présenter ([si ?][1]). En voici la bande d’annonce :
 
 {% vimeo 13497165 %}
 
@@ -68,7 +68,7 @@ faire profiter. Sympa et intelligent.
 Bref, Arcade Fire me fait peur…
 
 ps : pour la bonne cause, la chanteuse du groupe, originaire de Haïti, lance
-[le groupe dans l'humanitaire](http://www.arcadefire.com/haiti/) (indice U2
+[le groupe dans l’humanitaire](http://www.arcadefire.com/haiti/) (indice U2
 n°1).
 
 [1]:

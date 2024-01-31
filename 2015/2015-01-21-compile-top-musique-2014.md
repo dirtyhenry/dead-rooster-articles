@@ -16,14 +16,14 @@ wordpress_id: 1275
 ---
 
 C’est janvier, ça fait longtemps qu’on ne l’a pas fait mais ne serait-ce pas le
-temps de faire un petit Top musical de l'année passée, [comme au bon vieux
+temps de faire un petit Top musical de l’année passée, [comme au bon vieux
 temps][i984] ?
 
 ## Le Top
 
-- Prix **_vieux con_** du mec qui n'a pas assez écouté de disques de 2014 cette
+- Prix **_vieux con_** du mec qui n’a pas assez écouté de disques de 2014 cette
   année : moi
-- Prix **_remise en selle_** de ceux qui vont aider à y remédier l'année
+- Prix **_remise en selle_** de ceux qui vont aider à y remédier l’année
   prochaine : [_Magic_][1] et [le podcast de _Label Pop_][2]
 
 ## La Compile
@@ -57,10 +57,10 @@ temps][i984] ?
 ### Neutral Milk Hotel
 
 OK, le disque date de 1998 mais ce fut la claque de 2014. Leur concert au
-Trianon fut de loin le meilleur depuis des lustres. J'en parle plus en détail
+Trianon fut de loin le meilleur depuis des lustres. J’en parle plus en détail
 [ici][i1].
 
-Pour la compile, j'ai choisi les deux titres les plus immédiats de l'album _In
+Pour la compile, j’ai choisi les deux titres les plus immédiats de l’album _In
 The Aeroplane Over The Sea_ mais son écoute intégrale, comme celle de son
 prédécesseur, _On Avery Island_, sont vivement recommandées.
 
@@ -68,19 +68,19 @@ Et puis de la scie musicale quoi ! [Bravo Maestro !][3]
 
 ### Gandi Lake
 
-Une découverte sympa et j'attends la suite car, pour l'instant, seulement trois
-titres sont disponibles sur les autoroutes de l'information. Programmés aux
+Une découverte sympa et j’attends la suite car, pour l’instant, seulement trois
+titres sont disponibles sur les autoroutes de l’information. Programmés aux
 Trans 2014, je les ai découverts via le widget de recommandation de Deezer[^1].
-La voix du mec m'a vaguement rappelé celle de 3 Guys Never In, un [autre coup de
-cœur][i721] maintenant vieux d'une décennie.
+La voix du mec m’a vaguement rappelé celle de 3 Guys Never In, un [autre coup de
+cœur][i721] maintenant vieux d’une décennie.
 
 Ils promettent un EP pour bientôt, financé en crowdfunding. À surveiller.
 
 ### Les Poppys
 
-Tout le monde connaît la fin de [_L'Homme Pressé_ de Noir Désir][4], mais qui
+Tout le monde connaît la fin de [_L’Homme Pressé_ de Noir Désir][4], mais qui
 connaît bien la référence qui va avec ? Adorablement _akward_, mi-litant
-mi-gnon, on ne s'en lasse pas.
+mi-gnon, on ne s’en lasse pas.
 
 > De temps en temps, on peut bien rire entre voisins  
 > Voisins de terre
@@ -90,17 +90,17 @@ difficiles, [à bon entendeur, je ne fais pas de politique][5], etc.
 
 ### Jagwar Ma
 
-Ça, c'est pour faire semblant que j'écoute les nouveautés… de 2013.
+Ça, c’est pour faire semblant que j’écoute les nouveautés… de 2013.
 
 ### Bruce Springsteen & Nick Cave
 
-Ça, c'est pour assumer mon côté futur quarantenaire.
+Ça, c’est pour assumer mon côté futur quarantenaire.
 
 ### Orouni
 
-Je n'ai plus aucun souvenir de comment j'ai découvert ça, ni pourquoi je l'ai
-mis dans une playlist en début d'année. Mais l'essentiel est que je suis retombé
-dessus et que c'est drôlement chouette.
+Je n’ai plus aucun souvenir de comment j’ai découvert ça, ni pourquoi je l’ai
+mis dans une playlist en début d’année. Mais l’essentiel est que je suis retombé
+dessus et que c’est drôlement chouette.
 
 ### Interpol, The Fresh & Onlys, Beck, The Notwist & cie
 
@@ -109,9 +109,9 @@ dessus et que c'est drôlement chouette.
 
 Interpol a sorti un album de très honorable facture, les autres aussi. Ce ne
 sont plus les artistes et groupes excitants de leur début, mais ils déçoivent
-peu. C'est tout à leur honneur.
+peu. C’est tout à leur honneur.
 
-[^1]: Un projet que j'avais moi-même réalisé avec mes copains de Sourdoreille.
+[^1]: Un projet que j’avais moi-même réalisé avec mes copains de Sourdoreille.
 
 [1]: https://www.magicrpm.com/ "Site du magazine Magic Revue Pop Moderne"
 [2]:

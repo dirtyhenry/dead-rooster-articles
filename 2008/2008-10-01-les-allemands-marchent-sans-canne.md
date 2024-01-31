@@ -9,5 +9,5 @@ cover: oliver-kahn.jpg
 ---
 
 Hier, pour le match entre le Bayern et Lyon (qui jouait avec les maillots les
-plus moches de l'histoire), y'avait ni Coupet, ni Oliver Kahn dans les cages… Le
+plus moches de l’histoire), y’avait ni Coupet, ni Oliver Kahn dans les cages… Le
 monde va mal !

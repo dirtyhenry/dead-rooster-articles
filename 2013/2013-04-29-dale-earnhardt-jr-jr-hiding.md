@@ -8,13 +8,13 @@ date: 2013-04-29 21:29:11 +0200
 ---
 
 Ces mecs de Detroit, avec vraiment un nom super cool, ont sorti la semaine
-dernière un EP qui s'appelle _Patterns_.
+dernière un EP qui s’appelle _Patterns_.
 
 {% soundcloud 87131673 %}
 
 Vous pouvez [revoir le clip TTM de _Simple Girl_][i912] ou [leur reprise de _God
-Only Knows_][i709] qui est, rappelons-le, le meilleur titre de l'histoire selon
-Paul McCartney. C'est pas rien.
+Only Knows_][i709] qui est, rappelons-le, le meilleur titre de l’histoire selon
+Paul McCartney. C’est pas rien.
 
 via [Stereogum](https://stereogum.com/1318811/dale-earnhardt-jr-jr-hiding/news/)
 

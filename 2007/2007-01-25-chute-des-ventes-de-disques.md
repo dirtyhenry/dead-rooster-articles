@@ -11,5 +11,5 @@ category: News
 La phrase ultime sur la chute des ventes de disques revient à Andrew Loog Oldham
 dans le dernier R&F :
 
-> Si les gens n'achètent plus de disques, c'est parce qu'ils sont trop occupés à
+> Si les gens n’achètent plus de disques, c’est parce qu’ils sont trop occupés à
 > en faire eux-même.

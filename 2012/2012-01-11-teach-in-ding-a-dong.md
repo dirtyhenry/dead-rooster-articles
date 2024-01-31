@@ -12,4 +12,4 @@ tags:
 
 {% youtube -oUZLV_GdZw %}
 
-Et ouais ! Ça a gagné l'Eurovision ça alors on ne se moque pas !
+Et ouais ! Ça a gagné l’Eurovision ça alors on ne se moque pas !

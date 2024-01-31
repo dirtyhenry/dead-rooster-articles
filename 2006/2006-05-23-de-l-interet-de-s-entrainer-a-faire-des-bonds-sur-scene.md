@@ -13,14 +13,14 @@ cover: ricky-wilson-kaiser-chiefs.jpg
 ---
 
 Ricky Wilson, le chanteur sautant de Kaiser Chiefs a eu un accident de voiture
-dimanche dernier, dont il s'est sorti presque indemne grâce à ses performances
+dimanche dernier, dont il s’est sorti presque indemne grâce à ses performances
 en saut, selon le site officiel du groupe, qui a publié un post pour taire les
 rumeurs qui commençaient à circuler sur cet accident :
 
-> He's the luckiest man alive, because he is still alive, it sounds daft, but a
-> 'Ricky trademark jump' has probably saved his life. The jump meant he was
+> He’s the luckiest man alive, because he is still alive, it sounds daft, but a
+> 'Ricky trademark jump’ has probably saved his life. The jump meant he was
 > flipped over the top of the car, hitting the windscreen, rather than getting
 > trapped under it. He was crossing on a green pedestrian light. Whether it was
-> a joyrider, wreckless driving or drunk driving we still don't know. Police are
-> investigating - we'd like to thank the witnesses that have come forward so
+> a joyrider, wreckless driving or drunk driving we still don’t know. Police are
+> investigating - we’d like to thank the witnesses that have come forward so
 > far.

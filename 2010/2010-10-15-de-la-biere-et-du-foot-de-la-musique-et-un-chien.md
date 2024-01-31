@@ -22,7 +22,7 @@ la musique et un chien. Programme idéal.
 ## 1. Vendons de la bière
 
 Wes Anderson et Roman Coppola ont co-réalisé une pub pour Stella Artois. La
-Wes-touch — qui inclut toujours pas mal de french-touch, même si ici c'est
+Wes-touch — qui inclut toujours pas mal de french-touch, même si ici c’est
 peut-être de la belge-touch — est là.
 
 {% youtube hJ3dtPlD-8Q %}
@@ -44,13 +44,13 @@ Profitons-en pour nous souvenir de Freddie Mercure :
 
 Par ailleurs, en ce qui concerne le biopic de Phil Spector (producteur génial
 des 60s, ayant plutôt mal vieilli : perruques et meurtre), le rôle serait tenu
-par Al Pacino, que j'aurais plutôt vu dans le rôle de Leonard Cohen ([comme bien
-d'autres][3]) :
+par Al Pacino, que j’aurais plutôt vu dans le rôle de Leonard Cohen ([comme bien
+d’autres][3]) :
 
 {% asset phil-spector-al-pacino.png %}
 
-Aucun titre n'est encore prévu pour le film mais Stereogum propose un concours
-pour trouver le meilleur. Si j'étais producteur du film, je choisirais l'une de
+Aucun titre n’est encore prévu pour le film mais Stereogum propose un concours
+pour trouver le meilleur. Si j’étais producteur du film, je choisirais l’une de
 leurs propositions : _If You See Me Holding A Gun, Da Doo Ron Ron: The Story Of
 Phil Spector_.
 

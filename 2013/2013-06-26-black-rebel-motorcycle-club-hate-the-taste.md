@@ -14,7 +14,7 @@ album _Specter at the Feast_, sorti en mars.
 
 {% youtube iaZc0ITpnQ8 %}
 
-Rappelons encore une fois que ce groupe sous-côté est l'un de nos chouchous
+Rappelons encore une fois que ce groupe sous-côté est l’un de nos chouchous
 comme le prouvent la présence parmi ces pages de [_Let The Day Begin_][i1221],
 [_Berlin_][i783] ou [leur reprise de _Dirty Old Town_][i709].
 

@@ -9,5 +9,5 @@ cover: enrico-macias.jpg
 category: Le monde va mal
 ---
 
-La crise n'épargne rien ni personne. Enrico, ce bon vieil Enrico, est désormais
+La crise n’épargne rien ni personne. Enrico, ce bon vieil Enrico, est désormais
 au bord de la faillite, suite à des placements hasardeux. Le monde va mal !

@@ -8,12 +8,12 @@ date: 2013-02-15 10:00:00 +0100
 ---
 
 Beck reprend ici _Sound And Vision_, un titre de David Bowie, entouré de 167
-musiciens. Si les 3 premières minutes vous saoulent, c'est sans doute normal,
+musiciens. Si les 3 premières minutes vous saoulent, c’est sans doute normal,
 mais celles qui suivent sont top !
 
 Si vous aimez les reprises de Beck, vous avez aussi celle de _Sunday Morning_
-[ici][i1178]. Et si vous préférez les originales, _Where It's At_, une des
-chansons les plus cool de l'histoire, est [là][i991].
+[ici][i1178]. Et si vous préférez les originales, _Where It’s At_, une des
+chansons les plus cool de l’histoire, est [là][i991].
 
 {% youtube QnOmrDzRrGQ %}
 

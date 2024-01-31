@@ -22,7 +22,7 @@ comments:
       Wikipedia.\r\nSans rancune ;)"
 ---
 
-The Police est un groupe d'_hommes anglais de New York_, formé à la fin des
+The Police est un groupe d’_hommes anglais de New York_, formé à la fin des
 années 70 et proposant une musique influencée à la fois par le reggae, le jazz
 voire même, parfois, le rock.
 
@@ -34,7 +34,7 @@ De leur amour pour les belles lettres bien imprimées naîtront de grands succè
 _Courier in a Bottle_, _Walking on a Balloon_ ou encore _Every Time New Roman
 You Take_.
 
-A l'instar de bon nombre de leurs contemporains, le groupe mettra un terme à son
+A l’instar de bon nombre de leurs contemporains, le groupe mettra un terme à son
 activité au milieu des années 80, lorsque surgissent des fanatiques de la
 lettrine qui imposent rapidement le Gothic sur le devant de la scène,
 ringardisant dans le même temps leurs glorieux aînés.

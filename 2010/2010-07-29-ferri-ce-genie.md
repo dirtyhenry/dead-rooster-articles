@@ -11,7 +11,7 @@ tags:
   - Jean-Yves Ferri
 ---
 
-Personne avant [Ferri][1] n'avait pensé à cette blague. Heureusement, elle a
+Personne avant [Ferri][1] n’avait pensé à cette blague. Heureusement, elle a
 fini par arriver mais quand même… Le monde va mal !
 
 [1]: https://fr.wikipedia.org/wiki/Jean-Yves_Ferri

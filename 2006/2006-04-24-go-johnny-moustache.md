@@ -10,4 +10,4 @@ category: Fun Friday
 
 {% dailymotion x201h %}
 
-La version complète, tragi-comique, ~~est disponible sur le site de l'INA~~.
+La version complète, tragi-comique, ~~est disponible sur le site de l’INA~~.

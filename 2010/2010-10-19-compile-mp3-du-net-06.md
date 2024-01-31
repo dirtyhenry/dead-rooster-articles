@@ -52,7 +52,7 @@ playlist:
 
 Une sélection des meilleurs MP3 légalement disponibles au téléchargement des
 dernières semaines. Au programme cette semaine, les retours de **Frankie Rose &
-The Outs** et de **Women** ainsi qu'une excellente reprise du _No Satisfaction_
+The Outs** et de **Women** ainsi qu’une excellente reprise du _No Satisfaction_
 de **Black Mountain** par **The Black Angels**.
 
 {% include polaroids.html polaroids=page.playlist %}

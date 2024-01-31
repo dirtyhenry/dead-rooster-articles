@@ -10,4 +10,4 @@ category: Chanson du jour
 
 {% youtube YPtS4TYAxFE %}
 
-J'aime bien, j'aime bien !
+J’aime bien, j’aime bien !

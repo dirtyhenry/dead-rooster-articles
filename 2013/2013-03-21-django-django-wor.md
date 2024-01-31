@@ -11,7 +11,7 @@ tags:
 
 {% youtube ojVsXB12zC8 %}
 
-On n'a pas beaucoup parlé de Django Django ici, mais les auteurs de
+On n’a pas beaucoup parlé de Django Django ici, mais les auteurs de
 [_Default_][1], titre le plus "génial et insupportable" à la fois depuis le
 [_Conquest_][2] des White Stripes le mériteraient pourtant.
 

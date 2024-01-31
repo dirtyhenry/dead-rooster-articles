@@ -12,8 +12,8 @@ tags:
 cover: jesse-garon.jpg
 ---
 
-… et c'est jour de fête pour Katerine, qui s'offre [une reprise de ce bon vieux
-Jessé Garon'][1]. Pour les moins fortunés, Jessé refourgue aussi ses guitares et
+… et c’est jour de fête pour Katerine, qui s’offre [une reprise de ce bon vieux
+Jessé Garon’][1]. Pour les moins fortunés, Jessé refourgue aussi ses guitares et
 ses bananes. Le monde va mal !
 
 [1]:

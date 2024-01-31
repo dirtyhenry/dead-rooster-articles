@@ -12,4 +12,4 @@ category: Chanson du jour
 
 {% youtube c6mtj6yGkCw %}
 
-Où l'on s'aperçoit que ce mec est drôlement marrant en fait !
+Où l’on s’aperçoit que ce mec est drôlement marrant en fait !

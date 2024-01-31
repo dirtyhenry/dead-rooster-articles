@@ -16,11 +16,11 @@ tags:
 ---
 
 Déjà trois semaines depuis la dernière mise à jour du concours Katerine. Allez,
-un petit peu de son actu marrante d'abord, et on parle du concours ensuite.
+un petit peu de son actu marrante d’abord, et on parle du concours ensuite.
 
-## L'actualité
+## L’actualité
 
-L'album est sorti - et est très bon, dixit Guiguilele - et les concerts ont
+L’album est sorti - et est très bon, dixit Guiguilele - et les concerts ont
 commencé.
 
 {% dailymotion xf2zor %}
@@ -31,22 +31,22 @@ et en live et en kilt ça donne…
 
 ## Le concours
 
-### 39. _Les yeux de ma mère_ d'Arno
+### 39. _Les yeux de ma mère_ d’Arno
 
-Une version live d'Arno, qui fait pleurer les copains, Dechavanne, Arditi et Eve
+Une version live d’Arno, qui fait pleurer les copains, Dechavanne, Arditi et Eve
 Angeli :
 
 {% youtube 2rrYrTQUlY0 %}
 
-### 40. _Chacun fait (c'qui lui plaît)_ de Chagrun d'Amour
+### 40. _Chacun fait (c’qui lui plaît)_ de Chagrun d’Amour
 
-L'originale :
+L’originale :
 
 {% youtube lQ1aSVPuAug %}
 
 ### 41. _Oh Oh Chéri_ de Françoise Hary
 
-L'originale :
+L’originale :
 
 {% youtube Sy7QglZfKHo %}
 

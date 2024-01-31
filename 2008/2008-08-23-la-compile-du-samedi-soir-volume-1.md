@@ -20,9 +20,9 @@ tags:
 1. Bob Dylan - _I Want You_
 1. T-Rex - _Bang a Gong (Get It On)_
 1. Outkast - _Hey ya !_
-1. The Libertines - _Don't Look Back Into The Sun_
+1. The Libertines - _Don’t Look Back Into The Sun_
 1. Stereo Total - _Nationale 7_
-1. Kings of Leon - _Joe's Head_
+1. Kings of Leon - _Joe’s Head_
 1. Clap Your Hands Say Yeah - _The Skin of My Yellow Country Teeth_
 1. Elvis Presley - _All Shook up_
 1. Oasis - _The Meaning of Soul_

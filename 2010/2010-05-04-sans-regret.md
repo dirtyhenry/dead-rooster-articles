@@ -17,11 +17,11 @@ tags:
 Cette semaine, la reprise de **Katerine, Francis et ses peintres** est _Je ne
 veux pas rentrer chez moi seule_, du très connu groupe Regrets.
 
-L'originale, elle aussi très connue, est ici :
+L’originale, elle aussi très connue, est ici :
 
 {% dailymotion x63jh1 %}
 
-Bien heureusement, personne ne l'a trouvé. Classement inchangé :
+Bien heureusement, personne ne l’a trouvé. Classement inchangé :
 
 - 1. Hervé, 11pts
 - 2. Rodrigue et Joe, 5pts

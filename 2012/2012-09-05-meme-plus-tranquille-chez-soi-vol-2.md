@@ -10,7 +10,7 @@ date: 2012-09-05 08:00:00 +0200
 ---
 
 [Bono avait déjà été emmerdé chez lui il y a 4 ans][i457], maintenant voilà
-qu'[une pauvre femme se fait interpeler 4 fois par la police pour écouter du
+qu’[une pauvre femme se fait interpeler 4 fois par la police pour écouter du
 AC/DC][1]. Bon, OK, elle a aussi jeté une poêle à frire sur son neveu mais quand
 même ! Le monde va mal !
 

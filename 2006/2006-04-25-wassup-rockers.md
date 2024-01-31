@@ -18,9 +18,9 @@ Leçon de classe :
 - les tee-shirts serrés ? pourquoi pas…
 - les ceintures cloutées ? oui, oui, pourquoi pas, surtout avec des jeans serrés
   et des tee-shirt serrés…
-- une moustache "duvet" ? par les dieux du rock'n'roll jamais, au grand jamais !
+- une moustache "duvet" ? par les dieux du rock’n’roll jamais, au grand jamais !
 
 Just walk the line  
 Keep your eyes down  
-And don't kick cans  
+And don’t kick cans  
 That are on your way

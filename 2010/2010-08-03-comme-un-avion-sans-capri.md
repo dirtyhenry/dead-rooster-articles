@@ -16,7 +16,7 @@ tags:
 ---
 
 Les reprises de **Katerine, Francis et ses peintres** des deux dernières
-semaines sont _Capri c'est fini_ d'Hervé Vilard et _Comme un avion sans aile_ de
+semaines sont _Capri c’est fini_ d’Hervé Vilard et _Comme un avion sans aile_ de
 Charlélie Couture.
 
 Les originales :
@@ -25,7 +25,7 @@ Les originales :
 
 {% youtube PduOZg1DpvU %}
 
-Une fois encore, comment est-il possible que personne n'y ait pensé ?
+Une fois encore, comment est-il possible que personne n’y ait pensé ?
 
 - 1. Hervé, 15pts
 - 2. Benji, Rodrigue et Joe, 5pts

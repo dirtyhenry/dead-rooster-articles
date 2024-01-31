@@ -16,6 +16,6 @@ tags:
   - Trucs marrants
 ---
 
-L'artiste Massimo Furlan interprète dans 1973 l'intégralité du concours de
-l'Eurovision de 1973. Tu vas voir que c'est toujours pas Patrick Juvet qui va
+L’artiste Massimo Furlan interprète dans 1973 l’intégralité du concours de
+l’Eurovision de 1973. Tu vas voir que c’est toujours pas Patrick Juvet qui va
 gagner ! Le monde va mal !

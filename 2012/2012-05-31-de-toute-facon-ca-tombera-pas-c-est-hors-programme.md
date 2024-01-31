@@ -8,7 +8,7 @@ category: Le monde va mal
 ---
 
 Le doyen du bac cette année [a 87 ans][1]. À l’ère des smartphones, honte sur
-lui s’il ignore que [Nicolas IV n'est plus le tsar de toutes les Russies][2]. Le
+lui s’il ignore que [Nicolas IV n’est plus le tsar de toutes les Russies][2]. Le
 monde va mal !
 
 [1]:

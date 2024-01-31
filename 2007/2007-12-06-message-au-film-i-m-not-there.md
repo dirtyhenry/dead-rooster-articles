@@ -9,7 +9,7 @@ cover: bob-dylan.jpg
 category: Le monde va mal
 ---
 
-Tu m'as juste fait perdre le temps si précieux qui est le mien \_ Mais n'y pense
+Tu m’as juste fait perdre le temps si précieux qui est le mien \_ Mais n’y pense
 plus, tout va bien…
 
 Le monde va mal !

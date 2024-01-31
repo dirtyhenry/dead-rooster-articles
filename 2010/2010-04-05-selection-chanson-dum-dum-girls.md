@@ -21,9 +21,9 @@ Trois chansons à écouter.
 
 Venant de Los Angeles, ayant publié leur 1er album [_I Will Be_][2] à la fin du
 mois de mars sur le label Sub Pop, les **Dum Dum Girls** offrent un single
-génial, _Jail La La_, à la production bien dans l'air du temps mais qui
+génial, _Jail La La_, à la production bien dans l’air du temps mais qui
 rappellent de chaleureux souvenirs de plusieurs décennies écoulées (Phil
-Spector, Breeders, etc.). À noter qu'elles seront en concert au point éphémère
+Spector, Breeders, etc.). À noter qu’elles seront en concert au point éphémère
 le 20 mai prochain.
 
 {% youtube EMy4CceeBgA %}
@@ -35,7 +35,7 @@ retrouvera **Titus Andronicus**. Eux ont sorti leur second album, [_The
 Monitor_][3], il y a un mois et offre un clip où on joue au Risk dans la neige à
 leur single _A More Perfect Union_.
 
-Ils seront, eux aussi, en concert à Paris le 20 mai, mais à la Flèche d'Or
+Ils seront, eux aussi, en concert à Paris le 20 mai, mais à la Flèche d’Or
 (choix cornélien en perspective).
 
 {% youtube 08fqHr_KGPY %}

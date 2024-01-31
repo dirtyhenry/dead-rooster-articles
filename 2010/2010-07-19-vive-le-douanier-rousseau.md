@@ -17,11 +17,11 @@ tags:
 La reprise de la semaine de **Katerine, Francis et ses peintres** est _Vive le
 Douanier Rousseau_, de la Compagnie Créole.
 
-L'originale en version Karaoké :
+L’originale en version Karaoké :
 
 {% youtube dBQOeZUA1wM %}
 
-Comment est-il possible que personne n'y ait pensé ?
+Comment est-il possible que personne n’y ait pensé ?
 
 - 1. Hervé, 15pts
 - 2. Benji, Rodrigue et Joe, 5pts

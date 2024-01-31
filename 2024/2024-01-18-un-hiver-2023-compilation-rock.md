@@ -17,7 +17,7 @@ category: Compile
 ## Tracklist
 
 1. Colourbox - _Just Give 'em Whiskey_
-1. The Temptations - _Papa Was A Rollin' Stone_ 39
+1. The Temptations - _Papa Was A Rollin’ Stone_ 39
 1. Animali - _Genetic Bomb_
 1. Eddy Mitchell - _Société anonyme_
 1. Yeah Yeah Yeahs - _Pin_

@@ -11,8 +11,8 @@ cover: francis-cabrel-les-chemins-de-traverse.jpg
 date: 2010-09-02 15:07:18 +0200
 ---
 
-Comme c'est frustrant quand des albums ont des super pochettes… mais que le
-contenu n'est pas à la hauteur. Le contenu n'est pas horrible bien sûr, juste
+Comme c’est frustrant quand des albums ont des super pochettes… mais que le
+contenu n’est pas à la hauteur. Le contenu n’est pas horrible bien sûr, juste
 décevant vis-à-vis de la pochette.
 
 ## Beat Connection
@@ -26,7 +26,7 @@ Beat Connection vient de diffuser un EP gratuit sur bandcamp.
 
 {% asset warm-waves.png %}
 
-Les gens de I Guess I'm Floating sont d'accord sur la qualité de la pochette… et
+Les gens de I Guess I’m Floating sont d’accord sur la qualité de la pochette… et
 partagent les doutes sur la musique.
 
 ## Pony Club

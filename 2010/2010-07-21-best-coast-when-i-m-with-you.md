@@ -12,7 +12,7 @@ tags:
 
 {% youtube 8Sj5_WITMpA %}
 
-Après plusieurs semaines d'attente, nous ne sommes plus qu'à quelques jours de
+Après plusieurs semaines d’attente, nous ne sommes plus qu’à quelques jours de
 la sortie de [_Crazy For You_][1], le 1er album de **Best Coast**.
 
 Best Coast est un duo de Los Angeles dont la chanteuse, Bethany Cosentino,

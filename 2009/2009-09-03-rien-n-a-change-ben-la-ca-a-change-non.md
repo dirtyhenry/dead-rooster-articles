@@ -9,7 +9,7 @@ cover: les-poppys.jpg
 category: Le monde va mal
 ---
 
-Jean Amoureux, le créateur des petits chanteurs d'Asnières et des [Poppys][1],
+Jean Amoureux, le créateur des petits chanteurs d’Asnières et des [Poppys][1],
 est mort. Le monde va mal !
 
 [1]: https://www.youtube.com/watch?v=V9Po8lSIKww

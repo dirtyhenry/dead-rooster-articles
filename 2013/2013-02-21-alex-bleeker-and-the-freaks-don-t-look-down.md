@@ -10,14 +10,14 @@ tags:
   - Real Estate
 ---
 
-Tandis que Karim Benzema est l'avant-centre du Real Madrid, Alex Bleeker est lui
-le bassiste du Real Estate. Sinon, il est le leader d'un groupe qui s'appelle
+Tandis que Karim Benzema est l’avant-centre du Real Madrid, Alex Bleeker est lui
+le bassiste du Real Estate. Sinon, il est le leader d’un groupe qui s’appelle
 Alex Bleeker And The Freaks, qui va bientôt sortir un nouvel album qui va
-s'appeller _How Far Away_. En voici le single :
+s’appeller _How Far Away_. En voici le single :
 
 {% soundcloud 78418477 %}
 
-Sinon, vous pouvez aussi réécouter [_Easy_][i982] et [_It's Real_][i944] du Real
+Sinon, vous pouvez aussi réécouter [_Easy_][i982] et [_It’s Real_][i944] du Real
 Estate.
 
 (via

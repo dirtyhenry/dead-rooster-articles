@@ -8,5 +8,5 @@ cover: biere-officiel-supporters-fc-lorient.jpg
 date: 2010-12-20 17:37:27 +0100
 ---
 
-La bière officielle des supporters du FC Lorient existe depuis aujourd'hui. Le
+La bière officielle des supporters du FC Lorient existe depuis aujourd’hui. Le
 monde va mal !

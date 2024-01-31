@@ -17,7 +17,7 @@ tags:
 La reprise de la semaine de **Katerine, Francis et ses peintres** est _Sous le
 vent_, de Garou et Céline Dion.
 
-Le choix de l'originale est discutable, hein, mais bon, c'est la tradition, la
+Le choix de l’originale est discutable, hein, mais bon, c’est la tradition, la
 voilà jouée chez Drucker :
 
 {% youtube XBjCUsmGkFo %}

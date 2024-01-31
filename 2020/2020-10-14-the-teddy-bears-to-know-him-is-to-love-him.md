@@ -15,5 +15,5 @@ tags:
 >
 > — [Graham Coxon](https://twitter.com/grahamcoxon/status/1315267763850674176)
 
-The Teddy Bears est l'éphémère 1er groupe de Phil Spector. Merci Graham pour la
+The Teddy Bears est l’éphémère 1er groupe de Phil Spector. Merci Graham pour la
 découverte.

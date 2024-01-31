@@ -13,6 +13,6 @@ tags:
 {% youtube VhZrONoR29E %}
 
 Notons que contrairement à ce que le titre de cette chanson laisse penser, il ne
-s'agit pas d'[une reprise des Rutles][1].
+s’agit pas d’[une reprise des Rutles][1].
 
 [1]: https://www.youtube.com/watch?v=amiBTezWKqQ "Get Up and Go, the Rutles"

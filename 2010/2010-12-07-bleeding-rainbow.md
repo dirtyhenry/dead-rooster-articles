@@ -23,14 +23,14 @@ comments:
       https://pitchfork.com/reviews/albums/14905-prism-eyes/"
 ---
 
-**Bleeding Rainbow** (ex-Reading Rainbow) a déjà été à l'honneur dans deux
+**Bleeding Rainbow** (ex-Reading Rainbow) a déjà été à l’honneur dans deux
 compiles du lundi et vient de réaliser un clip. Allons-les voir de plus près.
 
 Bleeding Rainbow est un groupe basé à Philadelphia. Duo composé de Sarah Everton
-et Rob Garcia, ils ont déjà eu l'honneur de figurer dans 2 compiles du lundi
+et Rob Garcia, ils ont déjà eu l’honneur de figurer dans 2 compiles du lundi
 avec [_Wasting Time_][i712] et [_Always On My Mind_][i725].
 
-Un clip existe d'ailleurs pour ce dernier titre, réalisé par Amanda Finn, de
+Un clip existe d’ailleurs pour ce dernier titre, réalisé par Amanda Finn, de
 Family Trees :
 
 {% vimeo 17145194 %}
@@ -40,11 +40,11 @@ Le groupe est déjà auteur de deux albums :
 - [_Mystical Participation_][2] est paru en 2009 mais est apparemment
   introuvable en support physique mais reste disponible en téléchargement sur
   Amazon
-- Son successeur, [_Prism Eyes_][1] vient de sortir, espérons qu'il sera
+- Son successeur, [_Prism Eyes_][1] vient de sortir, espérons qu’il sera
   distribué en France.
 
-ps : j'ai aussi appris que le nom Reading Rainbow, ancien nom du groupe, était
-celui d'[un show US pour enfant][3] — et probablement la raison du changement —,
+ps : j’ai aussi appris que le nom Reading Rainbow, ancien nom du groupe, était
+celui d’[un show US pour enfant][3] — et probablement la raison du changement —,
 dont voici le générique en bonus :
 
 {% youtube 4Ygs3IHJ2bM %}

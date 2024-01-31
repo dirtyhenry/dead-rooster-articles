@@ -9,8 +9,8 @@ cover: prince-albert-bobsleigh.jpg
 category: Le monde va mal
 ---
 
-Alors qu'[Eunice Barber se tourne vers le bobsleigh][1], on parle de plus en
-plus d'une possible réorientation du Prince Albert vers le saut en longueur… Le
+Alors qu’[Eunice Barber se tourne vers le bobsleigh][1], on parle de plus en
+plus d’une possible réorientation du Prince Albert vers le saut en longueur… Le
 monde va mal !
 
 [1]:

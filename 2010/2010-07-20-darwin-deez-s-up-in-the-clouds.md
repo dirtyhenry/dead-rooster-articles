@@ -18,7 +18,7 @@ tags:
 {% youtube loXxn7dMQYE %}
 
 Très chouette chanson de **Darwin Deez**, un new-yorkais qui a sorti son premier
-album en avril dernier. Le clip n'est pas en reste.
+album en avril dernier. Le clip n’est pas en reste.
 
 Pour info :
 

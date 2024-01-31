@@ -37,7 +37,7 @@ Comment, vous ne le saviez pas ? Voici ma démonstration en quelques points :
 
 - [_The Darjeeling Limited_][2] est un excellent film, droit dans la lignée des
   déjà excellents _The Royal Tenenbaums_, _The Life Aquatic with Steve Zissou_
-  ou _Rushmore_, et le meilleur moyen de s’en convaincre est d‘aller le voir.
+  ou _Rushmore_, et le meilleur moyen de s’en convaincre est d’aller le voir.
 - La bande originale du film contient un trésor oublié : [_Play With Fire_][3]
   des Rolling Stones
 - La bande originale du film contient un trésor caché : [_Where Do You Go To (My
@@ -52,18 +52,18 @@ Comment, vous ne le saviez pas ? Voici ma démonstration en quelques points :
 ## Degré 2 : Jason Schwartzman
 
 L’un des acteurs principaux et co-scénariste du film est Jason Schwartzman, déjà
-héros de _Rushmore_. Mais les talents de Jason ne s'arrêtent pas là puisqu'en
-plus d'être acteur et scénariste, le monsieur est aussi musicien. Après avoir
+héros de _Rushmore_. Mais les talents de Jason ne s’arrêtent pas là puisqu’en
+plus d’être acteur et scénariste, le monsieur est aussi musicien. Après avoir
 quitté le groupe [Phantom Planet][7], ce neveu de Francis Ford Coppola et fils
 de Talia Shire (Connie Corleone de la série Le Parrain et Adrian Balboa de la
 série des Rocky) a fondé son projet solo : [Coconut Records][8].
 
-À l’écoute du single _West Coast_, Jason devient assez agaçant puisqu'il a quand
-même tendance à réussir tout ce qu'il entreprend : sa pop électro élégante est
+À l’écoute du single _West Coast_, Jason devient assez agaçant puisqu’il a quand
+même tendance à réussir tout ce qu’il entreprend : sa pop électro élégante est
 une réussite. Ça ressemble un peu, en mieux sans doute, à ce que pourrait donner
 un projet solo du chanteur de Phoenix, ce qui est troublant puisque ce dernier
 n’est autre que le compagnon de Sofia Coppola, la cousine de Jason. Ce qui est
-encore plus troublant, c'est que Phoenix est un groupe de Versailles — où se
+encore plus troublant, c’est que Phoenix est un groupe de Versailles — où se
 passe _Marie-Antoinette_ de Sofia Coppola — tout comme Air, qui a signé la BO de
 _Virgin Suicides_, autre film de Sofia Coppola. Vous commencez à voir où je veux
 en venir ?
@@ -72,11 +72,11 @@ en venir ?
 
 ## Degré 3 : Zooey Deschanel
 
-Mais attention, le petit monde ne s'arrête pas là. Intéressons-nous maintenant à
+Mais attention, le petit monde ne s’arrête pas là. Intéressons-nous maintenant à
 la vie sentimentale de Jason, non par voyeurisme mais pour étayer notre petite
 démonstration. Nous y trouvons au chapitre des ex Zooey Deschanel, la grande
 soeur du film _Almost Famous_, dont l’actualité est florissante puisque la
-demoiselle s'est mise à la chanson en fondant le duo [She & Him][9], avec M
+demoiselle s’est mise à la chanson en fondant le duo [She & Him][9], avec M
 Ward. Leur album _Volume One_ vient de sortir et dans les titres du disque, on
 trouve un titre signé… Jason Schwartzman. Le titre [_Why Do You Let Me Stay
 Here?_][9] vaut à lui tout seul de pencher une oreille sur ce groupe prometteur

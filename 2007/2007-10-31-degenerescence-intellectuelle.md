@@ -8,4 +8,4 @@ cover: burnout.jpg
 category: Le monde va mal
 ---
 
-Hier, je suis resté au boulot jusqu'à 1h du mat'. Le monde va mal !
+Hier, je suis resté au boulot jusqu’à 1h du mat’. Le monde va mal !

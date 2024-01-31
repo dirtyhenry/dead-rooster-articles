@@ -8,4 +8,4 @@ cover: young-hooligan.jpg
 category: Le monde va mal
 ---
 
-Le nouveau sélectionneur de l'équipe d'Angleterre est italien. Le monde va mal !
+Le nouveau sélectionneur de l’équipe d’Angleterre est italien. Le monde va mal !

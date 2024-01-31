@@ -1,12 +1,13 @@
 {
   "devDependencies": {
-    "markdownlint-cli": "0.33.0",
-    "prettier": "2.8.4",
-    "textlint": "13.3.1",
+    "markdownlint-cli": "0.39.0",
+    "prettier": "3.2.4",
+    "textlint": "13.4.1",
     "textlint-filter-rule-comments": "1.2.2",
-    "textlint-rule-terminology": "3.0.4"
+    "textlint-rule-terminology": "4.0.1",
+    "textlint-rule-apostrophe": "2.0.0"
   },
   "scripts": {
-    "lint:fix": "prettier --write ."
+    "lint:fix": "textlint -c .github/linters/.textlintrc 20* && prettier --write ."
   }
 }

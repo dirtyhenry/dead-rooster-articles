@@ -15,4 +15,4 @@ cover: moustaches.png
 
 Ne viendra-t-on donc jamais à bout des trésors cachés que les décennies passées
 ont dissimulé tels des œufs de Pâques numériques dans le jardin des autoroutes
-de l'information ?
+de l’information ?

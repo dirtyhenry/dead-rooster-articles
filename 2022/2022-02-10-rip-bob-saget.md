@@ -12,26 +12,26 @@ tags:
   - The Beach Boys
 ---
 
-Il y a un mois, Bob Saget est mort subitement à 65 ans. Je l'aimais bien.
+Il y a un mois, Bob Saget est mort subitement à 65 ans. Je l’aimais bien.
 
 Fin 80, début 90, quand tu regardais [_Giga_][1] sur Antenne 2, Bob Saget était
 Danny Tanner dans [_La Fête à la Maison_][2]. Tous les matins, il animait
 _Debout San Francisco_ avec Rebecca Donaldson. Veuf, il retournait ensuite
-élever ses 3 filles avec l'aide de son pote Joey Gladstone et de son beau-frère
+élever ses 3 filles avec l’aide de son pote Joey Gladstone et de son beau-frère
 Jesse Katsopolis.
 
 Dans [un épisode][3], il chantait _Kokomo_ sur scène avec les _Beach Boys_. Je
-devenais fan de ce groupe par la même occasion. Quand j'ai commencé à me diriger
+devenais fan de ce groupe par la même occasion. Quand j’ai commencé à me diriger
 vers "la musique de vieux", une orientation décisive de mon adolescence, Bob
-Saget était au poste d'aiguillage[^1].
+Saget était au poste d’aiguillage[^1].
 
-Bob Saget fut aussi voix off : d'une part celle de _America's Funniest Home
-Videos_ — qui fut adapté en France sous le nom de *Video Gag* —, et d'autre part
+Bob Saget fut aussi voix off : d’une part celle de _America’s Funniest Home
+Videos_ — qui fut adapté en France sous le nom de *Video Gag* —, et d’autre part
 celle de Ted Mosby parlant à ses enfants dans [_How I Met Your Mother_][4].
 Solide. Bien plus que Bernard Montiel.
 
-Enfin, Bob Saget fit du stand up. Catégorisé _adulte_ parce qu'il jurait et
-parlait cul. Le grand écart avec l'image du papa parfait Danny Tanner est
+Enfin, Bob Saget fit du stand up. Catégorisé _adulte_ parce qu’il jurait et
+parlait cul. Le grand écart avec l’image du papa parfait Danny Tanner est
 impressionnant. Pour en avoir un aperçu, il faut regarder son intervention dans
 le documentaire [_The Aristocrats_][5] où de nombreux comiques racontent
 inlassablement la blague éponyme. Elle consiste à toujours partir du même point
@@ -46,7 +46,7 @@ RIP Bob Saget. Le monde va mal.
 
 [^1]:
     Voir par ailleurs [le slam de Tom Hanks sur ledit épisode][i1]. Ça tourne à
-    l'obsession.
+    l’obsession.
 
 [i1]: {% post_url 2021/2021-01-08-tom-hanks-full-house-slam %}
 

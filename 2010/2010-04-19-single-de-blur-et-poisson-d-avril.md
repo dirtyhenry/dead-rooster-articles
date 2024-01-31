@@ -17,18 +17,18 @@ tags:
 ---
 
 Bientôt [un an après leur reformation pour une courte tournée festivale][i514],
-**Blur** a enregistré un single à l'occasion du
+**Blur** a enregistré un single à l’occasion du
 [Record Store Day](http://www.recordstoreday.com).
 
-D'abord destiné à être pressé sur seulement 1000 45 tours, le groupe a
-finalement décidé de diffuser le titre _Fool's Day_ gratuitement
+D’abord destiné à être pressé sur seulement 1000 45 tours, le groupe a
+finalement décidé de diffuser le titre _Fool’s Day_ gratuitement
 [via son site web dans une bonne qualité : MP3 ou WAV, au choix.](http://www.blur.co.uk/)
 
-Comme le site le précise, il s'agit du 1er titre que les 4 membres du groupe ont
+Comme le site le précise, il s’agit du 1er titre que les 4 membres du groupe ont
 enregistré ensemble depuis 2003, année du très faiblard _Think Tank_. Si nouvel
-album de Blur il doit y avoir, autant éviter d'avoir un _Think Tank 2_ mais, ô
-bonheur, sans atteindre des sommets, _Fool's Day_ repositionne Blur là où ils
-sont les meilleurs, c'est à dire loin de tout ce qui ressemble de près ou de
+album de Blur il doit y avoir, autant éviter d’avoir un _Think Tank 2_ mais, ô
+bonheur, sans atteindre des sommets, _Fool’s Day_ repositionne Blur là où ils
+sont les meilleurs, c’est à dire loin de tout ce qui ressemble de près ou de
 loin au dub et à Gorillaz. A suivre donc…
 
 [i514]: {% post_url 2009/2009-07-26-hand-in-hand-through-their-hyde-parklife %}

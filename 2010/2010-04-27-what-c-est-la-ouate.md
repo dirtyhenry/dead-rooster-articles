@@ -14,19 +14,19 @@ tags:
   - Katerine
 ---
 
-Cette semaine, la reprise de **Katerine, Francis et ses peintres** est _C'est La
+Cette semaine, la reprise de **Katerine, Francis et ses peintres** est _C’est La
 Ouate_, de Caroline Loeb.
 
-L'originale n'a sans doute pas besoin d'être présentée mais la voilà quand
+L’originale n’a sans doute pas besoin d’être présentée mais la voilà quand
 même :
 
 {% dailymotion x5u6t %}
 
 Efficace et pas chère, Caroline Loeb a une actualité débordante et [reprend
-_Like A Virgin_][2] dans une version bien pire que l'originale (l'exploit n'est
+_Like A Virgin_][2] dans une version bien pire que l’originale (l’exploit n’est
 pas mince), et on ne sait pas bien si [elle est abonnée à la MAAF][1] !
 
-David l'avait trouvé en deuz et marque 4 points :
+David l’avait trouvé en deuz et marque 4 points :
 
 - 1. Hervé, 11pts
 - 2. Rodrigue et Joe, 5pts

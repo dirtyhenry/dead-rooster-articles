@@ -16,4 +16,4 @@ tags:
 ---
 
 Leslie Nielsen est mort. Il ne pourra plus empêcher les gens de le confondre
-avec le pilote de _Y a-t-il un pilote dans l'avion ?_. Le monde va mal !
+avec le pilote de _Y a-t-il un pilote dans l’avion ?_. Le monde va mal !

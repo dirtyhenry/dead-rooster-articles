@@ -10,10 +10,10 @@ category: Le monde va mal
 ---
 
 Douze ans après le film, Ghislain Gimbert continue ses légendaires ascensions,
-[comme le titre L'Equipe][2]. Mais il a troqué son maillot Magicrème pour le
-maillot de l'ESTAC. Le monde va mal !
+[comme le titre L’Equipe][2]. Mais il a troqué son maillot Magicrème pour le
+maillot de l’ESTAC. Le monde va mal !
 
-ps : [So Foot rappelle également les échappées solitaires de l'ancien
+ps : [So Foot rappelle également les échappées solitaires de l’ancien
 coureur !][1]
 
 [1]:

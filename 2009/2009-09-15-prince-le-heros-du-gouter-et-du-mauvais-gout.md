@@ -25,5 +25,5 @@ comments:
 cover: prince-lotus-flower.jpg
 ---
 
-Des gens ont conçu cette pochette d'album. D'autres ont accepté de l'imprimer.
-D'autres de la distribuer. Le monde va mal !
+Des gens ont conçu cette pochette d’album. D’autres ont accepté de l’imprimer.
+D’autres de la distribuer. Le monde va mal !

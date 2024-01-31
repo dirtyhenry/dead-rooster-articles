@@ -14,7 +14,7 @@ tags:
 
 Clip fun pour les Nationaux, inspiré de [celui-ci][2] :
 
-Vivement l'album !
+Vivement l’album !
 
 (via [Pitchfork][1])
 

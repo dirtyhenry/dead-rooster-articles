@@ -14,4 +14,4 @@ tags:
 {% youtube R3Zt1lUEoE4 %}
 
 Vu que Joe Gantdelaine le fait pas mais que la chanson et le clip sont pas mal,
-je m'y colle.
+je m’y colle.

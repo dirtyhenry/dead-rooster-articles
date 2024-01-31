@@ -9,7 +9,7 @@ category: Chanson du jour
 
 {% youtube k0pI2vIa-Uk %}
 
-Au début ce que j'aimais bien de ce groupe de Brooklyn, **The Press**, c'était
+Au début ce que j’aimais bien de ce groupe de Brooklyn, **The Press**, c’était
 leur titre [_Bless This Mess_][1].
 
 En cherchant un éventuel clip pour ce titre, je suis tombé sur bien mieux : un

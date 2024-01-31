@@ -16,7 +16,7 @@ du même nom en teaser.
 
 {% youtube 9ZXqDholIzg %}
 
-N'hésitez pas à réécouter leur LP précédent, _Valhalla Dancehall_, (et lire
+N’hésitez pas à réécouter leur LP précédent, _Valhalla Dancehall_, (et lire
 [notre petit commentaire à son sujet][i961]) pendant ce temps-là, ou réécouter
 _Zeus_ [ici][i709].
 

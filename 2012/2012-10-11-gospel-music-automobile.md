@@ -10,5 +10,5 @@ category: Chanson du jour
 
 {% vimeo 15877206 %}
 
-Tracyanne Campbell, la chanteuse de Camera Obscura s'invite en guest sur un EP
+Tracyanne Campbell, la chanteuse de Camera Obscura s’invite en guest sur un EP
 orchestré par le bassiste des Black Kids. Cool.

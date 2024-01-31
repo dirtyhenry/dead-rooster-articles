@@ -25,7 +25,7 @@ Here is the first draft of my list: (that can evolve, of course)
 
 {% spotify 21naYSWnKaM5xPkJqR1NiA?si=Mgu5sVrmS1yX3O6AY-Y-hg %}
 
-- Autour de Lucie's - _Selon l'humeur_
+- Autour de Lucie’s - _Selon l’humeur_
 - The Strokes - Last nite
 - Franz Ferdinand - _Take me out_
 - Pixies - _Caribou_
@@ -43,7 +43,7 @@ Here is the first draft of my list: (that can evolve, of course)
 - Björk - _Bachelorette_
 - The Libertines - _Vertigo_
 - Hot Hot Heat - _No, not now_
-- The Velvet Underground - _I'll be your mirror_
+- The Velvet Underground - _I’ll be your mirror_
 - Roger Glover and Butterfly Balls - _Love is all_
 - Blur - _Song 2_
 - Sleeper - _Twisted_

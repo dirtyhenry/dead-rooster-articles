@@ -10,5 +10,5 @@ category: Le monde va mal
 ---
 
 Hier soir, à la fin de France-Lituanie, sur TF1, la plus importante chaîne
-d'Europe, on a pu entendre un commentateur dire à propos de Thierry Henry :
+d’Europe, on a pu entendre un commentateur dire à propos de Thierry Henry :
 "Difficile de se faire un nom quand on a deux prénoms". Le monde va mal !

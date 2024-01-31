@@ -15,7 +15,7 @@ tags:
   - The Rolling Stones
 ---
 
-Les **Rolling Stones** ont récemment sorti une nouvelle réédition d'_Exile On
+Les **Rolling Stones** ont récemment sorti une nouvelle réédition d’_Exile On
 Main Street_, album mythique de 1972.
 
 **Kill Me Sarah** en parle dans

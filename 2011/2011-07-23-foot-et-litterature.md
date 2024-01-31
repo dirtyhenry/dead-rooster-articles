@@ -11,5 +11,5 @@ tags:
   - Foot
 ---
 
-Zola a signé 3 ans à Nancy. D'après l'illustration, Hugo hésite encore à se
+Zola a signé 3 ans à Nancy. D’après l’illustration, Hugo hésite encore à se
 lancer. Le monde va mal !

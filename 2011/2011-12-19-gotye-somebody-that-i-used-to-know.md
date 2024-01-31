@@ -10,5 +10,5 @@ category: Chanson du jour
 
 {% youtube 8UVNT4wvIGY %}
 
-Que faire du bébé et de l'eau du bain ? Faut-il y voir le charme d'une chanson
+Que faire du bébé et de l’eau du bain ? Faut-il y voir le charme d’une chanson
 minimaliste ou les frissons de voir germer un mix de Sting et Mika ?

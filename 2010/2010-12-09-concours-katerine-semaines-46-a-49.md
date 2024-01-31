@@ -18,21 +18,21 @@ Faisons le point sur les 4 dernières semaines.
 
 ## Bientôt en concert
 
-Le groupe vient d'annoncer des dates de concert à partir de mars 2011. Paris,
-Poitiers, Nantes et d'autres sont au programme.
+Le groupe vient d’annoncer des dates de concert à partir de mars 2011. Paris,
+Poitiers, Nantes et d’autres sont au programme.
 
 ## Les chansons des 4 dernières semaines
 
-### 46. _DJ_ de Diam's
+### 46. _DJ_ de Diam’s
 
-Katerine veut qu'on le laisse kiffer la vibes avec son mec. L'originale :
+Katerine veut qu’on le laisse kiffer la vibes avec son mec. L’originale :
 
 {% youtube vXQrZQ5IHfc %}
 
-### 47. _Le cimetière des éléphants_ d'Eddy Mitchell
+### 47. _Le cimetière des éléphants_ d’Eddy Mitchell
 
 Chanson presque inconnue mais reprise poignante (hum). Tant pis pour la fille
-aux yeux menthe à l'eau. Chantée par le maître Eddy :
+aux yeux menthe à l’eau. Chantée par le maître Eddy :
 
 {% dailymotion x4hq81 %}
 
@@ -45,9 +45,9 @@ chauffer le fusil Chantal !
 
 ### 49. _Double Je_ de Christophe Willem
 
-Une de mes préférées depuis le début de l'année. A noter que les paroles sont
-co-signées par le fils de Jean Schultheiss, déjà mis à l'honneur par Katerine
-sur _Confidence pour Confidence_. L'originale :
+Une de mes préférées depuis le début de l’année. A noter que les paroles sont
+co-signées par le fils de Jean Schultheiss, déjà mis à l’honneur par Katerine
+sur _Confidence pour Confidence_. L’originale :
 
 {% youtube Xe8QjHpYE1E %}
 

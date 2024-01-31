@@ -32,26 +32,26 @@ comments:
 ---
 
 Souvent considéré comme la réponse du berger à la bergère, les Rolling Stones
-(patronyme en forme d'hommage à la chanson de Dylan, elle-même se faisant l'écho
+(patronyme en forme d’hommage à la chanson de Dylan, elle-même se faisant l’écho
 du magazine musical du même nom) est avant tout un groupe constitué de
-personnages truculents : ainsi, Mick Jagger, showman d'exception s'est d'abord
+personnages truculents : ainsi, Mick Jagger, showman d’exception s’est d’abord
 fait connaître dans le showbiz en finissant 5ème à un concours de sosies de…
-Mick Jagger ! (c'est Jean-Louis Aubert qui remporta le concours ce soir-là).
+Mick Jagger ! (c’est Jean-Louis Aubert qui remporta le concours ce soir-là).
 
 Associé à cet auteur/interprète extraordinaire, on retrouve Keith Richards le
-fabuleux guitar-hero fan de zouk qui, très tôt, eut conscience qu'un destin de
-rock star l'attendait : ainsi, dans sa biographie, il nous révèle que tout
+fabuleux guitar-hero fan de zouk qui, très tôt, eut conscience qu’un destin de
+rock star l’attendait : ainsi, dans sa biographie, il nous révèle que tout
 gamin, il sniffait déjà les cendres de cigarettes de son père !
 
 Les deux compères ont accouché de formidables brûlots rock and roll, même si le
 duo est surtout connu pour ses "adaptations", qui en "empruntant" [_Roger_][1]
 aux **Rolling Bidochons**, qui en "rendant hommage" au **Eddy Mitchell** de
-[_Rien qu'un seul mot_][2].
+[_Rien qu’un seul mot_][2].
 
-A côté de cette paire fantastique gravitent d'autres merveilleux individus : que
+A côté de cette paire fantastique gravitent d’autres merveilleux individus : que
 ce soit Mick Jones, qui partit rapidement fonder le **Clash** ou Ron Wood,
-choisi parce qu'il avait le plus petit ampli disponible à l'époque (et qui donc
-pouvait facilement exploiter le bus-studio d'enregistrement spécialement aménagé
+choisi parce qu’il avait le plus petit ampli disponible à l’époque (et qui donc
+pouvait facilement exploiter le bus-studio d’enregistrement spécialement aménagé
 pour capter _on the road_ les idées foisonnantes du groupe), la seconde guitare
 chez les Stones a toujours été primordiale, tant et si bien que Keith laissait
 le plus souvent la part belle à ses alter-ego guitaristiques.

@@ -11,8 +11,8 @@ tags:
   - Foot
 ---
 
-D'après le quotidien _L'Equipe_, [Drogba devrait rejoindre Malouda à… Dijon][1].
-Ça devient n'importe quoi le football ! Un peu comme si Boli était allé jouer à
+D’après le quotidien _L’Equipe_, [Drogba devrait rejoindre Malouda à… Dijon][1].
+Ça devient n’importe quoi le football ! Un peu comme si Boli était allé jouer à
 Lens quoi… Le monde va mal !
 
 [1]:

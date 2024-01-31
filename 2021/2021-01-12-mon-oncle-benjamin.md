@@ -105,7 +105,7 @@ Interrogé sur la modernité de _Mon Oncle Benjamin_, Molinaro répond alors :
 > l’œuvre, je n’ai pas à m’en préoccuper.
 
 Dans [_Le Grand Entretien_ d’Edouard Molinaro][9][^2], en octobre 2011, François
-Busnel l'interroge sur ses motivations :
+Busnel l’interroge sur ses motivations :
 
 > — **Busnel** : le plus beau film de votre carrière, si vous me permettez, l’un
 > des plus beaux du cinéma français, avec Jacques Brel, au plus haut de sa
@@ -117,8 +117,8 @@ Busnel l'interroge sur ses motivations :
 > quelques articles, quelques poèmes et deux romans, si je me rappelle bien,
 > dont _Mon Oncle Benjamin_, qui n’a pas eu beaucoup de succès en France à sa
 > sortie, qui a été révélé par les Allemands je crois. (...) _Mon Oncle
-> Benjamin_ est un film pré-révolutionnaire si j'ose dire, libertaire et
-> libertin (...) et c'est Jacques Brel, quand je lui ai proposé ce texte, qui a
+> Benjamin_ est un film pré-révolutionnaire si j’ose dire, libertaire et
+> libertin (...) et c’est Jacques Brel, quand je lui ai proposé ce texte, qui a
 > imposé le film.
 
 Jacques Brel qui par ailleurs disait :
@@ -127,17 +127,17 @@ Jacques Brel qui par ailleurs disait :
 > C’est plein de vigueur, y’a une espèce de forme d’amour asssez insolite mais
 > c’est assez noble, j’aime bien ça.
 
-Au final, ainsi contextualisé, on peut s'abandonner à apprécier le film, qui
-nous parle d'avant, et une des dernières scènes — je n'ai pas pu trouver
+Au final, ainsi contextualisé, on peut s’abandonner à apprécier le film, qui
+nous parle d’avant, et une des dernières scènes — je n’ai pas pu trouver
 quiconque la commentant sur internet dans mes maigres recherches — nous conforte
 dans cette idée. Lors du dernier dîner de Minxit, celui-ci convie tous ses bons
-copains et copines, et son œil s'attarde sur celui, particulièrement humide de
-Parlenta (Paul Préboist), zoom à l'appui. Impossible de ne pas penser que ce
+copains et copines, et son œil s’attarde sur celui, particulièrement humide de
+Parlenta (Paul Préboist), zoom à l’appui. Impossible de ne pas penser que ce
 gimmick, visible que pour ceux qui ont envie de le voir, puisse évoquer une
 possible relation intime entre ces deux-là.
 
-Bref, il vous faudra passer outre 50 années d'évolution des mœurs pour apprécier
-le film, mais il est malgré tout vivement recommandé. C'est le Joey Tribbiani
+Bref, il vous faudra passer outre 50 années d’évolution des mœurs pour apprécier
+le film, mais il est malgré tout vivement recommandé. C’est le Joey Tribbiani
 des films : il vous [embarassera souvent][11] mais il a un cœur gros comme ça.
 
 {% comment %}
@@ -149,7 +149,7 @@ des films : il vous [embarassera souvent][11] mais il a un cœur gros comme ça
     dont, dit en passant, Joe Gantdelaine et moi-même vous recommandons [_Paris
     au mois d’août_][10].
 
-[^2]: à partir de 19'38
+[^2]: à partir de 19’38
 
 [1]: https://fr.wikipedia.org/wiki/Mon_oncle_Benjamin_(film,_1969)
 [2]: https://fr.wikipedia.org/wiki/Mon_oncle_Benjamin

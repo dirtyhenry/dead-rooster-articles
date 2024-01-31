@@ -42,19 +42,19 @@ tags:
 ---
 
 Véritables enfants du bayou, les frères Fogerty ont parfaitement su restituer
-les sons de leur enfance dans une version rock'n'roll totalement en phase avec
+les sons de leur enfance dans une version rock’n’roll totalement en phase avec
 leur époque.
 
 Que ce soit en reprenant Claude François ([_Proud Mary_][i765]) ou par le biais
 de leurs propres compos, comme par exemple _I Heard it to the Grapevine_, les
-CCR n'ont eu de cesse de rendre hommage à leurs terres natales. Et contrairement
-aux faux péquenots (voir, au hasard, Kings of Leon), les CCR n'ont jamais fait
+CCR n’ont eu de cesse de rendre hommage à leurs terres natales. Et contrairement
+aux faux péquenots (voir, au hasard, Kings of Leon), les CCR n’ont jamais fait
 la tournée des stades.
 
-D'autre part, alors que les groupes de la même époque s'engageaient
-politiquement en faveur de l'arrêt de la guerre du Vietnam, eux s'en
+D’autre part, alors que les groupes de la même époque s’engageaient
+politiquement en faveur de l’arrêt de la guerre du Vietnam, eux s’en
 désintéressaient, et avaient des considérations beaucoup plus écolo, se souciant
-beaucoup du climat (_Have you ever seen the rain ?_, _Who'll stop the rain_) et
+beaucoup du climat (_Have you ever seen the rain ?_, _Who’ll stop the rain_) et
 de la nature (_Bad Moon Rising_, _Cotton Fields_).
 
 [i765]: {% post_url 2011/2011-03-19-claude-francois %}

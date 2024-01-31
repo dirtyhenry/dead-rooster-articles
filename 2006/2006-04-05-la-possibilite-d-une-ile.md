@@ -15,7 +15,7 @@ Daniel est un _observateur acéré de la réalité contemporaine_. Ses spectacle
 sont des succès. Bref il est 100% VIP. Il rencontre Isabelle. Puis ils
 vieillissent, puis ils se quittent. Puis Daniel rencontre sa mort, Esther, son
 immortalité, les Elohimites, et son compagnon éternel, le chien Fox. Tout ça
-sous l'oeil critique de Daniel24 et Daniel25, ses successeurs dans la lignée des
+sous l’oeil critique de Daniel24 et Daniel25, ses successeurs dans la lignée des
 Daniel.
 
 Encore une fois, Houellebecq est très fort.

@@ -11,7 +11,7 @@ tags:
   - She & Him
 ---
 
-Cette semaine, **She & Him** était de passage dans l'émission
+Cette semaine, **She & Him** était de passage dans l’émission
 [Morning Becomes Eclectic](http://www.kcrw.com/music/programs/mb) de la radio
 californienne KCRW.
 

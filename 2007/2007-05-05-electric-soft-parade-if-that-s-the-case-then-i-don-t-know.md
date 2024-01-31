@@ -9,6 +9,6 @@ date: "2007-05-05 14:27:00 +0200"
 
 {% youtube DFuoqxJ06Y0 %}
 
-Tes potes d'Electric Soft Parade sont de retour, avec me semble-t-il le même
+Tes potes d’Electric Soft Parade sont de retour, avec me semble-t-il le même
 batteur que celui qui accompagne Graham Coxon pendant ses tournées (gage de
 haute qualité).

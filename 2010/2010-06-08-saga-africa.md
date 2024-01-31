@@ -18,15 +18,15 @@ tags:
 La reprise de la semaine de **Katerine, Francis et ses peintres** est _Saga
 Africa_, de Yannick Noah.
 
-On ne se privera pas du plaisir de revoir l'originale :
+On ne se privera pas du plaisir de revoir l’originale :
 
 {% youtube 7G_EWNpOyCI %}
 
-Alors que Roland-Garros vient de se finir et à quelques jours de l'ouverture de
+Alors que Roland-Garros vient de se finir et à quelques jours de l’ouverture de
 la Coupe du Monde (ça fait plaisir de se souvenir de Roger Milla), la chanson
 est parfaitement de saison. Merci Yannick ! Merci Katerine !
 
-Malheur, personne ne l'avait et donc, classement inchangé :
+Malheur, personne ne l’avait et donc, classement inchangé :
 
 - 1. Hervé, 15pts
 - 2. Rodrigue et Joe, 5pts

@@ -18,10 +18,10 @@ cover: with-stupid.jpg
 category: Le monde va mal
 ---
 
-Aujourd’hui, j’ai encore entendu quelqu’un s’égosiller d'un lamentablement
+Aujourd’hui, j’ai encore entendu quelqu’un s’égosiller d’un lamentablement
 plat :
 
-> De toute façon le foot, c'est juste regarder des gugusses qui courent après un
+> De toute façon le foot, c’est juste regarder des gugusses qui courent après un
 > ballon.
 
 Le monde va mal !

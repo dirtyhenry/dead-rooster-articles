@@ -30,7 +30,7 @@ comments:
 
 On en a déjà parlé [ici][i936], Dum Dum Girls est incontestablement le disque du
 mois. Quant à Neutral Milk Hotel (évoqué [ici][i680] et [ici][i687]), ils sont
-sous les feux de la rampe puisqu'annonces de reformation et rééditions déboulent
+sous les feux de la rampe puisqu’annonces de reformation et rééditions déboulent
 un peu partout. Si vous voulez investir dans les disques de Jeff Mangum et ses
 sbires, _In the Aeroplane, Over the Sea_ est à se procurer en priorité. Deux
 belles découvertes complètent la liste des meilleurs disques du mois : Veronica
@@ -39,9 +39,9 @@ Falls et Hanni El Khatib dont on reparlera très bientôt.
 ## Les 4 étoiles
 
 Certains singles du premier album solo de Noel Gallagher étaient
-enthousiasmants, d'autres très inquiétants, le disque est finalement plus
-qu'honorable quoique sans surprise. À défaut de très grands albums et de singles
-incontournables, Kasabian s'affirme au fil des années comme un groupe cohérent
+enthousiasmants, d’autres très inquiétants, le disque est finalement plus
+qu’honorable quoique sans surprise. À défaut de très grands albums et de singles
+incontournables, Kasabian s’affirme au fil des années comme un groupe cohérent
 et consistant, à préférer sur disque que sur scène.
 
 ## Les 3 étoiles
@@ -54,13 +54,13 @@ préparation, on verra ce que ça donnera.
 ## Les 2 étoiles
 
 dEUS part un peu en vrille. Kaiser Chiefs aussi, même si passé les 2 premiers
-titres du disque, faibles et rédhibitoires, l'album garde un certain charme.
+titres du disque, faibles et rédhibitoires, l’album garde un certain charme.
 
 ## Les 1 étoile
 
 Frànçois & The Atlas Mountain est un groupe soit trop romantique, soit pas assez
 pop, et leurs pochettes de disques sont horribles. St Vincent oscille entre le
-brillant et l'insupportable, Male Bonding est un peu trop skate punk à mon goût
+brillant et l’insupportable, Male Bonding est un peu trop skate punk à mon goût
 (mais Joe Gantdelaine dirait sûrement autre chose).
 
 ## La synthèse

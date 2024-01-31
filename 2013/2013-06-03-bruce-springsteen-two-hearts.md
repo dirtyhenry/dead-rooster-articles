@@ -11,8 +11,8 @@ tags:
 ---
 
 En cherchant un peu comment explorer le chantier à débroussailler Bruce
-Springsteen, j'ai trouvé les recommandations de Win Butler, le leader d'Arcade
-Fire, qui en a fait un top 14, qu'on a compilé sur Spotify. En tête de liste du
+Springsteen, j’ai trouvé les recommandations de Win Butler, le leader d’Arcade
+Fire, qui en a fait un top 14, qu’on a compilé sur Spotify. En tête de liste du
 top 14, on ne retrouve pas le stade toulousain mais *Two Hearts* :
 
 {% youtube g3aqhFjYLWk %}

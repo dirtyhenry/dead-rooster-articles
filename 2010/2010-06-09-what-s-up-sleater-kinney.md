@@ -15,7 +15,7 @@ tags:
   - Nouvel album
 ---
 
-**Corin Tucker**, l'ex-leader de Sleater-Kinney, publiera son 1er album solo le
+**Corin Tucker**, l’ex-leader de Sleater-Kinney, publiera son 1er album solo le
 5 octobre prochain.
 
 De quoi [se remettre les oreilles dans les disques de feu-Sleater-Kinney][i1],

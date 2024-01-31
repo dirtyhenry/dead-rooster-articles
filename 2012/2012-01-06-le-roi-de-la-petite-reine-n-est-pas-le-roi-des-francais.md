@@ -11,6 +11,6 @@ tags:
   - La Petite Reine
 ---
 
-Cette année, Thomas Voeckler n'est que 9ème au classement des sportifs préférés
-des Français. Y'en a qui regardent pas assez la télé au mois de juillet ! Le
+Cette année, Thomas Voeckler n’est que 9ème au classement des sportifs préférés
+des Français. Y’en a qui regardent pas assez la télé au mois de juillet ! Le
 monde va mal !

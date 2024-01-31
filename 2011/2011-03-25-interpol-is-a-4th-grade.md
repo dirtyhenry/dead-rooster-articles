@@ -22,7 +22,7 @@ band are still there : Paul Banks aka Julian Plenti, vocals, Daniel Kessler,
 guitars, and Sam Fogarino, drums[^1]. Farewell dear Carlos D., bass player and
 [full-time candidate for the world most classy person position][1]. Less than
 one year ago, he was replaced on stage by Brandon Curtis (keyboards and backing
-vocals) and David Pajo (bass)… who's just announced he was off the ship, being
+vocals) and David Pajo (bass)… who’s just announced he was off the ship, being
 last-minute replaced by Brad Truax whose resume just sums up two weeks of this
 Interpol job.
 
@@ -30,49 +30,49 @@ _Success_ and _Say Hello To The Angels_ open the show. Two big hits to be
 forgiven of the not-so-sharp sound that will need another few songs to be
 completely set up. The audience is quite steady, as usual in Paris, but seems
 delighted to be here. Watching it closer, it appears the average person around
-us is about 30 and not a single real young person can be seen. It's not
+us is about 30 and not a single real young person can be seen. It’s not
 surprising as Interpol is now a veteran of the famous rock revival scene from
 the early 00s. Strokes, Interpol, Libertines, Kings of Leon or even Franz
-Ferdinand aren't young bands anymore and each of them will celebrate the 10th
-anniversary of their debut release pretty soon. We'll get back on this subject
-at the occasion of the celebration of the 10th anniversary of The Strokes' _Is
+Ferdinand aren’t young bands anymore and each of them will celebrate the 10th
+anniversary of their debut release pretty soon. We’ll get back on this subject
+at the occasion of the celebration of the 10th anniversary of The Strokes’ _Is
 This It_ this summer (can you believe it? ten years!).
 
 {% asset interpol-paul-banks-live.png %}
 
 During the last decade, Interpol became one of my top favorite bands. First, the
 New Yorkers made me open the door again to the "cold wave" of the late 70s and
-Joy Division in particular and I'm grateful for that. Then, from _Turn On The
+Joy Division in particular and I’m grateful for that. Then, from _Turn On The
 Bright Lights_ (their first LP released in 2002, that I had first discovered
 thanks to a samples split CD exclusively given to street fans of Nada Surf) to
-_Interpol_ (last album to this day, the fourth one, released in 2010), I've
-never been disappointed. It's nice to grow old with a band by your side. Major
+_Interpol_ (last album to this day, the fourth one, released in 2010), I’ve
+never been disappointed. It’s nice to grow old with a band by your side. Major
 artists often have maturity growing album series in their discography. The
 Beatles, the Kinks and the Rolling Stones are among them of course, but being
-born in the 80s, they're not contemporaries (really?). Thinking about it, Blur
+born in the 80s, they’re not contemporaries (really?). Thinking about it, Blur
 and Interpol are the only bands coming to my mind when I think of the bands that
-grew old with me. Hmm… This post began as a concert review, let's get back to it
+grew old with me. Hmm… This post began as a concert review, let’s get back to it
 before I turn this into a love letter.
 
 After _Lights_ in the middle of their set, a song with an incredible potential
 but quite frustrating on stage, Interpol goes slower, which is nice, and both
-important (you may not be aware of it but you don't want a full-speed 90-minutes
-long gig) and risky (you may be 100% aware of it but you don't want to get bored
+important (you may not be aware of it but you don’t want a full-speed 90-minutes
+long gig) and risky (you may be 100% aware of it but you don’t want to get bored
 either), before beginning the sped up final by _The Heinrich Maneuver_ and
-conclude with _Not Even Jail_. Let's bet that _Obstacle 1_ and _Slow Hands_ will
+conclude with _Not Even Jail_. Let’s bet that _Obstacle 1_ and _Slow Hands_ will
 be played during the encore, and oh yeah, we got them and even another
-_Untitled_ for the road. The dramatically intense _Pioneer to The Falls_ wasn't
-played but we'll get over it.
+_Untitled_ for the road. The dramatically intense _Pioneer to The Falls_ wasn’t
+played but we’ll get over it.
 
-Banks and Kessler are smiling when it's about time to leave the stage : that's a
-first time in my Interpol concerts experience. They're usually cold, in the way
+Banks and Kessler are smiling when it’s about time to leave the stage : that’s a
+first time in my Interpol concerts experience. They’re usually cold, in the way
 you want Interpol shows to be cold. Even better, they salute the audience
 cheerfully with a not-original but quite reassuring for a
 band-that-split-up-many-times-without-telling-anyone «See you next time».
 
 {% asset interpol-daniel-kessler-live.png %}
 
-If people among you don't know Interpol that well, this is a _Interpol for
+If people among you don’t know Interpol that well, this is a _Interpol for
 Dummies playlist_.
 
 {% spotify 7trDXQ940DYxcQDRIcjZwO %}
@@ -106,7 +106,7 @@ Deluxe 10-songs version :
 1. _Evil_
 1. _Length of Love_
 1. _Lights_
-1. _C'mere_
+1. _C’mere_
 1. _Summer Well_
 1. _NYC_
 1. _The Heinrich Maneuver_
@@ -119,6 +119,6 @@ Deluxe 10-songs version :
 
 Pictures : (c) Isatagada
 
-[^1]: alright, the very first drummer of the band was Greg Drudy, you're right.
+[^1]: alright, the very first drummer of the band was Greg Drudy, you’re right.
 
 [1]: https://www.google.fr/images?q=carlos+d+interpol

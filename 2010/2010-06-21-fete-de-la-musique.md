@@ -16,7 +16,7 @@ tags:
   - Dead Rooster Announcement
 ---
 
-_The Livingstones I Presume_ joueront à l'occasion de la fête de la musique le
+_The Livingstones I Presume_ joueront à l’occasion de la fête de la musique le
 lundi 21 juin, à Paris, au Val Café, 39 boulevard de Port Royal, dans le XIIIème
 arrondissement.
 
