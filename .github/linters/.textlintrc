@@ -7,11 +7,9 @@
       "defaultTerms": true,
       "exclude": [
         "YouTube",
-        "PNG",
-        "HTML",
-        "GIF",
-        "smartphones"
+        "smartphone(s)?"
       ]
-    }
+    },
+    "apostrophe": true
   }
 }

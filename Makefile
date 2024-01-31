@@ -1,8 +1,8 @@
 install:
-	yarn install
+	npm install
 
 lintfix:
-	yarn lint:fix
+	npm run lint:fix
 
 clean:
 	rm -rf node_modules
