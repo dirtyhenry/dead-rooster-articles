@@ -12,7 +12,7 @@ tags:
 
 {% youtube Ty-IJ3qz-GE %}
 
-Non, les Écossais ne reprennent pas [l'horrible tube de Leah Andreone][1] et
+Non, les Écossais ne reprennent pas [l’horrible tube de Leah Andreone][1] et
 merci bien. Ils annoncent plutôt la sortie de leur nouvel album, _More Light_,
 prévue mi-mai.
 

@@ -15,7 +15,7 @@ tags:
 ---
 
 La reprise de **Katerine, Francis et ses peintres** de la semaine est [_Je pense
-à toi_][1] d'Amadou & Mariam.
+à toi_][1] d’Amadou & Mariam.
 
 L’originale :
 

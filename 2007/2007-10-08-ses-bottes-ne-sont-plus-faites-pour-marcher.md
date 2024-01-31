@@ -15,4 +15,4 @@ cover: lee-hazlewood-2.jpg
 category: Le monde va mal
 ---
 
-La mort de Lee Hazlewood cet été n'a pas ému les foules. Le monde va mal !
+La mort de Lee Hazlewood cet été n’a pas ému les foules. Le monde va mal !

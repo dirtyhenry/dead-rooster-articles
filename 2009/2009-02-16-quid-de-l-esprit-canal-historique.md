@@ -18,7 +18,7 @@ tags:
 
 Philippe Gildas a enfin un successeur : Olivier Besancenot relance [NPA][2] !
 Mais la joie est de courte durée. Au programme du [NPA version Besancenot][1],
-aucune trace d'Antoine de Caunes, des Nuls, d'Edouard Baer ou de [M.
+aucune trace d’Antoine de Caunes, des Nuls, d’Edouard Baer ou de [M.
 Manatane][3], pas de Moustic ni de [Message à Caractère Informatif][4]. Le monde
 va mal !
 

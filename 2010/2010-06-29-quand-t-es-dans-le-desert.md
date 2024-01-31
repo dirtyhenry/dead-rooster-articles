@@ -15,9 +15,9 @@ tags:
 ---
 
 La reprise de la semaine de **Katerine, Francis et ses peintres** est _Quand
-t'es dans le désert_, de Jean-Patrick Capdevielle.
+t’es dans le désert_, de Jean-Patrick Capdevielle.
 
-L'originale :
+L’originale :
 
 {% dailymotion x32pfd %}
 

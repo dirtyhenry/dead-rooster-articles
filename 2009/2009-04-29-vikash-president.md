@@ -9,5 +9,5 @@ cover: vikash-dhorasoo.jpg
 ---
 
 Vikash Dhorasoo a dit vouloir prendre les rênes du HAC, son club formateur. Et
-Louvel, l'actuel président rétrograde et rétrogradé en L2, s'y oppose ! Le monde
+Louvel, l’actuel président rétrograde et rétrogradé en L2, s’y oppose ! Le monde
 va mal !

@@ -17,24 +17,24 @@ comments:
 cover: patrick-chene.jpg
 ---
 
-Voici le message de Patrick Chêne à Raymond Domenech, qu'il a délivré sur
+Voici le message de Patrick Chêne à Raymond Domenech, qu’il a délivré sur
 football365.fr et qui est plutôt fun :
 
 > Le gardien ? Pas de questions à se poser. Fabien a fait le boulot et Greg est
-> calmé. C'est réglé. La défense ? J'ai vu Sagnol meilleur mais il va se
-> reprendre. Abidal est au top et la charnière trouve ses marques. C'est réglé.
+> calmé. C’est réglé. La défense ? J’ai vu Sagnol meilleur mais il va se
+> reprendre. Abidal est au top et la charnière trouve ses marques. C’est réglé.
 > Le milieu ? Ribéry a proposé de lui même de rejoindre le banc et le rôle de
-> joker. Patrick Vieira n'a pas actuellement la vivacité pour contrer les
+> joker. Patrick Vieira n’a pas actuellement la vivacité pour contrer les
 > Coréens. Retour de Malouda dans le couloir gauche, arrivée de Dhorasoo devant
 > Makelele et le tour est joué. Le 4-5-1 avec deux joueurs de couloir, un vrai
-> numéro 6 et deux créateurs, ce n'est quand même pas révolutionnaire.
+> numéro 6 et deux créateurs, ce n’est quand même pas révolutionnaire.
 >
 > Je résume pour Raymond :
 >
 > Barthez - Sagnol, Thuram, Gallas, Abidal - Makelele, Dhorasoo, Malouda,
 > Wiltord, Zidane - Henry
 >
-> Et qu'on ne vienne pas nous dire que la presse n'est pas derrière les Bleus !
+> Et qu’on ne vienne pas nous dire que la presse n’est pas derrière les Bleus !
 >
 > PS : puisque tu insistes Raymond, je te donne même les changements
 > théoriques :
@@ -42,5 +42,5 @@ football365.fr et qui est plutôt fun :
 > - 60ème : Ribéry remplace Wiltord
 > - 75ème : si la France ne mène pas, Saha (ou Trezeguet) remplace Dhorasoo. Si
 >   la France mène : Diarra remplace Zidane.
-> - Ah, j'oubliais ! En cas de défaite, changement à la 90ème, Deschamps (ou
+> - Ah, j’oubliais ! En cas de défaite, changement à la 90ème, Deschamps (ou
 >   Wenger) remplace Domenech !

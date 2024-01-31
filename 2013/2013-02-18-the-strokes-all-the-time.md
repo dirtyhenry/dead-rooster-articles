@@ -13,4 +13,4 @@ tags:
 
 Après un premier extrait sujet à débats, **The Strokes** proposent un 2nd
 extrait de leur 5ème album à paraître en mars, _Comedown Machine_. Du classique,
-du direct, de l'efficace.
+du direct, de l’efficace.

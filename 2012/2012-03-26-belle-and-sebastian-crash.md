@@ -16,7 +16,7 @@ tags:
 Clip TM voire TTM[^1] pour cette reprise du tube des Primitives joué par le
 groupe de Glasgow pour la série des [Late Night Tales][2].
 
-Sinon, n'oublions pas de regarder [_Dumb And Dumber_][1] tous les ans (dans [la
+Sinon, n’oublions pas de regarder [_Dumb And Dumber_][1] tous les ans (dans [la
 version "petite vieille"-included][i576] bien sûr).
 
 [^1]: trop mignon voire trop trop mignon

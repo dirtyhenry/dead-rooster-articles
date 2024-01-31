@@ -15,9 +15,9 @@ tags:
 ---
 
 [Le précédent single des **New Pornographers** était déjà très bien][i611], le
-nouveau, _The Crash Years_, est même encore mieux et dispose d'un clip très
+nouveau, _The Crash Years_, est même encore mieux et dispose d’un clip très
 sympa à base de parapluie qui rappelle à la fois je ne sais plus quel film
-coréen de ces dernières années et la fin du générique de _Juliette, je t'aime_.
+coréen de ces dernières années et la fin du générique de _Juliette, je t’aime_.
 
 {% youtube _KZANuDcRO4 %}
 

@@ -7,7 +7,7 @@ wordpress_id: 1198
 date: "2013-03-19 10:19:17 +0100"
 ---
 
-L'ex leader de Girls, propose un clip pour _Here We Go Again_, extrait de
+L’ex leader de Girls, propose un clip pour _Here We Go Again_, extrait de
 _Lysandre_, son premier album solo.
 
 {% youtube QWba2_HxpjQ %}

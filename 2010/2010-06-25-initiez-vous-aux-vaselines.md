@@ -16,14 +16,14 @@ que Nirvana en a fait 3 reprises sans que le mérite en revienne sur ce groupe
 obscur. Si vous vous êtes un minimum intéressé à Nirvana dans votre vie, vous
 connaissez peut-être sans le savoir des titres des Vaselines, que ce soit
 [_Son of a Gun_](http://www.youtube.com/watch?v=B0qIARknhMg) ou
-[_Jesus doesn't want me for a sunbeam_](http://www.youtube.com/watch?v=RcLM_gqLlYc).
+[_Jesus doesn’t want me for a sunbeam_](http://www.youtube.com/watch?v=RcLM_gqLlYc).
 
 En tout et pour tout, The Vaselines ont publié… 1 album… en 1989.
 
-21 ans après, ils en offrent une suite, qu'on n'attendait plus, _Sex With An X_,
-qui sortira en septembre et ils en offrent un premier extrait _I Hate The 80's_
+21 ans après, ils en offrent une suite, qu’on n’attendait plus, _Sex With An X_,
+qui sortira en septembre et ils en offrent un premier extrait _I Hate The 80’s_
 ci-dessous.
 
-De quoi espérer un nouvel album des La's pour bientôt ?
+De quoi espérer un nouvel album des La’s pour bientôt ?
 
 {% youtube i1zMx4Eltbo %}

@@ -17,10 +17,10 @@ cover: oasis-gallagher-brothers.jpg
 Un sondage sur NME.com a donné le résultat suivant :
 
 1. _Definitely Maybe_ - Oasis
-2. _Sgt. Pepper's Lonely Heart's Club Band_ - The Beatles
+2. _Sgt. Pepper’s Lonely Heart’s Club Band_ - The Beatles
 3. _Revolver_ - The Beatles
 4. _OK Computer_ - Radiohead
-5. _(What's The Story) Morning Glory?_ - Oasis
+5. _(What’s The Story) Morning Glory?_ - Oasis
 6. _Nevermind_ - Nirvana
 7. _The Stone Roses_ - The Stone Roses
 8. _Dark Side Of The Moon_ - Pink Floyd
@@ -31,7 +31,7 @@ Un sondage sur NME.com a donné le résultat suivant :
 13. _The Beatles (The White Album)_ - The Beatles
 14. _Abbey Road_ - The Beatles
 15. _Up The Bracket_ - The Libertines
-16. _Never Mind The Bollocks Here's The Sex Pistols_ - Sex Pistols
+16. _Never Mind The Bollocks Here’s The Sex Pistols_ - Sex Pistols
 17. _Four Symbols (Led Zeppelin IV)_ - Led Zeppelin
 18. _The Rise And Fall Of Ziggy Stardust And The Spiders From Mars_ - David
     Bowie

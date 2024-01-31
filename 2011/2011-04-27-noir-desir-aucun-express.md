@@ -9,4 +9,4 @@ date: "2011-04-27 10:47:08 +0200"
 
 {% youtube TtNwpCKuWTA %}
 
-Reprise d'Alain Bashung.
+Reprise d’Alain Bashung.

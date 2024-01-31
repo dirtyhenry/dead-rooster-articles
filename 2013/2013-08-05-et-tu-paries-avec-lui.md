@@ -9,7 +9,7 @@ date: 2013-08-05 18:09:50 +0200
 ---
 
 Déjà condamné plusieurs fois (on se souvient tous du poignant aveu : "Oui,
-Jérôme, [c'est moi !][1]"), [C Jérôme][2] est maintenant accusé d'être un
+Jérôme, [c’est moi !][1]"), [C Jérôme][2] est maintenant accusé d’être un
 tricheur et ne pourra malheureusement plus se défendre… Le monde va mal !
 
 [1]: https://youtu.be/3GRaJvvC_5o

@@ -9,6 +9,6 @@ cover: michele-mercier.jpg
 category: Le monde va mal
 ---
 
-Il y a 40 ans cette année, l'annonce du divorce entre Michèle Mercier et André
-Samagghe déchirait les coeurs de tout un peuple. Cette information n'émeut plus
-personne aujourd'hui. Le monde va mal !
+Il y a 40 ans cette année, l’annonce du divorce entre Michèle Mercier et André
+Samagghe déchirait les coeurs de tout un peuple. Cette information n’émeut plus
+personne aujourd’hui. Le monde va mal !

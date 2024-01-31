@@ -10,4 +10,4 @@ cover: mitch-mitchell.jpg
 
 Les légendes des années 60 tombent comme des mouches. Le dernier en date ? Mitch
 Mitchell, fantastique batteur du Jimi Hendrix Experience, dont les trois membres
-sont aujourd'hui complètement décédés. Le monde va mal !
+sont aujourd’hui complètement décédés. Le monde va mal !

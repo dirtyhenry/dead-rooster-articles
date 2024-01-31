@@ -10,5 +10,5 @@ category: Le monde va mal
 ---
 
 Bon, OK, que Gourcuff veuille rester à Bordeaux est plutôt une bonne nouvelle…
-Mais sérieusement : "a glissait" ? A la une d'un des sites les plus consultés de
+Mais sérieusement : "a glissait" ? A la une d’un des sites les plus consultés de
 France ? Le monde va mal !

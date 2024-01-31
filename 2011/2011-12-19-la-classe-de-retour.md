@@ -10,7 +10,7 @@ category: Le monde va mal
 ---
 
 [La Classe][1] sort [un album sur Tricatel][2] le 26 décembre. Ce sera
-vraisemblablement sans Bézu. Et on est toujours sans nouvelle d'un opus de
+vraisemblablement sans Bézu. Et on est toujours sans nouvelle d’un opus de
 [Cocoricocoboy][3]. Le monde va mal !
 
 [1]: https://fr.wikipedia.org/wiki/La_Classe_(émission_de_télévision)

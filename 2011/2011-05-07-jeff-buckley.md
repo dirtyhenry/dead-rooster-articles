@@ -21,17 +21,17 @@ comments:
       Lemarchal.
 ---
 
-La vie de **Jeff Buckley** ne fut qu'une succession de copies de ses idoles.
-Ainsi, dès le début, il s'illustre en étant fils de rock star. Un peu comme
+La vie de **Jeff Buckley** ne fut qu’une succession de copies de ses idoles.
+Ainsi, dès le début, il s’illustre en étant fils de rock star. Un peu comme
 **Albert Hammond Jr** ou **-M-**.
 
-Et puis, comme cela ne lui suffisait pas, Jeff Buckley a décidé qu'il
+Et puis, comme cela ne lui suffisait pas, Jeff Buckley a décidé qu’il
 deviendrait connu avec une scie insupportable après la 3ème écoute. Il décida
 donc de chanter _Hallelujah_. Un peu comme **Leonard Cohen** ou **Benjamin
 Siksou** de la Nouvelle Star.
 
-Et finalement, Jeff Buckley en a eu marre du succès, C'était pas pour lui. Alors
-il a décidé d'en terminer avant même la sortie d'un deuxième album. Du coup,
+Et finalement, Jeff Buckley en a eu marre du succès, C’était pas pour lui. Alors
+il a décidé d’en terminer avant même la sortie d’un deuxième album. Du coup,
 Jeff Buckley est mort noyé. Un peu comme **Brian Jones** ou **[Monsieur
 Plus][1]**.
 
@@ -39,7 +39,7 @@ Mais bon, Jeff Buckley, à force de copier, a mis un peu plus de temps que les
 autres. Ce qui fait que Jeff Buckley est mort à 30 ans. Un peu 3 ans après tout
 le monde : Kurt, Jimi, Janis, John, Marylin, etc.
 
-Et tant qu'on est là, avouons-le : Jeff Buckley a un nom qui ressemble à une
+Et tant qu’on est là, avouons-le : Jeff Buckley a un nom qui ressemble à une
 marque de bières. Un peu comme **Gold** et **Corona**.
 
 [1]:

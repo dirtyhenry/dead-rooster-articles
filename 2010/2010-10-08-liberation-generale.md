@@ -23,8 +23,8 @@ La preuve avec *Vegetable Suicide* :
 
 ## 2. La France est libérée
 
-[_Le Retour à la Terre_][1], c'est marrant. [_De Gaulle_ par Ferri][2], c'est
-marrant. [Le mélange des deux][3], c'est donc marrant aussi.
+[_Le Retour à la Terre_][1], c’est marrant. [_De Gaulle_ par Ferri][2], c’est
+marrant. [Le mélange des deux][3], c’est donc marrant aussi.
 
 ## 3. Les urbanistes de Floride sont libérés
 
@@ -33,7 +33,7 @@ Floride][4].
 
 ## 4. La laideur est libérée
 
-Les Craypion d'Or ont été créés pour élire les sites les plus moches d'internet.
+Les Craypion d’Or ont été créés pour élire les sites les plus moches d’internet.
 Voici [quelques échantillons des nommés][5]. Ca va être dur de choisir…
 
 (via Joe Gantdelaine)

@@ -8,6 +8,6 @@ date: "2008-09-05 16:07:00 +0200"
 cover: sondage-equipe-chavanel.png
 ---
 
-Aujourd'hui sur le site de l'Equipe, on a pu voir un sondage au résultat aussi
+Aujourd’hui sur le site de l’Equipe, on a pu voir un sondage au résultat aussi
 prévisible que cinglant. Détruire Aimé Jacquet et Santoro ne leur suffit donc
 pas ? Ils veulent donc tous en faire des trophées de chasse ? Le monde va mal !

@@ -28,18 +28,18 @@ ici. Tout a commencé en avril…
 
 ## Chapitre 1. Le Printemps de Bourges
 
-Cette année encore, la soirée du samedi du Printemps de Bourges s'annonçait
-bien, l'affiche était alléchante : Katerine, Deus, Hushpuppies, Arctic Monkeys
-et Dionysos, et la logistique du voyage semblait rodée. Pourtant, je n'ai pu
+Cette année encore, la soirée du samedi du Printemps de Bourges s’annonçait
+bien, l’affiche était alléchante : Katerine, Deus, Hushpuppies, Arctic Monkeys
+et Dionysos, et la logistique du voyage semblait rodée. Pourtant, je n’ai pu
 voir que les 2 dernières chansons de Deus et le concert de Dionysos, soit
 environ 20% de la soirée. Pourquoi ? La faute :
 
 1. à un pote qui décale le rendez-vous de 2 heures le matin même.
-1. à la voiture qui n'a plus de batterie et qu'on n'avait plus essayé de
+1. à la voiture qui n’a plus de batterie et qu’on n’avait plus essayé de
    redémarrer depuis une semaine.
-1. à une mésentente équipe 1/équipe 2 qui nous empêche d'avoir une réservation
+1. à une mésentente équipe 1/équipe 2 qui nous empêche d’avoir une réservation
    pour le train de secours qui existe.
-1. à des gens incapables d'utiliser les bornes SNCF rapidement, et aux bornes
+1. à des gens incapables d’utiliser les bornes SNCF rapidement, et aux bornes
    SNCF elles-même qui tombent en panne au moment de payer son
    Austerlitz-Bourges.
 1. à une finale de Coupe de France PSG-Marseille, qui impose des mesures de
@@ -47,14 +47,14 @@ environ 20% de la soirée. Pourquoi ? La faute :
    de monter dans un TER sans billet.
 1. aux deux heures qui nous séparent du prochain train pour Bourges, au site
    SNCF qui fait disparaître le train pour lequel on souhaite réserver sans
-   crier gare (d'Austerlitz, ha ha ha)
-1. aux 3/4 d'heure de retard du train au départ de Paris et encore une fois aux
-   contrôleurs zélés d'Austerlitz, qui effectuent le contrôle du compostage des
+   crier gare (d’Austerlitz, ha ha ha)
+1. aux 3/4 d’heure de retard du train au départ de Paris et encore une fois aux
+   contrôleurs zélés d’Austerlitz, qui effectuent le contrôle du compostage des
    billets avant la montée dans le train et au compte-goutte, alors que le train
    est déjà en retard.
-1. à l'incendie qui a lieu sur le parcours Paris-Bourges, qui provoque des
+1. à l’incendie qui a lieu sur le parcours Paris-Bourges, qui provoque des
    ralentissements sur toute la ligne.
-1. à l'arrêt à Vierzon, où des wagons sont rattachés et où il nous est demandé
+1. à l’arrêt à Vierzon, où des wagons sont rattachés et où il nous est demandé
    de changer de wagon.
 
 Sinon, le concert de Dionysos était bien.
@@ -65,11 +65,11 @@ Sinon, le concert de Dionysos était bien.
 
 La voiture a une batterie neuve. On part de Paris à 10 heures, pour un trajet
 que Mappy estime à 5 heures et on arrive pour les 2 dernières secondes du
-concert des Arctic Monkeys (encore eux !!!) à 21 heures. Que s'est-il passé
+concert des Arctic Monkeys (encore eux !!!) à 21 heures. Que s’est-il passé
 entre temps ?
 
 Difficile à dire, mais un bouchon de deux heures en sortie de Paris,
-difficilement prévisible vu l'horaire, des plaquettes de frein qui collent et
+difficilement prévisible vu l’horaire, des plaquettes de frein qui collent et
 qui nécessitent de rouler sans freiner pour le reste du voyage, un demi-tour
 involontaire sur 20 bornes, une pause McDo-tentative de réparation de
 voiture-courses au Carrefour à Dijon sont sûrement responsables.
@@ -81,39 +81,39 @@ bien.
 
 La journée commence par un diagnostic automobile déplaisant : la voiture ne
 pourra pas repartir à Paris sans réparation le lundi. Il faudra repasser au
-garage pour savoir s'ils ont les pièces pour réparer tout ça lundi ou quoi ou
-qu'est-ce.
+garage pour savoir s’ils ont les pièces pour réparer tout ça lundi ou quoi ou
+qu’est-ce.
 
-Ensuite, le dilemme est posé. Y'a un quart de finale France-Brésil le soir même.
-Aucun écran géant n'est prévu sur le site de Belfort, et toute sortie du site
-est définitive. Bon tirons un trait sur la programmation d'avant minuit et
+Ensuite, le dilemme est posé. Y’a un quart de finale France-Brésil le soir même.
+Aucun écran géant n’est prévu sur le site de Belfort, et toute sortie du site
+est définitive. Bon tirons un trait sur la programmation d’avant minuit et
 allons profiter de ce qui sera un excellent match dans un parc de Belfort muni
-d'un écran géant, avec un petit Portugal-Angleterre en apéritif.
+d’un écran géant, avec un petit Portugal-Angleterre en apéritif.
 
 Retour sur le site du festival pour le concert de Katerine ! Excellent tes
-potes ! Mais on n'ira pas plus loin, on commence à être salement rôtis.
+potes ! Mais on n’ira pas plus loin, on commence à être salement rôtis.
 
 ### Dimanche
 
-Enfin… Une journée 100% ! On a pu faire l'ouverture des portes, et je suis resté
-jusqu'à la fin ! Programme copieux avec : Duchesse says, My baby wants to eat
+Enfin… Une journée 100% ! On a pu faire l’ouverture des portes, et je suis resté
+jusqu’à la fin ! Programme copieux avec : Duchesse says, My baby wants to eat
 your pussy (!), Islands, Art Brut, Aberfelby, We are wolves, Archive, Muse. Pas
 mal, pas mal… mais un peu tard…
 
 ### Lundi
 
-Comme on aurait pu s'en douter, le garage n'a pas les pièces. Il va falloir
+Comme on aurait pu s’en douter, le garage n’a pas les pièces. Il va falloir
 abandonner la 205 sur place le temps de la réparation et rentrer à Paris en
-train. C'est pas grave, l'assurance rapatriera la voiture plus tard. Que nenni
-me répond-elle ! Il faut que j'aille la chercher moi-même.
+train. C’est pas grave, l’assurance rapatriera la voiture plus tard. Que nenni
+me répond-elle ! Il faut que j’aille la chercher moi-même.
 
 ## Épilogue
 
-Nous somme le 8 juillet 2006. J'écris ce petit mot de Vesoul. Je suis dans le
+Nous somme le 8 juillet 2006. J’écris ce petit mot de Vesoul. Je suis dans le
 train qui me conduit à Belfort pour récupérer ma voiture. Il est 10h29.
-L'arrivée est prévue à 11h24 mais on a déjà 10 minutes de retard il paraît. Le
-garage ferme à midi. Le timing est short. Si j'arrive après midi au garage, le
-bon côté sera qu'il y a un Leclerc juste en face du garage avec un très bon
+L’arrivée est prévue à 11h24 mais on a déjà 10 minutes de retard il paraît. Le
+garage ferme à midi. Le timing est short. Si j’arrive après midi au garage, le
+bon côté sera qu’il y a un Leclerc juste en face du garage avec un très bon
 rayon quincaillerie où on vend des cordes de très bonne qualité.
 
 ps : vivement les Charrues et la Route du Rock.

@@ -7,8 +7,8 @@ wordpress_id: 1218
 date: 2013-04-15 10:00:00 +0200
 ---
 
-Miles Kane, [clone d'Alex Turner (et compère des Last Shadow Puppets) et
-ex-Rascal][i224], sort son 2ème LP solo, _Don't Forget Who You Are_, début juin.
+Miles Kane, [clone d’Alex Turner (et compère des Last Shadow Puppets) et
+ex-Rascal][i224], sort son 2ème LP solo, _Don’t Forget Who You Are_, début juin.
 En voici la chanson titre :
 
 {% soundcloud 263280117 %}

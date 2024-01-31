@@ -19,18 +19,18 @@ Les 3 dernières furent donc…
 
 ## 1. _À toutes les filles_ de Didier Barbelivien & Félix Gray
 
-L'originale :
+L’originale :
 
 {% youtube aWzlhm0_r0A %}
 
-## 2. _T'es OK_ d'Ottawan
+## 2. _T’es OK_ d’Ottawan
 
-Le clip de l'originale ne peut pas être embarquée sur le site mais est visible
+Le clip de l’originale ne peut pas être embarquée sur le site mais est visible
 (et recommandée) [ici](http://www.youtube.com/watch?v=F-04OM2oUt4).
 
 ## 3. _Salut à toi_ de Bérurier Noir
 
-L'originale (et un bout d'interview) :
+L’originale (et un bout d’interview) :
 
 {% youtube 5lTFu-VpPho %}
 

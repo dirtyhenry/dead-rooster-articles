@@ -23,7 +23,7 @@ comments:
 
 {% vimeo 17600023 %}
 
-C'est [une reprise d'un titre de 1989, interprété alors par Joe Smooth][1]… Les
+C’est [une reprise d’un titre de 1989, interprété alors par Joe Smooth][1]… Les
 reprises font parfois des miracles.
 
 (via [yvynyl][2])

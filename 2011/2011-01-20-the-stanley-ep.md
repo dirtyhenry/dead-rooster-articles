@@ -14,7 +14,7 @@ tags:
 
 **The Livingstones I Presume** présentent leur 1er EP, _The Stanley EP_.
 
-Vous pouvez l'écouter et le télécharger gratuitement sur [la page Bandcamp du
+Vous pouvez l’écouter et le télécharger gratuitement sur [la page Bandcamp du
 groupe][1].
 
 Il contient 4 titres :
@@ -26,9 +26,9 @@ Il contient 4 titres :
 
 {% bandcamp_album 3803626780 %}
 
-La pochette de l'EP est adaptée d'une photo de [Cary Ann Wayman][2].
+La pochette de l’EP est adaptée d’une photo de [Cary Ann Wayman][2].
 
-Si vous êtes intéressé par une version physique de l'EP, visitez [cette
+Si vous êtes intéressé par une version physique de l’EP, visitez [cette
 page][i952].
 
 [1]: https://thelivingstonesipresume.bandcamp.com

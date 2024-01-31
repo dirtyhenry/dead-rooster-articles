@@ -12,11 +12,11 @@ tags:
   - Philippe Katerine
 ---
 
-Ça fait longtemps que nous n'avons pas mis à jour le concours Katerine. Pour ne
-rien gâcher, l'actualité de Katerine est par ailleurs chargée. Il est temps de
+Ça fait longtemps que nous n’avons pas mis à jour le concours Katerine. Pour ne
+rien gâcher, l’actualité de Katerine est par ailleurs chargée. Il est temps de
 faire le point.
 
-## L'actualité
+## L’actualité
 
 Vous le savez sans doute, Katerine sortira lundi prochain son nouvel album
 éponyme (déjà disponible en version digitale).
@@ -24,12 +24,12 @@ Vous le savez sans doute, Katerine sortira lundi prochain son nouvel album
 Pour fêter cela, Katerine fait très fort avec :
 
 - ~~un jeu vidéo où il faut le laisser manger sa banane~~
-- ~~un site internet qui permet d'avoir Windows 95 sur l'iPad~~
+- ~~un site internet qui permet d’avoir Windows 95 sur l’iPad~~
 
 (edit : ces deux liens ont été retirés par Universal)
 
-L'actualité People de Katerine est elle aussi chargée, puisque la Reine
-d'Angleterre lui chie à la raie (ce qui n'est pas sans rappeler [le dernier
+L’actualité People de Katerine est elle aussi chargée, puisque la Reine
+d’Angleterre lui chie à la raie (ce qui n’est pas sans rappeler [le dernier
 titre de Jean-Pierre Caca][1]) :
 
 {% youtube O8bOFR0Jycs %}
@@ -37,21 +37,21 @@ titre de Jean-Pierre Caca][1]) :
 ## Le concours
 
 Trois semaines se sont écoulées depuis la dernière mise à jour. Pourtant, autant
-le dire tout de go, personne ne marque de point. On n'est qu'une bande de
+le dire tout de go, personne ne marque de point. On n’est qu’une bande de
 losers.
 
-### 36. _L'idole des jeunes_ de Johnny Hallyday
+### 36. _L’idole des jeunes_ de Johnny Hallyday
 
 {% spotify_track 6bWCSMKgyxe2HZz80hFnTD %}
 
-### 37. _Elle est d'ailleurs_ de Pierre Bachelet
+### 37. _Elle est d’ailleurs_ de Pierre Bachelet
 
 {% spotify_track 1cmuoWb5txCMqd3CmRMfvU %}
 
 ### 38. _Il est vraiment phénomènal_ de Phenomenal Club (?)
 
 Je ne sais pas vraiment si cette chanson a un auteur officiel, mais en tout cas,
-cette version live à _40° à l'ombre_ par un groupe baptisé Phenomenal Club est
+cette version live à _40° à l’ombre_ par un groupe baptisé Phenomenal Club est
 de toute beauté :
 
 {% youtube X4cD1w10x_M %}

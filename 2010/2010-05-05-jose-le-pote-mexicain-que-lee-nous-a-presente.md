@@ -14,12 +14,12 @@ date: "2010-05-05 13:39:03 +0200"
 
 **Lee Hazlewood** est un génie, certes complètement décédé, mais qui a écrit des
 tubs universellement connus (parmi lesquels [_These Boots Are Made For
-Walkin_][1] pour Nancy Sinatra) sans que son nom n'arrive à atteindre une aussi
+Walkin_][1] pour Nancy Sinatra) sans que son nom n’arrive à atteindre une aussi
 grosse notoriété.
 
-Parmi les chefs d'œuvre trop méconnus de l'artiste, déterrons cette fable de
-_Jose_, l'enfant de la terre mexicaine qui va devenir le torero le plus classe
-de l'histoire en 4 minutes et 34 secondes.
+Parmi les chefs d’œuvre trop méconnus de l’artiste, déterrons cette fable de
+_Jose_, l’enfant de la terre mexicaine qui va devenir le torero le plus classe
+de l’histoire en 4 minutes et 34 secondes.
 
 {% youtube 8fdXdvyFFEY %}
 

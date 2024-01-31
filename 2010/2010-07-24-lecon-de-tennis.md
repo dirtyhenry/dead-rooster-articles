@@ -19,10 +19,10 @@ Après les [Dum Dum Girls][i588] ou [Best Coast][i657], entre autres, la mode es
 décidément à la girl-pop-lo-fi. Nouveau groupe à compter dans ce genre :
 **Tennis** !
 
-Tennis c'est d'abord un couple à la ville. Un jour, Patrick Riley et Alaina
+Tennis c’est d’abord un couple à la ville. Un jour, Patrick Riley et Alaina
 Moore ont décidé de quitter Denver pour passer huit mois à naviguer sur la côte
-nord atlantique. Vu qu'ils devaient s'ennuyer sévère, ils ont décidé de composer
-de la musique et aujourd'hui, on leur dit merci bien.
+nord atlantique. Vu qu’ils devaient s’ennuyer sévère, ils ont décidé de composer
+de la musique et aujourd’hui, on leur dit merci bien.
 
 - [Deux titres, _Baltimore_ et _Marathon_ sont à télécharger sur Stereogum](https://stereogum.com/446402/tennis-baltimore/mp3s/)
 - Plus, deux vidéo, de _South California_ et *Cape Dory* :

@@ -9,4 +9,4 @@ date: "2008-03-14 12:51:00 +0100"
 category: Le monde va mal
 ---
 
-Gattuso s'est rasé. Le monde va mal !
+Gattuso s’est rasé. Le monde va mal !

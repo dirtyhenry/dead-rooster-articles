@@ -11,9 +11,9 @@ category: Chanson du jour
 {% soundcloud 84847643 %}
 
 Après la sortie de leur album _Yeah Right_, mes chouchous publient _Oblivion_,
-single extrait des sessions de l'album. Toujours aussi bon.
+single extrait des sessions de l’album. Toujours aussi bon.
 
-Plein d'autres chansons du groupe sont à écouter (certaines sous leur ancien
+Plein d’autres chansons du groupe sont à écouter (certaines sous leur ancien
 nom, [Bleeding Rainbow][i728]) : [_Drift Away_][i1133], [_Dead End_][i910] ou
 [_Wasting Time_][i712].
 

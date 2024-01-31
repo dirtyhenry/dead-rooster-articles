@@ -16,11 +16,11 @@ dedans, relancer la machine.
 
 Dans l’épisode [_The Science of Getting Psyched Up_][1] de The AOM Podcast, ça
 parle du rôle que peut jouer la musique pour se mettre dans de bonnes
-dispositions mentales, en prenant l'exemple du DJ des Red Sox — déjà évoqué
-[quand j'avais parlé de _Moneyball_][i1].
+dispositions mentales, en prenant l’exemple du DJ des Red Sox — déjà évoqué
+[quand j’avais parlé de _Moneyball_][i1].
 
 Ni une, ni deux, je me fais ma petite playlist perso avec les titres qui me font
-remuer le popotin. Pour le coup, c'est une _playlist_, pas une _compile_[^1], et
+remuer le popotin. Pour le coup, c’est une _playlist_, pas une _compile_[^1], et
 elle évoluera sans doute avec le temps. Là voici.
 
 {% spotify 58mv5gLikjVcjsHsYhpZP2 %}
@@ -32,7 +32,7 @@ elle évoluera sans doute avec le temps. Là voici.
 3. The Strokes - _Last Nite_
 4. Jet - _Are You Gonna Be My Girl_
 5. The Datsuns - _MF From Hell_
-6. The D4 - _Rock 'n' Roll Motherfucker_
+6. The D4 - _Rock 'n’ Roll Motherfucker_
 7. Electric Six - _Gay Bar_
 8. The Black Keys - _Lonely Boy_
 9. Soledad Brothers - _Cage That Tiger_
@@ -50,7 +50,7 @@ elle évoluera sans doute avec le temps. Là voici.
 21. The Undertones - _Teenage Kicks_
 22. Green Day - _Basket Case_
 23. Led Zeppelin - _Rock and Roll_
-24. Buzzcocks - _Ever Fallen in Love (With Someone You Shouldn't've?)_
+24. Buzzcocks - _Ever Fallen in Love (With Someone You Shouldn’t’ve?)_
 25. Oasis - _Morning Glory_
 26. Arctic Monkeys - _From The Ritz To The Rubble_
 27. MGMT - _Kids_
@@ -67,18 +67,18 @@ elle évoluera sans doute avec le temps. Là voici.
 38. Interpol - _Slow Hands_
 39. Nada Surf - _Tree House_
 40. Black Rebel Motorcycle Club - _Stop_
-41. La Compagnie Créole - _C'est bon pour le moral_
+41. La Compagnie Créole - _C’est bon pour le moral_
 42. Ryan Reynolds, Will Ferrell, Patrick Page, Sunita Mani, and Tracy Morgan -
     _Do A Little Good_
 43. Will Ferrell and My Marianne - _Jaja Ding Dong_
-44. Julien Clerc - _Ce n'est rien_
-45. Joe Dassin - _Dans les yeux d'Émilie_
+44. Julien Clerc - _Ce n’est rien_
+45. Joe Dassin - _Dans les yeux d’Émilie_
 46. La Femme - _Sur la planche 2013_
 47. Kaiser Chiefs - _Never Miss A Beat_
 48. Supergrass - _Richard III_
 49. Foo Fighters - _This Is a Call_
 50. The Breeders - _No Aloha_
-51. K's Choice - _Old Woman_
+51. K’s Choice - _Old Woman_
 52. The Hives - _Abra Cadaver_
 53. The Lemonheads - _Mrs. Robinson - Remastered_
 54. The White Stripes - _Fell In Love With a Girl_

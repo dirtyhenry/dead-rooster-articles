@@ -19,7 +19,7 @@ tags:
 Pour fêter son premier anniversaire, le site très fun [Learn Something Every
 Day][1] vient de publier une vidéo.
 
-On y apprend (ou on s'y souvient) que :
+On y apprend (ou on s’y souvient) que :
 
 - la banane partage 50% du génome humain
 - les éléphants ne savent pas sauter

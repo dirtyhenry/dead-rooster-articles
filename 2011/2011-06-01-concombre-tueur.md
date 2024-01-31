@@ -15,5 +15,5 @@ comments:
 ---
 
 Voilà
-qu'[on meurt en mangeant des légumes](http://tempsreel.nouvelobs.com/economie/20110601.OBS4380/fin-de-l-alerte-au-concombre-espagnol.html).
-C'est la fin des haricots. Le monde va mal !
+qu’[on meurt en mangeant des légumes](http://tempsreel.nouvelobs.com/economie/20110601.OBS4380/fin-de-l-alerte-au-concombre-espagnol.html).
+C’est la fin des haricots. Le monde va mal !

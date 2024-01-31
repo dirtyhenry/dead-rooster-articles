@@ -22,8 +22,8 @@ Pour voir le clip, il faut se rendre sur le site [thewildernessdowntown.com][1]
 avec un navigateur supportant HTML5 (apparemment, la meilleure expérience est
 avec Chrome, le navigateur de Google).
 
-Au début, on est tenté de lancer un mode plein écran, n'en faites rien et
-laissez-vous entraîner dans cette expérience super innovante du groupe, qu'il
+Au début, on est tenté de lancer un mode plein écran, n’en faites rien et
+laissez-vous entraîner dans cette expérience super innovante du groupe, qu’il
 faut donc féliciter ici, tout comme Chris Milk, le réalisateur du clip.
 
 (via [Stereogum][2])

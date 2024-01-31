@@ -17,7 +17,7 @@ du groupe, Caleb, est très enthousiaste à son sujet :
 
 > These songs are so much bigger, this band is so much better. There was a
 > growth that people thought they heard on _Aha Shake Heartbreak_ from _Youth
-> And Young Manhood_ (2003 debut), but there's no comparison this time out. I
-> think it's pretty evident when people hear it.
+> And Young Manhood_ (2003 debut), but there’s no comparison this time out. I
+> think it’s pretty evident when people hear it.
 
 Le 1er single extrait du disque sera _On Call_, dans les bacs le 26 mars.

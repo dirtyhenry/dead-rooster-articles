@@ -6,7 +6,7 @@ wordpress_id: 1268
 ---
 
 Le nouvel album arrive courant février ! Ce deuxième extrait est nettement plus
-"facile d'accès" (on restera sympa…) que le [précédent][1] mis en ligne.
+"facile d’accès" (on restera sympa…) que le [précédent][1] mis en ligne.
 
 {% youtube KUpktwg7O4M %}
 

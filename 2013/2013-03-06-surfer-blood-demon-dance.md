@@ -7,7 +7,7 @@ wordpress_id: 1189
 date: 2013-03-06 10:00:00 +0100
 ---
 
-L'album s'annonce, et s'annonce plutôt pas mal !
+L’album s’annonce, et s’annonce plutôt pas mal !
 
 {% soundcloud 81942116 %}
 

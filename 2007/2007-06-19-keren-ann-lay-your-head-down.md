@@ -12,4 +12,4 @@ tags:
 
 {% youtube 91g9xqh4qU0 %}
 
-Sweet et rock'n'roll à la fois, chapeau.
+Sweet et rock’n’roll à la fois, chapeau.

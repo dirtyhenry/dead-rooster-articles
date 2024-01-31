@@ -17,8 +17,8 @@ comments:
 ---
 
 Autrefois, le moindre quidam manipulait les bottes de paille comme
-l'haltérophile, le cure-dents. Mais dans la société moderne, le foin est devenu
-une arme redoutable : la preuve, le violoncelliste d'Electric Light Orchestra
+l’haltérophile, le cure-dents. Mais dans la société moderne, le foin est devenu
+une arme redoutable : la preuve, le violoncelliste d’Electric Light Orchestra
 est
-[mort lors d'une collision](https://pitchfork.com/news/39956-former-electric-light-orchestra-cellist-mike-edwards-dies-in-freak-hay-bale-accident/)
-avec l'une de ces meules. Le monde va mal !
+[mort lors d’une collision](https://pitchfork.com/news/39956-former-electric-light-orchestra-cellist-mike-edwards-dies-in-freak-hay-bale-accident/)
+avec l’une de ces meules. Le monde va mal !

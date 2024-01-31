@@ -10,7 +10,7 @@ tags:
   - Deep Purple
 ---
 
-[Jon Lord][1] est mort. Au paradis, les autoroutes de l'espace ont trouvé leur
+[Jon Lord][1] est mort. Au paradis, les autoroutes de l’espace ont trouvé leur
 [nouvelle star][2]. Et elle conduit [un camion][3]. Le monde va mal !
 
 [1]: https://fr.wikipedia.org/wiki/Jon_Lord

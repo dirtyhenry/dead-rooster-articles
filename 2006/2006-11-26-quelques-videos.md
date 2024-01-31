@@ -13,7 +13,7 @@ tags:
 
 ## Bombay TV
 
-~~Bombay TV est un site qui vous permet d'ajouter vos propres sous-titres à des
+~~Bombay TV est un site qui vous permet d’ajouter vos propres sous-titres à des
 extraits de films de Bollywood au potentiel comique étourdissant.~~
 
 _☹️ Bombay TV n’existe plus._
@@ -21,7 +21,7 @@ _☹️ Bombay TV n’existe plus._
 ## Mozinor
 
 [Mozinor](https://www.youtube.com/c/mozinor) est un site de détournement
-d'extraits de film : on garde 90% des images, on fait quelques inserts et on
+d’extraits de film : on garde 90% des images, on fait quelques inserts et on
 redouble le bordel. Florilège…
 
 ### Mozinor refait James Bond

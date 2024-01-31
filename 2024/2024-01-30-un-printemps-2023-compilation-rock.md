@@ -17,10 +17,10 @@ category: Compile
 
 ## Tracklist
 
-1. The Monkees - _I'm a Believer_
+1. The Monkees - _I’m a Believer_
 2. Sorry - _There’s So Many People That Want To Be Loved_
 3. Tally Ho! - _Sweethearts in Oblivion_
-4. Sharon Van Etten and Michael Imperioli - _I Don't Want to Set the World on
+4. Sharon Van Etten and Michael Imperioli - _I Don’t Want to Set the World on
    Fire_
 5. Public Service Broadcasting - _Everest_
 6. Luna - _Speedbumps_
@@ -29,7 +29,7 @@ category: Compile
 9. The Turtles - _Elenore_
 10. Blur - _The Narcissist_
 11. Mush - _Northern Safari_
-12. The Righteous Brothers - _You've Lost That Lovin' Feelin'_
+12. The Righteous Brothers - _You’ve Lost That Lovin’ Feelin’_
 13. Meskerem Mees - _Cod Liver Oil and Orange Juice_
 14. Jonathan Jeremiah - _Youngblood_
 15. Olivier Libaux, Mélanie Pain, and Raphaël Chassin - _Duchess_

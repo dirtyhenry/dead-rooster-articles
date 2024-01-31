@@ -12,26 +12,26 @@ tags:
   - Katerine
 ---
 
-Quatre semaines de Katerine à rattraper d'un coup…
+Quatre semaines de Katerine à rattraper d’un coup…
 
 ## Les chansons des 4 dernières semaines
 
 ### 42. _Les brunes comptent pas des brunes_ de Lio
 
-Alors que tout le monde s'attendait à Banana Split… Une version VHS un peu
-pourrie de l'originale :
+Alors que tout le monde s’attendait à Banana Split… Une version VHS un peu
+pourrie de l’originale :
 
 {% youtube Fdu4jmtzb-8 %}
 
-### 43. _Ca m'énerve_ d'Helmut Fritz
+### 43. _Ca m’énerve_ d’Helmut Fritz
 
-L'originale :
+L’originale :
 
 {% youtube iLv-LEO178c %}
 
-### 44. _Tout le monde le fait_ d'Ophélie Winter
+### 44. _Tout le monde le fait_ d’Ophélie Winter
 
-Chanson totalement inconnue au bataillon… L'originale :
+Chanson totalement inconnue au bataillon… L’originale :
 
 {% youtube cGGp54buqlw %}
 
@@ -41,7 +41,7 @@ La version française originale, par le prince Sasha :
 
 {% youtube p_GZXN6porg %}
 
-Notons malgré tout que l'originale est signée Hal David et Burt Bacharach, pour
+Notons malgré tout que l’originale est signée Hal David et Burt Bacharach, pour
 le film *Butch Cassidy et le Kid* :
 
 {% youtube VILWkqlQLWk %}

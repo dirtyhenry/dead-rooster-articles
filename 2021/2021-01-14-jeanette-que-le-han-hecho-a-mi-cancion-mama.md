@@ -15,12 +15,12 @@ tags:
 {% spotify_track 6E2RMRpy5FGvoJNtd7LTzE %}
 
 De **Jeanette**, on connaît surtout [_¿Porqué te vas?_][1][^1]. Mais voilà sa
-dimension transformée quand on écoute sa reprise du [_Look What They've Done to
+dimension transformée quand on écoute sa reprise du [_Look What They’ve Done to
 My Song, Ma_][3], originellement de Melanie, mais repris incessamment par Dalida
 ([mention très honorable][2]), le duo Arno et Stephan Eicher ([itou][4]), et
-bien d'autres.
+bien d’autres.
 
-Mais c'est la version de Jeanette, voisine de _¿Porqué te vas?_ sur la bande
+Mais c’est la version de Jeanette, voisine de _¿Porqué te vas?_ sur la bande
 originale de _Cría cuervos_, qui remporte le pompon. Bravo championne 🥇🏆.
 
 [1]:

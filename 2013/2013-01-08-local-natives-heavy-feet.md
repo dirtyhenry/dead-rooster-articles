@@ -12,7 +12,7 @@ tags:
 ---
 
 Alors que hier, sur [la page Facebook][fb], on écoutait [_Hummingbirds_][1] - la
-chanson - de Born Ruffians, cette fois, on attend [_Hummingbirds_][2] - l'album.
+chanson - de Born Ruffians, cette fois, on attend [_Hummingbirds_][2] - l’album.
 Ce sera le second des Local Natives et il sortira bien à un moment, en 2013.
 
 {% youtube h2zWfxW60z0 %}

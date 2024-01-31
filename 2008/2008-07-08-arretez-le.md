@@ -12,6 +12,6 @@ tags:
 cover: schumacher-velo.png
 ---
 
-Il a failli tuer Battiston, il a rendu la F1 soporifique et v'là qu'il se met au
+Il a failli tuer Battiston, il a rendu la F1 soporifique et v’là qu’il se met au
 vélo. Mais personne ne peut empêcher ce mec là de faire chier tout le monde ?
 Sans déconner ! Le monde va mal !

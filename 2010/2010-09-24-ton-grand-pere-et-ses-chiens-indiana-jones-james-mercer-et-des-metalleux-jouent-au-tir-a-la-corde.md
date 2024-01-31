@@ -49,10 +49,10 @@ anglaise, diffusée sur MTV Pulse.
 **Learn Something Every Day** nous apprend cette semaine que…
 [le tir à la corde était un sport olympique de 1900 à 1920](http://cargocollective.com/learnsomethingeveryday/642495/September-18).
 
-## Guide de l'artiste Geek
+## Guide de l’artiste Geek
 
 Dommage pour Broken Bells, qui avait réalisé un site geek assez sympa en août,
-mais que j'ai découvert après celui d'Arcade Fire qui, avouons-le, le bat à
+mais que j’ai découvert après celui d’Arcade Fire qui, avouons-le, le bat à
 plate couture…
 
 [{% asset extrait-clip.png %}](http://www.brokenbells.com/october/)

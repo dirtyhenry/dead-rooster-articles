@@ -18,8 +18,8 @@ tags:
   - The Swell Season
 ---
 
-Levi's a tourné une série de session, les [_Pioneer Sessions_][1], où deux fois
-par semaine, un artiste contemporain y offre une reprise d'un titre qui l'a
+Levi’s a tourné une série de session, les [_Pioneer Sessions_][1], où deux fois
+par semaine, un artiste contemporain y offre une reprise d’un titre qui l’a
 inspiré au téléchargement.
 
 Au programme sont déjà passés She & Him, Dirty Projectors et The Swell Season et

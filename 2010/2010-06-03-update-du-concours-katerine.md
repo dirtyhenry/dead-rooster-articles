@@ -25,7 +25,7 @@ Les originales :
 
 {% youtube LqCWcuceCUE %}
 
-Personne n'avait pronostiqué ces deux titres. Le classement reste inchangé !
+Personne n’avait pronostiqué ces deux titres. Le classement reste inchangé !
 
 - 1. Hervé, 15pts
 - 2. Rodrigue et Joe, 5pts

@@ -11,7 +11,7 @@ tags:
   - Foot
 ---
 
-D'après une info du journal L’Équipe, [Mauro Formica][1] jouera bientôt pour le
+D’après une info du journal L’Équipe, [Mauro Formica][1] jouera bientôt pour le
 Genoa. En revanche, on est toujours sans nouvelle de Fabrizio Placo et Philippe
 Contreplaqué. Le monde va mal !
 

@@ -18,7 +18,7 @@ de sortir son premier album, [_I Heart California_][3], dont est extrait le
 single karaoke ci-dessus.
 
 Malgré de beaux efforts, Admiral Radley a encore un train de retard sur [Nada
-Surf][1] et sur [Eric Judor][2] en terme d'imitation de chats.
+Surf][1] et sur [Eric Judor][2] en terme d’imitation de chats.
 
 Aussi, ce live sur KEXP, sans meow.
 

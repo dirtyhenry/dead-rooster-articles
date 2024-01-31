@@ -14,7 +14,7 @@ date: 2010-08-10 13:55:08 +0200
 Rien à voir avec [la version][1] des **Platters** !
 
 Extraite de la B.O. du film _The Informers_, cette chanson de **Jason Falkner**,
-un artiste qu'on aime bien [ici][i1], a bien failli nous échapper !
+un artiste qu’on aime bien [ici][i1], a bien failli nous échapper !
 
 Fort heureusement, et malgré 6 mois de décalage, elle nous parvient enfin aux
 oreilles ! Joie !

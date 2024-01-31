@@ -11,5 +11,5 @@ tags:
   - Julien Cazarre
 ---
 
-Edit : tristesse, la vidéo du parti fataliste d'Action Discrète est désormais
+Edit : tristesse, la vidéo du parti fataliste d’Action Discrète est désormais
 introuvable. ☹️

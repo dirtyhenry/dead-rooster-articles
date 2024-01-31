@@ -21,7 +21,7 @@ Voilà la version originale :
 
 {% dailymotion xk5w7 %}
 
-Marion R. l'avait pronostiqué en deuz et marque donc 4 points. Elle prend place
+Marion R. l’avait pronostiqué en deuz et marque donc 4 points. Elle prend place
 sur la 3ème marche du podium :
 
 - 1. Hervé, 6pts

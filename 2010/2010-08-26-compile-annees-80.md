@@ -17,4 +17,4 @@ Voici ce qui me paraît être la meilleure track liste "Années 80".
 1. Violent Femmes - _Blister in the sun_
 1. Rita Mitsouko - _Marcia Baila_
 1. Pixies - _Caribou_
-1. Noir Désir - _Aux sombres héros de l'amer_
+1. Noir Désir - _Aux sombres héros de l’amer_

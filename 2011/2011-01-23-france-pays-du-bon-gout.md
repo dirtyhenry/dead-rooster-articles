@@ -28,6 +28,6 @@ comments:
     content: Monde de merde !
 ---
 
-Le top des ventes d'albums en France en 2010 vient d'être publié. Christophe
+Le top des ventes d’albums en France en 2010 vient d’être publié. Christophe
 Maé, Les Prêtres, Yannick Noah, Les Enfoirés et Zaz sont le top 5. Le monde va
 mal !

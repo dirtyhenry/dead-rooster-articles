@@ -34,5 +34,5 @@ tags:
 1. The Raveonettes - _That Great Love Song_
 1. Johnny Cash - _Ring of Fire_
 1. Islands - _Rough Gem_
-1. Katerine - _Louxor, j'adore_
+1. Katerine - _Louxor, j’adore_
 1. Le Tigre - _Deceptacon_

@@ -15,42 +15,42 @@ date: 2013-01-15 10:00:00 +0100
 
 Il y a quelques semaines, par téléphone :
 
-> — Dis-donc, le Vauban fête ses 50 ans pendant toute une semaine et y'aura des
+> — Dis-donc, le Vauban fête ses 50 ans pendant toute une semaine et y’aura des
 > concerts de Miossec le jeudi et de Tiersen le vendredi, je te prends une
 > place ?  
-> — Merde, je serai pas là, y'a rien le samedi ?  
+> — Merde, je serai pas là, y’a rien le samedi ?  
 > — Bof, Little Bob.  
-> — J'achète !
+> — J’achète !
 
-Bien sûr, je le concède aujourd'hui, le choix d'aller voir Little Bob était un
+Bien sûr, je le concède aujourd’hui, le choix d’aller voir Little Bob était un
 choix par défaut. Mais bon sang, il ne sera jamais regretté.
 
-## C'est qui Little Bob ?
+## C’est qui Little Bob ?
 
 Si tu connais pas Little Bob, tu dois pas lire Rock&Folk bien souvent toi ! Dans
-Rock&Folk, Philippe Manoeuvre et ses anciens combattants du rock n'hésitent
-jamais à parler des copains et des vieux de la vieille, à l'ancienne. Et Little
-Bob est régulièrement cité. Très souvent cité. T'as qu'à regarder [la couverture
+Rock&Folk, Philippe Manoeuvre et ses anciens combattants du rock n’hésitent
+jamais à parler des copains et des vieux de la vieille, à l’ancienne. Et Little
+Bob est régulièrement cité. Très souvent cité. T’as qu’à regarder [la couverture
 du numéro actuel][3] si tu me crois pas ! (en bas à droite)
 
 Du coup, ça titille la curiosité, et une recherche Wikipedia plus tard, on sait
 désormais que Little Bob est le pseudo de Richard Piazza, stackhanoviste du
-rock, le blues dans le corps et le Havre dans le coeur, sorti d'un garage, le
-micro et l'ampli à la main, hurlant à qui voulait l'entendre que le rock avait
+rock, le blues dans le corps et le Havre dans le coeur, sorti d’un garage, le
+micro et l’ampli à la main, hurlant à qui voulait l’entendre que le rock avait
 sa place en France.
 
 Alors Little Bob fonde les Apaches, Little Bob and the Red Devils, Little Bob
 Blues Gun avant, enfin, de créer Little Bob Story en 1971. Le groupe restera
-injustement peu connu en France, même si avec _I'm Crying_, extrait de leur
+injustement peu connu en France, même si avec _I’m Crying_, extrait de leur
 premier album, _High Time_ ([la référence au MC5][1] est claire), le groupe se
-paie pourtant le luxe d'être Single of the Week du NME en 1976 :
+paie pourtant le luxe d’être Single of the Week du NME en 1976 :
 
 {% youtube owUbQy74qDY %}
 
 ## Et alors, ce concert ?
 
 Le concert avait donc lieu au [Vauban][4], salle brestoise qui fêtait son
-anniversaire en grandes pompes. C'est avec un nouveau groupe, Little Bob Blues
+anniversaire en grandes pompes. C’est avec un nouveau groupe, Little Bob Blues
 Bastards, que notre ami se présente sur scène. Le line-up annonce la couleur. À
 part un batteur qui pourrait éventuellement postuler pour une carte 12-25
 (Jérémie Piazza, le neveu du patron), le reste du groupe semble avoir déjà
@@ -58,10 +58,10 @@ déroulé pas mal de câble :
 
 - Bertrand Couloume à la contrebasse, cool et nonchalant, qui joue avec Bob
   depuis plus de 20 ans
-- Gilles Mallet, dit Gillou, à la guitare, nous fait un spectacle d'imitation de
+- Gilles Mallet, dit Gillou, à la guitare, nous fait un spectacle d’imitation de
   Keith Richards
 - Alain Durand-Bougere, dit Mister Mickey Blow, harmoniciste génial dont la
-  biographie précise qu'il aura été membre [des Stunners][5] et accompagné
+  biographie précise qu’il aura été membre [des Stunners][5] et accompagné
   Johnny Thunders (des New York Dolls) sur scène
 
 Mélanges de reprises et titres originaux, le blues des Bastards fait mouche. Et
@@ -75,22 +75,22 @@ Exemple du groupe jouant live, à la Maroquinerie, en 2011 :
 
 ## Et maintenant, quoi ?
 
-Il y a d'abord cette vidéo où le groupe joue en studio (_Break Down The Walls_),
+Il y a d’abord cette vidéo où le groupe joue en studio (_Break Down The Walls_),
 et où Little Bob présente un peu les Blues Bastards et ses influences :
 
 {% youtube p6COucS-gNU %}
 
-Et puis ça vaut le coup d'aller les écouter un peu ces influences ! Alors, je
+Et puis ça vaut le coup d’aller les écouter un peu ces influences ! Alors, je
 vous ai préparé un petit mix sur Spotify. Ça commence par une collection de
 vieux singles du Little Bob Story (la pochette du disque - vivent les Santiags
-rouges -, et la reprise de _Please Don't Let Me Be Misunderstood_ valent leur
+rouges -, et la reprise de _Please Don’t Let Me Be Misunderstood_ valent leur
 pesant de cacahuètes), puis quelques unes des versions originales de ses
 influences revendiquées, avant de finir par quelques titres du Little Blues
 Bastards.
 
 {% spotify 0qG09yTaExnjCI9Tb8kl3i %}
 
-Et enfin, sachez qu'un documentaire sur Little Bob, _Rocking Class Hero_ est en
+Et enfin, sachez qu’un documentaire sur Little Bob, _Rocking Class Hero_ est en
 cours de production. Ça devrait pas être triste, tiens.
 
 ## Un mot de Serge Kaganski

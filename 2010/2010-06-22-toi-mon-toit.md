@@ -18,17 +18,17 @@ tags:
 La reprise de la semaine de **Katerine, Francis et ses peintres** est _Toi mon
 toit_, de Elli Medeiros.
 
-L'originale suit, comme d'habitude, mais d'abord, profitons également du nouveau
+L’originale suit, comme d’habitude, mais d’abord, profitons également du nouveau
 titre du prochain album de Katerine, _Bla Bla Bla_, diffusé cette semaine
 également :
 
 {% youtube cYfNDHSqrEA %}
 
-Quant à l'originale d'Elli Medeiros, là voilà :
+Quant à l’originale d’Elli Medeiros, là voilà :
 
 {% youtube mKsEBJdVvgI %}
 
-Encore une fois, personne ne l'avait pronostiqué et le classement reste
+Encore une fois, personne ne l’avait pronostiqué et le classement reste
 inchangé :
 
 - 1. Hervé, 15pts

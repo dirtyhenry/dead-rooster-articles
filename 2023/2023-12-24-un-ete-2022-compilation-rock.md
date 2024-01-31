@@ -23,13 +23,13 @@ tags:
 
 1. Black Country, New Road - _Chaos Space Marine_
 1. Mustang - _Salauds de pauvres_
-1. Django Django - _Life's a Beach_
+1. Django Django - _Life’s a Beach_
 1. Panic Shack - _The Ick_
 1. Sharon Van Etten - _Mistakes_
 1. Black Lips - _Justice After All_
 1. The Foundations - _Build Me Up Buttercup_
 1. The Go! Team - _Pow_
-1. Auli'i Cravalho - _How Far I’ll Go_
+1. Auli’i Cravalho - _How Far I’ll Go_
 1. Blur - _Song 2_
 1. Florent Marchet - _De justesse_
 1. Fontaines D.C. - _Jackie Down The Line_

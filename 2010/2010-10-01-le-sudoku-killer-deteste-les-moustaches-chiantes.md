@@ -17,15 +17,15 @@ tags:
 ---
 
 Le vendredi, le fun est de bon aloi. Cette semaine : on se réveille moustachu,
-détesté, entouré de photos chiantes, et on attend l'arrivée du sudoku-killer.
+détesté, entouré de photos chiantes, et on attend l’arrivée du sudoku-killer.
 
 ## 1. Comment rendre une pub marrante ?
 
 En engageant Jason Schwartzman comme acteur et Roman Coppola comme réalisateur
 ([tiens, tiens, encore ces deux-là !][i201]).
 
-On y apprend que la moustache, c'est la classe, que plonger hors de l'eau avec
-son iPad c'est la classe et que le whisky c'est la classe, horizontalement ou
+On y apprend que la moustache, c’est la classe, que plonger hors de l’eau avec
+son iPad c’est la classe et que le whisky c’est la classe, horizontalement ou
 verticalement.
 
 {% youtube 7SbXYaP3g4Q %}
@@ -39,9 +39,9 @@ Le webcomic [XKCD](http://xkcd.com/780/) nous donne une piste pour cela.
 
 {% asset how-to-become-the-most-hated-band-in-the-world-xkcd.png %}
 
-Katerine applique la consigne et part bien pour devenir l'artiste le plus
+Katerine applique la consigne et part bien pour devenir l’artiste le plus
 détesté du monde grâce à son titre
-[_Musique d'Ordinateur_](http://www.deezer.com/listen-7045903).
+[_Musique d’Ordinateur_](http://www.deezer.com/listen-7045903).
 
 (via [xkcd](http://xkcd.com), sous licence Creative Commons)
 
@@ -55,23 +55,23 @@ qui permet de rendre fun ses photos chiantes.
 
 (via [Ludo](http://www.geeek.org/post/photoshop-cs11-et-le-photobomb-tool-892))
 
-## 4. Comment revisiter l'histoire du foot en étant fun ?
+## 4. Comment revisiter l’histoire du foot en étant fun ?
 
-Les émissions de débat sur le foot sont ce qu'il y a de plus fun à la radio
-depuis que _La Panique au Mangin Palace_ n'est plus. Je recommande chaudement
+Les émissions de débat sur le foot sont ce qu’il y a de plus fun à la radio
+depuis que _La Panique au Mangin Palace_ n’est plus. Je recommande chaudement
 *On Refait Le Match* !
 
 Mais les émissions de ce genre sont légions alors il est naturel de les
 parodier.
 
 Attention, si vous ne connaissez rien au foot, ces vidéos ne vous feront
-absolument pas rire. C'est un risque à prendre.
+absolument pas rire. C’est un risque à prendre.
 
 {% dailymotion xeua9d %}
 
 ## 5. Comment soigner son addiction aux nouvelles technologies ?
 
-Apple vous présente son tout dernier produit : l'ordinateur portable sans
+Apple vous présente son tout dernier produit : l’ordinateur portable sans
 clavier ! Merci aussi de faire attention au sudoku-killer.
 
 {% youtube 9BnLbv6QYcA %}

@@ -8,5 +8,5 @@ date: "2010-02-06 12:06:15 +0100"
 cover: equipe-france-fed-cup.jpg
 ---
 
-Voilà l'équipe de France pour la Fed Cup. Vous en connaissez une vous ? Elles
+Voilà l’équipe de France pour la Fed Cup. Vous en connaissez une vous ? Elles
 sont où Mauresmo et Pierce ? Et Tauziat ? Le monde va mal !

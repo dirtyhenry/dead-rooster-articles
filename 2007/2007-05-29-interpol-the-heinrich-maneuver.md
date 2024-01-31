@@ -15,12 +15,12 @@ Philippe Paringaux a dit un jour :
 
 > Ce sont ceux qui aiment qui ont raison.
 
-J'aurai donc tort si je m'avançais à dire ce que j'ai pensé de [_Pirate des
+J’aurai donc tort si je m’avançais à dire ce que j’ai pensé de [_Pirate des
 Caraïbes 3_][1].
 
-Mais j'aurai par contre raison en annonçant que le single d'Interpol [_The
+Mais j’aurai par contre raison en annonçant que le single d’Interpol [_The
 Heinrich Maneuver_][2] est très prometteur. Les New-Yorkais seront au Zénith de
-Paris en novembre et j'aurai raison de guetter la date d'ouverture de la
+Paris en novembre et j’aurai raison de guetter la date d’ouverture de la
 billetterie.
 
 [1]:

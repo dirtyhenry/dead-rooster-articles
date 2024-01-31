@@ -13,20 +13,20 @@ cover: the-thrills.jpg
 ---
 
 _Teenager_ Enfin le voici, ce 3ème album ! Sorti poussivement en France, 6 mois
-après la perfide albion. Le combat semble perdu d'avance. Pourtant, Credito les
+après la perfide albion. Le combat semble perdu d’avance. Pourtant, Credito les
 avait mis en bande son de sa pub. La région Midi-Pyrénées aussi.
 
-Mais rien n'y fait, la France n’aime plus la pop bien propre et bien faite.
+Mais rien n’y fait, la France n’aime plus la pop bien propre et bien faite.
 Dorénavant, la musique d’obédience guitaristique qui fonctionne dans notre brave
-pays se doit d'être accompagnée du look et du background *sine qua non* : mèche
+pays se doit d’être accompagnée du look et du background *sine qua non* : mèche
 et/ou frange (bien que, simultanément, ce soit assez délicat), chapeau, Converse
 et Ray-ban doivent être fièrement arborés. Ramones, Stooges et autres coffrets
 Nuggets sont obligatoirement revendiqués comme modèles. Hors de ce créneau,
-point de salut ! Ou alors, on s'oriente vers le "rock-quoi", dixit Thomas VDB,
+point de salut ! Ou alors, on s’oriente vers le "rock-quoi", dixit Thomas VDB,
 et là, on se pose en héritier des monuments du genre que sont Jean-Louis Aubert
-et autre Calogero, mais c’est un autre problème. N'abordons pas non plus les
+et autre Calogero, mais c’est un autre problème. N’abordons pas non plus les
 catégories folk à guitare sèche, guitares manouches ou "multi-ethniques", le
-jugement de Sansévérino ou du fils à papa Jacques et maman Françoise n'étant pas
+jugement de Sansévérino ou du fils à papa Jacques et maman Françoise n’étant pas
 l’objet de cet article.
 
 Enfin bref, la pop amoureusement travaillée de **The Thrills** ne fera jamais

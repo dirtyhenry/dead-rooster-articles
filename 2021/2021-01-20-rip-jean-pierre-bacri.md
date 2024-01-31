@@ -18,13 +18,13 @@ revisions:
 
 Pauvre [Didier][3].
 
-Quelques jours seulement après [les murs du son][i1], c'est désormais le
-labrador héros du film d'Alain Chabat qui est orphelin puisque sa _maman_
+Quelques jours seulement après [les murs du son][i1], c’est désormais le
+labrador héros du film d’Alain Chabat qui est orphelin puisque sa _maman_
 ([Caroline Cellier][1]) et son _papa_ ([Jean-Pierre Bacri][2]) sont morts à
-quelques semaines d'intervalle.
+quelques semaines d’intervalle.
 
 On a revu le film, il est aussi bien que dans nos souvenirs, voire mieux,
-puisque les enfants autour de nous rigolent aussi de ce trop plein d'humanité.
+puisque les enfants autour de nous rigolent aussi de ce trop plein d’humanité.
 
 🐕
 

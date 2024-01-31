@@ -61,7 +61,7 @@ des [Fleet Foxes][i213].
 À noter que sur le lien des Beach Boys, vous trouverez un LP pirate complet :
 _The Beach Boys meets Grateful Dead_. Assez cool.
 
-Noter aussi que l'EP de **Guards** est téléchargeable intégralement et
+Noter aussi que l’EP de **Guards** est téléchargeable intégralement et
 gratuitement sur la formidable plateforme de téléchargement bandcamp.
 
 {% include polaroids.html polaroids=page.playlist %}

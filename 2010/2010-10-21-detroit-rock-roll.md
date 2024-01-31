@@ -21,12 +21,12 @@ tags:
 
 Ben Swank, le batteur des Soledad Brothers, désormais membre de
 [The See See](http://www.myspace.com/theseeseeband), et pigiste occasionnel pour
-The Guardian avait réagi en 2008 au visionnage d'un documentaire de la BBC,
-_Motor City's Burning: Detroit From Motown To The Stooges_.
+The Guardian avait réagi en 2008 au visionnage d’un documentaire de la BBC,
+_Motor City’s Burning: Detroit From Motown To The Stooges_.
 
 {% youtube Et8VXb9pv1c %}
 
-[L'article original est ici](http://www.guardian.co.uk/music/2008/mar/01/popandrock.features16),
+[L’article original est ici](http://www.guardian.co.uk/music/2008/mar/01/popandrock.features16),
 en voici une traduction faite maison :
 
 > Le 23 juillet 1967,
@@ -40,7 +40,7 @@ en voici une traduction faite maison :
 > jours plus tard, 43 personnes avaient été tuées parmi lesquelles 33 étaient
 > noires.
 >
-> Il n'était pas facile de vivre dans le Detroit du milieu des années 60 pour la
+> Il n’était pas facile de vivre dans le Detroit du milieu des années 60 pour la
 > classe ouvrière de la ville. Alors que la
 > [Motown](http://fr.wikipedia.org/wiki/Motown) envahissait les premières places
 > des charts avec une série de 13 numéro un consécutifs, les ouvriers de
@@ -87,13 +87,13 @@ en voici une traduction faite maison :
 > comme la Nouvelle-Orléans après les inondations, sauf qu’il n’y a pas eu de
 > catastrophe naturelle. L’Amérique a déferlé sur Detroit…»
 
-Je souhaitais tout simplement faire partager cet article, et puisqu'il y manque
+Je souhaitais tout simplement faire partager cet article, et puisqu’il y manque
 quelques liens pour tout comprendre, les y ajouter.
 
 En bonus, quelques liens, dont une compile Spotify :
 
 - [MC5 _Kick Out The Jams_](http://www.youtube.com/watch?v=iM6nasmkg7A)
-- [The Dirtbombs _Livin' for the City_](http://www.deezer.com/listen-2068265)
+- [The Dirtbombs _Livin’ for the City_](http://www.deezer.com/listen-2068265)
 - [Compile Detroit sur Spotify](http://open.spotify.com/user/dirtyhenry/playlist/1RLY05XUpE2GH92qaol6X6)
 
 [1]: https://fr.wikipedia.org/wiki/John_Sinclair_(poète)

@@ -11,7 +11,7 @@ category: Le monde va mal
 
 {% youtube HasaQvHCv4w %}
 
-Aujourd'hui, on invite Peter Griffin, qui a quelque chose à dire au sujet de
+Aujourd’hui, on invite Peter Griffin, qui a quelque chose à dire au sujet de
 cette vidéo où Mick Jagger et David Bowie reprennent *Dancing in the Street* :
 
 > That happened and we all let it happen.

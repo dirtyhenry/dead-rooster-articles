@@ -12,4 +12,4 @@ tags:
 
 {% vimeo L_-cusLLvMI %}
 
-L'album sort le 5 février !
+L’album sort le 5 février !

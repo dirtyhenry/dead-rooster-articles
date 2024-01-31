@@ -33,7 +33,7 @@ garage contemporain et made in France parfaitement exécuté. Superbe. C’est p
 tellement qu’on est des nationalistes du garage hein, c’est juste que ça veut
 dire qu’un jour, si et quand on aura le droit de retourner dans les salles de
 concerts, on guettera l’opportunité de les voir sur scène. Réjouissante
-perspective du monde d’après, qu'on attendra en [mode VOD][6].
+perspective du monde d’après, qu’on attendra en [mode VOD][6].
 
 Impossible de me souvenir comment j’ai fini par noter “écouter les Madcaps” sur
 un bout de papier numérique. Mais bon sang, ça prouve qu’il est bon de [prendre

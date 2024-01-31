@@ -10,8 +10,8 @@ category: Le monde va mal
 ---
 
 Un tribute band de Def Leppard a laissé une [petite annonce][1] pour trouver un
-batteur à 1 bras. Ça me laisse penser qu'il existe des tribute bands de Def
-Leppard avec des batteurs à deux bras. Les bras m'en tombent ! Heu… je veux
+batteur à 1 bras. Ça me laisse penser qu’il existe des tribute bands de Def
+Leppard avec des batteurs à deux bras. Les bras m’en tombent ! Heu… je veux
 dire… Le monde va mal !
 
 [1]:

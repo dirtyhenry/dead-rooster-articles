@@ -21,7 +21,7 @@ pas un arrière-goût un peu merdeux, mais ma décision est prise. Je ne
 boycotterai pas la compétition.[^2]
 
 Je respecte profondément la décision des boycotteurs, notamment ceux et celles
-qui, comme moi, sont [des passionnés du jeu][i1]. Mais je crains que l'impact du
+qui, comme moi, sont [des passionnés du jeu][i1]. Mais je crains que l’impact du
 boycott sera sans doute limité. Pire, je suis convaincu que parmi les
 boycotteurs, quelques donneurs de leçon ne se priveront pas de brailler à quel
 point leur nombril peut avoir bonne conscience, ce qui incitera inévitablement
@@ -62,10 +62,10 @@ tout le monde et dans le tas, des cons et des salauds. Des lâches aussi. On est
 peut-être l’un des leurs.
 
 Après la compétition, chacun retournera dans son _echo chamber_ et on pourra
-veiller au grain du plus jamais ça. Aujourd'hui, et merci bien, le comité
+veiller au grain du plus jamais ça. Aujourd’hui, et merci bien, le comité
 exécutif de la FIFA[^5] a été réformé et [le processus de désignation des pays
 hôtes][17] est un poil plus démocratique. En 2026, la Coupe du Monde aura lieu
-aux États-Unis, pas exemplaire en termes d'[émissions de CO₂ totales et par
+aux États-Unis, pas exemplaire en termes d’[émissions de CO₂ totales et par
 habitant][16], qui pourrait alors avoir à sa tête un type comme Donald Trump ou
 Ron DeSantis. Au final, guetter la voie vers un avenir désirable se joue tous
 les jours, pas tous les 4 ans.
@@ -87,14 +87,14 @@ les jours, pas tous les 4 ans.
 
 [^3]: On y trouvera tous les ans Mohamed Salah, Erling Haaland et des Italiens.
 [^4]:
-    Auquel n'importe qui qui aura été marqué par cette cérémonie — ce fut mon
+    Auquel n’importe qui qui aura été marqué par cette cérémonie — ce fut mon
     cas — se joindra au moment de la lecture.
 
 [^5]:
-    C'est à dire une vingtaine de types dont un nombre suspect d'ex-membres sont
+    C’est à dire une vingtaine de types dont un nombre suspect d’ex-membres sont
     [accusés de corruption][12], ou passent vraiment beaucoup de temps à [devoir
-    s'en défendre][13], baignant dans [des coïncidences][14] qu'ils auraient
-    bien pu ou dû prendre soin d'éviter. The Guardian vous fait [une récap
+    s’en défendre][13], baignant dans [des coïncidences][14] qu’ils auraient
+    bien pu ou dû prendre soin d’éviter. The Guardian vous fait [une récap
     exhaustive][18] en anglais.
 
 [i1]: {% post_url 2022/2022-10-11-ce-que-j-aime-dans-le-foot %}

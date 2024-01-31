@@ -13,7 +13,7 @@ tags:
   - Zooey Deschanel
 ---
 
-La blonde sur la photo là, voyez ? Il paraît que c'est Zooey Deschanel ! [La
+La blonde sur la photo là, voyez ? Il paraît que c’est Zooey Deschanel ! [La
 preuve][1]. Le monde va mal !
 
 [1]: https://cargocollective.com/hoj/following/posts/hoj/ABSOLUT-DRINKS-1-0

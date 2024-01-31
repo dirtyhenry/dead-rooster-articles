@@ -16,10 +16,10 @@ tags:
   - Téléchargements
 ---
 
-C'est promis, bientôt j'arrête avec les groupes Dum-Dum-Girls-like, mais là y'en
-a un dernier pour la route, il s'appelle **Frankie Rose and The Outs** !
+C’est promis, bientôt j’arrête avec les groupes Dum-Dum-Girls-like, mais là y’en
+a un dernier pour la route, il s’appelle **Frankie Rose and The Outs** !
 
-D'ailleurs Franky Rose est une ancienne de Dum Dum Girls… et de Crystal Stilts…
+D’ailleurs Franky Rose est une ancienne de Dum Dum Girls… et de Crystal Stilts…
 et de Vivian Girls. Autant dire que son CV parle pour elle ! Des fois, elle et
 ses copines se rassemblent dans la rue, à New York, et ça fait grimper le taux
 de tatouage au mètre carré :

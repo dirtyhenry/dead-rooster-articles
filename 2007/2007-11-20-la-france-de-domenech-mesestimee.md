@@ -9,6 +9,6 @@ cover: raymond-domenech.jpg
 category: Le monde va mal
 ---
 
-L'équipe de France, vice-championne du monde, sera vraisemblablement dans le
-4ème chapeau du tirage au sort de l'Euro 2008. Derrière la Croatie, la Roumanie
+L’équipe de France, vice-championne du monde, sera vraisemblablement dans le
+4ème chapeau du tirage au sort de l’Euro 2008. Derrière la Croatie, la Roumanie
 ou la Pologne par exemple. Le monde va mal.

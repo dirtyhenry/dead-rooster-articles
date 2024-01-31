@@ -41,21 +41,21 @@ comments:
 La France, parent pauvre du rock ? Dick Rivers, Richard Anthony, même Johnny !
 Dès le début, on a tout chouré aux anglophones.
 
-Mais le summum date de 1976, avec l'apparition de **Téléphone**. Pendant
-franchouillard des **Television** new-yorkais - le _CBGB's_ en moins - le groupe
-se compose d'un sosie de Mick Jagger au chant (Jean-Louis Aubert, dit l'Abbé
+Mais le summum date de 1976, avec l’apparition de **Téléphone**. Pendant
+franchouillard des **Television** new-yorkais - le _CBGB’s_ en moins - le groupe
+se compose d’un sosie de Mick Jagger au chant (Jean-Louis Aubert, dit l’Abbé
 Aubert, également fabuliste, poète, journaliste et critique), de Louis
-Bertignac, sorte d'ersatz fadasse de Keith Richards sans les cendres de son
-paternel dans le pif, d'un mec avec un nom un peu russe et d'une meuf à la
+Bertignac, sorte d’ersatz fadasse de Keith Richards sans les cendres de son
+paternel dans le pif, d’un mec avec un nom un peu russe et d’une meuf à la
 batterie (comme dans le **Velvet**…) qui apparemment est un peu chiante, vu que
-ça fait 20 ans que les autres veulent faire une reformation et qu'elle, elle
+ça fait 20 ans que les autres veulent faire une reformation et qu’elle, elle
 veut pas.
 
-S'ils avaient dû naître 10 ans plus tard, Jean-Louis Aubert et sa clique se
+S’ils avaient dû naître 10 ans plus tard, Jean-Louis Aubert et sa clique se
 seraient sûrement appelés **Minitel**, ce qui, _a posteriori_, aurait été assez
 risible. Néanmoins, **Téléphone** est tout de même un sobriquet de choix pour
-les journalistes qui purent et peuvent encore s'en donner à coeur joie, avec des
-jeux de mots aussi pourraves que "**Téléphone** sans clavier" (pour peu qu'il y
+les journalistes qui purent et peuvent encore s’en donner à coeur joie, avec des
+jeux de mots aussi pourraves que "**Téléphone** sans clavier" (pour peu qu’il y
 ait eu une embrouille avec le mec aux synthés), "Le nouvel album de
 **Téléphone** ? Potable !" ou encore "**Téléphone** se la joue *bee bop* !" (jeu
 de mots fort à propos en supposant que la bande à Loulou ait pris un virage free
@@ -66,4 +66,4 @@ Fan, comme une majorité de personnes de bon goût, de **Bidophone** et de leur
 plus grand tube _La pompe à merde_, Jean-Louis va édulcorer le propos et offrir,
 en 1979, une "reprise" (un "plagiat" plutôt ?) intitulée _La bombe humaine_.
 Depuis la rupture, Bertignac chante "Vas-y guitare" tous les 3 jours environ,
-tandis qu'Aubert, tente de se convaincre que "Voilà c'est fini"…
+tandis qu’Aubert, tente de se convaincre que "Voilà c’est fini"…

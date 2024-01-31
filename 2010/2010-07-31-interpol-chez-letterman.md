@@ -19,9 +19,9 @@ tags:
 
 {% youtube XgHGHcauw4M %}
 
-Malgré le départ de Carlos D., [l'homme le plus classe du monde][1], et la
-présence d'un choriste/clavier à la voix ridicule et candidat au titre de
-l'homme le moins charismatique du monde, la prestation d'Interpol chez Letterman
+Malgré le départ de Carlos D., [l’homme le plus classe du monde][1], et la
+présence d’un choriste/clavier à la voix ridicule et candidat au titre de
+l’homme le moins charismatique du monde, la prestation d’Interpol chez Letterman
 laisse espérer de bonnes choses, pour le quatrième album !
 
 [1]: https://www.google.fr/images?q=carlos%20d

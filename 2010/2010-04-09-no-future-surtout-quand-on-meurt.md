@@ -10,6 +10,6 @@ cover: nigel-mansell.jpg
 
 **Malcolm McLaren**, le manager des Sex Pistols, 8 fois champion du monde
 constructeur de F1, est décédé hier, à 64 ans. Quant à **Angus
-Williams-Renault** (en arrière-plan sur la photo), on n'a toujours pas de preuve
-formelle qu'il ait vraiment été le manager du Clash, ni même qu'il ait vraiment
+Williams-Renault** (en arrière-plan sur la photo), on n’a toujours pas de preuve
+formelle qu’il ait vraiment été le manager du Clash, ni même qu’il ait vraiment
 existé. Le monde va mal !

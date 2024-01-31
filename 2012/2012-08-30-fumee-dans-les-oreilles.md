@@ -15,6 +15,6 @@ tags:
 Oubliez [_Last Nite_ par les Morning Benders ou _Yesterday_ en reggae][i878],
 les Flaming Lips font encore plus fort et signent avec
 [_Smoke On The Water_](http://musique.premiere.fr/News-Musique/Les-Flaming-Lips-reprennent-Smoke-on-the-Water-de-Deep-Purple-3468346)
-la pire reprise de l'histoire. Le monde va mal !
+la pire reprise de l’histoire. Le monde va mal !
 
 [i878]: {% post_url 2011/2011-08-01-reprise-hors-cadre %}

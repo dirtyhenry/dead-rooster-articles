@@ -15,8 +15,8 @@ category: Fun Friday
 
 ## Die, Sweet Roadrunner, Die
 
-On commence par un court dessin animé, de l'école [Seth MacFarlane][1], le
-créateur de _Family Guy_ et d'_American Dad_.
+On commence par un court dessin animé, de l’école [Seth MacFarlane][1], le
+créateur de _Family Guy_ et d’_American Dad_.
 
 {% youtube UP8zGu9oDfA %}
 
@@ -30,7 +30,7 @@ On poursuit par une simulation de consommation de LSD :
 
 (via Alki)
 
-## Weezer's _Memories_
+## Weezer’s _Memories_
 
 Il est temps de lancer une bande son pour la dernière partie du post. Je vous
 propose un plaisir coupable et un bon vieux Weezer, qui jouent _Memories_ tiré
@@ -40,7 +40,7 @@ de leur nouvel album _Hurley_ :
 
 ## Ecouter de la musique en 1990 et en 2010
 
-Les oreilles pleines de chouette musique, on peut maintenant s'adonner à un peu
+Les oreilles pleines de chouette musique, on peut maintenant s’adonner à un peu
 de cynisme via [la comparaison de la consommation (sic) de la musique entre 1990
 et 2010][2].
 

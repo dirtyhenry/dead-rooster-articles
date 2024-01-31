@@ -15,9 +15,9 @@ tags:
 ---
 
 Cette semaine, la reprise de **Katerine, Francis et ses peintres** est _La
-Queuleuleu_, le fameux titre de Bézu et dont l'auteur est… Guy Lux.
+Queuleuleu_, le fameux titre de Bézu et dont l’auteur est… Guy Lux.
 
-Bravo à Rodrigue dont c'était le 1er choix et qui marque 5 points.
+Bravo à Rodrigue dont c’était le 1er choix et qui marque 5 points.
 
 - 1. Hervé, 6pts
 - 2. Rodrigue, 5pts

@@ -10,5 +10,5 @@ cover: tourisme-mayenne.png
 
 Des affiches publicitaires sont récemment apparues dans le métro et ont pour
 vocation de laisser penser que la Mayenne a un potentiel touristique
-intéressant. Jamais le cynisme du monde publicitaire n'avait osé atteindre ces
+intéressant. Jamais le cynisme du monde publicitaire n’avait osé atteindre ces
 hauteurs auparavant ! Le monde va mal !

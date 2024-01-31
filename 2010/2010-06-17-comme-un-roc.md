@@ -22,7 +22,7 @@ celui qui tient plus de 20 secondes) :
 
 {% youtube 2Q5R48bXOKU %}
 
-Merci bien, personne n'avait osé pronostiqué ça et donc, classement inchangé :
+Merci bien, personne n’avait osé pronostiqué ça et donc, classement inchangé :
 
 - 1. Hervé, 15pts
 - 2. Rodrigue et Joe, 5pts

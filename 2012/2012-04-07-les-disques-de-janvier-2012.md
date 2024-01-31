@@ -16,7 +16,7 @@ tags:
   - Nada Surf
 ---
 
-C'est déjà le week-end de Pâques et il est donc plus que temps de présenter les
+C’est déjà le week-end de Pâques et il est donc plus que temps de présenter les
 disques écoutés en janvier 2012, non ? Alors oui, plus de 2 mois de retard. Mais
 pas pour rien…
 
@@ -26,21 +26,21 @@ lirez :
 > entamer la sortie du pur mode blog pour avoir des formats plus adaptés à ce
 > qu’on veut faire, pour les critiques de disque notamment.
 
-C'est désormais chose faite, puisque nous inaugurons aujourd'hui
+C’est désormais chose faite, puisque nous inaugurons aujourd’hui
 [app.deadrooster.org](http://app.deadrooster.org/), qui présentera des critiques
-de disque de façon plus adaptée qu'auparavant.
+de disque de façon plus adaptée qu’auparavant.
 
 Le principe sera le même que celui introduit depuis [octobre][i943] : des
-paquets de 20 disques, avec une critique à l'emporte pièce, et avec une **note
-discriminatoire** : 4 disques dans chacune des 5 catégories d'étoiles.
+paquets de 20 disques, avec une critique à l’emporte pièce, et avec une **note
+discriminatoire** : 4 disques dans chacune des 5 catégories d’étoiles.
 
 Comment est réalisé la répartition des disques pour chaque paquet ? Grâce à
-l'application Sortmash pardi !
+l’application Sortmash pardi !
 
-La mise à jour restera mensuelle ou presque, et on continuera d'alerter ici sur
+La mise à jour restera mensuelle ou presque, et on continuera d’alerter ici sur
 la parution des nouveaux contenus.
 
-Bref, ce qu'il faut retenir des disques écoutés en janvier 2012, c'est que les
+Bref, ce qu’il faut retenir des disques écoutés en janvier 2012, c’est que les
 meilleurs furent :
 
 - Girls
@@ -49,7 +49,7 @@ meilleurs furent :
 - Nada Surf
 - le détail est à lire [à cette adresse](http://app.deadrooster.org/).
 
-On retiendra aussi que même si Benjamin Biolay produit les disques d'Isabelle
+On retiendra aussi que même si Benjamin Biolay produit les disques d’Isabelle
 Boulay, il ne vaut mieux pas les écouter.
 
 [i943]: {% post_url 2011/2011-11-03-les-disques-d-octobre-2011 %}

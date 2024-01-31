@@ -13,10 +13,10 @@ cover: belle-and-sebastian-the-file-pursuit.jpg
 ---
 
 Stuart, de **Belle and Sebastian** est un marrant. La preuve ? Cette anecdote,
-qu'il raconte [sur le site du groupe][1] :
+qu’il raconte [sur le site du groupe][1] :
 
-> J'ai demandé à Chrissie Hynde si elle savait si Ray Davies avait déjà entendu
+> J’ai demandé à Chrissie Hynde si elle savait si Ray Davies avait déjà entendu
 > la version des Pretenders de _Stop Your Sobbing_. "Je pense bien," répondit
-> Chrissie. "J'étais mariée avec lui."
+> Chrissie. "J’étais mariée avec lui."
 
 [1]: https://belleandsebastian.com/team/stuart-murdoch/

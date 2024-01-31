@@ -33,20 +33,20 @@ comments:
       faut en passer par là je me dévoue)"
 ---
 
-Il y a une dizaine d'années, mes parents s'étaient abonnés à Canal Sat. Quelques
-heures plus tard, j'avais annulé toutes les activités sportives ou de plein air
-inscrites à mon agenda, et décidé d'aller m'asseoir sur le canap' du salon à la
+Il y a une dizaine d’années, mes parents s’étaient abonnés à Canal Sat. Quelques
+heures plus tard, j’avais annulé toutes les activités sportives ou de plein air
+inscrites à mon agenda, et décidé d’aller m’asseoir sur le canap’ du salon à la
 place. Canal Jimmy et Comédie! furent les chaînes les plus regardées, car je
 devenais fan de beaucoup trop de séries. Certaines ont eu leur petit moment de
 gloire (genre, _Friends_, si ça vous dit quelque chose, ou _That '70s Show_)
-mais d'autres sont injustement restées méconnus. La première au programme :
-**_The Young Person's Guide To Becoming A Rock Star_** (_Comment devenir une
+mais d’autres sont injustement restées méconnus. La première au programme :
+**_The Young Person’s Guide To Becoming A Rock Star_** (_Comment devenir une
 rock star_ en V.F.).
 
-La série est née en 1998, c'est-à-dire à peine 3 ans après _(What's the Story)
-Morning Glory?/The Great Escape_ et l'énorme vague britpop d'alors. On y suit
-l'évolution d'un groupe de Glasgow, Jocks Wa Hey, dans toutes les étapes
-imposées d'un groupe à la recherche du succès : former le groupe, trouver les
+La série est née en 1998, c’est-à-dire à peine 3 ans après _(What’s the Story)
+Morning Glory?/The Great Escape_ et l’énorme vague britpop d’alors. On y suit
+l’évolution d’un groupe de Glasgow, Jocks Wa Hey, dans toutes les étapes
+imposées d’un groupe à la recherche du succès : former le groupe, trouver les
 concerts, trouver une maison de disques, produire un disque, etc. La série est
 courte, 6 épisodes seulement, et on y voit énormément de guest-stars et pas les
 moindres : Noel Gallagher, Jay Kay (le mec de Jamiroquai quoi) ou Chrissie Hynde
@@ -54,15 +54,15 @@ moindres : Noel Gallagher, Jay Kay (le mec de Jamiroquai quoi) ou Chrissie Hynd
 
 {% youtube 03ZZSsxnEh8 %}
 
-En gros, on s'y moque beaucoup de tous les poncifs du genre : le groupe qui pète
+En gros, on s’y moque beaucoup de tous les poncifs du genre : le groupe qui pète
 un câble dès que le succès pointe le bout de son nez, le producteur ermite reclu
 et cocaïné, la maison de disque hypocrite où on trouve tous les futurs
-mannequins des environs, etc. mais on reste dans l'idée que putain, ouais, c'est
-ça qu'est bon, et qu'on aimerait bien en être. On a le droit à des gags vraiment
+mannequins des environs, etc. mais on reste dans l’idée que putain, ouais, c’est
+ça qu’est bon, et qu’on aimerait bien en être. On a le droit à des gags vraiment
 potaches (le père hardos qui fait sa gym sur _Smoke On The Water_ en traitant
-son fils de tapette parce qu'il fait de la britpop, le bassiste en slip qui
-mange ses céréales à l'eau dans une casserole sale) insérés dans quelques trames
-romantiques et amicales à l'arrière plan. Bref, de la belle ouvrage, et qui aura
+son fils de tapette parce qu’il fait de la britpop, le bassiste en slip qui
+mange ses céréales à l’eau dans une casserole sale) insérés dans quelques trames
+romantiques et amicales à l’arrière plan. Bref, de la belle ouvrage, et qui aura
 connu un relatif succès à sa sortie.
 
 {% youtube MfPE1AtRxEw %}
@@ -71,11 +71,11 @@ connu un relatif succès à sa sortie.
 
 Depuis, peu de rediffusion, une VHS publiée mais pas de DVD,
 [les épisodes disponibles sur le site de Channel 4](http://www.channel4.com/programmes/young-persons-guide-to-becoming-a-rock-star/4od)
-mais en UK uniquement, soit un bien beau gâchis qu'on ne peut pas seulement
-expliquer par l'épouvantable accent écossais qu'on doit subir tout au long de la
-série. Si quelqu'un veut commencer une pétition pour la parution de la série
-dans un format correct, je serai de ceux-là. D'autant plus que le scénariste de
-la série, Bryan Elsley, a depuis connu le succès avec _Skins_ (que je n'ai
-jamais vu) rendant l'anonymat de la série d'autant plus étonnant.
+mais en UK uniquement, soit un bien beau gâchis qu’on ne peut pas seulement
+expliquer par l’épouvantable accent écossais qu’on doit subir tout au long de la
+série. Si quelqu’un veut commencer une pétition pour la parution de la série
+dans un format correct, je serai de ceux-là. D’autant plus que le scénariste de
+la série, Bryan Elsley, a depuis connu le succès avec _Skins_ (que je n’ai
+jamais vu) rendant l’anonymat de la série d’autant plus étonnant.
 
-Bref, au moins, quelques extraits existent sur YouTube… Merci l'an 2000.
+Bref, au moins, quelques extraits existent sur YouTube… Merci l’an 2000.

@@ -9,6 +9,6 @@ cover: pippo-inzaghi-2.jpg
 category: Le monde va mal
 ---
 
-Samedi soir, si l'Italie gagne contre l'Ecosse, la France sera qualifiée pour
-l'Euro 2008. Je vais donc devoir souhaiter une victoire de l'Italie. Comment en
+Samedi soir, si l’Italie gagne contre l’Ecosse, la France sera qualifiée pour
+l’Euro 2008. Je vais donc devoir souhaiter une victoire de l’Italie. Comment en
 est-on arrivé là ? Le monde va mal !

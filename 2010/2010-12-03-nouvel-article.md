@@ -22,4 +22,4 @@ piedestal du rock. Nous étions au début des années 90. Souvenons-nous
 - Sheryl Crow - All I wanna do
 - The Smashing Pumpkins - Bullet With Butterfly Wings
 
-D'autres propositions ?
+D’autres propositions ?

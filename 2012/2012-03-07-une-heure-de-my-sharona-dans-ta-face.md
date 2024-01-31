@@ -9,9 +9,9 @@ category: Le monde va mal
 cover: deerhunter-sharona.jpg
 ---
 
-Bradley Cox (leader d'[Atlas Sound][i992] et de [Deerhunter][i770]) a pété un
-câble lors d'un concert quand quelqu'un lui a demandé de jouer _My Sharona_. Le
-concert s'est transformé en une reprise d'une heure du [titre de The Knack][3].
+Bradley Cox (leader d’[Atlas Sound][i992] et de [Deerhunter][i770]) a pété un
+câble lors d’un concert quand quelqu’un lui a demandé de jouer _My Sharona_. Le
+concert s’est transformé en une reprise d’une heure du [titre de The Knack][3].
 Prends-en de la graine [Michael Youn][4]. Comme le fait remarquer
 [Stereogum][5], ils auraient dû demander _Free Bird_. Le monde va mal !
 

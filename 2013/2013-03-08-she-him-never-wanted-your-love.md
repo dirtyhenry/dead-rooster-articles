@@ -12,7 +12,7 @@ tags:
 
 {% youtube wOS3yG95_5k %}
 
-She & Him amorce l'arrivée de son prochain album, qui s'appellera — comme on
-pouvait s'y attendre — _Volume 3_, par le single _Never Wanted Your Love_.
+She & Him amorce l’arrivée de son prochain album, qui s’appellera — comme on
+pouvait s’y attendre — _Volume 3_, par le single _Never Wanted Your Love_.
 
 _Volume 3_ sort le 13 mai en Europe.

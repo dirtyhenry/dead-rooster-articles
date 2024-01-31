@@ -13,8 +13,8 @@ meilleur show radio des dernières années : _On refait le match_.
 
 Les perles de la semaine :
 
-> 13 buts pour la 1ère journée, c'est faible, mais c'est parce que c'est la 1ère
-> journée alors je propose qu'on supprime la 1ère journée et qu'on commence le
+> 13 buts pour la 1ère journée, c’est faible, mais c’est parce que c’est la 1ère
+> journée alors je propose qu’on supprime la 1ère journée et qu’on commence le
 > championnat à la 2ème journée
 
 Et plus tard :
@@ -23,5 +23,5 @@ Et plus tard :
 > classement des buteurs en novembre
 
 ~~Abonnez-vous sans attendre au Podcast On refait le match~~. (**edit** : après
-les départs successifs de Saccomano et Praud, le podcast n'est plus vraiment
+les départs successifs de Saccomano et Praud, le podcast n’est plus vraiment
 recommandé)

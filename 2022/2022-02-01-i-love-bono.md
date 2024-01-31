@@ -14,42 +14,42 @@ tags:
 
 {% youtube _xHNDiZQv6w %}
 
-Malgré tous ses efforts, je n'arrive pas à détester Bono.
+Malgré tous ses efforts, je n’arrive pas à détester Bono.
 
-Pourtant, je vois bien qu'il fait des efforts. J'entends bien ses manières
+Pourtant, je vois bien qu’il fait des efforts. J’entends bien ses manières
 chichiteuses sur cette reprise acoustique de [_Sunday Bloody Sunday_][1]. Bien
-sûr qu'elles me donnent un début de nausée. Mais malgré tout, voir Bono et The
+sûr qu’elles me donnent un début de nausée. Mais malgré tout, voir Bono et The
 Edge, la soixantaine attaquée, reprendre leur plus gros tube historique à
-l'occasion des 50 ans du [Bloody Sunday de 1972][2], à la cool, avec un solo pas
-dégueu, en faisant l'effort de pondre un nouveau couplet, chanté bien plus
+l’occasion des 50 ans du [Bloody Sunday de 1972][2], à la cool, avec un solo pas
+dégueu, en faisant l’effort de pondre un nouveau couplet, chanté bien plus
 sobrement, ben je sais pas, mais ma nausée passe et je me dis — [encore une
-fois !][i266] — que, merde, U2 c'est bien.
+fois !][i266] — que, merde, U2 c’est bien.
 
 Ils pourraient plutôt aller siroter des cocktails au bord de la piscine avec
-[Adam][3] et [Larry][4], mais non. Paul et David[^1] s'y collent. Avec ce que je
+[Adam][3] et [Larry][4], mais non. Paul et David[^1] s’y collent. Avec ce que je
 devine être de la sincérité. Et je les aime pour ça.
 
-Bono, c'est l'inverse de Dave Grohl. Dans [sa review de _Medicine at
+Bono, c’est l’inverse de Dave Grohl. Dans [sa review de _Medicine at
 Midnight_][5], Jeremy D. Larson balance :
 
 > Dave Grohl’s lawful-good lifestyle presents an eternal conflict between being
 > unable to hate the guy and being unable to enjoy the music he continues to
 > make.
 
-Ça résume tout à fait mon sentiment. Malgré mon envie d'aimer Dave Grohl avec
-passion, parce qu'il a l'air vraiment cool, parce que Nirvana, parce que tout
-ça, je n'y arrive pas parce que rien dans ce que j'ai entendu des Foo Fighters
+Ça résume tout à fait mon sentiment. Malgré mon envie d’aimer Dave Grohl avec
+passion, parce qu’il a l’air vraiment cool, parce que Nirvana, parce que tout
+ça, je n’y arrive pas parce que rien dans ce que j’ai entendu des Foo Fighters
 ne reste dans mes bagages[^2]. Je ne le déteste pas non plus hein, mais Dave
-Grohl n'a jamais dépassé, chez moi, le stade de l'indifférence bienvaillante.
+Grohl n’a jamais dépassé, chez moi, le stade de l’indifférence bienvaillante.
 
-À l'inverse, j'aimerais détester Bono très fort. Mais bon, les titres de U2, ça
+À l’inverse, j’aimerais détester Bono très fort. Mais bon, les titres de U2, ça
 colle. Le syndrome de la folie des grandeurs. Ou, plus court, le syndrome Bono.
 
 [^1]:
     Car, non, sur leurs certificats de naissance, vous ne lirez pas "Bono" et
     "The Edge" figurez-vous. Ça ferait une bonne question de quiz ça !
 
-[^2]: à l'exception près de [_This Is a Call_][6] peut-être.
+[^2]: à l’exception près de [_This Is a Call_][6] peut-être.
 
 [1]: https://song.link/fr/i/1440894523 "Sunday Bloody Sunday — U2"
 [2]:

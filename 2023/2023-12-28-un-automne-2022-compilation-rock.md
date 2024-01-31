@@ -18,16 +18,16 @@ category: Compile
 
 1. Billy Preston - _Nothing From Nothing_
 1. Michel Fugain & Le Big Bazar - _Les gentils, les méchants_
-1. Orelsan - _L'odeur de l'essence_
+1. Orelsan - _L’odeur de l’essence_
 1. Spain - _Noboody Has to Know_
 1. Alex Mayr - _Zeit_
-1. Jessé Garon' - _C'est lundi_
+1. Jessé Garon’ - _C’est lundi_
 1. Mustang - _Karaboudjan_
 1. Gondhawa - _Go!Go! Sinay_
 1. Taraka - _Psychocastle_
 1. Clio - _Éric Rohmer est mort_
 1. Charles Trenet - _Le Soleil et la lune_
-1. CMAT - _I Don't Really Care for You_
+1. CMAT - _I Don’t Really Care for You_
 1. The Animen - _Modern Nostalgia_
 1. Silver Jews - _San Francisco B.C._
 1. Nick Zinner - _Fall_

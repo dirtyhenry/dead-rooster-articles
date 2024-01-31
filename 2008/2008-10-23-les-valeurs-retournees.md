@@ -8,8 +8,8 @@ date: "2008-10-23 10:41:00 +0200"
 cover: clint-eastwood.jpg
 ---
 
-C'est Franz Beckenbauer qui le dit :
+C’est Franz Beckenbauer qui le dit :
 
-> L'équipe nationale allemande est devenue un tas de chochottes.
+> L’équipe nationale allemande est devenue un tas de chochottes.
 
 Le monde va mal !

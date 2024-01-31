@@ -11,36 +11,36 @@ cover: llewyn-davis.jpg
 category: Ciné-Club moi j'vous dis
 ---
 
-Au cas où certains en doutaient encore, je crois qu'on peut affirmer que les
+Au cas où certains en doutaient encore, je crois qu’on peut affirmer que les
 frères Coen aiment le folk.
 
 ## Hiver 61, New York, on se les gèle pas mal
 
 [_Inside Llewyn Davis_][1], le dernier film des frères Coen, trace le quotidien
-d'un chanteur de folk dans Greenwich Village à un moment clé de l'histoire du
-folk : l'hiver 61, quand un certain Robert Zimmerman, en provenance du
-Minnesota, pose ses valises dans le froid de New York (si tu sais pas qui c'est
+d’un chanteur de folk dans Greenwich Village à un moment clé de l’histoire du
+folk : l’hiver 61, quand un certain Robert Zimmerman, en provenance du
+Minnesota, pose ses valises dans le froid de New York (si tu sais pas qui c’est
 Robert Zimmerman, faut que tu lises [ça][i219]). De plan lose en plan lose, on
 va suivre le quotidien de Llewyn (trouver un endroit où dormir ce soir,
-s'engueuler avec sa soeur, sa copine illégitime ou les parents de son ancien
-partenaire de duo, retrouver un chat) et aussi l'entendre chanter.
+s’engueuler avec sa soeur, sa copine illégitime ou les parents de son ancien
+partenaire de duo, retrouver un chat) et aussi l’entendre chanter.
 
-Les frères Coen et moi, c'est une histoire compliquée : j'adore la moitié de
-leurs films, l'autre m'ennuie terriblement. Ce coup-ci, _Inside Llewyn Davis_
-rentre dans la première catégorie. Il y a l'ambiance du film d'abord : un New
-York froid où on écoute des chansons tristes, une bonne dose d'humour (le
+Les frères Coen et moi, c’est une histoire compliquée : j’adore la moitié de
+leurs films, l’autre m’ennuie terriblement. Ce coup-ci, _Inside Llewyn Davis_
+rentre dans la première catégorie. Il y a l’ambiance du film d’abord : un New
+York froid où on écoute des chansons tristes, une bonne dose d’humour (le
 personnage de Justin Timberlake et les parodies de pochettes de disque de
-l'époque) et un personnage principal très attachant. Ce Llewyn Davis est
-interprété par Oscar Isaac, qu'on pensait ne pas connaître mais qui en fait a
-déjà joué dans _Drive_ et pas mal d'autres films (et d'[après internet][4], je
-ne suis pas le seul à penser qu'il ressemble à [Jake Johnson][3]).
+l’époque) et un personnage principal très attachant. Ce Llewyn Davis est
+interprété par Oscar Isaac, qu’on pensait ne pas connaître mais qui en fait a
+déjà joué dans _Drive_ et pas mal d’autres films (et d’[après internet][4], je
+ne suis pas le seul à penser qu’il ressemble à [Jake Johnson][3]).
 
 {% youtube W_07dtVL6i4 %}
 
-## Ici, le médiator n'est pas le bienvenu
+## Ici, le médiator n’est pas le bienvenu
 
-Mais s'il y a quelque chose que j'aime dans tous les films des frères Coen, sans
-exception jusqu'à aujourd'hui, ce sont leurs musiques. Il y aurait de quoi
+Mais s’il y a quelque chose que j’aime dans tous les films des frères Coen, sans
+exception jusqu’à aujourd’hui, ce sont leurs musiques. Il y aurait de quoi
 écrire plusieurs articles sur le sujet mais il faut bien commencer par quelque
 chose alors allons-y.
 
@@ -60,10 +60,10 @@ productions pourrait ainsi peut-être se révéler salvateur.
 
 {% spotify_track 4uCdzs757AOdKFFiKg19gz %}
 
-Quant au premier nommé, il n'est pas inconnu niveau portage de folk au cinéma,
-puisqu'il est l'auteur de _The Weary Kind_, chantée par [The Dude][6] himself,
+Quant au premier nommé, il n’est pas inconnu niveau portage de folk au cinéma,
+puisqu’il est l’auteur de _The Weary Kind_, chantée par [The Dude][6] himself,
 Jeff Bridges (comme quoi le monde est vraiment petit) dans _Crazy Heart_ et
-vainqueur de l'oscar de la meilleure chanson originale en 2010.
+vainqueur de l’oscar de la meilleure chanson originale en 2010.
 
 {% youtube z8monRJzzvU %}
 
@@ -71,8 +71,8 @@ vainqueur de l'oscar de la meilleure chanson originale en 2010.
 
 ## Bonus
 
-L'affiche du film n'est-elle pas un hommage aux cover arts de Bob Dylan (_The
-Freewheelin' Bob Dylan_ pour le décor et _The Times They Are A-Changin'_ pour
+L’affiche du film n’est-elle pas un hommage aux cover arts de Bob Dylan (_The
+Freewheelin’ Bob Dylan_ pour le décor et _The Times They Are A-Changin’_ pour
 les couleurs… et un magicien pour transformer une fille en chat) ?
 
 {% asset llewyn-dylan.png %}

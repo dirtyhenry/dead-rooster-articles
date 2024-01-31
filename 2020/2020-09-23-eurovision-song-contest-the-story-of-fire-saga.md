@@ -58,7 +58,7 @@ visionnage estival a confirmé [la _greatness_][5], alors on pourra boire notre
 petit lait.
 
 [^1]:
-    l’intérêt majeur d'écrire pour ce site à l'audience… hum… _confidentielle_
+    l’intérêt majeur d’écrire pour ce site à l’audience… hum… _confidentielle_
     est de se repencher régulièrement sur les vieux articles. On a commencé en
     2005 donc certains sont déjà très datés. Faire référence au jeune
     [Eduardo][1] est donc volontairement risqué, mais je suis curieux de savoir

@@ -25,49 +25,49 @@ comments:
       du groupe qui va nous manquer pour 2011.\r\n\r\n"
 ---
 
-R.E.M. vient d'annoncer sa séparation. Vous allez me dire “On s'en fout un peu,
+R.E.M. vient d’annoncer sa séparation. Vous allez me dire “On s’en fout un peu,
 non ?”, je vais vous répondre “Ah oui, oui, oui, complètement !”. Mais comme
-disait Chamfort, “on ne peut être et avoir été” et, pour le coup, R.E.M. n'a pas
-toujours fait semblant d'être puisqu'au gré de plus de 30 années de carrière,
+disait Chamfort, “on ne peut être et avoir été” et, pour le coup, R.E.M. n’a pas
+toujours fait semblant d’être puisqu’au gré de plus de 30 années de carrière,
 ils ont accumulé quelques pépites qui, même si la dernière ne doit plus être
-toute jeune, méritent d'y rejeter une oreille de temps à autre. Ce sera
-aujourd'hui.
+toute jeune, méritent d’y rejeter une oreille de temps à autre. Ce sera
+aujourd’hui.
 
 Déjà, il y a les tubes monstrueux du groupe : [_Losing My Religion_][1], [_Shiny
 Happy People_][2] et [_Everybody Hurts_][3]. Toutes ces chansons souffrent bien
 sûr du [syndrome de _La Folie des Grandeurs_][i266], mais tels Les Inconnus ou
-Christian Clavier, il est nécessaire de se souvenir qu'avant d'être ce qu'ils
-sont devenus ([insipides][4] et [embarrassants][5]), ils étaient d'un tout autre
+Christian Clavier, il est nécessaire de se souvenir qu’avant d’être ce qu’ils
+sont devenus ([insipides][4] et [embarrassants][5]), ils étaient d’un tout autre
 tonneau dans leurs beaux jours ([inspirés][6] et [géniaux][7]). Comme disait
 Chamfort, “Quiconque a détruit un préjugé, un seul préjugé, est un bienfaiteur
 du genre humain”. Alors merci de bien vouloir vous souvenir que ces chansons
 sont de bonnes chansons pour que je puisse mettre ça sur mon CV.
 
 Commençons par _Shiny Happy People_, avec [ce clip qui marque à vie][8], une
-vraie belle madeleine de Proust, où Kate Pierson, des B-52's, venue en renfort,
+vraie belle madeleine de Proust, où Kate Pierson, des B-52’s, venue en renfort,
 aura érotisé toute une génération de futurs bienfaiteurs du genre humain.
 
 {% youtube YYOKMUTTDdA %}
 
 [Le clip de _Losing My Religion_][9] est un peu bizarre et nettement moins cool,
-alors du coup, en regarder une version avec l'image d'une pochette pourrait
+alors du coup, en regarder une version avec l’image d’une pochette pourrait
 suffire, à mon humble avis :
 
 {% youtube xwtdhWltSIg %}
 
-Quant à _Everybody Hurts_, j'ai changé d'avis. En fait, elle est vraiment un peu
+Quant à _Everybody Hurts_, j’ai changé d’avis. En fait, elle est vraiment un peu
 chiante mais ceux qui veulent rester dans les bouchons pendant plus de 5 minutes
 peuvent [voir le clip][10] et ceux qui veulent juste voir la dernière minute,
 vraiment plus cool que le reste, préféreront [cliquer là][11].
 
-Derrière ces trois monstres, d'autres beaux morceaux se cachent et en voici les
+Derrière ces trois monstres, d’autres beaux morceaux se cachent et en voici les
 trois meilleurs représentants à mes yeux, que je vous invite à écouter aussi
-maintenant car, dans une semaine, le moment sera passé et vous n'écouterez plus
+maintenant car, dans une semaine, le moment sera passé et vous n’écouterez plus
 jamais R.E.M. de votre vie si ça se trouve. Ce ne serait pas si grave car comme
-le disait Chamfort, “il y a des redites pour l'oreille et pour l'esprit, il n'y
+le disait Chamfort, “il y a des redites pour l’oreille et pour l’esprit, il n’y
 en a point pour le coeur”.
 
-_It's The End Of The World As We Know It (And I Feel Fine)_
+_It’s The End Of The World As We Know It (And I Feel Fine)_
 
 {% youtube Z0GFRcFm-aY %}
 

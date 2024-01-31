@@ -14,10 +14,10 @@ tags:
   - Single
 ---
 
-**The Pains of Being Pure At Heart** nous incite à dire non à l'amour dans leur
+**The Pains of Being Pure At Heart** nous incite à dire non à l’amour dans leur
 nouveau single _Say No To Love_.
 
-Un an après la sortie de leur 1er album, ce nouveau single n'a pas l'air
-d'annoncer pour autant l'arrivée de son successeur.
+Un an après la sortie de leur 1er album, ce nouveau single n’a pas l’air
+d’annoncer pour autant l’arrivée de son successeur.
 
 {% youtube qMyURfKRTEM %}

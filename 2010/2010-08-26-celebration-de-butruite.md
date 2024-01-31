@@ -15,12 +15,12 @@ tags:
   - Larcenet
 ---
 
-On ne l'avait pas mise du premier coup, mais maintenant, c'est réparé : voici la
+On ne l’avait pas mise du premier coup, mais maintenant, c’est réparé : voici la
 vidéo de 22 secondes la plus drôle des 20 dernières années.
 
 {% youtube IZHyUaJy_RI %}
 
-ps : et c'est encore plus drôle [quand Larcenet en fait le commentaire][1] :
+ps : et c’est encore plus drôle [quand Larcenet en fait le commentaire][1] :
 
 > Quand Bouzard marque un but pour l’ASS chizé – la Gloriette, c’est du grand
 > n’importe quoi.

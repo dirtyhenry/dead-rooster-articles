@@ -11,7 +11,7 @@ category: Le monde va mal
 
 Alors que [Yann Tiersen va donner un concert pour célébrer les 100 ans de
 Fantomas][1], un héros dont [on aime beaucoup les films de Hunebelle][i784], il
-paraît qu'Arcade Fire aurait refusé de faire un concert hommage à Hibernatus. Le
+paraît qu’Arcade Fire aurait refusé de faire un concert hommage à Hibernatus. Le
 monde va mal !
 
 [1]:

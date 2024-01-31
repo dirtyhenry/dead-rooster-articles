@@ -17,7 +17,7 @@ tags:
 {% spotify 3DIwE7aLIaURvceNnXCHL4 %}
 
 1. John Barry, _Beat girl_
-1. Autour de Lucie, _J'ai construit un mur🔇_
+1. Autour de Lucie, _J’ai construit un mur🔇_
 1. Interpol, _Evil_
 1. Oasis, _The importance of being idle_
 1. The Coral, _Arabian Sand_
@@ -33,8 +33,8 @@ tags:
 1. Oasis, _The meaning of soul_
 1. Vincent Delerm, _Gare de Milan_
 1. Arcade Fire, _Neighborhood #3 (Power out)_
-1. Nino Ferrer, _L'arbre noir_
-1. 3 Guys Never In, _Sinking in 'avril'_
+1. Nino Ferrer, _L’arbre noir_
+1. 3 Guys Never In, _Sinking in 'avril’_
 1. Jacques Dutronc, _La fille du père Noël_
 1. Keren Ann, _Nolita_
 1. Bloc Party, _Positive tension_

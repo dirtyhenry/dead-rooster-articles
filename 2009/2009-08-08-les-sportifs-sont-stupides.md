@@ -12,6 +12,6 @@ Le cycliste Danilo Di Luca a été détecté positif à un contrôle anti-dopage
 défend de la manière suivante :
 
 > Est-ce que je serais à ce point stupide de prendre de la Cera un an après
-> qu'on l'ait découverte sur Ricco, Sella, Rebellin, et en plus au Giro ?
+> qu’on l’ait découverte sur Ricco, Sella, Rebellin, et en plus au Giro ?
 
 Visiblement, la réponse est… oui ! Le monde va mal !

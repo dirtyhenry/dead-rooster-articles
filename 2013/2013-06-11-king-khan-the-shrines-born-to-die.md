@@ -14,7 +14,7 @@ King Khan & The Shrines seront de retour cet automne avec un nouvel album [_Idle
 No More_][1].
 
 Ils seront de passage à Paris (au Trabendo) le 4 septembre et autant le dire
-tout de go King Khan en concert : c'est assez fun comme expérience.
+tout de go King Khan en concert : c’est assez fun comme expérience.
 
 {% soundcloud 95409544 %}
 

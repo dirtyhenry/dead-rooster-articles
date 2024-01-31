@@ -19,8 +19,8 @@ comments:
       & www.garorock.com/blog \r\n\r\nRéservez vite ! ;-)"
 ---
 
-Au rang des grands groupes de l'ombre, BRMC fait l'exploit de rester dans celle
-du [Brian Jonestown Massacre][i309]. La vie n'est pas juste. _Specter at the
+Au rang des grands groupes de l’ombre, BRMC fait l’exploit de rester dans celle
+du [Brian Jonestown Massacre][i309]. La vie n’est pas juste. _Specter at the
 Feast_ est sorti le mois dernier.
 
 {% youtube mmtQwtcaqLM %}

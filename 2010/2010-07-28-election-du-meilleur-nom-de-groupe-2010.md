@@ -15,12 +15,12 @@ tags:
   - Band Naming Award
 ---
 
-Je m'aperçois qu'il manque une récompense dans le monde de la musique. Toutes
-ces cérémonies négligent un art subtil, qui préfigure l'avenir d'un groupe, même
-avant son premier concert, sa première répétition ou quoi que ce soit d'autre :
-l'art du **band-naming** !
+Je m’aperçois qu’il manque une récompense dans le monde de la musique. Toutes
+ces cérémonies négligent un art subtil, qui préfigure l’avenir d’un groupe, même
+avant son premier concert, sa première répétition ou quoi que ce soit d’autre :
+l’art du **band-naming** !
 
-Je lance donc le processus de sélection des nommés pour l'édition 2010 :
+Je lance donc le processus de sélection des nommés pour l’édition 2010 :
 
 - [The Phoenix Fundation][1]
 - [Com Truise][2]
@@ -29,7 +29,7 @@ Je lance donc le processus de sélection des nommés pour l'édition 2010 :
 - [Delorean][5]
 - [Sheetah et les Weissmuller][6]
 
-N'hésitez pas à proposer les vôtres dans les commentaires.
+N’hésitez pas à proposer les vôtres dans les commentaires.
 
 [1]: https://en.wikipedia.org/wiki/The_Phoenix_Foundation
 [2]: https://fr.wikipedia.org/wiki/Com_Truise

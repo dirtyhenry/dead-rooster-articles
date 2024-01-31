@@ -23,7 +23,7 @@ comments:
       [https://pitchfork.com/news/39867-video-wavves-post-acid/](https://pitchfork.com/news/39867-video-wavves-post-acid/)"
 ---
 
-Très actif en publication d'albums depuis son apparition en 2008, très actif
+Très actif en publication d’albums depuis son apparition en 2008, très actif
 également au niveau des frasques en tout genre (insulte au public, changement de
 line up, addictions diverses), **Wavves** est un groupe de San Diego,
 Californie.

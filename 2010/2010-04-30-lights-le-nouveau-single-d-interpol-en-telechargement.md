@@ -15,12 +15,12 @@ tags:
 
 {% youtube tSx2OSuEzDI %}
 
-Bientôt 3 ans après l'inégal [_Our Love To Admire_][2], les new-yorkais
+Bientôt 3 ans après l’inégal [_Our Love To Admire_][2], les new-yorkais
 **Interpol** devraient être de retour en 2010. Ils ont enregistré leur 4ème
-album au printemps 2009 mais toujours aucune date de sortie n'a été annoncée.
+album au printemps 2009 mais toujours aucune date de sortie n’a été annoncée.
 
 Pour patienter, le groupe offre actuellement le single [_Lights_][3] en
-téléchargement et on peut réécouter le meilleur titre de l'album précédent, qui
+téléchargement et on peut réécouter le meilleur titre de l’album précédent, qui
 file encore la chaire de poule, [_Pioneers To The Fall_][1].
 
 [1]:
