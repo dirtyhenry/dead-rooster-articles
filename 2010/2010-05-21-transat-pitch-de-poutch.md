@@ -5,6 +5,7 @@ authors:
   - Joe Gantdelaine
 wordpress_id: 620
 date: "2010-05-21 12:18:44 +0200"
+category: Le monde va mal
 cover: trimaran-crepes-wahou.jpg
 ---
 
@@ -15,5 +16,4 @@ Ce que ne précise pas le quotidien sportif, c’est qu’il paraît qu’il a d
 _Bâtonnets Coraya_, mais que _Pic-Nic Break_ remonte en trombe… Par contre, on
 est toujours sans nouvelle de _Kinder Pingui_. Le monde va mal !
 
-[1]:
-  http://www.lequipe.fr/Voile/breves2010/20100520_175231_crepes-whaou-s-echappe.html
+[1]: https://www.lequipe.fr/Voile/Actualites/Crepes-whaou-s-echappe/108544

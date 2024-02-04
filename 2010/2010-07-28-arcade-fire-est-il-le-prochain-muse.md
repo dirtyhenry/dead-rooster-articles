@@ -1,20 +1,18 @@
 ---
+published: false
 layout: post
 title: Arcade Fire est-il le prochain Muse ?
 description:
   Plus que 5 jours avant la sortie du très attendu 3ème album d'Arcade Fire,
-  {Suburbs}. La sortie de cet album est précédé d'un buzz énorme qui, je
-  l'avoue, me fait un peu peur…
+  Suburbs. La sortie de cet album est précédé d'un buzz énorme qui, je l'avoue,
+  me fait un peu peur…
 authors:
   - Dirty Henry
 wordpress_id: 662
 cover: arcade-fire-suburbs-cover.jpg
 date: 2010-07-28 13:35:26 +0200
-categories:
-  - Catégories
-  - Artistes
+category: Follow-Up
 tags:
-  - Nouvel album
   - Arcade Fire
 comments:
   - author: Dirty Henry
@@ -29,20 +27,20 @@ comments:
     date: 2010-08-08 14:37:02 +0200
     title: Arcade Fire est-il le prochain Muse ?
     content:
-      "… Euh, j'ai vu le stream sur You Tube depuis la France.\r\nRegine est à
-      la base de l'unique engagement humanitaire d'Arcade Fire, pour Haiti, où
-      elle a grandit avant de fuir la dictature.\r\n\r\nKeep up the great work."
+      "…euh, j'ai vu le stream sur YouTube depuis la France. Régine est à la
+      base de l'unique engagement humanitaire d'Arcade Fire, pour Haïti, où elle
+      a grandi avant de fuir la dictature. Keep up the great work."
   - author: Dirty Henry
     author_email: dirtyhenry@gmail.com
     date: 2010-08-10 11:11:01 +0200
     title: Arcade Fire est-il le prochain Muse ?
     content:
-      "De chez moi, la page YouTube affichait un décourageant \"Unavailable in
-      your country\"… Bizarre.\r\n\r\nPour l'engagement humanitaire du groupe,
-      c'est évidemment très respectable de leur part. J'avais juste peur qu'avec
-      tous ces à-côté, le 3ème disque soit une merde :)\r\n\r\nDepuis j'ai
-      écouté le disque et je confesse que mes peurs étaient infondées. J'en
-      parlerai début septembre, après le concert à Rock en Seine."
+      'De chez moi, la page YouTube affichait un décourageant "Unavailable in
+      your country"… Bizarre. Pour l’engagement humanitaire du groupe, c’est
+      évidemment très respectable de leur part. J’avais juste peur qu’avec tous
+      ces à-côté, le 3ème disque soit une merde. Depuis j’ai écouté le disque et
+      je confesse que mes peurs étaient infondées. J’en parlerai début
+      septembre, après le concert à Rock en Seine.'
 ---
 
 Plus que 5 jours avant la sortie du très attendu 3ème album d’Arcade Fire,
@@ -68,7 +66,7 @@ faire profiter. Sympa et intelligent.
 Bref, Arcade Fire me fait peur…
 
 ps : pour la bonne cause, la chanteuse du groupe, originaire de Haïti, lance
-[le groupe dans l’humanitaire](http://www.arcadefire.com/haiti/) (indice U2
+[le groupe dans l’humanitaire](https://www.arcadefire.com/haiti/) (indice U2
 n°1).
 
 [1]:

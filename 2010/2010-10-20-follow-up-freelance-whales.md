@@ -7,10 +7,7 @@ authors:
 wordpress_id: 716
 cover: freelance-whales-weathervanes.png
 date: 2010-10-20 17:46:23 +0200
-categories:
-  - Catégories
-tags:
-  - Vidéo Clip
+category: Follow-Up
 ---
 
 Je vous avais parlé des **Freelance Whales** dans une _Chanson du jour_, ils
