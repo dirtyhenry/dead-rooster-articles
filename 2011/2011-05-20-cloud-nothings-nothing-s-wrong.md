@@ -5,6 +5,7 @@ authors:
   - Joe Gantdelaine
 wordpress_id: 842
 date: "2011-05-20 11:35:35 +0200"
+category: Chanson du jour
 ---
 
 {% youtube HIp-XgdZKMU %}

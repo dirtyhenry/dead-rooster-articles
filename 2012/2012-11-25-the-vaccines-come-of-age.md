@@ -3,11 +3,13 @@ layout: post
 title: Les limites de la médecine
 description:
   Un jour on m'a dit que je n'étais pas vacciné contre la médiocrité. Ce vaccin
-  n'existe toujours pas apparemment !
+  n'existe toujours pas apparemment ! Une critique à charge de Come Of Age, des
+  Vaccines.
 authors:
   - Joe Gantdelaine
 wordpress_id: 1143
-cover: vaccin-enfant.jpg
+cover: the-vaccines-cover.jpg
+category: Review
 date: 2012-11-25 10:21:10 +0100
 ---
 
@@ -15,9 +17,7 @@ Avant d’écouter **The Vaccines**, j’avais un gros a priori négatif : j’
 parler de "nouveaux Strokes", de "Ramones du 21ème siècle". La seule réaction
 que cela provoquait sur moi était cette question : "OK, mais pour quoi faire ?"
 Donc, histoire de ne pas en rester là, j’ai profité de la sortie de leur
-deuxième album _Come Of Age_ pour voir si mes craintes étaient fondées.
-
-{% asset the-vaccines-cover.jpg %}
+deuxième album [_Come Of Age_][2] pour voir si mes craintes étaient fondées.
 
 Bon, déjà, ça commence mal ! Avec _No Hope_, on est directement confronté à du
 sous Libertines. Comme si Carl Barât & ses (ex-)potes avaient bu du coke plutôt
@@ -49,3 +49,4 @@ originaux dont il s’inspire. 10 ans avant, on aurait crié au génie. Là, on
 baille aux corneilles !
 
 [1]: https://youtu.be/3mtYzXi8xhg "Elton John - Crocodile Rock 1972"
+[2]: https://album.link/fr/i/541100632
