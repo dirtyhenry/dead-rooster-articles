@@ -3,7 +3,7 @@ layout: post
 title: The Livingstones I Presume - The Stanley EP en vinyl
 description:
   The Livingstones I Presume proposent en prévente une série limitée de 250
-  exemplaires, en vinyl, de leur 1er EP, {The Stanley EP}.
+  exemplaires, en vinyl, de leur 1er EP, The Stanley EP.
 authors:
   - Dirty Henry
 wordpress_id: 952

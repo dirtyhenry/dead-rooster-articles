@@ -52,7 +52,7 @@ penser que Vertigo est et demeurera le meilleur titre des Libertines ⁈)
 24. Babyshambles - _Fuck Forever_
 25. Oasis - _Supersonic_
 26. Radiohead - _Creep_
-27. Oasis -' Wonderwall}
+27. Oasis - _Wonderwall_
 28. Pavement - _Cut Your Hair_
 29. Arcade Fire - _Rebellion (Lies)_
 30. Manic Street Preachers - _A Design For Life’_

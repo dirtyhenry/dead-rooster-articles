@@ -4,6 +4,7 @@ title: Peau de cochon
 wordpress_id: 234
 authors:
   - Dirty Henry
+category: Ciné-Club moi j'vous dis
 ---
 
 {% asset katerine-peau-de-cochon.jpg %}

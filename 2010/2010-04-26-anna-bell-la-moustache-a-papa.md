@@ -2,8 +2,8 @@
 layout: post
 title: Anna Bell - La moustache à papa
 description:
-  Un trésor caché un peu déconne pour démarrer la semaine avec Anna Bell et {La
-  Moustache à Papa}.
+  Un trésor caché un peu déconne pour démarrer la semaine avec Anna Bell et La
+  Moustache à Papa.
 authors:
   - Dirty Henry
 wordpress_id: 602

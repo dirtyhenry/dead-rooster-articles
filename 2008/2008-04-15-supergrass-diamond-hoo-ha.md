@@ -5,11 +5,8 @@ authors:
   - Dirty Henry
 wordpress_id: 204
 date: "2008-04-15 13:39:38 +0200"
-categories:
-  - Catégories
-  - Artistes
+category: Review
 tags:
-  - Albums
   - Supergrass
 cover: supergrass.jpg
 ---

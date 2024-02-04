@@ -4,7 +4,7 @@ title: Dum Dum Girls - Only In Dreams
 description:
   Les Dum Dum Girls sont souvent dans les chansons du jour et sont aussi sur le
   podcast. Mais parlons-en plus en détail enfin ! Surtout que leur second album,
-  {Only In Dreams}, est très très bon.
+  Only In Dreams, est très très bon.
 authors:
   - Dirty Henry
 wordpress_id: 936
