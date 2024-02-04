@@ -30,7 +30,7 @@ l’histoire d’une famille où les parents sont sourd-muets et la fille chante
 Ouais, OK, y’a François Damiens, Karin Viard et Eric Elmosnino qui jouent
 dedans ? Allez ! Pourquoi pas.
 
-{% asset famille_belier.jpg alt='Avec le recul, je me dis que chanter, ça doit marcher mieux que la guitare’ %}
+{% asset famille_belier.jpg alt="Avec le recul, je me dis que chanter, ça doit marcher mieux que la guitare" %}
 
 Près de deux heures plus tard, quelques grosses ficelles qui n’auront malgré
 tout pas déplu commencent à nous faire chialer devant [un duo d’ados qui chante
