@@ -88,7 +88,7 @@ La réponse est très simple, mathématique. Voyez plutôt :
 
 CQFD
 
-{% asset jambe-gauche.jpg alt='D’abord la jambe gauche, toujours !' %}
+{% asset jambe-gauche.jpg alt"D’abord la jambe gauche, toujours !" %}
 
 Ainsi donc, _Water Music_. Comme son titre ne l’indique pas, ce bouquin ne parle
 pas du tout de musique. Il raconte la vie de Mungo Park, l’explorateur écossais
