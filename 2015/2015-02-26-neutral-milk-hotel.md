@@ -45,7 +45,7 @@ stabilise. Julian Koster (qui joue un peu de tout mais notamment du banjo et de
 la scie musicale), Scott Spillane (cuivres) et Jeremy Barnes (batterie) sont
 désormais des membres à part entière.
 
-{% asset neutral-milk-hotel-lineup-90s.jpg alt='Jeff, Scott, Julian et Jeremy : le lineup de Neutral Milk Hotel' %}
+{% asset neutral-milk-hotel-lineup-90s.jpg alt="Jeff, Scott, Julian et Jeremy : le lineup de Neutral Milk Hotel" %}
 
 En 1998, le second _In An Aeroplane Over The Sea_, avec Schneider à la
 production, est un chef-d’œuvre. À sa sortie, les critiques sont emballés et si
@@ -87,7 +87,7 @@ Ce n’était pas le premier concert de reformation que j’allais voir et même
 certains furent très convaincants (Blur à Hyde Park, Pulp à Primavera), je
 savais aussi que le pari est parfois risqué (The La’s à Rock en Seine).
 
-{% asset neutral-milk-hotel-jeff-mangum-2014.jpg alt='Jeff Mangum en 2014’ %}
+{% asset neutral-milk-hotel-jeff-mangum-2014.jpg alt="Jeff Mangum en 2014" %}
 
 Pourtant, les premiers titres ne laissent plus place au doute : le concert va
 être excellent. Jeff Mangum arrive seul, à droite de la scène pour attaquer
