@@ -3,8 +3,8 @@ layout: post
 title: Zoom sur le Zep
 description:
   Après les Stones et Bob Dylan et en attendant un probable ouvrage sur Hendrix,
-  François Bon s'était penché sur Led Zeppelin en septembre 2008 dans {Rock'n
-  Roll}.
+  François Bon s'était penché sur Led Zeppelin en septembre 2008 dans Rock'n
+  Roll.
 author: Dirty Henry
 wordpress_id: 571
 cover: john-bonham-bonzo.jpg

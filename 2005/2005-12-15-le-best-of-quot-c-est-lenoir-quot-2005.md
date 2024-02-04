@@ -82,7 +82,7 @@ tags:
 - SALIF KEITA - _M’Bemba_
 - SHUKAR COLLECTIVE - _Urban Gypsy_
 - SWAMI – _Desirock_
-- T.P. ORCHESTRE POLY RYTMO - (Kings of Benin Urban Groove 1972-80}
+- T.P. ORCHESTRE POLY RYTMO - _The Kings of Benin Urban Groove 1972-80_
 - TRANSGLOBAL UNDERGROUND - _Impossible Broadcasting_
 - WAKAL - _Desvia Si On Again_
 

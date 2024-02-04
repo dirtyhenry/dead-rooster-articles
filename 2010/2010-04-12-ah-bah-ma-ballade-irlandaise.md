@@ -2,8 +2,7 @@
 layout: post
 title: Ah bah ma ballade irlandaise !
 description:
-  Le titre de la semaine est la {Balade Irlandaise}, de Bourvil. On a un podium
-  !
+  Le titre de la semaine est la Balade Irlandaise, de Bourvil. On a un podium !
 authors:
   - Dirty Henry
 wordpress_id: 593

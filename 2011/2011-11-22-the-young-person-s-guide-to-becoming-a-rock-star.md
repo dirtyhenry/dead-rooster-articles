@@ -3,8 +3,8 @@ layout: post
 title: The Young Person's Guide To Becoming A Rock Star
 description:
   Retour sur quelques séries oubliées, mais qu'il faut remettre à la place
-  qu'elles méritent. Premier épisode avec {The Young Person's Guide To Becoming
-  A Rock Star}
+  qu'elles méritent. Premier épisode avec The Young Person's Guide To Becoming A
+  Rock Star.
 authors:
   - Dirty Henry
 wordpress_id: 955

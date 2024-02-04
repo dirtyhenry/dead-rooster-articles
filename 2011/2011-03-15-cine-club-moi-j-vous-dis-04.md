@@ -2,8 +2,8 @@
 layout: post
 title: "Ciné-Club moi j'vous dis #04"
 description:
-  "Au sommaire du mois : {The King's Speech}, {Black Swan}, {Incendies}, {How Do
-  You Know} et {Halal, Police d'Etat}"
+  "Au sommaire du mois : The King's Speech, Black Swan, Incendies, How Do You
+  Know et Halal, Police d’Etat"
 authors:
   - Dirty Henry
 wordpress_id: 798

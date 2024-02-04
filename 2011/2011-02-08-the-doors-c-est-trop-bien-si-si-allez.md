@@ -21,9 +21,9 @@ comments:
     title: The Doors, c'est trop bien ? Si, si, allez !
     content:
       "Génial cet article! \r\nVrai et bien dit! \r\n\r\nJ'aime bien la musique
-      des Doors ({love me two times} et {people are strange} surtout) mais je
-      leur trouve les mêmes défauts que ceux que tu as pointés ici. Merci pour
-      cette vérité sans ambages. "
+      des Doors (love me two times et people are strange surtout) mais je leur
+      trouve les mêmes défauts que ceux que tu as pointés ici. Merci pour cette
+      vérité sans ambages. "
   - author: Dirty Henry
     author_email: dirtyhenry@gmail.com
     date: 2011-02-09 10:23:31 +0100

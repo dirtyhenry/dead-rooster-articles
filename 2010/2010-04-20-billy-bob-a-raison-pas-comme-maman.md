@@ -2,7 +2,7 @@
 layout: post
 title: Billy Bob a raison. Pas comme Maman…
 description:
-  Le titre de la semaine est la {Maman a tort}, de Mylène Farmer. Joe et Hervé
+  Le titre de la semaine est la Maman a tort, de Mylène Farmer. Joe et Hervé
   l'avaient.
 authors:
   - Dirty Henry

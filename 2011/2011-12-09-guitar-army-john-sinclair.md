@@ -2,10 +2,10 @@
 layout: post
 title: Guitar Army - John Sinclair
 excerpt: >-
-  Vous connaissez sûrement {John Sinclair}, cette chanson de John Lennon qui
-  fait « Gotta, gotta, gotta, gotta, gotta, gotta, gotta, gotta, gotta, gotta,
-  gotta, gotta, gotta, gotta, gotta set him free ». Il est l'heure de faire plus
-  ample connaissance avec ce fameux John Sinclair.
+  Vous connaissez sûrement John Sinclair, cette chanson de John Lennon qui fait
+  « Gotta, gotta, gotta, gotta, gotta, gotta, gotta, gotta, gotta, gotta, gotta,
+  gotta, gotta, gotta, gotta set him free ». Il est l'heure de faire plus ample
+  connaissance avec ce fameux John Sinclair.
 category: Le bouquin
 authors:
   - Dirty Henry

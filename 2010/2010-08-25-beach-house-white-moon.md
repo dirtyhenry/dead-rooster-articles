@@ -2,7 +2,7 @@
 layout: post
 title: Beach House - White Moon
 description:
-  Le groupe de Baltimore propose d'écouter un nouveau titre, {White Moon}, sur
+  Le groupe de Baltimore propose d'écouter un nouveau titre, White Moon, sur
   SoundCloud.
 authors:
   - Dirty Henry

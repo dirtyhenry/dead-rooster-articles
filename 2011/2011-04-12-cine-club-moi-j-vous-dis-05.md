@@ -2,8 +2,8 @@
 layout: post
 title: "Ciné-Club moi j'vous dis #05"
 description:
-  "Au sommaire du mois : {Rusty James}, {Personnel et Confidentiel}, {Chez
-  Gino}, {The Fighter} et {L'étrange affaire Angelica}"
+  "Au sommaire du mois : Rusty James, Personnel et Confidentiel, Chez Gino, The
+  Fighter et L'étrange affaire Angelica"
 authors:
   - Dirty Henry
 wordpress_id: 824

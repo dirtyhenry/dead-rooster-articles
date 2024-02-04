@@ -17,7 +17,7 @@ comments:
     title: Creedence Clearwater Revival
     content:
       C'est Gérard Rinaldi des Charlots à gauche sur la photo non ? (le mec de
-      {Marc et Sophie} quoi…)
+      Marc et Sophie quoi…)
   - author: Julio
     author_email: ""
     date: 2011-04-30 14:53:31 +0200

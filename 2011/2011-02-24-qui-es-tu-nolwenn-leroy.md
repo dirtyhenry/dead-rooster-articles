@@ -19,7 +19,7 @@ comments:
     title: Qui es-tu Nolwenn Leroy ?
     content:
       Gainsbourg se foutait déjà de la gueule de France Gall en lui faisant
-      chanter {Les Sucettes à l'Anis}, voilà qu'elle pourrit l'émission de
+      chanter Les Sucettes à l'Anis, voilà qu'elle pourrit l'émission de
       l'irréprochable Patrick Fiori ! Non, vraiment, elle pousse le bouchon
       beaucoup trop loin !
   - author: Dirty Henry

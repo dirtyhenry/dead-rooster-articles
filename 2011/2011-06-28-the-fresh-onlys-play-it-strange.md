@@ -4,7 +4,7 @@ title: The Fresh & Onlys - Play It Strange
 description:
   Il y a un mois, Dead Rooster était au Primavera Festival, à Barcelone. Ce
   vendredi-là, en plein milieu d'après-midi, nous regardâmes le concert des
-  Fresh & Onlys, les auteurs du récent {Play It Strange}. Le concert nous
+  Fresh & Onlys, les auteurs du récent Play It Strange. Le concert nous
   convainquit de nous le procurer.
 authors:
   - Dirty Henry
