@@ -5,6 +5,8 @@ authors:
   - Dirty Henry
 wordpress_id: 1088
 date: "2012-08-09 08:00:00 +0200"
+tags:
+  - Sleater-Kinney
 ---
 
 {% youtube xY7TRjAvgvY %}
