@@ -20,8 +20,8 @@ date: 2010-08-31 10:32:55 +0200
 {% youtube dUjxSRlghxw %}
 
 Les reprises sont à la mode ! Après Levis et ses [Pioneer Sessions][i623], Beck
-et son [record club](br26), le AV Club et son [Undercover][i680], c’est au tour
-de Doc Martens de créer sa collec’ de reprises pour fêter ses 50 ans.
+et son record club, le AV Club et son [Undercover][i680], c’est au tour de Doc
+Martens de créer sa collec’ de reprises pour fêter ses 50 ans.
 
 Duke Spirit, Black Rebel Motorcycle Club sont au programme, ainsi que les
 Raveonettes qui reprennent ici le _I Wanna Be Adored_ des Stone Roses ([dont
