@@ -20,15 +20,15 @@ Les **Smashing Pumpkins** sont de retour ! Après la calamiteuse tournée de 20
 (le pire concert de la Route Du Rock cette année là), **Billy Corgan** annonce
 le retour du groupe (avec Jimmy Chamberlain ?) pour la sortie de 44 (!) titres
 qui seront tous diffusés gratuitement et qui seront inspirés par… le tarot.
-L'oeuvre s'intitulera _Teargarden by Kaleidyscope_. On aurait pu diffuser cette
+L’oeuvre s’intitulera _Teargarden by Kaleidyscope_. On aurait pu diffuser cette
 brève dans le monde va mal, non ?
 
-**EDIT.** On me glisse à l'oreille que Jimmy Chamberlain n'est plus une
-citrouille et qu'il a été remplacé par un jeune batteur de 19 ans, Mike Byrne.
+**EDIT.** On me glisse à l’oreille que Jimmy Chamberlain n’est plus une
+citrouille et qu’il a été remplacé par un jeune batteur de 19 ans, Mike Byrne.
 Je vous invite également à jeter un cil sur la conclusion de la news sur
 [Pitchfork][1], bien marrante :
 
-> To put this in perspective: Byrne was 13 in 2003. That Zwan album must've had
+> To put this in perspective: Byrne was 13 in 2003. That Zwan album must’ve had
 > a big effect on him!
 
 [1]:

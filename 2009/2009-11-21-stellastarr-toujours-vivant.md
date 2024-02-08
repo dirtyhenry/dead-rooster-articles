@@ -5,7 +5,7 @@ date: "2009-11-21 14:14:16 +0100"
 comments: []
 ---
 
-Je viens d'apprendre que **stellastarr\*** a sorti un 3ème album en juillet. Pas
+Je viens d’apprendre que **stellastarr\*** a sorti un 3ème album en juillet. Pas
 de presse, pas de distribution française (mais quand même disponible en import,
 faut pas déconner), pas de nouveau titre sur leur MySpace ni sur Spotify, pas de
 date européenne, il faut lutter pour avoir accès à leur musique !

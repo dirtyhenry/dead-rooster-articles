@@ -5,7 +5,7 @@ tags:
   - Blur
 ---
 
-Malgré le départ de Graham Coxon, Blur vient d'annoncer qu'il y aura bien un
+Malgré le départ de Graham Coxon, Blur vient d’annoncer qu’il y aura bien un
 8ème album de Blur malgré ce qui avait été annoncé précédemment (pas de nouvel
-album si Graham ne revenait pas). L'album devrait sortir en 2006 et sera
-probablement précédé d'un single à sortir fin 2005.
+album si Graham ne revenait pas). L’album devrait sortir en 2006 et sera
+probablement précédé d’un single à sortir fin 2005.

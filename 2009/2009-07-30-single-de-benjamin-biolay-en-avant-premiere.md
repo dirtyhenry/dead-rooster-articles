@@ -6,7 +6,7 @@ tags:
   - Benjamin Biolay
 ---
 
-**Benjamin Biolay** offre un MP3, _La Superbe_, de l'album éponyme à paraître en
+**Benjamin Biolay** offre un MP3, _La Superbe_, de l’album éponyme à paraître en
 octobre. A télécharger sur [son site internet][1].
 
 Des cordes, du chanté-parlé, des choeurs féminins, du Biolay classique mais

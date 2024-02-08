@@ -5,8 +5,8 @@ date: "2009-10-17 16:03:48 +0200"
 ---
 
 [**La Panique au Mangin Palace**][1] est une émission hebdomadaire de France
-Inter (tous les dimanche à 11h) et c'est un peu ce qu'il se fait de plus
-marrant : à la radio c'est sûr et tous médias confondus c'est probable.
+Inter (tous les dimanche à 11h) et c’est un peu ce qu’il se fait de plus
+marrant : à la radio c’est sûr et tous médias confondus c’est probable.
 
 Voici un extrait du traitement G20 à la sauce panique :
 
@@ -15,6 +15,6 @@ Voici un extrait du traitement G20 à la sauce panique :
   Your browser does not support the audio element.
 </audio>
 
-L'émission est disponible en podcast et je vous le recommande.
+L’émission est disponible en podcast et je vous le recommande.
 
 [1]: https://fr.wikipedia.org/wiki/Panique_au_Mangin_Palace

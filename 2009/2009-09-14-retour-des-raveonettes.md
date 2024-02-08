@@ -6,7 +6,7 @@ tags:
   - The Raveonettes
 ---
 
-Après avoir prouvé qu'[on pouvait faire du rock en danois sur son album
+Après avoir prouvé qu’[on pouvait faire du rock en danois sur son album
 solo][1], Sune Rose Wagner retrouve les **Raveonettes**, qui sortiront le 5
 octobre leur 4ème album, _In And Out Of Control_. Le single _Last Dance_ est [en
 écoute][2].

@@ -10,7 +10,7 @@ tags:
 Apparemment, Ron Wood est sur le [départ forcé des Rolling Stones][1]. Mick
 Jagger apprécierait moyennement ses écarts récents et le remplaçant de Mick
 Taylor depuis 1975 serait même une menace à la tournée que le groupe prévoit
-pour 2010 : les assurances demanderaient trop d'argent pour couvrir les risques
+pour 2010 : les assurances demanderaient trop d’argent pour couvrir les risques
 induits par Ronnie.
 
 Que les intéressés envoient leur CV à Mick Jagger.

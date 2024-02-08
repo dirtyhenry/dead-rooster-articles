@@ -6,7 +6,7 @@ tags:
   - Lightspeed Champion
 ---
 
-Les 2 sont des génies. Mais lequel est le meilleur d'entre nous ? François Morel
+Les 2 sont des génies. Mais lequel est le meilleur d’entre nous ? François Morel
 et sa blague du homard ou Lightspeed Champion et son hommage aux 75 ans du
 King ?
 

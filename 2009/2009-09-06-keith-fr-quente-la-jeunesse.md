@@ -9,6 +9,6 @@ tags:
 Keith Richards, le guitariste des mythiques Rolling Stones, a dévoilé avoir
 récemment travaillé sur des morceaux avec Jack White, guitariste et producteur
 hyperactif (White Stripes, Raconteurs, Dead Weather, etc.). Le grand Keith a
-aussi déclaré qu'il espérait rassembler son groupe en studio pour sortir un
-album l'année prochaine. De là à imaginer que Jack White pourrait en être le
+aussi déclaré qu’il espérait rassembler son groupe en studio pour sortir un
+album l’année prochaine. De là à imaginer que Jack White pourrait en être le
 producteur, on obtient une rumeur assez alléchante.

@@ -5,4 +5,4 @@ date: "2009-05-10 16:41:34 +0200"
 ---
 
 Le site du NME annonce que le groupe va sortir _Back From The Dead_ en juin. Le
-tube de l'été sera-t-il *Jazz Odyssey* ?
+tube de l’été sera-t-il *Jazz Odyssey* ?

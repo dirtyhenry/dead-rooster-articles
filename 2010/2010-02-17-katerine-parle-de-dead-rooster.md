@@ -8,7 +8,7 @@ tags:
 ---
 
 Philippe Katerine - ou du moins le responsable de son compte Facebook - parle de
-Dead Rooster… sur Facebook donc (je l'ai déjà dit ?).
+Dead Rooster… sur Facebook donc (je l’ai déjà dit ?).
 
 Le début de la gloire ? En tout cas, en juste retour des choses, devenez fan de
 Katerine sur Facebook : [facebook.com/philippekaterine][1].

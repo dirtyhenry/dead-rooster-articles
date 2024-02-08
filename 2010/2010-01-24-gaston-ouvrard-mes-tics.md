@@ -7,5 +7,5 @@ category: Chanson du jour
 
 {% youtube EXop0ZDyR_s %}
 
-C'est dimanche, l'heure de faire le bilan de la semaine avec Gaston Ouvrard et
+C’est dimanche, l’heure de faire le bilan de la semaine avec Gaston Ouvrard et
 _Mes Tics_.

@@ -6,8 +6,8 @@ tags:
   - Islands
 ---
 
-Un nouvel extrait du troisième album, intitulé _Vapours_ (en fait, c'est à la
-fois le titre de l'album et du morceau…), est en [téléchargement][1] sur
+Un nouvel extrait du troisième album, intitulé _Vapours_ (en fait, c’est à la
+fois le titre de l’album et du morceau…), est en [téléchargement][1] sur
 Pitchfork. Sortie dans les bac le 22 septembre.
 
 [1]: https://pitchfork.com/news/36316-listen-to-islands-vapours/

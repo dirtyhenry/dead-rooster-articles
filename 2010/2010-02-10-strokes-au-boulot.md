@@ -6,5 +6,5 @@ tags:
   - The Strokes
 ---
 
-Voilà l'image qu'on trouve sur leur site officiel. Fab Moretti espère que le
+Voilà l’image qu’on trouve sur leur site officiel. Fab Moretti espère que le
 nouvel opus, produit par Joe Chiccarelli sortira en septembre.

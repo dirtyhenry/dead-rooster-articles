@@ -8,7 +8,7 @@ comments: []
 ---
 
 La chanson de cette semaine pour **Katerine, Francis et ses peintres** est
-_Quand un vicomte_… qu'Hervé avait pronostiqué en 3ème choix, il marque donc 3
+_Quand un vicomte_… qu’Hervé avait pronostiqué en 3ème choix, il marque donc 3
 points et un classement existe pour le concours :
 
 - 1. Hervé, 3pts

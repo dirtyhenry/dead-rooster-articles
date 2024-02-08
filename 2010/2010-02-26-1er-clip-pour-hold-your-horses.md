@@ -7,7 +7,7 @@ date: "2010-02-26 15:25:00 +0100"
 {% youtube erbd9cZpxps %}
 
 Le groupe parisien, déjà croisé ici ou là [sur la toile][1], vient de diffuser
-son premier clip, pour l'excellent titre _70 Million_, produit par [L'Ogre][2].
+son premier clip, pour l’excellent titre _70 Million_, produit par [L’Ogre][2].
 
 **Hold Your Horses!** a 2 dates de concert déjà planifiées pour les semaines à
 venir :

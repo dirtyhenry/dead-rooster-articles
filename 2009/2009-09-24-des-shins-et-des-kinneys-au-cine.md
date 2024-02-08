@@ -13,7 +13,7 @@ chemin inverse. **Carrie Brownstein** (du défunt [Sleater-Kinney][1]) et **Jame
 Mercer** (chanteur des Shins) tiennent les premiers rôles du film _Some Days Are
 Better Than Others_ dont voici le trailer. Comme le dit Pitchfork, ça sent les
 plages sous la pluie, les chiens dans les voitures et les regards plaintifs à
-travers les vitres de bus… Aucune date de sortie française n'est prévue pour le
+travers les vitres de bus… Aucune date de sortie française n’est prévue pour le
 moment : Allociné ne parle même pas du film.
 
 [i1]:

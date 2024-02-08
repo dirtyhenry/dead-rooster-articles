@@ -8,7 +8,7 @@ tags:
 
 **Lightspeed Champion** a un nouveau site internet ! Pour fêter ça, [il offre un
 MP3 à tout nouvel inscrit][1]. Heavy Purple sera à recommander seulement à ceux
-qui rêvent d'une intro laissant espérer Morricone mais se poursuivant par du
+qui rêvent d’une intro laissant espérer Morricone mais se poursuivant par du
 Prince/Lenny Kravitz et finissant par du Visage. [Le bougre nous avait habitué à
 mieux que ça][i1].
 

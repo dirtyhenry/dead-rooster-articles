@@ -6,9 +6,9 @@ tags:
   - She & Him
 ---
 
-[Ils auraient dû venir en novembre 2008][i1] défendre [l'album de l'année][i2].
+[Ils auraient dû venir en novembre 2008][i1] défendre [l’album de l’année][i2].
 Ils avaient annulé mais on a enfin une seconde chance de les rencontrer. **She &
-Him** seront en concert à Paris, à l'Alhambra, le 29 avril.
+Him** seront en concert à Paris, à l’Alhambra, le 29 avril.
 
 Pour ceux qui veulent se faire une chouette semaine concert, il y aura le Brian
 Jonestown Massacre le 27, et [Nada Surf le 28][i3].

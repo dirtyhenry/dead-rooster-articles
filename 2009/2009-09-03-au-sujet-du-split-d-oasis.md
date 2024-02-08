@@ -8,10 +8,10 @@ tags:
 
 {% youtube Q6IyGAvbOs4 %}
 
-Le temps d'encaisser la déception du split d'Oasis annoncé lors de Rock en
+Le temps d’encaisser la déception du split d’Oasis annoncé lors de Rock en
 Seine, et voilà plusieurs trucs pour se consoler…
 
-Une vidéo où un nazi célèbre apprend la triste nouvelle, ainsi que l'[excellente
+Une vidéo où un nazi célèbre apprend la triste nouvelle, ainsi que l’[excellente
 interview][1] que les frères Gallagher avaient donné aux Inrocks et Emmanuel
 Tellier en 1994.
 

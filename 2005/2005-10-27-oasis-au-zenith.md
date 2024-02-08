@@ -7,10 +7,10 @@ tags:
 ---
 
 Excellent concert de Oasis hier soir au Zénith ! La 1ère partie, The Coral, un
-peu décevante (son pourri qui ne permettait pas d'apprécier les arrangements
+peu décevante (son pourri qui ne permettait pas d’apprécier les arrangements
 subtils du groupe et surtout, le guitariste a-t-il changé ?) a vite laissé place
-aux monstres Oasis, auteurs d'une performance probablement meilleure que celle
-de l'Olympia quelques mois auparavant.
+aux monstres Oasis, auteurs d’une performance probablement meilleure que celle
+de l’Olympia quelques mois auparavant.
 
 [La tracklist][1]
 
@@ -30,9 +30,9 @@ de l'Olympia quelques mois auparavant.
 
 Rappel :
 
-1. _Guess God Thinks I'm Abel_
+1. _Guess God Thinks I’m Abel_
 1. _The Meaning of Soul_
-1. _Don't Look Back in Anger_
+1. _Don’t Look Back in Anger_
 1. _My Generation_
 
 [1]:

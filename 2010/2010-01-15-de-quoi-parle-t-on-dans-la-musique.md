@@ -4,7 +4,7 @@ wordpress_id: 117
 date: "2010-01-15 14:19:22 +0100"
 ---
 
-Quel genre musical parle le plus d'oeil, de fesse ou de doigt de pied ? La
+Quel genre musical parle le plus d’oeil, de fesse ou de doigt de pied ? La
 réponse ici : [fleshmap.com][1]
 
 [1]:

@@ -4,7 +4,7 @@ wordpress_id: 141
 date: "2010-02-23 17:38:07 +0100"
 ---
 
-Le très bon site [**Stereogum**][1] propose aujourd'hui de découvrir ([et
+Le très bon site [**Stereogum**][1] propose aujourd’hui de découvrir ([et
 télécharger][2]) _Thieves_, un second titre de _Volume 2_, qui paraîtra le 23
 mars.
 

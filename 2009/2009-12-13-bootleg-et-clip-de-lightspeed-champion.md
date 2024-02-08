@@ -7,9 +7,9 @@ tags:
 comments: []
 ---
 
-**Lightspeed Champion** a décidé d'enregistrer des chansons plutôt que passer
+**Lightspeed Champion** a décidé d’enregistrer des chansons plutôt que passer
 son temps sur Facebook et il nous offre déjà un EP enregistré chez lui en mai
-2009, baptisé _House-Sitting Songs_ et il en promet beaucoup d'autres.
+2009, baptisé _House-Sitting Songs_ et il en promet beaucoup d’autres.
 
 En outre, tourné dans la Death Valley, voici le clip de Marlene, le single de
 son prochain album à sortir en février.

@@ -7,11 +7,11 @@ tags:
 comments: []
 ---
 
-Arnaud Fleurent-Didier avait lancé l'exercice de style du [bilan en chanson
-pop][i1]. **Benjamin Biolay** s'y colle à son tour, accompagné de Jeanne Cherhal
+Arnaud Fleurent-Didier avait lancé l’exercice de style du [bilan en chanson
+pop][i1]. **Benjamin Biolay** s’y colle à son tour, accompagné de Jeanne Cherhal
 dans le titre [_Brandt Rhapsodie_][1].
 
-L'album [_La Superbe_][2], inégal, vient de sortir.
+L’album [_La Superbe_][2], inégal, vient de sortir.
 
 [http://www.deezer.com/listen-4217531->http://www.deezer.com/listen-4217531]
 

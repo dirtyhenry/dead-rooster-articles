@@ -7,7 +7,7 @@ tags:
 ---
 
 La chanson de cette semaine pour **Katerine, Francis et ses peintres** est
-[_Partir un jour_]… qu'Hervé avait (encore !) pronostiqué en 5ème choix.
+[_Partir un jour_]… qu’Hervé avait (encore !) pronostiqué en 5ème choix.
 
 - 1. Hervé, 6pts
 - 2. Le reste du monde à 0 pt

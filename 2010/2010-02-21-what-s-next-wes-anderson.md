@@ -9,10 +9,10 @@ tags:
 comments: []
 ---
 
-OK, _Fantastic Mr. Fox_ est sorti et est une belle réussite. What's next ?
+OK, _Fantastic Mr. Fox_ est sorti et est une belle réussite. What’s next ?
 
-Du côté de **Wes Anderson**, le seul projet futur abordé sur Internet serait un
-remake de _Mon meilleur ami_, de Patrice Leconte. Si le souvenir de l'original
+Du côté de **Wes Anderson**, le seul projet futur abordé sur internet serait un
+remake de _Mon meilleur ami_, de Patrice Leconte. Si le souvenir de l’original
 est gênant, [la relecture du pitch redonne espoir][1] : ça sonne comme du bon
 matériau andersonien.
 

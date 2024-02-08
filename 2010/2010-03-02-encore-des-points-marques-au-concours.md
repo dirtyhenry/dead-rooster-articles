@@ -7,8 +7,8 @@ tags:
 ---
 
 La chanson de cette semaine pour **Katerine, Francis et ses peintres** est
-_Assez Super_… qu'Hervé avait (encore !) pronostiqué en 4ème choix. M'est donc
-avis qu'Hervé est dans les petits papiers du projet de Katerine, mais qu'à cela
+_Assez Super_… qu’Hervé avait (encore !) pronostiqué en 4ème choix. M’est donc
+avis qu’Hervé est dans les petits papiers du projet de Katerine, mais qu’à cela
 ne tienne, il marque 2 nouveaux points.
 
 - 1. Hervé, 5pts

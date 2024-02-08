@@ -12,9 +12,9 @@ Pour ceux qui ne les connaissent pas, les Kinks sont un groupe majeur des 60s,
 aux textes très soignés signés **Ray Davies**, dont les titres les plus connus
 sont [_You Really Got Me_][1], [_Waterloo Sunset_][2] ou [_Sunny Afternoon_][3].
 
-Quand on sait que [les Kinks n'ont jusqu'à maintenant jamais déçu][i1],
-difficile de savoir s'il faut se réjouir ou pas de la nouvelle… Espérons
-simplement qu'une tournée aura lieu dans la foulée !
+Quand on sait que [les Kinks n’ont jusqu’à maintenant jamais déçu][i1],
+difficile de savoir s’il faut se réjouir ou pas de la nouvelle… Espérons
+simplement qu’une tournée aura lieu dans la foulée !
 
 [i1]: {% post_url 2008/2008-04-15-supergrass-diamond-hoo-ha %}
 

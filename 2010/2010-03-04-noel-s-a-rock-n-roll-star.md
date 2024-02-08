@@ -11,11 +11,11 @@ comments: []
 
 {% youtube escCvxD02PE %}
 
-Une version acoustique de _Rock'n'Roll Star_, par **Noel Gallagher** vient de
+Une version acoustique de _Rock’n’Roll Star_, par **Noel Gallagher** vient de
 paraître sur le net.
 
-Outre le fait que, [selon Liam, le split d'Oasis a permis à Manchester City
-d'avoir de meilleurs résultats][1], on peut aussi espérer un brillant premier
+Outre le fait que, [selon Liam, le split d’Oasis a permis à Manchester City
+d’avoir de meilleurs résultats][1], on peut aussi espérer un brillant premier
 album solo de Noel dans les mois qui viennent.
 
 [1]:
