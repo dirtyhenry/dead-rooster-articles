@@ -23,7 +23,7 @@ comments:
 
 C’est pas tous les jours qu’on cite ici des œuvres pouvant être cataloguées
 "hip-hop" mais ce nouveau titre de **Cee-Lo** est hyper catchy et finalement
-très cool. On peut même dire que [Cee-Lo est le nouveau Lily Allen](br28).
+très cool. On peut même dire que [Cee-Lo est le nouveau Lily Allen][i28].
 
 Mais par contre, le clip, je le trouve très bien comme ça, pourquoi penser à le
 changer ? (cf. le "Expect a full video for the track next week" sur la page
@@ -33,3 +33,5 @@ ps : le texte de cette chanson n’est pas poli. Merci de ne pas le chanter che
 vous.
 
 {% youtube CAV0XrbEwNc %}
+
+[i28]: {% post_url 2009/2009-06-25-lily-allen-t-emmerde %}

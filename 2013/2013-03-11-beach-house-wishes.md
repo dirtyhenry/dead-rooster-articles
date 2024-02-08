@@ -12,12 +12,14 @@ spectacle offert par Beach House à la mi-temps d’un match de… quidditch ?
 
 {% youtube OS6duOoxctw %}
 
-Revoir [_Wild_][i1157], [_White Moon_][i682], ou
-[réécouter leur session Daytrotter](br126) (où l’on peut entendre _Used To Be_,
-titre du groupe pour lequel on a un gros faible).
+Revoir [_Wild_][i1157], [_White Moon_][i682], ou [réécouter leur session
+Daytrotter][i126] (où l’on peut entendre _Used To Be_, titre du groupe pour
+lequel on a un gros faible).
 
 (via
 [Pitchfork](https://pitchfork.com/news/49829-watch-the-surreal-beach-house-video-for-wishes-directed-by-eric-wareheim-and-starring-ray-wise/))
+
+[i126]: {% post_url 2010/2010-02-02-session-de-beach-house-sur-daytrotter %}
 
 [i1157]: {% post_url 2013/2013-01-09-beach-house-wild %}
 

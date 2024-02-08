@@ -10,6 +10,8 @@ wordpress_id: 700
 cover: dead-rooster-web-compile-1.png
 date: 2010-09-13 15:12:58 +0200
 category: Compile MP3 du NET
+tags:
+  - Sleater-Kinney
 playlist:
   - artist: Young Man
     title: Fate

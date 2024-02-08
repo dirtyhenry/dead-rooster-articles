@@ -29,6 +29,6 @@ Personne ne marque de point cette semaine. Le classement reste donc inchangé :
 - 2. Rodrigue, 5pts
 - 3. Le reste du monde à 0 pt
 
-[i583]: {% post_url 2010/2010-03-30-le-point-sur-le-concours-katerine %}
+[i583]: {% post_url 2010/2010-03-30-le-point-sur-le-concours-katerine-2 %}
 
 [1]: https://song.link/fr/i/78609231
