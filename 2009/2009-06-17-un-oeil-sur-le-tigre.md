@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Un oeil sur le Tigre
 wordpress_id: 21
 date: "2009-06-17 18:16:40 +0200"

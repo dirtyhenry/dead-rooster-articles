@@ -1,4 +1,5 @@
 ---
+layout: post
 title: MP3 des Soundtrack of Our Lives
 wordpress_id: 12
 date: "2009-05-23 12:16:31 +0200"

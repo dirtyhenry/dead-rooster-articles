@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 8e album annoncé par Blur
 date: "2005-10-29 00:00:00 +0200"
 tags:

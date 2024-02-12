@@ -1,4 +1,5 @@
 ---
+layout: post
 title: De quoi parle-t-on dans la musique ?
 wordpress_id: 117
 date: "2010-01-15 14:19:22 +0100"

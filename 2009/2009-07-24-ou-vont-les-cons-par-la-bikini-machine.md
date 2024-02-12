@@ -1,4 +1,5 @@
 ---
+layout: post
 title: '"Où vont les cons" par la Bikini Machine'
 wordpress_id: 48
 date: "2009-07-24 14:07:35 +0200"

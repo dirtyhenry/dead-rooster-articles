@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Des hauts et des bas
 wordpress_id: 63
 date: "2009-09-08 00:03:48 +0200"

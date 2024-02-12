@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Hervé score encore sur Partir un jour
 wordpress_id: 150
 date: "2010-03-10 11:10:36 +0100"

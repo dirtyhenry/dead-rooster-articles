@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Nouvel album de Jay Reatard
 wordpress_id: 16
 date: "2009-05-27 23:50:25 +0200"

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Eels : nouveau clip, nouvel album"
 wordpress_id: 78
 date: "2009-10-14 23:50:54 +0200"

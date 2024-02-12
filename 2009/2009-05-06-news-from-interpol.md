@@ -1,4 +1,5 @@
 ---
+layout: post
 title: News from Interpol
 wordpress_id: 2
 date: "2009-05-06 12:18:16 +0200"

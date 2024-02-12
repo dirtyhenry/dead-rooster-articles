@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Pixies en France, finalement !
 wordpress_id: 31
 date: "2009-06-30 19:30:02 +0200"

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Apéro Tricatel
 wordpress_id: 56
 date: "2009-08-24 11:11:00 +0200"

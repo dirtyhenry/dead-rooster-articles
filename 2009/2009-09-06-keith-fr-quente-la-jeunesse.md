@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Keith fréquente la jeunesse
 wordpress_id: 62
 date: "2009-09-06 12:07:06 +0200"

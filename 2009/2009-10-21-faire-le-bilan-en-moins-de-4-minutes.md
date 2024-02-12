@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Faire le bilan en moins de 4 minutes
 wordpress_id: 82
 date: "2009-10-21 14:08:14 +0200"

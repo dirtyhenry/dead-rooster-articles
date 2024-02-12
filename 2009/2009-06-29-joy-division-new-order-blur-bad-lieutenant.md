@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Joy Division/New Order + Blur = Bad Lieutenant
 wordpress_id: 30
 date: "2009-06-29 15:28:53 +0200"

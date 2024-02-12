@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Neil Young remplace Will Smith
 wordpress_id: 94
 date: "2009-11-24 23:57:58 +0100"

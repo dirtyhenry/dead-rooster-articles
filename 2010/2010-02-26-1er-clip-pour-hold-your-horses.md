@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 1er clip pour Hold Your Horses!
 wordpress_id: 143
 date: "2010-02-26 15:25:00 +0100"

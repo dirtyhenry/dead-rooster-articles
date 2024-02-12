@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Le ciel peut attendre
 wordpress_id: 92
 date: "2009-11-20 13:22:16 +0100"

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Dylan mashupé : pour le meilleur et pour le pire"
 wordpress_id: 34
 date: "2009-07-08 23:55:36 +0200"

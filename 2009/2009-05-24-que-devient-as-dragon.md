@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Que devient A.S Dragon ?
 wordpress_id: 14
 date: "2009-05-24 16:06:30 +0200"

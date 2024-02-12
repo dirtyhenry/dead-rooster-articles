@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Houllier est vachement marrant !
 wordpress_id: 42
 date: "2005-10-31 00:00:00 +0100"

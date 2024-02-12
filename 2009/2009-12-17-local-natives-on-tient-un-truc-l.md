@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Local Natives ? On tient un truc là…
 wordpress_id: 104
 date: "2009-12-17 00:46:11 +0100"

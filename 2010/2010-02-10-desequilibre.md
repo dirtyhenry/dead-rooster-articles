@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Déséquilibré
 wordpress_id: 131
 date: "2010-02-10 10:56:57 +0100"

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: What's next Wes Anderson ?
 wordpress_id: 138
 date: "2010-02-21 23:26:15 +0100"

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Belle and Dark Night of the Sebastian
 wordpress_id: 147
 date: "2010-03-05 00:31:55 +0100"

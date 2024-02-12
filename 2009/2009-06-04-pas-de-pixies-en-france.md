@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Pas de Pixies en France
 wordpress_id: 18
 date: "2009-06-04 11:41:40 +0200"

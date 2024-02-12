@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Réhabilitation du comique troupier
 wordpress_id: 123
 date: "2010-01-24 12:02:11 +0100"

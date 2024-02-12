@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Nécrologie
 wordpress_id: 6
 date: "2009-05-13 18:24:59 +0200"

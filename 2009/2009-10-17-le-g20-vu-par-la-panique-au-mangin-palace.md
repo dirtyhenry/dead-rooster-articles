@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Le G20 vu par la panique au mangin palace
 wordpress_id: 79
 date: "2009-10-17 16:03:48 +0200"

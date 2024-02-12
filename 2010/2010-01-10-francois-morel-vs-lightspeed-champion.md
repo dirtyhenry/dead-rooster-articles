@@ -1,4 +1,5 @@
 ---
+layout: post
 title: François Morel vs. Lightspeed Champion
 wordpress_id: 115
 date: "2010-01-10 12:52:29 +0100"

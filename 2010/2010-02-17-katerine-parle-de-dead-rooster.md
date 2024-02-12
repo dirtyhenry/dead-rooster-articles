@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Katerine parle de Dead Rooster
 wordpress_id: 136
 date: "2010-02-17 23:42:18 +0100"

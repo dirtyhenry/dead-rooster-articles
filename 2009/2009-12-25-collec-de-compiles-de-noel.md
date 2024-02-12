@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Collec' de compiles de Noël
 wordpress_id: 107
 date: "2009-12-25 15:21:35 +0100"

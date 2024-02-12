@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Des concerts
 wordpress_id: 44
 date: "2005-12-30 00:00:00 +0100"

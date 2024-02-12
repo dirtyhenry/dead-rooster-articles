@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "The Kinks reunion : comment réagir ?"
 wordpress_id: 149
 date: "2010-03-09 18:14:18 +0100"

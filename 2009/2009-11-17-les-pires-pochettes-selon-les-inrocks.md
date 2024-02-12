@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Les pires pochettes selon Les Inrocks
 wordpress_id: 91
 date: "2009-11-17 15:51:52 +0100"

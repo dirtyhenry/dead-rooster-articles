@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Au sujet du split d'Oasis
 wordpress_id: 60
 date: "2009-09-03 19:41:08 +0200"

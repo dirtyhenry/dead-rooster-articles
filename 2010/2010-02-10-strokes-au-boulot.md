@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Strokes au boulot
 wordpress_id: 132
 date: "2010-02-10 23:56:49 +0100"

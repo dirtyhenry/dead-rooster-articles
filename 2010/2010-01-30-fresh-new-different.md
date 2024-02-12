@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Fresh, new, different
 wordpress_id: 125
 date: "2010-01-30 12:53:42 +0100"

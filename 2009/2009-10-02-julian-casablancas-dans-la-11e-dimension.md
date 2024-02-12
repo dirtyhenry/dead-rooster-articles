@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Julian Casablancas dans la 11ème dimension
 wordpress_id: 73
 date: "2009-10-02 17:16:18 +0200"

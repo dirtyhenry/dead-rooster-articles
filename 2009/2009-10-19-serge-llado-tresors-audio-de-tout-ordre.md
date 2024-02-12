@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Serge Llado : trésors audio de tout ordre"
 wordpress_id: 81
 date: "2009-10-19 22:53:43 +0200"

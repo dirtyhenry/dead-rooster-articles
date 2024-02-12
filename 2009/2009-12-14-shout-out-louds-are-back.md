@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Shout Out Louds are back
 wordpress_id: 103
 date: "2009-12-14 21:36:16 +0100"

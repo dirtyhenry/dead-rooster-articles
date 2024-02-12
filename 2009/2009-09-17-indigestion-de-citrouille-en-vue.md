@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Indigestion de citrouille en vue
 wordpress_id: 68
 date: "2009-09-17 17:12:50 +0200"

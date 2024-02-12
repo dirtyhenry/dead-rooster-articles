@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Des nouvelles de Matthew Cavs (Nada Surf)
 wordpress_id: 74
 date: "2009-10-08 14:49:54 +0200"

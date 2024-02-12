@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Bootleg et clip de Lightspeed Champion
 wordpress_id: 102
 date: "2009-12-13 12:55:08 +0100"

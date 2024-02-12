@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Des points marqués au concours
 wordpress_id: 139
 date: "2010-02-23 00:03:18 +0100"

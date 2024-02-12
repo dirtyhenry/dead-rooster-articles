@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Bande annonce "500 jours ensemble"
 wordpress_id: 57
 date: "2009-08-26 12:07:59 +0200"

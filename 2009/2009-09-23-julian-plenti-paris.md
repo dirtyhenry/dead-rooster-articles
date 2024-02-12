@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Julian Plenti à Paris
 wordpress_id: 70
 date: "2009-09-23 17:01:08 +0200"

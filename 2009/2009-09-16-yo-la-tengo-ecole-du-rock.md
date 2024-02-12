@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Yo La Tengo à l'école du rock
 wordpress_id: 67
 date: "2009-09-16 08:31:47 +0200"

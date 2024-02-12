@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Lightspeed Champion fait peur
 wordpress_id: 88
 date: "2009-11-09 23:02:33 +0100"

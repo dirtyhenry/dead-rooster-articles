@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Morel et les people
 wordpress_id: 109
 date: "2009-12-28 10:55:20 +0100"

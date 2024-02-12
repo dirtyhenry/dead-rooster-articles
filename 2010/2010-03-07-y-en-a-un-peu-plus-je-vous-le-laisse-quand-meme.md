@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Y en a un peu plus, je vous le laisse quand même ?
 wordpress_id: 148
 date: "2010-03-07 15:54:44 +0100"

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Retour des Raveonettes
 wordpress_id: 66
 date: "2009-09-14 22:47:52 +0200"

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Jay Reatard encore en avance
 wordpress_id: 35
 date: "2009-07-10 01:29:48 +0200"

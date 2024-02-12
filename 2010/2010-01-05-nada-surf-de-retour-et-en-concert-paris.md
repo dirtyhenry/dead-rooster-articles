@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Nada Surf de retour et en concert à Paris
 wordpress_id: 114
 date: "2010-01-05 22:27:50 +0100"

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Reformeront ? Reformeront pas ?
 wordpress_id: 55
 date: "2009-08-24 11:03:21 +0200"

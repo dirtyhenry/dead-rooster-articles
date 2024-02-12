@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Lightspeed Champion pas au top
 wordpress_id: 47
 date: "2009-07-22 19:44:33 +0200"

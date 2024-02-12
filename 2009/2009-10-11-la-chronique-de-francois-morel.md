@@ -1,4 +1,5 @@
 ---
+layout: post
 title: La chronique de François Morel
 wordpress_id: 76
 date: "2009-10-11 15:36:38 +0200"
