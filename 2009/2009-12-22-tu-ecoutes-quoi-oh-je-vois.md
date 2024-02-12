@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Tu écoutes quoi ? Oh, je vois…
 wordpress_id: 105
 date: "2009-12-22 23:10:00 +0100"

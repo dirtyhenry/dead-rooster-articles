@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Dodos se réveillent
 wordpress_id: 37
 date: "2009-07-16 16:11:42 +0200"

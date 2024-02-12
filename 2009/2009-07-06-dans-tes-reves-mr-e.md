@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Dans tes rêves Mr. E!
 wordpress_id: 32
 date: "2009-07-06 00:02:03 +0200"

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Animation sur "I'm a creep"
 wordpress_id: 53
 date: "2009-08-07 14:52:17 +0200"

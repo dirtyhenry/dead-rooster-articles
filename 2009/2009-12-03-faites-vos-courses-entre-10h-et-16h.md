@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Faites vos courses entre 10h et 16h !
 wordpress_id: 98
 date: "2009-12-03 18:46:30 +0100"

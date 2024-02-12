@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Dernière chance ?
 wordpress_id: 20
 date: "2009-06-16 15:41:34 +0200"

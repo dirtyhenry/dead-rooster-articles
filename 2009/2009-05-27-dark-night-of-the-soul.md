@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Dark night of the soul
 wordpress_id: 15
 date: "2009-05-27 00:03:20 +0200"

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Dodo épileptique
 wordpress_id: 97
 date: "2009-12-02 08:28:18 +0100"

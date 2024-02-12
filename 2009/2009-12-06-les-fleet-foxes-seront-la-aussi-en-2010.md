@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Les Fleet Foxes seront là aussi en 2010
 wordpress_id: 99
 date: "2009-12-06 15:39:37 +0100"

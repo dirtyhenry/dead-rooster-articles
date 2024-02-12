@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Des précisions sur Julian Plenti
 wordpress_id: 11
 date: "2009-05-23 11:54:49 +0200"

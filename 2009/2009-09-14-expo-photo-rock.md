@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Expo photo rock
 wordpress_id: 65
 tags:

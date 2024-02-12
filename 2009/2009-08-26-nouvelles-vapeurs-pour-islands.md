@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Nouvelles vapeurs pour Islands
 wordpress_id: 59
 date: "2009-08-26 15:17:55 +0200"

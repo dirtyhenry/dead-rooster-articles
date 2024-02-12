@@ -1,4 +1,5 @@
 ---
+layout: post
 title: La vérité au malade ?
 wordpress_id: 90
 date: "2009-11-16 19:00:13 +0100"

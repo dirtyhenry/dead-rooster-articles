@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Boneless Symphonique
 wordpress_id: 72
 date: "2009-09-30 11:36:37 +0200"

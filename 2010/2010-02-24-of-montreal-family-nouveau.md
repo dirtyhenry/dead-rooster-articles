@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "of Montreal: Family Nouveau"
 wordpress_id: 142
 date: "2010-02-24 17:10:26 +0100"

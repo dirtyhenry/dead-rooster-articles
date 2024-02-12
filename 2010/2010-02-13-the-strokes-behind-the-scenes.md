@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Strokes, behind the scenes
 wordpress_id: 134
 date: "2010-02-13 12:41:28 +0100"

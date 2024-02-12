@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Nouveautés concert
 wordpress_id: 9
 date: "2009-05-18 11:18:00 +0200"

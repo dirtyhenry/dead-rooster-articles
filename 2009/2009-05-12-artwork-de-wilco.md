@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Artwork de Wilco
 wordpress_id: 5
 date: "2009-05-12 15:49:33 +0200"

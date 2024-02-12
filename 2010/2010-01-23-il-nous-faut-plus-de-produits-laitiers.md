@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Il nous faut plus de produits laitiers
 wordpress_id: 122
 date: "2010-01-23 16:43:29 +0100"

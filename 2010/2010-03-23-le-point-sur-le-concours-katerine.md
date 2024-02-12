@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Le point sur le concours Katerine
 wordpress_id: 156
 date: "2010-03-23 17:35:30 +0100"

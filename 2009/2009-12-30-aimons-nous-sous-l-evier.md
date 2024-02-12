@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Aimons-nous sous l'évier
 wordpress_id: 111
 date: "2009-12-30 11:21:23 +0100"

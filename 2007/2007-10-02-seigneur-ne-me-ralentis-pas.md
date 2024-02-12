@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Seigneur, ne me ralentis pas
 wordpress_id: 108
 date: "2007-10-02 00:00:00 +0200"

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Expo John Lennon, unfinished music
 date: "2005-07-06 00:00:00 +0200"
 ---

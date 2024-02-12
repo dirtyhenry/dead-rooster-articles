@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Thieves de She & Him
 wordpress_id: 141
 date: "2010-02-23 17:38:07 +0100"

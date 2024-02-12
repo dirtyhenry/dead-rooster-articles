@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Nouveautés concert Paris
 wordpress_id: 13
 date: "2009-05-25 00:00:00 +0200"

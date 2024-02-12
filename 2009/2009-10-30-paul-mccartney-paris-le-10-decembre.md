@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Paul McCartney à Paris le 10 décembre
 wordpress_id: 85
 date: "2009-10-30 20:32:51 +0100"

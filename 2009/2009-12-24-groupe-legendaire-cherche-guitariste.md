@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Groupe légendaire cherche guitariste ?
 wordpress_id: 106
 date: "2009-12-24 19:26:38 +0100"

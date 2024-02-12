@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Blood Red Shoes, volume 2
 wordpress_id: 116
 date: "2010-01-12 17:32:30 +0100"

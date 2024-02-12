@@ -1,4 +1,5 @@
 ---
+layout: post
 title: April & Steve le 15 avril 2008
 wordpress_id: 23
 date: "2008-03-06 00:00:00 +0100"

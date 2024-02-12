@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Les reprises de She & Him
 wordpress_id: 100
 date: "2009-12-09 11:20:41 +0100"

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Stellastarr* toujours vivant
 wordpress_id: 93
 date: "2009-11-21 14:14:16 +0100"

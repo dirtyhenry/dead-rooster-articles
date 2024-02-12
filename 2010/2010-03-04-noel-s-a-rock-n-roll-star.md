@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Noel's a Rock'n'Roll Star
 wordpress_id: 146
 date: "2010-03-04 18:11:41 +0100"

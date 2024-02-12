@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Lily Allen t'emmerde !
 wordpress_id: 28
 date: "2009-06-25 23:52:05 +0200"

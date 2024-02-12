@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Une vague odeur de sapin
 wordpress_id: 95
 date: "2009-11-30 12:27:30 +0100"

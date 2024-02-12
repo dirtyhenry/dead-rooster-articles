@@ -1,4 +1,5 @@
 ---
+layout: post
 title: In The Sun de She & Him
 wordpress_id: 124
 date: "2010-01-26 18:52:40 +0100"

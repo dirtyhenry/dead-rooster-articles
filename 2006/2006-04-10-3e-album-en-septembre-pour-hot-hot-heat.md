@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 3ème album en septembre pour Hot Hot Heat
 wordpress_id: 50
 date: "2006-04-10 00:00:00 +0200"

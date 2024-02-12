@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Stop Motion is fashion
 wordpress_id: 33
 date: "2009-07-07 10:40:27 +0200"

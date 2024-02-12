@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Single de Benjamin Biolay en avant-première
 wordpress_id: 52
 date: "2009-07-30 12:22:36 +0200"

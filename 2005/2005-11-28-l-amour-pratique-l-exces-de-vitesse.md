@@ -1,4 +1,5 @@
 ---
+layout: post
 title: L'amour pratique l'excès de vitesse
 wordpress_id: 43
 date: "2005-11-28 00:00:00 +0100"

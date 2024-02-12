@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Suivons le courant…
 wordpress_id: 153
 date: "2010-03-16 09:53:48 +0100"

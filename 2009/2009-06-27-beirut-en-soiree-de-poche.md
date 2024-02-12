@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Beirut en soirée de poche
 wordpress_id: 29
 date: "2009-06-27 20:32:48 +0200"

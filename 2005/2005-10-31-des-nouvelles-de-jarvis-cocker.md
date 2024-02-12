@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Des nouvelles de Jarvis Cocker
 date: "2005-10-31 00:00:00 +0100"
 category: Follow-Up

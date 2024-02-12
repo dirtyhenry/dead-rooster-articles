@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Volume 2 sur les rails
 wordpress_id: 96
 date: "2009-12-01 14:33:07 +0100"

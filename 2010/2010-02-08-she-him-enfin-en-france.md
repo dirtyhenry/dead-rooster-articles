@@ -1,4 +1,5 @@
 ---
+layout: post
 title: She & Him enfin en France !
 wordpress_id: 130
 date: "2010-02-08 14:46:12 +0100"

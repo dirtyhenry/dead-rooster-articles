@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Des Shins et des Kinneys au ciné
 wordpress_id: 71
 date: "2009-09-24 11:32:03 +0200"

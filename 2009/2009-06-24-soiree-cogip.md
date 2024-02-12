@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Soirée Cogip !
 wordpress_id: 27
 date: "2009-06-24 22:26:05 +0200"

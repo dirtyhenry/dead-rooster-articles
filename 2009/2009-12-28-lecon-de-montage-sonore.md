@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Leçon de montage sonore
 wordpress_id: 110
 date: "2009-12-28 22:02:01 +0100"

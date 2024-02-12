@@ -1,4 +1,5 @@
 ---
+layout: post
 title: La musique à la radio
 wordpress_id: 46
 date: "2006-02-28 00:00:00 +0100"

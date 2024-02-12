@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Album solo pour Julian Casablancas
 wordpress_id: 36
 date: "2009-07-16 10:39:04 +0200"

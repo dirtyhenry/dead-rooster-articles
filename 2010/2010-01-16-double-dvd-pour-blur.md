@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Double DVD pour Blur
 wordpress_id: 118
 date: "2010-01-16 18:14:25 +0100"

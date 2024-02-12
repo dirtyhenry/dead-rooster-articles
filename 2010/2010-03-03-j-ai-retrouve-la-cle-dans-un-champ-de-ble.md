@@ -1,4 +1,5 @@
 ---
+layout: post
 title: J'ai retrouvé la clé ! Dans un champ de blé !
 wordpress_id: 145
 date: "2010-03-03 00:40:37 +0100"
