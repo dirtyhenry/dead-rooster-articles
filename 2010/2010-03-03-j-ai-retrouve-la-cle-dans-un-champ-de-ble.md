@@ -7,8 +7,8 @@ tags:
   - The Black Keys
 ---
 
+{% youtube tqVxMSkV9hM %}
+
 Grand retour des **Black Keys** ! Ça sera le 18 mai, via _Brothers_, sixième
 album du duo Garage Punk Blues (selon allmusic…). Allez, pour patienter, on se
 repasse un morceau de *Rubber Factory* :
-
-{% youtube tqVxMSkV9hM %}

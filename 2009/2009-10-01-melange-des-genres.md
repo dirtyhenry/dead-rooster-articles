@@ -5,8 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 532
 date: "2009-10-01 19:20:46 +0200"
-categories:
-  - Artistes
+category: Le monde va mal
 tags:
   - The Black Keys
 cover: puissance-rap.jpg

@@ -27,8 +27,8 @@ lirez :
 > qu’on veut faire, pour les critiques de disque notamment.
 
 C’est désormais chose faite, puisque nous inaugurons aujourd’hui
-[app.deadrooster.org](http://app.deadrooster.org/), qui présentera des critiques
-de disque de façon plus adaptée qu’auparavant.
+[app.deadrooster.org][1], qui présentera des critiques de disque de façon plus
+adaptée qu’auparavant.
 
 Le principe sera le même que celui introduit depuis [octobre][i943] : des
 paquets de 20 disques, avec une critique à l’emporte pièce, et avec une **note
@@ -47,7 +47,7 @@ meilleurs furent :
 - Pepper Rabbit
 - Brando
 - Nada Surf
-- le détail est à lire [à cette adresse](http://app.deadrooster.org/).
+- le détail est à lire [à cette adresse][1].
 
 On retiendra aussi que même si Benjamin Biolay produit les disques d’Isabelle
 Boulay, il ne vaut mieux pas les écouter.
@@ -55,3 +55,5 @@ Boulay, il ne vaut mieux pas les écouter.
 [i943]: {% post_url 2011/2011-11-03-les-disques-d-octobre-2011 %}
 
 [i975]: {% post_url 2011/2011-12-22-la-feuille-de-route-2012-de-dead-rooster %}
+
+[1]: https://app.deadrooster.org/
