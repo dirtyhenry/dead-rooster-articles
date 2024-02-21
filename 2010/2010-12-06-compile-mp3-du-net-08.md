@@ -62,4 +62,4 @@ A noter qu’une reprise de **Pavement** est au programme.
 
 [Réécouter la compile #07][i719]
 
-[i719]: {% post_url 2010/2010-10-25-compile-mp3-du-net-07 %}
+[i719]: https://www.deadrooster.org/compile-mp3-du-net-07/

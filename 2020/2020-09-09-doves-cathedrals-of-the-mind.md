@@ -34,5 +34,4 @@ y a pas mal de temps.
   https://www.franceinter.fr/emissions/very-good-trip/very-good-trip-08-septembre-2020
 [2]: https://open.spotify.com/album/4HihJAJjF6hSVoh318zLu9
 [3]: https://dovesofficial.com
-
-[i1]: {% post_url 2009/2009-10-18-500-nicolas-et-max %}
+[i1]: https://www.deadrooster.org/nicolas-et-max/

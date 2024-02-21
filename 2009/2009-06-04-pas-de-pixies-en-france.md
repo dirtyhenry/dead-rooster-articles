@@ -11,4 +11,4 @@ Suède, l’Allemagne, la Grèce et l’Angleterre sont au programme.
 
 **EDIT.** [Chose réparée][i1].
 
-[i1]: {% post_url 2009/2009-06-30-pixies-en-france-finalement %}
+[i1]: https://www.deadrooster.org/pixies-en-france-finalement/

@@ -27,9 +27,7 @@ Duke Spirit, Black Rebel Motorcycle Club sont au programme, ainsi que les
 Raveonettes qui reprennent ici le _I Wanna Be Adored_ des Stone Roses ([dont
 c’est la seconde reprise mentionnée sur ce site][i598]).
 
-[i623]: {% post_url 2010/2010-06-04-les-levi-s-pioneer-sessions %}
-
+[i623]: https://www.deadrooster.org/les-levi-s-pioneer-sessions/
 [i680]:
-{% post_url 2010/2010-08-12-the-swell-season-two-headed-boy-neutral-milk-hotel %}
-
-[i598]: {% post_url 2010/2010-04-22-codeine-velvet-club-i-am-the-resurrection %}
+  https://www.deadrooster.org/the-swell-season-two-headed-boy-neutral-milk-hotel/
+[i598]: https://www.deadrooster.org/codeine-velvet-club-i-am-the-resurrection/

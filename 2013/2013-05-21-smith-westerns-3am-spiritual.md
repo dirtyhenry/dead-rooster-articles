@@ -13,4 +13,4 @@ Quand on aime, on ne compte pas.
 
 Vous pouvez aussi [réécouter et revoir Varsity][i1192].
 
-[i1192]: {% post_url 2013/2013-03-12-smith-westerns-varsity %}
+[i1192]: https://www.deadrooster.org/smith-westerns-varsity/

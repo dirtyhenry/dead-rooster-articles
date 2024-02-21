@@ -192,5 +192,4 @@ d’albums :
 [9]: https://youtu.be/4OWp0nT9P0Y
 [10]: https://youtu.be/Etu2yx_oEsg
 [11]: https://www.facebook.com/laurentchalumeaupro/posts/3009838602616382
-
-[i225]: {% post_url 2009/2009-05-03-laurent-chalumeau-un-mec-sympa %}
+[i225]: https://www.deadrooster.org/laurent-chalumeau-un-mec-sympa/

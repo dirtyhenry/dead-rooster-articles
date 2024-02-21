@@ -1,17 +1,16 @@
 ---
 layout: post
 title: Du beau, du bon, du Biolay
-description:
-  5ème album (environ, si on excepte les bandes originales de film et les
-  disques avec ses ex) de Benjamin Biolay, La Superbe porte parfaitement son
-  nom. Et malgré les premières impressions (double album, c'est un de trop,
-  non ? 23 titres, c'est 10 de trop, non ?), aucune indigestion n'est finalement
-  à prévoir.
-authors:
-  - Joe Gantdelaine
+author: Joe Gantdelaine
+excerpt: >-
+  Découvrez la critique complète du 5ème album de Benjamin Biolay, "La Superbe".
+  Malgré ses 23 titres et son format double, cet album reste une expérience
+  musicale cohérente et captivante. Benjamin Biolay explore différents aspects
+  de l'amour avec talent, évitant habilement l'éparpillement. Les temps faibles
+  sont rares, la production est soignée et les textes sont poignants. En somme,
+  "La Superbe" est un chef-d'œuvre qui mérite sa place au sommet.
 wordpress_id: 542
 date: "2009-11-05 16:27:30 +0100"
-cover: benjamin-biolay.jpg
 category: Review
 tags:
   - Benjamin Biolay
@@ -26,6 +25,8 @@ comments:
       de bonus de son premier album… (je parle bien sûr de *La dernière heure du
       dernier jour*)
 ---
+
+{% youtube xtmVTfGJUzA %}
 
 5ème album (environ, si on excepte les bandes originales de film et les disques
 avec ses ex) de Benjamin Biolay, [_La Superbe_][1] porte parfaitement son nom.
@@ -92,16 +93,10 @@ Bref, pour conclure, n’ayons pas peur de nous emballer un peu, et écrivons-le
 haut et fort : **ce disque est un chef-d’œuvre** et mérite, pour l’instant, sa
 place au sommet de notre podium 2009.
 
-{% youtube xtmVTfGJUzA %}
-
-Photo : [Andrés Bortnik][3] / [http://www.flickr.com/photos/potq][4]
-
-[1]: https://album.link/fr/i/330983609 "La Superbe"
-[2]: https://album.link/fr/i/697152313 "Rose Kennedy"
-[3]: http://www.bortnik.cl/
-[4]: http://www.flickr.com/photos/potq
-[5]: https://album.link/fr/i/693465901 "Négatif"
-[6]: https://album.link/fr/i/709360172 "Trash Yéyé"
-[7]: https://album.link/fr/i/693465794 "À l'origine"
-[8]: https://song.link/fr/i/330983773 "15 août"
-[9]: https://song.link/fr/i/330983867 "15 sept"
+[1]: https://album.link/fr/i/330983609 "La Superbe, de Benjamin Biolay"
+[2]: https://album.link/fr/i/697152313 "Rose Kennedy, de Benjamin Biolay"
+[5]: https://album.link/fr/i/693465901 "Négatif, de Benjamin Biolay"
+[6]: https://album.link/fr/i/709360172 "Trash Yéyé, de Benjamin Biolay"
+[7]: https://album.link/fr/i/693465794 "À l'origine, de Benjamin Biolay"
+[8]: https://song.link/fr/i/330983773 "15 août, de Benjamin Biolay"
+[9]: https://song.link/fr/i/330983867 "15 sept, de Benjamin Biolay"

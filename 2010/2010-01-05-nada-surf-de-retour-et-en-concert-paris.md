@@ -29,4 +29,4 @@ programme pour le printemps :
 - le 17 avril à Strasbourg
 - le 28 avril à Paris, au Trabendo (et vous m’y verrez)
 
-[i1]: {% post_url 2009/2009-12-25-auteur-inconnu %}
+[i1]: https://www.deadrooster.org/auteur-inconnu/

@@ -60,4 +60,4 @@ plate couture…
 [Le Fun Friday de la semaine dernière.][i701]
 
 [i701]:
-{% post_url 2010/2010-09-17-sociologie-de-la-crise-psychedelique-du-quarantenaire-cynique %}
+  https://www.deadrooster.org/sociologie-de-la-crise-psychedelique-du-quarantenaire-cynique/

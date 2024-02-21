@@ -168,7 +168,5 @@ de 2005][i2], en voilà une sacrée référence qualitative !)
 [5]: https://song.link/fr/i/1442949692
 [6]: https://song.link/fr/i/1443735637
 [7]: https://song.link/fr/i/255494096
-
-[i1]: {% post_url 2012/2012-04-20-oasis-live-forever %}
-
-[i2]: {% post_url 2005/2005-05-23-oasis-rois-de-la-terre-battue %}
+[i1]: https://www.deadrooster.org/oasis-live-forever/
+[i2]: https://www.deadrooster.org/oasis-rois-de-la-terre-battue/

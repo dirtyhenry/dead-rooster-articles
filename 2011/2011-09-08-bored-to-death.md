@@ -115,7 +115,6 @@ je recommande particulièrement Katie Herzig, Josh Ritter et Family Of The Year.
 
 _NB : les titres avec 🔇 sont indisponibles._
 
-[i201]: {% post_url 2008/2008-04-02-wes-anderson-schwartzman-deschanel %}
-
+[i201]: https://www.deadrooster.org/wes-anderson-schwartzman-deschanel/
 [1]: https://en.wikipedia.org/wiki/Phallic_architecture#Ypsilanti_Water_Tower
 [2]: https://en.wikipedia.org/wiki/Ypsilanti_Water_Tower

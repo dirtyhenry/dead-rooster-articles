@@ -129,12 +129,9 @@ Et sinon, par ordre de recommandation :
   prenante, le scénario est bancal et le jeune héros nous convainc que confier
   un premier rôle à Zinédine Zidane ne serait pas une riche idée.
 
-[i824]: {% post_url 2011/2011-04-12-cine-club-moi-j-vous-dis-05 %}
-
-[i769]: {% post_url 2011/2011-01-27-top-cine-2010 %}
-
-[i333]: {% post_url 2006/2006-09-18-thumbsucker-mike-mills %}
-
+[i824]: https://www.deadrooster.org/cine-club-moi-j-vous-dis-05/
+[i769]: https://www.deadrooster.org/top-cine-2010/
+[i333]: https://www.deadrooster.org/thumbsucker-mike-mills/
 [1]: https://song.link/fr/i/724418782 "By This River, de Brian Eno"
 [2]: https://song.link/fr/i/444346680 "Les Vacances à la Mer, de Mike Brank"
 [3]: https://www.youtube.com/watch?v=lYL04hqPTP8 "Générique de Punky Brewster"

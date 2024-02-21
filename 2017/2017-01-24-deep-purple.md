@@ -30,5 +30,4 @@ Dernier fait marquant : malgré l’échec de 1996, Deep Purple a finalement ba
 Garry Kasparov l’année suivante, alors champion du monde.
 
 [sironimo]: https://www.youtube.com/watch?v=hYWrobj7Rws
-
-[i906]: {% post_url 2011/2011-09-10-prince %}
+[i906]: https://www.deadrooster.org/prince/

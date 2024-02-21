@@ -71,11 +71,7 @@ petit lait.
   https://www.rottentomatoes.com/m/eurovision_song_contest_the_story_of_fire_saga
 [5]:
   https://www.theringer.com/movies/2020/7/15/21325097/making-of-wedding-crashers-football-scene
-
-[i1]: {% post_url 2007/2007-07-04-neil-hannon-eurovision %}
-
-[i2]: {% post_url 2007/2007-01-17-niveau-releve-pour-le-prochain-eurovision %}
-
-[i3]: {% post_url 2014/2014-03-03-eurovision-2014 %}
-
-[i4]: {% post_url 2018/2018-11-23-pixar-movie-challenge %}
+[i1]: https://www.deadrooster.org/neil-hannon-eurovision/
+[i2]: https://www.deadrooster.org/niveau-releve-pour-le-prochain-eurovision/
+[i3]: https://www.deadrooster.org/eurovision-2014/
+[i4]: https://www.deadrooster.org/pixar-movie-challenge/

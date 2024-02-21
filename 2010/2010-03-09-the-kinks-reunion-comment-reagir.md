@@ -17,8 +17,7 @@ Quand on sait que [les Kinks n’ont jusqu’à maintenant jamais déçu][i1],
 difficile de savoir s’il faut se réjouir ou pas de la nouvelle… Espérons
 simplement qu’une tournée aura lieu dans la foulée !
 
-[i1]: {% post_url 2008/2008-04-15-supergrass-diamond-hoo-ha %}
-
+[i1]: https://www.deadrooster.org/supergrass-diamond-hoo-ha/
 [1]: https://www.youtube.com/watch?v=dvyDWGF290M
 [2]: https://www.youtube.com/watch?v=fvDoDaCYrEY
 [3]: https://www.youtube.com/watch?v=1h1oRP7FfBw

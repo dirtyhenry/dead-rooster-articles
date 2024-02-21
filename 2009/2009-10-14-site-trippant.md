@@ -9,6 +9,5 @@ Dans la série des [sites trippants][i1], voilà un joli spécimen :
 [cesmes.fi][1]. Des ronds qui deviennent petits et changent de couleur, un jeu
 de devinettes de tags de photos, d’autres trucs bizarres. Trop bien…
 
-[i1]: {% post_url 2009/2009-09-23-plaisirs-clairement-identifies %}
-
+[i1]: https://www.deadrooster.org/plaisirs-clairement-identifies/
 [1]: http://www.cesmes.fi/

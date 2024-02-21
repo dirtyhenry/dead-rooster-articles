@@ -175,10 +175,8 @@ pour autant. Minus est plus pertinent.
 
 Réalisée avec Sortmash.
 
-[i944]: {% post_url 2011/2011-11-05-real-estate-it-s-real %}
-
-[i829]: {% post_url 2011/2011-04-21-the-diy-series-social-square %}
-
+[i944]: https://www.deadrooster.org/real-estate-it-s-real/
+[i829]: https://www.deadrooster.org/the-diy-series-social-square/
 [1]: http://blogs.lesinrocks.com/gimmeindierock/2011/10/06/vote-for-wonderflu/
 [2]:
   https://www.dailymotion.com/video/x1ho21

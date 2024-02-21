@@ -16,6 +16,5 @@ instrumental, le titre, _In The Sun_, voit la participation de [Tilly and The
 Wall, le groupe qui a remplacé le concept de batteur par le concept de joueuse
 de claquette][i1].
 
-[i1]: {% post_url 2007/2007-04-22-css-aux-femmes-s-en-melent %}
-
+[i1]: https://www.deadrooster.org/css-aux-femmes-s-en-melent/
 [1]: https://pitchfork.com/news/37656-new-she-him-in-the-sun/

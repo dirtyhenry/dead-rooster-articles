@@ -103,5 +103,4 @@ bien le déclic de la reconnaissance les jours de rentrée :
 [6]:
   https://song.link/fr/i/1533513640
   "The White Stripes - We're Going to Be Friends"
-
-[i1]: {% post_url 2011/2011-08-24-the-graduate-mike-nichols %}
+[i1]: https://www.deadrooster.org/the-graduate-mike-nichols/

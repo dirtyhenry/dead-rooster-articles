@@ -96,15 +96,9 @@ Par ici pour la [face B][faceb].
 
 [1]: /category/compile/
 [cover]: https://twitter.com/christhebarker/status/815342375354662912
-
-[ete-2005]: {% post_url 2005/2005-09-30-compile-ete-2005 %}
-
-[faceB]: {% post_url 2017/2017-01-17-compile-automne-2016-face-b %}
-
-[i601]: {% post_url 2008/2008-12-31-compile-automne-2008 %}
-
-[i730]: {% post_url 2008/2008-08-23-la-compile-du-samedi-soir-volume-2 %}
-
-[i731]: {% post_url 2008/2008-08-23-la-compile-du-samedi-soir-volume-1 %}
-
-[i732]: {% post_url 2008/2008-08-23-la-compile-du-lundi-matin %}
+[ete-2005]: https://www.deadrooster.org/compile-ete-2005/
+[faceB]: https://www.deadrooster.org/compile-automne-2016-face-b/
+[i601]: https://www.deadrooster.org/compile-automne-2008/
+[i730]: https://www.deadrooster.org/la-compile-du-samedi-soir-volume-2/
+[i731]: https://www.deadrooster.org/la-compile-du-samedi-soir-volume-1/
+[i732]: https://www.deadrooster.org/la-compile-du-lundi-matin/

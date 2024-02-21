@@ -61,7 +61,6 @@ saying: "we sell these 20 euros at the festival but right now, just name your
 price and it will be fine". The deal was set for 12 euros, MP3-download-coupon
 and hand-shake included.
 
-[i706]: {% post_url 2010/2010-09-27-compile-mp3-du-net-03 %}
-
+[i706]: https://www.deadrooster.org/compile-mp3-du-net-03/
 [i849]:
-{% post_url 2011/2011-06-01-plaidoyer-en-faveur-du-retour-du-disque-vinyle %}
+  https://www.deadrooster.org/plaidoyer-en-faveur-du-retour-du-disque-vinyle/

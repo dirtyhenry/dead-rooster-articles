@@ -15,4 +15,4 @@ La chanson de cette semaine pour **Katerine, Francis et ses peintres** est
 
 Il est encore temps de participer en [cliquant ici][i1] !
 
-[i1]: {% post_url 2010/2010-02-09-concours-katerine-francis-et-ses-peintres %}
+[i1]: https://www.deadrooster.org/concours-katerine-francis-et-ses-peintres/

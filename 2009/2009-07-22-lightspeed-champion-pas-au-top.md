@@ -13,7 +13,6 @@ qui rêvent d’une intro laissant espérer Morricone mais se poursuivant par du
 Prince/Lenny Kravitz et finissant par du Visage. [Le bougre nous avait habitué à
 mieux que ça][i1].
 
-[i1]: {% post_url 2008/2008-05-21-lightspeed-champion-inrocks-indie-club %}
-
+[i1]: https://www.deadrooster.org/lightspeed-champion-inrocks-indie-club/
 [1]:
   https://web.archive.org/web/20090718100338/http://www.lightspeedchampion.com/profiles/blogs/welcome-all-im-almost-a-real

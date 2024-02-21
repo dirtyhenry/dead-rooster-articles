@@ -79,8 +79,7 @@ Le voyage s’arrête là, sauf qu’on n’a qu’une envie : tout recommencer
 début ! Attachez votre ceinture. Mettez vos baskets, chouette, c’est sympa, tu
 verras ! Hop ! (Re)Play !
 
-[i733]: {% post_url 2008/2008-08-23-la-compile-du-dimanche-matin-volume-1 %}
-
+[i733]: https://www.deadrooster.org/la-compile-du-dimanche-matin-volume-1/
 [mma]: https://song.link/fr/i/426940908
 [icmd]: https://song.link/fr/i/426940909
 [fjt]: https://song.link/fr/i/426940916

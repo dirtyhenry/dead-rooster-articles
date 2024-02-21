@@ -18,4 +18,4 @@ dit que c’est de la balle][i514].
 
 (via [Blur](http://officialblur.tumblr.com))
 
-[i514]: {% post_url 2009/2009-07-26-hand-in-hand-through-their-hyde-parklife %}
+[i514]: https://www.deadrooster.org/hand-in-hand-through-their-hyde-parklife/

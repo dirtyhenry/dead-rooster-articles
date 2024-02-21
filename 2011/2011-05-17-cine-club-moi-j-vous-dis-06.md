@@ -151,6 +151,5 @@ Sinon, avec ce film :
 - que [Cap Cod](http://fr.wikipedia.org/wiki/Cap_Cod) ça a l’air chouette comme
   endroit
 
-[i554]: {% post_url 2009/2009-12-09-cine-club-moi-j-vous-dis-02 %}
-
-[i333]: {% post_url 2006/2006-09-18-thumbsucker-mike-mills %}
+[i554]: https://www.deadrooster.org/cine-club-moi-j-vous-dis-02/
+[i333]: https://www.deadrooster.org/thumbsucker-mike-mills/

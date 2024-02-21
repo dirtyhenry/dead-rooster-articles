@@ -21,4 +21,4 @@ surtout quand Noel Gallagher est de la partie..
 
 (via [James Skelly & The Intenders](http://jamesskellyandtheintenders.com/))
 
-[i203]: {% post_url 2008/2008-02-26-the-coral-roots-and-echoes %}
+[i203]: https://www.deadrooster.org/the-coral-roots-and-echoes/

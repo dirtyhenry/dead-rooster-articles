@@ -67,4 +67,4 @@ particulièrement à découvrir les excellents **Guards** et **The Fresh & Onlys
 
 [Réécouter la compile #02][i702]
 
-[i702]: {% post_url 2010/2010-09-20-compile-mp3-du-net-02 %}
+[i702]: https://www.deadrooster.org/compile-mp3-du-net-02/

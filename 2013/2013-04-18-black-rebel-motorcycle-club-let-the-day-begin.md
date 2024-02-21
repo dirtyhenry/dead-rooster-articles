@@ -30,8 +30,6 @@ reprise de _Dirty Old Town_][i709].
 
 via [leur site officiel](http://blackrebelmotorcycleclub.com/)
 
-[i309]: {% post_url 2006/2006-05-12-dig %}
-
-[i783]: {% post_url 2011/2011-02-17-black-rebel-motorcycle-club-berlin %}
-
-[i709]: {% post_url 2010/2010-10-04-compile-mp3-du-net-04 %}
+[i309]: https://www.deadrooster.org/dig/
+[i783]: https://www.deadrooster.org/black-rebel-motorcycle-club-berlin/
+[i709]: https://www.deadrooster.org/compile-mp3-du-net-04/

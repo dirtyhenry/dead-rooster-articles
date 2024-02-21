@@ -31,4 +31,4 @@ bonheur, sans atteindre des sommets, _Fool’s Day_ repositionne Blur là où il
 sont les meilleurs, c’est à dire loin de tout ce qui ressemble de près ou de
 loin au dub et à Gorillaz. A suivre donc…
 
-[i514]: {% post_url 2009/2009-07-26-hand-in-hand-through-their-hyde-parklife %}
+[i514]: https://www.deadrooster.org/hand-in-hand-through-their-hyde-parklife/

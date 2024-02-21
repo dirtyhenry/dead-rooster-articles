@@ -27,4 +27,4 @@ mais aussi sur les collaborations déjà publiées de Corin
 
 [Photo sous licence Creative Commons BY ND par **sarae**](http://www.flickr.com/photos/sarae/234801351/)
 
-[i1]: {% post_url 2006/2006-05-23-sleater-kinney-nouveau-casino %}
+[i1]: https://www.deadrooster.org/sleater-kinney-nouveau-casino/

@@ -72,7 +72,6 @@ vend 20 euros sur le site mais bon, donne ce que tu peux ou ce que tu veux, et
 ça ira". La vente se conclut sur 12 euros, coupon de téléchargement des MP3 et
 poignée de main inclus.
 
-[i706]: {% post_url 2010/2010-09-27-compile-mp3-du-net-03 %}
-
+[i706]: https://www.deadrooster.org/compile-mp3-du-net-03/
 [i849]:
-{% post_url 2011/2011-06-01-plaidoyer-en-faveur-du-retour-du-disque-vinyle %}
+  https://www.deadrooster.org/plaidoyer-en-faveur-du-retour-du-disque-vinyle/

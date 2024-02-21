@@ -59,4 +59,4 @@ de **Black Mountain** par **The Black Angels**.
 
 [Réécouter la compile #05][i712]
 
-[i712]: {% post_url 2010/2010-10-11-compile-mp3-du-net-05 %}
+[i712]: https://www.deadrooster.org/compile-mp3-du-net-05/

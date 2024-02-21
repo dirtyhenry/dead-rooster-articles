@@ -21,7 +21,6 @@ version "petite vieille"-included][i576] bien sûr).
 
 [^1]: trop mignon voire trop trop mignon
 
-[i576]: {% post_url 2010/2010-03-08-petite-vieille %}
-
+[i576]: https://www.deadrooster.org/petite-vieille/
 [1]: https://youtu.be/Bf92Y4CQ3DA
 [2]: https://en.wikipedia.org/wiki/Late_Night_Tales:_Belle_and_Sebastian_Vol._II

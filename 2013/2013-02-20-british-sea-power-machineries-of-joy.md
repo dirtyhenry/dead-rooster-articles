@@ -22,8 +22,6 @@ _Zeus_ [ici][i709].
 
 (via [le site officiel du groupe](http://www.britishseapower.co.uk/))
 
-[i928]: {% post_url 2011/2011-10-09-british-sea-power %}
-
-[i961]: {% post_url 2011/2011-12-03-les-disques-de-novembre-2011 %}
-
-[i709]: {% post_url 2010/2010-10-04-compile-mp3-du-net-04 %}
+[i928]: https://www.deadrooster.org/british-sea-power/
+[i961]: https://www.deadrooster.org/les-disques-de-novembre-2011/
+[i709]: https://www.deadrooster.org/compile-mp3-du-net-04/

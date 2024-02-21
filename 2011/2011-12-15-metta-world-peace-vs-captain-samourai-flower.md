@@ -36,5 +36,4 @@ Le monde va mal !
 
 [1]:
   https://deadspin.com/metta-world-peace-is-just-as-insane-as-ron-artest-5868091
-
-[i543]: {% post_url 2009/2009-11-05-the-new-super-french-singermen %}
+[i543]: https://www.deadrooster.org/the-new-super-french-singermen/

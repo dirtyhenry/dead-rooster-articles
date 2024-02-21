@@ -14,4 +14,4 @@ titre tout nouveau, tout beau.
 
 Réécouter [_Ffunny Ffrends_][i1186].
 
-[i1186]: {% post_url 2013/2013-02-28-unknown-mortal-orchestra-ffunny-ffrends %}
+[i1186]: https://www.deadrooster.org/unknown-mortal-orchestra-ffunny-ffrends/

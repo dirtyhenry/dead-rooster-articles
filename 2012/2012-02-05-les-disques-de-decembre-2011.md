@@ -158,28 +158,16 @@ Mick Jagger a créé ce "super"-groupe. Une question : "pourquoi ?". Horrible.
 
 Réalisée avec Sortmash.
 
-[i938]: {% post_url 2011/2011-10-26-the-black-keys-lonely-boy %}
-
-[i770]: {% post_url 2011/2011-02-02-deerhunter-halcyon-digest %}
-
-[i222]: {% post_url 2009/2009-01-20-top-musique-2008 %}
-
-[i213]: {% post_url 2008/2008-07-29-fleet-foxes %}
-
-[i822]: {% post_url 2011/2011-04-11-kurt-vile-jesus-fever %}
-
-[i984]: {% post_url 2012/2012-01-18-top-musique-2011 %}
-
-[i950]: {% post_url 2011/2011-11-18-powersolo-teach-you-fun %}
-
-[i638]: {% post_url 2009/2009-06-30-compile-printemps-2009 %}
-
-[i979]: {% post_url 2012/2012-01-10-beat-mark-breeezing %}
-
-[i976]: {% post_url 2011/2011-12-27-labrador-records %}
-
-[i972]: {% post_url 2011/2011-12-16-the-mary-onettes-once-i-was-pretty %}
-
-[i936]: {% post_url 2011/2011-10-25-dum-dum-girls-only-in-dreams %}
-
+[i938]: https://www.deadrooster.org/the-black-keys-lonely-boy/
+[i770]: https://www.deadrooster.org/deerhunter-halcyon-digest/
+[i222]: https://www.deadrooster.org/top-musique-2008/
+[i213]: https://www.deadrooster.org/fleet-foxes/
+[i822]: https://www.deadrooster.org/kurt-vile-jesus-fever/
+[i984]: https://www.deadrooster.org/top-musique-2011/
+[i950]: https://www.deadrooster.org/powersolo-teach-you-fun/
+[i638]: https://www.deadrooster.org/compile-printemps-2009/
+[i979]: https://www.deadrooster.org/beat-mark-breeezing/
+[i976]: https://www.deadrooster.org/labrador-records/
+[i972]: https://www.deadrooster.org/the-mary-onettes-once-i-was-pretty/
+[i936]: https://www.deadrooster.org/dum-dum-girls-only-in-dreams/
 [1]: https://song.link/fr/i/1097862240

@@ -61,8 +61,7 @@ Photo : [Lex In The City](https://flic.kr/p/crFv6) —
     dans [cet article du Guardian][2].
 
 [i1]:
-{% post_url 2006/2006-06-07-les-soledad-brothers-sont-morts-vivent-les-bellrays %}
-
+  https://www.deadrooster.org/les-soledad-brothers-sont-morts-vivent-les-bellrays/
 [1]: https://www.discogs.com/artist/1498035-Cut-In-The-Hill-Gang
 [2]: https://www.theguardian.com/music/2006/mar/03/popandrock1
 [3]: https://www.discogs.com/artist/1397735-The-See-See

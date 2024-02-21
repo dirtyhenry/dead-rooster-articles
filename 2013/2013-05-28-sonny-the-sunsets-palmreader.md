@@ -16,6 +16,5 @@ Réécouter [leur superbe reprise d’_Imagine_][i1195].
 (via
 [Soundcloud](https://soundcloud.com/polyvinyl-records/03-sonny-the-sunsets))
 
-[i1235]: {% post_url 2013/2013-05-21-smith-westerns-3am-spiritual %}
-
-[i1195]: {% post_url 2013/2013-03-15-sonny-the-sunsets-imagine %}
+[i1235]: https://www.deadrooster.org/smith-westerns-3am-spiritual/
+[i1195]: https://www.deadrooster.org/sonny-the-sunsets-imagine/

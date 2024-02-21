@@ -106,6 +106,5 @@ se marrer des anecdotes de Bonzo et cie.
 
 [Relire le post consacré à l’ouvrage de François Bon sur Bob Dylan][i219]
 
-[i402]: {% post_url 2007/2007-09-03-led-zeppelin-s-back %}
-
-[i219]: {% post_url 2008/2008-10-27-bob-dylan-une-biographie-francois-bon %}
+[i402]: https://www.deadrooster.org/led-zeppelin-s-back/
+[i219]: https://www.deadrooster.org/bob-dylan-une-biographie-francois-bon/

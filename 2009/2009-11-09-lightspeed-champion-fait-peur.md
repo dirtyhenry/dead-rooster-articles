@@ -12,6 +12,5 @@ son 2nd album, _Life is Sweet! Nice To Meet You_, pour février 2010. Il s’agi
 de ne pas se rater après le très réussi [_Falling Off Lavender Bridge_][1] et la
 [vidéo preview] fait quand même un peu peur…
 
-[i1]: {% post_url 2008/2008-05-21-lightspeed-champion-inrocks-indie-club %}
-
+[i1]: https://www.deadrooster.org/lightspeed-champion-inrocks-indie-club/
 [1]: https://album.link/us/i/272025974

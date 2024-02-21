@@ -15,6 +15,5 @@ tags:
 Le nouveau EP 3-titres de Social Square, _Carrying On_, est [disponible][1].
 C’est l’occasion de relire [le DIY qui leur a été consacré][i829].
 
-[i829]: {% post_url 2011/2011-04-21-the-diy-series-social-square %}
-
+[i829]: https://www.deadrooster.org/the-diy-series-social-square/
 [1]: https://soundcloud.com/social-square/sets/3-new-songs-3/

@@ -95,8 +95,7 @@ _Mine’s Not A High Horse_ des Shins :
 {% youtube CyqFhKpdNs0 %}
 
 [1]: https://soundcloud.com/hooray-henrys/helicopter-bloc-party-cover
-
-[i747]: {% post_url 2011/2011-01-11-top-musique-2010 %}
+[i747]: https://www.deadrooster.org/top-musique-2010/
 
 [^1]:
     C’est bizarre à écrire "que R.E.M."… Phonétiquement on dirait plutôt

@@ -22,7 +22,6 @@ tout de go King Khan en concert : c’est assez fun comme expérience.
 
 (via [Merge Records][2])
 
-[i1058]: {% post_url 2012/2012-06-25-king-khan-the-shrines-bite-my-tongue %}
-
+[i1058]: https://www.deadrooster.org/king-khan-the-shrines-bite-my-tongue/
 [1]: https://album.link/fr/i/658952317
 [2]: https://www.mergerecords.com/

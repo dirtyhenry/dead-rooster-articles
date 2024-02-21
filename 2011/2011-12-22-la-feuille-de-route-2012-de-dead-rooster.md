@@ -60,4 +60,4 @@ Pour ne rien rater de l’actualité du site, trois moyens sont disponibles :
 
 On se revoit en 2012 !
 
-[i969]: {% post_url 2011/2011-12-13-bilan-dead-rooster-2011 %}
+[i969]: https://www.deadrooster.org/bilan-dead-rooster-2011/

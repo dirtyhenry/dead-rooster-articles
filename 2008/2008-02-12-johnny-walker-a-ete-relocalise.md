@@ -23,6 +23,5 @@ C’est chose faite : [**Cut In The Hill Gang**][1] a publié son MySpace !
 Par pitié, venez vite à Paris !!!
 
 [1]: https://musicbrainz.org/artist/57930197-d4fd-439a-a093-84a0f72060be
-
 [i318]:
-{% post_url 2006/2006-06-07-les-soledad-brothers-sont-morts-vivent-les-bellrays %}
+  https://www.deadrooster.org/les-soledad-brothers-sont-morts-vivent-les-bellrays/

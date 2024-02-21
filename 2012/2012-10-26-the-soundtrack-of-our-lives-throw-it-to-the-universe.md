@@ -111,9 +111,7 @@ beautés cachées) :
 1. _Throw It To The Universe_
 1. _Where’s The Rock ?_
 
-[i1]: {% post_url 2010/2010-05-12-tsool-nan-toi-tu-soules %}
-
-[i2]: {% post_url 2012/2012-10-22-the-rolling-stones-doom-and-gloom %}
-
+[i1]: https://www.deadrooster.org/tsool-nan-toi-tu-soules/
+[i2]: https://www.deadrooster.org/the-rolling-stones-doom-and-gloom/
 [1]: https://www.handsandarms.com/
 [2]: https://album.link/fr/i/693851279 "Throw it to the Universe"

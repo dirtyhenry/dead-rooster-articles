@@ -9,4 +9,4 @@ Un apéro gratuit organisé par **Respect** et **Tricatel** est prévu ce mercre
 26 août, à Paris, sur le bateau Concorde Atlantique. Au programme : [Bertrand
 Burgalat][i1], Showgirls et Dr. Disco.
 
-[i1]: {% post_url 2009/2009-02-10-bertrand-burgalat-april-march %}
+[i1]: https://www.deadrooster.org/bertrand-burgalat-april-march/

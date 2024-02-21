@@ -18,6 +18,5 @@ ps : le mot Facebook est beaucoup trop présent sur ce post.
 
 re-ps : pour participer au concours, [cliquer ici][i1].
 
-[i1]: {% post_url 2010/2010-02-09-concours-katerine-francis-et-ses-peintres %}
-
+[i1]: https://www.deadrooster.org/concours-katerine-francis-et-ses-peintres/
 [1]: https://www.facebook.com/philippekaterine/posts/326676632800

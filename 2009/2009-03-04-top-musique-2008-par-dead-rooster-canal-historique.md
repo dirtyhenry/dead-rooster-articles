@@ -199,9 +199,6 @@ Quelques liens utiles :
 [8]: https://song.link/fr/i/1269687478 "Boneless"
 [9]: https://song.link/fr/i/1440724084 "Bryter Layter"
 [10]: https://song.link/fr/i/253314348 "Don't look back"
-
-[i1]: {% post_url 2008/2008-07-08-the-notwist-devil-you-plus-me %}
-
-[i2]: {% post_url 2008/2008-09-09-route-du-rock-2008 %}
-
-[i3]: {% post_url 2009/2009-01-20-top-musique-2008 %}
+[i1]: https://www.deadrooster.org/the-notwist-devil-you-plus-me/
+[i2]: https://www.deadrooster.org/route-du-rock-2008/
+[i3]: https://www.deadrooster.org/top-musique-2008/

@@ -47,8 +47,7 @@ Colette Renard est décédée cette semaine. Hommage en chanson fun…
 [Le Fun Friday de la semaine dernière][i708]
 
 [i708]:
-{% post_url 2010/2010-10-01-le-sudoku-killer-deteste-les-moustaches-chiantes %}
-
+  https://www.deadrooster.org/le-sudoku-killer-deteste-les-moustaches-chiantes/
 [1]: https://fr.wikipedia.org/wiki/Le_Retour_%C3%A0_la_terre
 [2]: https://www.amazon.fr/Gaulle-à-plage-Jean-Yves-Ferri/dp/2205059661
 [3]:

@@ -23,7 +23,6 @@ notamment.
 (via
 [Stereogum](https://stereogum.com/1344561/mikal-cronin-im-gonna-be-proclaimers-cover-kiss-me-sixpence-none-the-richer-cover/mp3s/))
 
-[i1233]: {% post_url 2013/2013-05-17-mikal-cronin-change %}
-
+[i1233]: https://www.deadrooster.org/mikal-cronin-change/
 [1]: https://www.youtube.com/watch?v=8N-qO3sPMjc
 [2]: https://www.youtube.com/watch?v=tbNlMtqrYS0

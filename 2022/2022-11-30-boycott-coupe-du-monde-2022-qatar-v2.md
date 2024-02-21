@@ -101,8 +101,7 @@ Let’s Go Warriors !
 
 [^2]: Raël, qu’est-ce que tu fous ?
 
-[i1]: {% post_url 2022/2022-11-17-boycott-coupe-du-monde-2022-qatar %}
-
+[i1]: https://www.deadrooster.org/boycott-coupe-du-monde-2022-qatar/
 [1]:
   https://www.youtube.com/watch?v=Z0yHyonRhCs
   "Grand Jacques, de Jacques Brel"

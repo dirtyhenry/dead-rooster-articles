@@ -17,6 +17,5 @@ leur album à paraître en 2013.
 
 (via [Stereogum][1])
 
-[i1155]: {% post_url 2013/2013-01-07-born-ruffians-with-her-shadow %}
-
+[i1155]: https://www.deadrooster.org/born-ruffians-with-her-shadow/
 [1]: https://www.stereogum.com/1264771/born-ruffians-needle/news/

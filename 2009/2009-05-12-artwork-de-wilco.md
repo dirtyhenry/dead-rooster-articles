@@ -9,4 +9,4 @@ date: "2009-05-12 15:49:33 +0200"
 
 {% asset wilco-cover.jpeg %}
 
-[i1]: {% post_url 2009/2009-05-04-artwork-de-l-album-de-graham-coxon %}
+[i1]: https://www.deadrooster.org/artwork-de-l-album-de-graham-coxon/

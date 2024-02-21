@@ -14,8 +14,7 @@ qu’[une pauvre femme se fait interpeler 4 fois par la police pour écouter du
 AC/DC][1]. Bon, OK, elle a aussi jeté une poêle à frire sur son neveu mais quand
 même ! Le monde va mal !
 
-[i457]: {% post_url 2008/2008-08-20-meme-plus-tranquille-chez-soi %}
-
+[i457]: https://www.deadrooster.org/meme-plus-tranquille-chez-soi/
 [1]:
   https://www.nme.com/news/music/acdc-90-1248357
   "Woman arrested four times in 26 hours for playing AC/DC"

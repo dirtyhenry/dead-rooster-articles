@@ -15,4 +15,4 @@ passé à côté. Dont acte.
 (via
 [Stereogum](https://www.stereogum.com/1357681/stereogums-top-25-music-videos-of-2013-so-far/video/))
 
-[i1230]: {% post_url 2013/2013-05-13-foxygen-no-destruction %}
+[i1230]: https://www.deadrooster.org/foxygen-no-destruction/

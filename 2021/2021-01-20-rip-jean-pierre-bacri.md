@@ -37,5 +37,4 @@ hautement recommandée.
 [2]: https://fr.wikipedia.org/wiki/Jean-Pierre_Bacri
 [3]: https://letterboxd.com/film/didier/
 [4]: https://youtu.be/Nj5aedz2iso
-
-[i1]: {% post_url 2021/2021-01-17-rip-phil-spector %}
+[i1]: https://www.deadrooster.org/rip-phil-spector/

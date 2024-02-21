@@ -8,6 +8,6 @@
     "textlint-rule-apostrophe": "2.0.0"
   },
   "scripts": {
-    "lint:fix": "textlint -c .github/linters/.textlintrc 20* && prettier --write ."
+    "lint:fix": "textlint --fix -c .github/linters/.textlintrc 20* && prettier --write ."
   }
 }

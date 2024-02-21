@@ -16,4 +16,4 @@ tags:
 Second extrait de leur _Long Slow Dance_ (à paraître le mois prochain), après
 [_Yes Or No_][i1050].
 
-[i1050]: {% post_url 2012/2012-06-13-the-fresh-onlys-yes-or-no %}
+[i1050]: https://www.deadrooster.org/the-fresh-onlys-yes-or-no/

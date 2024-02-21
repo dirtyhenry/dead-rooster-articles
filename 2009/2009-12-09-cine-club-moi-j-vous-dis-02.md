@@ -137,5 +137,4 @@ persister à le découvrir…
 [1]:
   https://www.youtube.com/results?search_query=forgetting+sarah+marshall+dracula&search_type=&aq=f
 [2]: https://youtu.be/qGH8G9STtG0
-
-[i546]: {% post_url 2008/2008-06-30-compile-printemps-2008 %}
+[i546]: https://www.deadrooster.org/compile-printemps-2008/

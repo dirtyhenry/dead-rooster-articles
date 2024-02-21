@@ -90,10 +90,8 @@ Photo de [Thomas Kelley][2] sur [Unsplash][3].
     Se référer à [cette explication][i2] de la différence entre une playlist et
     une compile.
 
-[i1]: {% post_url 2011/2011-10-14-moneyball-bennett-miller %}
-
-[i2]: {% post_url 2017/2017-01-10-compile-automne-2016 %}
-
+[i1]: https://www.deadrooster.org/moneyball-bennett-miller/
+[i2]: https://www.deadrooster.org/compile-automne-2016/
 [1]:
   https://www.artofmanliness.com/character/behavior/podcast-912-the-science-of-getting-psyched-up/
 [2]:

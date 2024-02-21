@@ -107,7 +107,5 @@ oreilles vers [_Un Hiver 2017_][hiver-2017] !
     que des morceaux de la playlist hebdomadaire. 😀
 
 [chiant]: https://youtu.be/SbZL91_Kvi0
-
-[faceA]: {% post_url 2017/2017-01-10-compile-automne-2016 %}
-
-[hiver-2017]: {% post_url 2017/2017-04-03-compile-hiver-2017 %}
+[faceA]: https://www.deadrooster.org/compile-automne-2016/
+[hiver-2017]: https://www.deadrooster.org/compile-hiver-2017/

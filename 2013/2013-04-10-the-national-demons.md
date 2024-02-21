@@ -17,6 +17,5 @@ Réécouter [_Exile, Velify_][i901].
 via
 [Pitchfork](https://pitchfork.com/news/50230-listen-to-the-nationals-new-single-demons/)
 
-[i696]: {% post_url 2010/2010-09-02-the-national-high-violet %}
-
-[i901]: {% post_url 2011/2011-09-06-the-national-exile-vilify %}
+[i696]: https://www.deadrooster.org/the-national-high-violet/
+[i901]: https://www.deadrooster.org/the-national-exile-vilify/

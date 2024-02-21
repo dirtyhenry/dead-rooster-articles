@@ -77,5 +77,4 @@ camarades en New Balance. Moelleux !
 
 [1]:
   https://www.setlist.fm/setlist/yo-la-tengo/2015/la-cigale-paris-france-bf58142.html
-
-[i1]: {% post_url 2014/2014-02-12-yo-la-dumpo %}
+[i1]: https://www.deadrooster.org/yo-la-dumpo/

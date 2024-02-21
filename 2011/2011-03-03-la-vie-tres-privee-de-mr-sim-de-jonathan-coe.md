@@ -84,7 +84,7 @@ histoire :
 Les voilà désormais ajoutés à ma liste de trucs à lire et à voir (qui
 bizarrement, ne fait que grandir).
 
-[i223]: {% post_url 2009/2009-02-10-bertrand-burgalat-april-march %}
+[i223]: https://www.deadrooster.org/bertrand-burgalat-april-march/
 
 [^1]: À ne pas confondre avec [Maguy tout court, qui voit souvent rouge][2]
 

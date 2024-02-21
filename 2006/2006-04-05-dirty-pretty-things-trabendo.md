@@ -31,5 +31,4 @@ complètement ouf…
 
 [1]:
   https://open.spotify.com/album/2prIc5Om2QPCGIjKVC5UQj?si=HqI-mPT6Sf-jlom_dIXEZQ
-
-[i1]: {% post_url 2006/2006-01-21-yeti-inrocks-indie-club %}
+[i1]: https://www.deadrooster.org/yeti-inrocks-indie-club/

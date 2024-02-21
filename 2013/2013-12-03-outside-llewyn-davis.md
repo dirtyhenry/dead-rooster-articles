@@ -102,5 +102,4 @@ l’auteur d’une anthologie.
 [4]:
   https://www.youtube.com/watch?v=978uQUK231M
   "The Big Lebowski cleaning balls"
-
-[3]: {% post_url 2013/2013-11-12-inside-llewyn-davis %}
+[3]: https://www.deadrooster.org/inside-llewyn-davis/

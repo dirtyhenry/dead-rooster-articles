@@ -63,4 +63,4 @@ Paris, le 4 octobre.
 
 {% include polaroids.html polaroids=page.playlist %}
 
-[i314]: {% post_url 2006/2006-05-23-sleater-kinney-nouveau-casino %}
+[i314]: https://www.deadrooster.org/sleater-kinney-nouveau-casino/
