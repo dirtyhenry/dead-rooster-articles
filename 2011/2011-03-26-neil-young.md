@@ -52,4 +52,4 @@ telles que _Hey Hey, My My_ et autre _Rockin’ In The Free World_.
 N.B. : contrairement à ce que laisserait croire le subtil photo-montage
 illustrant cet article, Neil Young n’a JAMAIS joué à Manchester City, non !
 
-[i757]: {% post_url 2011/2011-02-05-nirvana %}
+[i757]: https://www.deadrooster.org/nirvana/

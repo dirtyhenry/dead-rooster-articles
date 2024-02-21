@@ -129,4 +129,4 @@ Et en bonus :
 - Photo Franz Ferdinand : (c)
   [elmagicdice](http://www.flickr.com/photos/elmagicdice/)
 
-[i514]: {% post_url 2009/2009-07-26-hand-in-hand-through-their-hyde-parklife %}
+[i514]: https://www.deadrooster.org/hand-in-hand-through-their-hyde-parklife/

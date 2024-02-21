@@ -21,8 +21,7 @@ Noel, lui, devrait évoluer en solo. Il jouera son premier concert depuis le
 split en mars, à l’occasion d’un concert de charité pour l’association Teenage
 Cancer Trust.
 
-[i1]: {% post_url 2009/2009-09-03-au-sujet-du-split-d-oasis %}
-
+[i1]: https://www.deadrooster.org/au-sujet-du-split-d-oasis/
 [1]:
   https://www.nme.com/news/music/oasis-206-1288919
   "Liam Gallagher ditches Oasis name for his new group"

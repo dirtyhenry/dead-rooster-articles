@@ -68,6 +68,5 @@ gratuitement sur la formidable plateforme de téléchargement bandcamp.
 
 [Réécouter la compile #06][i715]
 
-[i213]: {% post_url 2008/2008-07-29-fleet-foxes %}
-
-[i715]: {% post_url 2010/2010-10-19-compile-mp3-du-net-06 %}
+[i213]: https://www.deadrooster.org/fleet-foxes/
+[i715]: https://www.deadrooster.org/compile-mp3-du-net-06/

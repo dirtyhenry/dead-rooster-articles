@@ -100,8 +100,7 @@ l’histoire. Trois titres pour presque 86 minutes d’enfer. _Enjoy (not)_.
     existe bel et bien. Non, ça, pourquoi pas. On parle ici du morceau de merde
     qui pourrit la piste en l’allongeant artificiellement.
 
-[i1]: {% post_url 2021/2021-04-09-un-hiver-2021 %}
-
+[i1]: https://www.deadrooster.org/un-hiver-2021/
 [1]:
   https://open.spotify.com/album/6jMFgNGIYR6fVWZp9WwjTG?si=6d5KMMklT6iNch2gar4C9w
 [2]:

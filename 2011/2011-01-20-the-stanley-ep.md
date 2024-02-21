@@ -33,6 +33,5 @@ page][i952].
 
 [1]: https://thelivingstonesipresume.bandcamp.com
 [2]: https://www.flickr.com/photos/yyellowbird/
-
 [i952]:
-{% post_url 2011/2011-11-17-the-livingstones-i-presume-the-stanley-ep-en-vinyl %}
+  https://www.deadrooster.org/the-livingstones-i-presume-the-stanley-ep-en-vinyl/

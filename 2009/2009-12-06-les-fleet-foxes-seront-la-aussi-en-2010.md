@@ -14,4 +14,4 @@ leader du groupe, prévoit un album que la plupart des gens trouvera ennuyeux (c
 qui à mon avis, n’est pas spécialement mauvais signe) et qui devrait sortir vers
 la fin de l’été.
 
-[i1]: {% post_url 2009/2009-12-01-volume-2-sur-les-rails %}
+[i1]: https://www.deadrooster.org/volume-2-sur-les-rails/

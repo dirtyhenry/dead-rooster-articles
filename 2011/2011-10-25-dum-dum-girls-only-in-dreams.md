@@ -74,16 +74,11 @@ PS : en écrivant ce post, je suis donc tombé sur ce passage dans la critique 
 Inrocks susmentionnée : «contre toute logique physique, le groupe prend un peu
 de hauteur quand il baisse le rythme». C’était finement observé.
 
-[i277]: {% post_url 2006/2006-01-21-yeti-inrocks-indie-club %}
-
-[i588]: {% post_url 2010/2010-04-05-selection-chanson-dum-dum-girls %}
-
-[i750]: {% post_url 2011/2011-01-12-compile-2010 %}
-
-[i657]: {% post_url 2010/2010-07-21-best-coast-when-i-m-with-you %}
-
-[i918]: {% post_url 2011/2011-10-03-dum-dum-girls-bedroom-eyes %}
-
+[i277]: https://www.deadrooster.org/yeti-inrocks-indie-club/
+[i588]: https://www.deadrooster.org/selection-chanson-dum-dum-girls/
+[i750]: https://www.deadrooster.org/compile-2010/
+[i657]: https://www.deadrooster.org/best-coast-when-i-m-with-you/
+[i918]: https://www.deadrooster.org/dum-dum-girls-bedroom-eyes/
 [1]:
   https://www.youtube.com/watch?v=Xziod5qt03k
   "Grand Ole Party - Look Out Young Son"

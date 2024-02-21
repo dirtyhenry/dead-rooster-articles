@@ -76,8 +76,7 @@ de garage de tous les temps.
 
 {% youtube 5apEctKwiD8 %}
 
-[i333]: {% post_url 2006/2006-09-18-thumbsucker-mike-mills %}
-
+[i333]: https://www.deadrooster.org/thumbsucker-mike-mills/
 [1]: https://youtu.be/qPIiKF2I4YM?t=46s "M. Manatane"
 [2]:
   https://www.cc.com/video/hbpe87/the-daily-show-with-jon-stewart-michael-lewis

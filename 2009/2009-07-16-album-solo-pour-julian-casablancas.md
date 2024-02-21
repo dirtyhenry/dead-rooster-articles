@@ -12,6 +12,5 @@ Interpol][i1], prépare son quatrième album studio tandis que **Julian
 Casablancas**, son chanteur, [comme celui d’Interpol][i2], s’apprête à sortir
 son premier album solo. Un site internet existe déjà, un trailer aussi.
 
-[i1]: {% post_url 2009/2009-05-06-news-from-interpol %}
-
-[i2]: {% post_url  2009/2009-05-23-des-precisions-sur-julian-plenti %}
+[i1]: https://www.deadrooster.org/news-from-interpol/
+[i2]: https://www.deadrooster.org/des-precisions-sur-julian-plenti/

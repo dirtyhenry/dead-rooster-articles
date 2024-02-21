@@ -20,6 +20,5 @@ chansons les plus cool de l’histoire, est [là][i991].
 (via
 [Stereogum](https://stereogum.com/1257281/watch-beck-cover-bowies-%E2%80%9Csound-and-vision%E2%80%9D-with-a-167-piece-orchestra/franchises/commercial-appeal/))
 
-[i1178]: {% post_url 2009/2009-06-22-beck-et-son-record-club-sunday-morning %}
-
-[i991]: {% post_url 2012/2012-02-04-beck-where-it-s-at %}
+[i1178]: https://www.deadrooster.org/beck-et-son-record-club-sunday-morning/
+[i991]: https://www.deadrooster.org/beck-where-it-s-at/

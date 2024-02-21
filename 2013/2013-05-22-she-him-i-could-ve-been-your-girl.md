@@ -15,4 +15,4 @@ tags:
 _Volume 3_ est dans les bacs, et après [_Never Wanted Your Love_][i1190], _I
 Could’ve Been Your Girl_ est le second titre qui en est extrait.
 
-[i1190]: {% post_url 2013/2013-03-08-she-him-never-wanted-your-love %}
+[i1190]: https://www.deadrooster.org/she-him-never-wanted-your-love/

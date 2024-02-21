@@ -138,7 +138,5 @@ Un peu comme la vie. Un peu comme une compile !
 1. Clipounets - _L’araignée Gypsie_
 
 [simpsons]: https://fr.wikipedia.org/wiki/Homer_Like_a_Rolling_Stone
-
-[i789]: {% post_url 2011/2011-02-24-qui-es-tu-nolwenn-leroy %}
-
-[i1048]: {% post_url 2012/2012-06-09-les-pionniers-oublies-du-rock-francais %}
+[i789]: https://www.deadrooster.org/qui-es-tu-nolwenn-leroy/
+[i1048]: https://www.deadrooster.org/les-pionniers-oublies-du-rock-francais/

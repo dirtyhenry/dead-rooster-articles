@@ -10,4 +10,4 @@ date: "2010-03-10 19:47:42 +0100"
 [On avait déjà parlé du morceau][i1], voici le clip ! Toute ressemblance avec un
 clip de Britney Spears est, je pense, volontaire.
 
-[i1]: {% post_url 2010/2010-01-26-in-the-sun-de-she-him %}
+[i1]: https://www.deadrooster.org/in-the-sun-de-she-him/

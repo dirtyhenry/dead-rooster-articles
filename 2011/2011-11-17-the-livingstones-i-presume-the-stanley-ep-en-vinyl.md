@@ -56,6 +56,5 @@ page Bandcamp][1].
 Tout cela, bien sûr, en attendant, peut-être, un second EP…
 
 [1]: https://thelivingstonesipresume.bandcamp.com
-
 [i849]:
-{% post_url 2011/2011-06-01-plaidoyer-en-faveur-du-retour-du-disque-vinyle %}
+  https://www.deadrooster.org/plaidoyer-en-faveur-du-retour-du-disque-vinyle/

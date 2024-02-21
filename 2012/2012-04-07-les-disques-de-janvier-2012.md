@@ -52,8 +52,6 @@ meilleurs furent :
 On retiendra aussi que même si Benjamin Biolay produit les disques d’Isabelle
 Boulay, il ne vaut mieux pas les écouter.
 
-[i943]: {% post_url 2011/2011-11-03-les-disques-d-octobre-2011 %}
-
-[i975]: {% post_url 2011/2011-12-22-la-feuille-de-route-2012-de-dead-rooster %}
-
+[i943]: https://www.deadrooster.org/les-disques-d-octobre-2011/
+[i975]: https://www.deadrooster.org/la-feuille-de-route-2012-de-dead-rooster/
 [1]: https://app.deadrooster.org/

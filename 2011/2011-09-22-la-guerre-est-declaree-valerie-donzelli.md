@@ -100,12 +100,9 @@ globalement à écouter toute la B.O. dispo sur disque.
 
 {% youtube NbwsIp1mDTs %}
 
-[i235]: {% post_url 2005/2005-05-01-keren-ann-au-havre %}
-
-[i268]: {% post_url 2005/2005-12-17-gentille %}
-
-[i744]: {% post_url 2011/2011-01-04-epilogue-du-concours-katerine %}
-
+[i235]: https://www.deadrooster.org/keren-ann-au-havre/
+[i268]: https://www.deadrooster.org/gentille/
+[i744]: https://www.deadrooster.org/epilogue-du-concours-katerine/
 [1]: https://www.themoviedb.org/movie/53988-la-reine-des-pommes
 [2]: https://www.themoviedb.org/movie/14448-les-chansons-d-amour
 [3]:

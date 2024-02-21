@@ -26,5 +26,5 @@ C’est en anglais, mais voici [le texte et ses annotations][1].
 [1]: https://genius.com/Tom-hanks-full-house-slam-poetry-annotated
 
 [^1]:
-    La preuve ? Un post de ce blog datant de 2012 s’appelle [*Help me
-    Gibbler*]({% post_url 2012/2012-06-21-help-me-gibbler %}).
+    La preuve ? Un post de ce blog datant de 2012 s’appelle
+    [_Help me Gibbler_](https://www.deadrooster.org/help-me-gibbler/).

@@ -143,20 +143,13 @@ rapproche et on se retrouve[^1]. Merci Joe pour la sélection.
     compiles précédentes, en 2015 et 2017 respectivement, puis [j’ai dessiné un
     petit cœur sur son nom][i5], en 2018.
 
-[i1]: {% post_url 2020/2020-12-14-the-madcaps %}
-
-[i2]: {% post_url 2008/2008-09-09-route-du-rock-2008 %}
-
-[i3]: {% post_url 2015/2015-01-21-compile-top-musique-2014 %}
-
-[i4]: {% post_url 2017/2017-01-10-compile-automne-2016 %}
-
-[i5]: {% post_url 2018/2018-01-18-compile-ete-2017-face-b %}
-
-[i6]: {% post_url 2012/2012-01-10-beat-mark-breeezing %}
-
-[i7]: {% post_url 2012/2012-10-11-gospel-music-automobile %}
-
+[i1]: https://www.deadrooster.org/the-madcaps/
+[i2]: https://www.deadrooster.org/route-du-rock-2008/
+[i3]: https://www.deadrooster.org/compile-top-musique-2014/
+[i4]: https://www.deadrooster.org/compile-automne-2016/
+[i5]: https://www.deadrooster.org/compile-ete-2017-face-b/
+[i6]: https://www.deadrooster.org/beat-mark-breeezing/
+[i7]: https://www.deadrooster.org/gospel-music-automobile/
 [1]: https://song.link/fr/i/1440645578 "Wight is Wight — Michel Delpech"
 [2]:
   https://youtu.be/84ynlHPJG0Q

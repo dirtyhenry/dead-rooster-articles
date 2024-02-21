@@ -52,5 +52,4 @@ le pavé de la place de la Bastille.
 [3]: https://youtu.be/Gv4CX5XLdLU
 [4]: https://fr.wikipedia.org/wiki/Nico_Bogue
 [5]: https://fr.wikipedia.org/wiki/Val%C3%A9rie_Leulliot
-
-[i1]: {% post_url 2007/2007-03-30-fountains-of-wayne-traffic-and-weather %}
+[i1]: https://www.deadrooster.org/fountains-of-wayne-traffic-and-weather/

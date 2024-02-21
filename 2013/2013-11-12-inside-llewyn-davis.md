@@ -82,7 +82,5 @@ les couleurs… et un magicien pour transformer une fille en chat) ?
 [4]: https://www.google.fr/search?q=oscar+isaac+looks+like+jake+johnson
 [5]: https://en.wikipedia.org/wiki/Mumford_%26_Sons
 [6]: https://en.wikipedia.org/wiki/The_Big_Lebowski
-
-[i219]: {% post_url 2008/2008-10-27-bob-dylan-une-biographie-francois-bon %}
-
-[ioutll]: {% post_url 2013/2013-12-03-outside-llewyn-davis %}
+[i219]: https://www.deadrooster.org/bob-dylan-une-biographie-francois-bon/
+[ioutll]: https://www.deadrooster.org/outside-llewyn-davis/

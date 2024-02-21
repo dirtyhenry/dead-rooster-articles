@@ -17,6 +17,5 @@ Something to Happen_, vient de sortir.
 
 Réécouter [_My Heart Beats_][i1011] ou [_Teenage_][i1137].
 
-[i1011]: {% post_url 2012/2012-03-15-veronica-falls-my-heart-beats %}
-
-[i1137]: {% post_url 2012/2012-11-15-veronica-falls-teenage %}
+[i1011]: https://www.deadrooster.org/veronica-falls-my-heart-beats/
+[i1137]: https://www.deadrooster.org/veronica-falls-teenage/

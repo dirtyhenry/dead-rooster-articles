@@ -19,6 +19,5 @@ vous pouvez réécouter Jesus Fever [ici][i822].
 (via
 [Pitchfork](https://pitchfork.com/news/49461-kurt-vile-details-new-lp-wakin-on-a-pretty-daze-shares-nine-minute-album-opener/))
 
-[i992]: {% post_url 2012/2012-02-05-les-disques-de-decembre-2011 %}
-
-[i822]: {% post_url 2011/2011-04-11-kurt-vile-jesus-fever %}
+[i992]: https://www.deadrooster.org/les-disques-de-decembre-2011/
+[i822]: https://www.deadrooster.org/kurt-vile-jesus-fever/

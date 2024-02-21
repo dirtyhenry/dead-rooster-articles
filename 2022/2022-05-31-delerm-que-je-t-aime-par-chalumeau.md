@@ -137,8 +137,7 @@ La réponse de Rock&Folk :
     NDLR, Biolay qui d’ailleurs apparaît brièvement dans le public de Cannes
     dans la vidéo de Delerm 🤯.
 
-[i1]: {% post_url 2015/2015-05-09-laurent-chalumeau-kif %}
-
+[i1]: https://www.deadrooster.org/laurent-chalumeau-kif/
 [1]: https://www.instagram.com/p/CdtuLwOrmN0/
 [2]:
   https://www.france.tv/films/festival-de-cannes/3451306-vincent-delerm-reprend-que-je-t-aime.html

@@ -20,4 +20,4 @@ rajeunit pas.
 (via Carole)
 
 [1]:
-{% post_url 2007/2007-05-05-electric-soft-parade-if-that-s-the-case-then-i-don-t-know %}
+  https://www.deadrooster.org/electric-soft-parade-if-that-s-the-case-then-i-don-t-know/

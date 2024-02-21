@@ -97,10 +97,8 @@ les jours, pas tous les 4 ans.
     bien pu ou dû prendre soin d’éviter. The Guardian vous fait [une récap
     exhaustive][18] en anglais.
 
-[i1]: {% post_url 2022/2022-10-11-ce-que-j-aime-dans-le-foot %}
-
-[i2]: {% post_url 2022/2022-11-30-boycott-coupe-du-monde-2022-qatar-v2 %}
-
+[i1]: https://www.deadrooster.org/ce-que-j-aime-dans-le-foot/
+[i2]: https://www.deadrooster.org/boycott-coupe-du-monde-2022-qatar-v2/
 [1]:
   https://www.lemonde.fr/les-decodeurs/article/2022/10/29/qatar-2022-la-promesse-de-neutralite-carbone-de-la-coupe-du-monde-n-est-pas-credible_6147831_4355770.html
   "Qatar 2022 : la promesse de « neutralité carbone » de la Coupe du monde n’est pas crédible"

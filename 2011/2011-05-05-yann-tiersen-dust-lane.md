@@ -83,9 +83,6 @@ yeux.][4]
 [3]: http://www.youtube.com/watch?v=o8Pu08769NQ
 [4]:
   http://www.dailymotion.com/video/x8v3sm_francis-cabrel-les-murs-de-poussier_music
-
-[1]: {% post_url 2010/2010-09-02-the-national-high-violet %}
-
-[i747]: {% post_url 2011/2011-01-11-top-musique-2010 %}
-
-[i789]: {% post_url 2011/2011-02-24-qui-es-tu-nolwenn-leroy %}
+[1]: https://www.deadrooster.org/the-national-high-violet/
+[i747]: https://www.deadrooster.org/top-musique-2010/
+[i789]: https://www.deadrooster.org/qui-es-tu-nolwenn-leroy/

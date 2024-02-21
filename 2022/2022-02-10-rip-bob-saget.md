@@ -48,8 +48,7 @@ RIP Bob Saget. Le monde va mal.
     Voir par ailleurs [le slam de Tom Hanks sur ledit épisode][i1]. Ça tourne à
     l’obsession.
 
-[i1]: {% post_url 2021/2021-01-08-tom-hanks-full-house-slam %}
-
+[i1]: https://www.deadrooster.org/tom-hanks-full-house-slam/
 [1]: https://fr.wikipedia.org/wiki/Giga_(émission_de_télévision)
 [2]: https://www.themoviedb.org/tv/4313-full-house
 [3]: https://fullhouse.fandom.com/wiki/Beach_Boy_Bingo

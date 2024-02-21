@@ -37,7 +37,6 @@ mai) sera pas trop mal apparemment…
 
 {% youtube jX7sniIVmtM %}
 
-[i226]: {% post_url 2009/2009-05-10-love-is-all-fresh-young %}
-
+[i226]: https://www.deadrooster.org/love-is-all-fresh-young/
 [i359]:
-{% post_url 2007/2007-02-20-love-is-all-ageing-had-never-been-his-friend %}
+  https://www.deadrooster.org/love-is-all-ageing-had-never-been-his-friend/

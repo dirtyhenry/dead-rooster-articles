@@ -37,4 +37,4 @@ l’âge d’or est de courte durée puisqu’on raconte qu’après les succès
 incontestables de _Today_ et _Tonight, Tonight_, Billy est tombé en dépression
 quand on lui a appris que _Yesterday_ avait déjà été chanté…
 
-[i757]: {% post_url 2011/2011-02-05-nirvana %}
+[i757]: https://www.deadrooster.org/nirvana/

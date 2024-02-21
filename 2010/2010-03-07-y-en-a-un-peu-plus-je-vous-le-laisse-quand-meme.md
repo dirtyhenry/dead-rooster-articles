@@ -12,4 +12,4 @@ Après son triomphe aux Victoires de la Musique (on vous avait dit que c’étai
 titres inédits sur le myspace de **Benjamin Biolay**… sans doute en deçà des
 morceaux de l’album, mais saluons au moins la diffusion !
 
-[i1]: {% post_url 2009/2009-11-05-benjamin-biolay-la-superbe %}
+[i1]: https://www.deadrooster.org/benjamin-biolay-la-superbe/

@@ -74,8 +74,7 @@ Le foot est toujours source de fun (via Joe Gantdelaine) :
 
 [Le Fun Friday de la semaine dernière][i711]
 
-[i711]: {% post_url 2010/2010-10-08-liberation-generale %}
-
+[i711]: https://www.deadrooster.org/liberation-generale/
 [1]:
   https://www.stereogum.com/513961/sacha-baron-cohen-cast-as-freddie-mercury/news/
   "Sacha Baron Cohen Cast As Freddie Mercury"

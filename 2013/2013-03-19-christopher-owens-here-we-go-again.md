@@ -16,4 +16,4 @@ Les nostalgiques de Girls peuvent toujours [réécouter _Honey Bunny_][i919]).
 
 (via Pitchfork)
 
-[i919]: {% post_url 2011/2011-10-04-girls-honey-bunny %}
+[i919]: https://www.deadrooster.org/girls-honey-bunny/

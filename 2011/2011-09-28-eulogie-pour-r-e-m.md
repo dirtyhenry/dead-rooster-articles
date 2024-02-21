@@ -81,8 +81,7 @@ _Radio Free Europe_ (recommandé par Benjamin A.)
 
 Et [une chanson bonus mystère][12].
 
-[i266]: {% post_url 2005/2005-12-16-le-cdv-en-dvd-les-copains %}
-
+[i266]: https://www.deadrooster.org/le-cdv-en-dvd-les-copains/
 [1]: https://song.link/fr/i/1440945283
 [2]: https://song.link/fr/i/1440945300
 [3]: https://song.link/fr/i/1440949865

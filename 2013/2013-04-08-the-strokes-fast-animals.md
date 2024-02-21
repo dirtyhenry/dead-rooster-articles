@@ -25,11 +25,7 @@ single, ou [la reprise de _Just What I Needed_ avec Jarvis Cocker][i2].
 
 (via [Stereogum][1])
 
-[i3]: {% post_url 2013/2013-04-04-taxi-girl-paris %}
-
-[i1]: {% post_url 2013/2013-02-18-the-strokes-all-the-time %}
-
-[i2]:
-{% post_url 2011/2011-09-05-the-strokes-jarvis-cocker-just-what-i-needed %}
-
+[i3]: https://www.deadrooster.org/taxi-girl-paris/
+[i1]: https://www.deadrooster.org/the-strokes-all-the-time/
+[i2]: https://www.deadrooster.org/the-strokes-jarvis-cocker-just-what-i-needed/
 [1]: https://www.stereogum.com/1297372/the-strokes-fast-animals/news/

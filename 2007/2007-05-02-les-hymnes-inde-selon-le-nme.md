@@ -77,4 +77,4 @@ penser que Vertigo est et demeurera le meilleur titre des Libertines ⁈)
 49. The Rapture - _House Of Jealous Lovers_
 50. My Bloody Valentine - _You Made Me Realise_
 
-[i1]: {% post_url 2012/2012-04-20-oasis-live-forever %}
+[i1]: https://www.deadrooster.org/oasis-live-forever/

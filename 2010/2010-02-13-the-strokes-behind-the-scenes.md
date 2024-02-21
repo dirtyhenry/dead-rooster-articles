@@ -15,4 +15,4 @@ au ping-pong ou faire les cons. Dure dure la vie.
 Mais peut-être est-ce juste que quand Julian Casablancas n’est pas là, le reste
 des Strokes danse.
 
-[i1]: {% post_url 2010/2010-02-10-strokes-au-boulot %}
+[i1]: https://www.deadrooster.org/strokes-au-boulot/

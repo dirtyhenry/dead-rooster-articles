@@ -125,9 +125,6 @@ peu. C’est tout à leur honneur.
   https://www.dailymotion.com/video/x6gron?start=577
   "Extrait de Merci le Foot, avec Edouard Baer"
 [6]: https://youtu.be/n8x1T_-XfMY "Le prix des alumettes - Stone et Charden"
-
-[i1]: {% post_url 2015/2015-02-26-neutral-milk-hotel %}
-
-[i721]: {% post_url 2010/2010-11-10-que-devient-3-guys-never-in %}
-
-[i984]: {% post_url 2012/2012-01-18-top-musique-2011 %}
+[i1]: https://www.deadrooster.org/neutral-milk-hotel/
+[i721]: https://www.deadrooster.org/que-devient-3-guys-never-in/
+[i984]: https://www.deadrooster.org/top-musique-2011/

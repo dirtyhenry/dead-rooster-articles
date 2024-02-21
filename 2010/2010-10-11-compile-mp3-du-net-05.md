@@ -56,4 +56,4 @@ et fermer la compile avec une reprise de Katy Perry.
 
 [Réécouter la compile #04][i709]
 
-[i709]: {% post_url 2010/2010-10-04-compile-mp3-du-net-04 %}
+[i709]: https://www.deadrooster.org/compile-mp3-du-net-04/

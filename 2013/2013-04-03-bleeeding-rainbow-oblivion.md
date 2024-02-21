@@ -19,10 +19,7 @@ nom, [Bleeding Rainbow][i728]) : [_Drift Away_][i1133], [_Dead End_][i910] ou
 
 (via [Stereogum](https://stereogum.com/1300722/bleeding-rainbow-oblivion/mp3s/))
 
-[i728]: {% post_url 2010/2010-12-07-bleeding-rainbow %}
-
-[i1133]: {% post_url 2012/2012-11-01-bleeding-rainbow-drift-away %}
-
-[i910]: {% post_url 2011/2011-09-15-bleeding-rainbow-dead-end %}
-
-[i712]: {% post_url 2010/2010-10-11-compile-mp3-du-net-05 %}
+[i728]: https://www.deadrooster.org/bleeding-rainbow/
+[i1133]: https://www.deadrooster.org/bleeding-rainbow-drift-away/
+[i910]: https://www.deadrooster.org/bleeding-rainbow-dead-end/
+[i712]: https://www.deadrooster.org/compile-mp3-du-net-05/

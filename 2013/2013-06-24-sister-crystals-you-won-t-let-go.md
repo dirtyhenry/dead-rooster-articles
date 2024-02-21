@@ -15,4 +15,4 @@ embeddé donc cliquez sur ce lien, vous ne le regretterez pas :
 
 [_You Won’t Let Go_, sur Soundcloud](https://soundcloud.com/sistercrystals/9-you-wont-let-go).
 
-[i1193]: {% post_url 2013/2013-03-13-sister-crystals-for-so-long %}
+[i1193]: https://www.deadrooster.org/sister-crystals-for-so-long/

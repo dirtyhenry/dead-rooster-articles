@@ -27,6 +27,5 @@ gens changent de vote aussi souvent, pourquoi tout ça.
 
 Et pendant qu’on y est, n’oublions pas non plus [le parti fataliste][i390].
 
-[i975]: {% post_url 2011/2011-12-22-la-feuille-de-route-2012-de-dead-rooster %}
-
-[i390]: {% post_url 2007/2007-06-27-c-est-comme-ca %}
+[i975]: https://www.deadrooster.org/la-feuille-de-route-2012-de-dead-rooster/
+[i390]: https://www.deadrooster.org/c-est-comme-ca/

@@ -56,5 +56,4 @@ Pour finir voici une liste sélective du monde de Dylan, à goûter sur le net 
 - [Hugues Aufray - _L’Homme Orchestre_](https://song.link/fr/i/1452865158)
 
 [2]: https://fr.wikipedia.org/wiki/Traveling_Wilburys
-
-[1]: {% post_url 2010/2010-02-13-zoom-sur-le-zep %}
+[1]: https://www.deadrooster.org/zoom-sur-le-zep/

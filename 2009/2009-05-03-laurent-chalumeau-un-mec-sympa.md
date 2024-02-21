@@ -89,5 +89,4 @@ scénarisé par Laurent~~ (edit : le projet semble avoir été annulé).
 [5]:
   https://web.archive.org/web/20100627053335/http://blogs.lesinrocks.com/s-kaganski/?p=184
 [6]: https://www.imdb.com/name/nm0150079/
-
-[i1]: {% post_url 2015/2015-05-09-laurent-chalumeau-kif %}
+[i1]: https://www.deadrooster.org/laurent-chalumeau-kif/

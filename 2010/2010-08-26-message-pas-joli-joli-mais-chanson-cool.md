@@ -34,4 +34,4 @@ vous.
 
 {% youtube CAV0XrbEwNc %}
 
-[i28]: {% post_url 2009/2009-06-25-lily-allen-t-emmerde %}
+[i28]: https://www.deadrooster.org/lily-allen-t-emmerde/

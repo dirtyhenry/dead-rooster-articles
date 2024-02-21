@@ -16,6 +16,5 @@ Les concerts parisiens annoncés récemment :
 - The Bellrays le 22 juillet (déjà chroniqués [ici][i1] et [là][i2])
 
 [i1]:
-{% post_url 2006/2006-06-07-les-soledad-brothers-sont-morts-vivent-les-bellrays %}
-
-[i2]: {% post_url 2008/2008-08-29-soleded-brothers-next %}
+  https://www.deadrooster.org/les-soledad-brothers-sont-morts-vivent-les-bellrays/
+[i2]: https://www.deadrooster.org/soleded-brothers-next/

@@ -23,6 +23,5 @@ Estate.
 (via
 [Stereogum](https://stereogum.com/1260751/alex-bleeker-and-the-freaks-dont-look-down/mp3s/))
 
-[i982]: {% post_url 2012/2012-01-12-real-estate-easy %}
-
-[i944]: {% post_url 2011/2011-11-05-real-estate-it-s-real %}
+[i982]: https://www.deadrooster.org/real-estate-easy/
+[i944]: https://www.deadrooster.org/real-estate-it-s-real/

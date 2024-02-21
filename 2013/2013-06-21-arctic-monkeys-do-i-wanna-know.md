@@ -23,9 +23,7 @@ yeux, la B.O. de [_Submarine_][i879].
 [Pitchfork](https://pitchfork.com/news/51224-new-arctic-monkeys-do-i-wanna-know/))
 
 [i872]:
-{% post_url 2011/2011-07-18-arctic-monkeys-the-hellcat-spangled-shalalala %}
-
+  https://www.deadrooster.org/arctic-monkeys-the-hellcat-spangled-shalalala/
 [i823]:
-{% post_url 2011/2011-04-12-arctic-monkeys-don-t-sit-down-cause-i-ve-moved-your-chair %}
-
-[i879]: {% post_url 2011/2011-08-15-submarine-richard-ayoade %}
+  https://www.deadrooster.org/arctic-monkeys-don-t-sit-down-cause-i-ve-moved-your-chair/
+[i879]: https://www.deadrooster.org/submarine-richard-ayoade/

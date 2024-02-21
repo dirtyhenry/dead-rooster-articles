@@ -18,6 +18,5 @@ travers les vitres de bus… Aucune date de sortie française n’est prévue po
 moment : Allociné ne parle même pas du film.
 
 [i1]:
-{% post_url 2008/2008-06-19-scarlett-johansson-anywhere-i-lay-my-head-she-him-volume-one %}
-
+  https://www.deadrooster.org/scarlett-johansson-anywhere-i-lay-my-head-she-him-volume-one/
 [1]: https://www.deadrooster.org/tag/sleater-kinney/

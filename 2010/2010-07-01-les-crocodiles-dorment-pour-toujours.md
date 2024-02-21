@@ -21,8 +21,7 @@ parle bien de [celui-là][1].
 
 Pour le titre _Sleep Forever_, il faut se rendre sur le site de [Stereogum][2].
 
-[i588]: {% post_url 2010/2010-04-05-selection-chanson-dum-dum-girls %}
-
+[i588]: https://www.deadrooster.org/selection-chanson-dum-dum-girls/
 [1]: https://pitchfork.com/artists/27783-crocodiles/
 [2]:
   https://www.stereogum.com/408972/crocodiles-sleep-forever-stereogum-premiere/music/

@@ -13,6 +13,5 @@ quelques temps][i1], qui contient le concert à Hyde Park de juin 2009 [où on
 
 Un nouveau trailer est sorti pour fêter ça.
 
-[i1]: {% post_url 2010/2010-01-16-double-dvd-pour-blur %}
-
-[i2]: {% post_url 2009/2009-07-26-hand-in-hand-through-their-hyde-parklife %}
+[i1]: https://www.deadrooster.org/double-dvd-pour-blur/
+[i2]: https://www.deadrooster.org/hand-in-hand-through-their-hyde-parklife/

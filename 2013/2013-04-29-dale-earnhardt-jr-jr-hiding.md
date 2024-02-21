@@ -18,6 +18,5 @@ Paul McCartney. C’est pas rien.
 
 via [Stereogum](https://stereogum.com/1318811/dale-earnhardt-jr-jr-hiding/news/)
 
-[i912]: {% post_url 2011/2011-09-19-dale-earnhardt-jr-jr-simple-girl %}
-
-[i709]: {% post_url 2010/2010-10-04-compile-mp3-du-net-04 %}
+[i912]: https://www.deadrooster.org/dale-earnhardt-jr-jr-simple-girl/
+[i709]: https://www.deadrooster.org/compile-mp3-du-net-04/

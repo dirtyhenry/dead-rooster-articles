@@ -65,5 +65,4 @@ colle. Le syndrome de la folie des grandeurs. Ou, plus court, le syndrome Bono.
   https://pitchfork.com/reviews/albums/foo-fighters-medicine-at-midnight/
   "Review de 'Medicine at Midnight', des Foo Fighters, sur Pitchfork"
 [6]: https://song.link/fr/i/258512044 "This Is a Call — Foo Fighters"
-
-[i266]: {% post_url 2005/2005-12-16-le-cdv-en-dvd-les-copains %}
+[i266]: https://www.deadrooster.org/le-cdv-en-dvd-les-copains/

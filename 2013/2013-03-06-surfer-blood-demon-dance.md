@@ -15,4 +15,4 @@ L’album s’annonce, et s’annonce plutôt pas mal !
 
 (via [Stereogum](https://stereogum.com/1280211/surfer-blood-demon-dance/mp3s/))
 
-[i1173]: {% post_url 2013/2013-02-11-surfer-blood-weird-shapes %}
+[i1173]: https://www.deadrooster.org/surfer-blood-weird-shapes/

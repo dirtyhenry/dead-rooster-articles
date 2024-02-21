@@ -97,5 +97,4 @@ En bonus, quelques liens, dont une compile Spotify :
 - [Compile Detroit sur Spotify](http://open.spotify.com/user/dirtyhenry/playlist/1RLY05XUpE2GH92qaol6X6)
 
 [1]: https://fr.wikipedia.org/wiki/John_Sinclair_(poète)
-
-[i215]: {% post_url 2008/2008-08-29-soleded-brothers-next %}
+[i215]: https://www.deadrooster.org/soleded-brothers-next/

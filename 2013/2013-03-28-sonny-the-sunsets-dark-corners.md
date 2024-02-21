@@ -18,6 +18,5 @@ hit [_I Wanna Do It_][i827].
 (via
 [Stereogum](https://stereogum.com/1293871/sonny-and-the-sunsets-dark-corners/mp3s/))
 
-[i1195]: {% post_url 2013/2013-03-15-sonny-the-sunsets-imagine %}
-
-[i827]: {% post_url 2011/2011-04-15-sonny-the-sunsets-i-wanna-do-it %}
+[i1195]: https://www.deadrooster.org/sonny-the-sunsets-imagine/
+[i827]: https://www.deadrooster.org/sonny-the-sunsets-i-wanna-do-it/

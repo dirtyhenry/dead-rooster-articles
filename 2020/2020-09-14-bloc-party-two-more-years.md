@@ -29,7 +29,5 @@ cela ne tienne, on ira sur YouTube, et une petite _alarme silencieuse_ dans la
 foulée aussi tiens. Les autres attendront.
 
 [1]: https://soundcloud.com/hooray-henrys/helicopter-bloc-party-cover
-
-[i1]: {% post_url 2020/2020-05-01-renaissance-du-phoenix %}
-
-[i2]: {% post_url 2005/2005-12-31-compile-automne-2005 %}
+[i1]: https://www.deadrooster.org/renaissance-du-phoenix/
+[i2]: https://www.deadrooster.org/compile-automne-2005/

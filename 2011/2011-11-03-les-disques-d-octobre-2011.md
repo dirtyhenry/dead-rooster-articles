@@ -94,10 +94,8 @@ Réalisée avec Sortmash.
   - Male Bonding - _Endless Now_
   - Stranded Horse - _Humbling Tides_
 
-[i936]: {% post_url 2011/2011-10-25-dum-dum-girls-only-in-dreams %}
-
+[i936]: https://www.deadrooster.org/dum-dum-girls-only-in-dreams/
 [i680]:
-{% post_url 2010/2010-08-12-the-swell-season-two-headed-boy-neutral-milk-hotel %}
-
+  https://www.deadrooster.org/the-swell-season-two-headed-boy-neutral-milk-hotel/
 [i687]:
-{% post_url 2010/2010-08-27-neutral-uke-hotel-in-the-aeroplane-over-the-sea-neutral-milk-hotel %}
+  https://www.deadrooster.org/neutral-uke-hotel-in-the-aeroplane-over-the-sea-neutral-milk-hotel/

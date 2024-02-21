@@ -23,4 +23,4 @@ The Notwist est un groupe inégal mais parfois capable de coups de génies (on e
 parle dans [notre critique de _The Devil, You + Me_][i211]). Le titre _Gloomy
 Planets_ est l’un de ceux-ci.
 
-[i211]: {% post_url 2008/2008-07-08-the-notwist-devil-you-plus-me %}
+[i211]: https://www.deadrooster.org/the-notwist-devil-you-plus-me/

@@ -14,5 +14,4 @@ Rennes][1] ! Par contre, qu’a-t-il fait de son emblématique barbe ? Le mond
 mal !
 
 [1]: https://www.lequipe.fr/Football/FootballFicheJoueur20726.html
-
-[i877]: {% post_url 2011/2011-07-23-foot-et-litterature %}
+[i877]: https://www.deadrooster.org/foot-et-litterature/

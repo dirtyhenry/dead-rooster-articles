@@ -19,8 +19,6 @@ lequel on a un gros faible).
 (via
 [Pitchfork](https://pitchfork.com/news/49829-watch-the-surreal-beach-house-video-for-wishes-directed-by-eric-wareheim-and-starring-ray-wise/))
 
-[i126]: {% post_url 2010/2010-02-02-session-de-beach-house-sur-daytrotter %}
-
-[i1157]: {% post_url 2013/2013-01-09-beach-house-wild %}
-
-[i682]: {% post_url 2010/2010-08-25-beach-house-white-moon %}
+[i126]: https://www.deadrooster.org/session-de-beach-house-sur-daytrotter/
+[i1157]: https://www.deadrooster.org/beach-house-wild/
+[i682]: https://www.deadrooster.org/beach-house-white-moon/

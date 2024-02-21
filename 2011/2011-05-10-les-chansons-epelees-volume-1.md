@@ -73,11 +73,9 @@ McCartney][3].
 
 {% youtube sy1dYFGkPUE %}
 
-[i837]: {% post_url 2011/2011-05-05-yann-tiersen-dust-lane %}
-
-[i852]: {% post_url 2011/2011-06-15-pulp-different-class %}
-
-[i540]: {% post_url 2009/2009-10-25-noah-et-la-baleine %}
+[i837]: https://www.deadrooster.org/yann-tiersen-dust-lane/
+[i852]: https://www.deadrooster.org/pulp-different-class/
+[i540]: https://www.deadrooster.org/noah-et-la-baleine/
 
 [^1]:
     Plus aucun lien ne mentionne cette histoire. C’est louche. On essaierait de

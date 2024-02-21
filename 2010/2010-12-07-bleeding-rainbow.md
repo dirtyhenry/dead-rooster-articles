@@ -49,10 +49,8 @@ dont voici le générique en bonus :
 
 {% youtube 4Ygs3IHJ2bM %}
 
-[i712]: {% post_url 2010/2010-10-11-compile-mp3-du-net-05 %}
-
-[i725]: {% post_url 2010/2010-12-06-compile-mp3-du-net-08 %}
-
+[i712]: https://www.deadrooster.org/compile-mp3-du-net-05/
+[i725]: https://www.deadrooster.org/compile-mp3-du-net-08/
 [1]: https://bleedingrainbow.bandcamp.com/album/prism-eyes-lp
 [2]: https://bleedingrainbow.bandcamp.com/album/mystical-participation-lp
 [3]: https://en.wikipedia.org/wiki/Reading_Rainbow

@@ -22,4 +22,4 @@ UPDATE : et maintenant, le clip :
 {% youtube zj5RKp0inTw %}
 
 [i224]:
-{% post_url 2009/2009-03-04-top-musique-2008-par-dead-rooster-canal-historique %}
+  https://www.deadrooster.org/top-musique-2008-par-dead-rooster-canal-historique/

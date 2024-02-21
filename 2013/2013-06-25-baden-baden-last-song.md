@@ -15,4 +15,4 @@ sorti son album _Coline_ en septembre 2012.
 Pour relire la chronique de Marcello Marcellito sur le groupe, c’est
 [ici][i752].
 
-[i752]: {% post_url 2011/2011-01-13-zone-d-ecoute-prioritaire-1 %}
+[i752]: https://www.deadrooster.org/zone-d-ecoute-prioritaire-1/

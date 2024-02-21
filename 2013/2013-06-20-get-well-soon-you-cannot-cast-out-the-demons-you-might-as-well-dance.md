@@ -17,4 +17,4 @@ nous sommes ravis de partager avec vous son titre de clôture, épique :
 Souvenons-nous également de [leur prélude de 2008][i601], ça ne nous rajeunit
 pas.
 
-[i601]: {% post_url 2008/2008-12-31-compile-automne-2008 %}
+[i601]: https://www.deadrooster.org/compile-automne-2008/

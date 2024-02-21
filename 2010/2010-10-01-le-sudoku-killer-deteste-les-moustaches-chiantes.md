@@ -80,7 +80,6 @@ clavier ! Merci aussi de faire attention au sudoku-killer.
 
 [Le Fun Friday de la semaine dernière.][i705]
 
-[i201]: {% post_url 2008/2008-04-02-wes-anderson-schwartzman-deschanel %}
-
+[i201]: https://www.deadrooster.org/wes-anderson-schwartzman-deschanel/
 [i705]:
-{% post_url 2010/2010-09-24-ton-grand-pere-et-ses-chiens-indiana-jones-james-mercer-et-des-metalleux-jouent-au-tir-a-la-corde %}
+  https://www.deadrooster.org/ton-grand-pere-et-ses-chiens-indiana-jones-james-mercer-et-des-metalleux-jouent-au-tir-a-la-corde/

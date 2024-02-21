@@ -36,4 +36,4 @@ siècle précédent, le tout sur le _All Together Now_ du duo Lennon/McCartney.
 
 {% youtube BgqO06FG_5w %}
 
-[i574]: {% post_url 2010/2010-03-04-oh-no-ono %}
+[i574]: https://www.deadrooster.org/oh-no-ono/

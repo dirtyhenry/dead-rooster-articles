@@ -57,4 +57,4 @@ désintéressaient, et avaient des considérations beaucoup plus écolo, se souc
 beaucoup du climat (_Have you ever seen the rain ?_, _Who’ll stop the rain_) et
 de la nature (_Bad Moon Rising_, _Cotton Fields_).
 
-[i765]: {% post_url 2011/2011-03-19-claude-francois %}
+[i765]: https://www.deadrooster.org/claude-francois/

@@ -15,6 +15,5 @@ Le groupe de Chicago annonce leur prochain LP, [_Soft Will_][1], qui sortira le
 
 Pareil que pour The National [hier][i1227] : "Vivement l’album !"
 
-[i1227]: {% post_url 2013/2013-05-09-the-national-sea-of-love %}
-
+[i1227]: https://www.deadrooster.org/the-national-sea-of-love/
 [1]: https://album.link/fr/i/657433087

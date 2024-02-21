@@ -14,8 +14,6 @@ Him** seront en concert à Paris, à l’Alhambra, le 29 avril.
 Pour ceux qui veulent se faire une chouette semaine concert, il y aura le Brian
 Jonestown Massacre le 27, et [Nada Surf le 28][i3].
 
-[i1]: {% post_url 2008/2008-09-16-moi-et-zooey-ce-sera-pour-plus-tard %}
-
-[i2]: {% post_url 2009/2009-01-20-top-musique-2008 %}
-
-[i3]: {% post_url 2010/2010-01-05-nada-surf-de-retour-et-en-concert-paris %}
+[i1]: https://www.deadrooster.org/moi-et-zooey-ce-sera-pour-plus-tard/
+[i2]: https://www.deadrooster.org/top-musique-2008/
+[i3]: https://www.deadrooster.org/nada-surf-de-retour-et-en-concert-paris/
