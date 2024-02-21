@@ -13,8 +13,6 @@ dans le titre [_Brandt Rhapsodie_][1].
 
 L’album [_La Superbe_][2], inégal, vient de sortir.
 
-[http://www.deezer.com/listen-4217531->http://www.deezer.com/listen-4217531]
-
 [i1]: https://www.deadrooster.org/france-culture-par-arnaud-fleurent-didier/
 [1]:
   https://song.link/fr/i/330983828
