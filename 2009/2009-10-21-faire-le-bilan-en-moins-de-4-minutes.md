@@ -5,7 +5,6 @@ wordpress_id: 82
 date: "2009-10-21 14:08:14 +0200"
 tags:
   - Benjamin Biolay
-comments: []
 ---
 
 Arnaud Fleurent-Didier avait lancé l’exercice de style du [bilan en chanson
