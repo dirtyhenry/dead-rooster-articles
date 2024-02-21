@@ -25,8 +25,8 @@ et on dodeline devant le clip de _Beautiful People (Stay High)_.
 
 Pour l'anecdote, les images viennent du film [_Beat Girl_][5], la jeune fille
 s'appelle Gillian Hills — et non pas Brigitte Bardot — et le jeune homme
-s'appelle Oliver Reed, que vous avez dû voir dans Gladiator où il joue le rôle
-de Proximo, dont il est mort pendant le tournage. Voilà voilà.
+s'appelle Oliver Reed, que vous avez dû voir dans _Gladiator_, où il joue le
+rôle de [Proximo][6], durant le tournage duquel… il est mort. Voilà voilà.
 
 [1]: https://www.deadrooster.org/black-keys-bataclan-attack-and-release/
 [2]: https://www.deadrooster.org/top-musique-2008/
