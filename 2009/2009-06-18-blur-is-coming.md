@@ -8,7 +8,7 @@ date: "2009-06-18 18:45:11 +0200"
 La machine à marketing tourne à fond pour Blur en pleine tournée de reformation.
 Des concerts sold-out en pagaille (mais une seule date en France), un best-of et
 même ce widget qui permet d’accéder à des vidéos et des extraits de concerts
-vraiment sympas :
+vraiment sympas :
 
 <object 
     type="application/x-shockwave-flash"
