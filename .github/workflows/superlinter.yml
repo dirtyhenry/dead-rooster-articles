@@ -4,10 +4,18 @@ name: Lint
 # Run this workflow every time a new commit pushed to your repository
 on: push
 
+permissions: read-all
+
 jobs:
   super-lint:
     name: Lint
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: read
+      packages: read
+      # To report GitHub Actions status checks
+      statuses: write
 
     steps:
       - name: Checkout code
@@ -18,7 +26,7 @@ jobs:
           fetch-depth: 0
 
       - name: Super-linter
-        uses: super-linter/super-linter@v5.7.2
+        uses: super-linter/super-linter@v6.2.0
         env:
           DEFAULT_BRANCH: main
           # To report GitHub Actions status checks

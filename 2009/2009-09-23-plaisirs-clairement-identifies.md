@@ -12,7 +12,7 @@ Saville**, le graphiste qui se cache derrière la majeure partie des visuels du
 label mancunien **Factory** et donc des pochettes de Joy Division et New Order,
 entre autres.
 
-Le site : http://mrdoob.com/lab/av/saville/
+[Le site][1]
 
 [1]:
   https://web.archive.org/web/20090515000000*/http://mrdoob.com/lab/av/saville/

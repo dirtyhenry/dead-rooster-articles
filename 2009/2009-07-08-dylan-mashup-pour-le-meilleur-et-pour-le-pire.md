@@ -7,6 +7,6 @@ tags:
   - Bob Dylan
 ---
 
-Y’a du bon et du moins bon dans tout ça :
+Y’a du bon et du moins bon dans tout ça dans le [_Dylan Mashed_][1] de ToToM.
 
-https://totom.eu/2009/06/19/dylan-mashed/
+[1]: https://totom.eu/2009/06/19/dylan-mashed/

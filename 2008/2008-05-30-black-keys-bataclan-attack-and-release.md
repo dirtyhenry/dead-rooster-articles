@@ -31,7 +31,7 @@ efforts studio pour autant.
 
 ## Dan et Patrick
 
-Arrive enfin [**The Black Keys**][3]. L’écoute de [_Attack & Release_][4], leur
+Arrive enfin [**The Black Keys**][3]. L’écoute de [_Attack & Release_][5], leur
 dernier album, produit par Danger Mouse, levait une interrogation : comment
 allaient sonner les titres de ce disque sur scène, eux qui dépassent le plus
 souvent le cadre traditionnel guitare/batterie ? La réponse ne fut que partielle

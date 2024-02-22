@@ -9,7 +9,7 @@ date: "2010-02-15 17:19:22 +0100"
 
 C’est aujourd’hui que sort le double DVD de **Blur** dont [on parlait ici il y a
 quelques temps][i1], qui contient le concert à Hyde Park de juin 2009 [où on
-était dans l’assistance->514].
+était dans l’assistance][i2].
 
 Un nouveau trailer est sorti pour fêter ça.
 
