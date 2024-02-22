@@ -4,6 +4,8 @@ name: Lint
 # Run this workflow every time a new commit pushed to your repository
 on: push
 
+permissions: read-all
+
 jobs:
   super-lint:
     name: Lint
