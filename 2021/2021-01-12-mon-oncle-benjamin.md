@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mon Oncle Benjamin - Édouard Molinaro
+title: Mon Oncle Benjamin, d’Édouard Molinaro
 author: Dirty Henry
 cover: mon-oncle-benjamin.jpg
 category: Ciné-Club moi j'vous dis
@@ -140,22 +140,17 @@ Bref, il vous faudra passer outre 50 années d’évolution des mœurs pour appr
 le film, mais il est malgré tout vivement recommandé. C’est le Joey Tribbiani
 des films : il vous [embarassera souvent][11] mais il a un cœur gros comme ça.
 
-{% comment %}
-[My Uncle Benjamin (1969) — The Movie Database (TMDb)](https://www.themoviedb.org/movie/2373-mon-oncle-benjamin)
-[JustWatch](https://www.justwatch.com/fr/film/mon-oncle-benjamin)
-{% endcomment %}
-
 [^1]:
     dont, dit en passant, Joe Gantdelaine et moi-même vous recommandons [_Paris
     au mois d’août_][10].
 
 [^2]: à partir de 19’38
 
-[1]: https://fr.wikipedia.org/wiki/Mon_oncle_Benjamin_(film,_1969)
+[1]: https://www.themoviedb.org/movie/2373-mon-oncle-benjamin
 [2]: https://fr.wikipedia.org/wiki/Mon_oncle_Benjamin
 [3]:
   https://madelen.ina.fr/programme/les-livres-de-ma-vie-georges-brassens-et-rene-fallet
-[4]: https://fr.wikipedia.org/wiki/Édouard_Molinaro
+[4]: https://www.themoviedb.org/person/24380-douard-molinaro
 [5]: https://fr.wikipedia.org/wiki/Mouvement_MeToo
 [6]:
   https://www.ina.fr/video/I00003637/jacques-brel-mon-oncle-benjamin-video.html
