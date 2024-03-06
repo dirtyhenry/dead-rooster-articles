@@ -13,3 +13,15 @@ tags:
 ---
 
 {% youtube Iuvu_MgfyI4 %}
+
+Ailleurs sur le site :
+
+- [La review de l’album _Play It Strange_][2]
+- [The Fresh & Onlys retenus dans notre Top 2014][4]
+- [The Fresh & Onlys dans la compile MP3 du Net #03][1]
+- [Le clip de _Presence of Mind_][3]
+
+[1]: https://www.deadrooster.org/compile-mp3-du-net-03/
+[2]: https://www.deadrooster.org/the-fresh-onlys-play-it-strange/
+[3]: https://www.deadrooster.org/the-fresh-onlys-presence-of-mind/
+[4]: https://www.deadrooster.org/compile-top-musique-2014/
