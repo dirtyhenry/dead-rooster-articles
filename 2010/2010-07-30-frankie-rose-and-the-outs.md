@@ -7,7 +7,6 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 666
-cover: frankie-rose-and-the-outs.jpg
 date: 2010-07-30 18:42:42 +0200
 category: Chanson du jour
 ---
