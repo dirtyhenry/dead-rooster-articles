@@ -12,4 +12,6 @@ Et puis, EMI a tout foutu en l’air. Reste la [possibilité][1] d’acheter l�
 book, accompagné d’un CD-R, au cas où on trouve l’album en mp3 dans les recoins
 du net (le morceau avec Iggy Pop est vraiment pas mal !)
 
-[1]: https://www.dnots.com/
+[1]:
+  https://www.dnots.com/
+  "Dark Night of the Soul: The Most Anticipated Album of 2010"

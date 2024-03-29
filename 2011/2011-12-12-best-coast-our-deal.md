@@ -17,6 +17,6 @@ Chloe Moretz (de [_Kick-Ass_][i769] et [_500 Days Of Summer_][i538]), et Alia
 Shawkat (d’[_Arrested Development_][i934] et [_Bliss/Whip It_][i769], le premier
 film réalisé par Barrymore).
 
-[i538]: https://www.deadrooster.org/nicolas-et-max/
+[i538]: https://www.deadrooster.org/500-nicolas-et-max/
 [i769]: https://www.deadrooster.org/top-cine-2010/
 [i934]: https://www.deadrooster.org/arrested-development-le-film/
