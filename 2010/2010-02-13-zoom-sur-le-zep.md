@@ -80,8 +80,7 @@ Page choisissent les groupies avec lesquelles ils veulent passer la nuit. Bonham
 et son acolyte **Richard Cole**, le tour manager du groupe, vont alors
 s’évertuer à trouver les pires trucs à faire et dont les journaux des 70s se
 repaîtront : destruction de chambres d’hôtels, pratique de la moto dans leurs
-couloirs ou le fameux
-[épisode du requin](http://en.wikipedia.org/wiki/Shark_episode).
+couloirs ou le fameux [épisode du requin][1].
 
 Tous les débordements du groupe, mais aussi ceux de Cole et de **Peter Grant**,
 le manager, leur vaudront de nombreux procès et interdictions de séjour dans
@@ -108,3 +107,5 @@ se marrer des anecdotes de Bonzo et cie.
 
 [i402]: https://www.deadrooster.org/led-zeppelin-s-back/
 [i219]: https://www.deadrooster.org/bob-dylan-une-biographie-francois-bon/
+[1]:
+  https://web.archive.org/web/20100228130828/http://en.wikipedia.org/wiki/Shark_episode

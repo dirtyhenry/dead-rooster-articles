@@ -2,14 +2,15 @@
 layout: post
 title: Les disques d'octobre 2011
 description:
-  Petit résumé des albums qui ont tourné sur les platines de par chez Dirty
-  Henry en octobre 2011. Dum Dum Girls, Neutral Milk Hotel, Veronica Falls et
-  Hanni El Khatib sont les vainqueurs du mois.
+  Critique synthétique des albums qui ont tourné sur mes platines en octobre
+  2011. Dum Dum Girls, Neutral Milk Hotel, Veronica Falls et Hanni El Khatib
+  sont les vainqueurs du mois.
 authors:
   - Dirty Henry
 wordpress_id: 943
 cover: disques-octobre-2011.png
 date: 2011-11-03 17:08:32 +0100
+category: Review
 tags:
   - Feist
   - Neutral Milk Hotel
@@ -28,55 +29,59 @@ comments:
 
 ## Les 5 étoiles
 
-On en a déjà parlé [ici][i936], Dum Dum Girls est incontestablement le disque du
-mois. Quant à Neutral Milk Hotel (évoqué [ici][i680] et [ici][i687]), ils sont
-sous les feux de la rampe puisqu’annonces de reformation et rééditions déboulent
-un peu partout. Si vous voulez investir dans les disques de Jeff Mangum et ses
-sbires, _In the Aeroplane, Over the Sea_ est à se procurer en priorité. Deux
-belles découvertes complètent la liste des meilleurs disques du mois : Veronica
-Falls et Hanni El Khatib dont on reparlera très bientôt.
+On en a déjà parlé dans [la critique de _Only in Dreams_][i936], **Dum Dum
+Girls** est incontestablement le disque du mois. Quant à **Neutral Milk Hotel**
+(évoqué quand [The Swell Season les reprenait][i680] et quand un groupe [les
+reprenait au ukulele][i687]), ils sont sous les feux de la rampe puisqu’annonces
+de reformation et rééditions déboulent un peu partout. Si vous voulez investir
+dans les disques de Jeff Mangum et ses sbires, [_In the Aeroplane, Over the
+Sea_][1] est à se procurer en priorité. Deux belles découvertes complètent la
+liste des meilleurs disques du mois : **Veronica Falls** et **Hanni El Khatib**
+dont on reparlera très bientôt.
 
 ## Les 4 étoiles
 
-Certains singles du premier album solo de Noel Gallagher étaient
+Certains singles du premier album solo de **Noel Gallagher** étaient
 enthousiasmants, d’autres très inquiétants, le disque est finalement plus
 qu’honorable quoique sans surprise. À défaut de très grands albums et de singles
-incontournables, Kasabian s’affirme au fil des années comme un groupe cohérent
-et consistant, à préférer sur disque que sur scène.
+incontournables, **Kasabian** s’affirme au fil des années comme un groupe
+cohérent et consistant, à préférer sur disque que sur scène.
 
 ## Les 3 étoiles
 
-She & Him est en mode mineur (mais toujours charmant) sur son disque de reprises
-de chansons de Noël. The Bewitched Hands est un groupe français très prometteur,
-très éclectique mais tombant parfois dans le brouillon. Un nouveau disque est en
-préparation, on verra ce que ça donnera.
+**She & Him** est en mode mineur (mais toujours charmant) sur son disque de
+reprises de chansons de Noël. **The Bewitched Hands** est un groupe français
+très prometteur, très éclectique mais tombant parfois dans le brouillon. Un
+nouveau disque est en préparation, on verra ce que ça donnera.
 
 ## Les 2 étoiles
 
-dEUS part un peu en vrille. Kaiser Chiefs aussi, même si passé les 2 premiers
-titres du disque, faibles et rédhibitoires, l’album garde un certain charme.
+**dEUS** part un peu en vrille. **Kaiser Chiefs** aussi, même si passé les 2
+premiers titres du disque, faibles et rédhibitoires, l’album garde un certain
+charme.
 
 ## Les 1 étoile
 
-Frànçois & The Atlas Mountain est un groupe soit trop romantique, soit pas assez
-pop, et leurs pochettes de disques sont horribles. St Vincent oscille entre le
-brillant et l’insupportable, Male Bonding est un peu trop skate punk à mon goût
-(mais Joe Gantdelaine dirait sûrement autre chose).
+**Frànçois & The Atlas Mountain** est un groupe soit trop romantique, soit pas
+assez pop, et leurs pochettes de disques sont horribles. **St Vincent** oscille
+entre le brillant et l’insupportable, **Male Bonding** est un peu trop skate
+punk à mon goût (mais Joe Gantdelaine dirait sûrement autre chose).
 
 ## La synthèse
 
 Réalisée avec Sortmash.
 
 - 5 étoiles
-  - Dum Dum Girls - _Only In Dreams_
-  - Neutral Milk Hotel - _In the Aeroplane, Over the Sea_
-  - Veronica Falls - _Veronica Falls_
-  - Hanni El Khatib - _Will The Guns Come Out_
+  - Dum Dum Girls - [_Only In Dreams_][2]
+  - Neutral Milk Hotel - [_In the Aeroplane, Over the Sea_][1]
+  - Veronica Falls - [_Veronica Falls_][4]
+  - Hanni El Khatib - [_Will The Guns Come Out_][3]
 - 4 étoiles
-  - Neutral Milk Hotel - _On Avery Island_
-  - Noel Gallagher’s High Flying Birds - _Noel Gallagher’s High Flying Birds_
-  - Kasabian - _Velociraptor!_
-  - Wilco - _The Whole Love_
+  - Neutral Milk Hotel - [_On Avery Island_][5]
+  - Noel Gallagher’s High Flying Birds - [_Noel Gallagher’s High Flying
+    Birds_][6]
+  - Kasabian - [_Velociraptor!_][7]
+  - Wilco - [_The Whole Love_][8]
 - 3 étoiles
   - Wild Flag - _Wild Flag_
   - Feist - _Metals_
@@ -99,3 +104,11 @@ Réalisée avec Sortmash.
   https://www.deadrooster.org/the-swell-season-two-headed-boy-neutral-milk-hotel/
 [i687]:
   https://www.deadrooster.org/neutral-uke-hotel-in-the-aeroplane-over-the-sea-neutral-milk-hotel/
+[1]: https://album.link/fr/i/5611612
+[2]: https://album.link/us/i/669296492
+[3]: https://album.link/fr/i/453484268
+[4]: https://album.link/fr/i/671855239
+[5]: https://album.link/us/i/5611491
+[6]: https://album.link/fr/i/1517614387
+[7]: https://album.link/fr/i/441512036
+[8]: https://album.link/us/i/1690693758
