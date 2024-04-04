@@ -1,0 +1,19 @@
+---
+name: Ping Build Hook
+
+# 📜 https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows
+on:
+  workflow_dispatch:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  ping_build_hook:
+    name: Ping Build hook
+    runs-on: ubuntu-latest
+    steps:
+      - name: Notify Netlify
+        run: |
+          echo "Pinging $NETLIFY_HOOK_URL"
+          curl -X POST -d '{}' "$NETLIFY_HOOK_URL"
