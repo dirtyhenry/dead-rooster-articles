@@ -53,7 +53,7 @@ David Viner][6].
 
 Les Soledad Brothers sont morts, vivent les Soledad Brothers !
 
-Photo : [Lex In The City](https://flic.kr/p/crFv6) —
+Photo de Lex In The City sur Flickr,
 [CC-by-nc-sa](https://creativecommons.org/licenses/by-nc-sa/2.0/)
 
 [^1]:
