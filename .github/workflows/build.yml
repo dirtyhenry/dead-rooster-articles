@@ -12,8 +12,10 @@ jobs:
   ping_build_hook:
     name: Ping Build hook
     runs-on: ubuntu-latest
+    env:
+      NETLIFY_HOOK_URL: ${{ secrets.NETLIFY_HOOK_URL }}
     steps:
       - name: Notify Netlify
         run: |
           echo "Pinging $NETLIFY_HOOK_URL"
-          curl -X POST -d '{}' "$NETLIFY_HOOK_URL"
+          curl -X POST -d '{}' $NETLIFY_HOOK_URL
