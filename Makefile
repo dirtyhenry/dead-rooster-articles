@@ -9,8 +9,8 @@ clean:
 
 local-super-linter: 
 	docker run \
-	-e LOG_LEVEL=DEBUG \
-	-e RUN_LOCAL=true \
-	-v /Users/mick/Developer/Private/dr-articles:/tmp/lint \
-	--rm \
-	ghcr.io/super-linter/super-linter:v6.2.0
+		-e LOG_LEVEL=DEBUG \
+		-e RUN_LOCAL=true \
+		-v /Users/mick/Developer/Private/dr-articles:/tmp/lint \
+		--rm \
+		ghcr.io/super-linter/super-linter:v6.2.0
