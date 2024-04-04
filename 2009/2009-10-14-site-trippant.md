@@ -3,6 +3,7 @@ published: false
 title: Site trippant
 wordpress_id: 77
 date: "2009-10-14 18:12:27 +0200"
+cover: psychedelic-circles.png
 ---
 
 Dans la série des [sites trippants][i1], voilà un joli spécimen :

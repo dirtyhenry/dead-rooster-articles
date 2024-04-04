@@ -7,6 +7,7 @@ tags:
   - Nada Surf
 comments: []
 external_url: https://www.nadasurf.com
+cover: nada-surf-couch.jpg
 ---
 
 Les temps semblent durs pour **Nada Surf**. Deux ans après la sortie de leur
