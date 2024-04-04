@@ -36,14 +36,14 @@ et mit le contact.
 « Vroum ! fit l’automobile.  
 — _Get your motor running ! Head out on the highway !_ fit l’autoradio.  
 — Tiens ⁈ se dit Dirty en fixant l’autoradio, je ne me souviens pas d’avoir
-jamais fait de cassette où figurait ce titre parfait pour la route, _Born To Be
-Wild_, par… par… ah oui, Steppenwolf ! Attendons la prochaine chanson, peut-être
-cela réveillera-t-il mieux mes souvenirs. »
+jamais fait de cassette où figurait ce titre parfait pour la route, [_Born To Be
+Wild_][1], par… par… ah oui, Steppenwolf ! Attendons la prochaine chanson,
+peut-être cela réveillera-t-il mieux mes souvenirs. »
 
-La deuxième chanson vint à son tour. C’était _Stray Cat Blues_, des Rolling
+La deuxième chanson vint à son tour. C’était [_Stray Cat Blues_][2], des Rolling
 Stones. « *But it’s no hanging matter, it’s no capital crime!* » hurla Mick
-Jagger dans les baffles de l’automobile. Puis s’ensuit le troisième titre, _(I
-Can’t Get No) Satisfaction_, par Otis Redding.
+Jagger dans les baffles de l’automobile. Puis s’ensuit le troisième titre, [_(I
+Can’t Get No) Satisfaction_][3], par Otis Redding.
 
 « Ah ah ! Quelle audace ! Une reprise des Rolling Stones après un titre des
 Rolling Stones : voilà qui ne manque pas de panache ! Je ne me souviens
@@ -118,10 +118,15 @@ des amis, il faut aussi veiller à l’écart-type !
 
 C’est important l’écart-type !
 
-ps : *But it’s no hanging matter, it’s no capital crime !* : mettre du reggae
-sur une compile ? Si un peu quand même si !
+ps : [_But it’s no hanging matter, it’s no capital crime !_][4] : mettre du
+reggae sur une compile ? Si un peu quand même si !
 
 ps : une version altérée de la compile (où certains titres indisponibles sont
 remplacés par des versions karaoke) est disponible sur Spotify :
 
 {% spotify 0WKilQAcn8m45VnWo4jMYW %}
+
+[1]: https://song.link/fr/i/1425253292
+[2]: https://song.link/fr/i/1500643414
+[3]: https://song.link/fr/i/213596283
+[4]: https://genius.com/8589113 "Paroles de Stray Cat Blues, des Rolling Stones"
