@@ -6,7 +6,7 @@ date: "2010-02-17 23:42:18 +0100"
 tags:
   - Concours Katerine
   - Katerine
-category: katerine-facebook.png
+cover: katerine-facebook.png
 ---
 
 Philippe Katerine - ou du moins le responsable de son compte Facebook - parle de
