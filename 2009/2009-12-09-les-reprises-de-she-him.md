@@ -5,6 +5,7 @@ wordpress_id: 100
 date: "2009-12-09 11:20:41 +0100"
 tags:
   - Zooey Deschanel
+cover: logo-she-and-him.jpg
 ---
 
 **She & Him** a donné un peu plus d’informations sur leur second disque. Tout

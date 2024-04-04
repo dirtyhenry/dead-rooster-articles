@@ -3,6 +3,7 @@ layout: post
 title: Du nouveau sur l'album solo de Julian Casablancas
 wordpress_id: 61
 date: "2009-09-06 11:59:52 +0200"
+cover: julian-cablancas-phrazes-for-the-young.jpg
 ---
 
 **Le chanteur des Strokes** vient de réaliser son premier concert solo, à Tokyo,

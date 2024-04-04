@@ -3,6 +3,7 @@ layout: post
 title: Fresh, new, different
 wordpress_id: 125
 date: "2010-01-30 12:53:42 +0100"
+cover: broken-bells.png
 ---
 
 Voilà pourquoi James Mercer a mis les Shins entre parenthèses pour le projet

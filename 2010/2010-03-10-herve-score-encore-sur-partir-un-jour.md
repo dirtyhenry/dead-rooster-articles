@@ -5,6 +5,7 @@ wordpress_id: 150
 date: "2010-03-10 11:10:36 +0100"
 tags:
   - Concours Katerine
+cover: concours-katerine-batman-meme.jpg
 ---
 
 La chanson de cette semaine pour **Katerine, Francis et ses peintres** est

@@ -4,6 +4,7 @@ title: Expo photo rock
 wordpress_id: 65
 tags:
   - The Rolling Stones
+cover: rocks-off-dominique-tarle.jpg
 ---
 
 L’exposition _Rocks off_ de **Dominique Tarlé** est ouverte du 19 juin au 3
