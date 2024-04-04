@@ -4,7 +4,7 @@
 
 This repository contains the articles of [deadrooster.org][3].
 
-The code running the site is on [DeadRooster/deadrooster.org][4].
+The code running the site is on [dirtyhenry/deadrooster.org][4].
 
 ## About 🇫🇷
 
@@ -26,10 +26,11 @@ succès :
 - Follow us: [RSS Feed][7]
 - Talk to us: [GitHub Discussions][8]
 
-[1]: https://github.com/DeadRooster/articles/workflows/Lint/badge.svg
+[1]:
+  https://github.com/dirtyhenry/dead-rooster-articles/workflows/Lint/badge.svg
 [2]: https://github.com/marketplace/actions/super-linter
 [3]: https://www.deadrooster.org
-[4]: https://github.com/DeadRooster/deadrooster.org
+[4]: https://github.com/dirtyhenry/deadrooster.org
 [5]:
   https://www.deadrooster.org/category/encyclopedie-approximative-du-rock-and-roll/
 [6]: https://www.deadrooster.org/category/le-monde-va-mal/

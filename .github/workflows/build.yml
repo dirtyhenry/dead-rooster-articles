@@ -12,6 +12,7 @@ jobs:
   ping_build_hook:
     name: Ping Build hook
     runs-on: ubuntu-latest
+    environment: Default
     env:
       NETLIFY_HOOK_URL: ${{ secrets.NETLIFY_HOOK_URL }}
     steps:
