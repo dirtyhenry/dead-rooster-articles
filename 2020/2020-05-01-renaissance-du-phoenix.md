@@ -42,8 +42,8 @@ et [sous license Creative Commons][2] parce qu’on est comme ça ✊.
 
 {% asset barkley-phoenix.jpg %}
 
-[1]: https://github.com/DeadRooster
-[2]: https://github.com/DeadRooster/articles/blob/master/LICENSE
+[1]: https://github.com/dirtyhenry/dead-rooster-articles
+[2]: https://github.com/dirtyhenry/dead-rooster-articles/blob/master/LICENSE
 [3]: https://www.spip.net
 [4]: https://wordpress.com
 [5]: https://www.blogspot.com
