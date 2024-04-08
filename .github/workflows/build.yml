@@ -8,6 +8,8 @@ on:
     branches:
       - main
 
+permissions: read-all
+
 jobs:
   ping_build_hook:
     name: Ping Build hook
@@ -19,4 +21,4 @@ jobs:
       - name: Notify Netlify
         run: |
           echo "Pinging $NETLIFY_HOOK_URL"
-          curl -X POST -d '{}' $NETLIFY_HOOK_URL
+          curl -X POST -d '{}' "$NETLIFY_HOOK_URL"
