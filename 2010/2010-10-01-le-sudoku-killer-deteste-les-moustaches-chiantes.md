@@ -30,30 +30,27 @@ verticalement.
 
 {% youtube 7SbXYaP3g4Q %}
 
-(via
-[NewYorker.com](http://www.newyorker.com/online/blogs/newsdesk/2010/09/jason-schwartzman-ipad-video.html))
+(via [NewYorker.com][1])
 
 ## 2. Comment devenir le groupe le plus détesté au monde ?
 
-Le webcomic [XKCD](http://xkcd.com/780/) nous donne une piste pour cela.
+Le webcomic [XKCD][2] nous donne une piste pour cela.
 
 {% asset how-to-become-the-most-hated-band-in-the-world-xkcd.png %}
 
 Katerine applique la consigne et part bien pour devenir l’artiste le plus
-détesté du monde grâce à son titre
-[_Musique d’Ordinateur_](http://www.deezer.com/listen-7045903).
+détesté du monde grâce à son titre [_Musique d’Ordinateur_][3].
 
-(via [xkcd](http://xkcd.com), sous licence Creative Commons)
+(via [xkcd][2], sous licence Creative Commons)
 
 ## 3. Comment rendre fun ses photos chiantes ?
 
-CollegeHumor nous présente
-[une nouvelle extension à Photoshop : le PhotoBomb Tool](http://www.collegehumor.com/video:1940686),
-qui permet de rendre fun ses photos chiantes.
+CollegeHumor nous présente [une nouvelle extension à Photoshop : le PhotoBomb
+Tool][4], qui permet de rendre fun ses photos chiantes.
 
-[{% asset terrible-photoshop-screenshot.png %}](http://www.collegehumor.com/video:1940686)
+{% asset terrible-photoshop-screenshot.png %}
 
-(via [Ludo](http://www.geeek.org/post/photoshop-cs11-et-le-photobomb-tool-892))
+(via [Ludo][5])
 
 ## 4. Comment revisiter l’histoire du foot en étant fun ?
 
@@ -76,10 +73,18 @@ clavier ! Merci aussi de faire attention au sudoku-killer.
 
 {% youtube 9BnLbv6QYcA %}
 
-(par [The Onion](http://www.theonion.com/) via Julian)
+(par [The Onion][6] via Julian)
 
 [Le Fun Friday de la semaine dernière.][i705]
 
 [i201]: https://www.deadrooster.org/wes-anderson-schwartzman-deschanel/
 [i705]:
   https://www.deadrooster.org/ton-grand-pere-et-ses-chiens-indiana-jones-james-mercer-et-des-metalleux-jouent-au-tir-a-la-corde/
+[1]:
+  https://www.newyorker.com/news/news-desk/jason-schwartzman-introduces-the-new-yorker-ipad-app
+[2]: https://xkcd.com/780/
+[3]: https://song.link/fr/i/1443262713
+[4]:
+  https://web.archive.org/web/20100902171538/http://www.collegehumor.com/video:1940686
+[5]: https://www.geeek.org/
+[6]: https://www.theonion.com/
