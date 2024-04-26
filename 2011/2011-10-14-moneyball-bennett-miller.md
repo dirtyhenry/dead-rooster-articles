@@ -9,7 +9,7 @@ excerpt: >-
 wordpress_id: 932
 cover: moneyball-brad-pitt.png
 date: 2011-10-14 00:20:15 +0200
-category: Ciné-Club moi j'vous dis
+category: Ciné-Club moi j’vous dis
 tags:
   - Bennett Miller
   - Brad Pitt

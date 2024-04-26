@@ -4,7 +4,7 @@ title: "Faut-il Sauver Michel Sardou ?"
 authors:
   - Dirty Henry
 categories:
-  - Ciné-Club moi j'vous dis
+  - Ciné-Club moi j’vous dis
   - Le bouquin
 tags:
   - Arcade Fire

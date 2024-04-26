@@ -9,7 +9,7 @@ authors:
   - Dirty Henry
 wordpress_id: 554
 date: "2009-12-09 23:16:25 +0100"
-category: Ciné-Club moi j'vous dis
+category: Ciné-Club moi j’vous dis
 tags:
   - The Beach Boys
 cover: cine-club-02.jpg

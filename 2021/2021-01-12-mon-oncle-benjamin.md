@@ -3,7 +3,7 @@ layout: post
 title: Mon Oncle Benjamin, d’Édouard Molinaro
 author: Dirty Henry
 cover: mon-oncle-benjamin.jpg
-category: Ciné-Club moi j'vous dis
+category: Ciné-Club moi j’vous dis
 excerpt: >-
   Le film de 1969, adapté d'un roman de 1843, ne se laisse vraiment apprécier
   qu'une fois mis de côté les appréhensions levées par les 50 années d'évolution

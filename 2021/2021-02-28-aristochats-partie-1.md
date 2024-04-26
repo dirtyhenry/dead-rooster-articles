@@ -8,7 +8,7 @@ excerpt: >-
   Où comment voir et revoir *Les Aristochats* aide à déchiffrer une réponse de
   Walt Disney à la crise des gilets jaunes.
 cover: aristochats.jpg
-category: Ciné-Club moi j'vous dis
+category: Ciné-Club moi j’vous dis
 tags:
   - Walt Disney
 ---

@@ -5,7 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 342
 date: "2006-12-18 00:04:00 +0100"
-category: Ciné-Club moi j'vous dis
+category: Ciné-Club moi j’vous dis
 tags:
   - The Rolling Stones
 cover: the-departed.jpg

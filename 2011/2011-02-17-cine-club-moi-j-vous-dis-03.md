@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Ciné-Club moi j'vous dis #03"
+title: "Ciné-Club moi j’vous dis #03"
 description: Un mois de janvier 2011 à aller au ciné et mater des DVD…
 authors:
   - Dirty Henry
 wordpress_id: 784
 cover: fantomas.jpg
 date: 2011-02-17 22:49:54 +0100
-category: Ciné-Club moi j'vous dis
+category: Ciné-Club moi j’vous dis
 ---
 
 ## Catégorie "Vieux Films à voir en DVD"

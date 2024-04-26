@@ -10,7 +10,7 @@ authors:
 wordpress_id: 879
 cover: submarine.jpg
 date: 2011-08-15 18:44:24 +0200
-category: Ciné-Club moi j'vous dis
+category: Ciné-Club moi j’vous dis
 tags:
   - Arctic Monkeys
   - Alex Turner

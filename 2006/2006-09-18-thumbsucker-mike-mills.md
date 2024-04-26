@@ -5,7 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 333
 date: "2006-09-18 21:33:00 +0200"
-category: Ciné-Club moi j'vous dis
+category: Ciné-Club moi j’vous dis
 tags:
   - The Polyphonic Spree
 cover: thumbsucker.jpg

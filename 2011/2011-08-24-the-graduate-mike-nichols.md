@@ -8,7 +8,7 @@ author: Dirty Henry
 wordpress_id: 889
 cover: the-graduate-dustin-hoffman.jpg
 date: 2011-08-24 20:52:14 +0200
-category: Ciné-Club moi j'vous dis
+category: Ciné-Club moi j’vous dis
 tags:
   - Dustin Hoffman
   - Mel Brooks

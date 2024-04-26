@@ -3,7 +3,7 @@ layout: post
 title: "The Pixar Movie Challenge"
 authors:
   - Dirty Henry
-category: Ciné-Club moi j'vous dis
+category: Ciné-Club moi j’vous dis
 tags:
   - movies
   - Walt Disney
