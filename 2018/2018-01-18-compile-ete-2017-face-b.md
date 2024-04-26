@@ -143,6 +143,11 @@ Je t’aime ô jambon.
 1. Big Thief - _Shark Smile_
 1. The Clash - _Charlie Don’t Surf_
 
+## Addendum
+
+- Deezer a étudié que [nos goûts musicaux commencent à stagner à 31 ans][4].
+  J’avais 36 ans quand j’ai écrit cet article. Ça colle plus ou moins.
+
 [^1]:
     OK, je sais que l’originale est de The Family et qu’elle a été écrite par
     Prince. Alors, tu te calmes !
@@ -157,3 +162,6 @@ Je t’aime ô jambon.
   https://www.liberation.fr/musique/2017/07/24/arcade-fire-brulant-paradoxe_1585949/
 [2]: https://song.link/fr/i/1294740148
 [3]: https://song.link/fr/i/324212499
+[4]:
+  https://www.statsignificant.com/p/when-do-we-stop-finding-new-music
+  "When Do We Stop Finding New Music? A Statistical Analysis, by Daniel Parris"
