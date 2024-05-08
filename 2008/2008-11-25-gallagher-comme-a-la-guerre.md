@@ -78,8 +78,8 @@ Cela dit, Oasis est encore capable de fulgurance, comme le prouve le (très bien
 choisi pour une fois !) premier single : _The shock of the lightning_. Une sorte
 de mini-hymne comme Oasis sait en torcher depuis toujours (_Do you know what I
 mean ?_ ou _The importance of being idle_ font partie de ces mini-hymnes, à
-distinguer bien sûr des hymnes gallagheriens certifiés granit comme [_Live
-Forever_][i1] ou _Morning Glory_…). Et donc, mine de rien, ces 4 chansons
+distinguer bien sûr des hymnes gallagheriens certifiés granit comme _Live
+Forever_ ou _Morning Glory_…). Et donc, mine de rien, ces 4 chansons
 s’enchaînent sans peine et à un train d’enfer, malgré la durée toujours un
 chouïa trop élevée des compositions.
 
@@ -168,5 +168,4 @@ de 2005][i2], en voilà une sacrée référence qualitative !)
 [5]: https://song.link/fr/i/1442949692
 [6]: https://song.link/fr/i/1443735637
 [7]: https://song.link/fr/i/255494096
-[i1]: https://www.deadrooster.org/oasis-live-forever/
 [i2]: https://www.deadrooster.org/oasis-rois-de-la-terre-battue/
