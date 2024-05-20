@@ -118,7 +118,7 @@ Merci internet !
 [cry]: https://www.vulture.com/2015/06/why-pixar-movies-make-us-cry.html
 [cry2]:
   https://www.telegraph.co.uk/travel/travel-truths/the-science-behind-why-people-cry-more-easily-on-plane
-[cry3]: https://deadspin.com/5313572/dear-pixar-stop-making-me-cry-like-a-bitch
+[cry3]: https://deadspin.com/dear-pixar-stop-making-me-cry-like-a-bitch-5313572/
 
 [^spykids]:
     Ah ça, si les mecs étaient meilleurs en jeux de mots, ils bosseraient à Libé
