@@ -27,7 +27,7 @@ playlist:
   - artist: Women
     title: Narrow With The Hall
     asset: women-narrow-in-the-hall.png
-    link: https://pitchfork.com/forkcast/14793-narrow-with-the-hall/
+    link: https://pitchfork.com/reviews/tracks/12036-women-narrow-with-the-hall/
   - artist: The Black Angels
     title: No Satisfaction
     asset: the-black-angels-no-satisfaction.png

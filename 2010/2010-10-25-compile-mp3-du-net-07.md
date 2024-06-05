@@ -18,7 +18,6 @@ playlist:
   - artist: California Wives
     title: Blood Red Youth
     asset: california-wivess.png
-    link: https://www.rubinrecommends.com/2010/10/california-wives/
   - artist: Guards
     title: Crystal Truth
     asset: guards.png
@@ -38,7 +37,6 @@ playlist:
   - artist: Pixies
     title: La La Love You
     asset: pixies-la-la-love-you.png
-    link: https://pixiesmusic.com/interpol.html
   - artist: Weezer
     title: Getting Up And Leaving
     asset: weezer.png
