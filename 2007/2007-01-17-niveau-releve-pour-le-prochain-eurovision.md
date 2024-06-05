@@ -8,6 +8,7 @@ date: "2007-01-17 12:26:00 +0100"
 tags:
   - Eurovision
   - Jarvis Cocker
+published: false
 ---
 
 Après Morrissey, c’est [Jarvis Cocker qui propose d’écrire un truc][1] pour la

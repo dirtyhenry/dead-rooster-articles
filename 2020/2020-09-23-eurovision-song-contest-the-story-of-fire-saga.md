@@ -10,9 +10,10 @@ category: Ciné-Club moi j’vous dis
 Will Ferrell fait un film sur l’Eurovision ? Il m’aura fallu presque 3 mois pour
 me lancer tant j’étais pris de vertige devant le potentiel du film. Je fais peu
 de mystère sur [l’admiration que je porte à M. Ferrell][i4]. Quant à
-l’Eurovision, on connaît déjà le potentiel comique du truc qu’on a relevé
-[ici][i1], [ici][i2] ou [là][i3]. Potentiel Camavinguesque[^1] donc, mais quel
-verdict ? Il y a du très très bon, et du un peu moins bon.
+l’Eurovision, on connaît déjà le potentiel comique du truc dont on a parlé [dans
+les règles de Neil Hannon pour remporter l’Eurovision][i1]. Potentiel
+Camavinguesque[^1] donc, mais quel verdict ? Il y a du très très bon, et du un
+peu moins bon.
 
 ## Le très très bon
 
@@ -72,6 +73,5 @@ petit lait.
 [5]:
   https://www.theringer.com/movies/2020/7/15/21325097/making-of-wedding-crashers-football-scene
 [i1]: https://www.deadrooster.org/neil-hannon-eurovision/
-[i2]: https://www.deadrooster.org/niveau-releve-pour-le-prochain-eurovision/
 [i3]: https://www.deadrooster.org/eurovision-2014/
 [i4]: https://www.deadrooster.org/pixar-movie-challenge/

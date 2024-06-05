@@ -5,11 +5,10 @@ authors:
   - Dirty Henry
 wordpress_id: 621
 date: "2010-06-03 10:48:50 +0200"
-categories:
-  - Catégories
 tags:
   - La Petite Reine
 cover: rosalie.jpg
+category: Le monde va mal
 ---
 
 [Un cycliste aurait récemment gagné des courses en dissimulant un moteur électrique dans son vélo](http://www.lequipe.fr/Cyclisme/breves2010/20100601_175537_cancellara-nie.html)

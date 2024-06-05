@@ -4,6 +4,7 @@ title: Smith Westerns - 3am Spiritual
 author: Dirty Henry
 wordpress_id: 1235
 date: 2013-05-21 12:57:42 +0200
+category: Chanson du jour
 ---
 
 {% soundcloud 92659903 %}

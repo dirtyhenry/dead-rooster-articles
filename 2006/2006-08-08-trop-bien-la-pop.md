@@ -5,9 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 326
 date: "2006-08-08 09:44:00 +0200"
-categories:
-  - Catégories
-  - Artistes
+category: News
 tags:
   - Dead Rooster Announcement
   - The (Raymond) Domenek! Strokes’ Cans
@@ -18,8 +16,7 @@ cover: the-thrills-2.jpg
 En cette période où la pop, bizarrement, me fait davantage kiffer que le
 rock’n’roll, je soumets plusieurs points :
 
-1. [Le site de **The (Raymond) Domenek! Strokes’ Cans**](http://mickael.flochlay.free.fr/dsks.html)
-   est ouvert !
+1. [Le site de **The (Raymond) Domenek! Strokes’ Cans**][2] est ouvert !
 
 2. Apparemment, le meilleur album de **Teenage Fanclub** s’appelle
    _Bandwagonesque_, à découvrir…
@@ -35,3 +32,4 @@ rock’n’roll, je soumets plusieurs points :
 [1]:
   https://musicbrainz.org/artist/048fad7a-10ba-4f9e-b305-580fb3ce32a4
   "The Thrills"
+[2]: http://mickael.flochlay.free.fr/dsks.html

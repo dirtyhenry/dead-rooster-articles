@@ -36,21 +36,21 @@ comments:
 Il y a une dizaine d’années, mes parents s’étaient abonnés à Canal Sat. Quelques
 heures plus tard, j’avais annulé toutes les activités sportives ou de plein air
 inscrites à mon agenda, et décidé d’aller m’asseoir sur le canap’ du salon à la
-place. Canal Jimmy et Comédie! furent les chaînes les plus regardées, car je
-devenais fan de beaucoup trop de séries. Certaines ont eu leur petit moment de
-gloire (genre, _Friends_, si ça vous dit quelque chose, ou _That '70s Show_)
-mais d’autres sont injustement restées méconnus. La première au programme :
-**_The Young Person’s Guide To Becoming A Rock Star_** (_Comment devenir une
-rock star_ en V.F.).
+place. [Canal Jimmy][1] et [Comédie!][2] furent les chaînes les plus regardées,
+car je devenais fan de beaucoup trop de séries. Certaines ont eu leur petit
+moment de gloire (genre, [_Friends_][3], si ça vous dit quelque chose, ou [_That
+'70s Show_][4]) mais d’autres sont injustement restées méconnus. La première au
+programme : [**_The Young Person’s Guide To Becoming A Rock Star_**][5]
+(_Comment devenir une rock star_ en V.F.).
 
-La série est née en 1998, c’est-à-dire à peine 3 ans après _(What’s the Story)
-Morning Glory?/The Great Escape_ et l’énorme vague britpop d’alors. On y suit
-l’évolution d’un groupe de Glasgow, Jocks Wa Hey, dans toutes les étapes
-imposées d’un groupe à la recherche du succès : former le groupe, trouver les
-concerts, trouver une maison de disques, produire un disque, etc. La série est
-courte, 6 épisodes seulement, et on y voit énormément de guest-stars et pas les
-moindres : Noel Gallagher, Jay Kay (le mec de Jamiroquai quoi) ou Chrissie Hynde
-(la chanteuse des Pretenders).
+La série est née en 1998, c’est-à-dire à peine 3 ans après [_(What’s the Story)
+Morning Glory?_][6]/[_The Great Escape_][7] et l’énorme vague britpop d’alors.
+On y suit l’évolution d’un groupe de Glasgow, Jocks Wa Hey, dans toutes les
+étapes imposées d’un groupe à la recherche du succès : former le groupe, trouver
+les concerts, trouver une maison de disques, produire un disque, etc. La série
+est courte, 6 épisodes seulement, et on y voit énormément de guest-stars et pas
+les moindres : Noel Gallagher, Jay Kay (le mec de Jamiroquai quoi) ou Chrissie
+Hynde (la chanteuse des Pretenders).
 
 {% youtube 03ZZSsxnEh8 %}
 
@@ -59,11 +59,11 @@ un câble dès que le succès pointe le bout de son nez, le producteur ermite re
 et cocaïné, la maison de disque hypocrite où on trouve tous les futurs
 mannequins des environs, etc. mais on reste dans l’idée que putain, ouais, c’est
 ça qu’est bon, et qu’on aimerait bien en être. On a le droit à des gags vraiment
-potaches (le père hardos qui fait sa gym sur _Smoke On The Water_ en traitant
-son fils de tapette parce qu’il fait de la britpop, le bassiste en slip qui
-mange ses céréales à l’eau dans une casserole sale) insérés dans quelques trames
-romantiques et amicales à l’arrière plan. Bref, de la belle ouvrage, et qui aura
-connu un relatif succès à sa sortie.
+potaches (le père hardos qui fait sa gym sur [_Smoke On The Water_][8] en
+traitant son fils de tapette parce qu’il fait de la britpop, le bassiste en slip
+qui mange ses céréales à l’eau dans une casserole sale) insérés dans quelques
+trames romantiques et amicales à l’arrière plan. Bref, de la belle ouvrage, et
+qui aura connu un relatif succès à sa sortie.
 
 {% youtube MfPE1AtRxEw %}
 
@@ -79,3 +79,13 @@ la série, Bryan Elsley, a depuis connu le succès avec _Skins_ (que je n’ai
 jamais vu) rendant l’anonymat de la série d’autant plus étonnant.
 
 Bref, au moins, quelques extraits existent sur YouTube… Merci l’an 2000.
+
+[1]: https://fr.wikipedia.org/wiki/Jimmy_(cha%C3%AEne_de_t%C3%A9l%C3%A9vision)
+[2]: https://fr.wikipedia.org/wiki/Com%C3%A9die%2B
+[3]: https://www.themoviedb.org/tv/1668-friends
+[4]: https://www.themoviedb.org/tv/52-that-70s-show
+[5]:
+  https://www.themoviedb.org/tv/3641-the-young-person-s-guide-to-becoming-a-rock-star
+[6]: https://album.link/fr/i/1517447039
+[7]: https://album.link/fr/i/699808759
+[8]: https://song.link/fr/i/724569412

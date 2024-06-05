@@ -5,6 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 1217
 date: "2013-04-12 10:00:00 +0200"
+category: Chanson du jour
 ---
 
 _The Dawn Of Delight_, le 1er LP de Tropical Popsicle arrive. Ce groupe de San
