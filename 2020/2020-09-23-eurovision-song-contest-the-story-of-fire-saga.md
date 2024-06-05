@@ -73,5 +73,4 @@ petit lait.
 [5]:
   https://www.theringer.com/movies/2020/7/15/21325097/making-of-wedding-crashers-football-scene
 [i1]: https://www.deadrooster.org/neil-hannon-eurovision/
-[i3]: https://www.deadrooster.org/eurovision-2014/
 [i4]: https://www.deadrooster.org/pixar-movie-challenge/
