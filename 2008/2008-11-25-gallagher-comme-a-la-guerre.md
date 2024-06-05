@@ -149,13 +149,13 @@ chaque solo est là, chaque instrument aussi (quitte à utiliser des bandes pour
 les violons de _The Masterplan_). Seuls _Songbird_ et _Don’t Look Back in Anger_
 diffèrent sensiblement des versions endisquées. Même _Wonderwall_ paraît fade.
 Bref, ça manquait un peu de vie tout ça… en parlant de vie, on a cru un instant
-à un [_Live Forever_][i1] juste pour nous, public parisien. Mais en grand
-polisson, Liam nous a menti, et comme tous les soirs depuis un mois, le
-spectacle est bouclé avec _I am the Walrus_. Espérons cependant que ce n’était
-pas qu’une mauvaise plaisanterie, que ce brave Liam essayait de faire passer un
-message aux autres, sur ses envies de renouvellement de la liste des titres
-joués…Pour l’instant, ce ne sont que supputations ! Réponse définitive,
-peut-être, le 31 janvier, après leur venue à Bordeaux !
+à un _Live Forever_ juste pour nous, public parisien. Mais en grand polisson,
+Liam nous a menti, et comme tous les soirs depuis un mois, le spectacle est
+bouclé avec _I am the Walrus_. Espérons cependant que ce n’était pas qu’une
+mauvaise plaisanterie, que ce brave Liam essayait de faire passer un message aux
+autres, sur ses envies de renouvellement de la liste des titres joués…Pour
+l’instant, ce ne sont que supputations ! Réponse définitive, peut-être, le 31
+janvier, après leur venue à Bordeaux !
 
 Bref, concernant le versant "Oasis en live", c’était mieux avant ! ([l’Olympia
 de 2005][i2], en voilà une sacrée référence qualitative !)
