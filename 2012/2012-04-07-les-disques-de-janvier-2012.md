@@ -9,10 +9,8 @@ authors:
 wordpress_id: 1021
 cover: disques-janvier-2012.png
 date: 2012-04-07 17:24:28 +0200
-categories:
-  - Catégories
+category: Review
 tags:
-  - Albums
   - Nada Surf
 ---
 

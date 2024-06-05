@@ -6,11 +6,8 @@ authors:
 wordpress_id: 661
 cover: pigeon-lisant-livre.png
 date: 2010-07-25 18:36:14 +0200
-categories:
-  - Catégories
-tags:
-  - Trucs marrants
+category: Le monde va mal
 ---
 
-[Les Kings of Leon ont dû arrêter un de leurs concerts car ils se sont faits attaquer… par des fientes de pigeon.](http://www.nme.com/news/kings-of-leon/52204)
+[Les Kings of Leon ont dû arrêter un de leurs concerts car ils se sont faits attaquer… par des fientes de pigeon.](https://www.nme.com/news/music/kings-of-leon-190-1297107)
 Le monde va mal !

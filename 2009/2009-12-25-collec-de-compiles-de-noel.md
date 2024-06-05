@@ -3,9 +3,9 @@ layout: post
 title: Collec' de compiles de Noël
 wordpress_id: 107
 date: "2009-12-25 15:21:35 +0100"
-categories: []
-tags: []
-comments: []
+categories: Chanson du jour
+tags:
+  - Christmas
 ---
 
 Vous souhaitiez des compiles de Noël avec des artistes crédibles ? Le site

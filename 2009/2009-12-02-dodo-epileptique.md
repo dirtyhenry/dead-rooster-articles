@@ -9,6 +9,7 @@ comments:
     date: "2009-12-02 21:31:18 +0100"
     title: Dodo épileptique
     content: Je trouve clip et chanson excellents !
+category: Chanson du jour
 ---
 
 {% youtube 3o8iG-fUfgo %}

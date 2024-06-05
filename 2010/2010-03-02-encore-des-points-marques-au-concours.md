@@ -3,8 +3,7 @@ layout: post
 title: Encore des points marqués au concours
 wordpress_id: 144
 date: "2010-03-02 19:27:31 +0100"
-tags:
-  - Concours Katerine
+category: Concours Katerine
 ---
 
 La chanson de cette semaine pour **Katerine, Francis et ses peintres** est

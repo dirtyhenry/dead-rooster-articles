@@ -8,6 +8,7 @@ author: Marcello Marcellito
 wordpress_id: 752
 cover: zone-ecoute-prioritaire.png
 date: 2011-01-13 19:47:26 +0100
+category: Review
 ---
 
 Les acronymes c’est cool et ça permet de faire, genre, on est hyper occupé et
@@ -28,6 +29,8 @@ sous-entends que vos oreilles ont besoin d’aide particulière. Ce n’est pas 
 Pour ce premier billet, je vais vous parler des EP de deux formations françaises
 que j’affectionne particulièrement.
 
+## La Fiancée
+
 Les propriétaires d’iPhone l’auront peut-être constaté, mais lorsque vous
 écrivez un Short Message System (ou SMS pour utiliser encore un acronyme!), le
 logiciel d’écriture intuitive remplace automatiquement LA (respectivement MA)
@@ -46,6 +49,8 @@ titre oublié _Tout ce qui nous sépare_ de Jil Caplan mais on aura commencé à
 vibrer dès l’_Ouverture_ d’Etienne Daho. Le mélomane averti aura donc constaté
 la présence des fins fleurons de la pop, courant musical que La Fiancée semble
 bien avoir épousés.
+
+## Baden-Baden
 
 La deuxième galette que je voulais vous présenter ici n’est pas celle dite des
 rois mais plutôt d’un quintette français, recruté sur Myspace et qui porte

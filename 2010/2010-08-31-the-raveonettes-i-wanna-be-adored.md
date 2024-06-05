@@ -17,7 +17,7 @@ tags:
 date: 2010-08-31 10:32:55 +0200
 ---
 
-{% youtube dUjxSRlghxw %}
+{% youtube 0eHvd-ofyGc %}
 
 Les reprises sont à la mode ! Après Levis et ses [Pioneer Sessions][i623], Beck
 et son record club, le AV Club et son [Undercover][i680], c’est au tour de Doc
