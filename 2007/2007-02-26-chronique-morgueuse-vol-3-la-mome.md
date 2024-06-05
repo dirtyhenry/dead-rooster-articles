@@ -5,7 +5,7 @@ authors:
   - Joe Gantdelaine
 wordpress_id: 363
 date: "2007-02-26 15:53:00 +0100"
-category: Ciné-Club moi j'vous dis
+category: Ciné-Club moi j’vous dis
 tags:
   - Marion Cotillard
 cover: la-mome.jpg

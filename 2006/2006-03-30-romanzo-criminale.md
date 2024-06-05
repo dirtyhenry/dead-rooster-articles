@@ -5,7 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 290
 date: "2006-03-30 22:56:00 +0200"
-category: Ciné-Club moi j'vous dis
+category: Ciné-Club moi j’vous dis
 cover: romanzo-criminale.jpg
 ---
 

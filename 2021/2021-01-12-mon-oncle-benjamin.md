@@ -3,7 +3,7 @@ layout: post
 title: Mon Oncle Benjamin, d’Édouard Molinaro
 author: Dirty Henry
 cover: mon-oncle-benjamin.jpg
-category: Ciné-Club moi j'vous dis
+category: Ciné-Club moi j’vous dis
 excerpt: >-
   Le film de 1969, adapté d'un roman de 1843, ne se laisse vraiment apprécier
   qu'une fois mis de côté les appréhensions levées par les 50 années d'évolution
@@ -55,9 +55,9 @@ Fallet[^1], [il déclarait][3] ainsi :
 > — Comme ça, à cause de nous, y’a une cinquantaine de personnes qui ont lu
 > Claude Tillier et qui continuent à le faire lire à d’autres. Enfin, nous
 > autres en tout cas, nous ne lions pas connaissance avec un nouvel ami sans
-> l’obliger d’abord à lire Mon Oncle Benjamin, c’est indispensable ça. Pour être
-> de nos amis, il faut le lire. (…) Quand j’ai lu _Mon Oncle Benjamin_, je me
-> suis découvert si vous voulez à ce moment-là. C’est ce que j’attendais. Je
+> l’obliger d’abord à lire _Mon Oncle Benjamin_, c’est indispensable ça. Pour
+> être de nos amis, il faut le lire. (…) Quand j’ai lu _Mon Oncle Benjamin_, je
+> me suis découvert si vous voulez à ce moment-là. C’est ce que j’attendais. Je
 > devais avoir 24 ou 25 ans. Mais je le lis chaque année.
 
 Que de louanges, on le lira vite.

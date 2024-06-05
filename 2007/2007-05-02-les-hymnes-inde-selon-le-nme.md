@@ -26,7 +26,7 @@ Blur - _Song 2_, The Libertines - _Vertigo_, Franz Ferdinand - _Take me out_) a
 réussi un joli coup avec 4 titres dans le top 16 (mais merde suis-je le seul à
 penser que Vertigo est et demeurera le meilleur titre des Libertines ⁈)
 
-1. [Oasis - _Live Forever_][i1]
+1. Oasis - _Live Forever_
 2. Nirvana - _Smells Like Teen Spirit_
 3. Pulp - _Common People_
 4. The Smiths - _There Is A Light That Never Goes Out_
@@ -76,5 +76,3 @@ penser que Vertigo est et demeurera le meilleur titre des Libertines ⁈)
 48. Sonic Youth - _Bull In The Heather_
 49. The Rapture - _House Of Jealous Lovers_
 50. My Bloody Valentine - _You Made Me Realise_
-
-[i1]: https://www.deadrooster.org/oasis-live-forever/

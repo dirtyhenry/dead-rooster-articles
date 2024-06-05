@@ -8,7 +8,7 @@ description:
 authors:
   - Dirty Henry
 cover: llewyn-davis.jpg
-category: Ciné-Club moi j'vous dis
+category: Ciné-Club moi j’vous dis
 ---
 
 Au cas où certains en doutaient encore, je crois qu’on peut affirmer que les

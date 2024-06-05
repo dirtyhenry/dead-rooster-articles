@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Ciné-Club moi j'vous dis #01"
+title: "Ciné-Club moi j’vous dis #01"
 authors:
   - Dirty Henry
 wordpress_id: 534
 cover: pauline-a-la-plage.jpg
 date: 2009-10-06 22:08:36 +0200
-category: Ciné-Club moi j'vous dis
+category: Ciné-Club moi j’vous dis
 ---
 
 _Casablanca_, œuvre magistrale ! _Le Cuirassé Potemkine_, n’en parlons même

@@ -6,10 +6,9 @@ authors:
   - Joe Gantdelaine
 wordpress_id: 370
 date: "2007-03-26 23:35:00 +0200"
-categories:
-  - Catégories
+category: Concert
 tags:
-  - Concert
+  - I’m from Barcelona
 ---
 
 Cher journal,

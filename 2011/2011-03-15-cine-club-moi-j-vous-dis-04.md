@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ciné-Club moi j'vous dis #04"
+title: "Ciné-Club moi j’vous dis #04"
 description:
   "Au sommaire du mois : The King's Speech, Black Swan, Incendies, How Do You
   Know et Halal, Police d’Etat"
@@ -9,12 +9,12 @@ authors:
 wordpress_id: 798
 cover: the-king-speech.jpg
 date: 2011-03-15 12:32:14 +0100
-category: Ciné-Club moi j'vous dis
+category: Ciné-Club moi j’vous dis
 comments:
   - author: Jo
     author_email: ""
     date: 2011-03-15 14:02:28 +0100
-    title: "Ciné-Club moi j'vous dis #04"
+    title: "Ciné-Club moi j’vous dis #04"
     content:
       "Je confirme que : \"la symphonie numéro 7 en la majeur de Ludwig Von a un
       riff du tonnerre\". Elle est présente tout au long du film

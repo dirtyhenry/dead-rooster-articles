@@ -10,7 +10,7 @@ authors:
 wordpress_id: 914
 cover: la-guerre-est-declaree.jpg
 date: 2011-09-22 16:01:59 +0200
-category: Ciné-Club moi j'vous dis
+category: Ciné-Club moi j’vous dis
 tags:
   - Benjamin Biolay
   - Peter von Poehl

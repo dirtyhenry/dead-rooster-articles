@@ -9,7 +9,7 @@ authors:
 wordpress_id: 866
 cover: cluny-brown.jpg
 date: 2011-07-05 09:50:00 +0200
-category: Ciné-Club moi j'vous dis
+category: Ciné-Club moi j’vous dis
 ---
 
 ## Catégorie "Vieux Films à voir en DVD"

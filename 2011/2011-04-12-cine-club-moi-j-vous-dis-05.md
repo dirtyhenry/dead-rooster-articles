@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ciné-Club moi j'vous dis #05"
+title: "Ciné-Club moi j’vous dis #05"
 description:
   "Au sommaire du mois : Rusty James, Personnel et Confidentiel, Chez Gino, The
   Fighter et L'étrange affaire Angelica"
@@ -9,7 +9,7 @@ authors:
 wordpress_id: 824
 cover: chez-gino.jpg
 date: 2011-04-12 12:25:15 +0200
-category: Ciné-Club moi j'vous dis
+category: Ciné-Club moi j’vous dis
 tags:
   - Robert Redford
 ---

@@ -8,7 +8,7 @@ excerpt: >-
   mort, et qui explique que même si à la fin on meurt, c'est la vie qui va
   gagner. Un peu comme les Allemands avec le foot.
 cover: harold-and-maude.jpg
-category: Ciné-Club moi j'vous dis
+category: Ciné-Club moi j’vous dis
 tags:
   - Colin Higgins
   - Hal Ashby

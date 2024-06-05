@@ -1,9 +1,10 @@
 ---
 layout: post
+published: false
 title: That '70s Football Show
 wordpress_id: 284
-authors:
-  - Dirty Henry
+author: Dirty Henry
+category: Foot
 cover: vintage-soccer-haircuts.jpg
 ---
 
