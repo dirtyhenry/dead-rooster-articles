@@ -19,8 +19,8 @@ tags:
 Asteroid City, 1955, désert de l’ouest américain. À l’occasion de la convention
 annuelle _Junior Stargazer_, cinq petits génies scientifiques viennent présenter
 leurs inventions révolutionnaires. Au loin, les essais nucléaires font trembler
-les murs, les courses-poursuites entre policiers et bandits se répétent ad lib,
-et un train de marchandises n'en finit pas de traverser la ville.
+les murs, les courses-poursuites entre policiers et bandits se répétent _ad
+lib_, et un train de marchandises n'en finit pas de traverser la ville.
 
 Lors d'une session nocturne d’observation céleste, un vaisseau spatial apparaît.
 Suite à cette intervention extraterrestre, la ville est mise en quarantaine.
@@ -60,23 +60,28 @@ fois. _Asteroid City_ semble ne pas faire exception, et j'ai hâte de le revoir.
 > Anderson.  
 > — Michel Ciment, Le Masque et la Plume du 25 juin 2023.
 
-Un, je ne vois pas le rapport. Il n'y aurait de la place que pour un cinéaste
-pour chaque nom de famille ?
+Un, je ne vois pas le rapport. “Tu t’appelles Anderson et tu fais des films ?
+Ah, la place est déjà prise mon grand.” C’est comme ça que ça marche ?
 
-Deux, n’importe quoi ![^1] La preuve ? Y'a [Kyle Anderson][2] qui mesure 2,06 m.
+Deux, n’importe quoi ! La preuve (_dad-joke alert_) ? Y'a [Kyle Anderson][2] qui
+joue au Minnesota Timberwolve, et ben il mesure 2,06 m.[^1]
 
 ## Bonus
 
-- Pour le film, [Jarvis Cocker][8], le chanteur de Pulp bien aimé par ici[^2], a
-  signé le titre [_You Can’t Wake Up if You Don’t Fall Asleep_][4]. Lui et Wes
+- [La bande originale du film][11], mélange de trésors cachés — _Freight Train_
+  de The Chas. McDevitt Skiffle Group en tête — et de compositions originales
+  signées Alexandre Desplat est comme souvent épatante ;
+- En particulier, [Jarvis Cocker][8], le chanteur de Pulp bien aimé par ici[^2],
+  a signé le titre [_You Can’t Wake Up if You Don’t Fall Asleep_][4]. Lui et Wes
   avaient déjà pas mal bossé ensemble, notamment sur [_Fantastic Mr. Fox_][5] ou
   [_The French Dispatch_][6] ;
 - Wes Anderson a aussi tourné et joué (bien) dans [une pub pour les stylos
-  Montblanc][9], accompagné de Jason Schwartzman et Rupert Friend
+  Montblanc][9], accompagné de Jason Schwartzman et Rupert Friend.
 
 [^1]:
-    Pour mon opinion sur Paul Thomas Anderson, se référer à ma critique de [_The
-    Master_][3] sur Letterboxd.
+    Plus sérieusement, pour mon opinion sur Paul Thomas Anderson, se référer à
+    mes critiques de [_The Master_][3], ou de [Phantom Thread][10] sur
+    Letterboxd.
 
 [^2]: Lire par exemple [ma critique de _Different Class_, de Pulp][7]
 
@@ -90,4 +95,6 @@ Deux, n’importe quoi ![^1] La preuve ? Y'a [Kyle Anderson][2] qui mesure 2,0
 [6]: https://www.themoviedb.org/movie/542178-the-french-dispatch
 [7]: https://www.deadrooster.org/pulp-different-class/
 [8]: https://www.deadrooster.org/tag/jarvis-cocker/
-[9]: https://kottke.org/24/05/wes-andersons-montblanc-commercial
+[9]: https://www.youtube.com/watch?v=tUSRyAha37w
+[10]: https://letterboxd.com/dirtyhenry/film/phantom-thread/
+[11]: https://album.link/s/6W1bQY4CYdHov4UiXdJKZJ
