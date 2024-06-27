@@ -8,7 +8,6 @@ excerpt: >-
   record club, le AV Club et son Undercover, c'est au tour de Doc Martens de
   créer sa collec' de reprises pour fêter ses 50 ans.
 wordpress_id: 692
-cover: raveonettes-drawing.png
 category: Chanson du jour
 tags:
   - Reprise
