@@ -1,7 +1,7 @@
 install:
 	npm install
 
-lintfix:
+format:
 	npm run lint:fix
 
 clean:

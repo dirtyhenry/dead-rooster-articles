@@ -6,39 +6,39 @@ author: Dirty Henry
 excerpt: >-
   Pourquoi je voterai pour un parti bien conscient des enjeux climatiques, à
   savoir le Nouveau Front Populaire.
-image: nouveau-front-populaire.webp
+cover: nouveau-front-populaire.webp
 category: Le monde va mal
 ---
 
 ## Le plus important, c’est le climat
 
 > Je suis inquiet de voir que des gens qui croient au moteur thermique, au
-> Doliprane et au satellite d'un coup ne croient plus à la science et à la
-> qualité scientifique des spécialistes, quand il s'agit du réchauffement
+> Doliprane et au satellite d’un coup ne croient plus à la science et à la
+> qualité scientifique des spécialistes, quand il s’agit du réchauffement
 > climatique.  
 > — Pierre Niney, sur [Clique][1]
 
 Pas mieux.
 
-Le climat n'est pas une opinion, c'est scientifique. Une condition _sine qua
-non_ pour obtenir mon vote, c'est d'avoir en tête le [_Résumé à l'intention des
-décideurs_ du GIEC][2] et de s'en servir comme boussole lors de chaque vote
-soumis à l'Assemblée.
+Le climat n’est pas une opinion, c’est scientifique. Une condition _sine qua
+non_ pour obtenir mon vote, c’est d’avoir en tête le [_Résumé à l’intention des
+décideurs_ du GIEC][2] et de s’en servir comme boussole lors de chaque vote
+soumis à l’Assemblée.
 
 ## Les leaders politiques seront toujours vaseux
 
 Écouter [cette interview de Brian Klaas][3], auteur de [_Corruptible: Who Gets
-Power and How It Changes Us_][4] a ancré au sol quelque chose qui me semblait
-flotter dans l'air. Non seulement une personne qui atteint une position de
+Power and How It Changes Us_][4], a ancré au sol quelque chose qui me semblait
+flotter dans l’air. Non seulement une personne qui atteint une position de
 pouvoir a tendance à devenir corrompue, mais plus une personne a les traits de
 personnalité pour être corrompue, plus elle aura tendance à chercher des
 positions de pouvoir.
 
-> Et toutes ces choses qui font désormais partie intégrante de la vie d'un
+> Et toutes ces choses qui font désormais partie intégrante de la vie d’un
 > politicien moderne vont repousser exactement le genre de personne que nous
 > voulons voir devenir un politicien moderne, tandis que toutes les personnes
-> qui aiment le pouvoir, l'argent, la célébrité et qui ne se soucient pas
-> vraiment de devoir demander de l'argent ou faire semblant de croire à des
+> qui aiment le pouvoir, l’argent, la célébrité et qui ne se soucient pas
+> vraiment de devoir demander de l’argent ou faire semblant de croire à des
 > choses auxquelles elles ne croient pas, ces personnes-là vont se précipiter
 > pour se présenter aux élections.[^1]
 
@@ -48,29 +48,29 @@ leur tête ou qui le composent.
 
 ## Utiliser le filtre des passions premières
 
-Dans les trous de lapin d'internet dans lesquels je suis tombé dans ma panique
-post-dissolution, l'écoute de [cette interview de François Bégaudeau][5],
-écrivain de gauche radicale, est assez éclairante sur la façon d'identifier ce
-qu'il appelle la _passion première_ des uns et des autres, afin de les
+Dans les trous de lapin d’internet dans lesquels je suis tombé dans ma panique
+post-dissolution, l’écoute de [cette interview de François Bégaudeau][5],
+écrivain de gauche radicale, est assez éclairante sur la façon d’identifier ce
+qu’il appelle la _passion première_ des uns et des autres, afin de les
 positionner dans un espace politique à plusieurs dimensions.
 
 En reformulant ce que Bégaudeau dit dans [ce passage][6] :
 
-> Je vois des gens ne s'enquérir de l'état des classes populaires qu'à partir du
-> moment où elles seraient menacés par l'immigration. En fait, ils n'ont pas un
-> vrai souci des classes populaires. Ils n'en ont souci que tactiquement, sur
+> Je vois des gens ne s’enquérir de l’état des classes populaires qu’à partir du
+> moment où elles seraient menacés par l’immigration. En fait, ils n’ont pas un
+> vrai souci des classes populaires. Ils n’en ont souci que tactiquement, sur
 > certains points, pour faire valoir leurs vieilles passions premières à eux, et
-> n'en ont jamais souci sur tous les autres points.
+> n’en ont jamais souci sur tous les autres points.
 
 Bingo.
 
-Qu'on soit d'accord ou pas politiquement avec Bégaudeau, il semble important de
+Qu’on soit d’accord ou pas politiquement avec Bégaudeau, il semble important de
 passer les propos des politiques à des filtres thématiques. Le terrain peut être
 glissant : le risque de dénaturer des propos dans le but de nier la bonne foi de
 la personne qui les tient est réel. Mais appliqué rigoureusement[^2], il peut
-s'avérer utile pour démasquer certaines impostures.
+s’avérer utile pour démasquer certaines impostures.
 
-## Réseaux sociaux et Chaines Info 24/24
+## Réseaux sociaux et Chaînes Info 24/24
 
 On ne sort jamais plus intelligent après avoir passé trop de temps sur les
 réseaux sociaux et les chaînes 24h/24.
@@ -82,21 +82,21 @@ contenus, des montages à charge, des manipulations lancées par des robots et d
 intelligences artificielles.
 
 Les chaînes info 24h/24 sont tout aussi infréquentables, pour des raisons
-similaires : la chasse à l'attention des téléspectateurs repose rarement sur des
+similaires : la chasse à l’attention des téléspectateurs repose rarement sur des
 propos intelligents.
 
 On en arrive au point Pascal Praud, une figure de proue de la chaîne CNews.
 
-J'ai eu beaucoup de sympathie pour lui. Nous avons pris nos petits-déjeuners
-ensemble, chaque dimanche matin pendant une vingtaine d'années, quand je
+J’ai eu beaucoup de sympathie pour lui. Nous avons pris nos petits-déjeuners
+ensemble, chaque dimanche matin pendant une vingtaine d’années, quand je
 regardais _Téléfoot_. Il était alors un journaliste assez médiocre, qui ne
 connaissait finalement pas grand chose au foot et récoltait de la sympathie par
-le rôle de souffre-douleur que lui donnaient ses petits camarades. Je l'avais
+le rôle de souffre-douleur que lui donnaient ses petits camarades. Je l’avais
 même taquiné sur ce site après [des propos où il considérait que la France
-n'avait plus d'avenir][7] (leur réécoute leur donne une aura de prophétie
+n’avait plus d’avenir][7] (leur réécoute leur donne une aura de prophétie
 autoréalisatrice sur son évolution de carrière).
 
-Revenons au présent, les mêmes trous de lapin m'ont amené à ces 2 vidéos :
+Revenons au présent, les mêmes trous de lapin m’ont amené à ces 2 vidéos :
 
 - [La réception pour le moins inhospitalière de Claire Nouvian sur CNews][8], où
   Praud et ses sbires confondent climat et météo — un efficace détecteur de
@@ -110,17 +110,17 @@ Side-note : [la parodie de Malik Bentalha][10] est très marrante.
 
 ## Alternatives aux réseaux sociaux
 
-Il y a beaucoup d'alternatives aux réseaux sociaux : journaux établis (type Le
+Il y a beaucoup d’alternatives aux réseaux sociaux : journaux établis (type Le
 Monde, The Guardian, New York Times, etc.), chaînes YouTube, newsletters…
 
 Mes modestes recommandations :
 
 - Chaîne YouTube de [Last Week Tonight][11], de John Oliver ;
-- Chaîne YouTube de [The Daily Show][12], avec Jon Stewart et d'autres ;
+- Chaîne YouTube de [The Daily Show][12], avec Jon Stewart et d’autres ;
 - La newsletter de [Kareem Abdul-Jabbar][13], légende du basket, noir, musulman,
   fils de policier, et désormais vieux monsieur qui partage ses opinions sur le
   sport, la politique et la pop-culture ;
-- [Bon Pote][14] : média indépendant sur l'environnement ;
+- [Bon Pote][14] : média indépendant sur l’environnement ;
 - [Daily Stoic][15] : une newsletter quotidienne sur le stoïcisme, qui rappelle
   la philosophie de Marc-Aurèle, Sénèque, Zénon et les autres.
 
@@ -130,10 +130,10 @@ Le monde va mal.
 
 [^1]:
     En V.O. : <q>And all of those things which now have become part and parcel
-    of being a modern politician, they're gonna repel exactly the kind of person
+    of being a modern politician, they’re gonna repel exactly the kind of person
     that we want to be a modern politician, and all the people who love the
-    power, the money, the fame and don't really care about having to ask for
-    money or pretend that they believe stuff they don't, those people are gonna
+    power, the money, the fame and don’t really care about having to ask for
+    money or pretend that they believe stuff they don’t, those people are gonna
     make a beeline to run for office.</q>
 
 [^2]: Pour être rigoureux, merci de bien assimiler [la contraposée de Régis][16]
