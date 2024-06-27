@@ -124,6 +124,10 @@ Mes modestes recommandations :
 - [Daily Stoic][15] : une newsletter quotidienne sur le stoïcisme, qui rappelle
   la philosophie de Marc-Aurèle, Sénèque, Zénon et les autres.
 
+## Conclusion
+
+Le monde va mal.
+
 [^1]:
     En V.O. : <q>And all of those things which now have become part and parcel
     of being a modern politician, they're gonna repel exactly the kind of person
