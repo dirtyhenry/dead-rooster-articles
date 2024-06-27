@@ -8,7 +8,6 @@ authors:
   - Dirty Henry
 wordpress_id: 599
 date: "2010-04-23 12:02:35 +0200"
-cover: lcd-soundsystem-drunk-girls.png
 category: Chanson du jour
 ---
 
