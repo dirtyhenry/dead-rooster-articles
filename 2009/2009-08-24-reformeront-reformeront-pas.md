@@ -3,6 +3,7 @@ layout: post
 title: Reformeront ? Reformeront pas ?
 wordpress_id: 55
 date: "2009-08-24 11:03:21 +0200"
+category: News
 ---
 
 Du côté de **Blur**, on ne comprend rien. Tandis que Damon Albarn et Alex James

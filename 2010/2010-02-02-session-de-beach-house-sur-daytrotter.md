@@ -3,6 +3,7 @@ layout: post
 title: Session de Beach House sur Daytrotter
 wordpress_id: 126
 date: "2010-02-02 00:40:08 +0100"
+category: Chanson du jour
 ---
 
 {% youtube 9Koa0jvpN58 %}
