@@ -5,6 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 1127
 date: "2012-10-23 08:00:00 +0200"
+category: Chanson du jour
 ---
 
 {% youtube OJ8Gtx45Fmc %}

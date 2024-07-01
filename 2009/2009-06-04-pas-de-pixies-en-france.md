@@ -3,6 +3,7 @@ layout: post
 title: Pas de Pixies en France
 wordpress_id: 18
 date: "2009-06-04 11:41:40 +0200"
+category: News
 ---
 
 Une tournée européenne de Pixies est prévue pour cet été 2009, en avant-première

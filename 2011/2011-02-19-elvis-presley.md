@@ -62,8 +62,8 @@ stand-up. Dans un souci d’exhaustivité, citons ici sa blague favorite qui
 consistait à demander à une complice dissimulée dans le public : "Salut ma
 belle ! Comment je m’appelle ?", la jeune fille de répondre : "Presley !", et
 lui de conclure d’un simple "Pouet ! Pouet !" accompagné d’un geste libidineux
-sur la poitrine de son assistante… … … Humoriste visionnaire, trop en avance sur
-son temps et sur les mœurs d’une société américaine ultra-conservatrice, sa
+sur la poitrine de son assistante… Humoriste visionnaire, trop en avance sur son
+temps et sur les mœurs d’une société américaine ultra-conservatrice, sa
 reconversion comique est un échec !
 
 En désespoir de cause, il revient à la chanson, avec son fameux _Aloha From

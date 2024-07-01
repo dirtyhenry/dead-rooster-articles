@@ -27,8 +27,7 @@ parsemés de hits pop immédiats : _Surfin’ USA_, _I Get Around_, _Misirlou_,
 Mais progressivement, Brian prend le contrôle du groupe, et impose des
 compositions beaucoup plus travaillées et orchestrées. De ces séances de
 triturages sonores maniaques sort _Pet Sounds_, le chef-d’œuvre absolu, que le
-quidam aura trop souvent tendance à rapprocher de
-[_Evguenie Sokolov_](http://grooveshark.com/s/Evguenie+Sokolov/3DeVLV?src=5), le
+quidam aura trop souvent tendance à rapprocher de [_Evguenie Sokolov_][1], le
 reggae de Gainsbourg, notamment à cause du titre équivoque de l’album des
 garçons de la plage… Il ne faut cependant pas s’y tromper : chaque chanson est
 un bijou d’orchestration et de mélodies vocales (Brian est alors un grand fan de
@@ -41,3 +40,5 @@ parano, incapable d’obtenir des versions abouties de ses ébauches mentales. L
 autres membres du groupe repartiront alors à des chansons plus basiques, mais
 _Dieu Seul Sait_ ce que seraient devenus ses gentils garçons si Brian avait
 laissé tomber le casque de pompier.
+
+[1]: https://www.youtube.com/watch?v=ygkw5zMgQ3Y

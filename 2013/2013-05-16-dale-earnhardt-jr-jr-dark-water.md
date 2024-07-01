@@ -5,11 +5,12 @@ authors:
   - Dirty Henry
 wordpress_id: 1232
 date: 2013-05-16 13:44:57 +0200
+category: Chanson du jour
 ---
 
-Encore un peu de Dale Earnhardt Jr. Jr., extrait de leur EP _The Patterns_.
-
 {% youtube z9W8Fuzk0Uc %}
+
+Encore un peu de Dale Earnhardt Jr. Jr., extrait de leur EP _The Patterns_.
 
 Vous pouvez aussi [réécouter _Hiding_][i1223].
 

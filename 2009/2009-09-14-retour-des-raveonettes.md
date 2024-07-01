@@ -5,6 +5,7 @@ wordpress_id: 66
 date: "2009-09-14 22:47:52 +0200"
 tags:
   - The Raveonettes
+category: News
 ---
 
 Après avoir prouvé qu’[on pouvait faire du rock en danois sur son album

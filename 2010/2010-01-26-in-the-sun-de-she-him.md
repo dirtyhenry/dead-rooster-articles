@@ -5,7 +5,6 @@ wordpress_id: 124
 date: "2010-01-26 18:52:40 +0100"
 tags:
   - She & Him
-comments: []
 ---
 
 Pitchfork propose d’[écouter un nouveau titre de **She&Him**][1], en avant

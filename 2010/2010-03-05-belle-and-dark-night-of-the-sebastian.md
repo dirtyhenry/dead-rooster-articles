@@ -3,6 +3,7 @@ layout: post
 title: Belle and Dark Night of the Sebastian
 wordpress_id: 147
 date: "2010-03-05 00:31:55 +0100"
+category: News
 ---
 
 Première brève mash-up pour annoncer deux choses importantes : Stuart Murdoch et

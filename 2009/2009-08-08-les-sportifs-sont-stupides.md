@@ -5,7 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 520
 date: "2009-08-08 13:35:37 +0200"
-cover: ours-velo.jpg
+category: Le monde va mal
 ---
 
 Le cycliste Danilo Di Luca a été détecté positif à un contrôle anti-dopage et se
