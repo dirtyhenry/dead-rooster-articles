@@ -20,8 +20,8 @@ category: Le monde va mal
 
 Pas mieux.
 
-Le climat n’est pas une opinion, c’est scientifique. Une condition _sine qua
-non_ pour obtenir mon vote, c’est d’avoir en tête le [_Résumé à l’intention des
+Le climat n’est pas une opinion, c’est une science. Une condition _sine qua non_
+pour obtenir mon vote, c’est d’avoir en tête le [_Résumé à l’intention des
 décideurs_ du GIEC][2] et de s’en servir comme boussole lors de chaque vote
 soumis à l’Assemblée.
 
