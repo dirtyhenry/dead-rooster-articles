@@ -76,4 +76,4 @@ les quelques groupes évoqués plus haut ainsi que plein d’autres à découvri
 
 Rendez-vous en 2012 les amis et profitez des derniers moments TTM de 2011 !
 
-[i699]: https://www.deadrooster.org/parfois-on-s-demande/
+[i699]: https://www.deadrooster.org/acid-house-kings/

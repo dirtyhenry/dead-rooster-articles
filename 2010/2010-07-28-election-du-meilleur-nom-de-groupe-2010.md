@@ -36,4 +36,4 @@ N’hésitez pas à proposer les vôtres dans les commentaires.
 [3]: https://en.wikipedia.org/wiki/Dumbo_Gets_Mad
 [4]: https://en.wikipedia.org/wiki/Someone_Still_Loves_You_Boris_Yeltsin
 [5]: https://fr.wikipedia.org/wiki/Delorean_(groupe)
-[6]: https://www.facebook.com/SheetahetlesWeissmuller
+[6]: https://www.discogs.com/fr/artist/1733072-Sheetah-et-les-Weissmuller

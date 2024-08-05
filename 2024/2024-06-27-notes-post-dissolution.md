@@ -128,6 +128,11 @@ Mes modestes recommandations :
 
 Le monde va mal.
 
+## Addendum
+
+[La vision de Bernard Tapie sur les couches qui composent le Front National][17]
+me semble en plein dans le mille.
+
 [^1]:
     En V.O. : <q>And all of those things which now have become part and parcel
     of being a modern politician, they’re gonna repel exactly the kind of person
@@ -172,3 +177,4 @@ Le monde va mal.
 [14]: https://bonpote.com/ "Bon pote, média indépendant sur l'environnement"
 [15]: https://dailystoic.com/
 [16]: https://www.deadrooster.org/life-lesson-mimetisme/
+[17]: https://x.com/75secondes/status/1807634144194605086
