@@ -4,12 +4,11 @@ title:
 description: Cee-Lo Green, F*** You
 author: Dirty Henry
 wordpress_id: 684
-cover: fuck-you-snapshot.png
 date: 2010-08-26 13:23:19 +0200
 category: Chanson du jour
 ---
 
-{% youtune bKxodgpyGec %}
+{% youtube bKxodgpyGec %}
 
 Message pas joli joli, mais chanson cool.
 
