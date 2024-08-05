@@ -55,10 +55,10 @@ The Guardian avait réagi en 2008 au visionnage d’un documentaire de la BBC,
 > [Fortune][8] ou de copies bien usées de [_Kick Out The Jams_][9]. Detroit n’a
 > jamais bénéficié de « renaissance » et les conséquences des émeutes n’ont
 > jamais été aussi profondes. Mais il y a toujours cette sensation d’aventure
-> urbaine que [John Sinclair][^1] décrit dans le documentaire. Sinclair a
-> toujours été un de mes héros : son parti des [White Panther][10] a influencé
-> mon groupe, les [Soledad Brothers][i215], et il a écrit les notes de pochettes
-> de mon premier album.
+> urbaine que John Sinclair[^1] décrit dans le documentaire. Sinclair a toujours
+> été un de mes héros : son parti des [White Panther][10] a influencé mon
+> groupe, les [Soledad Brothers][i215], et il a écrit les notes de pochettes de
+> mon premier album.
 >
 > Alors pourquoi Detroit continue de pondre le meilleur rock’n’roll ? À bien des
 > égards, la ville s’est arrêtée après les émeutes, il n’y a donc pas de
@@ -91,7 +91,6 @@ En bonus, quelques liens, dont une compile Spotify :
     Pour creuser John Sinclair, je vous recommande de lire [ma chronique de
     _Guitar Army_][11], un recueil de ses textes.
 
-[1]: https://fr.wikipedia.org/wiki/John_Sinclair_(poète)
 [i215]: https://www.deadrooster.org/soleded-brothers-next/
 [2]: https://www.discogs.com/fr/artist/630557-Ben-Swank
 [3]:
