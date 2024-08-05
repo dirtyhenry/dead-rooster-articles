@@ -75,7 +75,8 @@ de début d’article) : je vous rassure, Pulp est à Renaud ce que _Le Parrain
 à _Le Grand Pardon_. Une _Different Class_ en quelque sorte.
 
 Quittons-nous malgré tout avec la version française de _Common People_, (update)
-ainsi que la fantastique reprise de Mis-Shapes par The Livingstones I Presume !
+ainsi que la fantastique reprise de Mis-Shapes par [**The Livingstones I
+Presume**][4] !
 
 {% spotify_track 4qwNXTywDMge32JmboD0rY %}
 
@@ -84,3 +85,4 @@ ainsi que la fantastique reprise de Mis-Shapes par The Livingstones I Presume !
 [1]: https://youtu.be/S0DRch3YLh0
 [2]: https://youtu.be/yuTMWgOduFM
 [3]: https://youtu.be/qJS3xnD7Mus
+[4]: https://thelivingstonesipresume.bandcamp.com/

@@ -7,9 +7,7 @@ wordpress_id: 1240
 date: "2013-05-30 12:00:00 +0200"
 ---
 
-Face B retrouvée dans les archives, collaboration entre Michael Kiwanuka & Dan
-Auerbach, le mec des Black Keys. Tranquille.
-
 {% youtube GQUo8lLxVmI %}
 
-(via [NME](http://www.nme.com/news/the-black-keys/62283))
+Face B retrouvée dans les archives, collaboration entre Michael Kiwanuka & Dan
+Auerbach, le mec des Black Keys. Tranquille.

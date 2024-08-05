@@ -7,6 +7,7 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 641
+category: Chanson du jour
 date: 2010-07-01 22:25:56 +0200
 ---
 
