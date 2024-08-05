@@ -5,10 +5,10 @@ wordpress_id: 699
 title: À la découverte des Acid House Kings
 author: Joe Gantdelaine
 excerpt: >-
-  Découvrez la discographie sous-estimée de Acid House King. Malgré un nom a
+  Découvrez la discographie sous-estimée des Acid House Kings. Malgré un nom a
   priori repoussant, leur musique résonne avec les fans de Belle and Sebastian
-  et Papas Fritas. Écoutez Acid House King maintenant et découvrez une perle
-  cachée de l'indie !
+  ou des Papas Fritas. Écoutez Acid House Kings et découvrez une perle cachée de
+  l'indie !
 cover: sing-along-with-acid-house-kings.jpg
 date: 2010-09-09 01:44:44 +0200
 category: Review
@@ -22,12 +22,12 @@ comments:
     content: Et les clips, ils sont bien bien n'impesque aussi !
 ---
 
-Parfois, on s'demande !
+Parfois, on s’demande !
 
-En général, quand on commence un groupe, on se voit déjà en haut de l'affiche,
+En général, quand on commence un groupe, on se voit déjà en haut de l’affiche,
 avec un nom qui claque, écrit avec des néons rouges. On passe ensuite des heures
-à imaginer l'aspect visuel, à peaufiner le concept de la pochette du premier
-album, avant même de créer les futurs tubes. Bon, ça, c'est en général… Et
+à imaginer l’aspect visuel, à peaufiner le concept de la pochette du premier
+album, avant même de créer les futurs tubes. Bon, ça, c’est en général… Et
 apparemment, Acid House Kings est passé directement à la composition musicale !
 
 Triste constat, mais certains groupes se mettent eux-même des bâtons dans les
