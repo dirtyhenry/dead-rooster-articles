@@ -7,7 +7,6 @@ description:
 authors:
   - Dirty Henry
 wordpress_id: 643
-cover: turbo-fruits-logo.png
 date: 2010-07-05 11:09:52 +0200
 category: Chanson du jour
 ---
