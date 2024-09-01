@@ -5,10 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 522
 date: "2009-08-19 20:21:56 +0200"
-categories:
-  - Catégories
-tags:
-  - Dead Rooster Announcement
+category: Annonce
 cover: i-love-color-blindness.png
 ---
 

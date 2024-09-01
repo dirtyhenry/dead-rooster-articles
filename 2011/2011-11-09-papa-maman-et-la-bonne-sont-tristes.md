@@ -6,6 +6,7 @@ authors:
 wordpress_id: 947
 cover: robert-lamoureux.jpg
 date: 2011-11-09 23:35:33 +0100
+category: Le monde va mal
 ---
 
 Vivant à Boston, j’apprends seulement la mort de Robert Lamoureux. Sa mort n’a

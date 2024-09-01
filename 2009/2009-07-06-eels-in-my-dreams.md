@@ -1,8 +1,11 @@
 ---
 layout: post
-title: Dans tes rêves Mr. E!
+title: In My Dreams, de Eels
 wordpress_id: 32
 date: "2009-07-06 00:02:03 +0200"
+category: Chanson du jour
+tags:
+  - Eels
 ---
 
 {% youtube qoqZOR9DTi4 %}

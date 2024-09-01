@@ -8,10 +8,7 @@ authors:
   - Dirty Henry
 wordpress_id: 606
 date: "2010-04-30 11:45:45 +0200"
-categories:
-  - Catégories
-tags:
-  - Dead Rooster Announcement
+category: Annonce
 cover: the-livingstones-i-presume-concert-chez-adel.png
 ---
 

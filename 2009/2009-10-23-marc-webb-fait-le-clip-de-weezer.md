@@ -3,6 +3,7 @@ layout: post
 title: Marc Webb fait le clip de Weezer
 wordpress_id: 83
 date: "2009-10-23 13:42:14 +0200"
+category: La chanson du jour
 ---
 
 {% youtube cDIzMGh94vo %}

@@ -10,9 +10,8 @@ wordpress_id: 628
 cover: corin-tucker-live.jpg
 date: "2010-06-09 14:47:33 +0200"
 categories:
-  - Catégories
+  - News
 tags:
-  - Nouvel album
   - Sleater-Kinney
 ---
 
@@ -20,11 +19,13 @@ tags:
 5 octobre prochain.
 
 De quoi [se remettre les oreilles dans les disques de feu-Sleater-Kinney][i1],
-mais aussi sur les collaborations déjà publiées de Corin
-[avec Blue Giant, qui est bien mais pas top.](https://pitchfork.com/news/39041-hear-blue-giants-corin-tucker-collab/).
+mais aussi sur les collaborations déjà publiées de Corin [avec Blue Giant, qui
+est bien mais pas top.][2].
 
 {% youtube FbmZi_VS4ZM %}
 
-[Photo sous licence Creative Commons BY ND par **sarae**](http://www.flickr.com/photos/sarae/234801351/)
+[Photo sous licence Creative Commons BY ND par **sarae**][1]
 
 [i1]: https://www.deadrooster.org/sleater-kinney-nouveau-casino/
+[1]: https://www.flickr.com/photos/sarae/234801351/
+[2]: https://pitchfork.com/news/39041-hear-blue-giants-corin-tucker-collab/

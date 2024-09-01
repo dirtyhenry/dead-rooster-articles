@@ -52,7 +52,7 @@ le cinéma (dont voici [une jolie compilation signée Allociné][2]).
 (voir [chapitre précédent][3]) notamment pour le tube du film, *I Am A Man Of
 Constant Sorrow* :
 
-{% youtube 08e9k-c91E8 %}
+{% youtube YDDEqgmGIVg %}
 
 Le film se revoit avec plaisir, je vous invite à vous en donner à coeur joie.
 

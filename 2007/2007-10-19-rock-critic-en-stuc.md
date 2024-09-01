@@ -10,5 +10,5 @@ category: Le monde va mal
 ---
 
 En ce mois d’octobre 2007, Lester Bangs et Allen Ginsberg n’ont toujours pas
-daigné rejoindre la rédaction de Rock&Folk. A la place on a Patrick Eudeline et
+daigné rejoindre la rédaction de Rock&Folk. À la place on a Patrick Eudeline et
 Busty… Le monde va mal !

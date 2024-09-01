@@ -9,8 +9,7 @@ description: >
   question est simple : pourquoi ?
 authors:
   - Joe Gantdelaine
-categories:
-  - Artistes
+category: Review
 tags:
   - The Soundtrack Of Our Lives
 ---
