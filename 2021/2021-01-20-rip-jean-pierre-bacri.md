@@ -9,7 +9,6 @@ excerpt: >-
 category: Le monde va mal
 tags:
   - Alain Chabat
-  - Caroline Cellier
   - Jean-Pierre Bacri
 revisions:
   "2021-01-20": Version originale

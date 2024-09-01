@@ -6,6 +6,7 @@ date: "2009-12-13 12:55:08 +0100"
 tags:
   - Lightspeed Champion
 comments: []
+category: News
 ---
 
 **Lightspeed Champion** a décidé d’enregistrer des chansons plutôt que passer

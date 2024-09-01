@@ -3,6 +3,7 @@ layout: post
 title: Local Natives ? On tient un truc là…
 wordpress_id: 104
 date: "2009-12-17 00:46:11 +0100"
+category: News
 ---
 
 Dans tout ce que balance Pitchfork, il faut apprendre à séparer le bon grain de

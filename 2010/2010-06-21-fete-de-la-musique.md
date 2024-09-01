@@ -10,10 +10,7 @@ authors:
 wordpress_id: 633
 cover: the-livingstones-i-presume-posing.jpg
 date: 2010-06-21 10:15:41 +0200
-categories:
-  - Catégories
-tags:
-  - Dead Rooster Announcement
+category: Annonce
 ---
 
 [**The Livingstones I Presume**][1] joueront à l’occasion de la fête de la

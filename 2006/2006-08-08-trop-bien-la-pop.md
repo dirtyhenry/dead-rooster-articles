@@ -7,7 +7,6 @@ wordpress_id: 326
 date: "2006-08-08 09:44:00 +0200"
 category: News
 tags:
-  - Dead Rooster Announcement
   - The (Raymond) Domenek! Strokes’ Cans
   - The Thrills
 cover: the-thrills-2.jpg

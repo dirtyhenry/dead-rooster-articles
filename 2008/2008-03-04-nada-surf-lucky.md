@@ -21,7 +21,7 @@ parentale : elle m’emmènerait à leur concert, un concert de rock donc, lieu
 concentration de tous les maux de la société actuelle : alcool, drogue, sexe et
 débauche. Je garde des souvenirs étonnemment précis de ce concert : chaleur
 torride sur le bitume du parking du Leclerc de Carhaix, la chemise à carreaux
-bleue ciel et blanche avec un énorme chat cousu dessus de Matthew Cavs
+bleue ciel et blanche avec un énorme chat cousu dessus de Matthew Caws
 (chanteur/guitariste), la nonchalance incroyable et la basse au niveau des
 genoux de Daniel Lorca (bassiste/chanteur) qui n’avait pas encore ses dreads
 improbables, le complet jean et marcel blanc d’Ira Elliott qui fut le premier

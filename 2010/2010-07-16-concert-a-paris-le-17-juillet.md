@@ -9,10 +9,7 @@ authors:
 wordpress_id: 650
 cover: the-livingstones-i-presume-flyer-concert-17-juillet.jpg
 date: 2010-07-16 12:15:02 +0200
-categories:
-  - Catégories
-tags:
-  - Dead Rooster Announcement
+category: Annonce
 ---
 
 [**The Livingstones I Presume**][1] joueront le samedi 17 juillet, à Paris, à

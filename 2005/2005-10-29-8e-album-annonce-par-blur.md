@@ -4,6 +4,7 @@ title: 8e album annoncé par Blur
 date: "2005-10-29 00:00:00 +0200"
 tags:
   - Blur
+published: false
 ---
 
 Malgré le départ de Graham Coxon, Blur vient d’annoncer qu’il y aura bien un
