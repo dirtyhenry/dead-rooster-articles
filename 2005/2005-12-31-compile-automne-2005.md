@@ -10,6 +10,7 @@ tags:
   - Arctic Monkeys
   - Babyshambles
   - Bloc Party
+  - Franz Ferdinand
   - Liars
   - Nada Surf
   - The Strokes

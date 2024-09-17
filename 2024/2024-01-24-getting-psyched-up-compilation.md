@@ -9,6 +9,8 @@ excerpt: >-
   Are You Gonna Be My Girl de Jet. Et plein d’autres pépites.
 cover: getting-psyched-up.webp
 category: Compile
+tags:
+  - Franz Ferdinand
 ---
 
 On devient vieux. Il nous faut des trucs, des astuces pour réussir à se remettre

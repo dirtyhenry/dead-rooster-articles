@@ -11,6 +11,7 @@ tags:
   - Arctic Monkeys
   - Babyshambles
   - Blur
+  - Franz Ferdinand
   - Klaxons
   - Oasis
   - Pulp

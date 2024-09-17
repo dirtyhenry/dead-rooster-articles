@@ -6,11 +6,8 @@ authors:
 wordpress_id: 519
 cover: jim-jones-revue.jpg
 date: 2009-08-07 18:15:32 +0200
-categories:
-  - Catégories
-  - Artistes
+category: Concert
 tags:
-  - Concert
   - Franz Ferdinand
 ---
 

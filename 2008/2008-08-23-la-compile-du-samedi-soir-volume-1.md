@@ -8,8 +8,9 @@ date: 2008-08-23 18:57:00 +0200
 category: Compile
 tags:
   - Bloc Party
-  - The Strokes
   - Bob Dylan
+  - Franz Ferdinand
+  - The Strokes
 ---
 
 {% spotify 0BSh8CRhHXWWHaqd1G2e1l %}
