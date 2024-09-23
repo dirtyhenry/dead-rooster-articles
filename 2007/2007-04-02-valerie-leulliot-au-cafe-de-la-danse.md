@@ -4,11 +4,8 @@ title: Valérie Leulliot au café de la danse
 author: Dirty Henry
 wordpress_id: 372
 date: "2007-04-02 21:22:00 +0200"
-categories:
-  - Catégories
-  - Artistes
+category: Concert
 tags:
-  - Concert
   - Autour de Lucie
   - Valérie Leulliot
 cover: valerie-leulliot-2.jpg
@@ -47,8 +44,10 @@ fera pas la fine bouche et après ces derniers moments avec le groupe, tout le
 monde quittera la salle le sourire aux lèvres, malgré la pluie fine qui trempe
 le pavé de la place de la Bastille.
 
-[1]: https://www.dailymotion.com/video/x2irpi
-[2]: https://www.dailymotion.com/video/x8923a
+[1]:
+  https://www.dailymotion.com/video/x2irpi
+  "Valérie Leulliot — L’eau du Gange live au Café de la Danse"
+[2]: https://song.link/fr/i/289596148 "Valérie Leulliot — Les Falaises"
 [3]: https://youtu.be/Gv4CX5XLdLU
 [4]: https://fr.wikipedia.org/wiki/Nico_Bogue
 [5]: https://fr.wikipedia.org/wiki/Val%C3%A9rie_Leulliot
