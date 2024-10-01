@@ -12,7 +12,7 @@ category: Life Lesson
 
 **Alexandre Astier**, bien connu pour [_Kaamelott_][3], était de passage dans
 [_Hot Ones_][4]. Le truc en entier est recommandé, mais un passage m’a
-particulièrement marquant.
+particulièrement marqué.
 
 <audio controls>
   <source src="/assets/audio/astier-changez.mp3" type="audio/mpeg">
@@ -57,7 +57,7 @@ truc en entier est recommandé mais ledit passage est ici :
 > as if it was your last, someday you'll most certainly be right. It made an
 > impression on me. And since then, for the past 33 years, I've looked in the
 > mirror every morning and asked myself, if today was the last day of my life,
-> what I want to do, what I am about to do today. And whenever the answer has
+> would I want to do, what I am about to do today. And whenever the answer has
 > been no for too many days in a row, I know I need to change something.
 
 Puis, Steve enchaîne sur le fait que se souvenir qu'on sera bientôt mort est une
