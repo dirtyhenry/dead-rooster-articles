@@ -7,7 +7,7 @@ excerpt: >-
   Alexandre Astier cite Steve Jobs pour vous rappeler qu’on n’a qu’une vie et
   que, si changer fait peur, il y a des conditions qui font qu’on ne regrettera
   pas le changement.
-category: Life lesson
+category: Life Lesson
 ---
 
 **Alexandre Astier**, bien connu pour [_Kaamelott_][3], était de passage dans
