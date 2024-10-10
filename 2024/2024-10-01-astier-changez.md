@@ -66,6 +66,19 @@ mori_][5] cher aux Stoïques. Au début, ça sonne morbide, mais en fait, c’es
 plutôt l’inverse, ça dit que puisqu’à la fin on meurt, autant faire des trucs
 qui valent le coup d’être faites. La vie quoi.
 
+## Addendum
+
+Pour finir voici le magnifique titre _If We Were Vampires_ de Jason Isbell and
+the 400 Unit, dont voici un extrait des [paroles][6] :
+
+> It's knowing that this can't go on forever  
+> Likely one of us will have to spend some days alone  
+> Maybe we'll get forty years together  
+> But one day I'll be gone  
+> Or one day you'll be gone
+
+{%youtube ivYkyC8J29M %}
+
 [1]:
   https://www.youtube.com/watch?v=YyalpipMTO0
   "HOT ONES : Alexandre Astier a hacké le concept"
@@ -79,3 +92,6 @@ qui valent le coup d’être faites. La vie quoi.
   https://www.youtube.com/watch?v=YyalpipMTO0
   "HOT ONES : Alexandre Astier a hacké le concept"
 [5]: https://fr.wikipedia.org/wiki/Memento_mori
+[6]:
+  https://genius.com/Jason-isbell-and-the-400-unit-if-we-were-vampires-lyrics
+  "Paroles If We Were Vampires, de Jason Isbell and the 400 Unit"
