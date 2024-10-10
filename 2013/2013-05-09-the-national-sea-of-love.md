@@ -12,7 +12,8 @@ tags:
 
 {% youtube yIWmRbHDhGw %}
 
-Clip fun pour les Nationaux, inspiré de [celui-ci][2] :
+Clip fun pour les Nationaux, inspiré de [celui du titre _Grubyj Zakat_ du groupe
+indé russe Zvuki Mu][2].
 
 Vivement l’album !
 

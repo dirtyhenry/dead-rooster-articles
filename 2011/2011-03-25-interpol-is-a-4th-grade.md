@@ -12,6 +12,9 @@ wordpress_id: 807
 cover: interpol-live-daniel-kessler.png
 date: 2011-03-25 17:38:16 +0100
 category: Concert
+tags:
+  - Interpol
+  - Paul Banks
 ---
 
 **2011, March 15th. Zénith, Paris, France** The concert is about to start.
