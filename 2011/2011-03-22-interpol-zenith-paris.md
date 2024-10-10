@@ -13,6 +13,7 @@ date: 2011-03-22 09:31:07 +0100
 category: Concert
 tags:
   - Interpol
+  - Paul Banks
 ---
 
 **Mardi 15 mars 2011. Zénith de Paris.** C’est bientôt l’heure du concert

@@ -9,10 +9,7 @@ authors:
 wordpress_id: 660
 cover: tennis-band.jpg
 date: 2010-07-24 15:33:37 +0200
-categories:
-  - Catégories
-tags:
-  - Single
+category: Review
 ---
 
 Après les [Dum Dum Girls][i588] ou [Best Coast][i657], entre autres, la mode est

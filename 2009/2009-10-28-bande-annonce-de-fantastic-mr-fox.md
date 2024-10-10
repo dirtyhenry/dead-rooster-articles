@@ -3,6 +3,7 @@ layout: post
 title: Bande-annonce de Fantastic Mr. Fox
 wordpress_id: 84
 date: "2009-10-28 22:47:34 +0100"
+category: News
 tags:
   - Wes Anderson
   - Jason Schwartzman

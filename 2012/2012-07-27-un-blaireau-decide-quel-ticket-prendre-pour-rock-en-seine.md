@@ -6,10 +6,9 @@ authors:
 wordpress_id: 1082
 cover: rock-en-seine.png
 date: 2012-07-27 11:01:53 +0200
-categories:
-  - Catégories
+category: Éditorial
 tags:
-  - Concert
+  - Rock en Seine
 ---
 
 Il serait temps de faire un post sur ce blog, ne serait-ce que pour prouver

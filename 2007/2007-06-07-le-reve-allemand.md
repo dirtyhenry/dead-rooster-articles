@@ -4,6 +4,7 @@ title: Le rêve allemand
 authors:
   - Dirty Henry
 wordpress_id: 388
+category: Foot
 date: "2007-06-07 16:07:00 +0200"
 cover: franck-ribery.jpg
 ---
