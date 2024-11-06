@@ -24,7 +24,7 @@ rentre dans leurs petits papiers et grâce à ses services, Baxter grimpe
 fièrement les échelons de son entreprise, jusqu’à ce que la situation se
 complique lorsqu’il tombe amoureux de la maîtresse du big boss.
 
-{% youtube CbJicU6YriI&hl %}
+{% youtube CbJicU6YriI %}
 
 Visionné, encore une fois, sur les recommandations de feu le blog de Serge
 Kaganski, le film est tout simplement excellent. Vainqueur de 5 oscars (dont
