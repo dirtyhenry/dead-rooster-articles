@@ -7,6 +7,7 @@ authors:
 wordpress_id: 848
 cover: primavera-festival.jpg
 date: 2011-05-29 14:45:08 +0200
+category: Encyclopédie approximative du Rock and Roll
 ---
 
 Car oui, depuis le rassemblement hippie d’Altamont où paix universelle et amour
