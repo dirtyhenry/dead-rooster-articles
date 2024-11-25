@@ -133,6 +133,9 @@ Le monde va mal.
 [La vision de Bernard Tapie sur les couches qui composent le Front National][17]
 me semble en plein dans le mille.
 
+[L’heure des pronos][18], autre parodie de l’émission de Pascal Praud, avec
+l’équipe d’[Action Discrète][19].
+
 [^1]:
     En V.O. : <q>And all of those things which now have become part and parcel
     of being a modern politician, they’re gonna repel exactly the kind of person
@@ -178,3 +181,7 @@ me semble en plein dans le mille.
 [15]: https://dailystoic.com/
 [16]: https://www.deadrooster.org/life-lesson-mimetisme/
 [17]: https://x.com/75secondes/status/1807634144194605086
+[18]:
+  https://www.youtube.com/watch?v=qUYZKXis0BU
+  "L'heure des pronos avec Lionel Messiha et Michel Saindoux"
+[19]: https://fr.wikipedia.org/wiki/Action_discr%C3%A8te
