@@ -41,6 +41,10 @@ Creuser.
 
 Voilà donc. _Life Lesson_.
 
+## Addendum
+
+Décembre 2024, [encore un cas](https://www.youtube.com/watch?v=H5rNwtATQEE).
+
 [1]: https://www.basketusa.com/news/697087/pivot-mavericks-dunk-contre-son-camp/
 [2]: https://fr.wikipedia.org/wiki/Mouton_de_Panurge_(locution)
 [3]: https://fr.wikipedia.org/wiki/Proposition_contrapos%C3%A9e
