@@ -9,7 +9,7 @@ excerpt: >-
   La compilation des titres et des découvertes qu'on a aimés en été 2023,
   disponible sur Spotify, avec Paul Simon, Amyl and The Sniffers, Sharon Van
   Etten, Horsegirl, et Shirley Bassey.
-image: un-ete-2023.webp
+cover: un-ete-2023.webp
 category: Compile
 ---
 
