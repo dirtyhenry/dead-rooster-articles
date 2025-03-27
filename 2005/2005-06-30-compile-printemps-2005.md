@@ -1,10 +1,14 @@
 ---
 layout: post
-title: Compile printemps 2005
+title: Un Printemps 2005
 authors:
   - Dirty Henry
 wordpress_id: 244
+excerpt: >-
+  La compilation des titres et des découvertes qu'on a aimés au printemps 2005,
+  disponible sur Spotify.
 category: Compile
+cover: un-printemps-2005.webp
 tags:
   - Arcade Fire
   - Bloc Party
