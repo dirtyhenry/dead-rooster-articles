@@ -17,7 +17,9 @@ revisions:
   "2025-05-15": "Révision du texte avec waveforms et un nouvel exemple"
 ---
 
-{% asset the-culture-show-neil-hannon-eurovision-2007.mp4 %}
+<video controls>
+  <source src="https://s3.eu-west-1.amazonaws.com/org.deadrooster.blog/the-culture-show-neil-hannon-eurovision-2007.mp4" type="video/mp4" />
+</video>
 
 Pour l’émission de la BBC [_The Culture Show_][1], en 2007, Neil Hannon avait
 découvert la formule à appliquer pour remporter l’Eurovision, à savoir :
