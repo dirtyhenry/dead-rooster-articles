@@ -14,6 +14,7 @@ categories:
   - Catégories
 tags:
   - Trucs marrants
+  - Eurovision
 ---
 
 L’artiste Massimo Furlan interprète dans 1973 l’intégralité du concours de
