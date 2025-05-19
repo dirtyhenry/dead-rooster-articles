@@ -2,7 +2,9 @@
 layout: post
 id: ACBF8524-3CA2-4908-993D-55060A0F3880
 title: Un Automne 2023
-author: Dirty Henry
+authors:
+  - Dirty Henry
+  - Joe Gantdelaine
 excerpt: >-
   La compilation des titres et des découvertes qu'on a aimés en été 2023,
   disponible sur Spotify, avec Grant Lee Buffalo, M. Ward, First Aid Kit, The
