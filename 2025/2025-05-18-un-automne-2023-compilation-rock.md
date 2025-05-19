@@ -7,7 +7,7 @@ excerpt: >-
   La compilation des titres et des découvertes qu'on a aimés en été 2023,
   disponible sur Spotify, avec Grant Lee Buffalo, M. Ward, First Aid Kit, The
   National, Sparklehorse, Sweeping Promises.
-image: un-automne-2023.webp
+cover: un-automne-2023.webp
 category: Compile
 ---
 
