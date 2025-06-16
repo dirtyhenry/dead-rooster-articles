@@ -6,7 +6,7 @@ authors:
   - Dirty Henry
   - Joe Gantdelaine
 excerpt: >-
-  La compilation des titres et des découvertes qu'on a aimés en été 2023,
+  La compilation des titres et des découvertes qu'on a aimés en automne 2023,
   disponible sur Spotify, avec Grant Lee Buffalo, M. Ward, First Aid Kit, The
   National, Sparklehorse, Sweeping Promises.
 cover: un-automne-2023.webp
