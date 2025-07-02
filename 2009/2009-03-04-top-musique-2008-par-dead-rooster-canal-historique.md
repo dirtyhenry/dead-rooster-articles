@@ -10,6 +10,7 @@ categories:
 tags:
   - Garage Rock
   - The Notwist
+  - Miles Kane
 cover: old-guitar-player.jpg
 ---
 

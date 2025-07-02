@@ -11,6 +11,7 @@ comments:
     date: "2011-04-11 10:32:18 +0200"
     title: J Mascis - Not Enough
     content: Incroyable ! J'aime bien !
+category: Chanson du jour
 ---
 
 {% youtube aqqH16oePQg %}

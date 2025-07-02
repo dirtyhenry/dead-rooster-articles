@@ -6,6 +6,7 @@ wordpress_id: 393
 date: "2007-07-12 13:34:00 +0200"
 category: Foot
 cover: franck-ribery-2.jpg
+published: false
 ---
 
 En fait, si Ribéry a choisi le Bayern, c’est sûrement parce qu’il aime bien

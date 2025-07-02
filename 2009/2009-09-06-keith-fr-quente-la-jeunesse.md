@@ -5,6 +5,7 @@ wordpress_id: 62
 date: "2009-09-06 12:07:06 +0200"
 tags:
   - The Rolling Stones
+published: false
 ---
 
 Keith Richards, le guitariste des mythiques Rolling Stones, a dévoilé avoir

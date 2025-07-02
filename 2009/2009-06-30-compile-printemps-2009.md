@@ -11,6 +11,10 @@ tags:
   - Metric
 ---
 
+{% spotify 6fSUnEK6ScsQ7ObCPbYf77 %}
+
+## Tracklist
+
 1. Phoenix - _Lisztomania_
 1. Julian Plenti - _Fun That We Have_
 1. Metric - _Help, I’m Alive_
@@ -25,7 +29,5 @@ tags:
 1. Eddy Mitchell - _Français made in USA_
 1. Metric - _Sick Muse_
 1. Iron & Wine - _The Trapeze Swinger_
-
-{% spotify 6fSUnEK6ScsQ7ObCPbYf77 %}
 
 _NB : les titres avec 🔇 sont indisponibles._

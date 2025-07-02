@@ -12,7 +12,7 @@ category: Chanson du jour
 
 Le chanteur de [The Livingstones I Presume][1] en dit :
 
-> Le texte est extraordinaire. On dirait du Koltes…
+> Le texte est extraordinaire. On dirait du Koltes.
 
 Suffisant pour le poster, quitte à se fâcher avec Joe Gantdelaine, qui risque de
 trouver ça nul.

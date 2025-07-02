@@ -19,6 +19,8 @@ tags:
 
 {% spotify 3hoF0fwx9h8SfMZQQ1JVAm %}
 
+## Tracklist
+
 1. Wolf Parade - _Fancy Claps_
 1. Blur - _Song 2_
 1. The Kinks - _You Really Got Me_
@@ -33,6 +35,10 @@ tags:
 1. Belle and Sebastian - _Another Sunny Day_
 1. The Raveonettes - _That Great Love Song_
 1. Johnny Cash - _Ring of Fire_
-1. Islands - _Rough Gem_
+1. Islands - _Rough Gem_[^1]
 1. Katerine - _Louxor, j’adore_
 1. Le Tigre - _Deceptacon_
+
+[^1]: Lire [la chronique du concert au Point Éphémère][2].
+
+[2]: https://www.deadrooster.org/islands-point-ephemere/
