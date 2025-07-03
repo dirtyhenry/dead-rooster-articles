@@ -3,6 +3,9 @@ layout: post
 title: When I was in the sweet little 16
 authors:
   - Joe Gantdelaine
+excerpt: >-
+  Chronique subjective et rock'n'roll du festival Garden Nef Party à Angoulême :
+  The Kills, Heavy Trash, The BellRays et plus encore.
 wordpress_id: 214
 date: "2008-07-31 16:20:04 +0200"
 category: Concert
@@ -41,6 +44,8 @@ comments:
       Bien foutue cette review même si on a pas trop trop le même avis sur
       certains points.
 ---
+
+[Lire la version 2009][3]
 
 Les festivals de l’été commencent en trombe. Alors que la kermesse Vieilles
 Charrues a cartonné avec une programmation des plus hétéroclites, que les
@@ -261,3 +266,4 @@ Photo Heavy Trash : © [bazarfoto](https://www.flickr.com/photos/bazarfoto/)
 
 [1]: https://www.discogs.com/artist/1139858-Alela-Diane
 [2]: https://www.discogs.com/artist/295254-MoriArty-3
+[3]: https://www.deadrooster.org/garden-nef-party-angouleme-2009/

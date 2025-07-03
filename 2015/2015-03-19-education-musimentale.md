@@ -11,6 +11,7 @@ tags:
   - Arcade Fire
   - Eels
   - Grandaddy
+  - Islands
   - The Fresh & Onlys
   - The White Stripes
   - Real Estate

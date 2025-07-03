@@ -3,13 +3,13 @@ layout: post
 title: Les îles naissent sur les cendres des licornes
 authors:
   - Dirty Henry
+excerpt: >-
+  Chronique du concert de Islands, le groupe de Nick Diamonds, au Point
+  Éphémère. L'ancien Unicorn et son nouveau groupe ont séduit.
 wordpress_id: 198
 date: "2008-03-12 20:10:49 +0100"
-categories:
-  - Catégories
-  - Artistes
+category: Concert
 tags:
-  - Concert
   - Islands
 cover: islands.jpg
 ---
@@ -27,7 +27,7 @@ doute trop peu méconnu.
 
 Malheureusement donc, les Unicorns sont morts et depuis, Alden Penner travaille
 principalement en solo et son ancien accolyte Nick Diamonds a fondé **Islands**,
-qui était de passage à Paris en février.
+qui était de passage à Paris en février, au Point Éphémère.
 
 L’arrivée sur scène du leader d’Islands et de ses sbires révèle aux fans ce
 qu’ils ignoraient peut-être : les membres du groupe ont l’air aussi barrés que
@@ -41,11 +41,18 @@ redemande : 2 rappels concluent leur set.
 
 En attendant le retour des gens de Montreal sur scène (ils font d’ailleurs un
 peu penser à Of Montreal, groupe qui ne vient pas du tout de Montreal - c’est à
-n’y rien comprendre) et la sortie de leur prochain disque _Arm’s Way_, qui
+n’y rien comprendre) et la sortie de leur prochain disque [_Arm’s Way_][1], qui
 sortira en mai, et qui d’après mes faiblardes compétences en anglais a l’air de
 pas mal parler d’animaux ("je ne suis pas un animal dans un zoo etc etc…"), nous
-inviterons les curieux à se pencher sur _Return To The Sea_, leur 1er opus, sur
-lequel les morceaux _Swans (Life After Death)_ et surtout _Rough Gem_ devraient
+inviterons les curieux à se pencher sur [_Return To The Sea_][2], leur 1er opus,
+sur lequel les morceaux [_Swans (Life After Death)_][3] et surtout [_Rough
+Gem_][4] — disponible sur [la Compile du Samedi Soir volume 2][5] — devraient
 faire mouche.
 
 {% youtube RpQwZ_gdE1w %}
+
+[1]: https://album.link/fr/i/1526127137
+[2]: https://album.link/fr/i/1160401389
+[3]: https://song.link/fr/i/1160401740
+[4]: https://song.link/fr/i/1160401743
+[5]: https://www.deadrooster.org/la-compile-du-samedi-soir-volume-2/
