@@ -17,11 +17,11 @@ category: Compile
 
 ## Tracklist
 
-1. Bérurier Noir - _Johnny reviens d'la guerre_
+1. Bérurier Noir - _Johnny reviens d’la guerre_
 2. Odezenne - _Bouche à lèvres (Unplugged)_
 3. Camera Obscura - _Big Love_
 4. Half Man Half Biscuit - _Bob Wilson - Anchorman_
-5. James Ray - _I've Got My Mind Set on You_
+5. James Ray - _I’ve Got My Mind Set on You_
 6. Loverman and Daisy Ray - _Would (Right In Front Of Your Eyes)_
 7. Pete Seeger - _Arrange and Rearrange_
 8. The Lemon Twigs - _Corner Of My Eye_
@@ -32,8 +32,8 @@ category: Compile
 13. Corridor - _Mourir Demain_
 14. The Gun Club - _My Dreams_
 15. Jane Weaver - _Heartlow_
-16. Richard Hell - _I'm Your Man - Destiny Street Demos_
-17. The Bug Club - _Six O'Clock News_
+16. Richard Hell - _I’m Your Man - Destiny Street Demos_
+17. The Bug Club - _Six O’Clock News_
 18. Agent blå - _Rain To You_
 19. Molly Drake - _Happiness_
 20. Kacey Musgraves - _All Is Found_

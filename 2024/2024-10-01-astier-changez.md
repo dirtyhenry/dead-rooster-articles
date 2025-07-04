@@ -71,11 +71,11 @@ qui valent le coup d’être faites. La vie quoi.
 Pour finir voici le magnifique titre _If We Were Vampires_ de Jason Isbell and
 the 400 Unit, dont voici un extrait des [paroles][6] :
 
-> It's knowing that this can't go on forever  
+> It’s knowing that this can’t go on forever  
 > Likely one of us will have to spend some days alone  
-> Maybe we'll get forty years together  
-> But one day I'll be gone  
-> Or one day you'll be gone
+> Maybe we’ll get forty years together  
+> But one day I’ll be gone  
+> Or one day you’ll be gone
 
 {%youtube ivYkyC8J29M %}
 
