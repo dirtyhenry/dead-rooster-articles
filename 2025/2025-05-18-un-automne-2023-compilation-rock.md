@@ -26,7 +26,7 @@ category: Compile
 7. Jeanne Moreau - _Embrasse-moi_
 8. The National - _Space Invader_
 9. Constant Smiles - _Run To Stay_
-10. Shocking Blue - _I'll Follow The Sun_
+10. Shocking Blue - _I’ll Follow The Sun_
 11. Sweeping Promises - _Pain Without a Touch_
 12. Grant Lee Buffalo - _Fuzzy_
 13. Nadine Shah - _The Gin One_

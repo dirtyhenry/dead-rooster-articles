@@ -9,11 +9,11 @@ excerpt: >-
 category: Le monde va mal
 ---
 
-Pitchfork l'annonce sans détour : "[pause de longueur indéterminée pour
+Pitchfork l’annonce sans détour : "[pause de longueur indéterminée pour
 Tennis][1]".
 
 Voici une bien triste nouvelle pour les amateurs de la petite balle jaune.
-Est-ce que la fin du tennis était prévisible ? Sans doute puisqu'on peine à
+Est-ce que la fin du tennis était prévisible ? Sans doute puisqu’on peine à
 faire la liste de tous ses clones étant apparus ces dernières années.
 
 {% youtube cW7mPQkWW1o %}

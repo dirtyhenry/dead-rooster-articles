@@ -32,7 +32,7 @@ découvert la formule à appliquer pour remporter l’Eurovision, à savoir :
 > 1. A meaningless statement offends no-one
 > 1. Be ethereal
 
-Suivi de la chanson qu'il a spécialement composé, “the perfect Eurovision song”,
+Suivi de la chanson qu’il a spécialement composé, “the perfect Eurovision song”,
 [_Trafalgar_][2].
 
 [1]:

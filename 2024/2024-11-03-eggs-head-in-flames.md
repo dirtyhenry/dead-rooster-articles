@@ -11,7 +11,7 @@ category: Chanson du jour
 
 {% youtube _VB-EU6q59s %}
 
-EggS est l'un des secrets les mieux gardés de la scène rock parisienne. J’avais
+EggS est l’un des secrets les mieux gardés de la scène rock parisienne. J’avais
 découvert ce groupe à géométrie variable, dont le 1er EP date de 2018, lors du
 [festival Pies Pala Pop](https://www.despieschicaillent.com/festival/pies-pala-pop-2024/),
 en juin dernier, à Rennes, organisé par

@@ -5,8 +5,8 @@ title: Outside Llewyn Davis
 authors:
   - Dirty Henry
 excerpt: >-
-  La suite — après celle de Inside Llewyn David — d’usages iconiques de la
-  musique dans les films des frères Coen : True Grit, O'Brother ou The Big
+  La suite — après celle de Inside Llewyn Davis — d’usages iconiques de la
+  musique dans les films des frères Coen : True Grit, O’Brother ou The Big
   Lebowski.
 category: Ciné-Club moi j’vous dis
 cover: jesus-quintana.jpg
@@ -84,27 +84,27 @@ film, voyant qu’ils avaient tout gardé.
 
 {% dailymotion xgkr1t %}
 
-> We have a nice relationship and that's a good example of collaboration and
-> good friendship because I'm very relaxed with them and I feel like if I show
-> them something, you know, they'll say no. They let me try it, they never go,
-> "Oh well, that's not up my idea." So I knew I was a pederast, so I knew I had
+> We have a nice relationship and that’s a good example of collaboration and
+> good friendship because I’m very relaxed with them and I feel like if I show
+> them something, you know, they’ll say no. They let me try it, they never go,
+> "Oh well, that’s not up my idea." So I knew I was a pederast, so I knew I had
 > Jesus there and that. So I said, "Can I have a nail?" And I said, "Yes, can I
 > have a hand there?" And then I saw the thing that shined the balls on the set,
-> you know. This guy had it out and I said, "Look at this, it's like I have
+> you know. This guy had it out and I said, "Look at this, it’s like I have
 > giant balls." And Joel and Ethan were like dying. I think they knew the day
 > they were going to do stuff with me that they had extra time, which is very
 > unusual as you know. And so they did have extra time that day because they
 > thought, well maybe I would come up with some crazy ideas and I did so. But
-> when I saw that, I was like, "Wow, that's just inspiring." This is my whole
+> when I saw that, I was like, "Wow, that’s just inspiring." This is my whole
 > character, you know. So you have this one Michael Chekhov talk, "Psychological
-> Gesture." That's it, shining my balls. That's it, that's my psychological
+> Gesture." That’s it, shining my balls. That’s it, that’s my psychological
 > gesture. And then I thought, you know, I should like, I said, "Could I, you
-> know, I want to lick the ball?" And he said, "Oh, that's great." You know, put
-> it in. It's just stuff because you're so relaxed with a friend or whatever
-> that you feel like you're not going to be fired, you know what I mean by
+> know, I want to lick the ball?" And he said, "Oh, that’s great." You know, put
+> it in. It’s just stuff because you’re so relaxed with a friend or whatever
+> that you feel like you’re not going to be fired, you know what I mean by
 > saying these things. And I said, "You know, maybe I could do this Muhammad Ali
 > kind of thing and this kind of dance." And so we just kept adding and adding
-> for this montage. I didn't know if they would use all those things. The lines
+> for this montage. I didn’t know if they would use all those things. The lines
 > were exactly the same. But when I saw how they put it together, I have to say
 > I was completely embarrassed. I was like, oh my God. I was like, I liked it,
 > but I was so embarrassed.
@@ -127,8 +127,8 @@ l’auteur d’une anthologie.
 {% soundcloud 34815931 %}
 
 [^1]:
-    Le groupe n'avait pas encore de page Wikipedia lors de la 1e publication de
-    ce post. C'est désormais
+    Le groupe n’avait pas encore de page Wikipedia lors de la 1e publication de
+    ce post. C’est désormais
     [chose faite](https://en.wikipedia.org/wiki/The_Peasall_Sisters)
 
 [1]: https://www.themoviedb.org/movie/44264-true-grit?language=fr-FR
