@@ -24,7 +24,7 @@ tags:
 1. The Detroit Cobras - _Right around the corner_
 1. The Cribs - _Hey Scenesters!_
 1. Paul McCartney - _Fine line_
-1. Flamin Groovies - _Shakin all over_
+1. Flamin’ Groovies - _Shakin’ All Over_
 1. Keren Ann - _Ending song_
 1. Nada Surf - _Your legs grow_
 1. Franz Ferdinand - _Evil and a heathen_
