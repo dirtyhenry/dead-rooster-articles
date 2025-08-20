@@ -64,17 +64,15 @@ a-t-elle commencé ? Où a-t-il foiré ? Va-t-il la récupérer ?
 
 Il y a comédie romantique et comédie romantique. Ce film tombe clairement dans
 la 2ème catégorie. Ici, pas de mièvrerie, dès qu’on s’en approche un peu trop,
-[une petite fantaisie](http://www.youtube.com/watch?v=yfg97-5uhFQ) de Webb et on
-ressort en se marrant. Surtout, apparemment les 3/4 de la population mondiale
-peuvent se reconnaître dans le personnage de Tom, vaguement insatisfait de sa
-vie et qui mise tout sur l’espoir d’une relation extraordinaire pour se faire
-avancer et qui, malgré ses grandes qualités, a aussi des défauts bien répandus :
-[trop timide](http://www.youtube.com/watch?v=1dwtZw9Rx20),
-[trop fier](http://www.youtube.com/watch?v=ovYWY4Pf9_M), etc. Bref, on a ici la
-meilleure comédie romantique depuis
-[_Marley and Me_](http://www.youtube.com/watch?v=brBM7_3ukzg) (et je vous mets
-au défi de trouver la moindre ironie dans ces paroles : _Marley & Me_ est un
-chef d’œuvre, alternative positive au dépriment _Revolutionary Road_).
+[une petite fantaisie][1] de Webb et on ressort en se marrant. Surtout,
+apparemment les 3/4 de la population mondiale peuvent se reconnaître dans le
+personnage de Tom, vaguement insatisfait de sa vie et qui mise tout sur l’espoir
+d’une relation extraordinaire pour se faire avancer et qui, malgré ses grandes
+qualités, a aussi des défauts bien répandus : [trop timide][2], [trop fier][3],
+etc. Bref, on a ici la meilleure comédie romantique depuis [_Marley and Me_][4]
+(et je vous mets au défi de trouver la moindre ironie dans ces paroles : _Marley
+& Me_ est un chef d’œuvre, alternative positive au dépriment _Revolutionary
+Road_).
 
 En prime, une vidéo fun, tournée en sus du film, faisant référence à l’une de
 ses scènes :
@@ -143,10 +141,21 @@ _Le Premier jour du reste de ta vie_.
 
 **La chanson qui va avec** : symptôme du mal, la chanson du générique de fin est
 chantée par Renan Luce ou l’un de ses clônes alors que plusieurs chansons
-s’imposaient : _Fais pas ci, fais pas ça_ de Dutronc ou
-[_Poil au tableau_](http://www.youtube.com/watch?v=5H2sSWmWJGc) de Gotainer…
+s’imposaient : _Fais pas ci, fais pas ça_ de Dutronc ou [_Poil au tableau_][5]
+de Gotainer…
 
 ---
 
-La playlist sur Spotify :
-[http://open.spotify.com/user/dirtyhenry/playlist/1XrlfhASZRJf8zjyMhREnX](http://open.spotify.com/user/dirtyhenry/playlist/1XrlfhASZRJf8zjyMhREnX)
+[La playlist sur Spotify][6]
+
+[1]:
+  https://www.youtube.com/watch?v=yfg97-5uhFQ
+  "Dirty Dancing - She's Like the Wind"
+[2]: https://www.youtube.com/watch?v=1dwtZw9Rx20 "buts immanquable"
+[3]: https://www.youtube.com/watch?v=ovYWY4Pf9_M
+[4]: https://www.youtube.com/watch?v=brBM7_3ukzg
+[5]:
+  https://www.youtube.com/watch?v=5H2sSWmWJGc
+  "Poil Au Tableau - Richard Gotainer"
+[6]:
+  https://open.spotify.com/playlist/1XrlfhASZRJf8zjyMhREnX?si=0ey6XCeFTCOtaSZSTaFQZQ

@@ -184,12 +184,12 @@ d’albums :
 
 [1]: https://www.paroles.net/michel-sardou/paroles-je-suis-pour
 [2]: https://www.paroles.net/michel-sardou/paroles-le-temps-des-colonies
-[3]: https://youtu.be/McF-ZsJi9Qo
-[4]: https://youtu.be/Ihlr1GZhBXw
-[5]: https://youtu.be/YL-tKWyrzuk
-[6]: https://youtu.be/5iSeilVIvXU
-[7]: https://georgesclooney.blogspot.fr
-[9]: https://youtu.be/4OWp0nT9P0Y
-[10]: https://youtu.be/Etu2yx_oEsg
+[3]: https://www.youtube.com/watch?v=McF-ZsJi9Qo
+[4]: https://www.youtube.com/watch?v=Ihlr1GZhBXw
+[5]: https://www.youtube.com/watch?v=YL-tKWyrzuk
+[6]: https://www.youtube.com/watch?v=5iSeilVIvXU
+[7]: https://georgesclooney.blogspot.com/
+[9]: https://www.youtube.com/watch?v=4OWp0nT9P0Y
+[10]: https://www.youtube.com/watch?v=Etu2yx_oEsg
 [11]: https://www.facebook.com/laurentchalumeaupro/posts/3009838602616382
 [i225]: https://www.deadrooster.org/laurent-chalumeau-un-mec-sympa/
