@@ -18,8 +18,8 @@ Christophe Brault sur les grandes figures du rock au féminin][1], j'écoutais
 l'album [_Suzi Quatro_][2], quand soudain, _Shakin’ All Over_ apparaît.
 
 Je connaissais déjà la version Flamin' Groovies, présente sur [la Compile
-Automne 2005][3], et la page Wikipedia parle de 3 autres reprises dont une des
-Who, mais l'originale est donc de Johnny Kidd et des pirates.
+Automne 2005][3], et [la page Wikipedia][4] parle de 3 autres reprises dont une
+des Who, mais l'originale est donc de Johnny Kidd et des pirates.
 
 Sortie en 1960, le morceau s'est hissé au sommet des charts britanniques,
 devenant le premier véritable hit rock produit au Royaume-Uni.
@@ -29,3 +29,4 @@ devenant le premier véritable hit rock produit au Royaume-Uni.
   "Les grandes figures du rock au féminin – Christophe Brault"
 [2]: https://album.link/fr/i/1629098515 "Écouter l'album Suzi Quatro"
 [3]: https://www.deadrooster.org/compile-automne-2005/
+[4]: https://en.wikipedia.org/wiki/Shakin%27_All_Over
