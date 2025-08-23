@@ -50,8 +50,8 @@ Elles n’ont pas de site web mais elles auront gagné un Grammy Award. C’est 
 Dans _O’Brother_, les frères Coen ont fait mieux que de choisir des musiques
 sympas, ils ont carrément créé un groupe : **The Soggy Bottom Boys** (ou Les
 Culs Trempés en V.F.). Le groupe mené par George Clooney a alors rejoint [Spinal
-Tap][7], [The Rutles][8] et [Gangrène Plastic][9] au panthéon des groupes
-fictifs créés pour le cinéma.
+Tap][7], [The Rutles][8] et [Gangrène Plastic][9] au [panthéon des groupes
+fictifs créés pour le cinéma][2].
 
 À la production des titres des Soggy Bottom Boys, on retrouve T-Bone Burnett
 (voir [chapitre précédent][3]) notamment pour le tube du film, *I Am A Man Of
@@ -133,7 +133,7 @@ l’auteur d’une anthologie.
 
 [1]: https://www.themoviedb.org/movie/44264-true-grit?language=fr-FR
 [2]:
-  https://www.allocine.fr/article/dossiers/cinema/dossier-18591309/
+  https://web.archive.org/web/20131111195418/https://www.allocine.fr/article/dossiers/cinema/dossier-18591309/
   "Pop Fiction: 40 groupes qui n'ont existé qu'à l'écran"
 [3]: https://www.deadrooster.org/inside-llewyn-davis/
 [4]:

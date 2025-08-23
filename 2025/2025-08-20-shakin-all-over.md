@@ -21,7 +21,7 @@ Je connaissais déjà la version Flamin' Groovies, présente sur [la Compile
 Automne 2005][3], et [la page Wikipedia][4] parle de 3 autres reprises dont une
 des Who, mais l'originale est donc de Johnny Kidd et des pirates.
 
-Sortie en 1960, le morceau s'est hissé au sommet des charts britanniques,
+Sorti en 1960, le morceau s'est hissé au sommet des charts britanniques,
 devenant le premier véritable hit rock produit au Royaume-Uni.
 
 [1]:
