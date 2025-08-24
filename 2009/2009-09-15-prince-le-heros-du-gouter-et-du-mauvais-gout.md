@@ -5,6 +5,7 @@ authors:
   - Dirty Henry
 wordpress_id: 531
 date: "2009-09-15 16:33:58 +0200"
+category: Le monde va mal
 comments:
   - author: ""
     author_email: ""
@@ -25,5 +26,8 @@ comments:
 cover: prince-lotus-flower.jpg
 ---
 
-Des gens ont conçu cette pochette d’album. D’autres ont accepté de l’imprimer.
-D’autres de la distribuer. Le monde va mal !
+1. Des gens ont conçu cette pochette d’album.
+2. D’autres ont accepté de l’imprimer.
+3. D’autres de la distribuer.
+
+Le monde va mal !
