@@ -55,5 +55,8 @@ Pour finir voici une liste sélective du monde de Dylan, à goûter sur le net 
 - [The Byrds - _Mr. Tambourine Man_](https://song.link/fr/i/153421332)
 - [Hugues Aufray - _L’Homme Orchestre_](https://song.link/fr/i/1452865158)
 
-[2]: https://fr.wikipedia.org/wiki/Traveling_Wilburys
+Et [une page de mashups avec Bob Dylan][3], plus ou moins heureux.
+
 [1]: https://www.deadrooster.org/zoom-sur-le-zep/
+[2]: https://fr.wikipedia.org/wiki/Traveling_Wilburys
+[3]: https://totom.eu/2009/06/19/dylan-mashed/
