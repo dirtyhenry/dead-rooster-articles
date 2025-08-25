@@ -9,7 +9,7 @@ excerpt: >-
   La compilation des titres et des découvertes qu'on a aimés en été 2024,
   disponible sur Spotify, avec Oasis, The Beatles, Michel Delpech, Jack White,
   Nancy Sinatra…
-image: un-ete-2024.webp
+cover: un-ete-2024.webp
 category: Compile
 ---
 
