@@ -1,12 +1,18 @@
 ---
 layout: post
+id: 5BD1B107-2F18-49E0-AF59-C156B0C0722E
+url: https://www.deadrooster.org/cine-club-moi-j-vous-dis-01/
 title: "Ciné-Club moi j’vous dis #01"
-authors:
-  - Dirty Henry
-wordpress_id: 534
+author: Dirty Henry
+summary: >-
+  Découvrez 3 critiques de films cultes : "Pauline à la plage" de Rohmer, "All
+  About Eve" (Ève) de Mankiewicz et "Cat People" (La Féline) de Tourneur.
+  Analyses détaillées de ces œuvres incontournables du cinéma classique avec
+  recommandations musicales.
 cover: pauline-a-la-plage.jpg
-date: 2009-10-06 22:08:36 +0200
 category: Ciné-Club moi j’vous dis
+date_published: 2009-10-06 22:08:36 +0200
+_wordpress_id: 534
 ---
 
 _Casablanca_, œuvre magistrale ! _Le Cuirassé Potemkine_, n’en parlons même
@@ -71,8 +77,7 @@ Marylin Monroe).
 **La chanson qui va avec** : ça aurait pu être Naznavour qui se voyait déjà, ou
 Starmania qu’a perdu l’humour depuis qu’il a le sens des affaires, mais y’a
 quand même mieux en matière de chanson qui parle du rêve de l’ascension au
-sommet : _Rock & Roll Star_, by Oasis, dont Spotify n’offre qu’une version
-karaoke… Désolé…
+sommet : _Rock & Roll Star_, by Oasis.
 
 ## [_Cat People_][3] - Jacques Tourneur (1942)
 
@@ -103,4 +108,5 @@ de David Bowie !
 [1]: https://www.themoviedb.org/movie/10293-pauline-la-plage
 [2]: https://www.themoviedb.org/movie/705-all-about-eve
 [3]: https://www.themoviedb.org/movie/25508-cat-people
-[4]: http://archive.filmdeculte.com/coupdeprojo/filmo/rohmer.php
+[4]:
+  http://www.filmdeculte.com/culte/gros-plan/Les-Comedies-et-proverbes-dEric-Rohmer-10083.html
