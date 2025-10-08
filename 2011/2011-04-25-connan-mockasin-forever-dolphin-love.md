@@ -1,18 +1,22 @@
 ---
 layout: post
 title: Connan Mockasin - Forever Dolphin Love
-description:
-  Converse ? Santiags ? Platform boots ? Non ! Mockasin ! Connan de son prénom.
-  Et un premier album plutôt génial.
+summary: >-
+  Découvrez Forever Dolphin Love, de Connan Mockasin : une odyssée psychédélique
+  néo-zélandaise entre pop contemplative et expérimentations sonores. Critique
+  d'un premier album hors norme qui voyage sans perdre son auditeur.
 authors:
   - Joe Gantdelaine
 wordpress_id: 817
-cover: max-la-godasse.jpg
+cover: forever-dolphin-love.jpg
 date: 2011-04-25 11:48:59 +0200
 category: Review
 tags:
   - Connan Mockasin
 ---
+
+Converse ? Santiags ? Platform boots ? Non ! Mockasin ! Connan de son prénom. Et
+un premier album, _Forever Dolphin Love_, plutôt génial.
 
 Voilà ce qu’on appelle un mec droit dans ses bottes. Loin des modes
 revivalistes, des sonorités tatapoumesques pour dancefloors ruisselants de
