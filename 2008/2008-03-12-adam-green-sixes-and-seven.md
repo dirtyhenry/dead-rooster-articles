@@ -1,16 +1,21 @@
 ---
 layout: post
-title: Le retour du petit homme vert
+title: Sixes and Sevens, d’Adam Green
 authors:
   - Joe Gantdelaine
 wordpress_id: 197
 date: "2008-03-12 13:24:45 +0100"
-categories:
-  - Artistes
+summary: >
+  Critique de Sixes and Sevens, d'Adam Green : 5ème album solo avec 20 titres
+  éclectiques. Entre gospel, blues et expérimentations, découvrez ce disque
+  ambitieux mais moins accessible que Friends of Mine.
+category: Review
 tags:
   - Adam Green
 cover: adam-green.jpg
 ---
+
+## Le retour du petit homme vert
 
 5ème album en 6 ans, pour une carrière solo débutée juste après la vingtaine,
 **Adam Green** est ultra-prolifique. En témoigne donc ce _Sixes and Sevens_,

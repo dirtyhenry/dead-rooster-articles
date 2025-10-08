@@ -3,7 +3,9 @@ layout: post
 id: 90CC8461-B0FC-4CF6-927A-7406B4EF4ED6
 url: https://www.deadrooster.org/un-automne-2024-compilation-rock/
 title: Un Automne 2024
-author: Dirty Henry
+authors:
+  - Dirty Henry
+  - Joe Gantdelaine
 summary: >-
   La compilation des titres et des découvertes qu'on a aimés à l'automne 2024,
   disponible sur Spotify, avec Fontaines D.C., Kavinsky, Angèle, Phoenix,
