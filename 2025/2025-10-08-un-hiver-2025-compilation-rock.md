@@ -5,7 +5,7 @@ title: Un Hiver 2025
 authors:
   - Dirty Henry
   - Joe Gantdelaine
-summary: >-
+excerpt: >-
   La compilation des titres et des découvertes qu'on a aimés à l'hiver 2025,
   disponible sur Spotify, avec Radiohead, Elvis Presley, Sam & Dave, Peter, Paul
   & Mary…

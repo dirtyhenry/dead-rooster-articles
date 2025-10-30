@@ -3,34 +3,42 @@ layout: post
 title:
   Chronique morgueuse (mais pas trop) vol.4 - Fountains of Wayne - Traffic and
   Weather
-authors:
-  - Joe Gantdelaine
+excerpt: >-
+  Critique de Traffic and Weather, le 4ème album de Fountains of Wayne. Entre
+  déception initiale et réévaluation positive, analyse d'un disque varié qui
+  marque un tournant pour le groupe power pop américain.
+author: Joe Gantdelaine
 wordpress_id: 371
+category: Review
 date: "2007-03-30 12:47:00 +0200"
 cover: fountains-of-wayne.jpg
 ---
 
 **Fountains of Wayne** sort un nouvel album. Wouhouhou !!! Hum… Loin de ma
-morgue habituelle, je suis un peu obligé de pousser un cri d’enthousiasme… Vous
+morgue habituelle, je suis un peu obligé de pousser un cri d’enthousiasme. Vous
 rendez-vous compte ? Fountains of Wayne ! Pour l’instant responsables de 3
-albums géniaux, magistraux, formidaux (avec un coup de coeur perso pour _Utopia
-Parkway_). Mais mettons plutôt le disque sur la platine laser et appuyons
+albums géniaux, magistraux, formidaux (avec un coup de coeur perso pour [_Utopia
+Parkway_][1]). Mais mettons plutôt le disque sur la platine laser et appuyons
 fébrilement, il va s’en dire, sur lecture. Une fois, deux fois, dix fois, vingt
 fois… Bon allez, c’est bon ! Bien imprégné de la nouvelle substance, je vais
 pouvoir la juger.
+
+## Première écoute : déception
 
 Bilan de la première écoute : il ne faut pas le cacher, la déception est bien là
 (noooon… pas eux !!! Ils ne m’avaient - presque - jamais déçu !!!). Les raisons
 de cette déception : pour les 3 premiers albums, dès la première écoute, au
 moins 2, voire 3, voire 12 chansons retenaient l’attention. Là, jusqu’à la fin
-du disque, on guette, on observe… peut-être ce _Yolanda Hayes_, à moins que ce
+du disque, on guette, on observe… Peut-être ce _Yolanda Hayes_, à moins que ce
 ne soit _Fire in the Canyon_, ou alors _Planet of Weed_… ou _Seatbacks and
 Traytables_. Mais rien de bien évident. Sans parler des chansons un peu
-pompières, auxquelles ils nous avaient un peu habitués avec _Stacy’s mom_ et
+pompières, auxquelles ils nous avaient un peu habitués avec _Stacy’s Mom_ et
 _Maureen_, ici représentées par _Traffic and Weather_, au riff de guitare plus
 lourd que les 4 membres réunis, ou encore, le single _Someone to Love_, avec le
 beat quasi-disco et les chœurs de Melissa auf der Maur, imparables… pour les
 djeuns de moins de 18 ans.
+
+## Puis on apprécie sa variété
 
 Vingtième écoute : obligé de mettre de l’eau dans mon vin, rapport à l’affection
 que j’ai pour le groupe, le constat est bien moins tranché qu’au début. S’il est
@@ -69,6 +77,10 @@ rapporter à _Amity Gardens_ sur _Utopia Parkway_). En ce sens, plus qu’un
 chanteur, on a ici véritablement à faire à un interprète.
 
 En conclusion, on a envie de mini-tirer une mini-sonnette de mini-alarme :
-attention, mes potes ! Ça passe encore (et de manière satisfaisante au final…)
+attention, mes potes ! Ça passe encore (et de manière satisfaisante au final)
 pour cette fois, mais on commence à voir des trous dans vos costumes d’orfèvres
 de la pop, comme aiment à vous qualifier les critiques.
+
+[1]:
+  https://album.link/s/6Ny9tahsM2q80wyuEvbweF
+  "Utopia Parkway, Fountains of Wayne"

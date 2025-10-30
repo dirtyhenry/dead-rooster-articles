@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Bored To Death
-description:
-  Présentation de la série de Jonathan Ames, où Jason Schwartzman, Zach
-  Galifianakis et Ted Danson jouent sur une bande son de grande qualité.
+excerpt: >-
+  Critique de Bored To Death, la série HBO avec Jason Schwartzman en détective
+  privé amateur. Découvrez cette comédie urbaine signée Jonathan Ames, avec Zach
+  Galifianakis et Ted Danson, sa bande-son indie remarquable et son humour
+  New-Yorkais décalé.
 authors:
   - Dirty Henry
 wordpress_id: 905

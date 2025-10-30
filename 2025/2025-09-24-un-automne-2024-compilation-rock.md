@@ -6,7 +6,7 @@ title: Un Automne 2024
 authors:
   - Dirty Henry
   - Joe Gantdelaine
-summary: >-
+excerpt: >-
   La compilation des titres et des découvertes qu'on a aimés à l'automne 2024,
   disponible sur Spotify, avec Fontaines D.C., Kavinsky, Angèle, Phoenix,
   Pixies, Jimmy Dean, The Dandy Warhols…
