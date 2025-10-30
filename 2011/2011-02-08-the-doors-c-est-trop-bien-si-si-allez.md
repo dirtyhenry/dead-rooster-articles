@@ -1,19 +1,16 @@
 ---
 layout: post
 title: The Doors, c'est trop bien ? Si, si, allez !
-description:
-  The Doors, c'est vraiment trop bien comme groupe ! Faisons-en la
-  démonstration.
+excerpt: >-
+  Analyse critique et ironique des Doors : entre tubes surévalués, solos
+  interminables et répétitions pesantes. Pourquoi ce groupe mythique divise-t-il
+  autant les amateurs de rock ?
 authors:
   - Dirty Henry
 wordpress_id: 774
 cover: jim-morrisson.jpg
 date: 2011-02-08 22:56:00 +0100
-categories:
-  - Artistes
-tags:
-  - Yann Tiersen
-  - The La's
+category: Éditorial
 comments:
   - author: bah, c'est moi quoi! :)
     author_email: ""
@@ -47,7 +44,7 @@ comments:
     title: The Doors, c'est trop bien ? Si, si, allez !
     content:
       "Excellent article ! L'idée d'être soi-même archi-répétitif et super creux
-      pour reprocher à un groupe ses longueurs, c'est trop bon !\r\n\r\n"
+      pour reprocher à un groupe ses longueurs, c'est trop bon !"
   - author: Dirty Henry
     author_email: dirtyhenry@gmail.com
     date: 2012-01-30 14:22:41 +0100
@@ -65,33 +62,37 @@ comments:
     date: 2012-04-23 10:08:27 +0200
     title: The Doors, c'est trop bien ? Si, si, allez !
     content:
-      'Il n’y a pas de guitare basse mais il y a un piano basse. T’inquiète, je
+      "Il n’y a pas de guitare basse mais il y a un piano basse. T’inquiète, je
       suis au courant. La ligne de basse, qu’elle soit jouée au piano ou à la
-      guitare basse, reste une ligne de basse. Ps : "la basse est peut-être
-      chiante" (ne pas oublier le trait d’union et de conjuguer les adjectifs
-      féminins)'
+      guitare basse, reste une ligne de basse."
 ---
 
 The Doors, c’est vraiment trop bien comme groupe.
 
-Ils ont fait plein de tubes trop bien. À commencer par le morceau d’ouverture de
-leur tout premier album. _Break on through (to the other side)_, ça c’est du
-titre de rock’n’roll ! Calibré pour la radio en plus : deux minutes et trente
-secondes environ. Certes, le morceau est un peu répétitif et on s’emmerde un peu
-sur la fin, mais restons positif : c’est pas un mince exploit de réussir à
-rendre un morceau aussi court aussi pénible ! Chapeau l’artiste.
+## Des tubes calibrés pour la radio
 
-Et puis y’a _Light My Fire_ aussi ! Le morceau est top ! Faut dire qu’il est
-vachement plus ambitieux : presque 7 minutes. OK, c’est vrai que pour rien au
-monde, je souhaiterais me retrouver à devoir jouer la basse de ce morceau aussi
-longtemps et, c’est également vrai, ils nous sortent des solos un peu longuets
-pour meubler : ils commencent à 1:06 et finissent à 5:35. C’est peut-être pour
-ça qu’ils sont pas au top sur leur intégralité. Vas-y toi qu’est si malin à
-faire un solo de 4:30 qui soit bien tout du long ! Non, ça, un solo de 4:30,
-c’est vraiment une bonne grosse idée à la con que seul un groupe aussi génial
-que les Doors peut maîtriser.
+Ils ont fait plein de tubes excellents. À commencer par le morceau d’ouverture
+de leur tout premier album. [_Break on through (to the other side)_][1], ça
+c’est du titre de rock’n’roll ! Calibré pour la radio en plus : deux minutes et
+trente secondes environ. Certes, le morceau est un peu répétitif et on s’emmerde
+un peu sur la fin, mais restons positif : c’est pas un mince exploit de réussir
+à rendre un morceau aussi court aussi pénible ! Chapeau l’artiste.
 
-Sans oublier le dernier gros tube majeur du groupe *Riders On The Storm* :
+## L’art du solo qui n'en finit pas
+
+Et puis y’a [_Light My Fire_][2] aussi ! Le morceau est top ! Faut dire qu’il
+est vachement plus ambitieux : presque 7 minutes. OK, c’est vrai que pour rien
+au monde, je souhaiterais me retrouver à devoir jouer la basse de ce morceau
+aussi longtemps et, c’est également vrai, ils nous sortent des solos un peu
+longuets pour meubler : ils commencent à 1:06 et finissent à 5:35. C’est
+peut-être pour ça qu’ils sont pas au top sur leur intégralité. Vas-y toi qu’est
+si malin à faire un solo de 4:30 qui soit bien tout du long ! Non, ça, un solo
+de 4:30, c’est vraiment une bonne grosse idée à la con que seul un groupe aussi
+génial que les Doors peut maîtriser.
+
+## La bravoure jusqu'au bout de l'ennui
+
+Sans oublier le dernier gros tube majeur du groupe [_Riders On The Storm_][3] :
 imparable ! Là encore, on est autour des 7 minutes. Pas un mince exploit ça non
 plus : deux des trois titres majeurs du groupe font 7 minutes ! Déjà 1 bon titre
 de 7 minutes, c’est pas facile à faire vous savez ! Sérieux ! Faut être
@@ -102,16 +103,29 @@ n’enlève rien du tout, encore une fois, à sa valeur ! Merde à la fin, c’
 Morrison qui l’a écrit ! L’un des plus grands poètes du XXème siècle !
 
 Si, c’est un des plus grands poètes du XXème siècle ! D’ailleurs c’est pour ça
-qu’il y a des films sur lui. Pas plus tard que l’année dernière, avec _When
-You’re Strange_. On voyait disons le Jim Morrison tel qu’il était vraiment, pas
-comme quand il était interprété par Val Kilmer dans le film d’Oliver Stone. Bon,
-là aussi, on s’est grave fait chier et Jim Morrison avait plutôt l’air d’un
-bouffon bourré que d’un poète. Mais ce doit être la faute de Tom DiCillo, le
-réalisateur du documentaire.
+qu’il y a des films sur lui. Pas plus tard que l’année dernière, avec [_When
+You’re Strange_][4]. On voyait disons le Jim Morrison tel qu’il était vraiment,
+pas comme quand il était interprété par Val Kilmer dans [le film d’Oliver
+Stone][5]. Bon, là aussi, on s’est grave fait chier et Jim Morrison avait plutôt
+l’air d’un “bouffon bourré”[^1] que d’un poète. Mais ce doit être la faute de
+Tom DiCillo, le réalisateur du documentaire.
 
 Mais quand même, les Doors, c’est des génies du rock non ? Y’a qu’à voir le riff
-de *Love Me Two Times* ! Il est terrible quand même non ? Il fait au moins 4
-secondes et le reste de la chanson est pleine d’autres idées intéressantes
+de [_Love Me Two Times_][6] ! Il est terrible quand même non ? Il fait au moins
+4 secondes et le reste de la chanson est pleine d’autres idées intéressantes
 comme… comme…
 
 Et merde, The Doors, c’est vraiment à chier comme groupe !
+
+[^1]: Je [cite le personnage de Lester Bangs][7] dans [_Almost Famous_][8] :
+
+    > The Doors ? Jim Morisson ? He's a drunken buffoon posing as a poet.
+
+[1]: https://song.link/s/6ToM0uwxtPKo9CMpbPGYvM
+[2]: https://song.link/s/5uvosCdMlFdTXhoazkTI5R
+[3]: https://song.link/s/14XWXWv5FoCbFzLksawpEe
+[4]: https://www.themoviedb.org/movie/37659-when-you-re-strange
+[5]: https://www.themoviedb.org/movie/10537-the-doors
+[6]: https://song.link/s/67HxeUADW4H3ERfaPW59ma
+[7]: https://youtu.be/QCjQhYVXo7E?si=oJ_XuDIDUlBk3w1E&t=33
+[8]: https://www.themoviedb.org/movie/786-almost-famous
