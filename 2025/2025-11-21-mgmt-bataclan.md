@@ -7,7 +7,7 @@ excerpt: >-
   Critique de l’album Oracular Spectacular et du concert parisien de MGMT au
   Bataclan : un show rock, énergique et surprenant, porté par leurs tubes
   incontournables.
-image: mgmt.jpg
+cover: mgmt.jpg
 categories:
   - Concert
   - Review
