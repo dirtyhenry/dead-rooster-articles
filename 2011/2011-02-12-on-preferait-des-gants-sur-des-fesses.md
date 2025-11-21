@@ -6,8 +6,7 @@ authors:
 wordpress_id: 779
 cover: the-strokes-angles.jpg
 date: 2011-02-12 12:08:24 +0100
-categories:
-  - Artistes
+category: News
 tags:
   - The Strokes
 comments:
