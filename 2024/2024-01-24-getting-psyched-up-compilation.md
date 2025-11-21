@@ -55,7 +55,7 @@ elle évoluera sans doute avec le temps. Là voici.
 24. Buzzcocks - _Ever Fallen in Love (With Someone You Shouldn’t’ve?)_
 25. Oasis - _Morning Glory_
 26. Arctic Monkeys - _From The Ritz To The Rubble_
-27. MGMT - _Kids_
+27. MGMT - _Kids_[^2]
 28. The Hives - _Hate To Say I Told You So_
 29. The Warlocks - _Shake the Dope Out_
 30. stellastarr\* - _Jenny_
@@ -92,6 +92,8 @@ Photo de [Thomas Kelley][2] sur [Unsplash][3].
     Se référer à [cette explication][i2] de la différence entre une playlist et
     une compile.
 
+[^2]: Lire notre critique du concert de MGMT au Bataclan[4]
+
 [i1]: https://www.deadrooster.org/moneyball-bennett-miller/
 [i2]: https://www.deadrooster.org/compile-automne-2016/
 [1]:
@@ -100,3 +102,4 @@ Photo de [Thomas Kelley][2] sur [Unsplash][3].
   https://unsplash.com/@thkelley?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash
 [3]:
   https://unsplash.com/photos/gray-ge-volt-meter-at-414-xVptEZzgVfo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash
+[4]: https://www.deadrooster.org/mgmt-bataclan/

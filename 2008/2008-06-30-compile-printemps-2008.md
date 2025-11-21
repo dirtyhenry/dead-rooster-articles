@@ -26,7 +26,7 @@ cover: compile-printemps-2008.png
 1. _Diamond Hoo Ha Man_ - Supergrass
 1. _It’s Getting Boring By The Sea_ - Blood Red Shoes
 1. _The Age Of The Understatement_ - The Last Shadow Puppets
-1. _Pieces of What_ - MGMT
+1. _Pieces of What_ - MGMT[^1]
 1. _I’ve Been Everywhere_ - Johnny Cash
 1. _Ramble Tamble_ - Creedence Clearwater Revival
 1. _I Don’t Wanna Grow Up_ - Scarlett Johansson
@@ -36,4 +36,9 @@ cover: compile-printemps-2008.png
 1. _Direct To Helmet_ - The Spinto Band
 1. _Rebel In You_ - Supergrass
 1. _I Don’t Like You Anymore_ - The Last Shadow Puppets
-1. _Kids_ - MGMT
+1. _Kids_ - MGMT[^2]
+
+[^1]: Lire notre critique du concert de MGMT au Bataclan[1]
+[^2]: Lire notre critique du concert de MGMT au Bataclan[1]
+
+[1]: https://www.deadrooster.org/mgmt-bataclan/
