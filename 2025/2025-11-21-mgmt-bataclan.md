@@ -75,5 +75,26 @@ Les lumières se rallument, retour brusque à la réalité pour toute l’audien
 Les tee-shirts sont trempés, les corps fatigués mais les mines réjouies. C’était
 un avant goût d’été un soir de mai, à Paris sous la pluie.
 
+## Setlist
+
+- _Weekend Wars_
+- _Future Reflections_
+- _The Youth_
+- _Of Moons, Birds & Monsters_
+- _Pieces of What_
+- _4th Dimensional Transition_
+- _Electric Feel_
+- _Time to Pretend_
+- _The Handshake_
+
+Rappel :
+
+- Metanoia
+- Kids
+
+(via [setlist.fm][3])
+
 [1]: https://www.youtube.com/watch?v=XqzoRQv2UIU
 [2]: https://fr.wikipedia.org/wiki/Florence_and_the_Machine
+[3]:
+  https://www.setlist.fm/setlist/mgmt/2008/le-bataclan-paris-france-13d6d1e9.html
