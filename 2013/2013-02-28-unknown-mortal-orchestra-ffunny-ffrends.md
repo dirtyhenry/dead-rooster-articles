@@ -13,4 +13,4 @@ C’est quasiment aussi cool que Foxygen avec qui ils partagent une tournée
 américaine actuellement. La chanson date, mais un nouvel album est de sortie.
 Merci une nouvelle fois à [Jagjaguwar][1] !
 
-[1]: http://www.jagjaguwar.com/
+[1]: https://www.jagjaguwar.com/

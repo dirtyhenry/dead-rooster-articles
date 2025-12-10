@@ -26,4 +26,4 @@ Au menu ?
   </object>
 </div>
 
-[1]: http://www.pixiesmusic.com/splash.html
+[1]: https://www.pixiesmusic.com/splash.html

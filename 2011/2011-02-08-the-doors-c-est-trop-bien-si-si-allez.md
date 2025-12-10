@@ -78,7 +78,7 @@ trente secondes environ. Certes, le morceau est un peu répétitif et on s’emm
 un peu sur la fin, mais restons positif : c’est pas un mince exploit de réussir
 à rendre un morceau aussi court aussi pénible ! Chapeau l’artiste.
 
-## L’art du solo qui n'en finit pas
+## L’art du solo qui n’en finit pas
 
 Et puis y’a [_Light My Fire_][2] aussi ! Le morceau est top ! Faut dire qu’il
 est vachement plus ambitieux : presque 7 minutes. OK, c’est vrai que pour rien
@@ -90,7 +90,7 @@ si malin à faire un solo de 4:30 qui soit bien tout du long ! Non, ça, un sol
 de 4:30, c’est vraiment une bonne grosse idée à la con que seul un groupe aussi
 génial que les Doors peut maîtriser.
 
-## La bravoure jusqu'au bout de l'ennui
+## La bravoure jusqu’au bout de l’ennui
 
 Sans oublier le dernier gros tube majeur du groupe [_Riders On The Storm_][3] :
 imparable ! Là encore, on est autour des 7 minutes. Pas un mince exploit ça non
@@ -119,7 +119,7 @@ Et merde, The Doors, c’est vraiment à chier comme groupe !
 
 [^1]: Je [cite le personnage de Lester Bangs][7] dans [_Almost Famous_][8] :
 
-    > The Doors ? Jim Morisson ? He's a drunken buffoon posing as a poet.
+    > The Doors ? Jim Morisson ? He’s a drunken buffoon posing as a poet.
 
 [1]: https://song.link/s/6ToM0uwxtPKo9CMpbPGYvM
 [2]: https://song.link/s/5uvosCdMlFdTXhoazkTI5R

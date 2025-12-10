@@ -19,6 +19,6 @@ mais la voix est toujours là. Régressif mais plaisant.
 Il y a 5 ans, [on écoutait _In The Rain_][i203]. Qu’il est cool ce morceau,
 surtout quand Noel Gallagher est de la partie..
 
-(via [James Skelly & The Intenders](http://jamesskellyandtheintenders.com/))
+(via [James Skelly & The Intenders](https://jamesskellyandtheintenders.com/))
 
 [i203]: https://www.deadrooster.org/the-coral-roots-and-echoes/

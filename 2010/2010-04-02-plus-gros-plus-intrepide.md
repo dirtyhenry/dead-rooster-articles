@@ -24,7 +24,7 @@ merveille.
 
 Comme son nom ne l’indique pas, **Harlem** est un groupe d’Austin, Texas, dont
 plein de titres sont en écoute sur leur MySpace, et qui
-[offrent, via le site The Tripwire, des vidéos](http://www.thetripwire.com/tripwiretv/2010/04/01/bad-hearing-harlems-gay-human-bones/)
+[offrent, via le site The Tripwire, des vidéos](https://www.thetripwire.com/tripwiretv/2010/04/01/bad-hearing-harlems-gay-human-bones/)
 qui nous font attendre avec impatience la sortie de leur album _Hippies_, qui
 sortira la semaine prochaine.
 

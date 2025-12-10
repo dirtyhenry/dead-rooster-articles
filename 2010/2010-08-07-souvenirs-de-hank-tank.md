@@ -59,7 +59,7 @@ Voilà, le brouillon s’arrête là. Tant pis pour Keren Ann.
 Mais le bon côté de la chose, c’est que je me suis souvenu de Hank & Tank.
 Visiblement, le groupe n’a toujours pas explosé et a une présence très
 sporadique sur le net.
-[Un MySpace qui atteint à peine les 7000 visites depuis 2008](http://www.myspace.com/hankntank),
+[Un MySpace qui atteint à peine les 7000 visites depuis 2008](https://www.myspace.com/hankntank),
 un MP3 sur Amazon, strictement rien sur iTunes. Mais malgré tout, une excellente
 vidéo sur YouTube. Considérez vous donc faire partie des happy few. Vous
 connaissez Hank & Tank.

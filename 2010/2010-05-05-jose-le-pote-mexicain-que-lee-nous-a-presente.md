@@ -23,4 +23,4 @@ de l’histoire en 4 minutes et 34 secondes.
 
 {% youtube 8fdXdvyFFEY %}
 
-[1]: http://www.youtube.com/watch?v=yRkovnss7sg
+[1]: https://www.youtube.com/watch?v=yRkovnss7sg

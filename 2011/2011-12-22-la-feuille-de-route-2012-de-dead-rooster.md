@@ -48,12 +48,12 @@ des semaines à venir.
 
 Pour ne rien rater de l’actualité du site, trois moyens sont disponibles :
 
-- s’abonner au [flux RSS du site](http://feeds.feedburner.com/deadroosterorg) :
+- s’abonner au [flux RSS du site](https://feeds.feedburner.com/deadroosterorg) :
   le meilleur moyen d’être informé de tout ce qui est publié sur ce site
-- suivre le [twitter](http://twitter.com/dead__rooster) : c’est là qu’on poste
+- suivre le [twitter](https://twitter.com/dead__rooster) : c’est là qu’on poste
   des liens de trucs sympas à découvrir sur le web, quelques brèves ne pouvant
   faire l’objet d’un post et puis on peut y causer ensemble
-- s’inscrire sur la [page Facebook](http://www.facebook.com/DeadRoosterBlog),
+- s’inscrire sur la [page Facebook](https://www.facebook.com/DeadRoosterBlog),
   sans doute la meilleure option si vous n’êtes pas familier avec les flux RSS
   ou si vous n’avez pas de compte Twitter : toutes les informations relayées par
   ces deux canaux y sont agrégées et là aussi, on peut y causer ensemble !

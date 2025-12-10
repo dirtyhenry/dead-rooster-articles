@@ -8,7 +8,7 @@ date: 2013-04-01 13:34:17 +0200
 ---
 
 Aujourd’hui, _Popscene_ a 21 ans. Et je ne voulais pas manquer de vous montrer
-[le GIF animé](http://officialblur.tumblr.com/post/36888150968) que Blur qui
+[le GIF animé](https://officialblur.tumblr.com/post/36888150968) que Blur qui
 célèbre la chose.
 
 {% youtube XV8CxSO5imQ %}
@@ -16,6 +16,6 @@ célèbre la chose.
 Et n’oubliez pas que Blur tourne cet été et que Blur en concert, [on vous a déjà
 dit que c’est de la balle][i514].
 
-(via [Blur](http://officialblur.tumblr.com))
+(via [Blur](https://officialblur.tumblr.com))
 
 [i514]: https://www.deadrooster.org/hand-in-hand-through-their-hyde-parklife/

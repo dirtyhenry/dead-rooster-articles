@@ -26,7 +26,7 @@ L’originale :
 ## 2. _T’es OK_ d’Ottawan
 
 Le clip de l’originale ne peut pas être embarquée sur le site mais est visible
-(et recommandée) [ici](http://www.youtube.com/watch?v=F-04OM2oUt4).
+(et recommandée) [ici](https://www.youtube.com/watch?v=F-04OM2oUt4).
 
 ## 3. _Salut à toi_ de Bérurier Noir
 

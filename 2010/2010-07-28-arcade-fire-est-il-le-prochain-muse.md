@@ -21,7 +21,7 @@ comments:
     title: Arcade Fire est-il le prochain Muse ?
     content:
       "Indice U2 #2 :
-      [http://www.nme.com/news/arcade-fire/52255](http://www.nme.com/news/arcade-fire/52255)"
+      [http://www.nme.com/news/arcade-fire/52255](https://www.nme.com/news/arcade-fire/52255)"
   - author: Tune
     author_email: ""
     date: 2010-08-08 14:37:02 +0200

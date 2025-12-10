@@ -141,10 +141,10 @@ mal (enfin, pour le fan de base j’imagine !).
 
 Liens :
 
-- [5 titres](http://www.deezer.com/listen-3915256) tirés des 2 premiers albums
+- [5 titres](https://www.deezer.com/listen-3915256) tirés des 2 premiers albums
   (_Miss Understanding_ à écouter en priorité)
-- le [site officiel](http://www.jasonfalkner.net)
-- le [myspace](http://www.myspace.com/jasonfalkner)
+- le [site officiel](https://www.jasonfalkner.net)
+- le [myspace](https://www.myspace.com/jasonfalkner)
 
 [i542]: https://www.deadrooster.org/benjamin-biolay-la-superbe/
 [i557]: https://www.deadrooster.org/good-evening-sir-paulo/

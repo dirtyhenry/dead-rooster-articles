@@ -70,7 +70,7 @@ qui aura connu un relatif succès à sa sortie.
 (je recommande le passage sur la "ego room" à 6:40, sur la vidéo ci-dessus)
 
 Depuis, peu de rediffusion, une VHS publiée mais pas de DVD,
-[les épisodes disponibles sur le site de Channel 4](http://www.channel4.com/programmes/young-persons-guide-to-becoming-a-rock-star/4od)
+[les épisodes disponibles sur le site de Channel 4](https://www.channel4.com/programmes/young-persons-guide-to-becoming-a-rock-star/4od)
 mais en UK uniquement, soit un bien beau gâchis qu’on ne peut pas seulement
 expliquer par l’épouvantable accent écossais qu’on doit subir tout au long de la
 série. Si quelqu’un veut commencer une pétition pour la parution de la série

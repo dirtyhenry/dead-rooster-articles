@@ -1,8 +1,10 @@
 ---
 layout: post
+published: false
 title: Savoir s'arrêter malgré le succès
 authors:
   - Dirty Henry
+category: Le monde va mal
 wordpress_id: 549
 date: "2009-11-21 14:25:17 +0100"
 ---

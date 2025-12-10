@@ -58,7 +58,7 @@ superbement exécuté.
 Bon, c’est pas mal hein. D’ailleurs [tout le monde le dit][i984]. N’empêche que
 c’est trop travaillé, trop laborieux (au sens noble) pour s’y attacher
 complètement. Laurent Voulzy n’y verrait pas
-[un truc qui lui colle encore au coeur et au corps](http://www.youtube.com/watch?v=n9cOf8Qv8ts).
+[un truc qui lui colle encore au coeur et au corps](https://www.youtube.com/watch?v=n9cOf8Qv8ts).
 
 ### Powersolo - _Buzz Human_
 

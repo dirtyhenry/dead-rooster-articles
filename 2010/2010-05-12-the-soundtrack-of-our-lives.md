@@ -91,7 +91,7 @@ Certains droits réservés (licence Creative Commons)</a>
 
 [1]:
   http://www.amazon.fr/H%C3%A9ros-oubli%C3%A9s-rocknroll-Nick-Tosches/dp/2844850464/ref=sr_1_1?ie=UTF8&s=books&qid=1273671158&sr=8-1
-[2]: http://www.deezer.com/listen-2669562
-[3]: http://allmusic.com/cg/amg.dll?p=amg&sql=10:dcfpxql0ldfe
-[4]: http://www.myspace.com/officialtsool
-[5]: http://www.denaflows.com
+[2]: https://www.deezer.com/listen-2669562
+[3]: https://allmusic.com/cg/amg.dll?p=amg&sql=10:dcfpxql0ldfe
+[4]: https://www.myspace.com/officialtsool
+[5]: https://www.denaflows.com

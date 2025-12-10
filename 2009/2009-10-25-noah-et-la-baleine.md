@@ -24,7 +24,7 @@ comments:
     title: Noah et la baleine
     content:
       La trackliste du concert au café de la danse est dispo
-      [ici](http://meinzuhausemeinblog.blogspot.com/2009/09/noah-whale-paris-180909.html)
+      [ici](https://meinzuhausemeinblog.blogspot.com/2009/09/noah-whale-paris-180909.html)
       !
 ---
 
@@ -34,7 +34,7 @@ groupe m’a séduit immédiatement :
 
 - une pochette de disque - leur premier, _Peaceful, The World Lays Me Down_ -
   qui reprend la ligne graphique de
-  [_The Life Aquatic_, le film de Wes Anderson](http://www.youtube.com/watch?v=gbPUiaRnQkU)
+  [_The Life Aquatic_, le film de Wes Anderson](https://www.youtube.com/watch?v=gbPUiaRnQkU)
   (*ndlr* : si vous cliquez sur ce lien, vous aurez, entre autres, _Ceremony_ de
   Joy Division/New Order en fond sonore)
 - un nom qui me rappelle vaguement quelque chose… "Yannick le tennisman ?" Oui
@@ -45,7 +45,7 @@ groupe m’a séduit immédiatement :
 On a donc affaire à des cinéphiles éclairés… Intéressant !
 
 C’est bien joli tout ça mais ce n’est pas suffisant. Sans quoi,
-[The Levinsons in the Trees](http://www.myspace.com/levinsonsinthetrees)
+[The Levinsons in the Trees](https://www.myspace.com/levinsonsinthetrees)
 auraient percé. Donc il faut écouter les chansons et là, nouvelle séduction
 puisque le premier album du groupe contient deux joyaux, _Shape Of My Heart_ et
 _Five Years Time_. Pour la première, sortez guitares et violons, faites
@@ -61,8 +61,8 @@ repoussants" ?
 
 (entracte, profitons-en pour regarder les très marrants clips d’inspiration
 wesandersonienne très marquée des deux joyaux mentionnés en cliquant
-[ici](http://www.youtube.com/watch?v=t7Q2b2uTlHY) puis
-[là](http://www.youtube.com/watch?v=T8YCSJpF4g4) puisque ces blaireaux de Noah
+[ici](https://www.youtube.com/watch?v=t7Q2b2uTlHY) puis
+[là](https://www.youtube.com/watch?v=T8YCSJpF4g4) puisque ces blaireaux de Noah
 and the Whale ont désactivé la version embed de leurs vidéos)
 
 {% asset noah-and-the-whale-flycasse.jpg %}
@@ -86,7 +86,7 @@ des sommets, et le concert se fait rattraper par ces fameux titres "anecdotiques
 mais jamais repoussants" qui deviennent sur scène "anecdotiques et clairement
 soporifiques". On atteint là la limite du groupe. Car bon, l’amour et la rupture
 ont toujours été la base élémentaire des chansons de blues et du rock’n’roll,
-[c’est pas Laurent Voulzy et Véronique Jeannot qui diront le contraire](http://www.youtube.com/watch?v=6LgYEz0Td1k),
+[c’est pas Laurent Voulzy et Véronique Jeannot qui diront le contraire](https://www.youtube.com/watch?v=6LgYEz0Td1k),
 mais dans des limites arithmétiques que je formulerais ainsi : une chanson pour
 la rencontre (mon premier c’est désir), une chanson pour l’amour trop mimi (mon
 deuxième c’est plaisir), une chanson pour la rupture (mon troisième c’est
@@ -98,12 +98,12 @@ comprenne qu’il laisse tomber les filles pendant quelques temps parce que ça 
 pas l’air de lui réussir plus que ça, soit il a trouvé une recette qu’il
 applique méthodiquement mais sans y mettre cœur ou sincérité. Bref, à la sortie
 de salle, et malgré la très chouette première partie de
-[Blue Roses](http://www.myspace.com/musicofblueroses), on ressort de la salle
+[Blue Roses](https://www.myspace.com/musicofblueroses), on ressort de la salle
 complètement endormi et déçu. Pourtant, une idée reste en tête : "il faudra voir
 ce que donnent les titres du 2nd album sur disque"…
 
 (2ème entracte, allez, on peut regarder
-[les concerts à emporter du groupe](http://www.blogotheque.net/Noah-and-the-Whale,4150)
+[les concerts à emporter du groupe](https://www.blogotheque.net/Noah-and-the-Whale,4150)
 pendant ce temps-là)
 
 {% dailymotion x5baf2 %}
@@ -133,6 +133,6 @@ passage sur scène.
 
 En conclusion, la morale de l’histoire est claire : sur scène, maîtriser temps
 forts et temps faibles, maîtriser le rythme !
-[C’est pas Yannick qui dira le contraire](http://www.youtube.com/watch?v=gvjAxFQlv1U).
+[C’est pas Yannick qui dira le contraire](https://www.youtube.com/watch?v=gvjAxFQlv1U).
 
 <div xmlns:cc="http://creativecommons.org/ns#" about="http://www.flickr.com/photos/hanneskoch/3928735406/">Photos : <a rel="cc:attributionURL" href="http://www.flickr.com/photos/hanneskoch/">http://www.flickr.com/photos/hanneskoch/</a> / <a rel="license" href="http://creativecommons.org/licenses/by-nc/2.0/">CC BY-NC 2.0</a></div>

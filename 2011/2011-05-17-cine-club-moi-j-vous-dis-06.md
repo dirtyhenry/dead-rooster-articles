@@ -30,10 +30,9 @@ art) ou juste bons (Guillaume Gallienne), ce film est un des meilleurs films
 français, allez je m’emballe, de la décennie ! D’influence très américaine
 (l’ambiance banlieue et caravane, le côté "Duke" de Canet en barbe/pantalon
 large/chemise ouverte), ce film instaure le concept des jumeaux patineurs/tueurs
-qui aura participé au succès d’un autre chef-d’œuvre de la décennie :
-[_Blades Of Glory_](http://www.youtube.com/watch?v=bCg1HO4UbTA). Auraient-ils
-pompé le truc ? N’ayons pas peur de le dire, _Narco_ est sans doute au cinéma
-absurde ce que _Comme d’habitude_ est à la variétoche.
+qui aura participé au succès d’un autre chef-d’œuvre de la décennie : [_Blades
+Of Glory_][1]. Auraient-ils pompé le truc ? N’ayons pas peur de le dire, _Narco_
+est sans doute au cinéma absurde ce que _Comme d’habitude_ est à la variétoche.
 
 Anecdote marrante, pour les besoins du tournage, un faux mariage avait été
 tourné. En gros, on se prend l’après-midi pour faire comme si c’était un vrai
@@ -64,10 +63,9 @@ que le pauvre vieux, il fait ça en pensant leur faire plaisir.
 Ce film musical a été classé comme "culturally significant" aux États-Unis et
 figure régulièrement dans des listes des meilleurs films de l’histoire,
 notamment par le biais de ses nombreuses chansons, souvent interprétées par Judy
-Garland. Parmi ses titres :
-[_Meet Me in St. Louis_](http://www.youtube.com/watch?v=4JARDvdrAxk), _The
-Trolley Song_, _Have Yourself a Merry Little Christmas_ et
-[une chouette interprétation de _Skip to my Lou_](http://www.youtube.com/watch?v=jSY7jX28P48).
+Garland. Parmi ses titres : [_Meet Me in St. Louis_][2], _The Trolley Song_,
+_Have Yourself a Merry Little Christmas_ et [une chouette interprétation de
+_Skip to my Lou_][3].
 
 Anecdote marrante, Judy Garland épousera Minnelli l’année suivante. Cette union
 donnera naissance à la Liza du même nom.
@@ -143,13 +141,17 @@ Sinon, avec ce film :
 
 - on rigole parce que merde, les Farrelly Bros sont marrants
 - on est content de voir qu’ils ont trouvé en Derek Waters un remplaçant valable
-  [au mec qui fait une tête bizarre quand il boit du pipi](http://www.youtube.com/watch?v=io30s7-5VaQ)
-- on se rend compte que Vanessa Angel a bien vieilli depuis
-  [_Code Lisa_](http://www.youtube.com/watch?v=XaGylF3Oy2E)
+  [au mec qui fait une tête bizarre quand il boit du pipi][4]
+- on se rend compte que Vanessa Angel a bien vieilli depuis [_Code Lisa_][5]
 - on se rend compte qu’Alyssa Milano n’a pas tellement vieilli depuis qu’on la
   voit plus nulle part
-- que [Cap Cod](http://fr.wikipedia.org/wiki/Cap_Cod) ça a l’air chouette comme
-  endroit
+- que [Cap Cod][6] ça a l’air chouette comme endroit
 
 [i554]: https://www.deadrooster.org/cine-club-moi-j-vous-dis-02/
 [i333]: https://www.deadrooster.org/thumbsucker-mike-mills/
+[1]: https://www.youtube.com/watch?v=bCg1HO4UbTA
+[2]: https://www.youtube.com/watch?v=4JARDvdrAxk
+[3]: https://www.youtube.com/watch?v=jSY7jX28P48
+[4]: https://www.youtube.com/watch?v=io30s7-5VaQ
+[5]: https://www.youtube.com/watch?v=XaGylF3Oy2E
+[6]: https://fr.wikipedia.org/wiki/Cap_Cod

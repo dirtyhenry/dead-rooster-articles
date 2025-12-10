@@ -11,4 +11,4 @@ Dans la série des [sites trippants][i1], voilà un joli spécimen :
 de devinettes de tags de photos, d’autres trucs bizarres. Trop bien…
 
 [i1]: https://www.deadrooster.org/plaisirs-clairement-identifies/
-[1]: http://www.cesmes.fi/
+[1]: https://www.cesmes.fi/

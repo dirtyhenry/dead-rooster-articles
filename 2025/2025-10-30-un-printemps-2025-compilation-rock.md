@@ -18,9 +18,9 @@ category: Compile
 ## Tracklist
 
 1. GHOSTWOMAN - _The End of a Gun_
-2. Boo Boos - _C'mon Baby_
+2. Boo Boos - _C’mon Baby_
 3. Food Fight - _Bercow Bell_
-4. Brian D'Addario - _Nothing On My Mind_
+4. Brian D’Addario - _Nothing On My Mind_
 5. Lucky Blondo - _Sur ton visage une larme_
 6. Arcade Fire - _Year of the Snake_
 7. Foxwarren, Andy Shauf, and Darryl Kissick - _Deadhead_
@@ -29,6 +29,6 @@ category: Compile
 10. Pulp - _Spike Island_
 11. The Felice Brothers - _Crime Scene Queen_
 12. His Lordship - _Joyboy_
-13. A. Savage - _I Can't Shake the Stranger Out of You_
+13. A. Savage - _I Can’t Shake the Stranger Out of You_
 14. Kaleidoscope - _The Sky Children_
 15. Vincent Delerm - _Comme si Paris était une fête_

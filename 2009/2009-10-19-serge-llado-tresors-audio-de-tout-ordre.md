@@ -25,4 +25,4 @@ s’en lasse pas :
 </audio>
 
 [1]: https://www.sergellado.com/
-[2]: http://serge.llado.free.fr/
+[2]: https://serge.llado.free.fr/

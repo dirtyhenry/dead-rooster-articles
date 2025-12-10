@@ -54,7 +54,7 @@ passe vraiment un truc avec ce groupe en ce moment et je ne m’attendais vraime
 pas à une telle hystérie, assez inédite depuis l’émergence des premiers groupes
 de la vague rock des années 2000 : Strokes, Libertines et Franz Ferdinand. Avec
 MGMT, le registre musical est clairement différent. Ici on sonne plutôt dans ce
-qu’un hybride contemporain entre Bowie (pour l'excentricité pop) et, disons,
+qu’un hybride contemporain entre Bowie (pour l’excentricité pop) et, disons,
 Supertramp (pour le côté pseudo-prog basé sur le synthé) pourrait faire de
 meilleur.
 

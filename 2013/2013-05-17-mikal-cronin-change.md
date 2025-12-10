@@ -17,4 +17,4 @@ Cronin sera de passage en France en août.
 (via
 [Pitchfork](https://pitchfork.com/news/50748-watch-mikal-cronin-play-an-eerie-house-party-in-the-change-video/)
 et
-[Merge Records](http://www.mergerecords.com/blog/2013/05/mikal-cronin-premieres-new-video-for-change-extends-european-tour/))
+[Merge Records](https://www.mergerecords.com/blog/2013/05/mikal-cronin-premieres-new-video-for-change-extends-european-tour/))

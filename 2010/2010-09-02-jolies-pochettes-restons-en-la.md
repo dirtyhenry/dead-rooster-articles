@@ -20,7 +20,7 @@ décevant vis-à-vis de la pochette.
 {% asset surf-noir-beat-connection.png %}
 
 Beat Connection vient de diffuser un EP gratuit sur bandcamp.
-[A écouter ici](http://beatconnection.bandcamp.com/).
+[A écouter ici](https://beatconnection.bandcamp.com/).
 
 ## Warm Waves
 
@@ -34,4 +34,4 @@ partagent les doutes sur la musique.
 {% asset pony-club-post-romantic.png %}
 
 Découvert via
-[howtodisappear](http://www.howtodisappear.org/2010/07/what-album-cover.html).
+[howtodisappear](https://www.howtodisappear.org/2010/07/what-album-cover.html).
