@@ -9,7 +9,7 @@ category: Le monde va mal
 ---
 
 D’après une journaliste du Nouvel Obs, [le brave Pierrot ne serait qu’un habile
-faussaire et un mythomane de première], ayant menti sur son passé pour
+faussaire et un mythomane de première][1], ayant menti sur son passé pour
 s’introduire dans le cercle des amis de Tonton Georges avant de s’en exclure
 tout seul, une fois le succès arrivé… Le monde va mal !
 
