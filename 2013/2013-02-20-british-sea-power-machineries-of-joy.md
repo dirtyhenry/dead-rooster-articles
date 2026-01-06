@@ -20,7 +20,7 @@ N’hésitez pas à réécouter leur LP précédent, _Valhalla Dancehall_, (et l
 [notre petit commentaire à son sujet][i961]) pendant ce temps-là, ou réécouter
 _Zeus_ [ici][i709].
 
-(via [le site officiel du groupe](http://www.britishseapower.co.uk/))
+(via [le site officiel du groupe](https://www.britishseapower.co.uk/))
 
 [i928]: https://www.deadrooster.org/british-sea-power/
 [i961]: https://www.deadrooster.org/les-disques-de-novembre-2011/

@@ -28,7 +28,7 @@ faut donc féliciter ici, tout comme Chris Milk, le réalisateur du clip.
 
 (via [Stereogum][2])
 
-[1]: http://www.thewildernessdowntown.com
+[1]: https://www.thewildernessdowntown.com
 [2]: https://www.stereogum.com/486932/arcade-fire-we-used-to-wait-video/news/
 [3]: https://album.link/fr/i/1252757950
 [4]: https://song.link/fr/i/1252758323

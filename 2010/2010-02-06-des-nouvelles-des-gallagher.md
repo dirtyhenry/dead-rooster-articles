@@ -3,6 +3,7 @@ layout: post
 title: Des nouvelles des Gallagher
 wordpress_id: 129
 date: "2010-02-06 15:40:16 +0100"
+category: News
 tags:
   - Oasis
 ---

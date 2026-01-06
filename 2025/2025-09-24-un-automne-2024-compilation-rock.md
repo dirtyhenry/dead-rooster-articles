@@ -21,7 +21,7 @@ category: Compile
 1. Dean & Britta & Sonic Boom - _Pretty Paper_
 2. The Dandy Warhols - _Get Off_
 3. Os Noctambulos - _Outsider_
-4. Les Innocents - _J'ai couru_
+4. Les Innocents - _J’ai couru_
 5. Fontaines D.C. - _Favourite_
 6. Mattiel - _Baby Brother_
 7. The Organ - _Brother_
@@ -34,4 +34,4 @@ category: Compile
 14. The Pale Fountains - _Thank You_
 15. Nada Surf - _Moon Mirror_
 16. Spiritualized - _Do It All Over Again_
-17. Petrenko & Berliner Philharmoniker - _Beethoven's 7th Symphony - Allegretto_
+17. Petrenko & Berliner Philharmoniker - _Beethoven’s 7th Symphony - Allegretto_

@@ -7,7 +7,7 @@ wordpress_id: 1237
 date: "2013-05-27 12:00:00 +0200"
 ---
 
-Les [Dodos](http://www.dodosmusic.net/) viennent d’annoncer que leur prochain
+Les [Dodos](https://www.dodosmusic.net/) viennent d’annoncer que leur prochain
 album, Carrier, sortira fin août.
 
 {% soundcloud 91597699 %}

@@ -177,7 +177,7 @@ Réalisée avec Sortmash.
 
 [i944]: https://www.deadrooster.org/real-estate-it-s-real/
 [i829]: https://www.deadrooster.org/the-diy-series-social-square/
-[1]: http://blogs.lesinrocks.com/gimmeindierock/2011/10/06/vote-for-wonderflu/
+[1]: https://blogs.lesinrocks.com/gimmeindierock/2011/10/06/vote-for-wonderflu/
 [2]:
   https://www.dailymotion.com/video/x1ho21
   "Les Petits Rossignolets de la Chanson"

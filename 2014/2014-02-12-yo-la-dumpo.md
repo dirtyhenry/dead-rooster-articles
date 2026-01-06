@@ -70,5 +70,5 @@ Pour résumer, Yo La Tengo et Dump sont souvent excellents dans leurs créations
 personnelles, toujours parfaits au moment de reprendre un prédécesseur. Donc,
 écoutez-les ! Maintenant ! C’est un ordre !
 
-[1]: http://cps-static.rovicorp.com/3/JPG_400/MI0002/327/MI0002327070.jpg
+[1]: https://cps-static.rovicorp.com/3/JPG_400/MI0002/327/MI0002327070.jpg
 [2]: https://www.youtube.com/watch?v=CTKsywYMro8

@@ -19,13 +19,13 @@ _Confidence pour Confidence_, de Jean Schultheis.
 
 L’originale est ici (ne vous fiez pas à la vidéo, c’est moi qui ai la bonne
 orthographe de Schultheis,
-[cf. Wikipedia](http://fr.wikipedia.org/wiki/Jean_Schultheis)) :
+[cf. Wikipedia](https://fr.wikipedia.org/wiki/Jean_Schultheis)) :
 
 {% youtube nqAp8B50CeM %}
 
 A noter que Jean a été l’auteur de nombreux autres tubes imparables, comme le
 prouve
-[cette vidéo pas du tout flippante de _Va te faire voir chez les Grecs_](http://www.dailymotion.com/video/x8t56o_jean-schultheis-va-te-faire-voir-ch_music).
+[cette vidéo pas du tout flippante de _Va te faire voir chez les Grecs_](https://www.dailymotion.com/video/x8t56o_jean-schultheis-va-te-faire-voir-ch_music).
 
 Loïc l’a trouvé en deuz et marque 4 points :
 

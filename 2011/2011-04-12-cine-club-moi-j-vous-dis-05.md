@@ -27,7 +27,7 @@ James ?", "Dis-donc, t’as l’air drôlement classe Rusty James".
 
 Seulement voilà, Motorcycle Boy revient mais les gangs et tout le tintouin,
 c’est plus sa guerre, il préfère penser, se taire, et
-[ratatiner la gueule des autres mecs seulement quand ils sont un peu trop taquins avec son frère](http://www.youtube.com/watch?v=2LZAcnH_29c).
+[ratatiner la gueule des autres mecs seulement quand ils sont un peu trop taquins avec son frère](https://www.youtube.com/watch?v=2LZAcnH_29c).
 
 Le tout est filmé comme si _Nosferatu_ passait sur MTV pour que ça a ait de la
 gueule.
@@ -88,7 +88,7 @@ des films de [Delépine][5] et [Kervern][6]. Malgré quelques lenteurs et quelqu
 malaises dûs aux acteurs (Anna Mouglalis n’est pas au top dans des rôles
 comiques), le film reste très drôle. Benchetrit aime aussi beaucoup citer les
 petits copains et son film est en fait un chouette hommage au cinéma, façon
-[DIY](http://fr.wikipedia.org/wiki/Do_it_yourself).
+[DIY](https://fr.wikipedia.org/wiki/Do_it_yourself).
 
 **<strike>La musique</strike> Le sketch qui va avec**
 

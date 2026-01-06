@@ -18,11 +18,11 @@ tags:
 
 Bientôt [un an après leur reformation pour une courte tournée festivale][i514],
 **Blur** a enregistré un single à l’occasion du
-[Record Store Day](http://www.recordstoreday.com).
+[Record Store Day](https://www.recordstoreday.com).
 
 D’abord destiné à être pressé sur seulement 1000 45 tours, le groupe a
 finalement décidé de diffuser le titre _Fool’s Day_ gratuitement
-[via son site web dans une bonne qualité : MP3 ou WAV, au choix.](http://www.blur.co.uk/)
+[via son site web dans une bonne qualité : MP3 ou WAV, au choix.](https://www.blur.co.uk/)
 
 Comme le site le précise, il s’agit du 1er titre que les 4 membres du groupe ont
 enregistré ensemble depuis 2003, année du très faiblard _Think Tank_. Si nouvel

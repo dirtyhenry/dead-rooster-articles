@@ -79,8 +79,8 @@ pour eux-é-e-s.
 Fin de concert. Fin de ce chemin de poussière. [On ne s’est pas brûlé les
 yeux.][4]
 
-[2]: http://www.youtube.com/watch?v=1XJTxOfQ6ZU#t=0m58s
-[3]: http://www.youtube.com/watch?v=o8Pu08769NQ
+[2]: https://www.youtube.com/watch?v=1XJTxOfQ6ZU#t=0m58s
+[3]: https://www.youtube.com/watch?v=o8Pu08769NQ
 [4]:
   http://www.dailymotion.com/video/x8v3sm_francis-cabrel-les-murs-de-poussier_music
 [1]: https://www.deadrooster.org/the-national-high-violet/

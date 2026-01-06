@@ -10,4 +10,4 @@ date: "2013-01-29 10:00:00 +0100"
 {% youtube 7aXFgnM0KGM %}
 
 À chacun son Hawaï. Le 1er album de
-[Granville](http://granvillegranville.bandcamp.com/) sort le 4 février.
+[Granville](https://granvillegranville.bandcamp.com/) sort le 4 février.

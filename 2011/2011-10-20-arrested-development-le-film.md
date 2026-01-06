@@ -61,7 +61,7 @@ plus personne ne regarde depuis que Kad et Olivier sont partis), et Virgin 17
 des séries injustement méconnues.
 
 L’histoire rebondit ces jours-ci avec
-[la double annonce](http://www.nme.com/filmandtv/news/arrested-development-to-return-for-new-season-and/248042)
+[la double annonce](https://www.nme.com/filmandtv/news/arrested-development-to-return-for-new-season-and/248042)
 déjà mentionnée tout en haut : une nouvelle mini-saison de 10 épisodes va être
 tournée, chacun se focalisant sur un des personnages de la série pour savoir ce
 qu’il est devenu depuis 2006, le tout devant nous amener au film. La saison et

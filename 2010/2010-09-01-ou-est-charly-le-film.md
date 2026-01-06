@@ -17,7 +17,7 @@ tags:
 
 **Miniature Tigers**, un groupe de Phoenix, diffuse le clip de son single
 _Bullfighter Jacket_, version mouvante et animée de
-["Où est Charly ?"](http://fr.wikipedia.org/wiki/O%C3%B9_est_Charlie_%3F).
+["Où est Charly ?"](https://fr.wikipedia.org/wiki/O%C3%B9_est_Charlie_%3F).
 
 {% youtube J6TDP89a_rs %}
 

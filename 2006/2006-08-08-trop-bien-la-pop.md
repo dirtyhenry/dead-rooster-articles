@@ -31,4 +31,4 @@ rock’n’roll, je soumets plusieurs points :
 [1]:
   https://musicbrainz.org/artist/048fad7a-10ba-4f9e-b305-580fb3ce32a4
   "The Thrills"
-[2]: http://mickael.flochlay.free.fr/dsks.html
+[2]: https://mickael.flochlay.free.fr/dsks.html

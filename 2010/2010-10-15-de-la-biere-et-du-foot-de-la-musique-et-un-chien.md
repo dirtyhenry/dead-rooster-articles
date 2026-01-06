@@ -87,7 +87,7 @@ Le foot est toujours source de fun (via Joe Gantdelaine) :
 [4]:
   https://rushmoreacademy.com/2010/10/wes-anderson-and-roman-coppolas-ad-for-stella-artois/
   "Wes Anderson And Roman Coppola’s Ad For Stella Artois"
-[5]: http://www.nukekiller.net/cgi-bin/namer.cgi "1000 random band names"
+[5]: https://www.nukekiller.net/cgi-bin/namer.cgi "1000 random band names"
 [6]: https://www.bandnamemaker.com/generator/ "Band Name Generator"
 [7]:
   http://www.noiseaddicts.com/2009/03/random-band-name-cover-album/

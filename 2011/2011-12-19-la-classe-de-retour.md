@@ -14,5 +14,5 @@ vraisemblablement sans Bézu. Et on est toujours sans nouvelle d’un opus de
 [Cocoricocoboy][3]. Le monde va mal !
 
 [1]: https://fr.wikipedia.org/wiki/La_Classe_(émission_de_télévision)
-[2]: http://tricatel.com/site/tricatel/artist/la-classe/
+[2]: https://tricatel.com/site/tricatel/artist/la-classe/
 [3]: https://fr.wikipedia.org/wiki/Cocoricocoboy

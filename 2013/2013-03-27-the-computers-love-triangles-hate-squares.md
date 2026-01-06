@@ -14,4 +14,4 @@ Cash n’était visiblement pas fait pour vendre des aspirateurs.
 {% youtube 60VZnMME8uk %}
 
 (via [One Little Independent Records](https://www.olirecords.com) et
-[la page Facebook de la planète Mars](http://www.facebook.com/pages/Plan%C3%A8te-Mars/52247846225))
+[la page Facebook de la planète Mars](https://www.facebook.com/pages/Plan%C3%A8te-Mars/52247846225))

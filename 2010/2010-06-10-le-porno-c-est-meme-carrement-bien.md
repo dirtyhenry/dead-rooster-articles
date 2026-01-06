@@ -21,6 +21,6 @@ coréen de ces dernières années et la fin du générique de _Juliette, je t’
 
 {% youtube _KZANuDcRO4 %}
 
-[Photo sous licence Creative Commons Paternité 2.0 Générique par **alterna2**](http://www.flickr.com/photos/alterna2/2086706849/)
+[Photo sous licence Creative Commons Paternité 2.0 Générique par **alterna2**](https://www.flickr.com/photos/alterna2/2086706849/)
 
 [i611]: https://www.deadrooster.org/le-porno-c-est-pas-si-mal-apres-tout/

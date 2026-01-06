@@ -71,7 +71,7 @@ Ce sera rebelote en 2011. Toujours 3 titres, avec les mêmes personnes aux
 manettes, et pour financer le tout ([parce que faire de la musique, ça coûte de
 l’argent][7]), le groupe a eu la bonne idée d’utiliser la plateforme de collecte
 de fonds
-[Kiss Kiss Bank Bank](http://www.kisskissbankbank.com/projects/enregistrement-du-premier-album-de-social-square)
+[Kiss Kiss Bank Bank](https://www.kisskissbankbank.com/projects/enregistrement-du-premier-album-de-social-square)
 où tout le monde pouvait participer à l’effort en contrepartie de lots sympas :
 
 - pour une participation de 5€, un exemplaire signé et numéroté de l’album
@@ -145,8 +145,8 @@ Créateurs amateurs et indépendants, n’hésitez pas à vous manifester !
 [1]: https://fr.wikipedia.org/wiki/Do_it_yourself
 [2]: https://www.basementprod.com/
 [3]: https://www.studiolunarossa.com
-[4]: http://www.master-works.com/
-[5]: http://blogs.lesinrocks.com/gimmeindierock/
+[4]: https://www.master-works.com/
+[5]: https://blogs.lesinrocks.com/gimmeindierock/
 [6]:
   http://blogs.lesinrocks.com/gimmeindierock/2010/09/13/wonderflusocial-square/
 [7]: https://www.youtube.com/watch?v=XKnCGUV8ZZI#t=0m30s

@@ -13,15 +13,15 @@ category: Chanson du jour
 
 {% youtube vZTjKYDscJE %}
 
-Poursuivant mes devoirs après l'excellente (et touchante) [conférence de
-Christophe Brault sur les grandes figures du rock au féminin][1], j'écoutais
-l'album [_Suzi Quatro_][2], quand soudain, _Shakin’ All Over_ apparaît.
+Poursuivant mes devoirs après l’excellente (et touchante) [conférence de
+Christophe Brault sur les grandes figures du rock au féminin][1], j’écoutais
+l’album [_Suzi Quatro_][2], quand soudain, _Shakin’ All Over_ apparaît.
 
-Je connaissais déjà la version Flamin' Groovies, présente sur [la Compile
+Je connaissais déjà la version Flamin’ Groovies, présente sur [la Compile
 Automne 2005][3], et [la page Wikipedia][4] parle de 3 autres reprises dont une
-des Who, mais l'originale est donc de Johnny Kidd et des pirates.
+des Who, mais l’originale est donc de Johnny Kidd et des pirates.
 
-Sorti en 1960, le morceau s'est hissé au sommet des charts britanniques,
+Sorti en 1960, le morceau s’est hissé au sommet des charts britanniques,
 devenant le premier véritable hit rock produit au Royaume-Uni.
 
 [1]:

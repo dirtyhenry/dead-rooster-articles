@@ -18,8 +18,8 @@ comments:
 ---
 
 L’Equipe nous le dit :
-[Shaqiri ira au Bayern](http://www.lequipe.fr/Football/Actualites/Shaqiri-ira-au-bayern/261903).
+[Shaqiri ira au Bayern](https://www.lequipe.fr/Football/Actualites/Shaqiri-ira-au-bayern/261903).
 Non seulement
-[Piqué doit faire la gueule](http://www.staragora.com/news/shakira-et-pique-bientot-maries/437945)
+[Piqué doit faire la gueule](https://www.staragora.com/news/shakira-et-pique-bientot-maries/437945)
 mais, surtout, pas un mot sur les rumeurs qui enverraient Lady Guigui à l’AC
 Milan. Le monde va mal !

@@ -1,19 +1,20 @@
 ---
 layout: post
-title: Le corail ou la chorale ?
+title: The Coral à l’Elysée Montmartre pour Roots And Echoes
 authors:
   - Dirty Henry
 wordpress_id: 203
 date: "2008-02-26 18:26:22 +0100"
-category: Concert
+category: Concert, Review
 tags:
   - Arctic Monkeys
   - The Coral
 cover: the-coral.jpg
 ---
 
-Louis Dumur a déclaré un jour : "Une injustice dont nous profitons s’appelle la
-chance ; une injustice dont un autre profite s’appelle un scandale."
+[Louis Dumur a déclaré un jour][1] : "Une injustice dont nous profitons
+s’appelle la chance ; une injustice dont un autre profite s’appelle un
+scandale."
 
 En lisant cet aphorisme, j’ai réalisé deux choses. Primo, je suis chanceux
 d’avoir les oreilles régulièrement baignées dans les musiques de The Coral.
@@ -25,9 +26,9 @@ instantanée qu’éphémère, The Coral assure pourtant une production soutenue
 puisqu’il a sorti son 5ème opus en autant d’années d’existence sur le marché du
 disque l’été dernier.
 
-_Roots And Echoes_ est passé relativement inaperçu un peu partout. Sorti du top
-50 des albums britanniques en 2 semaines, toujours pas paru aux Etats-Unis, à
-peine soutenu par une tournée nettement moins touffue que les précédentes, il
+[_Roots And Echoes_][2] est passé relativement inaperçu un peu partout. Sorti du
+top 50 des albums britanniques en 2 semaines, toujours pas paru aux Etats-Unis,
+à peine soutenu par une tournée nettement moins touffue que les précédentes, il
 mérite pourtant une oreille attentive puisque le groupe y affiche une parfaite
 maîtrise de songwriting country psychédélique. Les singles _Who’s Gonna Find Me_
 et _Put The Sun Back_ sont des chefs-d’oeuvre qui n’ombragent pourtant pas les
@@ -57,3 +58,7 @@ band des Arctic Monkeys et il envisage désormais de réaliser ses propres films
 
 Allez les p’tits gars, on croit en vous, battez-vous et ne regardez plus dans le
 rétro, ok ?
+
+[1]:
+  https://citations.ouest-france.fr/citation-louis-dumur/injustice-dont-nous-profitons-appelle-28590.html
+[2]: https://album.link/fr/i/260148175

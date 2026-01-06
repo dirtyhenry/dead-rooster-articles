@@ -23,7 +23,7 @@ category: Compile
 5. The Verve - _Lucky Man_
 6. ALVILDA - _Angoisse_
 7. Mel D and Dino Brandão - _We Win_
-8. Gary Glitter - _Rock 'n' Roll (Part 2)_
+8. Gary Glitter - _Rock 'n’ Roll (Part 2)_
 9. Black Country, New Road - _Happy Birthday_
 10. The Mystery Lights - _In The Streets_
 11. La La Land Cast - _Another Day Of Sun_
@@ -31,6 +31,6 @@ category: Compile
 13. Abc 80 - _Pop i radion_
 14. Case Oats - _Bitter Root Lake_
 15. The Roches - _Hammond Song_
-16. Vanilla Fudge - _You Keep Me Hangin' On_
+16. Vanilla Fudge - _You Keep Me Hangin’ On_
 17. Wazoo - _La Vie En Drôle_
 18. Oasis - _Live Forever_

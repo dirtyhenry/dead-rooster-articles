@@ -34,4 +34,4 @@ La version originale est ici :
 {% youtube _nLiQBV6A7c %}
 
 (via
-[A.V. Club](http://www.avclub.com/articles/the-walkmen-cover-holiday-road,48355/))
+[A.V. Club](https://www.avclub.com/articles/the-walkmen-cover-holiday-road,48355/))

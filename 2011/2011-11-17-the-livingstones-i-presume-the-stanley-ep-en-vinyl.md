@@ -42,7 +42,7 @@ raisons :
   s’arranger)
 - même les gens qui n’ont pas de lecteur de disques vinyls devraient être
   intéréssés, grâce à la pochette du disque et cette magnifique photo signée
-  [Cary Ann Wayman](http://www.cariwayman.com/).
+  [Cary Ann Wayman](https://www.cariwayman.com/).
 
 Bien sûr, tous les acheteurs auront le droit immédiatement à la version digitale
 de l’album, ainsi qu’au titre inédit, _I Know You’ll Go_, enregistré en mode

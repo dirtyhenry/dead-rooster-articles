@@ -15,7 +15,7 @@ m’a définitivement convaincu de le featurer. Le [Katerine américain][1] ?
 Et oui, c’est bien lui qui fait un disco duel avec Ben Stiller dans Starsky et
 Hutch.
 
-(via [Cult Records](http://www.cultrecords.com/splash/harmar-byebye17/))
+(via [Cult Records](https://www.cultrecords.com/splash/harmar-byebye17/))
 
 [1]:
   http://www.serialoptimist.com/interviews/an-interview-with-the-amazing-har-mar-superstar-2903.html

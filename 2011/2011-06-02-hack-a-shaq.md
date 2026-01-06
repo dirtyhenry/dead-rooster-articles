@@ -6,6 +6,7 @@ authors:
 wordpress_id: 851
 cover: shaquille-o-neal-grimace.jpg
 date: 2011-06-02 09:20:13 +0200
+category: Le monde va mal
 comments:
   - author: Dirty Henry
     author_email: dirtyhenry@gmail.com
@@ -15,4 +16,7 @@ comments:
 ---
 
 Voilà, triste nouvelle mais Big Shaq Daddy range définitivement ses baskets
-taille 56 et quitte finalement les parquets. Le monde va mal !
+taille 56 et [quitte finalement les parquets][1]. Le monde va mal !
+
+[1]:
+  https://www.basketusa.com/news/69558/officiel-shaquille-oneal-annonce-sa-retraite/

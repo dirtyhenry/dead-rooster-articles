@@ -9,7 +9,7 @@ date: 2012-03-28 13:36:14 +0200
 ---
 
 Le foot, ça devient n’importe quoi : maintenant,
-[y a même des joueurs qui se font exclure _après_ la rencontre](http://www.lequipe.fr/Football/Actualites/5-joueurs-exclus-apres-un-match/273335).
+[y a même des joueurs qui se font exclure _après_ la rencontre](https://www.lequipe.fr/Football/Actualites/5-joueurs-exclus-apres-un-match/273335).
 
 On attend la prochaine étape : "Alors qu’il jouait à la balle avec son fils dans
 le jardin familial, John Adams a vu sortir un arbitre de derrière un fourré et

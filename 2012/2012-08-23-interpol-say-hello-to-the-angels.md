@@ -16,4 +16,4 @@ tags:
 c’est normal.
 
 [1]:
-  https://www.stereogum.com/1129252/turn-on-the-bright-lights-turns-10/reviews/the-anniversary/
+  https://stereogum.com/1129252/turn-on-the-bright-lights-turns-10/reviews/the-anniversary

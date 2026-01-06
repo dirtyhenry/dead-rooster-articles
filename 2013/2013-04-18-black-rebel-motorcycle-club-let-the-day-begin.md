@@ -28,7 +28,7 @@ Feast_ est sorti le mois dernier.
 Il y a 2 ans, on écoutait [_Berlin_][i783]. Auparavant, on écoutait [leur
 reprise de _Dirty Old Town_][i709].
 
-via [leur site officiel](http://blackrebelmotorcycleclub.com/)
+via [leur site officiel](https://blackrebelmotorcycleclub.com/)
 
 [i309]: https://www.deadrooster.org/dig/
 [i783]: https://www.deadrooster.org/black-rebel-motorcycle-club-berlin/

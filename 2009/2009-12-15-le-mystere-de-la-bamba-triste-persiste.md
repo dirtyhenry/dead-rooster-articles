@@ -23,8 +23,8 @@ comments:
 
 </p>
 
-Malgré un [blog dédié](http://bambatriste.blogspot.com/), une
-[page facebook](http://www.facebook.com/topic.php?uid=151942092907&topic=11489)
+Malgré un [blog dédié](https://bambatriste.blogspot.com/), une
+[page facebook](https://www.facebook.com/topic.php?uid=151942092907&topic=11489)
 aussi, on ne sait toujours pas ce que dit Pierre Billon à 1:30. "Publiciste
 oestrogéné" ? "Publiciste trop jeunet" ? "Publicistrange dance" ? "Pubis lisse
 rejeté" ? Le monde va mal !

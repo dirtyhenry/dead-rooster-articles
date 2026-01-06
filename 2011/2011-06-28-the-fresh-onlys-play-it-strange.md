@@ -20,7 +20,7 @@ comments:
     date: 2011-06-28 12:58:05 +0200
     title: The Fresh & Onlys - Play It Strange
     content:
-      "Je me permets d'ajouter ce [lien](http://www.deadrooster.org/Primavera),
+      "Je me permets d'ajouter ce [lien](https://www.deadrooster.org/Primavera),
       qui résume approximativement tout ce qu'on a vu.\r\nBien cordialement, ton
       ami Gantdelaine."
 ---

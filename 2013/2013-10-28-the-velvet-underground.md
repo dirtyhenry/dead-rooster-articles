@@ -22,7 +22,7 @@ composition où l’interprète joue en silence pendant, donc, 4 minutes 33.
 
 C’est aussi Moe Trucker, la batteuse, qui fit parler d’elle par son jeu
 métronomique d’abord et plus récemment, par ces
-[convictions politiques](http://bigbrowser.blog.lemonde.fr/2010/10/04/douche-froide-maureen-tucker-des-velvet-underground-activiste-des-tea-party-guardian/),
+[convictions politiques](https://bigbrowser.blog.lemonde.fr/2010/10/04/douche-froide-maureen-tucker-des-velvet-underground-activiste-des-tea-party-guardian/),
 très ancrées dans le social, l’altermondialisme, etc. Une hippie devant
 l’éternel en sorte.
 

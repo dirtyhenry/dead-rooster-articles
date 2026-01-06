@@ -8,7 +8,7 @@ date: 2013-03-01 10:41:49 +0100
 ---
 
 Le 3ème LP de Young Man, _Beyond Was All Around Me_, sort le 9 avril chez
-[French Kiss](http://www.frenchkissrecords.com/).
+[French Kiss](https://www.frenchkissrecords.com/).
 
 {% spotify_track 0JaKU3pTJgACwYK5v0HED1 %}
 
