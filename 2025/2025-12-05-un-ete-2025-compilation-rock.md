@@ -34,3 +34,8 @@ category: Compile
 16. Vanilla Fudge - _You Keep Me Hangin’ On_
 17. Wazoo - _La Vie En Drôle_
 18. Oasis - _Live Forever_
+
+[← Un Printemps 2025][1] / [→ Un Automne 2025][2]
+
+[1]: https://www.deadrooster.org/un-printemps-2025-compilation-rock/
+[2]: https://www.deadrooster.org/un-automne-2025-compilation-rock/
