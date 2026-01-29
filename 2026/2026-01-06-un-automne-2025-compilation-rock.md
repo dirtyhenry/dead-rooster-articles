@@ -18,8 +18,8 @@ category: Compile
 ## Tracklist
 
 1. Fleetwood Mac - _Never Going Back Again_
-2. Ron Gallo - _Young Lady, You're Scaring Me_
-3. The Concretes - _You Can't Hurry Love_
+2. Ron Gallo - _Young Lady, You’re Scaring Me_
+3. The Concretes - _You Can’t Hurry Love_
 4. Giant Sand - _Forever and a Day_
 5. Echobelly - _Car Fiction_
 6. Astral Bakers - _A Dog in a Manger_
