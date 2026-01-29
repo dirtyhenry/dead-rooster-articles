@@ -13,7 +13,7 @@ categories:
   - Review
 tags:
   - MGMT
-  - Florence + the Machine
+  - Florence + The Machine
 revisions:
   "2008-06-03": "Version initiale"
   "2025-11-21": "Révision du texte après réécoute"
