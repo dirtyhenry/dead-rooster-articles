@@ -20,6 +20,8 @@ revisions:
   "2026-04-01": "Révision"
 ---
 
+_Post vintage de mai 2011._
+
 **Yann Tiersen**, ça commence à être un vieux de la vieille. Il fait des disque
 depuis déjà un bon bout de temps avec au passage quelques succès un rien
 empoisonnés comme [la B.O. d’Amélie Poulain][5] qui commence à lui sortir par
