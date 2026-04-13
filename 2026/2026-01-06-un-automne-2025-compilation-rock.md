@@ -37,7 +37,7 @@ category: Compile
 18. El Goodo - _What Went Wrong_
 19. Dana Gavanski - _My Oh My_
 
-[← Un Été 2025][7] / → Un Hiver 2026 (_bientôt_)
+[← Un Été 2025][7] / [→ Un Hiver 2026][8]
 
 ## À Propos
 
