@@ -25,7 +25,7 @@ _Post vintage de mai 2011._
 **Yann Tiersen**, ça commence à être un vieux de la vieille. Il fait des disque
 depuis déjà un bon bout de temps avec au passage quelques succès un rien
 empoisonnés comme [la B.O. d’Amélie Poulain][5] qui commence à lui sortir par
-les trous de nez. A cause de ce succès inattendu, Yann Tiersen s’est créé en
+les trous de nez. À cause de ce succès inattendu, Yann Tiersen s’est créé en
 France une base de fans un peu chiants. Du coup, il s’est mis à penser que la
 France était un pays de blaireaux et a commencé à regarder davantage à
 l’étranger : pour trouver un nouveau label, pour tourner, pour un peu tout.
@@ -33,13 +33,13 @@ L’été dernier, il présentait _Dust Lane_ à la Route du Rock ([on y était 
 avait aimé][1]). Depuis, _Dust Lane_ est sorti en disque et il était de passage
 à la Carène, à Brest, il y a deux semaines.
 
-## Dust Lane : un album charnière dans la discographie de Yann Tiersen
+## *Dust Lane* : un album charnière dans la discographie de Yann Tiersen
 
 _Dust Lane_ est différent du reste de la discographie de Tiersen. Sa musique y
 est plus directe, pas aussi froidement élégante que jadis. Sans renier son passé
 discographique, il est probable qu’Arcade Fire (_Ashes_), Lady & Bird (_Chapter
-19_) voire les Strokes ([le riff de _Palestine_ ressemble vaguement à celui de
-_Ize Of The World_ non ?][2]) soient passés par sa platine. Le paradoxe des huit
+19_) voire les Strokes (le riff de _Palestine_ ressemble vaguement à celui de
+_Ize Of The World_ non ?) soient passés par sa platine. Le paradoxe des huit
 titres du disque est d’avoir un côté davantage "chanson" que d’habitude tout en
 étant tous assez longs (pas un morceau sous les 4:30), à contenir de longs
 passages instrumentaux richement orchestrés qui nous emportent dans des
@@ -90,10 +90,13 @@ pour eux-é-e-s.
 Fin de concert. Fin de ce chemin de poussière. [On ne s’est pas brûlé les
 yeux.][4]
 
-[2]: https://www.youtube.com/watch?v=1XJTxOfQ6ZU#t=0m58s
-[3]: https://www.youtube.com/watch?v=o8Pu08769NQ
-[4]: https://www.youtube.com/watch?v=Q0q3E8QeihE
 [1]: https://www.deadrooster.org/the-national-high-violet/
+[3]:
+  https://www.youtube.com/watch?v=c9qfHe7Fy0c
+  "Le Loir-et-Cher, de Michel Delpech"
+[4]:
+  https://www.youtube.com/watch?v=Q0q3E8QeihE
+  "Les murs de poussière, de Francis Cabrel"
 [i747]: https://www.deadrooster.org/top-musique-2010/
 [i789]: https://www.deadrooster.org/qui-es-tu-nolwenn-leroy/
 [5]:

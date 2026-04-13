@@ -75,3 +75,4 @@ plaisir, à écouter attentivement.
 [5]: https://album.link/fr/i/1820264137
 [6]: https://album.link/fr/i/1842897453
 [7]: https://www.deadrooster.org/un-ete-2025-compilation-rock/
+[8]: https://www.deadrooster.org/un-hiver-2026-compilation-rock/
