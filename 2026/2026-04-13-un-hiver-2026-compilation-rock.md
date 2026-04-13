@@ -38,6 +38,4 @@ category: Compile
 
 [← Un Automne 2025][1] / → Un Printemps 2026 (_bientôt_)
 
-## À Propos
-
 [1]: https://www.deadrooster.org/un-automne-2025-compilation-rock/
