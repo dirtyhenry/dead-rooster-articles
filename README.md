@@ -1,6 +1,14 @@
 # 🐔 Dead Rooster: the articles
 
-[![GitHub Super-Linter][1]][2]
+```markdown
+> [!IMPORTANT] 🇫🇷 Ce dépôt est archivé et deviendra bientôt privé — sa
+> maintenance continue dans un monorepo privé. **[deadrooster.org][3] reste en
+> ligne** : continuez à nous lire sur le site et via le [flux RSS][7].
+>
+> 🇬🇧 This repository is archived and will soon become private — maintenance
+> continues in a private monorepo. **[deadrooster.org][3] is still online**:
+> keep reading us on the site and via the [RSS feed][7].
+```
 
 This repository contains the articles of [deadrooster.org][3].
 
@@ -24,7 +32,6 @@ succès :
 ## Follow
 
 - Follow us: [RSS Feed][7]
-- Talk to us: [GitHub Discussions][8]
 
 [1]:
   https://github.com/dirtyhenry/dead-rooster-articles/workflows/Lint/badge.svg
@@ -35,4 +42,3 @@ succès :
   https://www.deadrooster.org/category/encyclopedie-approximative-du-rock-and-roll/
 [6]: https://www.deadrooster.org/category/le-monde-va-mal/
 [7]: https://www.deadrooster.org/feed.xml
-[8]: https://github.com/dirtyhenry/dead-rooster-articles/discussions
