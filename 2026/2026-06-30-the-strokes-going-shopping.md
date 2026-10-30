@@ -54,5 +54,5 @@ P.S. : en bonus, le live de _Falling Out of Love_ chez Colbert.
   https://pitchfork.com/news/nick-valensi-drops-out-of-upcoming-strokes-tour/
   "The Strokes’ Nick Valensi Drops Out of Upcoming Tour"
 [2]:
-  https://pitchfork.com/news/the-strokes-close-coachella-set-with-video-denouncing-us-foreign-intervention/
-  "The Strokes Close Coachella Set With Video Denouncing U.S. Foreign Intervention"
+  https://www.youtube.com/watch?v=x_b-mp10TVI
+  "Brut : Coachella, le groupe The Strokes dénonce notamment la politique étrangère des États-Unis et d’Israël"
